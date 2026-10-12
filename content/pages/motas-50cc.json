@@ -1,0 +1,86 @@
+{
+  "url": "/tipos-de-motas/motas-50cc/",
+  "template": "page",
+  "parent": "tipos-de-motas",
+  "child": "motas-50cc",
+  "navLabel": "Motas de 50 cc",
+  "title": "Aluguer de motas de 50 cc em Hanói | Preço e regras",
+  "description": "Aluguer de motas e scooters de 50 cc em Hanói: preço de referência por dia, para quem fazem sentido, limites de velocidade e regras a confirmar.",
+  "h1": "Motas de 50 cc em Hanói: quando fazem sentido",
+  "primaryKeyword": "aluguer de motas de 50 cc em hanói",
+  "eyebrow": "Tipos de motas · 50 cc",
+  "lead": "Leves e pouco potentes, as motas de 50 cc servem para trajetos curtos. Veja o preço de referência, as limitações e as regras que deve confirmar antes de conduzir.",
+  "updated": "2026-10-12",
+  "toc": true,
+  "answer": "O aluguer de uma mota ou scooter de 50 cc custa {{price.cc50.day}} por dia na tabela de referência da loja; semanas e meses são cotados caso a caso. É uma opção para trajetos curtos e velocidades baixas. A lei vietnamita trata estes veículos de forma própria, mas não assuma que dispensam documentos: confirme os requisitos antes de conduzir.",
+  "sections": [
+    {
+      "h2": "O que é uma mota de 50 cc no Vietname",
+      "body": [
+        "Na lei vietnamita da ordem e segurança do trânsito rodoviário (Lei n.º 36/2024/QH15), os veículos de duas ou três rodas com motor até 50 cm³ — ou motor elétrico até 4 kW — e velocidade de projeto não superior a 50 km/h formam uma categoria própria, chamada «xe gắn máy». As motas acima desse limite são «xe mô tô».",
+        "A distinção tem consequências práticas: a idade mínima para conduzir um veículo até 50 cm³ é de 16 anos, enquanto as cartas de motociclo (A1 e A) só são emitidas a partir dos 18 anos."
+      ]
+    },
+    {
+      "h2": "Preço de referência",
+      "body": [
+        {
+          "component": "model-cards",
+          "category": "motas-50cc"
+        },
+        "Para períodos de uma semana ou mais, peça um orçamento com as datas exatas. Não calcule o valor multiplicando o preço diário: a loja confirma o total para o período pedido."
+      ]
+    },
+    {
+      "h2": "Para quem faz sentido",
+      "body": [
+        "Uma 50 cc pode ser adequada para:",
+        {
+          "ul": [
+            "deslocações curtas dentro de um bairro ou entre bairros próximos;",
+            "quem prefere um veículo leve e uma condução calma;",
+            "percursos sem passageiro e sem bagagem pesada."
+          ]
+        },
+        "Para trajetos longos, avenidas rápidas, subidas ou viagens com passageiro, uma scooter de maior cilindrada é normalmente mais segura, porque permite acompanhar o ritmo do trânsito."
+      ]
+    },
+    {
+      "h2": "Limitações a ter em conta",
+      "body": [
+        {
+          "checklist": [
+            "**Velocidade**: a velocidade de projeto não ultrapassa 50 km/h, o que pode ser pouco em vias com trânsito rápido.",
+            "**Carga**: com passageiro ou bagagem, a aceleração e a capacidade de subida diminuem.",
+            "**Distância**: não é um veículo pensado para viagens longas fora de Hanói.",
+            "**Autoestradas**: nenhuma mota pode circular nas autoestradas vietnamitas (cao tốc), seja qual for a cilindrada."
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "Documentos e regras: não presuma",
+      "body": [
+        "É comum ler que «não é preciso carta para uma 50 cc». Não use essa frase como regra: os requisitos dependem do veículo, da idade e da sua situação como visitante, e a lei pode mudar. Antes de conduzir, confirme as regras em fontes oficiais e verifique se o seu seguro de viagem cobre a condução deste tipo de veículo.",
+        "Há obrigações que se aplicam sempre: capacete apertado para quem conduz e para o passageiro, zero álcool e respeito pelas regras de trânsito. Leia também [Documentação e caução](/guia-de-aluguer/documentacao-e-caucao/)."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Quanto custa alugar uma 50 cc por semana?",
+      "a": "Não há uma tarifa semanal publicada para as motas de 50 cc. Peça à loja um orçamento para as suas datas pelo {{phone}}."
+    },
+    {
+      "q": "Uma 50 cc serve para ir até à baía de Ha Long?",
+      "a": "Não é recomendável. A viagem é longa, a velocidade de projeto de uma 50 cc é limitada e as motas não podem usar as autoestradas. Para viagens fora de Hanói, fale primeiro com a loja e considere outro meio de transporte."
+    }
+  ],
+  "sources": [
+    "luatvietnam-16-anos",
+    "lei-36-2024-a1",
+    "lawnet-categorias-2025",
+    "dtinews-autoestrada-2026",
+    "lawnet-capacete-168"
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "url": "/precos/",
+  "template": "hub",
+  "parent": "precos-e-condicoes",
+  "navLabel": "Preços",
+  "title": "Preços de aluguer de motas em Hanói | Dia, semana e mês",
+  "description": "Preços de referência para alugar mota em Hanói por dia, semana e mês: Honda Wave, Vision, Air Blade, 50 cc e elétricas. Saiba o que não está incluído.",
+  "h1": "Preços de aluguer de motas em Hanói",
+  "primaryKeyword": "preços de aluguer de motas em hanói",
+  "eyebrow": "Preços e condições",
+  "lead": "A tabela de referência da loja, por modelo e por período. Use-a para comparar e peça sempre a confirmação do valor final para as suas datas.",
+  "updated": "2026-10-12",
+  "toc": true,
+  "answer": "Na tabela de referência da loja, alugar uma mota em Hanói custa entre {{price.min.day}} e {{price.max.day}} por dia. A semana vai de {{price.wave.week}} a {{price.vision.week}} e o mês de {{price.wave.month}} a {{price.vision.month}}, conforme o modelo. A caução, a entrega e os extras não estão incluídos e são confirmados pela loja.",
+  "sections": [
+    {
+      "h2": "Tabela de preços de referência",
+      "body": [
+        {
+          "component": "price-table"
+        }
+      ]
+    },
+    {
+      "h2": "Como ler a tabela",
+      "body": [
+        {
+          "h3": "Dia, semana e mês são tarifas diferentes"
+        },
+        "A tarifa semanal e a mensal não são o preço diário multiplicado. Uma Honda Wave, por exemplo, tem uma referência de {{price.wave.day}} por dia e de {{price.wave.week}} por semana. Se vai ficar vários dias, peça o valor para o período completo.",
+        {
+          "h3": "Intervalos no aluguer mensal"
+        },
+        "Alguns modelos têm um intervalo no preço mensal (por exemplo, {{price.vision.month}} para a Honda Vision). O valor exato depende da unidade e das condições do aluguer e é confirmado pela loja.",
+        {
+          "h3": "Quando a tabela diz «sob consulta»"
+        },
+        "«Sob consulta» significa que não existe um preço publicado para esse período ou veículo — é o caso das semanas e meses das motas de 50 cc e da bicicleta elétrica. Peça um orçamento com as datas."
+      ]
+    },
+    {
+      "h2": "O que não está incluído no preço de referência",
+      "body": [
+        "A tabela mostra apenas o preço de aluguer do veículo. Os pontos seguintes não constam da tabela e devem ser esclarecidos antes de fechar o aluguer:",
+        {
+          "checklist": [
+            "**Caução**: se existe no seu caso, o montante, a forma e as condições de devolução.",
+            "**Entrega e recolha**: se é possível no seu alojamento e qual o custo.",
+            "**Combustível ou carga**: com que nível recebe a mota e com que nível a deve devolver.",
+            "**Acessórios**: capacetes, suporte de telemóvel ou capa de chuva, se precisar.",
+            "**Prolongamento**: como funciona se quiser ficar com a mota mais tempo."
+          ]
+        },
+        "Peça que a resposta fique por escrito — uma mensagem no Zalo é suficiente — para poder comparar e evitar dúvidas no fim do aluguer."
+      ]
+    },
+    {
+      "h2": "Como pedir um orçamento",
+      "body": [
+        "Para receber um preço final rápido e completo, envie à loja:",
+        {
+          "ol": [
+            "as datas e as horas de levantamento e de devolução;",
+            "o modelo ou o tipo de mota que prefere, e uma alternativa;",
+            "o número de condutores e se leva passageiro;",
+            "se precisa de entrega ou recolha, e onde;",
+            "se tenciona sair de Hanói durante o aluguer."
+          ]
+        },
+        "Contacte a loja pelo telefone ou Zalo {{phone}}, {{hours}}."
+      ]
+    },
+    {
+      "h2": "Pagamento",
+      "body": [
+        "A forma de pagamento aceite e o momento em que é feito são indicados pela loja quando confirma o aluguer. Peça recibo do aluguer e, se houver caução, um comprovativo do montante entregue."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Qual é a mota mais barata para alugar em Hanói?",
+      "a": "As opções com o preço de referência mais baixo são a Honda Wave, a Yamaha Sirius, a Honda Click e a Yamaha Mio: {{price.wave.day}} por dia e {{price.wave.week}} por semana."
+    },
+    {
+      "q": "Compensa alugar por semana em vez de por dia?",
+      "a": "Se precisa da mota durante vários dias, compare. Na Honda Vision, por exemplo, a referência é de {{price.vision.day}} por dia e de {{price.vision.week}} por semana — peça à loja o valor exato para o seu período."
+    },
+    {
+      "q": "Os preços estão em euros?",
+      "a": "Não. Os preços estão em dong vietnamita (VND). Para ter uma ideia em euros, use a taxa de câmbio do dia; o valor a pagar é o confirmado pela loja."
+    }
+  ],
+  "sources": [
+    "tabela-precos-proprietario"
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "url": "/tipos-de-motas/",
+  "template": "hub",
+  "parent": "tipos-de-motas",
+  "schemaType": "CollectionPage",
+  "navLabel": "Tipos de motas",
+  "title": "Tipos de motas para alugar em Hanói | Guia de escolha",
+  "description": "Scooter automática, semiautomática, 50 cc ou elétrica? Compare os tipos de motas para alugar em Hanói, para quem serve cada um e o que deve confirmar.",
+  "h1": "Que tipo de mota alugar em Hanói?",
+  "primaryKeyword": "tipos de motas para alugar em hanói",
+  "eyebrow": "Tipos de motas",
+  "lead": "Quatro famílias de veículos, quatro formas de circular. Compare a condução, o preço de referência e os cuidados de cada uma antes de escolher.",
+  "updated": "2026-10-12",
+  "toc": true,
+  "answer": "Para a maioria das deslocações urbanas, uma **scooter automática** (como a Honda Vision) é a escolha mais simples. A **semiautomática** (Honda Wave) é mais económica, mas tem mudanças. Uma **50 cc** só faz sentido para trajetos curtos e lentos, e uma **elétrica** obriga a planear o carregamento.",
+  "sections": [
+    {
+      "h2": "Comparação rápida",
+      "body": [
+        {
+          "table": {
+            "caption": "Diferenças entre os tipos de motas disponíveis",
+            "head": [
+              "Tipo",
+              "Como se conduz",
+              "Indicada para",
+              "Confirme antes"
+            ],
+            "rows": [
+              [
+                "Scooter automática",
+                "Sem mudanças: acelerador e travões",
+                "Cidade e quem tem pouca experiência com mudanças",
+                "Cilindrada da unidade e categoria da carta"
+              ],
+              [
+                "Semiautomática",
+                "Mudanças de pé, sem manete de embraiagem",
+                "Quem já conduziu motas e quer poupar",
+                "À-vontade com as mudanças no trânsito"
+              ],
+              [
+                "50 cc",
+                "Pouca potência e velocidade limitada",
+                "Trajetos curtos e velocidades baixas",
+                "Regras aplicáveis e limites de carga"
+              ],
+              [
+                "Elétrica",
+                "Sem mudanças, arranque silencioso",
+                "Deslocações urbanas planeadas",
+                "Autonomia real e onde carregar"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "h2": "Scooters automáticas",
+      "id": "scooters",
+      "body": [
+        "A scooter automática é o veículo mais procurado por quem visita Hanói: não tem mudanças, tem espaço de arrumação debaixo do assento e é fácil de manobrar a baixa velocidade. Na loja estão disponíveis a Honda Vision, a Honda Air Blade, a Honda Click e a Yamaha Mio, com preços de referência entre {{price.click.day}} e {{price.vision.day}} por dia.",
+        "A Vision é leve e compacta; a Air Blade é maior e mais potente. A diferença conta para a carta: desde 2025, a categoria A1 vietnamita abrange motociclos até 125 cm³, e a Air Blade é vendida no Vietname em versões de 125 cm³ e de 160 cm³ — pergunte qual é a unidade disponível.",
+        "[Ver o guia de scooters automáticas](/tipos-de-motas/scooters/)"
+      ]
+    },
+    {
+      "h2": "Motas semiautomáticas",
+      "id": "semiautomaticas",
+      "body": [
+        "A Honda Wave e a Yamaha Sirius são motas semiautomáticas: têm mudanças, que se engrenam com o pé, mas não têm manete de embraiagem. São robustas, económicas e muito comuns no Vietname, com um preço de referência de {{price.wave.day}} por dia, {{price.wave.week}} por semana e {{price.wave.month}} por mês.",
+        "Compensam a quem já tem alguma experiência de condução e procura o aluguer mais barato, sobretudo em períodos longos. Se nunca conduziu uma mota com mudanças, o trânsito de Hanói não é o lugar para aprender: treine primeiro num local tranquilo ou escolha uma scooter."
+      ]
+    },
+    {
+      "h2": "Motas de 50 cc",
+      "id": "motas-50cc",
+      "body": [
+        "Os veículos até 50 cm³ têm pouca potência e uma velocidade de projeto limitada a 50 km/h, o que os torna adequados apenas para trajetos curtos. O preço de referência é de {{price.cc50.day}} por dia; semanas e meses são cotados caso a caso.",
+        "A lei vietnamita trata estes veículos de forma diferente das motas maiores, mas isso não significa que dispensem documentos. [Leia o guia de motas de 50 cc](/tipos-de-motas/motas-50cc/) antes de decidir."
+      ]
+    },
+    {
+      "h2": "Motas e bicicletas elétricas",
+      "id": "eletricas",
+      "body": [
+        "A mota elétrica não usa combustível e é silenciosa, mas a autonomia depende da bateria, do peso transportado e do percurso. O preço de referência é de {{price.eletrica.day}} por dia, {{price.eletrica.week}} por semana e {{price.eletrica.month}} por mês. A bicicleta elétrica é cotada sob consulta.",
+        "Antes de alugar um veículo elétrico, pergunte qual é a autonomia real da unidade, como e onde a pode carregar e quanto tempo demora uma carga completa. Também na bicicleta elétrica o capacete é obrigatório no Vietname."
+      ]
+    },
+    {
+      "h2": "Como escolher",
+      "body": [
+        "A mota certa depende menos do modelo e mais do seu perfil e do percurso. Responda a estas perguntas antes de contactar a loja:",
+        {
+          "ol": [
+            "Tem carta de condução válida para a categoria do veículo e a documentação exigida a visitantes?",
+            "Já conduziu uma mota com mudanças? Se não, prefira uma scooter automática.",
+            "Vai circular sozinho ou com passageiro e bagagem?",
+            "Vai ficar dentro da cidade ou fazer trajetos mais longos?",
+            "Durante quantos dias precisa da mota? A partir de uma semana, compare as [tarifas semanais e mensais](/precos/)."
+          ]
+        },
+        "Com estas respostas, a loja consegue indicar a unidade mais adequada e confirmar o preço final para as suas datas."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Qual é a mota mais fácil de conduzir em Hanói?",
+      "a": "Para a maioria das pessoas, uma scooter automática como a Honda Vision: não tem mudanças e é leve a baixa velocidade. Mesmo assim, o trânsito de Hanói exige experiência; se nunca conduziu uma mota, considere outras opções de transporte."
+    },
+    {
+      "q": "Qual é o tipo de mota mais barato?",
+      "a": "Na tabela de referência, as opções mais baratas custam {{price.wave.day}} por dia: as semiautomáticas Honda Wave e Yamaha Sirius e as scooters Honda Click e Yamaha Mio."
+    }
+  ],
+  "sources": [
+    "lei-36-2024-a1",
+    "lawnet-categorias-2025",
+    "chotot-air-blade-125-160",
+    "luatvietnam-16-anos",
+    "lawnet-capacete-168"
+  ]
+}

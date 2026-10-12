@@ -1,0 +1,284 @@
+{
+  "$comment": "Taxonomia única: 5 categorias-pai, 20 categorias-filho, 300 artigos-alvo. `url` do pai = hub; `pillarUrl` = página que concentra a autoridade do tema; `archiveUrl` = arquivo do filho, só publicado (e indexável) quando tiver pelo menos `settings.childArchiveMinArticles` artigos. Uma categoria sem página publicada aparece como “Em breve”, sem ligação.",
+  "settings": {
+    "childArchiveMinArticles": 5,
+    "parentHubMinArticlesToIndex": 3,
+    "articlesPerArchivePage": 60
+  },
+  "parents": [
+    {
+      "id": "tipos-de-motas",
+      "label": "Tipos de motas",
+      "url": "/tipos-de-motas/",
+      "basePage": true,
+      "target": 65,
+      "summary": "Scooters, semiautomáticas, 50 cc e elétricas: diferenças, modelos e para quem serve cada uma.",
+      "children": [
+        {
+          "id": "scooters-automaticas",
+          "label": "Scooters automáticas",
+          "target": 25,
+          "pillarUrl": "/tipos-de-motas/scooters/",
+          "archiveUrl": "/tipos-de-motas/scooters/",
+          "archiveIsBasePage": true,
+          "summary": "Honda Vision, Air Blade, Click e Yamaha Mio: escolha, preços e utilização.",
+          "intro": "Guias sobre scooters automáticas para alugar em Hanói: como comparar modelos, o que muda entre uma Vision e uma Air Blade e que cuidados ter no trânsito da cidade."
+        },
+        {
+          "id": "motas-semiautomaticas",
+          "label": "Motas semiautomáticas",
+          "target": 15,
+          "pillarUrl": "/tipos-de-motas/",
+          "archiveUrl": "/tipos-de-motas/semiautomaticas/",
+          "summary": "Honda Wave e Yamaha Sirius: mudanças sem embraiagem manual e utilização diária.",
+          "intro": "Tudo sobre motas semiautomáticas como a Honda Wave e a Yamaha Sirius: como se engrenam as mudanças, para que percursos compensam e o que verificar antes de alugar.",
+          "seoTitle": "Motas semiautomáticas em Hanói: Honda Wave e Yamaha Sirius",
+          "seoDescription": "Guias sobre motas semiautomáticas para alugar em Hanói: como funcionam as mudanças, Honda Wave e Yamaha Sirius, preços de referência e cuidados."
+        },
+        {
+          "id": "motas-50cc",
+          "label": "Motas de 50 cc",
+          "target": 15,
+          "pillarUrl": "/tipos-de-motas/motas-50cc/",
+          "archiveUrl": "/tipos-de-motas/motas-50cc/",
+          "archiveIsBasePage": true,
+          "summary": "Veículos até 50 cm³: limites, regras a confirmar e quando fazem sentido.",
+          "intro": "Artigos sobre motas e scooters de 50 cc em Hanói: limites de velocidade e de carga, regras que deve confirmar e situações em que uma 50 cc é — ou não é — a melhor escolha."
+        },
+        {
+          "id": "motas-eletricas",
+          "label": "Motas elétricas",
+          "target": 10,
+          "pillarUrl": "/tipos-de-motas/",
+          "archiveUrl": "/tipos-de-motas/eletricas/",
+          "summary": "Motas e bicicletas elétricas: autonomia, carregamento e regras de utilização.",
+          "intro": "Guias sobre motas e bicicletas elétricas para alugar em Hanói: autonomia real, carregamento, utilização à chuva e diferenças face a uma scooter a gasolina.",
+          "seoTitle": "Motas e bicicletas elétricas em Hanói: guias de aluguer",
+          "seoDescription": "Autonomia, carregamento, regras e preços de referência para alugar uma mota ou bicicleta elétrica em Hanói, com o que confirmar antes de sair."
+        }
+      ]
+    },
+    {
+      "id": "precos-e-condicoes",
+      "label": "Preços e condições",
+      "url": "/precos/",
+      "basePage": true,
+      "target": 60,
+      "summary": "Preços por dia, semana e mês, caução, pagamentos, entrega e comparações.",
+      "children": [
+        {
+          "id": "aluguer-por-duracao",
+          "label": "Aluguer por duração",
+          "target": 20,
+          "pillarUrl": "/precos/",
+          "archiveUrl": "/precos/aluguer-por-duracao/",
+          "summary": "Aluguer diário, semanal, mensal e de longa duração.",
+          "intro": "Como escolher a duração do aluguer em Hanói: quando compensa a tarifa semanal ou mensal, como prolongar o aluguer e o que confirmar para estadias longas.",
+          "seoTitle": "Aluguer de mota por dia, semana ou mês em Hanói",
+          "seoDescription": "Como escolher a duração do aluguer de mota em Hanói: tarifas por dia, semana e mês, prolongamentos e estadias longas, com preços de referência."
+        },
+        {
+          "id": "caucoes-e-pagamentos",
+          "label": "Cauções e pagamentos",
+          "target": 15,
+          "pillarUrl": "/guia-de-aluguer/documentacao-e-caucao/",
+          "archiveUrl": "/precos/caucoes-e-pagamentos/",
+          "summary": "Como funciona a caução, devolução e formas de pagamento.",
+          "intro": "Artigos sobre caução e pagamentos no aluguer de motas: como funciona a garantia, que recibos pedir, como decorre a devolução e que perguntas fazer antes de pagar.",
+          "seoTitle": "Caução e pagamentos no aluguer de motas em Hanói",
+          "seoDescription": "Guias sobre caução e pagamentos no aluguer de motas em Hanói: como funciona a garantia, recibos, devolução e formas de pagamento a confirmar."
+        },
+        {
+          "id": "entrega-e-custos-adicionais",
+          "label": "Entrega e custos adicionais",
+          "target": 15,
+          "pillarUrl": "/precos/",
+          "archiveUrl": "/precos/entrega-e-custos-adicionais/",
+          "summary": "Entrega, recolha, combustível e extras a confirmar.",
+          "intro": "O que pode acrescer ao preço de referência: entrega e recolha, combustível, acessórios e outros custos que deve confirmar por escrito antes de alugar.",
+          "seoTitle": "Entrega e custos extra no aluguer de motas em Hanói",
+          "seoDescription": "O que pode acrescer ao preço de referência de uma mota alugada em Hanói: entrega, combustível, acessórios, estacionamento e outros custos."
+        },
+        {
+          "id": "comparacoes-de-precos",
+          "label": "Comparações de preços",
+          "target": 10,
+          "pillarUrl": "/precos/",
+          "archiveUrl": "/precos/comparacoes-de-precos/",
+          "summary": "Mota alugada vs. outras opções e comparação entre modelos.",
+          "intro": "Comparações de custo para decidir com números: modelos entre si, duração do aluguer e mota alugada face a outros meios de transporte em Hanói.",
+          "seoTitle": "Comparações de preço: mota alugada e alternativas em Hanói",
+          "seoDescription": "Comparações de custo para decidir com números: modelos de mota entre si, duração do aluguer e mota alugada face a táxi, Grab, metro ou autocarro."
+        }
+      ]
+    },
+    {
+      "id": "guia-de-aluguer",
+      "label": "Guia de aluguer",
+      "url": "/guia-de-aluguer/",
+      "basePage": true,
+      "target": 90,
+      "summary": "Processo, documentos, inspeção, segurança, condução e devolução.",
+      "children": [
+        {
+          "id": "processo-e-documentacao",
+          "label": "Processo e documentação",
+          "target": 25,
+          "pillarUrl": "/guia-de-aluguer/documentacao-e-caucao/",
+          "archiveUrl": "/guia-de-aluguer/processo-e-documentacao/",
+          "summary": "Reserva, contrato, carta de condução e documentos do veículo.",
+          "intro": "Guias sobre o processo de aluguer e a documentação: como pedir orçamento, o que deve constar do acordo, que carta de condução é exigida e que documentos acompanham a mota.",
+          "seoTitle": "Processo de aluguer e documentos para conduzir em Hanói",
+          "seoDescription": "Guias sobre o processo de aluguer de motas em Hanói: orçamento, acordo, carta de condução, licença internacional e documentos do veículo."
+        },
+        {
+          "id": "inspecao-e-seguranca",
+          "label": "Inspeção e segurança",
+          "target": 25,
+          "pillarUrl": "/guia-de-aluguer/",
+          "archiveUrl": "/guia-de-aluguer/inspecao-e-seguranca/",
+          "summary": "Verificação da mota, capacete, equipamento e prevenção.",
+          "intro": "Como inspecionar uma mota alugada e circular com mais segurança: travões, pneus, luzes, capacete, equipamento e hábitos que reduzem o risco no trânsito de Hanói.",
+          "seoTitle": "Inspeção e segurança da mota alugada em Hanói",
+          "seoDescription": "Como inspecionar uma mota alugada e circular com mais segurança em Hanói: travões, pneus, capacete, regras de trânsito e prevenção de riscos."
+        },
+        {
+          "id": "conducao-e-utilizacao-diaria",
+          "label": "Condução e utilização diária",
+          "target": 20,
+          "pillarUrl": "/guia-de-aluguer/",
+          "archiveUrl": "/guia-de-aluguer/conducao-e-utilizacao-diaria/",
+          "summary": "Trânsito, estacionamento, combustível e rotina diária.",
+          "intro": "Artigos práticos para o dia a dia com uma mota alugada: regras de trânsito, estacionamento, abastecimento, navegação e utilização segura na cidade.",
+          "seoTitle": "Conduzir em Hanói no dia a dia: trânsito e estacionamento",
+          "seoDescription": "Guias práticos para conduzir uma mota em Hanói: trânsito, cruzamentos, estacionamento, abastecimento, sinais e hábitos que evitam multas."
+        },
+        {
+          "id": "entrega-devolucao-e-incidentes",
+          "label": "Entrega, devolução e incidentes",
+          "target": 20,
+          "pillarUrl": "/guia-de-aluguer/",
+          "archiveUrl": "/guia-de-aluguer/entrega-devolucao-e-incidentes/",
+          "summary": "Receber e devolver a mota, avarias, furos e acidentes.",
+          "intro": "O que fazer ao receber e devolver a mota e como agir perante uma avaria, um furo, uma multa ou um acidente durante o aluguer.",
+          "seoTitle": "Entrega, devolução e incidentes com mota alugada",
+          "seoDescription": "O que fazer ao receber e devolver uma mota alugada em Hanói e como agir perante um furo, uma avaria, um furto ou um acidente durante o aluguer."
+        }
+      ]
+    },
+    {
+      "id": "zonas-de-hanoi",
+      "label": "Zonas de Hanói",
+      "url": "/zonas-de-hanoi/",
+      "basePage": false,
+      "target": 45,
+      "summary": "Bairro Antigo, Long Biên, Tây Hồ, Ba Đình, estações e pontos de interesse.",
+      "intro": "Informação útil por zona de Hanói para quem se desloca de mota: acessos, estacionamento, ruas com restrições e pontos de referência. Cada guia responde a uma pergunta concreta sobre a zona, sem páginas repetidas por bairro.",
+      "children": [
+        {
+          "id": "bairro-antigo-e-hoan-kiem",
+          "label": "Bairro Antigo e Hoàn Kiếm",
+          "target": 15,
+          "pillarUrl": "/zonas-de-hanoi/",
+          "archiveUrl": "/zonas-de-hanoi/bairro-antigo-e-hoan-kiem/",
+          "summary": "Ruas estreitas, zonas pedonais e estacionamento no centro histórico.",
+          "intro": "Guias para circular e estacionar de mota no Bairro Antigo e à volta do lago Hoàn Kiếm: zonas pedonais, horários com restrições e alternativas a pé.",
+          "seoTitle": "Bairro Antigo e Hoàn Kiếm de mota: circular e estacionar",
+          "seoDescription": "Guias para circular e estacionar de mota no Bairro Antigo e à volta do lago Hoàn Kiếm: zonas pedonais, restrições, horários e alternativas."
+        },
+        {
+          "id": "long-bien-e-gia-lam",
+          "label": "Long Biên e Gia Lâm",
+          "target": 12,
+          "pillarUrl": "/zonas-de-hanoi/",
+          "archiveUrl": "/zonas-de-hanoi/long-bien-e-gia-lam/",
+          "summary": "A zona da loja, as pontes sobre o rio Vermelho e a margem leste.",
+          "intro": "Artigos sobre Long Biên e Gia Lâm, na margem leste do rio Vermelho, onde fica a loja: pontes, acessos ao centro, percursos e serviços úteis na zona.",
+          "seoTitle": "Long Biên e Gia Lâm de mota: pontes, acessos e serviços",
+          "seoDescription": "Long Biên e Gia Lâm, na margem leste do rio Vermelho, onde fica a loja: pontes, acessos ao centro, percursos e serviços úteis para quem aluga mota."
+        },
+        {
+          "id": "tay-ho-e-ba-dinh",
+          "label": "Tây Hồ e Ba Đình",
+          "target": 10,
+          "pillarUrl": "/zonas-de-hanoi/",
+          "archiveUrl": "/zonas-de-hanoi/tay-ho-e-ba-dinh/",
+          "summary": "Lago Oeste, zona diplomática e avenidas largas.",
+          "intro": "Guias sobre Tây Hồ e Ba Đình: circuitos à volta do Lago Oeste, regras perto de zonas oficiais e conselhos para quem fica alojado nestas zonas.",
+          "seoTitle": "Tây Hồ e Ba Đình de mota: Lago Oeste e zonas oficiais",
+          "seoDescription": "Guias de mota para Tây Hồ e Ba Đình: volta ao Lago Oeste, regras junto a zonas oficiais, estacionamento e conselhos para quem fica alojado."
+        },
+        {
+          "id": "estacoes-e-pontos-de-interesse",
+          "label": "Estações e pontos de interesse",
+          "target": 8,
+          "pillarUrl": "/zonas-de-hanoi/",
+          "archiveUrl": "/zonas-de-hanoi/estacoes-e-pontos-de-interesse/",
+          "summary": "Aeroporto, estações e locais muito procurados.",
+          "intro": "Como chegar de mota — ou quando não compensar — a estações, ao aeroporto e a pontos de interesse muito procurados em Hanói.",
+          "seoTitle": "Estações e pontos de interesse de Hanói: ir de mota?",
+          "seoDescription": "Como chegar de mota a estações, ao aeroporto e a pontos de interesse de Hanói, onde estacionar e quando é melhor optar por outro transporte."
+        }
+      ],
+      "seoTitle": "Zonas de Hanói de mota: acessos, estacionamento e regras",
+      "seoDescription": "Guias por zona de Hanói para quem se desloca de mota: Bairro Antigo, Long Biên, Tây Hồ, Ba Đình, estações e pontos de interesse, com regras e estacionamento."
+    },
+    {
+      "id": "rotas-e-mobilidade",
+      "label": "Rotas e mobilidade",
+      "url": "/rotas-e-mobilidade/",
+      "basePage": false,
+      "target": 40,
+      "summary": "Itinerários, clima, alternativas de transporte e viagens fora de Hanói.",
+      "intro": "Planeamento de percursos e de mobilidade em Hanói e arredores: itinerários urbanos, efeito do clima em cada época do ano, alternativas à mota e viagens para fora da cidade.",
+      "children": [
+        {
+          "id": "itinerarios-urbanos",
+          "label": "Itinerários urbanos",
+          "target": 15,
+          "pillarUrl": "/rotas-e-mobilidade/",
+          "archiveUrl": "/rotas-e-mobilidade/itinerarios-urbanos/",
+          "summary": "Percursos de um dia e circuitos pela cidade.",
+          "intro": "Itinerários urbanos para fazer de mota em Hanói, com ordem de visita, estacionamento e alternativas quando o trânsito ou o tempo não ajudam.",
+          "seoTitle": "Itinerários de mota em Hanói: percursos e paragens",
+          "seoDescription": "Itinerários urbanos para fazer de mota em Hanói, com ordem de visita, estacionamento em cada paragem e alternativas quando o tempo não ajuda."
+        },
+        {
+          "id": "clima-e-epocas-do-ano",
+          "label": "Clima e épocas do ano",
+          "target": 10,
+          "pillarUrl": "/rotas-e-mobilidade/",
+          "archiveUrl": "/rotas-e-mobilidade/clima-e-epocas-do-ano/",
+          "summary": "Chuva, calor, frio húmido e feriados.",
+          "intro": "Como o clima e o calendário de Hanói afetam a condução: época das chuvas, calor, inverno húmido, nevoeiro e feriados com trânsito diferente.",
+          "seoTitle": "Clima de Hanói e condução de mota em cada época do ano",
+          "seoDescription": "Como a chuva, o calor, o inverno húmido e os feriados afetam a condução de mota em Hanói, com dados oficiais e conselhos de preparação."
+        },
+        {
+          "id": "alternativas-de-transporte",
+          "label": "Alternativas de transporte",
+          "target": 10,
+          "pillarUrl": "/rotas-e-mobilidade/",
+          "archiveUrl": "/rotas-e-mobilidade/alternativas-de-transporte/",
+          "summary": "Quando é melhor não conduzir e que opções existem.",
+          "intro": "Quando faz sentido não conduzir: metro, autocarro, táxi, mota com condutor e outras opções para se deslocar em Hanói com segurança.",
+          "seoTitle": "Alternativas à mota em Hanói: metro, autocarro e táxi",
+          "seoDescription": "Quando faz sentido não conduzir em Hanói e que alternativas existem: metro, autocarros, táxis, mota com condutor e bicicleta partilhada."
+        },
+        {
+          "id": "viagens-fora-de-hanoi",
+          "label": "Viagens fora de Hanói",
+          "target": 5,
+          "pillarUrl": "/rotas-e-mobilidade/",
+          "archiveUrl": "/rotas-e-mobilidade/viagens-fora-de-hanoi/",
+          "summary": "Preparar uma saída de mota para fora da cidade.",
+          "intro": "O que confirmar antes de levar uma mota alugada para fora de Hanói: autorização da loja, estado do veículo, estradas proibidas a motas e planeamento realista.",
+          "seoTitle": "Viagens de mota fora de Hanói: o que preparar",
+          "seoDescription": "O que confirmar antes de levar uma mota alugada para fora de Hanói: autorização da loja, estado do veículo, estradas permitidas e planeamento."
+        }
+      ],
+      "seoTitle": "Rotas e mobilidade em Hanói: itinerários, clima e alternativas",
+      "seoDescription": "Itinerários de mota em Hanói, efeito do clima em cada época do ano, alternativas de transporte e o que preparar antes de sair da cidade."
+    }
+  ]
+}

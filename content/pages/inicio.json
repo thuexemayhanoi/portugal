@@ -1,0 +1,189 @@
+{
+  "url": "/",
+  "template": "home",
+  "title": "Aluguer de motas em Hanói | Scooters, 50 cc e preços",
+  "description": "Alugue uma mota em Hanói na Nguyễn Tú, em Long Biên: scooters automáticas, semiautomáticas, 50 cc e elétricas. Preços de referência e guias em português.",
+  "h1": "Aluguer de motas em Hanói, com condições claras",
+  "primaryKeyword": "aluguer de motas em hanói",
+  "lead": "Scooters automáticas, motas semiautomáticas, modelos de 50 cc e elétricos na loja Nguyễn Tú, em Long Biên. Veja os preços de referência, prepare os documentos e confirme cada detalhe antes de arrancar.",
+  "updated": "2026-10-12",
+  "hero": {
+    "eyebrow": "Aluguer de motas · Hanói",
+    "actions": [
+      {
+        "label": "Ver preços",
+        "url": "/precos/",
+        "style": "primary",
+        "icon": "wallet"
+      },
+      {
+        "label": "Como alugar",
+        "url": "/guia-de-aluguer/",
+        "style": "glass",
+        "icon": "route"
+      }
+    ],
+    "facts": [
+      {
+        "icon": "clock",
+        "text": "{{hours}}"
+      },
+      {
+        "icon": "pin",
+        "text": "{{street}}, Long Biên"
+      },
+      {
+        "icon": "wallet",
+        "text": "Desde {{price.min.day}} por dia"
+      },
+      {
+        "icon": "phone",
+        "text": "Telefone e Zalo: {{phone.local}}"
+      }
+    ],
+    "panelTitle": "Preço por dia · referência",
+    "panelModels": [
+      "wave",
+      "click",
+      "vision",
+      "airblade",
+      "cc50"
+    ],
+    "panelLink": "Tabela por dia, semana e mês"
+  },
+  "sections": [
+    {
+      "id": "tipos",
+      "eyebrow": "A frota",
+      "h2": "Escolha o tipo de mota para o seu percurso",
+      "intro": "Cada tipo de veículo responde a uma necessidade diferente. Compare antes de decidir e pergunte pela unidade disponível nas suas datas.",
+      "body": [
+        {
+          "component": "service-cards"
+        }
+      ],
+      "link": {
+        "label": "Comparar tipos de motas",
+        "url": "/tipos-de-motas/"
+      }
+    },
+    {
+      "id": "precos-referencia",
+      "alt": true,
+      "eyebrow": "Preços",
+      "h2": "Preços de referência por dia, semana e mês",
+      "intro": "Valores da tabela da loja, verificada a {{pricing.verifiedAt}}. Servem para comparar; o preço final é confirmado no momento do aluguer.",
+      "body": [
+        {
+          "component": "price-table"
+        }
+      ],
+      "link": {
+        "label": "O que está e o que não está incluído no preço",
+        "url": "/precos/"
+      }
+    },
+    {
+      "id": "como-funciona",
+      "eyebrow": "Processo",
+      "h2": "Como funciona o aluguer, em quatro passos",
+      "body": [
+        {
+          "steps": [
+            {
+              "title": "Contacte a loja",
+              "text": "Ligue ou escreva no Zalo para o {{phone}} com as datas, o modelo e o número de pessoas."
+            },
+            {
+              "title": "Confirme as condições",
+              "text": "Preço final, caução, documentos e, se precisar, entrega ou recolha — tudo antes de se deslocar."
+            },
+            {
+              "title": "Inspecione e assine",
+              "text": "Verifique travões, pneus, luzes e capacete e fotografe o estado da mota ao recebê-la."
+            },
+            {
+              "title": "Conduza e devolva",
+              "text": "Cumpra as regras de trânsito e devolva a mota na data, hora e local combinados."
+            }
+          ]
+        }
+      ],
+      "link": {
+        "label": "Ler o guia completo de aluguer",
+        "url": "/guia-de-aluguer/"
+      }
+    },
+    {
+      "id": "antes-de-alugar",
+      "alt": true,
+      "eyebrow": "Sem surpresas",
+      "h2": "O que confirmar antes de alugar",
+      "intro": "Estas condições variam de caso para caso. Não as damos por garantidas: confirme-as com a loja e guarde a resposta por escrito.",
+      "body": [
+        {
+          "checklist": [
+            "**Carta de condução** válida para a categoria da mota e, sendo visitante, a licença internacional reconhecida no Vietname.",
+            "**Caução**: se existe no seu caso, o montante, a forma e quando é devolvida.",
+            "**Entrega e recolha** no alojamento: se é possível e se tem custo.",
+            "**Capacete** para quem conduz e para o passageiro — é obrigatório no Vietname.",
+            "**Documentos da mota** que seguem consigo e o que fazer em caso de avaria."
+          ]
+        }
+      ],
+      "link": {
+        "label": "Documentação e caução em detalhe",
+        "url": "/guia-de-aluguer/documentacao-e-caucao/"
+      }
+    },
+    {
+      "id": "perguntas",
+      "eyebrow": "Dúvidas frequentes",
+      "h2": "Respostas rápidas",
+      "narrow": true,
+      "body": [
+        {
+          "component": "faq",
+          "ids": [
+            "preco-dia",
+            "caucao",
+            "carta",
+            "entrega",
+            "capacete"
+          ]
+        }
+      ],
+      "link": {
+        "label": "Ver todas as perguntas frequentes",
+        "url": "/perguntas-frequentes/"
+      }
+    },
+    {
+      "id": "onde-estamos",
+      "alt": true,
+      "eyebrow": "Contactos",
+      "h2": "Onde estamos e como falar connosco",
+      "intro": "A loja fica em Long Biên, na margem leste do rio Vermelho, a poucos quilómetros do Bairro Antigo.",
+      "narrow": true,
+      "body": [
+        {
+          "component": "contact-card"
+        }
+      ]
+    },
+    {
+      "id": "sobre-este-site",
+      "eyebrow": "Sobre este site",
+      "h2": "Informação em português, com fontes",
+      "narrow": true,
+      "body": [
+        "Este site reúne, em português de Portugal, a informação prática sobre o aluguer de motas na loja {{name}} e sobre a condução em Hanói. Os preços vêm da tabela da loja; as regras legais são acompanhadas da fonte e da data de consulta.",
+        "Nada aqui substitui a confirmação direta: a disponibilidade, o preço final, a caução e os documentos são sempre acordados com a loja antes do aluguer."
+      ],
+      "link": {
+        "label": "Conhecer a loja",
+        "url": "/sobre-nos/"
+      }
+    }
+  ]
+}

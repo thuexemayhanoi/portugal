@@ -1,0 +1,94 @@
+{
+  "url": "/guia-de-aluguer/",
+  "template": "hub",
+  "parent": "guia-de-aluguer",
+  "schemaType": "CollectionPage",
+  "navLabel": "Guia de aluguer",
+  "title": "Como alugar uma mota em Hanói | Guia passo a passo",
+  "description": "Guia prático para alugar uma mota em Hanói: escolher o modelo, confirmar preço e caução, preparar documentos, inspecionar a mota e devolvê-la sem surpresas.",
+  "h1": "Como alugar uma mota em Hanói, passo a passo",
+  "primaryKeyword": "como alugar uma mota em hanói",
+  "eyebrow": "Guia de aluguer",
+  "lead": "Do primeiro contacto à devolução, os passos que evitam surpresas — e as regras de trânsito que não pode ignorar.",
+  "updated": "2026-10-12",
+  "toc": true,
+  "answer": [
+    "Confirme que tem carta válida para a categoria da mota e a licença internacional exigida a visitantes.",
+    "Escolha o tipo de mota e peça um orçamento com as datas.",
+    "Confirme a caução, os documentos e a entrega antes de se deslocar.",
+    "Inspecione e fotografe a mota ao recebê-la.",
+    "Conduza com capacete, sem álcool, e devolva no prazo combinado."
+  ],
+  "sections": [
+    {
+      "h2": "1. Avalie se deve conduzir",
+      "body": [
+        "Antes de escolher a mota, seja honesto consigo: o trânsito de Hanói é denso, com motas a circular muito próximas, cruzamentos movimentados e regras que nem sempre são cumpridas por todos. Se nunca conduziu uma mota, não é aqui que deve aprender.",
+        "Verifique também a parte legal. Precisa de uma habilitação válida para a categoria do veículo e, sendo visitante, da documentação reconhecida no Vietname. Sem isso, além do risco de multa, o seu seguro de viagem pode não cobrir um acidente."
+      ]
+    },
+    {
+      "h2": "2. Escolha o tipo de mota",
+      "body": [
+        "Uma scooter automática é a opção mais simples para a cidade; uma semiautomática é mais económica, mas tem mudanças; uma 50 cc serve apenas para trajetos curtos; uma elétrica obriga a planear o carregamento. Compare-as em [Tipos de motas](/tipos-de-motas/)."
+      ]
+    },
+    {
+      "h2": "3. Peça um orçamento com as datas",
+      "body": [
+        "Contacte a loja pelo telefone ou Zalo {{phone}} com as datas e as horas de levantamento e de devolução, o modelo preferido e o número de pessoas. Consulte antes a [tabela de preços](/precos/) para conhecer o valor de referência."
+      ]
+    },
+    {
+      "h2": "4. Confirme documentos, caução e entrega",
+      "body": [
+        "Estes três pontos variam de caso para caso e não devem ser presumidos. Pergunte que documentos são pedidos para o aluguer, se há caução e em que condições é devolvida, e se a entrega no alojamento é possível e com que custo. Guarde a resposta por escrito.",
+        "Explicamos estes temas em detalhe em [Documentação e caução](/guia-de-aluguer/documentacao-e-caucao/)."
+      ]
+    },
+    {
+      "h2": "5. Inspecione a mota ao recebê-la",
+      "body": [
+        {
+          "checklist": [
+            "Travões firmes nas duas rodas.",
+            "Pneus sem cortes e com piso.",
+            "Luzes, piscas e buzina a funcionar.",
+            "Espelhos fixos e ajustados.",
+            "Capacete do tamanho certo para quem conduz e para o passageiro.",
+            "Fotografias da mota (de todos os lados), do painel e do nível de combustível ou de carga."
+          ]
+        },
+        "Confirme também onde estão os documentos do veículo e para que número deve ligar em caso de avaria."
+      ]
+    },
+    {
+      "h2": "6. Conduza com prudência",
+      "body": [
+        "Três regras não admitem exceções no Vietname: capacete apertado para quem conduz e para o passageiro, zero álcool e nunca entrar numa autoestrada (cao tốc), onde as motas são proibidas. A coima por não usar capacete é de 400.000 a 600.000 VND.",
+        "Comece por percursos curtos e conhecidos, evite as horas de ponta nos primeiros dias e não use o telemóvel enquanto conduz — a lei proíbe-o. Se chover com intensidade, pare num local seguro e espere.",
+        {
+          "note": "Hanói está a introduzir uma zona de baixas emissões, com uma primeira fase em Hoàn Kiếm desde julho de 2026 e regras para motas a gasolina que foram revistas mais de uma vez. Antes de circular no centro histórico, confirme as zonas e os horários em vigor.",
+          "title": "Centro histórico: regras em mudança"
+        }
+      ]
+    },
+    {
+      "h2": "7. Devolva e feche o acordo",
+      "body": [
+        "Devolva a mota na data, à hora e no local combinados, com o nível de combustível ou de carga acordado. Peça uma verificação conjunta do estado da mota e, se houver caução, a sua devolução nos termos combinados. Se precisar de prolongar o aluguer, avise a loja com antecedência."
+      ]
+    }
+  ],
+  "sources": [
+    "lei-36-2024-artigo-56",
+    "lei-36-2024-a1",
+    "lawnet-capacete-168",
+    "lawnet-proibicoes-2024",
+    "tuoitre-alcool-zero",
+    "dtinews-autoestrada-2026",
+    "mfat-conduzir-vietname",
+    "vietnamnet-zbe-piloto",
+    "vietnamnet-zbe-revisao"
+  ]
+}

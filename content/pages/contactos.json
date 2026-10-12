@@ -1,0 +1,51 @@
+{
+  "url": "/contactos/",
+  "template": "contact",
+  "schemaType": "ContactPage",
+  "navLabel": "Contactos",
+  "title": "Contactos | Nguyễn Tú, aluguer de motas em Hanói",
+  "description": "Contacte a Nguyễn Tú por telefone ou Zalo: {{phone}}. Loja em {{street}}, Long Biên, Hanói, aberta {{hours}}.",
+  "h1": "Contactos",
+  "primaryKeyword": "contactos aluguer de motas hanói",
+  "eyebrow": "Fale connosco",
+  "lead": "Telefone ou Zalo, {{hours}}. Confirme a disponibilidade e as condições antes de se deslocar à loja.",
+  "updated": "2026-10-12",
+  "cardNote": "Não há reservas nem pagamentos através deste site: tudo é confirmado diretamente com a loja.",
+  "sections": [
+    {
+      "h2": "O que indicar no primeiro contacto",
+      "body": [
+        "Uma mensagem completa permite à loja responder logo com a disponibilidade e o preço final. Indique:",
+        {
+          "checklist": [
+            "as datas e as horas de levantamento e de devolução;",
+            "o modelo ou o tipo de mota que prefere;",
+            "o número de condutores e de passageiros;",
+            "se precisa de entrega ou recolha, e em que morada;",
+            "se pretende sair de Hanói durante o aluguer."
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "Telefone e Zalo",
+      "body": [
+        "O número {{phone}} (em formato local, {{phone.local}}) serve para chamadas e para o Zalo, a aplicação de mensagens mais usada no Vietname. Se ligar de um número estrangeiro, marque o indicativo +84.",
+        "Por mensagem, pode enviar logo as datas e o modelo pretendido; assim fica com a resposta por escrito."
+      ]
+    },
+    {
+      "h2": "Como chegar",
+      "body": [
+        "A loja fica em {{address}}, na zona de Long Biên, na margem leste do rio Vermelho. Abra a [localização no Google Maps]({{maps}}) para ver o percurso a partir do seu alojamento.",
+        "Se for de táxi ou de mota com condutor, mostre a morada escrita em vietnamita: **{{address}}**."
+      ]
+    },
+    {
+      "h2": "Horário",
+      "body": [
+        "A loja está aberta {{hours}}. Para levantar ou devolver a mota fora deste horário, combine antes com a loja: qualquer exceção depende de confirmação."
+      ]
+    }
+  ]
+}
