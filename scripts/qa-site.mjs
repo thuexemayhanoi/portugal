@@ -197,7 +197,49 @@ try {
 
 const cname = fs.readFileSync(rel('CNAME'), 'utf8').trim();
 if (cname !== 'pt.rentbikehanoi.com') err('CNAME', `must be pt.rentbikehanoi.com (found "${cname}")`);
-if (!fs.existsSync(rel('_config.yml'))) warn('_config.yml', 'missing: source folders would be published by GitHub Pages');
+
+// GitHub Pages runs Jekyll on this branch. Jekyll matches `exclude` entries by prefix (the entry
+// "site" also hides "sitemap.xml"), so every public file must pass the same filter unless it is
+// listed in `include`, and every source folder must be filtered out.
+function jekyllLists(text) {
+  const lists = { exclude: [], include: [] };
+  const unquote = (s) => s.trim().replace(/^["']|["']$/g, '');
+  let key = null;
+  for (const line of text.split('\n')) {
+    const top = /^([A-Za-z_]+):\s*(.*)$/.exec(line);
+    if (top) {
+      key = top[1] in lists ? top[1] : null;
+      const inline = /^\[(.*)\]/.exec(top[2]);
+      if (key && inline) lists[key].push(...inline[1].split(',').map(unquote).filter(Boolean));
+      continue;
+    }
+    const item = /^\s+-\s+([^#]+)/.exec(line);
+    if (key && item) lists[key].push(unquote(item[1]));
+  }
+  return lists;
+}
+const globRe = (g) => new RegExp('^' + g.replace(/[.+^${}()|[\]\\]/g, '\\$&').replace(/\*/g, '.*').replace(/\?/g, '.') + '$');
+const jekyllMatches = (patterns, file) => patterns.some((p) => file.startsWith(p) || globRe(p).test(file));
+if (!fs.existsSync(rel('_config.yml'))) err('_config.yml', 'missing: GitHub Pages would publish the source folders');
+else {
+  const jekyll = jekyllLists(fs.readFileSync(rel('_config.yml'), 'utf8'));
+  const hidden = (f) => jekyllMatches(jekyll.exclude, f) && !jekyllMatches(jekyll.include, f);
+  const assetFiles = [];
+  const walkAssets = (dir) => {
+    for (const e of fs.readdirSync(rel(dir), { withFileTypes: true })) {
+      if (e.isDirectory()) walkAssets(`${dir}/${e.name}`);
+      else assetFiles.push(`${dir}/${e.name}`);
+    }
+  };
+  walkAssets('assets');
+  for (const f of ['CNAME', 'robots.txt', 'sitemap.xml', 'llms.txt', ...htmlFiles(), ...assetFiles]) {
+    if (hidden(f)) err('_config.yml', `GitHub Pages would not publish ${f}: an "exclude" entry matches it (Jekyll matches by prefix); add it to "include" or rename the entry`);
+  }
+  const privateEntries = [...SOURCE_DIRS].filter((d) => !/^[._]/.test(d) && d !== 'node_modules' && fs.existsSync(rel(d)));
+  for (const f of [...privateEntries, 'AGENTS.md', 'README.md', 'package.json']) {
+    if (!hidden(f)) err('_config.yml', `${f} is not excluded: GitHub Pages would publish it`);
+  }
+}
 
 const summary = { pages: pages.size, indexable: indexable.length, sitemap_urls: locs.length, errors: errors.length, warnings: warnings.length };
 for (const w of warnings) console.warn(`WARN  ${w}`);

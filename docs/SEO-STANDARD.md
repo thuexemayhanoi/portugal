@@ -16,7 +16,7 @@ Mọi mục dưới đây được **sinh tự động** bởi generator và **k
 | URL trung gian 404 | build **từ chối** nếu thiếu trang cha | model.mjs (breadcrumb) |
 | Google verification | `site.verification.google` (trống = không in meta) | — |
 | hreflang | **không tự thêm**; chỉ qua `site.hreflang.alternates` khi có liên kết hai chiều | — |
-| Nguồn không công khai | `_config.yml` loại `site/`, `data/`, `scripts/`… khỏi Pages | qa-site cảnh báo nếu thiếu `_config.yml` |
+| Nguồn không công khai | `_config.yml` loại `site/`, `data/`, `scripts/`… khỏi Pages; Jekyll so khớp `exclude` theo tiền tố nên `sitemap.xml` nằm trong `include` | qa-site mô phỏng bộ lọc Jekyll: lỗi nếu một file công khai bị ẩn hoặc một thư mục nguồn bị xuất bản |
 
 ## On-page SEO
 
