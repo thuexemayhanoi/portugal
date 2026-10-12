@@ -19,7 +19,7 @@
         {
           "id": "onde-fica",
           "q": "Onde fica a loja Nguyễn Tú?",
-          "a": "A loja fica em {{address}}, na zona de Long Biên, na margem leste do rio Vermelho. Pode abrir a localização exata no [Google Maps]({{maps}})."
+          "a": "A loja fica em {{address}}, na margem leste do rio Vermelho. No Google Maps procure «{{gbp}}» ou abra diretamente a [localização da loja]({{maps}})."
         },
         {
           "id": "horario",

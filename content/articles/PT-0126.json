@@ -109,7 +109,7 @@
         "Algumas perguntas não precisam de ser feitas, porque a informação é pública e mantida atualizada num único ficheiro de dados:",
         {
           "ul": [
-            "**Morada e horário**: {{address}}, {{hours}} — ver [contactos](/contactos/).",
+            "**Morada e horário**: {{address}}. {{hours.display}} Ver [contactos](/contactos/).",
             "**Preços de referência** por dia, semana e mês para cada modelo — ver [preços](/precos/).",
             "**Tipos de motas** e para quem serve cada um — ver [tipos de motas](/tipos-de-motas/).",
             "**Regras gerais** de documentos, capacete e álcool — ver as [perguntas frequentes](/perguntas-frequentes/)."

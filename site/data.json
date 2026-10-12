@@ -15,39 +15,69 @@
       "google": "",
       "bing": ""
     },
+    "indexNow": {
+      "$comment": "IndexNow (Bing, Yandex, Seznam, Naver…): a chave pública fica em /<key>.txt e o workflow SEO Monitor avisa os motores sobre os URLs alterados depois de cada deploy. enabled=false desliga o envio.",
+      "enabled": true,
+      "key": "f93b7c644c1f781349f457961584c522"
+    },
     "hreflang": {
       "$comment": "Não adicionar alternativas entre domínios sem confirmar páginas equivalentes com ligação recíproca nos dois sentidos.",
       "alternates": []
     },
+    "languageSites": {
+      "$comment": "Sites da mesma loja noutras línguas (domínios lidos dos ficheiros CNAME dos repositórios do proprietário). São ligações simples no rodapé, NÃO hreflang: as páginas não são equivalentes uma a uma. O SEO Monitor verifica semanalmente se respondem.",
+      "label": "Noutras línguas",
+      "sites": [
+        {
+          "lang": "en",
+          "label": "English",
+          "url": "https://app.rentbikehanoi.com/"
+        },
+        {
+          "lang": "es",
+          "label": "Español",
+          "url": "https://es.rentbikehanoi.com/"
+        }
+      ]
+    },
     "defaultOgImage": "/assets/img/og-default.jpg",
-    "copyrightYear": 2026
+    "copyrightYear": 2026,
+    "repository": "https://github.com/thuexemayhanoi/portugal"
   },
   "business": {
+    "$comment": "NAP OFICIAL (fonte única fornecida pelo proprietário). Nome canónico, morada, telefone e horário são usados em todo o site, no schema JSON-LD, no llms.txt e no QA. Não inventar email, redes sociais, coordenadas GPS nem código postal.",
     "canonicalName": "Cho Thuê Xe Máy Nguyễn Tú",
+    "gbpName": "Thuê xe máy ở Hà Nội - Nguyễn Tú",
+    "brandName": "Nguyễn Tú",
     "displayName": "Nguyễn Tú — Aluguer de Motas em Hanói",
     "shortName": "Nguyễn Tú",
+    "businessType": "Motorcycle Rental Service",
+    "industry": "Dịch vụ cho thuê xe máy tại Hà Nội, Việt Nam",
+    "description": "Aluguer de scooters automáticas, motas semiautomáticas, motas de 50 cc, motas elétricas e bicicletas elétricas em Hanói, Vietname.",
     "monogram": "NT",
     "tagline": "Aluguer de motas · Hanói",
     "alternateNames": [
       "Nguyễn Tú — Aluguer de Motas em Hanói",
-      "Motorbike Rental - Nguyen Tu",
-      "Hanoi Motorbike Rental Nguyen Tu"
+      "Thuê xe máy ở Hà Nội - Nguyễn Tú"
     ],
     "address": {
       "full": "112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, Việt Nam",
-      "streetAddress": "112 Nguyễn Văn Cừ, Bồ Đề, Long Biên",
-      "street": "112 Nguyễn Văn Cừ",
+      "display": "112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hanói, Vietname",
+      "streetAddress": "112 Nguyễn Văn Cừ",
       "ward": "Bồ Đề",
       "district": "Long Biên",
-      "locality": "Hà Nội",
+      "city": "Hà Nội",
+      "cityPt": "Hanói",
       "country": "Việt Nam",
+      "countryPt": "Vietname",
       "countryCode": "VN",
       "areaLabel": "Long Biên, Hanói"
     },
     "phone": {
       "display": "+84 942 467 674",
       "local": "0942 467 674",
-      "e164": "+84942467674"
+      "e164": "+84942467674",
+      "tel": "tel:+84942467674"
     },
     "zalo": {
       "enabled": true,
@@ -73,45 +103,52 @@
         "Saturday",
         "Sunday"
       ],
-      "label": "09:00–21:00, todos os dias",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "display": "Aberto todos os dias, das 09:00 às 21:00.",
+      "label": "todos os dias, das 09:00 às 21:00",
       "short": "Todos os dias · 09:00–21:00"
     },
     "maps": "https://maps.google.com/maps?cid=7448790013669858019",
+    "mapsCid": "7448790013669858019",
     "website": "https://thuexemaynguyentu.com/",
     "logo": "/assets/img/logo-nguyen-tu.png",
     "sameAs": [
-      "https://thuexemaynguyentu.com/",
-      "https://www.facebook.com/chothuexemaynguyentu/",
-      "https://www.tripadvisor.com.vn/Attraction_Review-g21333608-d9826317-Reviews-Hanoi_Motorbike_Rental_Nguyen_Tu-Long_Bien_Hanoi.html"
+      "https://maps.google.com/maps?cid=7448790013669858019"
     ],
     "areaServed": "Hanói",
     "services": [
       {
         "id": "scooters-automaticas",
         "name": "Aluguer de scooters automáticas",
-        "url": "/tipos-de-motas/scooters/"
+        "url": "/tipos-de-motas/scooters/",
+        "nameVi": "Thuê xe tay ga"
       },
       {
         "id": "motas-semiautomaticas",
         "name": "Aluguer de motas semiautomáticas",
-        "url": "/tipos-de-motas/#semiautomaticas"
+        "url": "/tipos-de-motas/#semiautomaticas",
+        "nameVi": "Thuê xe số"
       },
       {
         "id": "motas-50cc",
         "name": "Aluguer de motas de 50 cc",
-        "url": "/tipos-de-motas/motas-50cc/"
+        "url": "/tipos-de-motas/motas-50cc/",
+        "nameVi": "Thuê xe máy 50cc"
       },
       {
         "id": "motas-eletricas",
         "name": "Aluguer de motas elétricas",
-        "url": "/tipos-de-motas/#eletricas"
+        "url": "/tipos-de-motas/#eletricas",
+        "nameVi": "Thuê xe máy điện"
       },
       {
         "id": "bicicletas-eletricas",
         "name": "Aluguer de bicicletas elétricas",
-        "url": "/tipos-de-motas/#eletricas"
+        "url": "/tipos-de-motas/#eletricas",
+        "nameVi": "Thuê xe đạp điện"
       }
-    ]
+    ],
+    "servicesNote": "Preço, caução, modelo e disponibilidade confirmam-se caso a caso com a loja."
   },
   "pricing": {
     "$comment": "Valores de referência em VND. Origem: tabela de preços verificada do proprietário (app.rentbikehanoi.com, data/site-system.json), consultada a 2026-10-12. null = sob consulta. Um intervalo [mín, máx] é mostrado como intervalo.",
@@ -318,6 +355,7 @@
   },
   "editorial": {
     "byline": "Equipa editorial Nguyễn Tú",
+    "url": "/sobre-nos/#equipa-editorial",
     "principles": "Os preços vêm da tabela da loja e as regras legais são acompanhadas da fonte. Nada substitui a confirmação direta com a loja e com as entidades oficiais."
   },
   "ui": {
@@ -376,6 +414,8 @@
     "hours": "Horário",
     "notFoundTitle": "Página não encontrada",
     "legalNote": "Informação geral, não constitui aconselhamento jurídico.",
-    "tocPage": "Nesta página"
+    "tocPage": "Nesta página",
+    "addressVi": "Em vietnamita (para mostrar ao taxista)",
+    "gbp": "No Google Maps"
   }
 }

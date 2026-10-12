@@ -74,7 +74,7 @@ export function contactLinks(ctx, { compact = false } = {}) {
   const b = ctx.data.business;
   const ui = ctx.ui;
   const links = [
-    `<a class="btn btn-primary" href="tel:${esc(b.phone.e164)}" data-contact="call">${icon('phone', 18)}<span>${esc(compact ? ui.call : `${ui.call} · ${b.phone.display}`)}</span></a>`
+    `<a class="btn btn-primary" href="${esc(b.phone.tel)}" data-contact="call">${icon('phone', 18)}<span>${esc(compact ? ui.call : `${ui.call} · ${b.phone.display}`)}</span></a>`
   ];
   if (b.zalo.enabled && b.zalo.verified) {
     links.push(`<a class="btn btn-ghost" href="${esc(b.zalo.url)}" rel="noopener noreferrer" target="_blank" data-contact="zalo">${icon('chat', 18)}<span>${esc(ui.zalo)}</span></a>`);
@@ -91,7 +91,7 @@ export function contactLinks(ctx, { compact = false } = {}) {
 export function contactCard(ctx, opts = {}) {
   const b = ctx.data.business;
   const ui = ctx.ui;
-  return `<div class="contact-card"><p class="contact-name">${esc(b.displayName)}</p><p class="contact-legal">${esc(b.canonicalName)}</p><dl class="facts"><div><dt>${icon('pin', 18)}${esc(ui.address)}</dt><dd>${esc(b.address.full)}</dd></div><div><dt>${icon('phone', 18)}${esc(ui.phone)} / Zalo</dt><dd><a href="tel:${esc(b.phone.e164)}">${esc(b.phone.display)}</a> · <span class="nowrap">${esc(b.phone.local)}</span></dd></div><div><dt>${icon('clock', 18)}${esc(ui.hours)}</dt><dd>${esc(b.hours.label)}</dd></div></dl>${contactLinks(ctx)}${opts.note ? `<p class="contact-note">${inline(opts.note, ctx)}</p>` : ''}</div>`;
+  return `<div class="contact-card"><p class="contact-name">${esc(b.displayName)}</p><p class="contact-legal">${esc(b.canonicalName)}</p><dl class="facts"><div><dt>${icon('pin', 18)}${esc(ui.address)}</dt><dd>${esc(b.address.display)}<span class="contact-vi" lang="vi">${esc(ui.addressVi)}: ${esc(b.address.full)}</span></dd></div><div><dt>${icon('phone', 18)}${esc(ui.phone)} / Zalo</dt><dd><a href="${esc(b.phone.tel)}">${esc(b.phone.display)}</a> · <span class="nowrap">${esc(b.phone.local)}</span></dd></div><div><dt>${icon('clock', 18)}${esc(ui.hours)}</dt><dd>${esc(b.hours.display)}</dd></div><div><dt>${icon('map', 18)}${esc(ui.gbp)}</dt><dd><a href="${esc(b.maps)}" rel="noopener noreferrer" target="_blank" lang="vi">${esc(b.gbpName)}</a></dd></div></dl>${contactLinks(ctx)}${opts.note ? `<p class="contact-note">${inline(opts.note, ctx)}</p>` : ''}</div>`;
 }
 
 export function faqList(items, ctx) {
@@ -111,7 +111,8 @@ export function sourcesList(list, ctx) {
   const items = list
     .map((s) => {
       const meta = [s.publisher, s.accessed ? `consultado a ${formatDatePT(s.accessed)}` : ''].filter(Boolean).join(' · ');
-      return `<li><a href="${esc(s.url)}" rel="noopener noreferrer" target="_blank">${esc(s.title)}</a>${meta ? `<span class="source-meta">${esc(meta)}</span>` : ''}</li>`;
+      const lang = s.lang && !/^pt/i.test(s.lang) ? ` lang="${esc(s.lang)}"` : '';
+      return `<li><a href="${esc(s.url)}" rel="noopener noreferrer" target="_blank"${lang}>${esc(s.title)}</a>${meta ? `<span class="source-meta">${esc(meta)}</span>` : ''}</li>`;
     })
     .join('');
   return `<section class="sources" aria-labelledby="fontes"><h2 id="fontes">${esc(ctx.ui.sources)}</h2><p class="muted">${esc(ctx.ui.sourcesNote)}</p><ol>${items}</ol></section>`;

@@ -34,7 +34,7 @@ const og = page(
     <div style="display:flex;align-items:center;gap:22px">${mark(84, 22, 30)}<div><div style="font:800 34px/1.1 var(--font-sans)">${esc(b.shortName)}</div><div style="font:700 18px/1.4 var(--font-sans);letter-spacing:.14em;text-transform:uppercase;color:#9cc7ec">${esc(b.tagline)}</div></div></div>
     <div><div style="font:800 76px/1.04 var(--font-sans);letter-spacing:-.025em;max-width:900px">Aluguer de motas em Hanói</div>
     <div style="margin-top:22px;font:600 30px/1.35 var(--font-sans);color:#e2e8ee">Scooters, semiautomáticas, 50 cc e elétricas</div><div style="display:inline-block;margin-top:18px;padding:10px 20px;border-radius:999px;background:rgba(255,255,255,.1);border:1px solid rgba(201,211,220,.35);font:700 24px/1.2 var(--font-sans)">Desde ${from} VND por dia</div></div>
-    <div style="display:flex;gap:34px;font:600 24px/1.3 var(--font-sans);color:#c9d3dc;border-top:1px solid rgba(201,211,220,.3);padding-top:26px"><span>${esc(b.address.street)}, ${esc(b.address.district)}</span><span>${esc(b.phone.display)}</span><span>${esc(b.hours.opens)}–${esc(b.hours.closes)}</span></div>
+    <div style="display:flex;gap:34px;font:600 24px/1.3 var(--font-sans);color:#c9d3dc;border-top:1px solid rgba(201,211,220,.3);padding-top:26px"><span>${esc(b.address.streetAddress)}, ${esc(b.address.district)}</span><span>${esc(b.phone.display)}</span><span>${esc(b.hours.opens)}–${esc(b.hours.closes)}</span></div>
   </div>`,
   1200,
   630

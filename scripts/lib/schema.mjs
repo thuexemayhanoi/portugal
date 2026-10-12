@@ -4,23 +4,28 @@ import { plain } from './text.mjs';
 
 const abs = (ctx, url) => ctx.data.site.baseUrl + url;
 
+// One entity for the shop: LocalBusiness is a subtype of Organization; both types are declared so
+// tools looking for either find the same node (#business) instead of two competing entities.
 export function businessNode(ctx) {
   const b = ctx.data.business;
   const base = ctx.data.site.baseUrl;
   const days = ctx.data.pricing.models.map((m) => m.day).filter((v) => typeof v === 'number');
   const node = {
-    '@type': 'LocalBusiness',
+    '@type': ['LocalBusiness', 'Organization'],
     '@id': `${base}/#business`,
     name: b.canonicalName,
     alternateName: b.alternateNames,
+    brand: { '@type': 'Brand', name: b.brandName },
+    description: b.description,
     url: b.website,
     logo: base + b.logo,
     image: base + b.logo,
-    telephone: b.phone.display,
+    telephone: b.phone.e164,
     address: {
       '@type': 'PostalAddress',
       streetAddress: b.address.streetAddress,
-      addressLocality: b.address.locality,
+      addressLocality: `${b.address.ward}, ${b.address.district}`,
+      addressRegion: b.address.city,
       addressCountry: b.address.countryCode
     },
     openingHoursSpecification: [
@@ -32,7 +37,7 @@ export function businessNode(ctx) {
     hasOfferCatalog: {
       '@type': 'OfferCatalog',
       name: 'Aluguer de motas em Hanói',
-      itemListElement: b.services.map((s) => ({ '@type': 'Offer', itemOffered: { '@type': 'Service', name: s.name } }))
+      itemListElement: b.services.map((s) => ({ '@type': 'Offer', itemOffered: { '@type': 'Service', name: s.name, alternateName: s.nameVi } }))
     }
   };
   if (days.length) node.priceRange = `${fmt(Math.min(...days))}–${fmt(Math.max(...days))} VND por dia`;
@@ -88,7 +93,7 @@ function articleNode(page, ctx) {
   const base = ctx.data.site.baseUrl;
   const a = page.article;
   return {
-    '@type': 'Article',
+    '@type': 'BlogPosting',
     '@id': `${abs(ctx, page.url)}#article`,
     headline: page.h1.slice(0, 110),
     description: page.description,
@@ -98,7 +103,7 @@ function articleNode(page, ctx) {
     wordCount: page.wordCount,
     articleSection: ctx.children.get(page.child).label,
     keywords: [page.topic.primary_keyword, ...(page.topic.secondary_keywords || [])].join(', '),
-    author: { '@type': 'Organization', name: ctx.data.editorial.byline, url: `${base}/sobre-nos/` },
+    author: { '@type': 'Organization', name: ctx.data.editorial.byline, url: `${base}${ctx.data.editorial.url}`, parentOrganization: { '@id': `${base}/#business` } },
     publisher: { '@id': `${base}/#business` },
     isPartOf: { '@id': `${base}/#website` },
     mainEntityOfPage: { '@id': `${abs(ctx, page.url)}#webpage` },

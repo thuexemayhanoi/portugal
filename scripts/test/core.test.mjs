@@ -32,7 +32,9 @@ test('formatDatePT and URL rules', () => {
 test('tokens come from site/data.json (single source of truth)', () => {
   const t = buildTokens(data);
   assert.equal(t.phone, data.business.phone.display);
-  assert.equal(t.address, data.business.address.full);
+  assert.equal(t.address, data.business.address.display);
+  assert.equal(t['address.vi'], data.business.address.full);
+  assert.equal(t.tel, 'tel:+84942467674');
   const vision = data.pricing.models.find((m) => m.id === 'vision');
   assert.equal(t['price.vision.day'], formatVND(vision.day));
   assert.throws(() => plain('{{price.inexistente.day}}', ctx()), /Unknown token/);
@@ -45,7 +47,7 @@ test('inline markup escapes HTML and validates links', () => {
   assert.ok(html.includes('<strong>forte</strong>'));
   assert.ok(html.includes('<a href="/precos/">Preços</a>'));
   assert.ok(html.includes('rel="noopener noreferrer" target="_blank"'));
-  assert.ok(html.includes(`href="tel:${data.business.phone.e164}"`));
+  assert.ok(html.includes(`href="${data.business.phone.tel}"`));
   assert.deepEqual(links, ['/precos/']);
   assert.throws(() => inline('[x](http://inseguro.example/)', ctx()), /Unsupported link/);
   assert.equal(esc('"a" & <b>'), '&quot;a&quot; &amp; &lt;b&gt;');
@@ -67,4 +69,45 @@ test('unverified business claims are flagged unless negated or asked', () => {
   assert.equal(findRiskyClaims('Não assuma que a entrega é gratuita.').length, 0);
   assert.equal(findRiskyClaims('Uma mota de 50 cc dispensa carta de condução?').length, 0);
   assert.equal(findRiskyClaims('Aberto 24 horas por dia.').length, 1);
+});
+
+test('LocalBusiness schema follows the official NAP rules', async () => {
+  const { businessNode } = await import('../lib/schema.mjs');
+  const { businessProblems } = await import('../lib/nap.mjs');
+  const b = data.business;
+  const node = businessNode({ data });
+  assert.deepEqual(businessProblems(node, b), []);
+  assert.equal(node.telephone, '+84942467674');
+  assert.equal(node.address.streetAddress, '112 Nguyễn Văn Cừ');
+  assert.ok(node.alternateName.includes('Thuê xe máy ở Hà Nội - Nguyễn Tú'));
+  const broken = {
+    ...node,
+    telephone: '+84 942 467 674',
+    sameAs: [...node.sameAs, 'https://www.facebook.com/exemplo/'],
+    address: { ...node.address, postalCode: '100000' },
+    openingHoursSpecification: [{ ...node.openingHoursSpecification[0], dayOfWeek: ['Monday'] }],
+    email: 'loja@example.com'
+  };
+  const problems = businessProblems(broken, b).join('\n');
+  for (const expected of ['telephone', 'sameAs', 'postalCode', 'openingHoursSpecification', '"email"']) assert.match(problems, new RegExp(expected));
+});
+
+test('licence claims (including 50 cc) are flagged; warnings about fines and quoted myths are not', async () => {
+  const { findRiskyClaims } = await import('../lib/language.mjs');
+  for (const s of ['Pode alugar uma 50 cc sem carta.', 'A scooter de 50 cc não precisa de carta.', 'Para as 50 cc a carta é dispensada.', 'Não é obrigatória carta para 50 cc.']) {
+    assert.equal(findRiskyClaims(s).length, 1, s);
+  }
+  for (const s of ['Conduzir sem carta de condução é ilegal e dá multa.', 'É comum ler que «não é preciso carta para uma 50 cc». Não use essa frase como regra.', 'Precisa de carta para uma 50 cc?']) {
+    assert.deepEqual(findRiskyClaims(s), [], s);
+  }
+});
+
+test('copied or machine-translated text is detected (Spanish, English, missing accents)', async () => {
+  const { findForeignText, findStyleIssues } = await import('../lib/language.mjs');
+  const f = findForeignText('Para encontrá-los e vê-las, use o mapa. El alquiler en la ciudad es muy barato. Nao e possivel alugar sem documentacao. This is the best rental for you.');
+  assert.deepEqual(f.spanish.map((h) => h.term), ['alquiler', 'ciudad', 'muy']);
+  assert.deepEqual(f.noAccents.map((h) => h.term), ['Nao', 'possivel', 'documentacao']);
+  assert.equal(f.english.length, 1);
+  assert.deepEqual(findForeignText('Leve o passaporte e a carta de condução; a loja confirma tudo antes do aluguer.'), { spanish: [], noAccents: [], english: [] });
+  assert.deepEqual(findStyleIssues('Alugar uma moto em Hanoi, no Vietnam; a utilização diária é simples.').map((h) => h.term), ['moto', 'Vietnam', 'Hanoi']);
 });

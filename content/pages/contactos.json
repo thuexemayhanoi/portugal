@@ -37,14 +37,14 @@
     {
       "h2": "Como chegar",
       "body": [
-        "A loja fica em {{address}}, na zona de Long Biên, na margem leste do rio Vermelho. Abra a [localização no Google Maps]({{maps}}) para ver o percurso a partir do seu alojamento.",
-        "Se for de táxi ou de mota com condutor, mostre a morada escrita em vietnamita: **{{address}}**."
+        "A loja fica em {{address}}, na margem leste do rio Vermelho. No Google Maps aparece com o nome «{{gbp}}»: abra a [localização no Google Maps]({{maps}}) para ver o percurso a partir do seu alojamento.",
+        "Se for de táxi ou de mota com condutor, mostre a morada escrita em vietnamita: **{{address.vi}}**."
       ]
     },
     {
       "h2": "Horário",
       "body": [
-        "A loja está aberta {{hours}}. Para levantar ou devolver a mota fora deste horário, combine antes com a loja: qualquer exceção depende de confirmação."
+        "{{hours.display}} Os horários seguem a hora local do Vietname (UTC+7). Para levantar ou devolver a mota fora deste horário, combine antes com a loja: qualquer exceção depende de confirmação."
       ]
     }
   ]

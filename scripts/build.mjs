@@ -115,6 +115,11 @@ function build() {
   out['robots.txt'] = robots(base);
   out['assets/search-index.json'] = searchIndex(searchEntries) + '\n';
   out['llms.txt'] = llmsTxt(model.pages, base);
+  const indexNow = data.site.indexNow;
+  if (indexNow?.enabled) {
+    if (!/^[a-f0-9]{32,128}$/.test(indexNow.key || '')) fail('site.indexNow.key must be 32–128 hexadecimal characters');
+    out[`${indexNow.key}.txt`] = indexNow.key;
+  }
   return { out, model };
 }
 
@@ -127,7 +132,7 @@ function findOrphans(expected) {
       if (entry.isDirectory()) {
         if (dir === ROOT && SOURCE_DIRS.has(entry.name)) continue;
         walk(full);
-      } else if (entry.name === 'index.html' && !expected.has(relative.split(path.sep).join('/'))) {
+      } else if ((entry.name === 'index.html' || (dir === ROOT && /^[a-f0-9]{32,128}\.txt$/.test(entry.name))) && !expected.has(relative.split(path.sep).join('/'))) {
         orphans.push(relative);
       }
     }
