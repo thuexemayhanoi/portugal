@@ -1,7 +1,11 @@
-// Invariants of the 300-topic plan and of the article validator.
+// Invariants of the 300-topic plan, of the article validator and of the factory runner.
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { readJSON } from '../lib/util.mjs';
+import fs from 'node:fs';
+import os from 'node:os';
+import path from 'node:path';
+import { spawnSync } from 'node:child_process';
+import { readJSON, ROOT } from '../lib/util.mjs';
 import { recompute } from '../plan.mjs';
 import { createValidator } from '../qa-factory.mjs';
 
@@ -53,4 +57,25 @@ test('hold topics cannot be submitted', () => {
   const held = [...topics.values()].find((t) => t.editorial_qa_status === 'HOLD_FOR_INTENT_REVIEW');
   const r = validateArticle({ id: held.id, slug: held.slug, title: 'x', description: 'y', h1: 'z', summary: 's', sections: [] });
   assert.ok(r.errors.some((e) => e.includes('HOLD_FOR_INTENT_REVIEW')));
+});
+
+// The daily scheduled run calls "process": with nothing in the inbox it must not touch any file,
+// otherwise every run would push a commit that only changes dates.
+test('factory process with an empty inbox writes nothing', () => {
+  const tmp = fs.mkdtempSync(path.join(os.tmpdir(), 'pt-factory-'));
+  try {
+    for (const dir of ['scripts', 'site', 'content', 'data', 'factory', 'reports']) {
+      fs.cpSync(path.join(ROOT, dir), path.join(tmp, dir), { recursive: true });
+    }
+    fs.mkdirSync(path.join(tmp, '_factory', 'inbox'), { recursive: true });
+    const watched = ['data/factory-state.json', 'data/writer-queue.json', 'data/editorial-plan.json', 'reports/factory-last-run.json', 'reports/publication-log.json'];
+    const snapshot = () => watched.map((f) => fs.readFileSync(path.join(tmp, f), 'utf8'));
+    const before = snapshot();
+    const r = spawnSync(process.execPath, [path.join(tmp, 'scripts', 'factory.mjs'), 'process'], { cwd: tmp, encoding: 'utf8' });
+    assert.equal(r.status, 0, r.stderr);
+    assert.match(r.stdout, /Inbox empty/);
+    assert.deepEqual(snapshot(), before);
+  } finally {
+    fs.rmSync(tmp, { recursive: true, force: true });
+  }
 });

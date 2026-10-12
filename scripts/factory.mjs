@@ -140,19 +140,25 @@ function publishBatch(entries, mode) {
   return { published: written.map((w) => w.id), failed: [] };
 }
 
+// Returns idle: true when nothing was done, so callers write no files (scheduled runs then never commit).
 function processInbox() {
   const state = readState();
   const config = readJSON('data/factory-config.json');
   if (state.status !== 'ACTIVE') {
     console.log(`Factory is ${state.status}: nothing processed. Run "node scripts/factory.mjs resume" to activate.`);
-    return { processed: [] };
+    return { processed: [], idle: true };
   }
   if (state.published_ids.length >= config.target_articles) {
     console.log('TARGET_REACHED: the plan target is already published.');
-    return { processed: [] };
+    return { processed: [], idle: true };
+  }
+  const inbox = draftFiles('_factory/inbox');
+  if (!inbox.length) {
+    console.log('Inbox empty: nothing to process.');
+    return { processed: [], idle: true };
   }
   const { validateArticle, topics } = createValidator();
-  const files = draftFiles('_factory/inbox')
+  const files = inbox
     .map((f) => ({ f, t: topics.get(f.slice(0, 7)) }))
     .sort((a, b) => (a.t?.priority ?? 9) - (b.t?.priority ?? 9) || (a.t?.order ?? 9999) - (b.t?.order ?? 9999))
     .slice(0, config.batch_size);
@@ -269,6 +275,7 @@ try {
       break;
     case 'process': {
       const r = processInbox();
+      if (r.idle) break;
       refreshQueue();
       lastRun('process', r);
       for (const p of r.processed) console.log(`${p.id}: ${p.result}${p.errors ? ` — ${p.errors.length} errors` : ''}${p.warnings?.length ? ` — ${p.warnings.length} warnings` : ''}`);

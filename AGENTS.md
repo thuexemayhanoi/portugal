@@ -127,9 +127,9 @@ Key không bao giờ được ghi vào repo hay log; SDK `@anthropic-ai/sdk` (ph
 ## 7. CI/CD
 
 - `.github/workflows/site-qa.yml` (PR + push main): syntax, unit test, `build --check`, `plan --check`, `qa-site`, `qa-factory --published`.
-- `.github/workflows/article-factory.yml`: factory (thủ công / push inbox / lịch). Commit bằng `pt-factory-bot`, dừng an toàn khi conflict.
+- `.github/workflows/article-factory.yml`: factory (thủ công / push inbox / lịch). Commit bằng `pt-factory-bot`, dừng an toàn khi conflict. Lịch hằng ngày chạy `process`: inbox trống hoặc factory `PAUSED` → không ghi file nào, không tạo commit. Chỉ chạy trên `main`; sau khi push, workflow gọi API yêu cầu build GitHub Pages (push bằng `GITHUB_TOKEN` có thể không tự kích hoạt build).
 - GitHub Pages tự deploy khi `main` thay đổi (workflow động `pages-build-deployment`).
-- Khuyến nghị: bật **branch protection** cho `main` (bắt buộc check "Site QA" trước khi merge).
+- Khuyến nghị: bật **branch protection** cho `main` (bắt buộc check "Site QA" cho Pull Request). Bot factory push thẳng vào `main`, nên nếu quy tắc chặn push trực tiếp thì phải cho bot bypass.
 
 ---
 

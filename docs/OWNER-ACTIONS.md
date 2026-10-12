@@ -11,7 +11,7 @@
 ## Nên làm
 
 - [ ] Xác nhận các liên kết `sameAs` (Facebook, TripAdvisor) trong `business.sameAs` — lấy từ cấu hình site tiếng Anh.
-- [ ] Bật **branch protection** cho `main`: Require status check **Site QA** trước khi merge.
+- [ ] Bật **branch protection** cho `main`: bắt buộc check **Site QA** cho Pull Request. Lưu ý: bot Article Factory push thẳng vào `main` (sau khi tự chạy build + QA) — nếu quy tắc chặn push trực tiếp, phải cho bot quyền bỏ qua (bypass), nếu không bước push của factory sẽ dừng an toàn và báo lỗi.
 - [ ] Cung cấp **ảnh thật** (cửa hàng, xe) nếu muốn dùng trong bài — kèm quyền sử dụng; tránh ảnh stock.
 - [ ] Đọc lại 2 trang pháp lý (`politica-de-privacidade`, `termos-e-condicoes`) — mô tả đúng hoạt động thực tế của site tĩnh; nếu sau này thêm form/analytics phải cập nhật.
 - [ ] **Vùng phát thải thấp Hà Nội** (thí điểm Hoàn Kiếm từ 7/2026): cân nhắc ảnh hưởng tới khách thuê xe xăng đi phố cổ; khi có quy định chính thức ổn định, ưu tiên viết PT-0065.

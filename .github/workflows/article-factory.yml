@@ -27,6 +27,7 @@ on:
 
 permissions:
   contents: write
+  pages: write # request a Pages build after publishing (see the last step)
 
 concurrency:
   group: article-factory
@@ -37,6 +38,12 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 45
     steps:
+      - name: Only run on main
+        if: github.ref != 'refs/heads/main'
+        run: |
+          echo "::error::A fábrica só corre no ramo main (foi pedido em ${GITHUB_REF})."
+          exit 1
+
       - uses: actions/checkout@v5
         with:
           fetch-depth: 0
@@ -100,6 +107,7 @@ jobs:
         if: steps.choose.outputs.action != 'status'
         env:
           ACTION: ${{ steps.choose.outputs.action }}
+          GH_TOKEN: ${{ github.token }}
         run: |
           set -euo pipefail
           git config user.name "pt-factory-bot"
@@ -108,7 +116,13 @@ jobs:
           if git diff --cached --quiet; then echo "No changes to commit."; exit 0; fi
           git commit -m "factory: $ACTION ($(date -u +%Y-%m-%d))"
           for attempt in 1 2 3; do
-            if git push origin HEAD:main; then exit 0; fi
+            if git push origin HEAD:main; then
+              # A push made with GITHUB_TOKEN may not start the Pages build by itself, so ask for one.
+              gh api -X POST "repos/${GITHUB_REPOSITORY}/pages/builds" > /dev/null \
+                && echo "GitHub Pages build requested." \
+                || echo "::warning::Não foi possível pedir o build do GitHub Pages; o site atualiza no próximo push para main."
+              exit 0
+            fi
             echo "main moved; rebasing (attempt $attempt)"
             git pull --rebase origin main || { echo "::error::Conflito ao integrar main — paragem segura, nada foi publicado."; exit 1; }
             node scripts/build.mjs --check && node scripts/qa-site.mjs || { echo "::error::Verificação falhou após rebase — paragem segura."; exit 1; }
