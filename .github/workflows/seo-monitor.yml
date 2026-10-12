@@ -70,11 +70,12 @@ jobs:
       - name: Lighthouse (mobile, lab)
         if: always() && github.event_name != 'push'
         continue-on-error: true
+        timeout-minutes: 15
         run: |
           base=$(node -e "console.log(require('./site/data.json').site.baseUrl)")
           for path in / /precos/ /tipos-de-motas/scooters/ /tipos-de-motas/honda-vision-em-hanoi/; do
             name=$(echo "$path" | tr '/' '-' | sed 's/^-*//;s/-*$//'); name=${name:-home}
-            npx --yes lighthouse@13.4.1 "$base$path" --quiet --chrome-flags="--headless=new --no-sandbox" \
+            timeout 240 npx --yes lighthouse@13.4.1 "$base$path" --quiet --chrome-flags="--headless=new --no-sandbox" \
               --only-categories=performance,accessibility,best-practices,seo \
               --output=json --output-path="reports/lighthouse-$name.json" || echo "::warning::Lighthouse failed for $path"
           done
