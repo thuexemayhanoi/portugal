@@ -33,10 +33,13 @@ Mọi mục dưới đây được **sinh tự động** bởi generator và **k
 
 ## Structured data (JSON-LD, chỉ dữ liệu thật)
 
-- **LocalBusiness** (`@id #business`): tên chuẩn, alternateName, địa chỉ, điện thoại, giờ mở cửa 7 ngày, hasMap, sameAs, logo thật, danh mục dịch vụ, priceRange tính từ bảng giá.
-- **WebSite**, **WebPage** (AboutPage / ContactPage / CollectionPage theo trang), **BreadcrumbList** (khớp breadcrumb hiển thị), **Article** (ngày đăng/sửa, wordCount, citation = nguồn), **FAQPage** (chỉ khi FAQ hiển thị ≥ 2 câu; trang chủ không dùng).
-- **Cấm**: aggregateRating, review, tọa độ, offer chưa xác minh — qa-site báo lỗi.
-- NAP trong schema phải trùng `data.json` — qa-site so sánh trên từng trang.
+- **LocalBusiness + Organization** (một thực thể duy nhất `@id #business`, theo NAP chính thức):
+  - `name` = Cho Thuê Xe Máy Nguyễn Tú; `alternateName` = tên hiển thị + tên Google Business Profile; `brand` = Nguyễn Tú;
+  - `address`: streetAddress "112 Nguyễn Văn Cừ", addressLocality "Bồ Đề, Long Biên", addressRegion "Hà Nội", addressCountry "VN";
+  - `telephone` "+84942467674", giờ 09:00–21:00 cả 7 ngày;
+  - `hasMap` và `sameAs` = Google Maps CID; dịch vụ có tên tiếng Việt (`alternateName`); priceRange tính từ bảng giá.
+- **WebSite**, **WebPage** (AboutPage / ContactPage / CollectionPage theo trang), **BreadcrumbList** (khớp breadcrumb hiển thị), **BlogPosting** (ngày đăng/sửa, wordCount, citation = nguồn, author = Equipa editorial có `url` tới `/sobre-nos/#equipa-editorial`), **FAQPage** (chỉ khi FAQ hiển thị ≥ 2 câu; trang chủ không dùng). Không kỳ vọng FAQ rich result.
+- **Cấm**: aggregateRating, review, email, geo/tọa độ, postalCode, sameAs ngoài danh sách chính thức, offer chưa xác minh. `scripts/lib/nap.mjs` báo lỗi khi build (qa-site) và trên site thật (audit-live).
 
 ## Performance (Core Web Vitals)
 
@@ -44,6 +47,15 @@ Mọi mục dưới đây được **sinh tự động** bởi generator và **k
 - 1 file CSS (~25 KB) + 1 JS nhỏ `defer`; **search.js và chỉ mục chỉ tải khi mở tìm kiếm**.
 - Theme sáng/tối áp dụng trước khi vẽ (script inline 150 byte) → không nháy.
 - Đã đo bằng Playwright: CLS = 0, không tràn ngang ở 390 px và 1440 px (xem báo cáo PR). Điểm Lighthouse chỉ được ghi khi thực sự đo.
+- **SEO Monitor** chạy Lighthouse mobile hằng tuần trên domain thật (ngân sách: Perf ≥ 90, A11y/BP/SEO ≥ 95, LCP ≤ 2,5 s, CLS ≤ 0,1, TBT ≤ 200 ms; INP chỉ đo được bằng dữ liệu người dùng thật, TBT là chỉ số thay thế trong lab).
+
+## Giám sát site thật (SEO Monitor, `scripts/audit-live.mjs`)
+
+HTTPS và chuyển hướng http→https, github.io→domain riêng, robots.txt, sitemap.xml, mọi URL trong sitemap và mọi link nội bộ (status, chuyển hướng, canonical, robots/X-Robots-Tag, title trùng, meta description, H1, `lang`, JSON-LD và NAP), asset, mixed content, soft 404, trùng URL có/không có `/` cuối, gzip/br, dung lượng, thời gian phản hồi, so sánh nội dung live với repo (phát hiện deploy chậm), link ngoài và độ mới của nguồn (theo tuần). IndexNow báo cho Bing các URL thay đổi.
+
+## Ngôn ngữ (qa-site cảnh báo, qa-factory chặn)
+
+pt-BR → pt-PT, phong cách pt-PT (Hanói, Vietname, mota), văn bản tiếng Tây Ban Nha/Anh hoặc thiếu dấu (dấu hiệu sao chép/dịch máy), câu quá dài, khẳng định chưa xác minh (gồm mọi biến thể "50 cc không cần bằng"; bỏ qua câu hỏi, câu phủ định, câu trích trong «» và câu nói về mức phạt). Văn bản có `lang` khác `pt` (tên nguồn, địa chỉ tiếng Việt) được bỏ qua.
 
 ## AEO / GEO
 

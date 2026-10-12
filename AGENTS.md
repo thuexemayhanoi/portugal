@@ -23,10 +23,14 @@ Tài liệu dành cho **chủ website và mọi AI agent / lập trình viên** 
 | Nội dung 12 trang nền | `content/pages/*.json` | `npm run build` |
 | Kế hoạch 300 bài | `data/editorial-plan.json` (chỉ trường "authored") | `node scripts/plan.mjs --write` |
 | Chèn script/meta toàn site (vd. analytics) | `site/hooks/head.html`, `site/hooks/body-end.html` | `npm run build` **+ cập nhật Política de privacidade** |
+| Liên kết sang site cùng hệ thống ngôn ngữ khác (không phải hreflang) | `site/data.json` → `site.languageSites` | `npm run build` |
+| IndexNow (Bing…) bật/tắt, khóa | `site/data.json` → `site.indexNow` | `npm run build` |
 
 **Tuyệt đối không sửa tay** các file sinh ra: `index.html`, `*/index.html`, `404.html`, `sitemap.xml`, `robots.txt`, `llms.txt`, `assets/css/site.css`, `assets/js/*.js`, `assets/search-index.json`. CI (`build --check`) sẽ báo lỗi nếu file sinh ra lệch với nguồn.
 
-Trong nội dung, mọi dữ kiện kinh doanh phải dùng **token**: `{{phone}}`, `{{address}}`, `{{hours}}`, `{{price.vision.day}}`… (danh sách đầy đủ: `factory/WRITER-CONTRACT.md` §4). Đổi giá trong `data.json` → mọi trang, schema, sitemap, ảnh OG… tự cập nhật.
+Trong nội dung, mọi dữ kiện kinh doanh phải dùng **token**: `{{phone}}`, `{{address}}` (địa chỉ hiển thị tiếng Bồ Đào Nha), `{{address.vi}}` (địa chỉ tiếng Việt cho taxi), `{{hours}}` (trong câu), `{{hours.display}}` (câu hoàn chỉnh), `{{gbp}}` (tên trên Google Maps), `{{price.vision.day}}`… (danh sách đầy đủ: `factory/WRITER-CONTRACT.md` §4). Đổi giá trong `data.json` → mọi trang, schema, sitemap, ảnh OG… tự cập nhật.
+
+**NAP chính thức (chủ cửa hàng cung cấp, là nguồn duy nhất):** tên LocalBusiness = `Cho Thuê Xe Máy Nguyễn Tú`; alternateName gồm tên hiển thị và tên Google Business Profile `Thuê xe máy ở Hà Nội - Nguyễn Tú`; `streetAddress` = `112 Nguyễn Văn Cừ`; telephone schema `+84942467674`, link `tel:+84942467674`; giờ 09:00–21:00 cả 7 ngày (Asia/Ho_Chi_Minh), hiển thị "Aberto todos os dias, das 09:00 às 21:00."; `hasMap` = Maps CID 7448790013669858019; `sameAs` chỉ gồm URL chính thức. Không email, mạng xã hội, tọa độ GPS, mã bưu chính hay rating tự đặt. `scripts/lib/nap.mjs` kiểm tra các quy tắc này trên mọi trang (khi build và trên site thật).
 
 ---
 
@@ -40,7 +44,9 @@ data/            editorial-plan.json (300 chủ đề) · writer-queue.json · f
 _factory/        inbox/ (bản nháp mới) · review/ (đạt QA, chờ duyệt) · rejected/ (bị loại + báo cáo .qa.json)
 factory/         WRITER-CONTRACT.md · article.schema.json
 scripts/         build.mjs · qa-site.mjs · qa-factory.mjs · factory.mjs · plan.mjs · writer-claude.mjs
-scripts/lib/     util · text (token + markdown nội tuyến + block) · model · components · layout · schema · templates · outputs · language
+                 audit-live.mjs (audit site thật) · seo-data.mjs (Search Console/Bing) · indexnow.mjs · lighthouse-summary.mjs
+scripts/lib/     util · text (token + markdown nội tuyến + block) · model · components · layout · schema · templates · outputs
+                 language (pt-PT, sao chép/dịch máy, claims) · nap (quy tắc NAP) · intent (search intent) · pace (nhịp đăng) · seo-data (phân tích số liệu)
 scripts/tools/   render-images.mjs (favicon + ảnh OG, cần Playwright — tùy chọn)
 src/css, src/js  mã nguồn giao diện → build gộp vào assets/
 reports/         publication-log.json · factory-last-run.json · site-audit.json
@@ -60,6 +66,8 @@ npm run serve                 # xem thử tại http://127.0.0.1:8080
 node scripts/qa-site.mjs      # audit SEO: canonical, title/meta trùng, H1, link gãy, sitemap, schema, NAP…
 node scripts/plan.mjs --stats # thống kê ma trận 300 bài
 node scripts/factory.mjs status
+node scripts/audit-live.mjs   # audit site thật: HTTPS, robots, sitemap, canonical, index, schema/NAP, link, 404
+node scripts/seo-data.mjs     # Search Console / Bing theo nhóm từ khóa (cần secret, xem docs/OWNER-ACTIONS.md)
 ```
 
 ---
@@ -107,6 +115,9 @@ data/writer-queue.json ──► writer viết PT-XXXX.json ──► _factory/i
 - Lệnh: `status`, `refresh-queue`, `process`, `approve PT-… [PT-…]`, `reject PT-… "lý do"`, `write` (Claude, tùy chọn).
 - Trên GitHub: **Actions → Article Factory → Run workflow**, chọn action (status/process/approve/reject/…), nhập IDs. Push bản nháp vào `_factory/inbox/` trên `main` cũng tự kích hoạt `process`.
 - Writer bên ngoài (người hoặc AI): làm đúng `factory/WRITER-CONTRACT.md` + `factory/article.schema.json`.
+- QA bài viết còn kiểm tra: **trùng search intent** với trang đã đăng và các bài cùng lô (≥ 0,6 thì loại), **đối chiếu nguồn** (nội dung luật/phạt phải có nguồn luật hoặc chính thức, nguồn cũ thì cảnh báo hoặc báo lỗi), **chất lượng pt-PT** (pt-BR, Hanói/Vietname, văn bản tiếng Tây Ban Nha/Anh hoặc thiếu dấu = dấu hiệu sao chép/dịch máy).
+- **Nhịp đăng:** tối đa `publishing.max_new_per_7_days` (10) bài mới mỗi 7 ngày; quá mức thì `approve` trả `PACE_LIMIT`.
+- **Sửa bài đã đăng:** bản nháp cùng `id`/`slug` + `"revision": { "reason": "…" }` → giữ URL và ngày đăng gốc, cập nhật `date_modified`, ghi `editorial.revisions`.
 
 ### Writer Claude (API trả phí — TẮT mặc định)
 Chỉ chạy khi chủ website **chủ động** cấu hình cả ba:
@@ -127,6 +138,7 @@ Key không bao giờ được ghi vào repo hay log; SDK `@anthropic-ai/sdk` (ph
 ## 7. CI/CD
 
 - `.github/workflows/site-qa.yml` (PR + push main): syntax, unit test, `build --check`, `plan --check`, `qa-site`, `qa-factory --published`.
+- `.github/workflows/seo-monitor.yml` (**SEO Audit & Monitoring**, độc lập với factory, chỉ đọc): sau mỗi push vào `main` (chờ deploy xong), sau mỗi lần factory đăng bài, và thứ Hai hằng tuần. Việc chạy: `audit-live` trên domain thật, IndexNow cho các trang thay đổi, Lighthouse mobile (theo tuần/thủ công), Search Console/Bing khi có secret. Kết quả ở Summary của bản chạy + artifact. Bản chạy đỏ = site thật có lỗi.
 - `.github/workflows/article-factory.yml`: factory (thủ công / push inbox / lịch). Commit bằng `pt-factory-bot`, dừng an toàn khi conflict. Lịch hằng ngày chạy `process`: inbox trống hoặc factory `PAUSED` → không ghi file nào, không tạo commit. Chỉ chạy trên `main`; sau khi push, workflow gọi API yêu cầu build GitHub Pages (push bằng `GITHUB_TOKEN` có thể không tự kích hoạt build).
 - GitHub Pages tự deploy khi `main` thay đổi (workflow động `pages-build-deployment`).
 - Khuyến nghị: bật **branch protection** cho `main` (bắt buộc check "Site QA" cho Pull Request). Bot factory push thẳng vào `main`, nên nếu quy tắc chặn push trực tiếp thì phải cho bot bypass.
