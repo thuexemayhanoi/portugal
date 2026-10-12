@@ -79,3 +79,62 @@ test('factory process with an empty inbox writes nothing', () => {
     fs.rmSync(tmp, { recursive: true, force: true });
   }
 });
+
+test('publishing pace counts only new articles in the last 7 days', async () => {
+  const { roomLeft } = await import('../lib/pace.mjs');
+  const entries = [
+    { date: '2026-10-12', type: 'new' },
+    { date: '2026-10-10', type: 'new' },
+    { date: '2026-10-11', type: 'update' },
+    { date: '2026-10-01', type: 'new' }
+  ];
+  assert.equal(roomLeft(entries, 10, '2026-10-12'), 8);
+  assert.equal(roomLeft(entries, 2, '2026-10-12'), 0);
+  assert.equal(roomLeft(entries, 2, '2026-10-20'), 2);
+  assert.equal(roomLeft(entries, undefined, '2026-10-12'), Infinity);
+});
+
+test('a draft that answers the same query as a live page is rejected', () => {
+  const { validateArticle, model } = createValidator();
+  const published = readJSON('content/articles/PT-0066.json');
+  const queued = [...model.plan.topics].find((t) => t.id === 'PT-0067');
+  const draft = { ...published, id: queued.id, slug: queued.slug, status: 'READY_FOR_QA' };
+  delete draft.date_published;
+  delete draft.date_modified;
+  delete draft.editorial;
+  const r = validateArticle(draft);
+  assert.ok(r.errors.some((e) => /title duplicates PT-0066/.test(e)), r.errors.join('\n'));
+  assert.ok(r.stats.max_intent_overlap >= 0.6, `overlap ${r.stats.max_intent_overlap}`);
+  assert.ok(r.errors.some((e) => /same search intent as PT-0066/.test(e)));
+});
+
+test('a published article can be updated in place and keeps its publication date', () => {
+  const tmp = fs.mkdtempSync(path.join(os.tmpdir(), 'pt-update-'));
+  try {
+    for (const dir of ['scripts', 'site', 'content', 'data', 'factory', 'reports']) fs.cpSync(path.join(ROOT, dir), path.join(tmp, dir), { recursive: true });
+    for (const d of ['inbox', 'review', 'rejected']) fs.mkdirSync(path.join(tmp, '_factory', d), { recursive: true });
+    const article = JSON.parse(fs.readFileSync(path.join(tmp, 'content/articles/PT-0066.json'), 'utf8'));
+    const { date_published: published, date_modified: _m, editorial: _e, ...draft } = article;
+    draft.status = 'READY_FOR_QA';
+    const run = (...args) => spawnSync(process.execPath, [path.join(tmp, 'scripts', 'factory.mjs'), ...args], { cwd: tmp, encoding: 'utf8' });
+
+    fs.writeFileSync(path.join(tmp, '_factory/inbox/PT-0066.json'), JSON.stringify(draft));
+    let r = run('process');
+    assert.match(r.stdout, /PT-0066: REJECTED/, 'a published id without "revision" must be refused');
+
+    fs.rmSync(path.join(tmp, '_factory/rejected'), { recursive: true, force: true });
+    fs.writeFileSync(path.join(tmp, '_factory/inbox/PT-0066.json'), JSON.stringify({ ...draft, revision: { reason: 'Horário e morada reescritos com os dados oficiais da loja.' } }));
+    r = run('process');
+    assert.match(r.stdout, /PT-0066: IN_REVIEW/, r.stdout + r.stderr);
+    r = run('approve', 'PT-0066', '--no-build');
+    assert.equal(r.status, 0, r.stdout + r.stderr);
+    const updated = JSON.parse(fs.readFileSync(path.join(tmp, 'content/articles/PT-0066.json'), 'utf8'));
+    assert.equal(updated.date_published, published);
+    assert.equal(updated.editorial.revisions.length, 1);
+    assert.equal(updated.revision, undefined);
+    const log = JSON.parse(fs.readFileSync(path.join(tmp, 'reports/publication-log.json'), 'utf8'));
+    assert.equal(log.entries.at(-1).type, 'update');
+  } finally {
+    fs.rmSync(tmp, { recursive: true, force: true });
+  }
+});

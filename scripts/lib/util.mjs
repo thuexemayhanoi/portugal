@@ -45,6 +45,18 @@ export function normalize(value) {
 
 export const slugify = (value) => normalize(value).replace(/\s+/g, '-');
 
+// Visible text for language checks: one line per block element, without elements marked as another
+// language (lang="en", lang="vi"…), e.g. cited source titles and Vietnamese addresses.
+export function visibleText(html) {
+  let out = String(html ?? '').replace(/<script[\s\S]*?<\/script>|<style[\s\S]*?<\/style>|<svg[\s\S]*?<\/svg>/gi, ' ');
+  for (let i = 0; i < 5; i++) out = out.replace(/<(\w+)[^>]*\slang="(?!pt)[^"]*"[^>]*>(?:(?!<\1[\s>])[\s\S])*?<\/\1>/gi, ' ');
+  return stripTags(out.replace(/<\/(p|li|h[1-6]|dt|dd|td|th|summary|figcaption|caption|blockquote)>|<br\s*\/?>/gi, '\n§§'))
+    .split('§§')
+    .map((line) => line.trim())
+    .filter(Boolean)
+    .join('\n');
+}
+
 export const stripTags = (html) =>
   String(html ?? '')
     .replace(/<script[\s\S]*?<\/script>/gi, ' ')

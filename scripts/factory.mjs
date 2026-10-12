@@ -10,8 +10,10 @@
 // Publishing is transactional: if the site build or the site QA fails, the batch is rolled back.
 import fs from 'node:fs';
 import { spawnSync } from 'node:child_process';
-import { readJSON, writeJSON, listFiles, rel, todayISO } from './lib/util.mjs';
+import { readJSON, writeJSON, listFiles, rel, todayISO, normalize } from './lib/util.mjs';
 import { createValidator } from './qa-factory.mjs';
+import { intentFingerprint } from './lib/intent.mjs';
+import { roomLeft } from './lib/pace.mjs';
 
 const STATE = 'data/factory-state.json';
 const QUEUE = 'data/writer-queue.json';
@@ -98,21 +100,34 @@ function removeQa(dir, id) {
 }
 
 // Publishes drafts as one transaction (build + site QA must pass).
+// Updates (drafts with "revision") keep the original publication date and add to the revision history.
 function publishBatch(entries, mode) {
   const state = readState();
   const backup = { state: fs.readFileSync(rel(STATE), 'utf8'), plan: fs.readFileSync(rel('data/editorial-plan.json'), 'utf8') };
   const today = todayISO();
   const written = [];
   for (const { draft, result, sourceFile } of entries) {
+    const file = rel(`content/articles/${draft.id}.json`);
+    const previousText = fs.existsSync(file) ? fs.readFileSync(file, 'utf8') : null;
+    const previous = previousText ? JSON.parse(previousText) : null;
+    const isUpdate = Boolean(draft.revision && previous);
+    const { revision, ...body } = draft;
     const article = {
-      ...draft,
+      ...body,
       status: 'PUBLISHED',
-      date_published: today,
+      date_published: isUpdate ? previous.date_published : today,
       date_modified: today,
-      editorial: { qa_score: result.stats.score, qa_warnings: result.warnings, words: result.stats.words, publish_mode: mode, approved_at: today }
+      editorial: {
+        qa_score: result.stats.score,
+        qa_warnings: result.warnings,
+        words: result.stats.words,
+        publish_mode: mode,
+        approved_at: today,
+        revisions: [...(previous?.editorial?.revisions || []), ...(isUpdate ? [{ date: today, reason: revision.reason }] : [])]
+      }
     };
     writeJSON(`content/articles/${draft.id}.json`, article);
-    written.push({ id: draft.id, sourceFile });
+    written.push({ id: draft.id, sourceFile, previousText, isUpdate });
     state.published_ids = [...new Set([...state.published_ids, draft.id])].sort();
     state.review_ids = state.review_ids.filter((x) => x !== draft.id);
     state.rejected_ids = state.rejected_ids.filter((x) => x !== draft.id);
@@ -123,7 +138,10 @@ function publishBatch(entries, mode) {
     console.error('Site build/QA failed after publishing — rolling back this batch.');
     fs.writeFileSync(rel(STATE), backup.state);
     fs.writeFileSync(rel('data/editorial-plan.json'), backup.plan);
-    for (const w of written) fs.rmSync(rel(`content/articles/${w.id}.json`));
+    for (const w of written) {
+      if (w.previousText) fs.writeFileSync(rel(`content/articles/${w.id}.json`), w.previousText);
+      else fs.rmSync(rel(`content/articles/${w.id}.json`));
+    }
     run('scripts/build.mjs');
     return { published: [], failed: written.map((w) => w.id) };
   }
@@ -133,11 +151,26 @@ function publishBatch(entries, mode) {
     removeQa('_factory/inbox', w.id);
   }
   const log = fs.existsSync(rel(LOG)) ? readJSON(LOG) : { entries: [] };
+  const planTopics = readJSON('data/editorial-plan.json').topics;
   for (const { draft, result } of entries) {
-    log.entries.push({ id: draft.id, url: readJSON('data/editorial-plan.json').topics.find((t) => t.id === draft.id).target_url, title: draft.title, words: result.stats.words, qa_score: result.stats.score, writer: draft.writer?.type, mode, date: today });
+    const w = written.find((x) => x.id === draft.id);
+    log.entries.push({ id: draft.id, url: planTopics.find((t) => t.id === draft.id).target_url, title: draft.title, words: result.stats.words, qa_score: result.stats.score, writer: draft.writer?.type, mode, type: w.isUpdate ? 'update' : 'new', ...(w.isUpdate ? { reason: draft.revision.reason } : {}), date: today });
   }
   writeJSON(LOG, log);
   return { published: written.map((w) => w.id), failed: [] };
+}
+
+// Publishing pace: at most publishing.max_new_per_7_days new articles in any 7-day window (updates excluded).
+function publishingRoom(config) {
+  const log = fs.existsSync(rel(LOG)) ? readJSON(LOG) : { entries: [] };
+  return roomLeft(log.entries, config.publishing?.max_new_per_7_days, todayISO());
+}
+
+// Intent fingerprints of the other drafts handled in the same run (duplicate intent inside a batch).
+function peersOf(drafts, topics) {
+  return drafts
+    .filter((d) => d && topics.has(d.id))
+    .map((d) => ({ id: d.id, intent: intentFingerprint({ primaryKeyword: topics.get(d.id).primary_keyword, title: String(d.title || ''), h1: String(d.h1 || '') }), keyword: normalize(topics.get(d.id).primary_keyword) }));
 }
 
 // Returns idle: true when nothing was done, so callers write no files (scheduled runs then never commit).
@@ -165,16 +198,21 @@ function processInbox() {
   const batchUrls = new Set(files.map((x) => x.t?.target_url).filter(Boolean));
   const processed = [];
   const toPublish = [];
+  const drafts = new Map();
+  for (const { f } of files) {
+    try {
+      drafts.set(f, readJSON(`_factory/inbox/${f}`));
+    } catch (e) {
+      drafts.set(f, null);
+    }
+  }
+  const peers = peersOf([...drafts.values()], topics);
+  let room = publishingRoom(config);
   for (const { f } of files) {
     const id = f.slice(0, 7);
     const sourceFile = `_factory/inbox/${f}`;
-    let draft;
-    try {
-      draft = readJSON(sourceFile);
-    } catch (e) {
-      draft = null;
-    }
-    const result = draft ? validateArticle(draft, { file: sourceFile, batchUrls }) : { errors: ['invalid JSON'], warnings: [], stats: {} };
+    const draft = drafts.get(f);
+    const result = draft ? validateArticle(draft, { file: sourceFile, batchUrls, peers }) : { errors: ['invalid JSON'], warnings: [], stats: {} };
     if (draft && draft.id !== id) result.errors.unshift(`file name ${f} does not match id ${draft.id}`);
     if (result.errors.length) {
       move(sourceFile, `_factory/rejected/${f}`);
@@ -183,7 +221,9 @@ function processInbox() {
       processed.push({ id, result: 'REJECTED', errors: result.errors, warnings: result.warnings });
       continue;
     }
-    if (config.publish_mode === 'auto' && result.warnings.length <= config.auto_publish_max_warnings) {
+    const fitsPace = draft.revision || room > 0;
+    if (config.publish_mode === 'auto' && result.warnings.length <= config.auto_publish_max_warnings && fitsPace) {
+      if (!draft.revision) room--;
       toPublish.push({ draft, result, sourceFile });
       processed.push({ id, result: 'PUBLISH', warnings: result.warnings });
     } else {
@@ -202,24 +242,26 @@ function processInbox() {
 
 function approve(ids) {
   const { validateArticle, topics } = createValidator();
+  const config = readJSON('data/factory-config.json');
   const entries = [];
   const report = [];
   const batchUrls = new Set(ids.map((id) => topics.get(id)?.target_url).filter(Boolean));
-  for (const id of ids) {
+  const drafts = ids.map((id) => (fs.existsSync(rel(`_factory/review/${id}.json`)) ? readJSON(`_factory/review/${id}.json`) : null));
+  const peers = peersOf(drafts, topics);
+  let room = publishingRoom(config);
+  ids.forEach((id, i) => {
     const sourceFile = `_factory/review/${id}.json`;
-    if (!fs.existsSync(rel(sourceFile))) {
-      report.push({ id, result: 'NOT_IN_REVIEW' });
-      continue;
+    const draft = drafts[i];
+    if (!draft) return report.push({ id, result: 'NOT_IN_REVIEW' });
+    const result = validateArticle(draft, { file: sourceFile, batchUrls, peers });
+    if (result.errors.length) return report.push({ id, result: 'QA_FAILED', errors: result.errors });
+    if (!draft.revision && room <= 0) {
+      return report.push({ id, result: 'PACE_LIMIT', errors: [`publishing.max_new_per_7_days = ${config.publishing.max_new_per_7_days} reached: approve again in a few days or raise the limit in data/factory-config.json`] });
     }
-    const draft = readJSON(sourceFile);
-    const result = validateArticle(draft, { file: sourceFile, batchUrls });
-    if (result.errors.length) {
-      report.push({ id, result: 'QA_FAILED', errors: result.errors });
-      continue;
-    }
+    if (!draft.revision) room--;
     entries.push({ draft, result, sourceFile });
-    report.push({ id, result: 'PUBLISH', warnings: result.warnings });
-  }
+    report.push({ id, result: draft.revision ? 'UPDATE' : 'PUBLISH', warnings: result.warnings });
+  });
   const outcome = entries.length ? publishBatch(entries, 'review') : { published: [], failed: [] };
   return { processed: report, ...outcome };
 }
@@ -289,7 +331,7 @@ try {
       refreshQueue();
       lastRun('approve', r);
       for (const p of r.processed) console.log(`${p.id}: ${p.result}${p.errors ? `\n  ${p.errors.join('\n  ')}` : ''}`);
-      if (r.failed?.length || r.processed.some((p) => p.result !== 'PUBLISH')) process.exitCode = 1;
+      if (r.failed?.length || r.processed.some((p) => !['PUBLISH', 'UPDATE'].includes(p.result))) process.exitCode = 1;
       break;
     }
     case 'reject': {

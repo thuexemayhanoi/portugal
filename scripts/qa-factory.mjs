@@ -8,15 +8,26 @@
 import fs from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import path from 'node:path';
-import { readJSON, listFiles, rel, normalize, wordCount, isISODate } from './lib/util.mjs';
+import { readJSON, listFiles, rel, normalize, wordCount, isISODate, todayISO } from './lib/util.mjs';
+import { SOURCE_CODES } from './plan.mjs';
 import { loadModel } from './lib/model.mjs';
 import { buildTokens, inline, plain, blocksToText } from './lib/text.mjs';
-import { findBrazilianisms, findRiskyClaims } from './lib/language.mjs';
+import { findBrazilianisms, findRiskyClaims, findStyleIssues, findForeignText, readability } from './lib/language.mjs';
+import { intentFingerprint, jaccard } from './lib/intent.mjs';
 
 const BLOCK_KEYS = new Set(['p', 'h3', 'ul', 'ol', 'checklist', 'steps', 'dl', 'table', 'note', 'component']);
 const PHONE_LITERAL = /(?:\+?84[\s.]?)?0?942[\s.]?467[\s.]?674/;
 const VND_LITERAL = /\d{1,3}(?:[.\s]\d{3})+\s?(?:VND|vnd|₫|dong|dongs)/;
 const RAW_HTML = /<\/?[a-z][^>]*>/i;
+// Mentions that make a text "legal": they require a legal-database or official source.
+const LEGAL_TRIGGERS = /(?<![\p{L}])(decreto|lei\s+n\.?º|artigo\s+\d+|coimas?|multas?|sanç(?:ão|ões)|infraç(?:ão|ões)|idade\s+mínima|alcoolemia|licença\s+internacional\s+de\s+condução)(?![\p{L}])/iu;
+const OFFICIAL_PT = /(?:^|\.)(gov\.pt|imt-ip\.pt|mne\.gov\.pt)$/;
+const PREFERRED_DOMAINS = {
+  M: /(?:^|\.)(honda\.com\.vn|yamaha-motor\.com\.vn|honda\.com|global\.yamaha-motor\.com)$/,
+  W: /(?:^|\.)(nchmf\.gov\.vn|gov\.vn|wmo\.int)$/,
+  H: /(?:^|\.)(who\.int|moh\.gov\.vn)$/,
+  X: /(?:^|\.)(gov\.vn|hanoimetro\.net\.vn|vr\.com\.vn|dsvn\.vn|vietnamairport\.vn)$/
+};
 
 export function createValidator() {
   const model = loadModel();
@@ -33,12 +44,18 @@ export function createValidator() {
     for (let i = 0; i + 5 <= w.length; i++) set.add(w.slice(i, i + 5).join(' '));
     return set;
   };
+  const trigrams = (text) => {
+    const w = normalize(text).split(' ').filter(Boolean);
+    const set = new Set();
+    for (let i = 0; i + 3 <= w.length; i++) set.add(w.slice(i, i + 3).join(' '));
+    return set;
+  };
   const ctxFor = (where, links = []) => ({ tokens, where, sources: model.sources, components: {}, usedIds: new Set(), headings: [], onInternalLink: (h) => links.push(h) });
   for (const p of model.pages) {
     if (p.kind === 'page') {
       const c = ctxFor(p.source);
       const text = [...(p.sections || []).map((s) => `${plain(s.h2, c)} ${blocksToText(s.body, c)}`), ...(p.faq || []).map((f) => `${plain(f.q, c)} ${plain(f.a, c)}`)].join(' ');
-      corpus.push({ id: p.url, set: shingleOf(text), title: p.title, h1: p.h1, description: p.description });
+      corpus.push({ id: p.url, set: shingleOf(text), title: p.title, h1: p.h1, description: p.description, intent: intentFingerprint({ primaryKeyword: p.primaryKeyword || '', title: p.title, h1: p.h1 }), keyword: normalize(p.primaryKeyword || ''), answer: trigrams(plain(p.answer || p.lead || '', c)) });
     }
   }
   const articleText = (a, c) =>
@@ -49,10 +66,11 @@ export function createValidator() {
       ...(a.faq || []).flatMap((f) => [plain(f.q || '', c), plain(f.a || '', c)])
     ].join('\n');
   for (const a of model.articles) {
-    corpus.push({ id: a.id, set: shingleOf(articleText(a.article, ctxFor(a.source))), title: a.title, h1: a.h1, description: a.description });
+    const t = topics.get(a.id);
+    corpus.push({ id: a.id, set: shingleOf(articleText(a.article, ctxFor(a.source))), title: a.title, h1: a.h1, description: a.description, intent: intentFingerprint({ primaryKeyword: t?.primary_keyword || '', title: a.title, h1: a.h1 }), keyword: normalize(t?.primary_keyword || ''), answer: trigrams(plain(a.article.summary || '', ctxFor(a.source))) });
   }
 
-  function validateArticle(draft, { file = 'draft', batchUrls = new Set(), allowPublished = false } = {}) {
+  function validateArticle(draft, { file = 'draft', batchUrls = new Set(), allowPublished = false, peers = [] } = {}) {
     const errors = [];
     const warnings = [];
     const E = (m) => errors.push(m);
@@ -67,7 +85,15 @@ export function createValidator() {
       return { errors, warnings, stats };
     }
     if (topic.editorial_qa_status === 'HOLD_FOR_INTENT_REVIEW') E(`${draft.id} is HOLD_FOR_INTENT_REVIEW: ${topic.hold_reason}`);
-    if (!allowPublished && model.state.published_ids.includes(draft.id)) E(`${draft.id} is already published (updates must go through a reviewed edit of content/articles)`);
+    const published = model.state.published_ids.includes(draft.id);
+    const isUpdate = Boolean(draft.revision);
+    if (isUpdate) {
+      if (!published) E(`${draft.id} is not published: "revision" is only for updates of published articles`);
+      if (typeof draft.revision.reason !== 'string' || draft.revision.reason.trim().length < 20) E('revision.reason must explain what changed and why (at least 20 characters)');
+    } else if (!allowPublished && published) {
+      E(`${draft.id} is already published: send an update with "revision": { "reason": "…" }`);
+    }
+    stats.update = isUpdate;
     if (draft.slug !== topic.slug) E(`slug "${draft.slug}" must be "${topic.slug}" (URL ${topic.target_url})`);
     if (draft.contract_version !== config.contract_version) E(`contract_version must be ${config.contract_version}`);
     const okStatus = allowPublished ? ['READY_FOR_QA', 'PUBLISHED'] : ['READY_FOR_QA'];
@@ -118,6 +144,26 @@ export function createValidator() {
       if (n(draft.title) === normalize(other.title)) E(`title duplicates ${other.id}`);
       if (n(draft.h1) === normalize(other.h1)) E(`h1 duplicates ${other.id}`);
       if (n(draft.description) === normalize(other.description)) E(`description duplicates ${other.id}`);
+    }
+
+    // --- search intent: a draft must not answer the same query as a live page or another draft
+    const myIntent = intentFingerprint({ primaryKeyword: topic.primary_keyword, title: safePlain(draft.title), h1: safePlain(draft.h1) });
+    const myKeyword = normalize(topic.primary_keyword);
+    let closest = { id: null, score: 0 };
+    for (const other of [...corpus, ...peers]) {
+      if (other.id === draft.id) continue;
+      if (other.keyword && other.keyword === myKeyword) E(`primary keyword "${topic.primary_keyword}" is already the main keyword of ${other.id}`);
+      const score = jaccard(myIntent, other.intent);
+      if (score > closest.score) closest = { id: other.id, score };
+    }
+    stats.max_intent_overlap = Number(closest.score.toFixed(2));
+    if (closest.score >= config.intent.error) E(`same search intent as ${closest.id} (overlap ${closest.score.toFixed(2)}): merge the topics or change the angle`);
+    else if (closest.score >= config.intent.warning) W(`search intent close to ${closest.id} (overlap ${closest.score.toFixed(2)}): make the difference explicit in title and H1`);
+    const myAnswer = trigrams(safePlain(draft.summary));
+    for (const other of corpus) {
+      if (other.id === draft.id || !other.answer?.size || !myAnswer.size) continue;
+      const score = jaccard(myAnswer, other.answer);
+      if (score >= config.intent.answer_warning) W(`quick answer repeats ${other.id} (overlap ${score.toFixed(2)})`);
     }
 
     // --- raw HTML and literal business facts
@@ -232,10 +278,55 @@ export function createValidator() {
     const fullText = [safePlain(draft.title), safePlain(draft.h1), safePlain(draft.summary), text].join('\n');
     for (const hit of findBrazilianisms(fullText)) {
       const msg = `pt-BR "${hit.term}" → "${hit.pt}" (…${hit.context}…)`;
-      if (/ndo$/.test(hit.term)) W(msg);
+      if (hit.level === 'warning') W(msg);
       else E(msg);
     }
+    for (const hit of findStyleIssues(fullText)) W(`pt-PT style "${hit.term}" → "${hit.pt}" (…${hit.context}…)`);
+    const foreign = findForeignText(fullText);
+    const report = (hits, min, what) => {
+      const terms = [...new Set(hits.map((h) => h.term.toLowerCase()))];
+      if (hits.length >= min) E(`${what}: ${terms.join(', ')} — the text looks copied or machine-translated`);
+      else for (const h of hits) W(`${what} "${h.term}" (…${h.context}…)`);
+    };
+    report(foreign.spanish, 2, 'Spanish words');
+    report(foreign.noAccents, 3, 'Portuguese words without diacritics');
+    report(foreign.english, 3, 'English sentences');
+    const read = readability(text);
+    stats.avg_sentence_words = read.avg;
+    if (read.avg > 26) W(`long sentences on average (${read.avg} words): split them for mobile readers`);
+    for (const sentence of read.long.slice(0, 3)) W(`sentence over 50 words: "${sentence}…"`);
+    if (read.voce_per_1000 > 5) W(`"você" ${read.voce_per_1000}× per 1000 words: European Portuguese usually omits the subject`);
     for (const hit of findRiskyClaims(fullText)) E(`unverified business claim "${hit.match}" (…${hit.context}…)`);
+
+    // --- sources cross-check: legal content needs legal/official sources, sources must be recent
+    const resolved = sources.map((x) => (typeof x === 'string' ? model.sources.get(x) : x)).filter((x) => x && x.url);
+    const host = (u) => {
+      try {
+        return new URL(u).hostname.replace(/^www\./, '');
+      } catch {
+        return '';
+      }
+    };
+    const ageDays = (d) => Math.round((Date.parse(todayISO()) - Date.parse(d)) / 86400000);
+    for (const x of resolved) {
+      const age = ageDays(x.accessed);
+      if (age < 0) E(`source "accessed" date is in the future: ${x.url}`);
+      else if (age > config.sources.max_age_days_error) E(`source consulted ${age} days ago — check it again: ${x.url}`);
+      else if (age > config.sources.max_age_days_warning) W(`source consulted ${age} days ago — confirm it is still current: ${x.url}`);
+      if (!x.type) W(`source without "type" (${config.sources.types.join(', ')}): ${x.url}`);
+      else if (!config.sources.types.includes(x.type)) E(`source type "${x.type}" not allowed (${config.sources.types.join(', ')}): ${x.url}`);
+    }
+    const codes = topic.source_requirements.codes;
+    const legalText = LEGAL_TRIGGERS.test(fullText);
+    stats.legal_text = legalText;
+    if ((codes.includes('L') || legalText) && !resolved.some((x) => ['legal-database', 'official'].includes(x.type))) {
+      E('laws, fines or licence rules are mentioned: cite at least one legal-database or official source');
+    }
+    if (legalText && !draft.legal_note) W('the text mentions laws, fines or licences: set legal_note: true');
+    if (codes.includes('P') && !resolved.some((x) => OFFICIAL_PT.test(host(x.url)))) E('topic needs an official Portuguese source (IMT, Portal Diplomático, gov.pt)');
+    for (const [code, re] of Object.entries(PREFERRED_DOMAINS)) {
+      if (codes.includes(code) && !resolved.some((x) => re.test(host(x.url)))) W(`source code ${code}: ${SOURCE_CODES[code]}`);
+    }
 
     const pkTokens = normalize(topic.primary_keyword).split(' ').filter((w) => w.length > 3 && !['aluguer', 'hanoi', 'mota', 'motas'].includes(w));
     const head = normalize(`${safePlain(draft.title)} ${safePlain(draft.h1)}`);

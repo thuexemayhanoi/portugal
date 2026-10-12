@@ -1,6 +1,6 @@
 # Contrato do escritor — Content Factory 300 (pt.rentbikehanoi.com)
 
-> **Tóm tắt (tiếng Việt, cho chủ website):** người viết (người thật, AI bên ngoài hoặc Claude) chỉ viết các chủ đề có trong `data/writer-queue.json`, mỗi bài một file `_factory/inbox/PT-XXXX.json` đúng định dạng `factory/article.schema.json`. Mọi dữ kiện kinh doanh (giá, điện thoại, giờ mở cửa, địa chỉ) phải dùng token `{{...}}` để tự đồng bộ từ `site/data.json`. Cấm tự bịa caução, giao xe miễn phí, không cần bằng lái, 24/7, bảo hiểm, đánh giá, xếp hạng. QA tự động (`scripts/qa-factory.mjs`) sẽ từ chối bài vi phạm; bài đạt QA chờ duyệt (`factory approve`) rồi mới xuất bản.
+> **Tóm tắt (tiếng Việt, cho chủ website):** người viết (người thật, AI bên ngoài hoặc Claude) chỉ viết các chủ đề có trong `data/writer-queue.json`, mỗi bài một file `_factory/inbox/PT-XXXX.json` đúng định dạng `factory/article.schema.json`. Mọi dữ kiện kinh doanh (giá, điện thoại, giờ mở cửa, địa chỉ) phải dùng token `{{...}}` để tự đồng bộ từ `site/data.json`. Cấm tự bịa caução, giao xe miễn phí, không cần bằng lái, 24/7, bảo hiểm, đánh giá, xếp hạng. QA tự động (`scripts/qa-factory.mjs`) sẽ từ chối bài vi phạm; bài đạt QA chờ duyệt (`factory approve`) rồi mới xuất bản. QA còn kiểm tra trùng search intent với trang đã đăng và các bài cùng lô, đối chiếu nguồn (nội dung pháp lý phải có nguồn luật/chính thức, nguồn quá cũ bị cảnh báo), phát hiện văn bản sao chép/dịch máy (tiếng Tây Ban Nha, tiếng Anh, thiếu dấu); tối đa 10 bài mới mỗi 7 ngày; sửa bài cũ bằng trường `revision`.
 
 Versão do contrato: **1**. Língua: **português de Portugal (pt-PT)**, Acordo Ortográfico de 1990.
 
@@ -52,10 +52,12 @@ Nunca escreva à mão preços, telefone, morada ou horário. Use tokens (substit
 
 | Token | Exemplo de valor atual |
 |---|---|
-| `{{name}}` / `{{display}}` / `{{brand}}` | Cho Thuê Xe Máy Nguyễn Tú / Nguyễn Tú — Aluguer de Motas em Hanói / Nguyễn Tú |
-| `{{address}}` / `{{street}}` / `{{area}}` | morada completa / 112 Nguyễn Văn Cừ / Long Biên, Hanói |
-| `{{phone}}` / `{{phone.local}}` / `{{tel}}` | +84 942 467 674 / 0942 467 674 / `tel:` para ligações |
-| `{{hours}}`, `{{maps}}`, `{{zalo}}`, `{{website}}` | horário, Google Maps, Zalo, site da loja |
+| `{{name}}` / `{{display}}` / `{{brand}}` / `{{gbp}}` | Cho Thuê Xe Máy Nguyễn Tú / Nguyễn Tú — Aluguer de Motas em Hanói / Nguyễn Tú / Thuê xe máy ở Hà Nội - Nguyễn Tú (nome no Google Maps) |
+| `{{address}}` / `{{address.vi}}` | 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hanói, Vietname / a mesma morada em vietnamita (para mostrar ao taxista) |
+| `{{street}}` / `{{area}}` | 112 Nguyễn Văn Cừ / Long Biên, Hanói |
+| `{{phone}}` / `{{phone.local}}` / `{{tel}}` | +84 942 467 674 / 0942 467 674 / `tel:+84942467674` para ligações |
+| `{{hours}}` / `{{hours.display}}` | «todos os dias, das 09:00 às 21:00» (dentro de uma frase) / «Aberto todos os dias, das 09:00 às 21:00.» (frase completa) |
+| `{{maps}}`, `{{zalo}}`, `{{website}}`, `{{byline}}` | Google Maps (CID oficial), Zalo, site principal da loja, assinatura editorial |
 | `{{price.<modelo>.day|week|month}}` | modelos: `wave`, `sirius`, `vision`, `airblade`, `click`, `mio`, `cc50`, `eletrica`, `bicicleta` |
 | `{{price.min.day}}`, `{{price.max.day}}`, `{{pricing.verifiedAt}}` | intervalo diário e data de verificação |
 
@@ -71,6 +73,8 @@ Não afirmar sem confirmação escrita do proprietário: montantes de caução, 
 - Reutilize IDs de `site/sources.json` sempre que existam.
 - Fontes novas: URL `https://` real e verificada, título e entidade reais, data de consulta (`AAAA-MM-DD`). **Nunca inventar URLs.** O QA pode verificar cada URL online.
 - Temas sensíveis ao tempo (código `Z`): confirmar a regra em vigor na data de consulta e dizê-lo no texto.
+- Indique `type` em cada fonte nova (`legal-database`, `official`, `news`, `manufacturer`, `business`, `reference`) e `lang` (`pt`, `vi`, `en`…).
+- **Cruzamento de fontes (QA):** se o texto falar de leis, decretos, coimas, idade mínima, álcool ou Licença Internacional de Condução, tem de citar pelo menos uma fonte `legal-database` ou `official` e marcar `legal_note: true`. Temas com código `P` exigem fonte oficial portuguesa (IMT, Portal Diplomático, gov.pt). Fontes consultadas há mais de 365 dias geram aviso; há mais de 730 dias, erro.
 
 ## 7. Ligações internas
 
@@ -84,12 +88,14 @@ Não afirmar sem confirmação escrita do proprietário: montantes de caução, 
 - Progressivo com «a + infinitivo» («está a chover»), não gerúndio.
 - Tratamento formal implícito («Confirme…», «Pode…»), ênclise nas orações afirmativas («Contacte-nos»).
 - Números: «150.000 VND», «1.000 km»; datas: «12 de outubro de 2026»; horas: «09:00».
-- Frases claras, parágrafos de 2–5 frases, sem enchimento nem repetição da palavra-chave.
+- Frases claras, parágrafos de 2–5 frases, sem enchimento nem repetição da palavra-chave. O QA avisa quando a média passa de 26 palavras por frase ou uma frase passa de 50.
+- Exónimos em português: **Hanói**, **Vietname** (não «Hanoi», «Vietnam»); «mota» em vez de «moto».
+- **Texto original, nunca traduzido nem copiado** (do site espanhol ou de outro): palavras em espanhol, frases em inglês ou palavras portuguesas sem acentos («nao», «possivel») são detetadas; a partir de 2–3 ocorrências o rascunho é rejeitado.
 
 ## 9. SEO e respostas diretas
 
 - A primeira frase do `summary` responde à pergunta do tema; os H2 seguem a ordem lógica da decisão do leitor.
-- Uma intenção por artigo: não repetir o que já responde o `pillar_url` ou outro artigo publicado — aprofunde o ângulo do `content_brief`.
+- Uma intenção por artigo: não repetir o que já responde o `pillar_url` ou outro artigo publicado — aprofunde o ângulo do `content_brief`. O QA compara a «impressão digital» de intenção (palavra-chave principal + título + H1) com todas as páginas publicadas e com os outros rascunhos do mesmo lote: sobreposição ≥ 0,45 gera aviso, ≥ 0,6 rejeita; a mesma palavra-chave principal de uma página publicada também rejeita.
 - Palavra-chave principal no título ou no H1 e no início do texto, sem repetição artificial.
 - FAQ só com perguntas que o leitor faria e que o texto não responde já de forma óbvia.
 
@@ -97,7 +103,19 @@ Não afirmar sem confirmação escrita do proprietário: montantes de caução, 
 
 `_factory/inbox/` → `node scripts/factory.mjs process` (QA automático) → `_factory/review/` com relatório `.qa.json` → aprovação editorial (`node scripts/factory.mjs approve PT-XXXX`) → `content/articles/` → site regenerado e verificado. Rascunhos com erros vão para `_factory/rejected/` com o relatório; reescreva e volte a entregar na inbox.
 
-O QA verifica estrutura, extensão, tokens, ligações, fontes, unicidade de título/descrição, vocabulário pt-BR, afirmações não verificadas e semelhança com páginas existentes. **Passar no QA não garante qualidade editorial nem posições no Google**: a revisão humana continua necessária.
+O QA verifica estrutura, extensão, tokens, ligações, fontes (tipo, data, cruzamento com o tema), unicidade de título/descrição, intenção de pesquisa, vocabulário pt-BR, texto copiado ou traduzido, afirmações não verificadas e semelhança com páginas existentes. **Passar no QA não garante qualidade editorial nem posições no Google**: a revisão humana continua necessária.
+
+**Ritmo de publicação:** no máximo `publishing.max_new_per_7_days` artigos novos (10 por omissão) em qualquer janela de 7 dias. Acima disso, `approve` devolve `PACE_LIMIT` e o rascunho fica em revisão.
+
+### Atualizar um artigo publicado (manutenção de conteúdo)
+
+Para melhorar um artigo existente (dados da Search Console, lei alterada, preço novo), entregue na inbox o mesmo `id` e `slug` com o texto completo revisto e o campo:
+
+```json
+"revision": { "reason": "Coimas atualizadas segundo o decreto em vigor; título reescrito por CTR baixo." }
+```
+
+O URL nunca muda. A data de publicação original mantém-se, `date_modified` passa a ser a da aprovação e o motivo fica no histórico (`editorial.revisions`). Sem `revision`, um id já publicado é rejeitado.
 
 ## 11. Esqueleto mínimo (não publicável: falta extensão)
 
