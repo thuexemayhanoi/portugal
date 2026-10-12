@@ -1,0 +1,48 @@
+{
+  "url": "/politica-de-privacidade/",
+  "template": "legal",
+  "navLabel": "Política de privacidade",
+  "title": "Política de privacidade | Nguyễn Tú Hanói",
+  "description": "Como este site informativo da Nguyễn Tú trata os dados: sem formulários nem cookies de rastreio, alojamento no GitHub Pages e ligações a serviços externos.",
+  "h1": "Política de privacidade",
+  "eyebrow": "Informação legal",
+  "lead": "Este é um site informativo e estático. Explicamos, de forma simples, que dados são — e que dados não são — tratados quando o visita.",
+  "updated": "2026-10-12",
+  "sections": [
+    {
+      "h2": "Quem é responsável",
+      "body": ["Este site é publicado por {{name}} ({{display}}), {{address}}. Para qualquer questão sobre privacidade, contacte-nos pelo telefone ou Zalo {{phone}}."]
+    },
+    {
+      "h2": "Sem formulários, contas ou pagamentos",
+      "body": ["O site não tem formulários de contacto, registo de utilizadores, reservas nem pagamentos online. Não recolhemos através do site o seu nome, e-mail, número de telefone ou outros dados pessoais."]
+    },
+    {
+      "h2": "Cookies e armazenamento local",
+      "body": [
+        "O site não utiliza cookies de publicidade nem ferramentas de análise de audiência ou de rastreio.",
+        "Se escolher o tema claro ou escuro, essa preferência fica guardada apenas no seu navegador (armazenamento local, com a chave «pt-theme») para ser aplicada nas visitas seguintes. Não é enviada para nenhum servidor e pode apagá-la limpando os dados do site no navegador."
+      ]
+    },
+    {
+      "h2": "Pesquisa no site",
+      "body": ["A pesquisa funciona no seu navegador: ao abri-la, é descarregado um ficheiro com os títulos, descrições e subtítulos das páginas, e o texto que escreve não é enviado para nenhum servidor."]
+    },
+    {
+      "h2": "Alojamento",
+      "body": ["O site está alojado no GitHub Pages. Como qualquer servidor web, o serviço de alojamento pode registar dados técnicos dos pedidos — por exemplo, o endereço IP e o navegador utilizado — para servir as páginas e proteger a infraestrutura, nos termos da [declaração de privacidade do GitHub](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement)."]
+    },
+    {
+      "h2": "Ligações e serviços externos",
+      "body": ["Algumas ligações abrem serviços de terceiros, como o Google Maps, o Zalo ou a aplicação de telefone do seu dispositivo. A partir desse momento, aplicam-se as políticas de privacidade desses serviços."]
+    },
+    {
+      "h2": "Quando nos contacta",
+      "body": ["Se ligar ou escrever para a loja, a conversa decorre fora deste site, através do operador telefónico ou da aplicação escolhida. Os dados que partilhar — por exemplo, o nome, as datas ou o modelo pretendido — servem para responder ao seu pedido e preparar o aluguer."]
+    },
+    {
+      "h2": "Alterações a esta política",
+      "body": ["Se o site passar a incluir formulários, reservas, análise de audiência ou outra funcionalidade que trate dados pessoais, esta política será atualizada antes de essa funcionalidade entrar em funcionamento. A data da última atualização está indicada no topo da página."]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "command": "approve",
+  "run_on": "2026-10-12",
+  "status": "ACTIVE",
+  "published_total": 3,
+  "in_review": [],
+  "processed": [
+    {
+      "id": "PT-0001",
+      "result": "PUBLISH",
+      "warnings": []
+    },
+    {
+      "id": "PT-0066",
+      "result": "PUBLISH",
+      "warnings": [
+        "literal VND amount \"600.000 VND\": business prices must use {{price.*}} tokens (legal amounts are fine with a source)"
+      ]
+    },
+    {
+      "id": "PT-0126",
+      "result": "PUBLISH",
+      "warnings": [
+        "literal VND amount \"600.000 VND\": business prices must use {{price.*}} tokens (legal amounts are fine with a source)"
+      ]
+    }
+  ],
+  "published": [
+    "PT-0001",
+    "PT-0066",
+    "PT-0126"
+  ],
+  "failed": []
+}

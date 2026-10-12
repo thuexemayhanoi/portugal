@@ -1,0 +1,18 @@
+{
+  "name": "pt-rentbikehanoi",
+  "private": true,
+  "type": "module",
+  "description": "Site estático em pt-PT da loja Cho Thuê Xe Máy Nguyễn Tú (pt.rentbikehanoi.com): gerador sem dependências, QA SEO e Content Factory 300.",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "check": "node scripts/build.mjs --check && node scripts/plan.mjs --check && node scripts/qa-site.mjs && node scripts/qa-factory.mjs --published",
+    "qa": "node scripts/qa-site.mjs",
+    "test": "node --test \"scripts/test/*.test.mjs\"",
+    "plan": "node scripts/plan.mjs --write",
+    "factory": "node scripts/factory.mjs",
+    "serve": "python3 -m http.server 8080"
+  }
+}

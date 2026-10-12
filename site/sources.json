@@ -1,0 +1,185 @@
+{
+  "$comment": "Registo único de fontes citadas no site. As páginas e os artigos referem-se às fontes pelo `id`. Se uma ligação mudar, corrige-se aqui e a correção propaga-se a todas as páginas. `type`: official (entidade pública), legal-database (base de dados jurídica), news (imprensa), business (dados do proprietário).",
+  "sources": [
+    {
+      "id": "lei-36-2024-artigo-56",
+      "title": "Điều 56 Luật trật tự, an toàn giao thông đường bộ 2024",
+      "publisher": "Hệ thống pháp luật Việt Nam",
+      "url": "https://hethongphapluat.com/luat-trat-tu-an-toan-giao-thong-duong-bo-2024/dieu-56",
+      "type": "legal-database",
+      "lang": "vi",
+      "accessed": "2026-10-12",
+      "supports": "Documentos a levar ao conduzir: registo do veículo, carta adequada à categoria e certificado do seguro obrigatório de responsabilidade civil; possibilidade de os apresentar na conta VNeID."
+    },
+    {
+      "id": "lei-36-2024-a1",
+      "title": "Luật Trật tự, an toàn giao thông đường bộ 2024 quy định như thế nào về GPLX hạng A1?",
+      "publisher": "LuatVietnam",
+      "url": "https://luatvietnam.vn/giao-thong/luat-trat-tu-an-toan-giao-thong-duong-bo-2024-quy-dinh-nhu-the-nao-ve-giay-phep-lai-xe-hang-a1-863-100479-article.html",
+      "type": "legal-database",
+      "lang": "vi",
+      "accessed": "2026-10-12",
+      "supports": "Desde 1 de janeiro de 2025, a categoria A1 abrange motociclos de duas rodas até 125 cm³ ou com motor elétrico até 11 kW."
+    },
+    {
+      "id": "lawnet-categorias-2025",
+      "title": "Newest regulations on categories of driver's licenses in Vietnam from January 1, 2025",
+      "publisher": "LawNet",
+      "url": "https://lawnet.vn/thong-tin-phap-luat/en/chinh-sach-moi/newest-regulations-on-categories-of-driver-s-licenses-in-vietnam-from-january-1-2025-168668.html",
+      "type": "legal-database",
+      "lang": "en",
+      "accessed": "2026-10-12",
+      "supports": "Novas categorias de carta de condução no Vietname a partir de 2025 (A1 até 125 cm³; A acima de 125 cm³)."
+    },
+    {
+      "id": "luatvietnam-16-anos",
+      "title": "Năm 2025, người đủ 16 tuổi có được điều khiển xe máy không?",
+      "publisher": "LuatVietnam",
+      "url": "https://luatvietnam.vn/luat-su-tu-van/nam-2025-nguoi-du-16-tuoi-co-duoc-dieu-khien-xe-may-khong--150673-faqs.html",
+      "type": "legal-database",
+      "lang": "vi",
+      "accessed": "2026-10-12",
+      "supports": "Idade mínima de 16 anos para conduzir veículos até 50 cm³ (xe gắn máy) e definição destes veículos na lei de 2024."
+    },
+    {
+      "id": "lawnet-capacete-168",
+      "title": "How much is the fine for failing to wear a helmet in Vietnam according to Decree 168?",
+      "publisher": "LawNet",
+      "url": "https://lawnet.vn/chinh-sach-thue/en/how-much-is-the-fine-for-failing-to-wear-a-helmet-in-vietnam-according-to-decree-168-are-electric-bi-20417.html",
+      "type": "legal-database",
+      "lang": "en",
+      "accessed": "2026-10-12",
+      "supports": "Coima de 400.000 a 600.000 VND por não usar capacete (Decreto 168/2024/NĐ-CP, em vigor desde 1 de janeiro de 2025), também aplicável a bicicletas elétricas."
+    },
+    {
+      "id": "lawnet-proibicoes-2024",
+      "title": "28 Prohibited acts in Vietnam under the Law on Road Traffic Order and Safety 2024",
+      "publisher": "LawNet",
+      "url": "https://lawnet.vn/thong-tin-phap-luat/en/chinh-sach-moi/28-prohibited-acts-in-vietnam-under-the-law-on-road-traffic-order-and-safety-2024-168670.html",
+      "type": "legal-database",
+      "lang": "en",
+      "accessed": "2026-10-12",
+      "supports": "Condutas proibidas pela lei de 2024, incluindo conduzir com qualquer concentração de álcool no sangue ou no ar expirado."
+    },
+    {
+      "id": "tuoitre-alcool-zero",
+      "title": "Vietnam's legislature passes zero-tolerance policy for drunk driving",
+      "publisher": "Tuổi Trẻ News",
+      "url": "https://news.tuoitre.vn/vietnams-legislature-passes-zero-tolerance-policy-for-drunk-driving-10380677.htm",
+      "type": "news",
+      "lang": "en",
+      "accessed": "2026-10-12",
+      "supports": "Aprovação da proibição absoluta de conduzir com álcool no sangue ou no ar expirado (lei em vigor desde 1 de janeiro de 2025)."
+    },
+    {
+      "id": "imt-lic",
+      "title": "Licença Internacional de Condução",
+      "publisher": "IMT — Instituto da Mobilidade e dos Transportes",
+      "url": "https://www.imt-ip.pt/condutores/informacoes-gerais/licenca-internacional-de-conducao/",
+      "type": "official",
+      "lang": "pt",
+      "accessed": "2026-10-12",
+      "supports": "A Licença Internacional de Condução emitida em Portugal, os documentos para a pedir, a validade máxima de um ano e a obrigação de a apresentar com a carta nacional."
+    },
+    {
+      "id": "uncrd-vietname-1968",
+      "title": "Apresentação do Vietname sobre a adesão às Convenções de Viena de 1968 (9.º Fórum Regional EST, documento em PDF)",
+      "publisher": "UNCRD — Centro das Nações Unidas para o Desenvolvimento Regional",
+      "url": "https://uncrd.un.org/sites/uncrd.un.org/files/9th-est_vietnam-process-assesstion.pdf",
+      "type": "official",
+      "lang": "en",
+      "accessed": "2026-10-12",
+      "supports": "O Vietname aderiu às Convenções de Viena de 1968 sobre a circulação rodoviária, com notificação do Secretário-Geral da ONU a 20 de agosto de 2014."
+    },
+    {
+      "id": "mfat-conduzir-vietname",
+      "title": "Driving in Viet Nam",
+      "publisher": "Ministry of Foreign Affairs and Trade — New Zealand Embassy in Hanoi",
+      "url": "https://www.mfat.govt.nz/en/countries-and-regions/asia/viet-nam/new-zealand-embassy/driving-in-viet-nam",
+      "type": "official",
+      "lang": "en",
+      "accessed": "2026-10-12",
+      "supports": "Aviso oficial de um governo estrangeiro sobre carta de condução, seguro e riscos de conduzir mota no Vietname."
+    },
+    {
+      "id": "tuoitre-lic-fiscalizacao",
+      "title": "Foreigners caught riding motorbikes without international driving permits in Vietnam's Khanh Hoa",
+      "publisher": "Tuổi Trẻ News",
+      "url": "https://news.tuoitre.vn/foreigners-caught-riding-motorbikes-without-international-driving-permits-in-vietnams-khanh-hoa-103260514161445285.htm",
+      "type": "news",
+      "lang": "en",
+      "accessed": "2026-10-12",
+      "supports": "Fiscalização policial a estrangeiros que conduzem motas sem licença internacional válida (maio de 2026)."
+    },
+    {
+      "id": "dtinews-autoestrada-2026",
+      "title": "Notícia sobre coimas a motociclistas estrangeiros na autoestrada Tuyên Quang–Phú Thọ (fevereiro de 2026)",
+      "publisher": "Dân trí International (DTiNews)",
+      "url": "https://dtinews.dantri.com.vn/print/20260208212213197.htm",
+      "type": "news",
+      "lang": "en",
+      "accessed": "2026-10-12",
+      "supports": "As motas estão proibidas nas autoestradas (cao tốc) do Vietname; caso de fiscalização em fevereiro de 2026."
+    },
+    {
+      "id": "github-privacidade",
+      "title": "GitHub General Privacy Statement",
+      "publisher": "GitHub",
+      "url": "https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement",
+      "type": "official",
+      "lang": "en",
+      "accessed": "2026-10-12",
+      "supports": "Tratamento de dados técnicos pelo serviço de alojamento GitHub Pages."
+    },
+    {
+      "id": "tabela-precos-proprietario",
+      "title": "Tabela de preços de referência da loja Nguyễn Tú",
+      "publisher": "Cho Thuê Xe Máy Nguyễn Tú",
+      "url": "https://thuexemaynguyentu.com/",
+      "type": "business",
+      "lang": "vi",
+      "accessed": "2026-10-12",
+      "supports": "Preços de referência por modelo (dia, semana e mês) publicados pelo proprietário."
+    },
+    {
+      "id": "lawnet-passageiros-2025",
+      "title": "From 2025, what are cases in which it is allowed to carry 2 people on a motorbike in Vietnam?",
+      "publisher": "LawNet",
+      "url": "https://lawnet.vn/judgment/en/tin-tuc/from-2025-what-are-cases-in-which-it-is-allowed-to-carry-2-people-on-a-motorbike-in-vietnam-11616",
+      "type": "legal-database",
+      "lang": "en",
+      "accessed": "2026-10-12",
+      "supports": "Regra geral de um passageiro por mota; dois apenas em quatro situações excecionais (urgência médica, escolta de infrator, criança com menos de 12 anos, idoso ou pessoa com deficiência). Proibição de usar o telemóvel ou guarda-chuva e de largar o guiador."
+    },
+    {
+      "id": "chotot-air-blade-125-160",
+      "title": "Comparação entre a Honda Air Blade 125 e a Air Blade 160 (artigo em vietnamita)",
+      "publisher": "Chợ Tốt Xe",
+      "url": "https://xe.chotot.com/kinh-nghiem/so-sanh-air-blade-125-va-160.html",
+      "type": "news",
+      "lang": "vi",
+      "accessed": "2026-10-12",
+      "supports": "A Honda Air Blade é vendida no Vietname em versões de 125 cm³ e de 160 cm³ (156,9 cm³)."
+    },
+    {
+      "id": "vietnamnet-zbe-piloto",
+      "title": "Hanoi to pilot gasoline motorbike ban in Hoan Kiem from July",
+      "publisher": "VietNamNet",
+      "url": "https://vietnamnet.vn/en/hanoi-to-pilot-gasoline-motorbike-ban-in-hoan-kiem-from-july-2509407.html",
+      "type": "news",
+      "lang": "en",
+      "accessed": "2026-10-12",
+      "supports": "Fase piloto da zona de baixas emissões de Hanói no bairro de Hoàn Kiếm a partir de julho de 2026."
+    },
+    {
+      "id": "vietnamnet-zbe-revisao",
+      "title": "Hanoi drops proposal for outright petrol motorbike ban around Hoan Kiem Lake",
+      "publisher": "VietNamNet",
+      "url": "https://vietnamnet.vn/en/hanoi-drops-proposal-for-outright-petrol-motorbike-ban-around-hoan-kiem-lake-2521274.html",
+      "type": "news",
+      "lang": "en",
+      "accessed": "2026-10-12",
+      "supports": "Revisão da proposta: abandono da proibição total de motas a gasolina à volta do lago Hoàn Kiếm, a favor de uma aplicação faseada."
+    }
+  ]
+}

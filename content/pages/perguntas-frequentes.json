@@ -1,0 +1,151 @@
+{
+  "url": "/perguntas-frequentes/",
+  "template": "faq",
+  "schemaType": "FAQPage",
+  "navLabel": "Perguntas frequentes",
+  "title": "Perguntas frequentes sobre aluguer de motas em Hanói",
+  "description": "Respostas diretas sobre aluguer de motas em Hanói: horário, preços, caução, documentos, carta de condução, capacete, entrega e contacto com a loja Nguyễn Tú.",
+  "h1": "Perguntas frequentes",
+  "primaryKeyword": "perguntas frequentes aluguer de motas hanói",
+  "eyebrow": "Dúvidas antes de alugar",
+  "lead": "Vinte respostas curtas sobre reservas, preços, documentos, regras de trânsito e utilização da mota. Quando a resposta depende do seu caso, dizemos o que confirmar.",
+  "updated": "2026-10-12",
+  "toc": true,
+  "groups": [
+    {
+      "id": "reservas-e-contacto",
+      "title": "Reservas e contacto",
+      "items": [
+        {
+          "id": "onde-fica",
+          "q": "Onde fica a loja Nguyễn Tú?",
+          "a": "A loja fica em {{address}}, na zona de Long Biên, na margem leste do rio Vermelho. Pode abrir a localização exata no [Google Maps]({{maps}})."
+        },
+        {
+          "id": "horario",
+          "q": "Qual é o horário de funcionamento?",
+          "a": "A loja está aberta {{hours}}. Se precisar de levantar ou devolver a mota fora deste horário, pergunte antes: qualquer exceção tem de ser confirmada pela loja."
+        },
+        {
+          "id": "como-reservar",
+          "q": "Como posso reservar uma mota?",
+          "a": "Ligue ou escreva no Zalo para o {{phone}} com as datas, o modelo pretendido e o número de pessoas. Este site não tem reservas nem pagamentos online: a disponibilidade e o preço final são sempre confirmados diretamente pela loja."
+        },
+        {
+          "id": "antecedencia",
+          "q": "Com quanta antecedência devo contactar a loja?",
+          "a": "Não existe um prazo publicado. Quanto mais cedo indicar as datas e o modelo, mais fácil é confirmar a disponibilidade, sobretudo para alugueres longos ou para um modelo específico."
+        }
+      ]
+    },
+    {
+      "id": "precos-e-pagamentos",
+      "title": "Preços e pagamentos",
+      "items": [
+        {
+          "id": "preco-dia",
+          "q": "Quanto custa alugar uma mota por dia em Hanói?",
+          "a": "Na tabela de referência da loja, o aluguer diário vai de {{price.min.day}} a {{price.max.day}}, conforme o modelo: a Honda Wave custa {{price.wave.day}} e a Honda Vision {{price.vision.day}} por dia, por exemplo. Veja a [tabela completa de preços](/precos/)."
+        },
+        {
+          "id": "semana-mes",
+          "q": "Há preços por semana e por mês?",
+          "a": "Sim, para vários modelos. A Honda Vision, por exemplo, tem uma referência de {{price.vision.week}} por semana e de {{price.vision.month}} por mês. Nas motas de 50 cc, as semanas e os meses são cotados caso a caso, e a bicicleta elétrica é sempre sob consulta."
+        },
+        {
+          "id": "incluido",
+          "q": "O que está incluído no preço?",
+          "a": "A tabela mostra apenas o preço de aluguer do veículo. A caução, a entrega ou recolha, o combustível e os acessórios não constam da tabela: pergunte o que se aplica ao seu caso antes de fechar o aluguer."
+        },
+        {
+          "id": "caucao",
+          "q": "É preciso deixar caução?",
+          "a": "As condições de caução — se existe, o montante e a forma — dependem do modelo e da situação de cada aluguer, por isso este site não publica um valor fixo. Peça à loja que confirme estes pontos antes de fechar o aluguer e guarde um comprovativo. Saiba mais em [Documentação e caução](/guia-de-aluguer/documentacao-e-caucao/)."
+        },
+        {
+          "id": "pagamento",
+          "q": "Como se paga o aluguer?",
+          "a": "A forma de pagamento aceite é indicada pela loja quando confirma o aluguer. Pergunte também em que momento é feito o pagamento e peça recibo."
+        }
+      ]
+    },
+    {
+      "id": "documentos-e-regras",
+      "title": "Documentos e regras de trânsito",
+      "items": [
+        {
+          "id": "carta",
+          "q": "Que carta de condução preciso para conduzir uma mota no Vietname?",
+          "a": "Precisa de uma habilitação válida para a categoria do veículo. Desde 2025, a categoria A1 vietnamita abrange motociclos até 125 cm³ (ou motor elétrico até 11 kW). Para visitantes estrangeiros, a orientação mais citada é levar a carta nacional acompanhada de uma licença internacional reconhecida no Vietname; confirme os requisitos atuais em fontes oficiais antes de viajar."
+        },
+        {
+          "id": "lic",
+          "q": "A Licença Internacional de Condução portuguesa serve no Vietname?",
+          "a": "O IMT emite a Licença Internacional de Condução para países signatários das convenções de Genebra (1949) e de Viena (1968); é válida no máximo por um ano e apresenta-se sempre com a carta portuguesa. O Vietname aderiu à Convenção de Viena de 1968. Ao pedi-la, confirme junto do IMT o modelo emitido e a sua validade para o Vietname."
+        },
+        {
+          "id": "50cc-carta",
+          "q": "Uma mota de 50 cc dispensa carta de condução?",
+          "a": "Não assuma que sim. A lei vietnamita trata os veículos até 50 cm³ de forma diferente das motas maiores — por exemplo, a idade mínima é de 16 anos —, mas os requisitos para estrangeiros e as condições do seu seguro devem ser confirmados antes de conduzir. Veja a página sobre [motas de 50 cc](/tipos-de-motas/motas-50cc/)."
+        },
+        {
+          "id": "capacete",
+          "q": "O capacete é obrigatório?",
+          "a": "Sim, para quem conduz e para o passageiro. A coima por não usar capacete é de 400.000 a 600.000 VND (Decreto 168/2024/NĐ-CP). Pergunte à loja que capacetes estão disponíveis e verifique se o seu fica bem ajustado."
+        },
+        {
+          "id": "alcool",
+          "q": "Posso conduzir depois de beber uma cerveja?",
+          "a": "Não. Desde 1 de janeiro de 2025, a lei vietnamita proíbe conduzir com qualquer concentração de álcool no sangue ou no ar expirado. Se for beber, deixe a mota estacionada e use outro meio de transporte."
+        },
+        {
+          "id": "documentos-mota",
+          "q": "Que documentos da mota devo levar comigo?",
+          "a": "A lei de 2024 exige que quem conduz leve o registo do veículo (ou cópia certificada), a carta adequada à categoria e o certificado do seguro obrigatório de responsabilidade civil. Ao levantar a mota, confirme com a loja que documentos do veículo seguem consigo."
+        }
+      ]
+    },
+    {
+      "id": "motas-e-utilizacao",
+      "title": "Motas e utilização",
+      "items": [
+        {
+          "id": "modelos",
+          "q": "Que motas posso alugar?",
+          "a": "A loja tem scooters automáticas (Honda Vision, Honda Air Blade, Honda Click e Yamaha Mio), motas semiautomáticas (Honda Wave e Yamaha Sirius), motas de 50 cc, motas elétricas e bicicletas elétricas. A unidade disponível para as suas datas é confirmada pela loja."
+        },
+        {
+          "id": "automatica-ou-semi",
+          "q": "Scooter automática ou semiautomática: qual escolher?",
+          "a": "Se não tem experiência com mudanças, a scooter automática é a mais simples: basta acelerar e travar. A semiautomática, como a Honda Wave, tem mudanças de pé sem manete de embraiagem e um preço de referência mais baixo, mas exige prática no trânsito de Hanói."
+        },
+        {
+          "id": "entrega",
+          "q": "A loja entrega a mota no hotel?",
+          "a": "Não assuma que sim. Se precisar de entrega ou recolha no alojamento, pergunte com antecedência: a disponibilidade, o horário e um eventual custo são confirmados caso a caso."
+        },
+        {
+          "id": "fora-de-hanoi",
+          "q": "Posso levar a mota para fora de Hanói?",
+          "a": "Confirme primeiro com a loja se a viagem é permitida para o modelo escolhido e prepare o percurso: as motas estão proibidas nas autoestradas (cao tốc) e uma 50 cc não é adequada para longas distâncias."
+        },
+        {
+          "id": "avaria",
+          "q": "O que faço se a mota avariar ou tiver um furo?",
+          "a": "Pare num local seguro, fora da faixa de rodagem, e contacte a loja pelo {{phone}} antes de mandar reparar. Combine com a loja o que fazer e guarde fotografias e recibos."
+        }
+      ]
+    }
+  ],
+  "sources": [
+    "lei-36-2024-a1",
+    "imt-lic",
+    "uncrd-vietname-1968",
+    "luatvietnam-16-anos",
+    "lawnet-capacete-168",
+    "tuoitre-alcool-zero",
+    "lei-36-2024-artigo-56",
+    "dtinews-autoestrada-2026",
+    "tabela-precos-proprietario"
+  ]
+}

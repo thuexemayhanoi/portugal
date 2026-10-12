@@ -1,0 +1,207 @@
+{
+  "contract_version": 1,
+  "id": "PT-0001",
+  "slug": "honda-vision-em-hanoi",
+  "title": "Honda Vision em Hanói: o que esperar ao alugar esta scooter",
+  "description": "Honda Vision para alugar em Hanói: como é a condução, consumo, arrumação, preço de referência por dia, semana e mês e o que verificar na entrega.",
+  "h1": "Alugar uma Honda Vision em Hanói: guia prático",
+  "summary": "A Honda Vision é uma scooter automática de cerca de 110 cm³, leve e fácil de manobrar, que serve bem a maioria das deslocações urbanas em Hanói. Na tabela de referência da loja custa {{price.vision.day}} por dia, {{price.vision.week}} por semana e {{price.vision.month}} por mês.",
+  "key_points": [
+    "Motor de cerca de 110 cm³ com injeção eletrónica e transmissão automática: acelera-se e trava-se, sem mudanças.",
+    "Cabe na categoria A1 vietnamita (até 125 cm³), mas continua a exigir habilitação válida e, para visitantes, a licença internacional reconhecida no Vietname.",
+    "Preço de referência: {{price.vision.day}} por dia; a semana e o mês têm tarifas próprias, mais vantajosas do que somar dias.",
+    "Na entrega, confirme travões, pneus, luzes, capacetes, documentos do veículo e o funcionamento da chave."
+  ],
+  "intro": [
+    "Quem procura uma mota para circular em Hanói acaba quase sempre por comparar scooters automáticas, e a Honda Vision é uma das mais comuns nas ruas da cidade. É baixa, leve e previsível, o que a torna uma escolha natural para quem quer chegar a cafés, mercados e pontos de interesse sem lidar com mudanças.",
+    "Este guia explica o que esperar de uma Vision alugada: como se comporta no trânsito, quanto gasta, o que levar debaixo do assento, quanto custa na tabela da loja e o que deve verificar antes de sair. Os valores de preço são de referência e a loja confirma o total para as suas datas."
+  ],
+  "sections": [
+    {
+      "h2": "O que é a Honda Vision",
+      "body": [
+        "A Vision é uma scooter urbana da Honda, produzida e vendida no Vietname há muitos anos. A geração atual usa um motor eSP de um cilindro, com cerca de 110 cm³, arrefecimento a ar e injeção eletrónica de combustível (PGM-FI). Segundo os dados divulgados para a versão de 2026, o motor rende 6,59 kW às 7.500 rotações por minuto — potência modesta, pensada para a cidade e não para estrada aberta.",
+        "No mercado vietnamita existem várias versões (padrão, premium, especial e desportiva), que mudam sobretudo no acabamento e em equipamento como a chave inteligente. A geração mais recente trouxe uma roda dianteira de 16 polegadas e um painel com ecrã LCD que mostra o nível de combustível e a distância percorrida.",
+        {
+          "note": "A unidade disponível para alugar pode ser de outro ano ou de outra versão. Se um pormenor for importante para si — chave inteligente, porta-objetos com tomada, cor —, pergunte à loja antes de reservar.",
+          "tone": "info",
+          "title": "Ano e versão variam"
+        }
+      ]
+    },
+    {
+      "h2": "Para quem é indicada (e para quem não é)",
+      "body": [
+        "A Vision faz sentido para a maioria dos visitantes que já sabem conduzir uma mota e querem deslocar-se dentro da cidade. Considere-a se:",
+        {
+          "ul": [
+            "vai circular sobretudo entre bairros de Hanói, com paragens frequentes;",
+            "prefere uma mota baixa, em que chega bem com os pés ao chão;",
+            "quer uma condução simples, sem embraiagem nem mudanças;",
+            "procura um equilíbrio entre preço, conforto e facilidade de estacionar."
+          ]
+        },
+        "Já não é a escolha ideal se pretende fazer muitos quilómetros com passageiro e bagagem, subir com frequência rampas longas ou sair da cidade com regularidade. Nesses casos, uma scooter mais potente, como a Air Blade, dá mais folga. E se nunca conduziu uma mota, nenhum modelo resolve a falta de experiência no trânsito de Hanói: comece por avaliar se deve mesmo conduzir."
+      ]
+    },
+    {
+      "h2": "Preço de referência e duração do aluguer",
+      "body": [
+        {
+          "table": {
+            "caption": "Honda Vision: preços de referência da loja",
+            "head": [
+              "Período",
+              "Preço de referência"
+            ],
+            "rows": [
+              [
+                "Dia",
+                "{{price.vision.day}}"
+              ],
+              [
+                "Semana",
+                "{{price.vision.week}}"
+              ],
+              [
+                "Mês",
+                "{{price.vision.month}}"
+              ]
+            ]
+          }
+        },
+        "A tarifa semanal não é o preço diário multiplicado por sete. Se precisa da mota durante cinco ou seis dias, compare os dois valores e peça à loja o total para o período exato. No aluguer mensal, o intervalo publicado depende da unidade e das condições do acordo.",
+        "A tabela refere-se ao aluguer do veículo. A caução, uma eventual entrega no alojamento, o combustível e os acessórios são confirmados à parte. Veja a [tabela completa de preços](/precos/) para comparar com os outros modelos e a página de [scooters automáticas](/tipos-de-motas/scooters/) para perceber as diferenças entre eles."
+      ]
+    },
+    {
+      "h2": "Como é conduzir uma Vision no trânsito de Hanói",
+      "body": [
+        {
+          "h3": "Arranque e aceleração"
+        },
+        "A transmissão automática (CVT) torna o arranque suave: roda-se o punho do acelerador e a mota avança, sem embraiagem. Em pára-arranca, isso reduz o cansaço e deixa a atenção livre para o que acontece à volta. A resposta é tranquila, o que ajuda quem ainda está a habituar-se à densidade do trânsito.",
+        {
+          "h3": "Travagem"
+        },
+        "Os dois travões acionam-se com as manetes do guiador: a da direita para a roda da frente e a da esquerda para a de trás. Use os dois em conjunto, com progressividade, e aumente a distância ao veículo da frente quando o piso estiver molhado. Antes de sair, confirme que as manetes travam com firmeza sem chegarem ao punho.",
+        {
+          "h3": "Com passageiro"
+        },
+        "A regra geral no Vietname é um passageiro por mota, e ambos têm de usar capacete apertado. Com duas pessoas, a Vision continua a ser utilizável na cidade, mas acelera mais devagar e precisa de mais distância para travar. Para trajetos longos a dois, compare com um modelo mais potente.",
+        {
+          "h3": "Pontes e rampas"
+        },
+        "As pontes sobre o rio Vermelho têm rampas compridas e vento lateral. Com a Vision, mantenha uma velocidade constante, fique na faixa da direita e evite ultrapassagens desnecessárias."
+      ]
+    },
+    {
+      "h2": "Consumo, abastecimento e autonomia",
+      "body": [
+        "Para a versão atual, o consumo anunciado é de 1,82 litros aos 100 km, um valor medido em condições de teste. No dia a dia, com trânsito, passageiro ou muitas paragens, conte com um consumo superior. Mesmo assim, a Vision é económica: um dia típico na cidade gasta pouco combustível.",
+        "Combine com a loja o nível de combustível na entrega e na devolução e fotografe o painel quando receber a mota. Nas versões com ecrã LCD, o indicador ajuda a planear o abastecimento; não deixe que chegue à reserva antes de procurar um posto, sobretudo à noite ou fora do centro.",
+        "Se tiver dúvidas sobre o tipo de gasolina a usar, pergunte à loja no momento da entrega e peça que lhe indiquem um posto perto do seu percurso."
+      ]
+    },
+    {
+      "h2": "Chave, assento e arrumação",
+      "body": [
+        "As versões mais equipadas da Vision usam chave inteligente (Smart Key): com o comando por perto, o arranque faz-se num botão rotativo, que também serve para bloquear o guiador e abrir o assento. As versões mais simples usam uma chave convencional. Peça que lhe mostrem o funcionamento da sua unidade e o que fazer se o comando deixar de responder.",
+        "Debaixo do assento há um compartimento para objetos pequenos, como uma capa de chuva ou uma garrafa de água. Não deixe lá documentos nem objetos de valor quando estacionar. Nas versões mais recentes existe ainda um porta-objetos frontal com tomada USB-C, útil para carregar o telemóvel — mas nunca o use para navegar enquanto conduz."
+      ]
+    },
+    {
+      "h2": "O que verificar quando recebe a Vision",
+      "body": [
+        "Reserve dez minutos para a entrega. Com a mota parada, verifique:",
+        {
+          "checklist": [
+            "**Travões**: firmes nas duas rodas, sem ruídos estranhos.",
+            "**Pneus**: piso visível, sem cortes nem bolhas.",
+            "**Luzes e buzina**: farol, luz de travão, piscas e buzina.",
+            "**Espelhos**: bem presos e ajustados à sua posição.",
+            "**Chave**: arranque, bloqueio do guiador e abertura do assento.",
+            "**Capacetes**: do tamanho certo para si e para o passageiro.",
+            "**Documentos do veículo**: registo e certificado do seguro obrigatório, e onde ficam guardados.",
+            "**Estado geral**: fotografias de todos os lados, do painel e do combustível."
+          ]
+        },
+        "Se algo não estiver bem, diga-o antes de sair: é mais simples resolver na loja do que a meio do trânsito. Guarde o número {{phone}} no telemóvel para qualquer dúvida durante o aluguer, e leia o guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/) para saber que documentos levar."
+      ]
+    },
+    {
+      "h2": "Erros comuns na primeira vez com uma scooter",
+      "body": [
+        "Muitos incidentes com scooters alugadas acontecem parados ou a baixa velocidade, nos primeiros minutos. Evite estes erros:",
+        {
+          "ul": [
+            "**Rodar o acelerador ao subir para a mota** com o motor ligado: numa scooter automática, a mota avança de imediato. Suba com o acelerador fechado e um travão acionado.",
+            "**Arrancar com o descanso lateral em baixo**: na maioria das scooters o motor não arranca ou desliga-se. Recolha sempre o descanso antes de ligar.",
+            "**Deixar a chave inteligente no bolso de outra pessoa**: sem o comando por perto, a mota não volta a ligar depois de parar.",
+            "**Esquecer o bloqueio do guiador** ao estacionar, sobretudo em zonas com muito movimento.",
+            "**Parar em cima da passadeira ou à saída de um prédio**: procure um parque de motas ou um local onde o estacionamento seja permitido."
+          ]
+        },
+        "Os primeiros quilómetros devem ser feitos num percurso calmo, para ganhar referência dos travões e da largura da mota antes de entrar em avenidas movimentadas."
+      ]
+    },
+    {
+      "h2": "Vision ou outra scooter?",
+      "body": [
+        "A Vision é o meio-termo da gama. Se precisa de mais potência para andar a dois ou fazer trajetos mais longos, a Honda Air Blade é a alternativa natural (confirme se a unidade é de 125 ou de 160 cm³, porque isso muda a categoria de carta exigida). Se o orçamento pesa mais do que o conforto, a Honda Click e a Yamaha Mio têm um preço de referência mais baixo: {{price.click.day}} por dia.",
+        "Para comparar todos os tipos, incluindo semiautomáticas, 50 cc e elétricas, consulte o guia de [tipos de motas](/tipos-de-motas/). Quando souber o modelo e as datas, [contacte a loja](/contactos/) para confirmar a disponibilidade e o preço final."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "A Honda Vision é automática?",
+      "a": "Sim. Tem transmissão automática (CVT): não há mudanças nem embraiagem. Basta rodar o acelerador para avançar e usar as duas manetes para travar."
+    },
+    {
+      "q": "Que carta preciso para conduzir uma Honda Vision no Vietname?",
+      "a": "Com cerca de 110 cm³, a Vision está dentro da categoria A1 vietnamita, que vai até 125 cm³. Como visitante, a orientação mais citada é levar a carta do seu país com uma licença internacional reconhecida no Vietname. Confirme os requisitos em vigor antes de viajar."
+    },
+    {
+      "q": "Duas pessoas podem andar numa Vision?",
+      "a": "A regra geral é um passageiro por mota, com capacete para ambos. Na cidade, a Vision transporta duas pessoas sem problema, mas acelera e trava de forma menos viva. Para trajetos longos a dois, compare com a Air Blade."
+    },
+    {
+      "q": "A Vision tem espaço para guardar o capacete?",
+      "a": "O compartimento debaixo do assento é pensado para objetos pequenos e pode não levar um capacete inteiro, dependendo do modelo. Pergunte à loja e, ao estacionar, use os ganchos de capacete ou leve-o consigo."
+    }
+  ],
+  "sources": [
+    "tabela-precos-proprietario",
+    {
+      "title": "Bảng giá xe Honda Vision mới nhất tháng 9/2026",
+      "publisher": "CafeF",
+      "url": "https://cafef.vn/bang-gia-xe-honda-vision-moi-nhat-thang-9-2026-188260909071440813.chn",
+      "accessed": "2026-10-12"
+    },
+    {
+      "title": "Honda Vision thế hệ mới được ra mắt tại Việt Nam, giá từ 30 triệu đồng",
+      "publisher": "Doanh Nhân — Báo Pháp luật Việt Nam",
+      "url": "https://doanhnhan.baophapluat.vn/honda-vision-the-he-moi-duoc-ra-mat-tai-viet-nam-gia-tu-30-trieu-dong-35960.html",
+      "accessed": "2026-10-12"
+    },
+    "lei-36-2024-a1",
+    "lawnet-passageiros-2025",
+    "lawnet-capacete-168"
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "PUBLISHED",
+  "date_published": "2026-10-12",
+  "date_modified": "2026-10-12",
+  "editorial": {
+    "qa_score": 100,
+    "qa_warnings": [],
+    "words": 1643,
+    "publish_mode": "review",
+    "approved_at": "2026-10-12"
+  }
+}

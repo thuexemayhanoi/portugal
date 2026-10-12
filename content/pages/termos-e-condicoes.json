@@ -1,0 +1,37 @@
+{
+  "url": "/termos-e-condicoes/",
+  "template": "legal",
+  "navLabel": "Termos e condições",
+  "title": "Termos e condições | Nguyễn Tú Hanói",
+  "description": "Condições de utilização deste site informativo: natureza dos preços de referência, acordo de aluguer feito com a loja e responsabilidades de quem conduz.",
+  "h1": "Termos e condições",
+  "eyebrow": "Informação legal",
+  "lead": "As condições de utilização deste site. O aluguer propriamente dito rege-se pelo acordo feito diretamente com a loja.",
+  "updated": "2026-10-12",
+  "sections": [
+    {
+      "h2": "Natureza do site",
+      "body": ["Este site é informativo. Apresenta a loja {{name}}, os tipos de motas disponíveis, preços de referência e guias práticos. Não é possível reservar, contratar nem pagar através do site."]
+    },
+    {
+      "h2": "Preços e disponibilidade",
+      "body": ["Os preços publicados são valores de referência da tabela da loja e podem mudar. Não constituem uma oferta vinculativa nem garantem disponibilidade. O preço final, o modelo, a caução e as restantes condições são confirmados pela loja para cada aluguer."]
+    },
+    {
+      "h2": "O acordo de aluguer",
+      "body": ["As condições do aluguer — veículo, datas, preço, caução, entrega, devolução e responsabilidades — são acordadas diretamente com a loja no momento do aluguer. Se houver diferenças entre a informação do site e o acordo, prevalece o acordo."]
+    },
+    {
+      "h2": "Responsabilidade de quem conduz",
+      "body": ["Quem conduz é responsável por ter a habilitação exigida para a categoria do veículo, por cumprir as regras de trânsito do Vietname e por verificar o estado da mota antes de circular. As informações legais do site são gerais, indicam as fontes consultadas e não substituem a legislação em vigor nem aconselhamento jurídico."]
+    },
+    {
+      "h2": "Conteúdos e ligações externas",
+      "body": ["Procuramos manter os conteúdos corretos e atualizados, com a data de revisão indicada em cada página. As ligações para sites de terceiros são fornecidas para consulta; não controlamos esses conteúdos."]
+    },
+    {
+      "h2": "Contacto",
+      "body": ["Para qualquer questão sobre estes termos ou sobre um aluguer, contacte a loja pelo {{phone}}, {{hours}}."]
+    }
+  ]
+}

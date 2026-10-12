@@ -1,0 +1,64 @@
+{
+  "$comment": "Configuração da Content Factory. publish_mode: \"review\" = os rascunhos aprovados pelo QA esperam aprovação humana (node scripts/factory.mjs approve PT-XXXX); \"auto\" = publica automaticamente quando o QA passa. writer.mode: \"external\" (escritor externo entrega JSON em _factory/inbox/) ou \"claude\" (API paga; só funciona com o segredo ANTHROPIC_API_KEY e a variável FACTORY_WRITER=claude definidos pelo proprietário).",
+  "contract_version": 1,
+  "target_articles": 300,
+  "batch_size": 3,
+  "queue_size": 12,
+  "publish_mode": "review",
+  "auto_publish_max_warnings": 3,
+  "word_count": {
+    "min": 1000,
+    "max": 3000
+  },
+  "title_length": {
+    "min": 30,
+    "max": 70,
+    "ideal_max": 65
+  },
+  "description_length": {
+    "min": 110,
+    "max": 165,
+    "ideal_min": 120,
+    "ideal_max": 160
+  },
+  "h1_length": {
+    "min": 20,
+    "max": 110
+  },
+  "summary_length": {
+    "min": 80,
+    "max": 420
+  },
+  "key_points": {
+    "min": 3,
+    "max": 6
+  },
+  "min_sections": 4,
+  "faq": {
+    "min": 2,
+    "max": 8
+  },
+  "min_internal_links": 3,
+  "similarity": {
+    "error": 0.25,
+    "warning": 0.15
+  },
+  "allowed_components": [
+    "price-table",
+    "model-cards"
+  ],
+  "online_source_check": false,
+  "writer": {
+    "mode": "external",
+    "claude": {
+      "$comment": "O modelo não fica no repositório: definir a variável do repositório FACTORY_CLAUDE_MODEL (GitHub → Settings → Variables) com o ID de modelo recomendado na documentação da Anthropic.",
+      "model": null,
+      "effort": "high",
+      "max_tokens": 64000,
+      "max_articles_per_run": 3,
+      "web_search": true,
+      "web_search_max_uses": 8,
+      "sdk_package": "@anthropic-ai/sdk@0.128.0"
+    }
+  }
+}

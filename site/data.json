@@ -1,0 +1,381 @@
+{
+  "$comment": "FONTE ÚNICA DE DADOS DO SITE (NAP, preços, navegação, microtexto). Alterar aqui e correr `npm run build` atualiza todas as páginas, o schema JSON-LD, o sitemap e a pesquisa. Ver AGENTS.md antes de editar.",
+  "site": {
+    "baseUrl": "https://pt.rentbikehanoi.com",
+    "lang": "pt-PT",
+    "ogLocale": "pt_PT",
+    "name": "Nguyễn Tú — Aluguer de Motas em Hanói",
+    "shortName": "Nguyễn Tú Hanói",
+    "themeColor": {
+      "light": "#f4f7fa",
+      "dark": "#0a121b"
+    },
+    "verification": {
+      "$comment": "Colar apenas o código real (atributo content) fornecido pela Google Search Console / Bing. Vazio = a meta tag não é publicada.",
+      "google": "",
+      "bing": ""
+    },
+    "hreflang": {
+      "$comment": "Não adicionar alternativas entre domínios sem confirmar páginas equivalentes com ligação recíproca nos dois sentidos.",
+      "alternates": []
+    },
+    "defaultOgImage": "/assets/img/og-default.jpg",
+    "copyrightYear": 2026
+  },
+  "business": {
+    "canonicalName": "Cho Thuê Xe Máy Nguyễn Tú",
+    "displayName": "Nguyễn Tú — Aluguer de Motas em Hanói",
+    "shortName": "Nguyễn Tú",
+    "monogram": "NT",
+    "tagline": "Aluguer de motas · Hanói",
+    "alternateNames": [
+      "Nguyễn Tú — Aluguer de Motas em Hanói",
+      "Motorbike Rental - Nguyen Tu",
+      "Hanoi Motorbike Rental Nguyen Tu"
+    ],
+    "address": {
+      "full": "112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, Việt Nam",
+      "streetAddress": "112 Nguyễn Văn Cừ, Bồ Đề, Long Biên",
+      "street": "112 Nguyễn Văn Cừ",
+      "ward": "Bồ Đề",
+      "district": "Long Biên",
+      "locality": "Hà Nội",
+      "country": "Việt Nam",
+      "countryCode": "VN",
+      "areaLabel": "Long Biên, Hanói"
+    },
+    "phone": {
+      "display": "+84 942 467 674",
+      "local": "0942 467 674",
+      "e164": "+84942467674"
+    },
+    "zalo": {
+      "enabled": true,
+      "verified": true,
+      "url": "https://zalo.me/0942467674",
+      "number": "0942 467 674"
+    },
+    "whatsapp": {
+      "$comment": "Só ativar (enabled + verified = true) quando o proprietário confirmar que o número usa WhatsApp.",
+      "enabled": false,
+      "verified": false,
+      "url": ""
+    },
+    "hours": {
+      "opens": "09:00",
+      "closes": "21:00",
+      "days": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "label": "09:00–21:00, todos os dias",
+      "short": "Todos os dias · 09:00–21:00"
+    },
+    "maps": "https://maps.google.com/maps?cid=7448790013669858019",
+    "website": "https://thuexemaynguyentu.com/",
+    "logo": "/assets/img/logo-nguyen-tu.png",
+    "sameAs": [
+      "https://thuexemaynguyentu.com/",
+      "https://www.facebook.com/chothuexemaynguyentu/",
+      "https://www.tripadvisor.com.vn/Attraction_Review-g21333608-d9826317-Reviews-Hanoi_Motorbike_Rental_Nguyen_Tu-Long_Bien_Hanoi.html"
+    ],
+    "areaServed": "Hanói",
+    "services": [
+      {
+        "id": "scooters-automaticas",
+        "name": "Aluguer de scooters automáticas",
+        "url": "/tipos-de-motas/scooters/"
+      },
+      {
+        "id": "motas-semiautomaticas",
+        "name": "Aluguer de motas semiautomáticas",
+        "url": "/tipos-de-motas/#semiautomaticas"
+      },
+      {
+        "id": "motas-50cc",
+        "name": "Aluguer de motas de 50 cc",
+        "url": "/tipos-de-motas/motas-50cc/"
+      },
+      {
+        "id": "motas-eletricas",
+        "name": "Aluguer de motas elétricas",
+        "url": "/tipos-de-motas/#eletricas"
+      },
+      {
+        "id": "bicicletas-eletricas",
+        "name": "Aluguer de bicicletas elétricas",
+        "url": "/tipos-de-motas/#eletricas"
+      }
+    ]
+  },
+  "pricing": {
+    "$comment": "Valores de referência em VND. Origem: tabela de preços verificada do proprietário (app.rentbikehanoi.com, data/site-system.json), consultada a 2026-10-12. null = sob consulta. Um intervalo [mín, máx] é mostrado como intervalo.",
+    "currency": "VND",
+    "verifiedAt": "2026-10-12",
+    "note": "Preços de referência por veículo. Não incluem caução, entrega, recolha nem extras. A loja confirma o valor final, a disponibilidade e as condições antes do aluguer.",
+    "categories": {
+      "motas-semiautomaticas": "Semiautomática",
+      "scooters-automaticas": "Scooter automática",
+      "motas-50cc": "50 cc",
+      "motas-eletricas": "Elétrica",
+      "bicicletas-eletricas": "Bicicleta elétrica"
+    },
+    "models": [
+      {
+        "id": "wave",
+        "name": "Honda Wave",
+        "category": "motas-semiautomaticas",
+        "day": 150000,
+        "week": 700000,
+        "month": [
+          900000,
+          1200000
+        ]
+      },
+      {
+        "id": "sirius",
+        "name": "Yamaha Sirius",
+        "category": "motas-semiautomaticas",
+        "day": 150000,
+        "week": 700000,
+        "month": [
+          900000,
+          1200000
+        ]
+      },
+      {
+        "id": "vision",
+        "name": "Honda Vision",
+        "category": "scooters-automaticas",
+        "day": 200000,
+        "week": 1000000,
+        "month": [
+          1800000,
+          2000000
+        ]
+      },
+      {
+        "id": "airblade",
+        "name": "Honda Air Blade",
+        "category": "scooters-automaticas",
+        "day": 200000,
+        "week": 1000000,
+        "month": 1500000
+      },
+      {
+        "id": "click",
+        "name": "Honda Click",
+        "category": "scooters-automaticas",
+        "day": 150000,
+        "week": 700000,
+        "month": [
+          900000,
+          1200000
+        ]
+      },
+      {
+        "id": "mio",
+        "name": "Yamaha Mio",
+        "category": "scooters-automaticas",
+        "day": 150000,
+        "week": 700000,
+        "month": [
+          900000,
+          1200000
+        ]
+      },
+      {
+        "id": "cc50",
+        "name": "Mota ou scooter de 50 cc",
+        "category": "motas-50cc",
+        "day": 200000,
+        "week": null,
+        "month": null
+      },
+      {
+        "id": "eletrica",
+        "name": "Mota elétrica",
+        "category": "motas-eletricas",
+        "day": 200000,
+        "week": 1000000,
+        "month": 1500000
+      },
+      {
+        "id": "bicicleta",
+        "name": "Bicicleta elétrica",
+        "category": "bicicletas-eletricas",
+        "day": null,
+        "week": null,
+        "month": null
+      }
+    ]
+  },
+  "nav": {
+    "$comment": "Menu principal. `parent` aponta para site/taxonomy.json (com `label` opcional mais curto); `group` junta vários pais num só menu; `url` é uma ligação direta.",
+    "primary": [
+      {
+        "parent": "tipos-de-motas",
+        "label": "Motas"
+      },
+      {
+        "parent": "precos-e-condicoes",
+        "label": "Preços"
+      },
+      {
+        "parent": "guia-de-aluguer",
+        "label": "Guia de aluguer"
+      },
+      {
+        "group": "Explorar Hanói",
+        "parents": [
+          "zonas-de-hanoi",
+          "rotas-e-mobilidade"
+        ]
+      },
+      {
+        "label": "Perguntas",
+        "url": "/perguntas-frequentes/"
+      },
+      {
+        "label": "Contactos",
+        "url": "/contactos/"
+      }
+    ]
+  },
+  "footer": {
+    "columns": [
+      {
+        "title": "Motas e preços",
+        "links": [
+          [
+            "Tipos de motas",
+            "/tipos-de-motas/"
+          ],
+          [
+            "Scooters automáticas",
+            "/tipos-de-motas/scooters/"
+          ],
+          [
+            "Motas de 50 cc",
+            "/tipos-de-motas/motas-50cc/"
+          ],
+          [
+            "Preços",
+            "/precos/"
+          ]
+        ]
+      },
+      {
+        "title": "Guias",
+        "links": [
+          [
+            "Guia de aluguer",
+            "/guia-de-aluguer/"
+          ],
+          [
+            "Documentação e caução",
+            "/guia-de-aluguer/documentacao-e-caucao/"
+          ],
+          [
+            "Perguntas frequentes",
+            "/perguntas-frequentes/"
+          ]
+        ]
+      },
+      {
+        "title": "Informação",
+        "links": [
+          [
+            "Sobre nós",
+            "/sobre-nos/"
+          ],
+          [
+            "Contactos",
+            "/contactos/"
+          ],
+          [
+            "Política de privacidade",
+            "/politica-de-privacidade/"
+          ],
+          [
+            "Termos e condições",
+            "/termos-e-condicoes/"
+          ]
+        ]
+      }
+    ],
+    "note": "Preços e condições de referência. Confirme sempre o valor final, a caução, os documentos e a entrega diretamente com a loja antes de alugar."
+  },
+  "cta": {
+    "eyebrow": "Próximo passo",
+    "title": "Confirme a mota e as condições antes de sair",
+    "text": "Indique as datas, o modelo que prefere e onde fica em Hanói. A loja confirma a disponibilidade, o preço final, a caução e os documentos necessários."
+  },
+  "editorial": {
+    "byline": "Equipa editorial Nguyễn Tú",
+    "principles": "Os preços vêm da tabela da loja e as regras legais são acompanhadas da fonte. Nada substitui a confirmação direta com a loja e com as entidades oficiais."
+  },
+  "ui": {
+    "skip": "Saltar para o conteúdo",
+    "home": "Início",
+    "menu": "Menu",
+    "openMenu": "Abrir menu",
+    "closeMenu": "Fechar menu",
+    "mainNav": "Navegação principal",
+    "mobileNav": "Navegação móvel",
+    "search": "Pesquisar",
+    "searchLabel": "Pesquisar no site",
+    "searchPlaceholder": "Ex.: caução, Honda Vision, documentos…",
+    "searchHint": "Escreva pelo menos 2 letras.",
+    "searchEmpty": "Sem resultados. Experimente outra palavra ou consulte as perguntas frequentes.",
+    "searchLoading": "A carregar…",
+    "searchError": "Não foi possível carregar a pesquisa. Tente novamente.",
+    "close": "Fechar",
+    "theme": "Alternar tema claro ou escuro",
+    "call": "Ligar",
+    "callLong": "Ligar para a loja",
+    "zalo": "Zalo",
+    "zaloLong": "Escrever no Zalo",
+    "whatsapp": "WhatsApp",
+    "maps": "Ver no Google Maps",
+    "overview": "Visão geral",
+    "comingSoon": "Em breve",
+    "toc": "Neste artigo",
+    "breadcrumb": "Caminho de navegação",
+    "updated": "Atualizado a",
+    "published": "Publicado a",
+    "readingTime": "min de leitura",
+    "quickAnswer": "Resposta rápida",
+    "related": "Artigos relacionados",
+    "prev": "Anterior",
+    "next": "Seguinte",
+    "sameCategory": "Na mesma categoria",
+    "sources": "Fontes e verificação",
+    "sourcesNote": "Fontes consultadas na data indicada. A legislação e as condições podem mudar; confirme sempre a versão em vigor.",
+    "faq": "Perguntas frequentes",
+    "articles": "Artigos",
+    "allArticles": "Todos os artigos",
+    "readMore": "Ler",
+    "onRequest": "Sob consulta",
+    "perDay": "dia",
+    "perWeek": "semana",
+    "perMonth": "mês",
+    "from": "desde",
+    "model": "Modelo",
+    "type": "Tipo",
+    "day": "Dia",
+    "week": "Semana",
+    "month": "Mês",
+    "address": "Morada",
+    "phone": "Telefone",
+    "hours": "Horário",
+    "notFoundTitle": "Página não encontrada",
+    "legalNote": "Informação geral, não constitui aconselhamento jurídico.",
+    "tocPage": "Nesta página"
+  }
+}

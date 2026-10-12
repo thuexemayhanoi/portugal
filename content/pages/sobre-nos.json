@@ -1,0 +1,72 @@
+{
+  "url": "/sobre-nos/",
+  "template": "page",
+  "schemaType": "AboutPage",
+  "navLabel": "Sobre nós",
+  "title": "Sobre nós | Nguyễn Tú, aluguer de motas em Long Biên",
+  "description": "Conheça a Nguyễn Tú, loja de aluguer de motas em Long Biên, Hanói: morada, horário, motas disponíveis e a forma como confirmamos preços e condições.",
+  "h1": "Sobre a Nguyễn Tú",
+  "primaryKeyword": "nguyễn tú aluguer de motas long biên",
+  "eyebrow": "Quem somos",
+  "lead": "Uma loja de aluguer de motas em Long Biên, Hanói, com informação clara em português para quem visita a cidade.",
+  "updated": "2026-10-12",
+  "toc": true,
+  "sections": [
+    {
+      "h2": "A loja",
+      "body": [
+        "**{{name}}** — em português, «aluguer de motas Nguyễn Tú» — é uma loja de aluguer de motas situada em {{address}}. Neste site usamos o nome **{{display}}**, mas é a mesma loja: a mesma morada, o mesmo telefone e o mesmo horário.",
+        "A loja está aberta {{hours}}. O contacto faz-se por telefone ou Zalo para o {{phone}}, e a localização exata está no [Google Maps]({{maps}}). O site principal da loja é [thuexemaynguyentu.com]({{website}})."
+      ]
+    },
+    {
+      "h2": "O que alugamos",
+      "body": [
+        "A frota inclui cinco tipos de veículos, cada um com a sua página ou secção de referência:",
+        {
+          "ul": [
+            "[Scooters automáticas](/tipos-de-motas/scooters/) — Honda Vision, Honda Air Blade, Honda Click e Yamaha Mio.",
+            "[Motas semiautomáticas](/tipos-de-motas/#semiautomaticas) — Honda Wave e Yamaha Sirius.",
+            "[Motas de 50 cc](/tipos-de-motas/motas-50cc/) — para trajetos curtos e velocidades baixas.",
+            "[Motas elétricas e bicicletas elétricas](/tipos-de-motas/#eletricas) — sem combustível, com autonomia a confirmar."
+          ]
+        },
+        "Os [preços de referência](/precos/) por dia, semana e mês vêm da tabela da loja. A unidade concreta, o preço final e as condições são confirmados para as suas datas."
+      ]
+    },
+    {
+      "h2": "Como trabalhamos",
+      "body": [
+        "Preferimos responder com dados concretos a fazer promessas genéricas. Por isso, há condições que não publicamos como regra geral, porque dependem do modelo, da duração e da situação de cada cliente:",
+        {
+          "checklist": [
+            "o montante e a forma da caução;",
+            "a entrega ou recolha no alojamento e o respetivo custo;",
+            "os documentos pedidos para o aluguer;",
+            "qualquer exceção ao horário de funcionamento."
+          ]
+        },
+        "Antes de se deslocar à loja, peça a confirmação destes pontos e guarde a resposta. É a forma mais simples de evitar mal-entendidos, de parte a parte."
+      ]
+    },
+    {
+      "h2": "Porque existe este site em português",
+      "body": [
+        "Quem chega a Hanói vindo de Portugal ou de outro país de língua portuguesa encontra sobretudo informação em vietnamita ou em inglês. Este site organiza, em português de Portugal, o que é útil saber antes de alugar: tipos de motas, preços, documentos, segurança e mobilidade na cidade.",
+        "Cada página indica a data da última atualização. As regras legais citadas têm a fonte identificada, e os dados da loja são lidos de um único ficheiro: quando a loja altera um preço ou o horário, o site inteiro é atualizado em conjunto."
+      ]
+    },
+    {
+      "h2": "Onde estamos",
+      "body": [
+        "Long Biên fica na margem leste do rio Vermelho (Sông Hồng), ligada ao centro histórico por várias pontes. É uma zona prática para começar a circular pela cidade ou sair para os arredores sem ter de atravessar logo as ruas estreitas do Bairro Antigo.",
+        {
+          "component": "contact-card"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    "tabela-precos-proprietario"
+  ]
+}

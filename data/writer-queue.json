@@ -1,0 +1,567 @@
+{
+  "$comment": "Fila gerada por `node scripts/factory.mjs refresh-queue`. Não editar à mão. Os escritores produzem apenas IDs desta fila, segundo factory/WRITER-CONTRACT.md.",
+  "contract_version": 1,
+  "generated_at": "2026-10-12",
+  "factory_status": "ACTIVE",
+  "live_pages": [
+    {
+      "url": "/contactos/",
+      "title": "Contactos"
+    },
+    {
+      "url": "/guia-de-aluguer/documentacao-e-caucao/",
+      "title": "Documentação e caução"
+    },
+    {
+      "url": "/guia-de-aluguer/",
+      "title": "Guia de aluguer"
+    },
+    {
+      "url": "/",
+      "title": "Aluguer de motas em Hanói, com condições claras"
+    },
+    {
+      "url": "/tipos-de-motas/motas-50cc/",
+      "title": "Motas de 50 cc"
+    },
+    {
+      "url": "/perguntas-frequentes/",
+      "title": "Perguntas frequentes"
+    },
+    {
+      "url": "/politica-de-privacidade/",
+      "title": "Política de privacidade"
+    },
+    {
+      "url": "/precos/",
+      "title": "Preços"
+    },
+    {
+      "url": "/tipos-de-motas/scooters/",
+      "title": "Scooters automáticas"
+    },
+    {
+      "url": "/sobre-nos/",
+      "title": "Sobre nós"
+    },
+    {
+      "url": "/termos-e-condicoes/",
+      "title": "Termos e condições"
+    },
+    {
+      "url": "/tipos-de-motas/",
+      "title": "Tipos de motas"
+    },
+    {
+      "url": "/tipos-de-motas/honda-vision-em-hanoi/",
+      "title": "Alugar uma Honda Vision em Hanói: guia prático"
+    },
+    {
+      "url": "/precos/aluguer-de-mota-por-um-dia/",
+      "title": "Aluguer de mota por um dia em Hanói: como organizar"
+    },
+    {
+      "url": "/guia-de-aluguer/perguntas-antes-de-alugar/",
+      "title": "Antes de alugar uma mota em Hanói: 15 perguntas a fazer à loja"
+    }
+  ],
+  "items": [
+    {
+      "id": "PT-0002",
+      "working_title": "Honda Air Blade 125 ou 160: diferenças e o que muda no aluguer",
+      "slug": "honda-air-blade-125-ou-160",
+      "target_url": "/tipos-de-motas/honda-air-blade-125-ou-160/",
+      "parent_category": "tipos-de-motas",
+      "child_category": "scooters-automaticas",
+      "primary_keyword": "aluguer honda air blade hanói",
+      "secondary_keywords": [
+        "air blade 160 carta a1",
+        "air blade 125",
+        "scooter potente hanói"
+      ],
+      "search_intent": "commercial",
+      "funnel_stage": "BOFU",
+      "content_brief": "Explicar as versões de 125 e 160 cm³, o ABS da 160, a implicação na categoria de carta (A1 até 125 cm³) e como pedir à loja a confirmação da versão disponível.",
+      "target_words": [
+        1500,
+        2800
+      ],
+      "source_requirements": {
+        "codes": [
+          "B",
+          "M",
+          "L"
+        ],
+        "min_sources": 2,
+        "notes": [
+          "Dados da loja apenas através de {{tokens}} (site/data.json): preços, telefone, morada e horário nunca escritos à mão.",
+          "Especificações do fabricante (Honda Vietnam, Yamaha Motor Vietnam) para dados técnicos dos modelos.",
+          "Legislação vietnamita em vigor (texto da lei/decreto ou base de dados jurídica reconhecida), com data de consulta."
+        ]
+      },
+      "pillar_url": "/tipos-de-motas/scooters/",
+      "required_links": [
+        "/tipos-de-motas/scooters/",
+        "/tipos-de-motas/",
+        "/contactos/",
+        "/tipos-de-motas/honda-vision-em-hanoi/",
+        "/precos/aluguer-de-mota-por-um-dia/"
+      ],
+      "planned_links_not_live_yet": [
+        "/tipos-de-motas/honda-click-em-hanoi/"
+      ],
+      "rewrite_reason": null
+    },
+    {
+      "id": "PT-0067",
+      "working_title": "Aluguer semanal de mota em Hanói: quando compensa e quanto custa",
+      "slug": "aluguer-semanal-de-mota",
+      "target_url": "/precos/aluguer-semanal-de-mota/",
+      "parent_category": "precos-e-condicoes",
+      "child_category": "aluguer-por-duracao",
+      "primary_keyword": "aluguer mota por semana hanói",
+      "secondary_keywords": [
+        "aluguer semanal scooter hanói",
+        "mota 7 dias"
+      ],
+      "search_intent": "transactional",
+      "funnel_stage": "BOFU",
+      "content_brief": "Tarifa semanal por modelo, comparação com dias avulsos e o que perguntar para uma semana completa.",
+      "target_words": [
+        1500,
+        2800
+      ],
+      "source_requirements": {
+        "codes": [
+          "B"
+        ],
+        "min_sources": 0,
+        "notes": [
+          "Dados da loja apenas através de {{tokens}} (site/data.json): preços, telefone, morada e horário nunca escritos à mão."
+        ]
+      },
+      "pillar_url": "/precos/",
+      "required_links": [
+        "/precos/",
+        "/contactos/",
+        "/precos/aluguer-de-mota-por-um-dia/",
+        "/tipos-de-motas/honda-vision-em-hanoi/"
+      ],
+      "planned_links_not_live_yet": [
+        "/precos/aluguer-mensal-de-mota/"
+      ],
+      "rewrite_reason": null
+    },
+    {
+      "id": "PT-0127",
+      "working_title": "Licença Internacional de Condução em Portugal: como pedir para o Vietname",
+      "slug": "licenca-internacional-de-conducao",
+      "target_url": "/guia-de-aluguer/licenca-internacional-de-conducao/",
+      "parent_category": "guia-de-aluguer",
+      "child_category": "processo-e-documentacao",
+      "primary_keyword": "licença internacional de condução vietname",
+      "secondary_keywords": [
+        "lic imt vietname",
+        "carta internacional portugal"
+      ],
+      "search_intent": "informational",
+      "funnel_stage": "MOFU",
+      "content_brief": "Procedimento no IMT (documentos, validade, custo à data), confirmação do modelo reconhecido no Vietname e da categoria de motociclos.",
+      "target_words": [
+        1500,
+        2800
+      ],
+      "source_requirements": {
+        "codes": [
+          "P",
+          "L"
+        ],
+        "min_sources": 2,
+        "notes": [
+          "Fonte oficial portuguesa (IMT, Portal Diplomático / MNE) quando o tema envolve documentos portugueses.",
+          "Legislação vietnamita em vigor (texto da lei/decreto ou base de dados jurídica reconhecida), com data de consulta."
+        ]
+      },
+      "pillar_url": "/guia-de-aluguer/documentacao-e-caucao/",
+      "required_links": [
+        "/guia-de-aluguer/documentacao-e-caucao/",
+        "/guia-de-aluguer/",
+        "/guia-de-aluguer/perguntas-antes-de-alugar/"
+      ],
+      "planned_links_not_live_yet": [
+        "/guia-de-aluguer/carta-brasileira-no-vietname/",
+        "/precos/como-funciona-a-caucao/"
+      ],
+      "rewrite_reason": null
+    },
+    {
+      "id": "PT-0216",
+      "working_title": "Conduzir de mota no Bairro Antigo de Hanói: o que deve saber",
+      "slug": "conduzir-no-bairro-antigo",
+      "target_url": "/zonas-de-hanoi/conduzir-no-bairro-antigo/",
+      "parent_category": "zonas-de-hanoi",
+      "child_category": "bairro-antigo-e-hoan-kiem",
+      "primary_keyword": "conduzir mota bairro antigo hanói",
+      "secondary_keywords": [
+        "old quarter de mota",
+        "ruas bairro antigo trânsito"
+      ],
+      "search_intent": "informational",
+      "funnel_stage": "TOFU",
+      "content_brief": "Ruas estreitas, sentidos únicos, peões, zonas com restrições e quando é melhor deixar a mota e caminhar.",
+      "target_words": [
+        1500,
+        2800
+      ],
+      "source_requirements": {
+        "codes": [
+          "Z",
+          "L"
+        ],
+        "min_sources": 2,
+        "notes": [
+          "Anúncio oficial da cidade de Hanói ou imprensa de referência com data; tema sensível ao tempo — verificar à data de publicação.",
+          "Legislação vietnamita em vigor (texto da lei/decreto ou base de dados jurídica reconhecida), com data de consulta."
+        ]
+      },
+      "pillar_url": "/zonas-de-hanoi/",
+      "required_links": [
+        "/guia-de-aluguer/documentacao-e-caucao/"
+      ],
+      "planned_links_not_live_yet": [
+        "/zonas-de-hanoi/",
+        "/zonas-de-hanoi/estacionar-no-bairro-antigo/",
+        "/guia-de-aluguer/primeiros-dias-a-conduzir/"
+      ],
+      "rewrite_reason": null
+    },
+    {
+      "id": "PT-0261",
+      "working_title": "Hanói de mota num dia: itinerário com paragens e estacionamento",
+      "slug": "hanoi-de-mota-num-dia",
+      "target_url": "/rotas-e-mobilidade/hanoi-de-mota-num-dia/",
+      "parent_category": "rotas-e-mobilidade",
+      "child_category": "itinerarios-urbanos",
+      "primary_keyword": "itinerário hanói mota um dia",
+      "secondary_keywords": [
+        "roteiro hanói 1 dia mota"
+      ],
+      "search_intent": "informational",
+      "funnel_stage": "TOFU",
+      "content_brief": "Percurso a partir de Long Biên com ordem lógica, estacionamento em cada paragem e alternativas a pé.",
+      "target_words": [
+        1500,
+        2800
+      ],
+      "source_requirements": {
+        "codes": [
+          "Z"
+        ],
+        "min_sources": 2,
+        "notes": [
+          "Anúncio oficial da cidade de Hanói ou imprensa de referência com data; tema sensível ao tempo — verificar à data de publicação."
+        ]
+      },
+      "pillar_url": "/rotas-e-mobilidade/",
+      "required_links": [
+        "/guia-de-aluguer/documentacao-e-caucao/"
+      ],
+      "planned_links_not_live_yet": [
+        "/rotas-e-mobilidade/",
+        "/rotas-e-mobilidade/primeiro-passeio-de-mota/",
+        "/guia-de-aluguer/primeiros-dias-a-conduzir/"
+      ],
+      "rewrite_reason": null
+    },
+    {
+      "id": "PT-0003",
+      "working_title": "Honda Click em Hanói: scooter compacta e económica para alugar",
+      "slug": "honda-click-em-hanoi",
+      "target_url": "/tipos-de-motas/honda-click-em-hanoi/",
+      "parent_category": "tipos-de-motas",
+      "child_category": "scooters-automaticas",
+      "primary_keyword": "aluguer honda click hanói",
+      "secondary_keywords": [
+        "honda click preço",
+        "scooter económica hanói"
+      ],
+      "search_intent": "commercial",
+      "funnel_stage": "BOFU",
+      "content_brief": "Vantagens de uma scooter compacta no trânsito urbano, preço de referência mais baixo e limites com passageiro ou bagagem.",
+      "target_words": [
+        1500,
+        2800
+      ],
+      "source_requirements": {
+        "codes": [
+          "B",
+          "M"
+        ],
+        "min_sources": 1,
+        "notes": [
+          "Dados da loja apenas através de {{tokens}} (site/data.json): preços, telefone, morada e horário nunca escritos à mão.",
+          "Especificações do fabricante (Honda Vietnam, Yamaha Motor Vietnam) para dados técnicos dos modelos."
+        ]
+      },
+      "pillar_url": "/tipos-de-motas/scooters/",
+      "required_links": [
+        "/tipos-de-motas/scooters/",
+        "/tipos-de-motas/",
+        "/contactos/",
+        "/precos/aluguer-de-mota-por-um-dia/"
+      ],
+      "planned_links_not_live_yet": [
+        "/tipos-de-motas/honda-air-blade-125-ou-160/",
+        "/tipos-de-motas/yamaha-mio-em-hanoi/"
+      ],
+      "rewrite_reason": null
+    },
+    {
+      "id": "PT-0068",
+      "working_title": "Aluguer mensal de mota em Hanói: preços, condições e para quem compensa",
+      "slug": "aluguer-mensal-de-mota",
+      "target_url": "/precos/aluguer-mensal-de-mota/",
+      "parent_category": "precos-e-condicoes",
+      "child_category": "aluguer-por-duracao",
+      "primary_keyword": "aluguer mota por mês hanói",
+      "secondary_keywords": [
+        "aluguer mensal scooter hanói",
+        "mota um mês vietname"
+      ],
+      "search_intent": "transactional",
+      "funnel_stage": "BOFU",
+      "content_brief": "Intervalos de preço mensal por modelo, o que muda num aluguer longo (manutenção, caução, prolongamento) e perfis a quem compensa.",
+      "target_words": [
+        1500,
+        2800
+      ],
+      "source_requirements": {
+        "codes": [
+          "B"
+        ],
+        "min_sources": 0,
+        "notes": [
+          "Dados da loja apenas através de {{tokens}} (site/data.json): preços, telefone, morada e horário nunca escritos à mão."
+        ]
+      },
+      "pillar_url": "/precos/",
+      "required_links": [
+        "/precos/",
+        "/contactos/",
+        "/tipos-de-motas/honda-vision-em-hanoi/"
+      ],
+      "planned_links_not_live_yet": [
+        "/precos/aluguer-semanal-de-mota/",
+        "/precos/aluguer-de-longa-duracao/"
+      ],
+      "rewrite_reason": null
+    },
+    {
+      "id": "PT-0131",
+      "working_title": "Documentos da mota alugada: registo, seguro e o que levar consigo",
+      "slug": "documentos-da-mota-alugada",
+      "target_url": "/guia-de-aluguer/documentos-da-mota-alugada/",
+      "parent_category": "guia-de-aluguer",
+      "child_category": "processo-e-documentacao",
+      "primary_keyword": "documentos da mota registo e seguro",
+      "secondary_keywords": [
+        "registo mota vietname",
+        "seguro obrigatório mota levar"
+      ],
+      "search_intent": "informational",
+      "funnel_stage": "MOFU",
+      "content_brief": "O que exige o artigo 56.º da lei de 2024, o que a loja entrega e como guardar e apresentar os documentos.",
+      "target_words": [
+        1500,
+        2800
+      ],
+      "source_requirements": {
+        "codes": [
+          "L",
+          "B"
+        ],
+        "min_sources": 2,
+        "notes": [
+          "Legislação vietnamita em vigor (texto da lei/decreto ou base de dados jurídica reconhecida), com data de consulta.",
+          "Dados da loja apenas através de {{tokens}} (site/data.json): preços, telefone, morada e horário nunca escritos à mão."
+        ]
+      },
+      "pillar_url": "/guia-de-aluguer/documentacao-e-caucao/",
+      "required_links": [
+        "/guia-de-aluguer/documentacao-e-caucao/",
+        "/guia-de-aluguer/"
+      ],
+      "planned_links_not_live_yet": [
+        "/guia-de-aluguer/categorias-a1-e-a/",
+        "/guia-de-aluguer/seguro-obrigatorio-de-mota/",
+        "/precos/como-funciona-a-caucao/"
+      ],
+      "rewrite_reason": null
+    },
+    {
+      "id": "PT-0217",
+      "working_title": "Onde estacionar a mota no Bairro Antigo e à volta do lago Hoàn Kiếm",
+      "slug": "estacionar-no-bairro-antigo",
+      "target_url": "/zonas-de-hanoi/estacionar-no-bairro-antigo/",
+      "parent_category": "zonas-de-hanoi",
+      "child_category": "bairro-antigo-e-hoan-kiem",
+      "primary_keyword": "estacionar mota bairro antigo",
+      "secondary_keywords": [
+        "parque motas hoàn kiếm",
+        "estacionamento old quarter"
+      ],
+      "search_intent": "informational",
+      "funnel_stage": "TOFU",
+      "content_brief": "Parques e regras de estacionamento, senhas, horários e preços regulamentados, com fontes oficiais.",
+      "target_words": [
+        1500,
+        2800
+      ],
+      "source_requirements": {
+        "codes": [
+          "Z"
+        ],
+        "min_sources": 2,
+        "notes": [
+          "Anúncio oficial da cidade de Hanói ou imprensa de referência com data; tema sensível ao tempo — verificar à data de publicação."
+        ]
+      },
+      "pillar_url": "/zonas-de-hanoi/",
+      "required_links": [
+        "/guia-de-aluguer/documentacao-e-caucao/"
+      ],
+      "planned_links_not_live_yet": [
+        "/zonas-de-hanoi/",
+        "/zonas-de-hanoi/conduzir-no-bairro-antigo/",
+        "/zonas-de-hanoi/zona-pedonal-do-lago-hoan-kiem/",
+        "/guia-de-aluguer/onde-estacionar-em-hanoi/"
+      ],
+      "rewrite_reason": null
+    },
+    {
+      "id": "PT-0276",
+      "working_title": "Época das chuvas em Hanói: conduzir de mota entre maio e setembro",
+      "slug": "epoca-das-chuvas-em-hanoi",
+      "target_url": "/rotas-e-mobilidade/epoca-das-chuvas-em-hanoi/",
+      "parent_category": "rotas-e-mobilidade",
+      "child_category": "clima-e-epocas-do-ano",
+      "primary_keyword": "época das chuvas hanói mota",
+      "secondary_keywords": [
+        "chuva hanói meses",
+        "monção hanói"
+      ],
+      "search_intent": "informational",
+      "funnel_stage": "TOFU",
+      "content_brief": "Padrão de chuvas (fonte meteorológica oficial), aguaceiros intensos, ruas alagadas e planeamento diário.",
+      "target_words": [
+        1500,
+        2800
+      ],
+      "source_requirements": {
+        "codes": [
+          "W"
+        ],
+        "min_sources": 1,
+        "notes": [
+          "Dados meteorológicos oficiais (Centro Nacional de Previsão Hidrometeorológica) ou climatologia reconhecida."
+        ]
+      },
+      "pillar_url": "/rotas-e-mobilidade/",
+      "required_links": [
+        "/guia-de-aluguer/documentacao-e-caucao/"
+      ],
+      "planned_links_not_live_yet": [
+        "/rotas-e-mobilidade/",
+        "/rotas-e-mobilidade/inverno-em-hanoi/",
+        "/guia-de-aluguer/piso-molhado-e-chuva/"
+      ],
+      "rewrite_reason": null
+    },
+    {
+      "id": "PT-0005",
+      "working_title": "Honda Vision ou Air Blade: qual escolher para circular em Hanói?",
+      "slug": "honda-vision-ou-air-blade",
+      "target_url": "/tipos-de-motas/honda-vision-ou-air-blade/",
+      "parent_category": "tipos-de-motas",
+      "child_category": "scooters-automaticas",
+      "primary_keyword": "honda vision ou air blade",
+      "secondary_keywords": [
+        "vision vs air blade",
+        "melhor scooter honda aluguer"
+      ],
+      "search_intent": "commercial",
+      "funnel_stage": "MOFU",
+      "content_brief": "Comparação lado a lado (peso, potência, conforto com passageiro, preço por dia, semana e mês, categoria de carta) com recomendação por perfil de utilizador.",
+      "target_words": [
+        1500,
+        2800
+      ],
+      "source_requirements": {
+        "codes": [
+          "B",
+          "M",
+          "L"
+        ],
+        "min_sources": 2,
+        "notes": [
+          "Dados da loja apenas através de {{tokens}} (site/data.json): preços, telefone, morada e horário nunca escritos à mão.",
+          "Especificações do fabricante (Honda Vietnam, Yamaha Motor Vietnam) para dados técnicos dos modelos.",
+          "Legislação vietnamita em vigor (texto da lei/decreto ou base de dados jurídica reconhecida), com data de consulta."
+        ]
+      },
+      "pillar_url": "/tipos-de-motas/scooters/",
+      "required_links": [
+        "/tipos-de-motas/scooters/",
+        "/tipos-de-motas/",
+        "/precos/",
+        "/precos/aluguer-de-mota-por-um-dia/"
+      ],
+      "planned_links_not_live_yet": [
+        "/tipos-de-motas/yamaha-mio-em-hanoi/",
+        "/tipos-de-motas/honda-click-ou-yamaha-mio/"
+      ],
+      "rewrite_reason": null
+    },
+    {
+      "id": "PT-0069",
+      "working_title": "Aluguer de longa duração: ficar com uma mota vários meses em Hanói",
+      "slug": "aluguer-de-longa-duracao",
+      "target_url": "/precos/aluguer-de-longa-duracao/",
+      "parent_category": "precos-e-condicoes",
+      "child_category": "aluguer-por-duracao",
+      "primary_keyword": "aluguer mota longa duração hanói",
+      "secondary_keywords": [
+        "alugar mota 3 meses hanói",
+        "aluguer mota expatriados"
+      ],
+      "search_intent": "commercial",
+      "funnel_stage": "MOFU",
+      "content_brief": "Planear 2 a 6 meses: renovação mensal, revisões, documentos e condições a acordar por escrito; preços confirmados caso a caso.",
+      "target_words": [
+        1500,
+        2800
+      ],
+      "source_requirements": {
+        "codes": [
+          "B",
+          "L"
+        ],
+        "min_sources": 2,
+        "notes": [
+          "Dados da loja apenas através de {{tokens}} (site/data.json): preços, telefone, morada e horário nunca escritos à mão.",
+          "Legislação vietnamita em vigor (texto da lei/decreto ou base de dados jurídica reconhecida), com data de consulta."
+        ]
+      },
+      "pillar_url": "/precos/",
+      "required_links": [
+        "/precos/",
+        "/tipos-de-motas/honda-vision-em-hanoi/"
+      ],
+      "planned_links_not_live_yet": [
+        "/precos/aluguer-mensal-de-mota/",
+        "/precos/prolongar-o-aluguer/"
+      ],
+      "rewrite_reason": null
+    }
+  ]
+}

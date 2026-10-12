@@ -1,0 +1,118 @@
+{
+  "url": "/guia-de-aluguer/documentacao-e-caucao/",
+  "template": "page",
+  "parent": "guia-de-aluguer",
+  "children": [
+    "processo-e-documentacao",
+    "caucoes-e-pagamentos"
+  ],
+  "navLabel": "Documentação e caução",
+  "navSummary": "Carta, licença internacional, documentos da mota e caução.",
+  "title": "Documentos e caução para alugar mota em Hanói",
+  "description": "Que documentos levar para alugar e conduzir uma mota em Hanói, como funciona a caução e que perguntas fazer antes de assinar. Com fontes oficiais.",
+  "h1": "Documentação e caução: o que preparar antes de alugar",
+  "primaryKeyword": "documentos e caução para alugar mota em hanói",
+  "eyebrow": "Guia de aluguer · Documentos",
+  "lead": "Os dois temas que geram mais dúvidas — e mais mal-entendidos — no aluguer de motas. Separe o que a lei exige para conduzir do que a loja pede para alugar.",
+  "updated": "2026-10-12",
+  "toc": true,
+  "answer": "Para **conduzir** no Vietname precisa de carta válida para a categoria da mota (A1 até 125 cm³) e, como visitante, da licença internacional reconhecida no país, além dos documentos do veículo e do seguro obrigatório. Para **alugar**, a loja indica os documentos e a caução aplicáveis ao seu caso — este site não publica um valor fixo. Confirme tudo antes de se deslocar e guarde a resposta por escrito.",
+  "sections": [
+    {
+      "h2": "Alugar e conduzir: duas coisas diferentes",
+      "body": [
+        "Há dois conjuntos de requisitos que convém não confundir. O primeiro é o que a **lei** exige a quem conduz: uma habilitação válida, os documentos do veículo e o respeito pelas regras de trânsito. O segundo é o que a **loja** pede para entregar a mota: identificação, eventuais garantias e as condições do acordo.",
+        "Cumprir um não dispensa o outro. Uma loja pode aceitar alugar-lhe uma mota e, ainda assim, a polícia multá-lo por não ter a carta adequada — e o seguro de viagem recusar cobrir um acidente."
+      ]
+    },
+    {
+      "h2": "Carta de condução e licença internacional",
+      "body": [
+        {
+          "h3": "A categoria certa"
+        },
+        "Desde 1 de janeiro de 2025, a lei vietnamita (Lei n.º 36/2024/QH15) define a categoria A1 para motociclos de duas rodas até 125 cm³ ou com motor elétrico até 11 kW, e a categoria A para motociclos acima desses limites. Verifique se a sua carta abrange motociclos da cilindrada que vai conduzir.",
+        {
+          "h3": "Visitantes estrangeiros"
+        },
+        "O Vietname aderiu à Convenção de Viena de 1968 sobre a circulação rodoviária. A orientação mais citada por fontes oficiais é que um visitante deve conduzir com a carta do seu país acompanhada de uma licença internacional de condução reconhecida no Vietname. A polícia vietnamita fiscaliza estrangeiros que conduzem motas sem licença internacional válida.",
+        {
+          "h3": "Se a sua carta é portuguesa"
+        },
+        "Em Portugal, a Licença Internacional de Condução é emitida pelo IMT. Segundo o IMT, é válida em países signatários das convenções de Genebra (1949) e de Viena (1968), tem a validade máxima de um ano (ou até ao fim da validade da carta, se esta terminar antes) e só vale acompanhada da carta portuguesa. Ao pedi-la, confirme que o documento emitido é reconhecido no Vietname e que inclui a categoria de motociclos.",
+        {
+          "note": "Se a sua carta foi emitida noutro país (por exemplo, no Brasil), confirme junto da entidade emissora desse país qual é o documento internacional adequado para o Vietname.",
+          "title": "Cartas de outros países"
+        }
+      ]
+    },
+    {
+      "h2": "Documentos que acompanham a mota",
+      "body": [
+        "A lei de 2024 exige que quem conduz leve consigo, entre outros, o certificado de registo do veículo (ou uma cópia certificada), a carta adequada à categoria e o certificado do seguro obrigatório de responsabilidade civil do proprietário.",
+        "Ao levantar a mota, pergunte que documentos do veículo seguem consigo, onde os deve guardar e o que fazer se a polícia pedir para os ver. Se a loja concordar, fotografe-os para ter uma referência em caso de perda."
+      ]
+    },
+    {
+      "h2": "Caução: como funciona e o que perguntar",
+      "body": [
+        "Uma caução é uma garantia entregue no início do aluguer e devolvida no fim, nas condições acordadas. Não é um pagamento do serviço. As condições dependem do modelo, da duração e da situação de cada aluguer, por isso este site não publica um valor fixo.",
+        "Antes de fechar o aluguer, peça à loja que confirme:",
+        {
+          "checklist": [
+            "se há caução no seu caso e qual o montante;",
+            "a forma da caução e o que fica registado no acordo;",
+            "quando e como é devolvida;",
+            "em que situações pode haver descontos (danos, atraso, combustível);",
+            "que comprovativo recebe no momento da entrega."
+          ]
+        },
+        "Se lhe pedirem para deixar um documento original como garantia, pergunte que alternativas existem e pondere a decisão: o passaporte é necessário, por exemplo, nos alojamentos e em controlos de identidade."
+      ]
+    },
+    {
+      "h2": "O acordo e o estado da mota",
+      "body": [
+        "O acordo de aluguer deve identificar o veículo, as datas, o preço, a caução (se existir) e as regras de devolução. Leia-o antes de assinar e peça explicação para o que não perceber.",
+        "No momento da entrega, fotografe a mota de todos os lados, o painel e o nível de combustível ou de carga. Essas imagens são a melhor proteção para ambas as partes no fim do aluguer."
+      ]
+    },
+    {
+      "h2": "Lista do que levar",
+      "body": [
+        {
+          "checklist": [
+            "Carta de condução válida para motociclos.",
+            "Licença internacional de condução reconhecida no Vietname.",
+            "Passaporte ou outro documento de identificação.",
+            "Telemóvel com o número da loja guardado: {{phone}}.",
+            "Confirmação escrita do preço, da caução e das condições."
+          ]
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Posso alugar uma mota sem licença internacional?",
+      "a": "A loja indica os documentos que pede para o aluguer, mas conduzir sem a habilitação exigida pode dar origem a multa e deixá-lo sem cobertura do seguro em caso de acidente. Confirme os requisitos legais antes de conduzir."
+    },
+    {
+      "q": "Quando é devolvida a caução?",
+      "a": "Nas condições acordadas com a loja. Confirme o momento e a forma da devolução antes de fechar o aluguer e guarde o comprovativo da caução entregue."
+    },
+    {
+      "q": "Quanto tempo é válida a Licença Internacional de Condução emitida em Portugal?",
+      "a": "Segundo o IMT, no máximo um ano, ou até ao fim da validade da carta portuguesa, se esta terminar antes. Só é válida acompanhada da carta nacional."
+    }
+  ],
+  "sources": [
+    "lei-36-2024-a1",
+    "lawnet-categorias-2025",
+    "uncrd-vietname-1968",
+    "imt-lic",
+    "mfat-conduzir-vietname",
+    "tuoitre-lic-fiscalizacao",
+    "lei-36-2024-artigo-56"
+  ]
+}

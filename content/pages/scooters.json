@@ -1,0 +1,97 @@
+{
+  "url": "/tipos-de-motas/scooters/",
+  "template": "page",
+  "parent": "tipos-de-motas",
+  "child": "scooters-automaticas",
+  "navLabel": "Scooters automáticas",
+  "title": "Aluguer de scooters em Hanói | Vision, Air Blade, Click",
+  "description": "Aluguer de scooters automáticas em Hanói: Honda Vision, Air Blade, Click e Yamaha Mio. Preços por dia, semana e mês e o que verificar antes de sair.",
+  "h1": "Aluguer de scooters automáticas em Hanói",
+  "primaryKeyword": "aluguer de scooters em hanói",
+  "eyebrow": "Tipos de motas · Scooters",
+  "lead": "Sem mudanças, com arrumação debaixo do assento e fáceis de manobrar: as scooters são a escolha mais comum para circular em Hanói. Compare os quatro modelos disponíveis.",
+  "updated": "2026-10-12",
+  "toc": true,
+  "answer": "A loja aluga quatro scooters automáticas: **Honda Vision** ({{price.vision.day}} por dia), **Honda Air Blade** ({{price.airblade.day}} por dia), **Honda Click** e **Yamaha Mio** ({{price.click.day}} por dia). Para a cidade, a Vision é a mais equilibrada; a Air Blade dá mais folga com passageiro. Confirme a cilindrada da unidade, porque define a categoria de carta exigida.",
+  "sections": [
+    {
+      "h2": "Modelos e preços de referência",
+      "body": [
+        {
+          "component": "model-cards",
+          "category": "scooters-automaticas"
+        }
+      ]
+    },
+    {
+      "h2": "Qual escolher",
+      "body": [
+        {
+          "h3": "Honda Vision"
+        },
+        "Leve, baixa e fácil de manobrar, a Vision é uma boa escolha para quem vai circular sobretudo dentro da cidade. É também uma das scooters mais comuns no Vietname, o que facilita encontrar ajuda em caso de furo ou de avaria simples.",
+        {
+          "h3": "Honda Air Blade"
+        },
+        "Maior e mais potente, a Air Blade é mais confortável com passageiro ou em avenidas largas. É vendida no Vietname em versões de 125 cm³ e de 160 cm³: a versão de 160 cm³ sai do âmbito da categoria A1, por isso confirme a cilindrada da unidade antes de alugar.",
+        {
+          "h3": "Honda Click e Yamaha Mio"
+        },
+        "Compactas e com o preço de referência mais baixo entre as scooters — {{price.click.day}} por dia e {{price.click.month}} por mês —, são opções práticas para deslocações curtas e para quem quer gastar menos num aluguer mais longo."
+      ]
+    },
+    {
+      "h2": "Antes de sair da loja",
+      "body": [
+        "Uma inspeção de cinco minutos evita a maior parte dos problemas. Com a mota parada e o motor desligado, verifique:",
+        {
+          "checklist": [
+            "**Travões**: as duas manetes devem travar com firmeza, sem chegarem ao punho.",
+            "**Pneus**: sem cortes nem bolhas e com piso visível.",
+            "**Luzes e buzina**: farol, luz de travão, piscas e buzina a funcionar.",
+            "**Espelhos**: bem fixos e ajustados à sua posição.",
+            "**Capacete**: do seu tamanho e com a fivela a fechar corretamente.",
+            "**Carroçaria**: fotografe riscos e marcas antes de arrancar, com a data visível."
+          ]
+        },
+        "Se algo não estiver bem, diga-o antes de sair. Mais vale resolver na loja do que descobrir o problema no meio do trânsito."
+      ]
+    },
+    {
+      "h2": "Carta de condução e categoria",
+      "body": [
+        "No Vietname, a nova categoria A1 — em vigor desde 1 de janeiro de 2025 — abrange motociclos de duas rodas até 125 cm³ ou com motor elétrico até 11 kW. Acima disso é exigida a categoria A. Para visitantes estrangeiros, a regra mais citada é apresentar a carta do país de origem acompanhada de uma licença internacional reconhecida no Vietname.",
+        "Confirme os requisitos em vigor antes de viajar e verifique também as condições do seu seguro de viagem: muitas apólices excluem acidentes ocorridos sem habilitação válida. Na página [Documentação e caução](/guia-de-aluguer/documentacao-e-caucao/) explicamos o que levar."
+      ]
+    },
+    {
+      "h2": "Conduzir uma scooter em Hanói",
+      "body": [
+        "O trânsito de Hanói é denso e muda de ritmo de minuto para minuto. Mantenha uma velocidade constante, evite travagens bruscas, olhe para os espelhos antes de qualquer mudança de direção e conte com motas a ultrapassar pelos dois lados.",
+        "Use sempre o capacete apertado — é obrigatório para quem conduz e para o passageiro — e não conduza depois de beber: a lei vietnamita não admite qualquer concentração de álcool. A lei também proíbe usar o telemóvel ou um guarda-chuva enquanto conduz."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Quanto custa alugar uma scooter por mês em Hanói?",
+      "a": "Na tabela de referência, o aluguer mensal vai de {{price.click.month}} (Honda Click e Yamaha Mio) a {{price.vision.month}} (Honda Vision). A Honda Air Blade tem uma referência de {{price.airblade.month}} por mês."
+    },
+    {
+      "q": "Posso levar um passageiro numa scooter alugada?",
+      "a": "A regra geral no Vietname é um passageiro por mota, e ambos têm de usar capacete; a lei só admite dois passageiros em situações excecionais. Com passageiro, prefira um modelo com mais potência, como a Air Blade, e confirme que a loja dispõe de dois capacetes adequados."
+    },
+    {
+      "q": "A scooter tem espaço para bagagem?",
+      "a": "As scooters têm um compartimento debaixo do assento, adequado para objetos pequenos. Para malas grandes, combine o transporte com a loja ou use outro meio."
+    }
+  ],
+  "sources": [
+    "lei-36-2024-a1",
+    "lawnet-categorias-2025",
+    "chotot-air-blade-125-160",
+    "lawnet-capacete-168",
+    "lawnet-proibicoes-2024",
+    "lawnet-passageiros-2025"
+  ]
+}
