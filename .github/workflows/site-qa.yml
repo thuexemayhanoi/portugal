@@ -1,0 +1,46 @@
+name: Site QA
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: site-qa-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  qa:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: '22'
+
+      - name: Syntax check
+        run: for f in scripts/*.mjs scripts/lib/*.mjs scripts/tools/*.mjs src/js/*.js; do node --check "$f"; done
+
+      - name: Unit tests
+        run: node --test "scripts/test/*.test.mjs"
+
+      - name: Generated files match the sources
+        run: node scripts/build.mjs --check
+
+      - name: Editorial plan (300 topics)
+        run: node scripts/plan.mjs --check
+
+      - name: Site audit (SEO, links, schema, NAP)
+        run: node scripts/qa-site.mjs --report
+
+      - name: Published articles still pass the article QA
+        run: node scripts/qa-factory.mjs --published
+
+      - name: Factory status
+        run: node scripts/factory.mjs status
