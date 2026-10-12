@@ -1,0 +1,158 @@
+/* =====================================================================
+   DESIGN TOKENS — Blue Titanium Premium
+   Única fonte de cores, tipografia, espaçamentos, raios e sombras.
+   Alterar aqui e correr `npm run build` atualiza todo o site.
+   ===================================================================== */
+:root {
+  /* Palette */
+  --c-blue-950: #06111d;
+  --c-blue-900: #0a1a2b;
+  --c-blue-800: #0f2a44;
+  --c-blue-700: #15406a;
+  --c-blue-600: #1d5a91;
+  --c-blue-500: #2a73b8;
+  --c-blue-400: #5a9bd6;
+  --c-blue-300: #9cc7ec;
+  --c-blue-100: #e6f1fb;
+  --c-ti-50: #f7f9fb;
+  --c-ti-100: #f0f3f6;
+  --c-ti-200: #e2e8ee;
+  --c-ti-300: #c9d3dc;
+  --c-ti-400: #a3b1bf;
+  --c-ti-500: #7d8c9b;
+  --c-ti-600: #5b6977;
+  --c-ti-700: #3f4b57;
+  --c-ink: #0b1118;
+  --c-white: #ffffff;
+
+  /* Semantic colours — light theme */
+  --bg: #f4f7fa;
+  --surface: #ffffff;
+  --surface-2: #eef3f7;
+  --surface-3: #e3eaf1;
+  --text: #0b1118;
+  --text-2: #3f4b57;
+  --text-3: #5b6977;
+  --border: #d5dee6;
+  --border-strong: #b7c4d0;
+  --brand: #1d5a91;
+  --brand-strong: #15406a;
+  --brand-soft: #e6f1fb;
+  --on-brand: #ffffff;
+  --link: #1a5689;
+  --link-hover: #0f2a44;
+  --focus: #2a73b8;
+  --info-bg: #e9f2fb;
+  --info-border: #9cc7ec;
+  --warn-bg: #fdf3e2;
+  --warn-border: #e4b765;
+  --warn-text: #6b4200;
+  --ok: #1f7a4d;
+
+  /* Metal surfaces */
+  --metal-blue: linear-gradient(135deg, #2a73b8 0%, #1d5a91 42%, #15406a 100%);
+  --metal-silver: linear-gradient(135deg, #f7f9fb 0%, #dfe6ec 38%, #c9d3dc 62%, #f0f3f6 100%);
+  --hero-bg:
+    radial-gradient(120% 90% at 85% 0%, rgba(90, 155, 214, 0.35) 0%, transparent 60%),
+    radial-gradient(80% 70% at 0% 100%, rgba(29, 90, 145, 0.45) 0%, transparent 65%),
+    linear-gradient(160deg, #0a1a2b 0%, #0f2a44 55%, #12385d 100%);
+  --brushed: repeating-linear-gradient(115deg, rgba(255, 255, 255, 0.035) 0 2px, transparent 2px 9px);
+
+  /* Elevation */
+  --shadow-sm: 0 1px 2px rgba(11, 17, 24, 0.06), 0 1px 1px rgba(11, 17, 24, 0.04);
+  --shadow-md: 0 10px 28px -16px rgba(15, 42, 68, 0.35);
+  --shadow-lg: 0 28px 56px -28px rgba(10, 26, 43, 0.45);
+  --ring: 0 0 0 3px rgba(42, 115, 184, 0.35);
+
+  /* Shape */
+  --radius-sm: 8px;
+  --radius: 14px;
+  --radius-lg: 22px;
+  --radius-pill: 999px;
+
+  /* Typography — system fonts only (no web-font download, no layout shift) */
+  --font-sans: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
+  --font-mono: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  --fs-sm: 0.875rem;
+  --fs-base: 1.0625rem;
+  --fs-md: 1.1875rem;
+  --fs-lg: 1.375rem;
+  --fs-xl: clamp(1.45rem, 1.15rem + 1.1vw, 1.85rem);
+  --fs-2xl: clamp(1.75rem, 1.3rem + 1.9vw, 2.5rem);
+  --fs-3xl: clamp(2.05rem, 1.35rem + 3vw, 3.35rem);
+  --lh: 1.65;
+  --tracking-tight: -0.022em;
+
+  /* Spacing & layout */
+  --s-1: 0.25rem;
+  --s-2: 0.5rem;
+  --s-3: 0.75rem;
+  --s-4: 1rem;
+  --s-5: 1.5rem;
+  --s-6: 2rem;
+  --s-7: 3rem;
+  --s-8: 4.5rem;
+  --wrap: 1180px;
+  --gutter: clamp(1rem, 0.6rem + 1.6vw, 1.75rem);
+  --prose: 72ch;
+  --header-h: 68px;
+  --topbar-h: 34px;
+  --mobile-bar-h: 60px;
+  color-scheme: light;
+}
+
+/* Dark theme: follows the system unless the visitor picked a theme (stored as data-theme). */
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #0a121b;
+    --surface: #0f1a26;
+    --surface-2: #132231;
+    --surface-3: #1a2c3e;
+    --text: #e8eef4;
+    --text-2: #b6c3d0;
+    --text-3: #93a3b3;
+    --border: #223446;
+    --border-strong: #31475d;
+    --brand: #5a9bd6;
+    --brand-strong: #9cc7ec;
+    --brand-soft: #132a40;
+    --link: #8fc1ef;
+    --link-hover: #c6e0f7;
+    --focus: #9cc7ec;
+    --info-bg: #11253a;
+    --info-border: #2a4f75;
+    --warn-bg: #2a2010;
+    --warn-border: #6b5122;
+    --warn-text: #f0cf94;
+    --metal-silver: linear-gradient(135deg, #1a2c3e 0%, #223a52 45%, #1a2c3e 100%);
+    --shadow-md: 0 12px 30px -18px rgba(0, 0, 0, 0.7);
+    --shadow-lg: 0 30px 60px -30px rgba(0, 0, 0, 0.8);
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #0a121b;
+  --surface: #0f1a26;
+  --surface-2: #132231;
+  --surface-3: #1a2c3e;
+  --text: #e8eef4;
+  --text-2: #b6c3d0;
+  --text-3: #93a3b3;
+  --border: #223446;
+  --border-strong: #31475d;
+  --brand: #5a9bd6;
+  --brand-strong: #9cc7ec;
+  --brand-soft: #132a40;
+  --link: #8fc1ef;
+  --link-hover: #c6e0f7;
+  --focus: #9cc7ec;
+  --info-bg: #11253a;
+  --info-border: #2a4f75;
+  --warn-bg: #2a2010;
+  --warn-border: #6b5122;
+  --warn-text: #f0cf94;
+  --metal-silver: linear-gradient(135deg, #1a2c3e 0%, #223a52 45%, #1a2c3e 100%);
+  --shadow-md: 0 12px 30px -18px rgba(0, 0, 0, 0.7);
+  --shadow-lg: 0 30px 60px -30px rgba(0, 0, 0, 0.8);
+  color-scheme: dark;
+}

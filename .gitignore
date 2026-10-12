@@ -1,0 +1,8 @@
+# Dependencies are never committed (the site build has none; CI installs the optional writer SDK on demand)
+node_modules/
+package-lock.json
+# Local tooling
+.DS_Store
+*.log
+_site/
+.jekyll-cache/
