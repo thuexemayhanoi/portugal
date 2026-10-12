@@ -28,6 +28,7 @@ on:
 permissions:
   contents: write
   pages: write # request a Pages build after publishing (see the last step)
+  actions: write # start the SEO Monitor on the new deploy (pushes made with GITHUB_TOKEN trigger no workflow)
 
 concurrency:
   group: article-factory
@@ -121,6 +122,9 @@ jobs:
               gh api -X POST "repos/${GITHUB_REPOSITORY}/pages/builds" > /dev/null \
                 && echo "GitHub Pages build requested." \
                 || echo "::warning::Não foi possível pedir o build do GitHub Pages; o site atualiza no próximo push para main."
+              gh workflow run seo-monitor.yml --ref main -f reason=factory \
+                && echo "SEO Monitor started for the new deploy." \
+                || echo "::warning::Não foi possível iniciar o SEO Monitor; corre na próxima segunda-feira."
               exit 0
             fi
             echo "main moved; rebasing (attempt $attempt)"

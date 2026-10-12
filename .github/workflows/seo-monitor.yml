@@ -1,0 +1,102 @@
+name: SEO Monitor
+
+# Independent of the Article Factory: one workflow produces articles, this one watches the quality of
+# the whole deployed site — HTTPS, robots, sitemap, canonical, indexability, schema/NAP, internal links,
+# 404, mobile performance — and, once the owner connects them, Search Console and Bing data.
+# Read-only: it never commits; results go to the run summary and to an artifact.
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: '41 1 * * 1' # Mondays 08:41 in Hanoi: full audit with external links, Lighthouse and URL Inspection
+  workflow_dispatch:
+    inputs:
+      reason:
+        description: 'Motivo (ex.: factory, manual)'
+        required: false
+        default: manual
+      external:
+        description: 'Verificar também ligações externas e fontes'
+        type: boolean
+        default: true
+
+permissions:
+  contents: read
+
+concurrency:
+  group: seo-monitor
+  cancel-in-progress: false
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          fetch-depth: 2
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: '22'
+
+      - name: Files changed by the last commit (deploy probes)
+        id: changed
+        run: |
+          probes=$(git diff --name-only HEAD~1 HEAD 2>/dev/null | grep -E '^([a-f0-9]{32,128}\.txt|index\.html|404\.html|sitemap\.xml|robots\.txt|llms\.txt|[a-z0-9-]+(/[a-z0-9-]+)*/index\.html|assets/.+)$' | head -40 | paste -sd, - || true)
+          echo "probes=${probes}" >> "$GITHUB_OUTPUT"
+          echo "Probes: ${probes:-(none)}"
+
+      - name: Live audit of the deployed site
+        id: audit
+        env:
+          EVENT: ${{ github.event_name }}
+          PROBES: ${{ steps.changed.outputs.probes }}
+          EXTERNAL: ${{ github.event_name == 'schedule' || inputs.external == true }}
+        run: |
+          set -euo pipefail
+          extra=()
+          if [ "$EVENT" != "schedule" ]; then extra+=(--wait 900); fi
+          if [ -n "$PROBES" ]; then extra+=(--probe "$PROBES"); fi
+          if [ "$EXTERNAL" = "true" ]; then extra+=(--external); fi
+          node scripts/audit-live.mjs --report reports/live-audit.json --summary "$GITHUB_STEP_SUMMARY" "${extra[@]}"
+
+      - name: IndexNow (Bing and others) for the changed pages
+        if: success() && github.event_name != 'schedule'
+        env:
+          PROBES: ${{ steps.changed.outputs.probes }}
+        run: node scripts/indexnow.mjs --probe "$PROBES"
+
+      - name: Lighthouse (mobile, lab)
+        if: always() && github.event_name != 'push'
+        continue-on-error: true
+        run: |
+          base=$(node -e "console.log(require('./site/data.json').site.baseUrl)")
+          for path in / /precos/ /tipos-de-motas/scooters/ /tipos-de-motas/honda-vision-em-hanoi/; do
+            name=$(echo "$path" | tr '/' '-' | sed 's/^-*//;s/-*$//'); name=${name:-home}
+            npx --yes lighthouse@13.4.1 "$base$path" --quiet --chrome-flags="--headless=new --no-sandbox" \
+              --only-categories=performance,accessibility,best-practices,seo \
+              --output=json --output-path="reports/lighthouse-$name.json" || echo "::warning::Lighthouse failed for $path"
+          done
+          node scripts/lighthouse-summary.mjs reports/lighthouse-*.json --report reports/lighthouse.json >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Search Console and Bing (only when the owner connected them)
+        if: always()
+        env:
+          GSC_SERVICE_ACCOUNT_JSON: ${{ secrets.GSC_SERVICE_ACCOUNT_JSON }}
+          GSC_SITE_URL: ${{ vars.GSC_SITE_URL }}
+          BING_WEBMASTER_API_KEY: ${{ secrets.BING_WEBMASTER_API_KEY }}
+          INSPECT: ${{ github.event_name == 'schedule' }}
+        run: |
+          extra=()
+          if [ "$INSPECT" = "true" ]; then extra+=(--inspect); fi
+          node scripts/seo-data.mjs --report reports/seo-performance.json --summary "$GITHUB_STEP_SUMMARY" "${extra[@]}"
+
+      - name: Keep the reports
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: seo-monitor-${{ github.run_id }}
+          path: reports/
+          retention-days: 30
+          if-no-files-found: ignore
