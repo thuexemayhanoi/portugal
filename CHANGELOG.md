@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.1.2 — 2026-10-12
+
+- SEO Monitor: cada execução do Lighthouse tem um limite de 4 minutos e o passo inteiro de 15, para que um bloqueio nunca prenda o workflow.
+- Execução completa no domínio real: Lighthouse móvel (laboratório) 97–100 em desempenho e 100 em acessibilidade, boas práticas e SEO; LCP 0,9–1,3 s; CLS 0. Verificadas 24 ligações externas sem erros.
+
 ## 1.1.1 — 2026-10-12
 
 - Primeira execução do SEO Monitor no domínio real: 15/15 URL sem erros, http→https e github.io→domínio com 301, IndexNow aceite (HTTP 202). Documentação atualizada.
