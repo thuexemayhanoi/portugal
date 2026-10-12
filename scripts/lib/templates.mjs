@@ -76,7 +76,7 @@ function contentLayout(page, ctx, inner, lead = '') {
 
 function contactMini(ctx) {
   const b = ctx.data.business;
-  return `<p class="aside-title">${esc(b.shortName)} · ${esc(b.address.areaLabel)}</p><p>${esc(b.hours.short)}</p><a class="btn btn-primary btn-block" href="tel:${esc(b.phone.e164)}">${icon('phone', 18)}<span>${esc(b.phone.display)}</span></a>`;
+  return `<p class="aside-title">${esc(b.shortName)} · ${esc(b.address.areaLabel)}</p><p>${esc(b.hours.short)}</p><a class="btn btn-primary btn-block" href="${esc(b.phone.tel)}">${icon('phone', 18)}<span>${esc(b.phone.display)}</span></a>`;
 }
 
 function standardBody(page, ctx) {
@@ -216,7 +216,7 @@ function renderArticle(page, ctx) {
   const meta = updatedMeta(
     page,
     ctx,
-    `<span class="sep" aria-hidden="true">·</span><span>${minutes} ${esc(ctx.ui.readingTime)}</span><span class="sep" aria-hidden="true">·</span><span>${esc(ctx.data.editorial.byline)}</span>`
+    `<span class="sep" aria-hidden="true">·</span><span>${minutes} ${esc(ctx.ui.readingTime)}</span><span class="sep" aria-hidden="true">·</span><a href="${esc(ctx.data.editorial.url)}" rel="author">${esc(ctx.data.editorial.byline)}</a>`
   );
   const pageWithEyebrow = { ...page, eyebrow: ctx.children.get(page.child).label };
   const top = pageTop(pageWithEyebrow, ctx, { meta });

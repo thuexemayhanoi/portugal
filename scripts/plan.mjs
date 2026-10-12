@@ -11,6 +11,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { readJSON, writeJSON, listFiles, normalize, rel, isCleanUrl, fail } from './lib/util.mjs';
+import { intentTokens as tokens, jaccard } from './lib/intent.mjs';
 
 const INTENTS = new Set(['informational', 'commercial', 'transactional', 'navigational']);
 const FUNNEL = new Set(['TOFU', 'MOFU', 'BOFU']);
@@ -26,21 +27,6 @@ export const SOURCE_CODES = {
   H: 'Fonte oficial de saúde (OMS, Ministério da Saúde do Vietname) para conselhos de saúde.'
 };
 const AUTO_HOLD = 'Risco alto de canibalização com';
-const GENERIC = new Set(
-  'a o e de da do das dos em no na nos nas um uma para por com ou os as ao aos que se como mais qual quais quanto quando onde porque deve devo pode posso vs aluguer alugar alugada alugado mota motas moto hanoi vietname vietnamita vietnam cidade guia'.split(' ')
-);
-
-function tokens(text) {
-  const t = normalize(text).replace(/\b(\d+)\s+cc\b/g, '$1cc').split(' ');
-  return new Set(t.filter((w) => w && !GENERIC.has(w)).map((w) => (w.length > 4 && w.endsWith('s') ? w.slice(0, -1) : w)));
-}
-const jaccard = (a, b) => {
-  if (!a.size || !b.size) return 0;
-  let inter = 0;
-  for (const x of a) if (b.has(x)) inter++;
-  return inter / (a.size + b.size - inter);
-};
-
 function targetWords(t) {
   if (t.priority === 1 && t.search_intent !== 'navigational') return [1500, 2800];
   if (t.funnel_stage === 'BOFU') return [1100, 1800];

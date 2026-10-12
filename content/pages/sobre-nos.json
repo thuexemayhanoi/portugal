@@ -4,7 +4,7 @@
   "schemaType": "AboutPage",
   "navLabel": "Sobre nós",
   "title": "Sobre nós | Nguyễn Tú, aluguer de motas em Long Biên",
-  "description": "Conheça a Nguyễn Tú, loja de aluguer de motas em Long Biên, Hanói: morada, horário, motas disponíveis e a forma como confirmamos preços e condições.",
+  "description": "Conheça a Nguyễn Tú, loja de aluguer de motas em Long Biên, Hanói: dados oficiais, morada, horário, motas disponíveis e como verificamos a informação.",
   "h1": "Sobre a Nguyễn Tú",
   "primaryKeyword": "nguyễn tú aluguer de motas long biên",
   "eyebrow": "Quem somos",
@@ -15,8 +15,44 @@
     {
       "h2": "A loja",
       "body": [
-        "**{{name}}** — em português, «aluguer de motas Nguyễn Tú» — é uma loja de aluguer de motas situada em {{address}}. Neste site usamos o nome **{{display}}**, mas é a mesma loja: a mesma morada, o mesmo telefone e o mesmo horário.",
-        "A loja está aberta {{hours}}. O contacto faz-se por telefone ou Zalo para o {{phone}}, e a localização exata está no [Google Maps]({{maps}}). O site principal da loja é [thuexemaynguyentu.com]({{website}})."
+        "**{{name}}** — em português, «aluguer de motas Nguyễn Tú» — é uma loja de aluguer de motas em Long Biên, Hanói. Neste site usamos o nome **{{display}}**, mas é a mesma loja: a mesma morada, o mesmo telefone e o mesmo horário.",
+        {
+          "dl": [
+            [
+              "Nome oficial",
+              "{{name}}"
+            ],
+            [
+              "Nome no Google Maps",
+              "[{{gbp}}]({{maps}})"
+            ],
+            [
+              "Marca",
+              "{{brand}}"
+            ],
+            [
+              "Morada",
+              "{{address}}"
+            ],
+            [
+              "Morada em vietnamita",
+              "{{address.vi}}"
+            ],
+            [
+              "Telefone e Zalo",
+              "[{{phone}}]({{tel}}) · {{phone.local}}"
+            ],
+            [
+              "Horário",
+              "{{hours.display}}"
+            ],
+            [
+              "Site principal",
+              "[thuexemaynguyentu.com]({{website}})"
+            ]
+          ]
+        },
+        "Estes são os dados oficiais da loja e são os mesmos em todas as páginas deste site. Se encontrar noutro sítio uma morada, um número ou um horário diferentes, considere válidos os que estão aqui ou confirme diretamente com a loja."
       ]
     },
     {
@@ -54,6 +90,23 @@
       "body": [
         "Quem chega a Hanói vindo de Portugal ou de outro país de língua portuguesa encontra sobretudo informação em vietnamita ou em inglês. Este site organiza, em português de Portugal, o que é útil saber antes de alugar: tipos de motas, preços, documentos, segurança e mobilidade na cidade.",
         "Cada página indica a data da última atualização. As regras legais citadas têm a fonte identificada, e os dados da loja são lidos de um único ficheiro: quando a loja altera um preço ou o horário, o site inteiro é atualizado em conjunto."
+      ]
+    },
+    {
+      "id": "equipa-editorial",
+      "h2": "Quem escreve e verifica este site",
+      "body": [
+        "Os artigos são assinados pela **{{byline}}**, responsável pelos conteúdos deste site em nome da loja {{name}}. Não publicamos opiniões pagas, avaliações nem classificações: o objetivo é explicar, com dados verificáveis, o que é útil saber antes de alugar uma mota em Hanói.",
+        {
+          "checklist": [
+            "Preços, morada, telefone e horário vêm de um único ficheiro de dados da loja e são iguais em todas as páginas.",
+            "As regras legais e de segurança indicam a fonte — lei, decreto ou entidade oficial — e a data em que foi consultada.",
+            "Cada texto passa por um controlo de qualidade automático (português de Portugal, ligações, fontes e afirmações não confirmadas) e por aprovação editorial antes de ser publicado.",
+            "Alguns textos são preparados com o apoio de ferramentas de inteligência artificial; nenhum é publicado sem esse controlo e sem fontes identificadas.",
+            "Cada página mostra a data da última atualização e é revista quando mudam a lei, os preços ou as condições da loja."
+          ]
+        },
+        "Encontrou um erro ou uma informação desatualizada? Avise a loja pelo telefone ou Zalo {{phone}}: a correção é feita na fonte e aplicada a todo o site."
       ]
     },
     {

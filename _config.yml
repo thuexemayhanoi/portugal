@@ -4,6 +4,7 @@
 # that share a prefix are listed in `include`. scripts/qa-site.mjs checks both lists.
 exclude:
   - AGENTS.md
+  - CHANGELOG.md
   - README.md
   - package.json
   - content

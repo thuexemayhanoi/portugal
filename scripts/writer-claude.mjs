@@ -45,7 +45,7 @@ const contract = fs.readFileSync(rel('factory/WRITER-CONTRACT.md'), 'utf8').repl
 
 // Structured-output schema: the factory sets id, slug, version, writer and status itself.
 const schema = readJSON('factory/article.schema.json');
-const FACTORY_FIELDS = ['contract_version', 'id', 'slug', 'writer', 'status'];
+const FACTORY_FIELDS = ['contract_version', 'id', 'slug', 'writer', 'status', 'revision'];
 const modelSchema = {
   type: 'object',
   additionalProperties: false,

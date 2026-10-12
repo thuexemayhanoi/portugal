@@ -7,8 +7,9 @@
 // claims, WhatsApp policy, pt-BR vocabulary, unresolved tokens, images, CNAME and page weight.
 import fs from 'node:fs';
 import path from 'node:path';
-import { ROOT, rel, readJSON, writeJSON, stripTags } from './lib/util.mjs';
-import { findBrazilianisms, findRiskyClaims } from './lib/language.mjs';
+import { ROOT, rel, readJSON, writeJSON, stripTags, visibleText } from './lib/util.mjs';
+import { findBrazilianisms, findRiskyClaims, findStyleIssues, findForeignText } from './lib/language.mjs';
+import { businessProblems } from './lib/nap.mjs';
 
 const SOURCE_DIRS = new Set(['.git', '.github', 'node_modules', 'content', 'data', 'docs', 'factory', '_factory', 'reports', 'scripts', 'site', 'src']);
 const data = readJSON('site/data.json');
@@ -17,6 +18,7 @@ const errors = [];
 const warnings = [];
 const err = (file, msg) => errors.push(`${file}: ${msg}`);
 const warn = (file, msg) => warnings.push(`${file}: ${msg}`);
+
 
 function htmlFiles() {
   const out = [];
@@ -128,9 +130,12 @@ for (const p of pages.values()) {
   if (!(data.business.whatsapp.enabled && data.business.whatsapp.verified) && /wa\.me|api\.whatsapp|whatsapp:\/\//i.test(p.html)) {
     err(f, 'WhatsApp link present while business.whatsapp is not enabled+verified');
   }
-  // NAP present on every page (footer + call link)
-  if (!p.html.includes(`tel:${data.business.phone.e164}`)) err(f, 'missing tel: link with the canonical phone');
-  if (!p.html.includes(data.business.address.full)) err(f, 'canonical address not found on page');
+  // NAP present on every page (header, footer, floating call): official phone link, address and hours
+  const biz = data.business;
+  if (!p.html.includes(`href="${biz.phone.tel}"`)) err(f, `missing ${biz.phone.tel} link`);
+  if (!p.html.includes(biz.address.display)) err(f, 'Portuguese display address not found on page');
+  if (!p.html.includes(biz.hours.display)) err(f, 'official opening hours text not found on page');
+  for (const [, tel] of p.html.matchAll(/href="(tel:[^"]*)"/g)) if (tel !== biz.phone.tel) err(f, `tel link ${tel} differs from ${biz.phone.tel}`);
 
   // JSON-LD
   const nodes = [];
@@ -145,14 +150,13 @@ for (const p of pages.values()) {
   const all = JSON.stringify(nodes);
   if (/aggregateRating|"review"|"Review"/.test(all)) err(f, 'JSON-LD contains ratings/reviews (not allowed without verified data)');
   if (!is404) {
-    const types = nodes.map((n) => n['@type']);
-    for (const t of ['LocalBusiness', 'WebSite']) if (!types.includes(t)) err(f, `JSON-LD missing ${t}`);
-    const lb = nodes.find((n) => n['@type'] === 'LocalBusiness');
-    if (lb) {
-      if (lb.name !== data.business.canonicalName) err(f, 'LocalBusiness.name differs from canonical name');
-      if (lb.telephone !== data.business.phone.display) err(f, 'LocalBusiness.telephone differs from data.json');
-      if (lb.address?.streetAddress !== data.business.address.streetAddress) err(f, 'LocalBusiness address differs from data.json');
-    }
+    const typesOf = (n) => [].concat(n['@type'] || []);
+    const types = nodes.flatMap(typesOf);
+    for (const t of ['LocalBusiness', 'Organization', 'WebSite']) if (!types.includes(t)) err(f, `JSON-LD missing ${t}`);
+    const businesses = nodes.filter((n) => typesOf(n).includes('LocalBusiness') || typesOf(n).includes('Organization'));
+    if (businesses.length > 1) err(f, `${businesses.length} business/organization nodes: the shop must be a single entity (#business)`);
+    const lb = businesses[0];
+    if (lb) for (const problem of businessProblems(lb, data.business)) err(f, `LocalBusiness: ${problem}`);
     const visibleFaq = (p.main.match(/class="faq-item"/g) || []).length;
     if (types.includes('FAQPage') && visibleFaq < 2) err(f, 'FAQPage schema without visible FAQ');
     if (p.url !== '/') {
@@ -161,12 +165,15 @@ for (const p of pages.values()) {
       if (!bc) err(f, 'missing BreadcrumbList');
       else if (bc.itemListElement.length !== visible) err(f, `BreadcrumbList has ${bc.itemListElement.length} items, visible breadcrumb has ${visible}`);
     }
-    if (p.html.includes('<article class="article">') && !types.includes('Article')) err(f, 'article page without Article schema');
+    if (p.html.includes('<article class="article">') && !types.includes('BlogPosting')) err(f, 'article page without BlogPosting schema');
   }
 
-  // language and claims on visible text
-  const text = stripTags(p.main);
+  // language and claims on visible Portuguese text (elements marked lang="en"/"vi" are skipped)
+  const text = visibleText(p.main.replace(/<section class="sources"[\s\S]*?<\/section>/g, ' '));
   for (const hit of findBrazilianisms(text)) warn(f, `pt-BR term "${hit.term}" → prefer "${hit.pt}" (…${hit.context}…)`);
+  for (const hit of findStyleIssues(text)) warn(f, `pt-PT style "${hit.term}" → prefer "${hit.pt}" (…${hit.context}…)`);
+  const foreign = findForeignText(text);
+  for (const hit of [...foreign.spanish, ...foreign.noAccents, ...foreign.english]) warn(f, `${hit.pt} "${hit.term}" (…${hit.context}…)`);
   for (const hit of findRiskyClaims(text)) warn(f, `claim to verify "${hit.match}" (…${hit.context}…)`);
   const kb = Buffer.byteLength(p.html) / 1024;
   if (kb > 150) warn(f, `page weight ${kb.toFixed(0)} KB`);
@@ -232,11 +239,12 @@ else {
     }
   };
   walkAssets('assets');
-  for (const f of ['CNAME', 'robots.txt', 'sitemap.xml', 'llms.txt', ...htmlFiles(), ...assetFiles]) {
+  const indexNowFile = data.site.indexNow?.enabled ? [`${data.site.indexNow.key}.txt`] : [];
+  for (const f of ['CNAME', 'robots.txt', 'sitemap.xml', 'llms.txt', ...indexNowFile, ...htmlFiles(), ...assetFiles]) {
     if (hidden(f)) err('_config.yml', `GitHub Pages would not publish ${f}: an "exclude" entry matches it (Jekyll matches by prefix); add it to "include" or rename the entry`);
   }
   const privateEntries = [...SOURCE_DIRS].filter((d) => !/^[._]/.test(d) && d !== 'node_modules' && fs.existsSync(rel(d)));
-  for (const f of [...privateEntries, 'AGENTS.md', 'README.md', 'package.json']) {
+  for (const f of [...privateEntries, 'AGENTS.md', 'README.md', 'CHANGELOG.md', 'package.json']) {
     if (!hidden(f)) err('_config.yml', `${f} is not excluded: GitHub Pages would publish it`);
   }
 }

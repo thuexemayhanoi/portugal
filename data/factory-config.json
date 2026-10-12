@@ -60,5 +60,27 @@
       "web_search_max_uses": 8,
       "sdk_package": "@anthropic-ai/sdk@0.128.0"
     }
+  },
+  "intent": {
+    "$comment": "Sobreposição (Jaccard) entre a impressão digital de intenção do rascunho (palavra-chave principal + título + H1) e as páginas publicadas/rascunhos do mesmo lote. Os temas válidos do plano ficam abaixo de 0,35.",
+    "error": 0.6,
+    "warning": 0.45,
+    "answer_warning": 0.3
+  },
+  "sources": {
+    "max_age_days_warning": 365,
+    "max_age_days_error": 730,
+    "types": [
+      "legal-database",
+      "official",
+      "news",
+      "manufacturer",
+      "business",
+      "reference"
+    ]
+  },
+  "publishing": {
+    "$comment": "Ritmo de publicação: no máximo N artigos novos em 7 dias (atualizações não contam). Evita publicar centenas de artigos de uma vez.",
+    "max_new_per_7_days": 10
   }
 }
