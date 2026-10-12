@@ -2,9 +2,9 @@
 
 ## Ưu tiên cao
 
-- [ ] **DNS + HTTPS**: bản ghi `CNAME` tên `pt` → `thuexemayhanoi.github.io` tại nhà cung cấp DNS của `rentbikehanoi.com`. Sau đó vào GitHub → Settings → Pages: custom domain `pt.rentbikehanoi.com` (đã có sẵn qua file CNAME) và bật **Enforce HTTPS**. Workflow **SEO Monitor** kiểm tra mục này trên site thật sau mỗi lần deploy: nếu báo `site not reachable` hoặc `HTTP answers without redirecting to HTTPS` thì đây là việc cần sửa.
+- [x] **DNS + HTTPS**: đã xác minh ngày 12/10/2026 bằng SEO Monitor chạy từ GitHub Actions. `https://pt.rentbikehanoi.com` trả về 15/15 URL đúng; `http://` chuyển hướng 301 sang `https://` (Enforce HTTPS đang bật); `thuexemayhanoi.github.io/portugal/` chuyển hướng 301 về domain riêng. Từ nay, SEO Monitor sẽ báo lỗi nếu một trong các điều này thay đổi.
 - [ ] **Google Search Console**: thêm property `https://pt.rentbikehanoi.com/`, hoặc dùng domain property `rentbikehanoi.com`. Nếu xác minh bằng thẻ meta, dán mã vào `site/data.json` → `site.verification.google` rồi chạy `npm run build`. Sau đó gửi `https://pt.rentbikehanoi.com/sitemap.xml`.
-- [ ] **Bing Webmaster Tools**: chọn "Import from Google Search Console" (nhanh nhất) hoặc xác minh bằng `site.verification.bing`. Site đã bật **IndexNow**: file khóa nằm tại `/f93b7c644c1f781349f457961584c522.txt`, và SEO Monitor tự báo cho Bing các URL thay đổi sau mỗi lần deploy. Muốn tắt thì đặt `site.indexNow.enabled = false`.
+- [ ] **Bing Webmaster Tools**: chọn "Import from Google Search Console" (nhanh nhất) hoặc xác minh bằng `site.verification.bing`. Site đã bật **IndexNow**: file khóa nằm tại `/f93b7c644c1f781349f457961584c522.txt`, và SEO Monitor tự báo cho Bing các URL thay đổi sau mỗi lần deploy. Lần gửi đầu tiên (15 URL) được chấp nhận với HTTP 202. Muốn tắt thì đặt `site.indexNow.enabled = false`.
 - [ ] **Xác nhận bảng giá** trong `site/data.json` → `pricing`, lấy từ bảng "verified" ngày 12/10/2026. Cần xác nhận riêng:
   - **xe máy điện** 200.000/1.000.000/1.500.000 VND (site tiếng Tây Ban Nha ghi "Consultar");
   - **xe 50 cc** theo tuần/tháng;

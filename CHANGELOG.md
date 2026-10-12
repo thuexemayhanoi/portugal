@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.1.1 — 2026-10-12
+
+- Primeira execução do SEO Monitor no domínio real: 15/15 URL sem erros, http→https e github.io→domínio com 301, IndexNow aceite (HTTP 202). Documentação atualizada.
+- Os resumos do Lighthouse e da Search Console/Bing também aparecem no registo da execução.
+
 ## 1.1.0 — 2026-10-12 · NAP oficial, SEO Monitor e fábrica reforçada
 
 - **NAP oficial** do proprietário como fonte única (`site/data.json`):

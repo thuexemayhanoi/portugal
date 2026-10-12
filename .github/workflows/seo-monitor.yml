@@ -78,7 +78,7 @@ jobs:
               --only-categories=performance,accessibility,best-practices,seo \
               --output=json --output-path="reports/lighthouse-$name.json" || echo "::warning::Lighthouse failed for $path"
           done
-          node scripts/lighthouse-summary.mjs reports/lighthouse-*.json --report reports/lighthouse.json >> "$GITHUB_STEP_SUMMARY"
+          node scripts/lighthouse-summary.mjs reports/lighthouse-*.json --report reports/lighthouse.json | tee -a "$GITHUB_STEP_SUMMARY"
 
       - name: Search Console and Bing (only when the owner connected them)
         if: always()
@@ -90,7 +90,7 @@ jobs:
         run: |
           extra=()
           if [ "$INSPECT" = "true" ]; then extra+=(--inspect); fi
-          node scripts/seo-data.mjs --report reports/seo-performance.json --summary "$GITHUB_STEP_SUMMARY" "${extra[@]}"
+          node scripts/seo-data.mjs --report reports/seo-performance.json "${extra[@]}" | tee -a "$GITHUB_STEP_SUMMARY"
 
       - name: Keep the reports
         if: always()
