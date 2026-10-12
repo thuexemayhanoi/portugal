@@ -1,0 +1,116 @@
+name: Article Factory
+
+# Content Factory 300. Never calls a paid API unless the owner sets BOTH the repository variable
+# FACTORY_WRITER=claude (plus FACTORY_CLAUDE_MODEL) AND the secret ANTHROPIC_API_KEY.
+on:
+  workflow_dispatch:
+    inputs:
+      action:
+        description: 'Ação da fábrica'
+        type: choice
+        required: true
+        default: status
+        options: [status, process, approve, reject, refresh-queue, pause, resume, write]
+      ids:
+        description: 'IDs para approve/reject (ex.: PT-0001 PT-0066)'
+        required: false
+        default: ''
+      reason:
+        description: 'Motivo da rejeição (reject)'
+        required: false
+        default: ''
+  push:
+    branches: [main]
+    paths: ['_factory/inbox/**']
+  schedule:
+    - cron: '23 3 * * *' # 10:23 em Hanói
+
+permissions:
+  contents: write
+
+concurrency:
+  group: article-factory
+  cancel-in-progress: false
+
+jobs:
+  factory:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: '22'
+
+      - name: Choose action
+        id: choose
+        env:
+          EVENT: ${{ github.event_name }}
+          INPUT_ACTION: ${{ inputs.action }}
+          SCHEDULED_WRITE: ${{ vars.FACTORY_SCHEDULED_WRITE == 'true' && vars.FACTORY_WRITER == 'claude' }}
+        run: |
+          if [ "$EVENT" = "workflow_dispatch" ]; then action="$INPUT_ACTION";
+          elif [ "$EVENT" = "schedule" ] && [ "$SCHEDULED_WRITE" = "true" ]; then action="write";
+          else action="process"; fi
+          echo "action=$action" >> "$GITHUB_OUTPUT"
+          echo "Factory action: $action"
+
+      - name: Pre-flight (sources and generated files in sync)
+        run: |
+          node scripts/build.mjs --check
+          node scripts/plan.mjs --check
+
+      - name: Install the Anthropic SDK (paid writer only)
+        if: steps.choose.outputs.action == 'write' && vars.FACTORY_WRITER == 'claude'
+        run: npm install --no-save --no-package-lock @anthropic-ai/sdk@0.128.0
+
+      - name: Run the factory
+        env:
+          ACTION: ${{ steps.choose.outputs.action }}
+          IDS: ${{ inputs.ids }}
+          REASON: ${{ inputs.reason }}
+          FACTORY_WRITER: ${{ vars.FACTORY_WRITER }}
+          FACTORY_CLAUDE_MODEL: ${{ vars.FACTORY_CLAUDE_MODEL }}
+          ANTHROPIC_API_KEY: ${{ (steps.choose.outputs.action == 'write' && vars.FACTORY_WRITER == 'claude') && secrets.ANTHROPIC_API_KEY || '' }}
+        run: |
+          set -euo pipefail
+          case "$ACTION" in
+            status) node scripts/factory.mjs status ;;
+            approve) node scripts/factory.mjs approve $IDS ;;
+            reject) node scripts/factory.mjs reject $IDS "$REASON" ;;
+            write) node scripts/factory.mjs write; node scripts/factory.mjs process ;;
+            *) node scripts/factory.mjs "$ACTION" ;;
+          esac
+
+      - name: Check that cited sources answer (drafts in review)
+        if: steps.choose.outputs.action != 'status'
+        run: node scripts/qa-factory.mjs --online || echo "::warning::Há rascunhos com erros ou fontes que não responderam; ver o registo."
+
+      - name: Verify the site before committing
+        if: steps.choose.outputs.action != 'status'
+        run: |
+          node scripts/build.mjs --check
+          node scripts/plan.mjs --check
+          node scripts/qa-site.mjs
+
+      - name: Commit and push (safe stop on conflicts)
+        if: steps.choose.outputs.action != 'status'
+        env:
+          ACTION: ${{ steps.choose.outputs.action }}
+        run: |
+          set -euo pipefail
+          git config user.name "pt-factory-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then echo "No changes to commit."; exit 0; fi
+          git commit -m "factory: $ACTION ($(date -u +%Y-%m-%d))"
+          for attempt in 1 2 3; do
+            if git push origin HEAD:main; then exit 0; fi
+            echo "main moved; rebasing (attempt $attempt)"
+            git pull --rebase origin main || { echo "::error::Conflito ao integrar main — paragem segura, nada foi publicado."; exit 1; }
+            node scripts/build.mjs --check && node scripts/qa-site.mjs || { echo "::error::Verificação falhou após rebase — paragem segura."; exit 1; }
+          done
+          echo "::error::Não foi possível publicar após 3 tentativas."; exit 1
