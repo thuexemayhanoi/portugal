@@ -1,0 +1,323 @@
+{
+  "contract_version": 1,
+  "id": "PT-0218",
+  "slug": "zona-pedonal-do-lago-hoan-kiem",
+  "title": "Zona pedonal do lago Hoàn Kiếm: horários e desvios de mota",
+  "description": "A que horas o espaço pedonal do lago Hoàn Kiếm fecha ao trânsito, que ruas ficam no perímetro, por onde contornar de mota e onde a deixar antes de entrar a pé.",
+  "h1": "Fim de semana no espaço pedonal de Hoàn Kiếm: a que horas fecha e por onde contornar de mota",
+  "summary": "À data de 13 de outubro de 2026, o espaço pedonal do lago Hoàn Kiếm fecha ao trânsito das 19:00 de sexta-feira às 24:00 de domingo; as ruas pedonais do Bairro Antigo e o mercado noturno fecham das 19:00 às 24:00 nessas três noites, tal como a zona 1 de baixas emissões desde 1 de julho de 2026. Em feriados o horário alarga-se e, em eventos ou eleições, pode ser suspenso: confirme antes de ir.",
+  "key_points": [
+    "Espaço pedonal do lago: fechado a todos os veículos das 19:00 de sexta-feira às 24:00 de domingo, incluindo o dia inteiro de sábado e de domingo.",
+    "Ruas pedonais do Bairro Antigo e mercado noturno (Hàng Đào a Đồng Xuân): das 19:00 às 24:00 de sexta, sábado e domingo.",
+    "Zona 1 de baixas emissões, desde 1 de julho de 2026: sem motas nem automóveis de sexta a domingo, das 19:00 às 24:00, elétricas incluídas.",
+    "Para contornar, fique nas avenidas exteriores: Trần Quang Khải e Trần Nhật Duật a leste, Hai Bà Trưng e Lý Thường Kiệt a sul, Phùng Hưng a oeste.",
+    "Em feriados o espaço abre de manhã à noite durante vários dias; em eleições e eventos pode ser suspenso. As barreiras no local mandam."
+  ],
+  "intro": [
+    "O lago Hoàn Kiếm é o centro geográfico e simbólico de Hanói, e ao fim de semana é também o maior espaço pedonal da cidade. Desde setembro de 2016, as ruas à volta do lago fecham ao trânsito de sexta à noite até domingo à meia-noite, e as ruas do mercado noturno do Bairro Antigo juntam-se nas três noites. Para quem anda de mota, isso significa um perímetro inteiro a contornar e um parque a escolher antes de entrar a pé.",
+    "Em 2026 juntou-se uma terceira camada: o piloto da zona de baixas emissões, que desde 1 de julho fecha a zona 1 a motas e automóveis nas noites de sexta a domingo. Os três horários sobrepõem-se quase por completo, mas não são iguais, e é fácil confundi-los. Este guia explica cada um, mostra que ruas ficam dentro do perímetro, sugere por onde contornar e diz onde deixar a mota. A condução nas ruas apertadas do bairro, com os sentidos únicos e os peões, tem um guia próprio, [conduzir no Bairro Antigo](/zonas-de-hanoi/conduzir-no-bairro-antigo/); os outros bairros estão em [Zonas de Hanói](/zonas-de-hanoi/).",
+    "Os horários desta página foram verificados a 13 de outubro de 2026 em avisos oficiais e na imprensa de referência. Mudam com feriados, eventos e decisões da cidade, por isso confirme a sinalização no local antes de arrancar."
+  ],
+  "sections": [
+    {
+      "h2": "Três horários que se sobrepõem",
+      "body": [
+        "O que fecha ao fim de semana à volta do lago não é uma regra, são três, decididas em alturas diferentes e com perímetros diferentes. A tabela resume-as tal como estavam em vigor a 13 de outubro de 2026.",
+        {
+          "table": {
+            "caption": "O que fecha à volta do lago Hoàn Kiếm ao fim de semana (verificado a 13 de outubro de 2026)",
+            "head": [
+              "Regra",
+              "Onde",
+              "Quando",
+              "A quem se aplica"
+            ],
+            "rows": [
+              [
+                "Espaço pedonal do lago e zona envolvente",
+                "Ruas à volta do lago: Đinh Tiên Hoàng, Lê Thái Tổ (lado do lago), Hàng Khay, Tràng Tiền, Lê Lai, Lê Thạch, Đinh Lễ, Nguyễn Xí e ruas vizinhas",
+                "Das 19:00 de sexta-feira às 24:00 de domingo, sem interrupção",
+                "Todos os veículos, exceto os de emergência e de serviço"
+              ],
+              [
+                "Ruas pedonais do Bairro Antigo e mercado noturno",
+                "Hàng Đào, Hàng Ngang, Hàng Đường e Đồng Xuân; Hàng Buồm, Mã Mây, Tạ Hiện, Hàng Bạc e a zona sul do bairro",
+                "Das 19:00 às 24:00 de sexta, sábado e domingo",
+                "Todos os veículos"
+              ],
+              [
+                "Zona 1 de baixas emissões (piloto desde 1 de julho de 2026)",
+                "Espaço pedonal do lago e ruas do mercado noturno",
+                "Das 19:00 às 24:00 de sexta, sábado e domingo",
+                "Motas, ciclomotores e automóveis, a gasolina ou elétricos"
+              ],
+              [
+                "Feriados e eventos",
+                "O mesmo perímetro, por vezes alargado",
+                "Horários alargados ou suspensos, por aviso da junta de Hoàn Kiếm",
+                "Todos os veículos"
+              ]
+            ]
+          }
+        },
+        "Na prática, para quem conduz, a regra mais exigente é a do espaço pedonal do lago: de sexta às 19:00 até domingo às 24:00 as ruas junto à água estão fechadas, mesmo a meio da tarde de sábado. A zona 1 e as ruas do mercado noturno só fecham ao fim do dia, mas abrangem mais ruas do Bairro Antigo. Nas noites de sexta a domingo, as três regras coincidem, e o resultado é simples: entre as 19:00 e as 24:00, a mota não entra em nenhuma rua do centro histórico junto ao lago.",
+        "Os horários sazonais antigos, com abertura às 18:00 no inverno, deixaram de aparecer nos avisos mais recentes da junta de Hoàn Kiếm, que usam a hora das 19:00 em todas as estações. Se vir referências às 18:00, veja a data da publicação."
+      ]
+    },
+    {
+      "h2": "O perímetro: que ruas ficam fechadas",
+      "body": [
+        "O espaço pedonal nasceu em 2016 com as ruas que rodeiam o lago e os quarteirões a leste, entre o lago e a rua Lý Thái Tổ. A lista oficial da altura inclui Đinh Tiên Hoàng, Hàng Khay, metade de Lê Thái Tổ do lado do lago (entre Hàng Trống e Hàng Khay), Lê Lai e Trần Nguyên Hãn entre Đinh Tiên Hoàng e Lý Thái Tổ, Lê Thạch, Đinh Lễ e Nguyễn Xí. Inclui ainda Tràng Tiền entre Ngô Quyền e Hàng Bài, Lò Sũ até Nguyễn Hữu Huân, Hàng Dầu até Cầu Gỗ, a rua Hồ Hoàn Kiếm, Lương Văn Can a partir de Hàng Hành, Hàng Bài a partir de Hai Bà Trưng e Bảo Khánh.",
+        "Em 2021, o perímetro cresceu para norte, para ligar o lago ao Bairro Antigo. Hàng Dầu, Cầu Gỗ, Hàng Bè, Hàng Bạc, Đinh Liệt, Gia Ngư, um troço de Đào Duy Từ e Ô Quan Chưởng passaram a fechar nas três noites do fim de semana, tal como três ruelas: Cầu Gỗ, Trung Yên e Phất Lộc. Já antes, o eixo do mercado noturno, de Hàng Đào a Đồng Xuân, fechava nessas noites.",
+        "Desde 1 de julho de 2026, a lista oficial da zona 1 do piloto de baixas emissões repete em grande parte este perímetro: inclui, entre outras, Hàng Đào, Hàng Ngang, Hàng Buồm, Mã Mây, Hàng Bạc, Lê Thái Tổ e Tràng Tiền. Reconhecer estes nomes no mapa é a forma mais prática de saber onde não pode entrar nas noites de sexta a domingo.",
+        {
+          "h3": "Lê Thái Tổ: meia rua pedonal"
+        },
+        "A rua Lê Thái Tổ, na margem oeste do lago, é um caso à parte. Fora das noites de fecho da zona 1, só a faixa do lado do lago faz parte do espaço pedonal; a outra faixa fica aberta ao trânsito, separada por grades. Nas noites de sexta a domingo, porém, Lê Thái Tổ consta da lista da zona 1 e não deve contar com ela para atravessar."
+      ]
+    },
+    {
+      "h2": "Barreiras, agentes e o que arrisca quem entra",
+      "body": [
+        "O fecho é físico. O regulamento municipal de 2022 encarrega as juntas da zona de montar barreiras em todas as entradas do espaço pedonal, com polícia e equipas de autogestão nos pontos de controlo, e proíbe entrar ou deixar qualquer veículo nos passeios, na faixa de rodagem e nos espaços públicos do perímetro. Só passam veículos de emergência, de serviço e as cadeiras de rodas.",
+        "Não pare nem estacione em frente a um ponto de controlo: o regulamento proíbe-o expressamente, e as barreiras são também o sítio onde a mota mais atrapalha quem entra a pé. Se chegar a uma grade sem ter dado por ela, encoste antes, veja o mapa e dê a volta pelo quarteirão sem inverter a marcha em contramão.",
+        {
+          "note": "Segundo o Decreto 168/2024/NĐ-CP, em vigor desde 1 de janeiro de 2025, entrar com uma mota numa zona proibida ou numa rua com sinal de entrada proibida ao seu tipo de veículo dá coima de 2 a 3 milhões de VND. Conduzir em cima do passeio para contornar uma grade custa de 4 a 6 milhões de VND. Com uma mota alugada, a coima é sua e o tempo perdido também.",
+          "tone": "warn",
+          "title": "O que custa passar uma barreira"
+        },
+        "Os mapas do telemóvel nem sempre sabem que a rua fechou às 19:00. Se o destino marcado fica dentro do perímetro, a aplicação pode guiá-lo até uma grade. Marque como destino o parque onde vai deixar a mota, não o restaurante."
+      ]
+    },
+    {
+      "h2": "Por onde contornar de mota",
+      "body": [
+        "A boa notícia é que o perímetro pedonal é compacto e as avenidas que o rodeiam ficam abertas. À data de 13 de outubro de 2026, estas ruas estavam fora de todas as listas publicadas; podem fechar pontualmente para eventos, por isso siga sempre a sinalização.",
+        {
+          "table": {
+            "caption": "Ruas exteriores para contornar o espaço pedonal (fora das listas publicadas a 13 de outubro de 2026)",
+            "head": [
+              "Lado",
+              "Ruas",
+              "Para que serve"
+            ],
+            "rows": [
+              [
+                "Leste",
+                "Trần Quang Khải e Trần Nhật Duật, a avenida do dique junto ao rio Vermelho",
+                "Ligar o norte ao sul sem tocar no Bairro Antigo; é por aqui que se chega das pontes de Long Biên"
+              ],
+              [
+                "Sul",
+                "Hai Bà Trưng, Lý Thường Kiệt e Trần Hưng Đạo",
+                "Atravessar de leste para oeste a sul do lago; Hàng Bài só fecha a norte de Hai Bà Trưng"
+              ],
+              [
+                "Oeste",
+                "Phùng Hưng, ao longo do viaduto do comboio",
+                "Contornar o Bairro Antigo pelo lado da estação"
+              ],
+              [
+                "Leste do lago",
+                "Lý Thái Tổ e Ngô Quyền",
+                "Limite do perímetro de 2016; Lê Lai, Trần Nguyên Hãn e Tràng Tiền fecham a partir destas ruas"
+              ]
+            ]
+          }
+        },
+        {
+          "h3": "Um exemplo a partir de Long Biên"
+        },
+        "A loja fica em {{area}}, na margem leste do rio. Quem atravessa a ponte Chương Dương numa sexta à noite desce para Trần Quang Khải, a avenida do dique. Para um destino a sul do lago, siga Trần Quang Khải até Hai Bà Trưng ou Lý Thường Kiệt e entre por aí. Para um destino a oeste, continue pelo sul até Phùng Hưng, sem tentar cortar pelo meio do Bairro Antigo. Em ambos os casos, estacione antes de chegar às grades e faça o resto a pé.",
+        "Fora das noites de fecho, de segunda a quinta e durante o dia, o bairro está aberto e a mota pode entrar; mesmo assim, as ruas do lago podem estar fechadas de sábado de manhã até domingo à noite. O guia da [zona de baixas emissões](/tipos-de-motas/zona-de-baixas-emissoes-hanoi/) explica como organizar a semana à volta destas noites e o que está previsto para 2027."
+      ]
+    },
+    {
+      "h2": "Onde deixar a mota antes de entrar a pé",
+      "body": [
+        "Para acompanhar o piloto, a cidade organizou 220 parques e pontos de estacionamento dentro e à volta da área, com a lista publicada rua a rua a 1 de julho de 2026. A regra prática é escolher um parque na orla do perímetro, do lado por onde chega, e não no interior: um parque no interior pode parecer cómodo às 17:00, mas às 19:00 a mota fica do lado de dentro das grades até à meia-noite.",
+        {
+          "checklist": [
+            "Chegue antes das 19:00 nas noites de sexta a domingo e deixe a mota num parque com funcionário e talão, fora do perímetro.",
+            "Pergunte o preço e até que horas o parque funciona; a tabela da cidade fixa 5 mil VND de dia e 8 mil VND à noite por mota, mas junto ao lago cobram muitas vezes mais.",
+            "Guarde o talão (vé xe) e fotografe a mota e o nome da rua.",
+            "Se o alojamento fica dentro do perímetro, pergunte na receção onde guardar a mota e organize as saídas de sexta a domingo para antes das 19:00."
+          ]
+        },
+        "O regulamento do espaço pedonal obriga os parques das ruas vizinhas a terem licença e a não cobrarem acima da tabela da cidade; a polícia da zona faz operações contra quem cobra a mais nos feriados. Se o preço pedido for muito acima do afixado, aponte para a placa com calma e, se não resultar, anote o operador e a rua.",
+        "Dentro do Anel Viário 1, entre 1 de julho de 2026 e 30 de junho de 2027, as viagens nos autocarros públicos subsidiados são gratuitas. Para quem deixa a mota longe, é uma forma de chegar ao perímetro sem táxi; confirme a linha na paragem ou na receção do alojamento."
+      ]
+    },
+    {
+      "h2": "O mercado noturno e as noites de sexta a domingo",
+      "body": [
+        "O mercado noturno do Bairro Antigo ocupa o eixo Hàng Đào, Hàng Ngang, Hàng Đường e Đồng Xuân nas noites de sexta, sábado e domingo, com barracas montadas no meio da rua. É precisamente a zona que fecha às motas a partir das 19:00. Não há forma de o visitar de mota: a visita faz-se a pé, a partir de um parque da orla ou do alojamento.",
+        "Nessas noites, as ruas de bares e esplanadas, como Tạ Hiện e Lương Ngọc Quyến, enchem-se. Se o plano inclui uma cerveja, a mota fica no alojamento desde o início: a lei vietnamita não admite qualquer concentração de álcool a quem conduz, e o regresso faz-se de táxi ou de mota com condutor. O guia sobre [quando é melhor não conduzir](/rotas-e-mobilidade/quando-nao-conduzir/) resume as alternativas.",
+        "O movimento do mercado tem outra consequência prática: os parques das ruas vizinhas enchem cedo. Quem chega às 20:00 de sábado encontra menos lugares e preços mais altos do que quem chega às 17:30. Jantar cedo e deixar a mota antes do fecho é a solução mais barata."
+      ]
+    },
+    {
+      "h2": "Feriados, eventos e suspensões: o calendário muda",
+      "body": [
+        "O horário habitual é apenas o ponto de partida. A junta de Hoàn Kiếm publica avisos para cada feriado e evento, e esses avisos valem mais do que qualquer horário fixo. Dois exemplos de 2026 mostram os dois sentidos em que a regra pode mudar:",
+        {
+          "ul": [
+            "**Alargamento nos feriados**: pelo aviso 317/TB-UBND, de 21 de abril de 2026, o espaço pedonal do lago abriu das 07:00 de 30 de abril às 24:00 de 3 de maio, quatro dias seguidos. As ruas pedonais do Bairro Antigo mantiveram o horário habitual de sexta a domingo.",
+            "**Suspensão por eleições**: pelo aviso 190/TB-UBND, de 11 de março de 2026, o espaço pedonal do lago e as ruas pedonais do Bairro Antigo estiveram suspensos de 13 de março até às 19:00 de 20 de março, por causa das eleições. Reabriram nessa sexta-feira às 19:00."
+          ]
+        },
+        "Eventos de grande dimensão, como concertos, festivais e cerimónias nacionais, costumam seguir o primeiro modelo: o espaço abre mais dias e mais cedo, e as ruas exteriores podem fechar durante horas. Antes de um feriado vietnamita, como o Tết, o 30 de abril, o 2 de setembro ou o 10 de outubro, procure o aviso mais recente da junta de Hoàn Kiếm ou a notícia correspondente na imprensa.",
+        "A regra de ouro não muda: grades, cones e agentes no local prevalecem sobre qualquer horário publicado, incluindo o desta página."
+      ]
+    },
+    {
+      "h2": "Antes de sair: lista para as noites de fim de semana",
+      "body": [
+        {
+          "checklist": [
+            "Dia e hora conferidos: sexta, sábado ou domingo depois das 19:00 significa perímetro fechado às motas.",
+            "Parque escolhido na orla, do lado por onde chega, e marcado como destino na aplicação.",
+            "Percurso pelas avenidas exteriores visto antes de arrancar; telemóvel guardado durante a condução.",
+            "Carta de condução, licença internacional e documentos da mota consigo; o que levar está em [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/).",
+            "Capacete apertado para si e para o passageiro, luzes acesas ao fim da tarde.",
+            "Aviso da junta de Hoàn Kiếm consultado se for feriado ou houver um evento anunciado."
+          ]
+        },
+        "Para dúvidas sobre a mota ou sobre a hora de devolução, fale com a loja através dos [contactos](/contactos/). As regras gerais do aluguer estão no [guia de aluguer](/guia-de-aluguer/)."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "O espaço pedonal do lago fecha também durante o dia de sábado?",
+      "a": "Sim. Ao contrário das ruas do mercado noturno, que só fecham ao fim do dia, o espaço pedonal do lago funciona sem interrupção das 19:00 de sexta-feira às 24:00 de domingo. Sábado e domingo de manhã e de tarde, as ruas junto à água estão fechadas ao trânsito, salvo aviso em contrário da junta de Hoàn Kiếm."
+    },
+    {
+      "q": "Posso atravessar a zona 1 de mota numa quarta-feira à noite?",
+      "a": "À data de 13 de outubro de 2026, sim: as restrições da zona 1 e do espaço pedonal aplicam-se às noites de sexta, sábado e domingo. De segunda a quinta, as ruas do centro histórico estão abertas à mota, com a condução lenta e atenta que o Bairro Antigo exige. Respeite, ainda assim, qualquer barreira montada para obras ou eventos."
+    },
+    {
+      "q": "Com uma mota elétrica posso entrar no perímetro nas noites de fim de semana?",
+      "a": "Não. O espaço pedonal fecha a todos os veículos, e a restrição da zona 1 de baixas emissões abrange motas, ciclomotores e automóveis em geral, não apenas os modelos a gasolina. Só os veículos prioritários e alguns veículos de serviço podem entrar."
+    },
+    {
+      "q": "Como sei se houve uma alteração ao horário na semana em que viajo?",
+      "a": "Procure o aviso mais recente da junta de Hoàn Kiếm (UBND phường Hoàn Kiếm) ou uma notícia da imprensa vietnamita com a expressão «phố đi bộ hồ Hoàn Kiếm» e a data. Em feriados, o espaço costuma abrir mais dias; em eleições e eventos de Estado, pode ser suspenso. Na dúvida, a receção do alojamento sabe o que se passa nessa semana."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Ha Noi begins restricting fossil-fuel vehicles in low-emission zones",
+      "publisher": "Portal do Governo do Vietname (chinhphu.vn) — Hanoi Capital",
+      "url": "https://hanoicapital.chinhphu.vn/ha-noi-begins-restricting-fossil-fuel-vehicles-in-low-emission-zones-110260702082825273.htm",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    },
+    "vietnamnet-zbe-revisao",
+    {
+      "title": "Điều chỉnh thời gian hoạt động các không gian đi bộ tại Phường Hoàn Kiếm (thông báo 317/TB-UBND, 21/4/2026)",
+      "publisher": "Tạp chí Người Hà Nội",
+      "url": "https://nguoihanoi.vn/dieu-chinh-thoi-gian-hoat-dong-cac-khong-gian-di-bo-tai-phuong-hoan-kiem-100460.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Lịch tạm dừng phố đi bộ hồ Hoàn Kiếm từ ngày 13.3 đến 20.3",
+      "publisher": "Báo Văn Hóa",
+      "url": "https://baovanhoa.vn/doi-song/lich-tam-dung-pho-di-bo-ho-hoan-kiem-tu-ngay-133-den-203-249310.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Điều chỉnh thời gian hoạt động không gian đi bộ quận Hoàn Kiếm",
+      "publisher": "Cổng Thông tin điện tử Chính phủ — Xây dựng chính sách, pháp luật (chinhphu.vn)",
+      "url": "https://xaydungchinhsach.chinhphu.vn/dieu-chinh-thoi-gian-hoat-dong-khong-gian-di-bo-quan-hoan-kiem-119250307112334287.htm",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "vi"
+    },
+    {
+      "title": "Phố đi bộ hoạt động trở lại",
+      "publisher": "VnExpress",
+      "url": "https://vnexpress.net/pho-di-bo-hoat-dong-tro-lai-4440696.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Hàng loạt đường quanh Hồ Gươm sẽ thành phố đi bộ từ 1-9",
+      "publisher": "Báo Pháp Luật TP.HCM (PLO), arquivo em Tuổi Trẻ Online",
+      "url": "https://tuoitre.vn/plo/hang-loat-duong-quanh-ho-guom-se-thanh-pho-di-bo-tu-1-9-109402956.htm",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Từ 1/1/2021, mở rộng không gian phố đi bộ Hà Nội",
+      "publisher": "Thương hiệu và Công luận",
+      "url": "https://thuonghieucongluan.com.vn/tu-1-1-2021-mo-rong-khong-gian-pho-di-bo-ha-noi-a122709.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Quyết định 21/2022/QĐ-UBND Hà Nội: Quy chế quản lý hoạt động trong không gian đi bộ khu vực hồ Hoàn Kiếm và phụ cận",
+      "publisher": "HoaTieu.vn (texto integral da decisão municipal)",
+      "url": "https://hoatieu.vn/phap-luat/quyet-dinh-21-2022-qd-ubnd-ha-noi-214727",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "Nghị định 168 đối với xe máy: 10 mức phạt mọi tài xế cần biết",
+      "publisher": "LuatVietnam",
+      "url": "https://luatvietnam.vn/giao-thong/nghi-dinh-168-doi-voi-xe-may-863-100609-article.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "Chi tiết danh sách các điểm gửi xe khi đi vào vùng phát thải thấp ở Hà Nội",
+      "publisher": "VOV — Đài Tiếng nói Việt Nam",
+      "url": "https://vov.vn/xa-hoi/chi-tiet-danh-sach-cac-diem-gui-xe-khi-di-vao-vung-phat-thai-thap-o-ha-noi-post1311206.vov",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Quyết định 44/2017/QĐ-UBND ban hành giá dịch vụ trông giữ xe đạp, xe máy, xe ô tô trên địa bàn thành phố Hà Nội",
+      "publisher": "Hệ thống pháp luật Việt Nam (hethongphapluat.com)",
+      "url": "https://hethongphapluat.com/decision-no-44-2017-qd-ubnd-dated-april-15-2017.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "Quận Hoàn Kiếm: Kiên quyết xử lý những bãi trông giữ xe vi phạm quy định",
+      "publisher": "Báo Đại biểu Nhân dân",
+      "url": "https://daibieunhandan.vn/quan-hoan-kiem-kien-quyet-xu-ly-nhung-bai-trong-giu-xe-vi-pham-quy-dinh-10330761.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Ha Noi free bus travel within Ring Road 1 for one year",
+      "publisher": "Cổng Thông tin điện tử Chính phủ (chinhphu.vn)",
+      "url": "https://thanglong.chinhphu.vn/ha-noi-free-bus-travel-within-ring-road-1-for-one-year-110260702104500646.htm",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    },
+    "lawnet-proibicoes-2024",
+    "tuoitre-alcool-zero"
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "READY_FOR_QA"
+}
