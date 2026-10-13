@@ -5,6 +5,8 @@ on:
       - feat/pt-seo-blog-foundation
     paths:
       - site/data.json
+      - content/articles/PT-0047.json
+      - .github/workflows/pt-price-rebuild-temp.yml
   workflow_dispatch:
 
 permissions:
