@@ -6,6 +6,7 @@ export function buildTokens(data) {
   const b = data.business;
   const models = data.pricing.models;
   const days = models.map((m) => m.day).filter((v) => typeof v === 'number');
+  const weeks = models.map((m) => m.week).filter((v) => typeof v === 'number');
   const tokens = {
     name: b.canonicalName,
     display: b.displayName,
@@ -29,20 +30,65 @@ export function buildTokens(data) {
     year: String(data.site.copyrightYear),
     'pricing.verifiedAt': formatDatePT(data.pricing.verifiedAt),
     'price.min.day': formatVND(Math.min(...days)),
-    'price.max.day': formatVND(Math.max(...days))
+    'price.max.day': formatVND(Math.max(...days)),
+    'price.min.week': formatVND(Math.min(...weeks)),
+    'price.max.week': formatVND(Math.max(...weeks))
   };
   for (const m of models) {
     for (const period of ['day', 'week', 'month']) {
       tokens[`price.${m.id}.${period}`] = formatVND(m[period], data.ui.onRequest);
     }
+    // Day from which the weekly rate costs the same or less than paying day by day, in words
+    // ("cinco"). Text built on it stays true when prices change; if the week stops paying off
+    // within seven days, any text that uses the token fails the build and must be revised.
+    const from = weekBreakEven(m);
+    if (from !== null) {
+      tokens[`price.${m.id}.weekFrom`] =
+        from <= 7 ? NUMBERS_PT[from] : { error: `{{price.${m.id}.weekFrom}}: the weekly rate of ${m.name} no longer pays off within 7 days; revise the text that uses it` };
+    }
+  }
+  // {{cmp.<a>.<b>.<period>}} -> "menos do que" | "o mesmo que" | "mais do que": price comparisons
+  // computed from the table, e.g. "custa {{price.click.day}}, {{cmp.click.vision.day}} a Vision".
+  for (const a of models) {
+    for (const b of models) {
+      if (a === b) continue;
+      for (const period of ['day', 'week', 'month']) {
+        const order = comparePrices(a[period], b[period]);
+        tokens[`cmp.${a.id}.${b.id}.${period}`] =
+          order === null
+            ? { error: `{{cmp.${a.id}.${b.id}.${period}}}: ${a.name} and ${b.name} cannot be compared (${period} price on request or overlapping ranges); revise the text that uses it` }
+            : ['menos do que', 'o mesmo que', 'mais do que'][order + 1];
+      }
+    }
   }
   return tokens;
+}
+
+// -1 / 0 / 1 when two prices (numbers or [min, max] ranges) can be ordered, null otherwise.
+function comparePrices(x, y) {
+  if (x === null || x === undefined || y === null || y === undefined) return null;
+  const [x0, x1] = Array.isArray(x) ? x : [x, x];
+  const [y0, y1] = Array.isArray(y) ? y : [y, y];
+  if (x0 === y0 && x1 === y1) return 0;
+  if (x1 < y0) return -1;
+  if (x0 > y1) return 1;
+  return null;
+}
+
+const NUMBERS_PT = ['zero', 'um', 'dois', 'três', 'quatro', 'cinco', 'seis', 'sete'];
+
+// Smallest number of days whose day-by-day total reaches the weekly rate (null without both prices).
+export function weekBreakEven(m) {
+  if (typeof m.day !== 'number' || typeof m.week !== 'number' || m.day <= 0) return null;
+  return Math.max(1, Math.ceil(m.week / m.day));
 }
 
 export function resolveTokens(text, ctx, where = '') {
   return String(text).replace(/\{\{\s*([a-zA-Z0-9_.-]+)\s*\}\}/g, (_, key) => {
     if (!(key in ctx.tokens)) fail(`Unknown token {{${key}}}${where ? ` in ${where}` : ''}`);
-    return ctx.tokens[key];
+    const value = ctx.tokens[key];
+    if (value && typeof value === 'object') fail(`${value.error}${where ? ` (${where})` : ''}`);
+    return value;
   });
 }
 

@@ -1,0 +1,325 @@
+{
+  "contract_version": 1,
+  "id": "PT-0002",
+  "slug": "honda-air-blade-125-ou-160",
+  "title": "Honda Air Blade 125 ou 160 em Hanói: o que muda no aluguer",
+  "description": "Air Blade 125 ou 160 para alugar em Hanói: cilindrada, ABS, carta A1 ou A, preço de referência e como confirmar com a loja a versão disponível.",
+  "h1": "Air Blade de 125 ou de 160 cm³: qual alugar e que carta exige",
+  "summary": "A Honda Air Blade existe em versões de 125 e de 160 cm³: a 160 tem mais potência e ABS na roda da frente, mas ultrapassa o limite de 125 cm³ da categoria A1 vietnamita e exige carta de categoria A; a 125 cabe na A1. A tabela de referência da loja indica um só preço para a Air Blade, {{price.airblade.day}} por dia, por isso confirme a cilindrada da unidade antes de reservar.",
+  "key_points": [
+    "**Air Blade 125**: pouco menos de 125 cm³, dentro da categoria A1 vietnamita. **Air Blade 160**: 156,9 cm³, exige a categoria A.",
+    "A 160 traz ABS na roda da frente; a 125 usa travagem combinada (CBS), salvo a versão desportiva do modelo de 2026, que também tem ABS.",
+    "O tipo de travão não identifica a versão: a cilindrada confirma-se com a loja, por escrito, antes de reservar.",
+    "Preço de referência único para a Air Blade: {{price.airblade.day}} por dia, {{price.airblade.week}} por semana e {{price.airblade.month}} por mês."
+  ],
+  "intro": [
+    "Para quem procura uma scooter mais potente para circular em Hanói, a Honda Air Blade é uma candidata natural: tem mais folga do que uma scooter urbana pequena para levar passageiro, subir as rampas das pontes ou acompanhar o ritmo das avenidas largas. O nome, porém, esconde duas motas diferentes. Desde 2022, a Honda vende no Vietname a Air Blade com dois motores, de 125 e de 160 cm³, e a diferença vai além da potência.",
+    "Para quem aluga, a versão decide três coisas: a categoria de carta exigida pela lei vietnamita, o tipo de travagem e o comportamento da mota com carga. Este guia explica cada uma, mostra o preço de referência da loja e indica o que pedir por escrito para levantar exatamente a Air Blade para a qual está habilitado."
+  ],
+  "sections": [
+    {
+      "h2": "Air Blade 125 e 160 lado a lado",
+      "body": [
+        "As duas versões partilham a carroçaria, o compartimento debaixo do assento e boa parte do equipamento. O que as separa está no motor e nos travões — e, por arrastamento, na carta de que precisa.",
+        {
+          "table": {
+            "caption": "Honda Air Blade 125 e 160: principais diferenças",
+            "head": [
+              "Aspeto",
+              "Air Blade 125",
+              "Air Blade 160"
+            ],
+            "rows": [
+              [
+                "Cilindrada",
+                "Pouco menos de 125 cm³",
+                "156,9 cm³"
+              ],
+              [
+                "Categoria de carta no Vietname",
+                "A1 (ou A)",
+                "A"
+              ],
+              [
+                "Travagem",
+                "Combinada (CBS); a versão desportiva de 2026 tem ABS à frente",
+                "ABS na roda da frente"
+              ],
+              [
+                "Potência",
+                "Menor",
+                "Maior: 11,2 kW às 8.000 rpm, segundo a Honda"
+              ],
+              [
+                "Arrumação debaixo do assento",
+                "23,2 litros",
+                "23,2 litros"
+              ],
+              [
+                "Preço de referência na loja",
+                "{{price.airblade.day}} por dia",
+                "{{price.airblade.day}} por dia"
+              ]
+            ]
+          }
+        },
+        "Os dados técnicos são os que a Honda publica no Vietname (consulta em outubro de 2026) para a geração lançada em 2022 e para o modelo de 2026, apresentado em novembro de 2025. Uma mota de aluguer pode ser de outro ano. Antes da 160, a versão maior da Air Blade tinha 150 cm³, também com ABS na roda da frente. Para efeitos de carta, uma 150 conta como uma 160: ambas passam os 125 cm³."
+      ]
+    },
+    {
+      "h2": "Que carta exige cada versão",
+      "body": [
+        "A lei vietnamita de 2024 sobre ordem e segurança do trânsito rodoviário (Lei n.º 36/2024/QH15), em vigor desde 1 de janeiro de 2025, separa as motas de duas rodas em duas categorias de carta. A **A1** vai até 125 cm³ (ou até 11 kW, nas elétricas); a **A** cobre o que fica acima desse limite e inclui também os veículos da A1.",
+        "Aplicada à Air Blade, a regra dá um resultado claro:",
+        {
+          "ul": [
+            "**Air Blade 125**: cabe na categoria A1 e, naturalmente, na A.",
+            "**Air Blade 160**, ou uma 150 mais antiga: exige a categoria A. Com uma habilitação limitada à A1, não a pode conduzir legalmente."
+          ]
+        },
+        {
+          "h3": "Se está de visita"
+        },
+        "O raciocínio é o mesmo para quem viaja: veja que categorias de motociclos constam da sua carta e da licença internacional que leva consigo. Se só cobrem motas até 125 cm³, a escolha certa é a Air Blade 125. O que levar para conduzir, e o que a loja pede para alugar, está explicado no guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/).",
+        {
+          "h3": "Se a sua carta é portuguesa"
+        },
+        "Em Portugal, a licença internacional é emitida pelo IMT e só é válida acompanhada da carta nacional. Ao pedi-la, verifique que categorias de motociclos ficam indicadas no documento. Se em Portugal conduz motas de 125 cm³ apenas com a carta de ligeiros (categoria B), confirme antes de viajar se essa habilitação lhe permite conduzir motociclos no Vietname. Em qualquer caso, sem a categoria A, a Air Blade 160 fica de fora.",
+        {
+          "note": "A loja entrega a mota, mas a habilitação é exigida a quem conduz. Circular sem a categoria adequada pode dar origem a multa e complicar a resposta do seguro de viagem em caso de acidente. Confirme também, na sua apólice, se a condução de motociclos está coberta e em que condições.",
+          "tone": "warn",
+          "title": "Alugar não é o mesmo que estar habilitado"
+        }
+      ]
+    },
+    {
+      "h2": "ABS ou CBS: o que muda na travagem",
+      "body": [
+        "É a diferença de equipamento que mais se sente numa travagem forte. Na geração lançada em 2022, a Honda equipou a 160 com ABS na roda da frente e manteve na 125 o sistema de travagem combinada (CBS). No modelo de 2026, o ABS chegou também à versão desportiva da 125 («Thể thao», na designação vietnamita).",
+        {
+          "h3": "Como funciona cada sistema"
+        },
+        "O **CBS** reparte a força de travagem pelas duas rodas quando se aciona a manete ligada ao sistema, o que torna mais equilibradas as travagens do dia a dia. O **ABS** atua na roda da frente: numa travagem brusca, impede que essa roda bloqueie, o que dá mais estabilidade em piso molhado ou irregular.",
+        "O manual da Honda deixa um aviso que convém reter: o ABS não encurta a distância de travagem e, em certas situações, pode até aumentá-la. Também não protege a roda de trás. Na prática, a 160 tolera melhor um aperto repentino da manete da frente, mas a distância de segurança e a velocidade moderada com chuva continuam a ser a sua principal proteção.",
+        "Antes de sair, peça que lhe mostrem qual das manetes aciona o CBS, na 125, e, na versão com ABS, se há alguma luz de aviso no painel e o que significa quando fica acesa."
+      ]
+    },
+    {
+      "h2": "Potência e condução no trânsito de Hanói",
+      "body": [
+        "Os dois motores são da mesma família — eSP+, com quatro válvulas e arrefecimento por líquido —, mas o de 160 cm³ é claramente mais forte: segundo a Honda, rende 11,2 kW às 8.000 rotações por minuto. Em peso e em consumo, as fichas técnicas mostram valores muito próximos entre as duas versões, por isso a escolha raramente se decide por aí.",
+        {
+          "h3": "Onde a 160 faz diferença"
+        },
+        {
+          "ul": [
+            "**Com passageiro**: arranca com mais folga e recupera velocidade mais depressa depois de cada paragem.",
+            "**Nas pontes sobre o rio Vermelho**: sobe as rampas compridas com mais facilidade, mesmo a dois.",
+            "**Em avenidas largas e à saída da cidade**: acompanha a velocidade do trânsito com menos esforço do motor."
+          ]
+        },
+        {
+          "h3": "Onde a 125 chega bem"
+        },
+        "Para deslocações dentro da cidade, entre bairros e com paragens frequentes, a 125 dá conta do recado. No trânsito lento de Hanói, a potência extra quase não se usa: contam mais a atenção, a distância ao veículo da frente e a suavidade no acelerador.",
+        "Algumas unidades têm paragem automática do motor (idling stop): o motor desliga-se sozinho quando a mota fica parada, por exemplo num semáforo. Se a sua tiver esta função, peça que lhe expliquem como volta a arrancar e como se desativa, para não ser apanhado de surpresa quando o semáforo abrir."
+      ]
+    },
+    {
+      "h2": "Preço de referência: um valor para as duas versões",
+      "body": [
+        "A tabela de referência da loja lista a Honda Air Blade como um único modelo, sem separar as cilindradas:",
+        {
+          "table": {
+            "caption": "Honda Air Blade: preços de referência da loja",
+            "head": [
+              "Período",
+              "Preço de referência"
+            ],
+            "rows": [
+              [
+                "Dia",
+                "{{price.airblade.day}}"
+              ],
+              [
+                "Semana",
+                "{{price.airblade.week}}"
+              ],
+              [
+                "Mês",
+                "{{price.airblade.month}}"
+              ]
+            ]
+          }
+        },
+        "Os valores foram verificados a {{pricing.verifiedAt}} e dizem respeito ao aluguer do veículo. A caução, uma eventual entrega, o combustível e os extras ficam de fora e são combinados caso a caso. Como a tabela não distingue a 125 da 160, pergunte se o valor se mantém para a versão que lhe propõem e peça o total para as suas datas.",
+        "Se só precisa da mota para um passeio, veja como organizar um [aluguer de mota por um dia](/precos/aluguer-de-mota-por-um-dia/); para comparar com os outros modelos e com as tarifas longas, consulte a [página de preços](/precos/)."
+      ]
+    },
+    {
+      "h2": "125 ou 160: qual pedir",
+      "body": [
+        "A decisão começa pela carta e só depois passa pelo gosto pessoal. Use esta tabela como ponto de partida:",
+        {
+          "table": {
+            "caption": "Que Air Blade pedir conforme a sua situação",
+            "head": [
+              "A sua situação",
+              "Versão a pedir"
+            ],
+            "rows": [
+              [
+                "A sua habilitação só cobre motas até 125 cm³ (categoria A1)",
+                "Air Blade 125, ou outra scooter dentro desse limite"
+              ],
+              [
+                "Tem a categoria A e vai andar muitas vezes com passageiro",
+                "Air Blade 160"
+              ],
+              [
+                "Tem a categoria A e faz questão de ter ABS na roda da frente",
+                "Air Blade 160, ou a 125 desportiva de 2026, se a loja tiver uma"
+              ],
+              [
+                "Vai circular sozinho e quase só dentro da cidade",
+                "A 125 chega; a 160 é opcional"
+              ],
+              [
+                "É a primeira vez numa scooter deste tamanho",
+                "Comece pela 125 ou por uma scooter mais leve"
+              ]
+            ]
+          }
+        },
+        "Se a Air Blade lhe parecer grande demais, a [Honda Vision](/tipos-de-motas/honda-vision-em-hanoi/) é mais compacta e mais leve e também cabe na categoria A1. A comparação entre as quatro scooters da loja está no guia de [scooters automáticas](/tipos-de-motas/scooters/); para semiautomáticas, 50 cc e elétricas, veja os [tipos de motas](/tipos-de-motas/)."
+      ]
+    },
+    {
+      "h2": "Como confirmar a versão antes de reservar",
+      "body": [
+        "Como o nome é o mesmo, o pedido tem de ser concreto. Na mensagem para a loja, inclua:",
+        {
+          "checklist": [
+            "as datas e as horas de levantamento e de devolução;",
+            "a versão pretendida, escrita com os números «125» ou «160», que evitam mal-entendidos seja qual for a língua da conversa;",
+            "a categoria de motociclos que consta da sua carta, para a loja propor uma unidade compatível;",
+            "o ano da unidade e o tipo de travagem, ABS ou CBS;",
+            "uma alternativa, caso a versão pedida não esteja livre nessas datas;",
+            "o preço total do período, com a versão escrita na resposta."
+          ]
+        },
+        {
+          "note": "O ABS, por si só, não indica a cilindrada: a 125 desportiva de 2026 também o tem, e as Air Blade de 150 cm³, mais antigas, também o tinham. Pergunte sempre a cilindrada, e não apenas o tipo de travão.",
+          "tone": "info",
+          "title": "Ter ABS não prova que é uma 160"
+        },
+        "Pode contactar a loja pelo {{phone}}, por chamada ou Zalo, {{hours}}; a morada e o mapa estão na página de [contactos](/contactos/). Para aproveitar a mesma conversa, a lista de [perguntas a fazer antes de alugar](/guia-de-aluguer/perguntas-antes-de-alugar/) ajuda a tratar também da caução, dos documentos e da devolução."
+      ]
+    },
+    {
+      "h2": "No levantamento: verificar a versão recebida",
+      "body": [
+        "Antes de arrancar, reserve alguns minutos para confirmar que a mota corresponde ao que foi acordado:",
+        {
+          "checklist": [
+            "**Cilindrada**: em muitas unidades, o número da versão aparece na carroçaria, mas um autocolante pode ter sido trocado ou retirado; em caso de dúvida, pergunte.",
+            "**Travões**: as duas manetes firmes e, na versão com ABS, a explicação do aviso no painel.",
+            "**Documentos do veículo**: o certificado de registo e o do seguro obrigatório, que a lei manda trazer ao conduzir; pergunte onde ficam guardados.",
+            "**Chave inteligente**: se a unidade a tiver, como ligar a mota, bloquear o guiador e abrir o assento.",
+            "**Paragem automática do motor**: se existir, como funciona e como se desliga.",
+            "**Fotografias**: de todos os lados, do painel e do nível de combustível."
+          ]
+        },
+        "Se a mota entregue não for a versão combinada — por exemplo, uma 160 quando a sua carta só cobre a A1 —, não saia com ela. Peça a unidade certa ou uma alternativa compatível: é bem mais simples resolver ao balcão do que numa operação de fiscalização."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Posso conduzir a Air Blade 160 com carta de categoria A1?",
+      "a": "Não. Segundo a lei vietnamita em vigor desde 1 de janeiro de 2025, a categoria A1 vai até 125 cm³, e a Air Blade 160 tem 156,9 cm³, pelo que exige a categoria A. Com A1, peça a versão de 125 cm³ ou outra scooter dentro desse limite, como a Honda Vision."
+    },
+    {
+      "q": "A Air Blade 160 custa mais do que a 125 no aluguer?",
+      "a": "A tabela de referência da loja publica um único preço para a Honda Air Blade — {{price.airblade.day}} por dia e {{price.airblade.week}} por semana — sem separar as versões. Confirme o total com a loja para a unidade concreta que reservar."
+    },
+    {
+      "q": "Se a mota tem ABS, é de certeza uma 160?",
+      "a": "Não necessariamente. A versão desportiva da Air Blade 125 do modelo de 2026 também tem ABS na roda da frente, e a antiga Air Blade 150 também o tinha. A cilindrada confirma-se com a loja, por escrito, e não pelo tipo de travão."
+    },
+    {
+      "q": "A Air Blade 125 chega para andar com passageiro em Hanói?",
+      "a": "Na cidade, sim: transporta um passageiro sem dificuldade de maior. A diferença nota-se sobretudo nas rampas das pontes e nas acelerações em avenidas largas, onde a 160 tem mais folga. A regra geral no Vietname é um passageiro por mota, com capacete apertado para os dois."
+    },
+    {
+      "q": "Posso escolher a versão só no momento do levantamento?",
+      "a": "Depende das unidades livres nessas datas. Para evitar surpresas, indique a versão ao reservar e peça que fique escrita na confirmação; no levantamento, verifique se a mota entregue corresponde ao combinado."
+    }
+  ],
+  "sources": [
+    "tabela-precos-proprietario",
+    "lei-36-2024-a1",
+    "lawnet-categorias-2025",
+    "lei-36-2024-artigo-56",
+    "imt-lic",
+    "lawnet-passageiros-2025",
+    "lawnet-capacete-168",
+    "chotot-air-blade-125-160",
+    {
+      "title": "Air Blade 160",
+      "publisher": "Honda Việt Nam",
+      "url": "https://www.honda.com.vn/xe-may/san-pham/air-blade-160125?category=2",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "Apresentação da nova geração da Air Blade, com versões de 160 e 125 cm³ (notícia em vietnamita)",
+      "publisher": "Honda Việt Nam",
+      "url": "https://www.honda.com.vn/xe-may/tin-tuc/honda-viet-nam-gioi-thieu-air-blade-the-he-moi-2023-tien-phong-manh-luc",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "Apresentação dos modelos de 2026 da SH160i/125i, da Air Blade 160/125 e da LEAD ABS (notícia em vietnamita)",
+      "publisher": "Honda Việt Nam",
+      "url": "https://www.honda.com.vn/xe-may/tin-tuc/honda-viet-nam-chinh-thuc-gioi-thieu-sh160i125i-air-blade-160125-va-lead-abs-moi-2026-tai-su-kien-khai-pha-dau-an-doc-ban",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "Air Blade — Hướng dẫn sử dụng (manual do utilizador, PDF em vietnamita)",
+      "publisher": "Honda Việt Nam",
+      "url": "https://cdn.honda.com.vn/motorbike-manual/September2025/NC8346r3AExXZtAvFuMG.pdf",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "Apresentação de uma edição limitada da Air Blade de 150 e 125 cm³ (notícia em vietnamita)",
+      "publisher": "Honda Việt Nam",
+      "url": "https://www.honda.com.vn/tin-tuc/xe-may/honda-viet-nam-gioi-thieu-phien-ban-gioi-han-honda-air-blade-150cc-125cc-bat-sac-doc-ban",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    }
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "PUBLISHED",
+  "date_published": "2026-10-13",
+  "date_modified": "2026-10-13",
+  "editorial": {
+    "qa_score": 100,
+    "qa_warnings": [],
+    "words": 2095,
+    "publish_mode": "review",
+    "approved_at": "2026-10-13",
+    "revisions": []
+  }
+}

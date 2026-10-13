@@ -29,6 +29,118 @@
       "writer": "claude",
       "mode": "review",
       "date": "2026-10-12"
+    },
+    {
+      "id": "PT-0002",
+      "url": "/tipos-de-motas/honda-air-blade-125-ou-160/",
+      "title": "Honda Air Blade 125 ou 160 em Hanói: o que muda no aluguer",
+      "words": 2095,
+      "qa_score": 100,
+      "writer": "claude",
+      "mode": "review",
+      "type": "new",
+      "date": "2026-10-13"
+    },
+    {
+      "id": "PT-0003",
+      "url": "/tipos-de-motas/honda-click-em-hanoi/",
+      "title": "Honda Click em Hanói: scooter compacta e económica para alugar",
+      "words": 2023,
+      "qa_score": 100,
+      "writer": "claude",
+      "mode": "review",
+      "type": "new",
+      "date": "2026-10-13"
+    },
+    {
+      "id": "PT-0067",
+      "url": "/precos/aluguer-semanal-de-mota/",
+      "title": "Aluguer semanal de mota em Hanói: preços e quando compensa",
+      "words": 2342,
+      "qa_score": 100,
+      "writer": "claude",
+      "mode": "review",
+      "type": "new",
+      "date": "2026-10-13"
+    },
+    {
+      "id": "PT-0068",
+      "url": "/precos/aluguer-mensal-de-mota/",
+      "title": "Aluguer mensal de mota em Hanói: preços e para quem compensa",
+      "words": 2649,
+      "qa_score": 100,
+      "writer": "claude",
+      "mode": "review",
+      "type": "new",
+      "date": "2026-10-13"
+    },
+    {
+      "id": "PT-0127",
+      "url": "/guia-de-aluguer/licenca-internacional-de-conducao/",
+      "title": "Licença Internacional de Condução para o Vietname: pedir no IMT",
+      "words": 1691,
+      "qa_score": 100,
+      "writer": "claude",
+      "mode": "review",
+      "type": "new",
+      "date": "2026-10-13"
+    },
+    {
+      "id": "PT-0131",
+      "url": "/guia-de-aluguer/documentos-da-mota-alugada/",
+      "title": "Documentos da mota alugada: registo, seguro e o que levar",
+      "words": 2169,
+      "qa_score": 100,
+      "writer": "claude",
+      "mode": "review",
+      "type": "new",
+      "date": "2026-10-13"
+    },
+    {
+      "id": "PT-0216",
+      "url": "/zonas-de-hanoi/conduzir-no-bairro-antigo/",
+      "title": "Conduzir de mota no Bairro Antigo de Hanói: o que deve saber",
+      "words": 2361,
+      "qa_score": 100,
+      "writer": "claude",
+      "mode": "review",
+      "type": "new",
+      "date": "2026-10-13"
+    },
+    {
+      "id": "PT-0261",
+      "url": "/rotas-e-mobilidade/hanoi-de-mota-num-dia/",
+      "title": "Hanói de mota num dia: itinerário com paragens e estacionamento",
+      "words": 2729,
+      "qa_score": 100,
+      "writer": "claude",
+      "mode": "review",
+      "type": "new",
+      "date": "2026-10-13"
+    },
+    {
+      "id": "PT-0216",
+      "url": "/zonas-de-hanoi/conduzir-no-bairro-antigo/",
+      "title": "Conduzir de mota no Bairro Antigo de Hanói: o que deve saber",
+      "words": 2397,
+      "qa_score": 100,
+      "writer": "claude",
+      "mode": "review",
+      "type": "update",
+      "reason": "Ligação à página da categoria Zonas de Hanói (criada com este artigo) e ao itinerário de um dia.",
+      "date": "2026-10-13"
+    },
+    {
+      "id": "PT-0261",
+      "url": "/rotas-e-mobilidade/hanoi-de-mota-num-dia/",
+      "title": "Hanói de mota num dia: itinerário com paragens e estacionamento",
+      "words": 2766,
+      "qa_score": 100,
+      "writer": "claude",
+      "mode": "review",
+      "type": "update",
+      "reason": "Ligação à página da categoria Rotas e mobilidade (criada com este artigo) e ao guia do Bairro Antigo.",
+      "date": "2026-10-13"
     }
   ]
 }

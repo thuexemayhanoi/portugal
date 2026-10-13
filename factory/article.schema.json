@@ -240,15 +240,16 @@
                   "type": "object",
                   "additionalProperties": false,
                   "required": [
-                    "component",
-                    "category"
+                    "component"
                   ],
+                  "description": "Componentes calculados a partir de site/data.json. Sem categoria, mostram todos os modelos; duration-compare indica a partir de quantos dias a semana compensa.",
                   "properties": {
                     "component": {
                       "type": "string",
                       "enum": [
                         "price-table",
-                        "model-cards"
+                        "model-cards",
+                        "duration-compare"
                       ]
                     },
                     "category": {

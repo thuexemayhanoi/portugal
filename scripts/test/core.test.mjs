@@ -40,6 +40,29 @@ test('tokens come from site/data.json (single source of truth)', () => {
   assert.throws(() => plain('{{price.inexistente.day}}', ctx()), /Unknown token/);
 });
 
+test('price conclusions are computed: weekFrom token and duration-compare follow the table', async () => {
+  const { durationCompare } = await import('../lib/components.mjs');
+  const vision = data.pricing.models.find((m) => m.id === 'vision');
+  const n = Math.ceil(vision.week / vision.day);
+  const t = buildTokens(data);
+  assert.equal(t['price.vision.weekFrom'], ['zero', 'um', 'dois', 'três', 'quatro', 'cinco', 'seis', 'sete'][n]);
+  assert.ok(!('price.bicicleta.weekFrom' in t), 'no token without day and week prices');
+  // A weekly rate that no longer pays off within 7 days makes any text using the token fail.
+  const dear = structuredClone(data);
+  dear.pricing.models.find((m) => m.id === 'vision').week = vision.day * 8;
+  const dctx = { tokens: buildTokens(dear), where: 'test' };
+  assert.throws(() => plain('A semana compensa a partir de {{price.vision.weekFrom}} dias.', dctx), /no longer pays off/);
+  const html = durationCompare({ pricing: data.pricing, ui: data.ui });
+  assert.match(html, new RegExp(`${n} dias`));
+  assert.match(html, /Sem tarifa semanal publicada/);
+  assert.match(durationCompare({ pricing: dear.pricing, ui: data.ui }), /Não compensa em sete dias/);
+  // Price comparisons between models follow the table; unknown prices cannot be compared.
+  const click = data.pricing.models.find((m) => m.id === 'click');
+  const expected = click.day < vision.day ? 'menos do que' : click.day === vision.day ? 'o mesmo que' : 'mais do que';
+  assert.equal(plain('{{cmp.click.vision.day}}', ctx()), expected);
+  assert.throws(() => plain('{{cmp.click.bicicleta.day}}', ctx()), /cannot be compared/);
+});
+
 test('inline markup escapes HTML and validates links', () => {
   const links = [];
   const html = inline('<script>x</script> **forte** [Preços](/precos/) [IMT](https://www.imt-ip.pt/) [Ligar]({{tel}})', ctx(links));

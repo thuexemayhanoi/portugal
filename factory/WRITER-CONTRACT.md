@@ -42,7 +42,8 @@ Cada elemento de `body` é um destes:
 - `{ "steps": [{ "title": "...", "text": "..." }] }`;
 - `{ "table": { "caption": "...", "head": [...], "rows": [[...]] } }`;
 - `{ "note": "...", "tone": "info" | "warn", "title": "..." }`;
-- `{ "component": "price-table" | "model-cards", "category": "scooters-automaticas" | "motas-semiautomaticas" | "motas-50cc" | "motas-eletricas" | "bicicletas-eletricas" }` — mostra os preços da loja, sempre atualizados.
+- `{ "component": "price-table" | "model-cards", "category": "scooters-automaticas" | "motas-semiautomaticas" | "motas-50cc" | "motas-eletricas" | "bicicletas-eletricas" }` — mostra os preços da loja, sempre atualizados (sem `category`, mostra todos os modelos; prefira-o a tabelas de preços feitas à mão, que não incluem modelos novos).
+- `{ "component": "duration-compare" }` — compara, modelo a modelo, o preço ao dia com a tarifa semanal e mostra a partir de quantos dias a semana compensa. As contas são feitas na compilação a partir de `site/data.json`: use este componente em vez de escrever à mão conclusões como «a partir de cinco dias a semana compensa».
 
 Formatação em linha: `[texto](/url-interna/)`, `[texto](https://fonte-externa)` e `**destaque**`. HTML é proibido.
 
@@ -58,8 +59,12 @@ Nunca escreva à mão preços, telefone, morada ou horário. Use tokens (substit
 | `{{phone}}` / `{{phone.local}}` / `{{tel}}` | +84 942 467 674 / 0942 467 674 / `tel:+84942467674` para ligações |
 | `{{hours}}` / `{{hours.display}}` | «todos os dias, das 09:00 às 21:00» (dentro de uma frase) / «Aberto todos os dias, das 09:00 às 21:00.» (frase completa) |
 | `{{maps}}`, `{{zalo}}`, `{{website}}`, `{{byline}}` | Google Maps (CID oficial), Zalo, site principal da loja, assinatura editorial |
-| `{{price.<modelo>.day|week|month}}` | modelos: `wave`, `sirius`, `vision`, `airblade`, `click`, `mio`, `cc50`, `eletrica`, `bicicleta` |
-| `{{price.min.day}}`, `{{price.max.day}}`, `{{pricing.verifiedAt}}` | intervalo diário e data de verificação |
+| `{{price.<modelo>.day\|week\|month}}` | modelos: `wave`, `sirius`, `vision`, `airblade`, `click`, `mio`, `cc50`, `eletrica`, `bicicleta` |
+| `{{price.min.day}}`, `{{price.max.day}}`, `{{price.min.week}}`, `{{price.max.week}}`, `{{pricing.verifiedAt}}` | intervalos diário e semanal e data de verificação |
+| `{{cmp.<modelo>.<outro>.day\|week\|month}}` | comparação calculada: «menos do que», «o mesmo que» ou «mais do que». Ex.: «custa {{price.click.day}} por dia, {{cmp.click.vision.day}} a Vision». Falha a compilação se um dos preços for «sob consulta» ou se os intervalos se sobrepuserem |
+| `{{price.<modelo>.weekFrom}}` | dia a partir do qual a semana custa o mesmo ou menos do que pagar ao dia, por extenso («cinco»); só para modelos com preço ao dia e à semana. Se a semana deixar de compensar em sete dias, a compilação falha e o texto tem de ser revisto |
+
+Conclusões que dependem de preços («a semana compensa a partir de…», «um mês custa menos do que duas semanas») também têm de vir dos tokens (`{{cmp.…}}`, `{{price.<modelo>.weekFrom}}`, `{{price.min.day}}`…) ou do componente `duration-compare`, nunca de contas feitas à mão: se a tabela mudar, o texto continua certo.
 
 Valores legais (coimas, limites) podem ser escritos por extenso, **sempre com fonte**.
 

@@ -45,7 +45,8 @@
   },
   "allowed_components": [
     "price-table",
-    "model-cards"
+    "model-cards",
+    "duration-compare"
   ],
   "online_source_check": false,
   "writer": {
