@@ -1,0 +1,243 @@
+{
+  "contract_version": 1,
+  "id": "PT-0115",
+  "slug": "danos-na-mota-alugada",
+  "title": "Danos na mota alugada: como se avaliam e se documentam",
+  "description": "Como se avalia um dano numa mota alugada: distinguir dano de desgaste, comparar com o registo inicial, pedir orçamento e recibo e deixar tudo por escrito.",
+  "h1": "Avaliar um dano numa mota alugada: do registo inicial ao orçamento e ao recibo",
+  "summary": "Um dano numa mota alugada avalia-se em três passos: comparar a mota com o registo feito no levantamento, confirmar o dano em conjunto com a loja e chegar a um valor por um método combinado, como o orçamento de uma oficina ou o preço da peça. O que pode ter de pagar depende do acordo; este site não publica valores de reparação.",
+  "key_points": [
+    "Só um dano novo entra na conta: o registo do levantamento é a referência para o distinguir.",
+    "Desgaste normal, defeito anterior e dano novo são coisas diferentes; pergunte como a loja traça a fronteira.",
+    "O valor pode vir de um orçamento de oficina, do preço da peça ou de uma tabela da loja: saiba qual antes de sair.",
+    "Peça um orçamento discriminado, com peças e mão de obra separadas, e o recibo depois da reparação.",
+    "Reparar ou substituir, peça original ou compatível: são escolhas que mudam o valor e que pode discutir.",
+    "Não presuma que algum seguro cobre a própria mota: pergunte à loja e leia a sua apólice."
+  ],
+  "intro": [
+    "Um risco na carenagem, um espelho partido ou um pisca rachado podem custar pouco ou bastante, conforme a peça e a forma de reparar. Num aluguer, as perguntas que importam são sobretudo práticas: o dano é novo? Como se chega ao valor? Quem decide como reparar?",
+    "Este guia explica como se avalia e documenta um dano numa mota alugada, do registo inicial ao recibo da reparação. Não indica preços nem diz quem paga, porque isso depende do acordo de cada aluguer; diz o que perguntar e o que pedir em cada fase. A [tabela de preços](/precos/) mostra apenas o preço de aluguer do veículo e não inclui reparações."
+  ],
+  "sections": [
+    {
+      "h2": "Dano novo, desgaste ou defeito anterior",
+      "body": [
+        "A primeira pergunta de qualquer avaliação é se o problema entra sequer na conta. Há três situações diferentes:",
+        {
+          "ul": [
+            "**Defeito anterior**: o que já existia no levantamento e ficou registado em fotografias ou no acordo.",
+            "**Desgaste normal**: o que resulta do uso previsto da mota, como pneus mais gastos, pastilhas de travão a baixar ou pequenas marcas no assento e nos apoios dos pés.",
+            "**Dano novo**: o que resulta de um acontecimento durante o aluguer, como uma queda, um toque ou um objeto que bate na carroçaria."
+          ]
+        },
+        "A fronteira entre desgaste e dano pode variar de loja para loja. Pergunte, antes de sair, como é tratada uma pequena marca de uso e como é tratado um risco provocado por um toque. Uma explicação com exemplos, dada no primeiro dia, evita uma discussão no último."
+      ]
+    },
+    {
+      "h2": "Tipos de dano numa scooter e como se verificam",
+      "body": [
+        "Cada tipo de dano verifica-se de forma diferente e tem soluções diferentes, o que pesa no valor final:",
+        {
+          "table": {
+            "caption": "Tipos de dano numa mota alugada, verificação e reparações possíveis",
+            "head": [
+              "Tipo de dano",
+              "Como se verifica",
+              "Reparações possíveis"
+            ],
+            "rows": [
+              [
+                "Risco superficial na pintura ou no plástico",
+                "Luz rasante e comparação com as fotografias do levantamento",
+                "Polimento, retoque de pintura ou troca da peça de plástico"
+              ],
+              [
+                "Plástico rachado ou partido (carenagem)",
+                "Observação direta; fixações soltas ou partidas",
+                "Colagem, quando possível, ou substituição da peça"
+              ],
+              [
+                "Espelho, manete ou pisca partido",
+                "Observação e teste de funcionamento",
+                "Substituição da peça"
+              ],
+              [
+                "Amolgadela no escape ou na jante",
+                "Observação; a roda deve girar sem oscilar",
+                "Reparação ou substituição, conforme a gravidade"
+              ],
+              [
+                "Guiador ou suspensão desalinhados depois de uma queda",
+                "A mota puxa para um lado ou o guiador fica torto em linha reta",
+                "Avaliação numa oficina"
+              ],
+              [
+                "Assento rasgado",
+                "Observação direta",
+                "Reparação do forro ou troca do assento"
+              ]
+            ]
+          }
+        },
+        "Os danos visíveis avaliam-se no momento, com a mota à frente. Os mecânicos, como um guiador desalinhado, só se confirmam numa oficina. Nesse caso, pergunte se a avaliação é feita consigo presente ou se recebe depois o resultado, com fotografias e uma explicação do que foi encontrado."
+      ]
+    },
+    {
+      "h2": "O ponto de partida: o registo do levantamento",
+      "body": [
+        "Uma avaliação justa precisa de uma referência. Sem imagens do estado inicial, a conversa sobre um risco passa a ser a sua palavra contra a da loja, o que não ajuda nenhuma das partes.",
+        "O registo vale mais quando:",
+        {
+          "ul": [
+            "foi feito antes de arrancar, com a mota inteira e cada defeito em pormenor;",
+            "foi partilhado com a loja no próprio dia, numa mensagem que fica com data;",
+            "os defeitos mais visíveis ficaram anotados no acordo ou na ficha de entrega."
+          ]
+        },
+        "O guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/) indica o que fotografar no momento da entrega. Para avaliar um dano, o que importa é que essas imagens existam e que a loja as tenha visto antes de o problema surgir."
+      ]
+    },
+    {
+      "h2": "A avaliação conjunta, passo a passo",
+      "body": [
+        "Quer o dano seja descoberto por si durante o aluguer, quer pela loja na devolução, a avaliação segue a mesma ordem:",
+        {
+          "steps": [
+            {
+              "title": "Ver o dano de perto",
+              "text": "Peça que lhe mostrem exatamente onde está, com boa luz. Uma marca vista à distância pode não passar de sujidade."
+            },
+            {
+              "title": "Comparar com o registo",
+              "text": "Abra as fotografias do levantamento no mesmo ângulo. Se o dano já lá estava, mostre a imagem; se não estava, reconheça-o."
+            },
+            {
+              "title": "Fotografar o dano novo",
+              "text": "Tire uma fotografia de contexto e outra de pormenor, para que fique claro onde está e qual é o tamanho."
+            },
+            {
+              "title": "Combinar o método de valor",
+              "text": "Decida com a loja se o valor vem de um orçamento, do preço da peça ou de uma tabela, antes de se falar em números."
+            },
+            {
+              "title": "Pôr tudo por escrito",
+              "text": "Registe numa mensagem o dano, o método e o valor, ou o prazo em que o valor será conhecido."
+            }
+          ]
+        },
+        "Separar os factos da avaliação ajuda a manter a conversa calma. Pode concordar que um espelho está partido e, ao mesmo tempo, querer perceber porque é que a solução proposta é trocar a peça inteira."
+      ]
+    },
+    {
+      "h2": "Como se chega a um valor",
+      "body": [
+        "Há várias formas de transformar um dano num número. Pergunte qual se aplica ao seu aluguer antes de levantar a mota:",
+        {
+          "ul": [
+            "**Orçamento de oficina**: um mecânico avalia o dano e indica o custo da peça e da mão de obra.",
+            "**Preço da peça**: o valor de uma peça nova, com ou sem a montagem.",
+            "**Tabela da loja**: um valor por tipo de dano ou por peça, definido à partida.",
+            "**Acordo no momento**: um valor combinado entre as duas partes para um dano pequeno, sem orçamento formal."
+          ]
+        },
+        "Nenhum método é melhor em si; o importante é que seja conhecido antes. Se a loja tiver uma tabela, peça para a ver no levantamento e guarde uma fotografia dela.",
+        {
+          "h3": "Reparar ou substituir, peça original ou compatível"
+        },
+        "Duas escolhas mudam o valor: reparar a peça ou trocá-la por uma nova, e usar uma peça original da marca ou uma compatível. Um risco num plástico pode ser polido ou obrigar a trocar a peça; um espelho pode ser substituído por um original ou por um equivalente. Pergunte que solução a loja propõe e porquê, sobretudo quando a troca de uma peça inteira resulta de um dano pequeno."
+      ]
+    },
+    {
+      "h2": "Orçamentos e recibos: o que pedir",
+      "body": [
+        "Um orçamento útil é discriminado: diz que peças são trocadas ou reparadas e quanto custa cada uma, com a mão de obra à parte. Se a reparação só for feita depois de partir, pergunte como recebe o recibo e, se ficou algum valor retido, quando é acertada a diferença.",
+        {
+          "checklist": [
+            "orçamento por escrito, com peças e mão de obra separadas;",
+            "fotografias do dano antes da reparação;",
+            "recibo da reparação feita, com a data;",
+            "fotografia da peça substituída, sobretudo se o valor for elevado;",
+            "confirmação escrita do valor final e da forma como foi pago ou acertado."
+          ]
+        },
+        "Se o valor lhe parecer desproporcionado, pergunte se é possível pedir um segundo orçamento. Faça-o com calma e por escrito; o ideal é ter falado desta possibilidade antes de alugar, quando ainda não há nenhum dano em discussão."
+      ]
+    },
+    {
+      "h2": "Se o dano acontecer durante o aluguer",
+      "body": [
+        "Um dano a meio do aluguer não deve esperar pela devolução. Por esta ordem:",
+        {
+          "ol": [
+            "garanta a sua segurança e a de outras pessoas; se houver feridos, essa é a prioridade;",
+            "verifique se a mota pode circular com segurança: travões, luzes, direção e pneus;",
+            "fotografe o dano e o local onde aconteceu;",
+            "avise a loja no próprio dia, pelo {{phone}}, e combine se a mota continua consigo, se vai a uma oficina ou se volta à loja;",
+            "não mande fazer reparações de carroçaria sem autorização: uma reparação mal feita complica a avaliação."
+          ]
+        },
+        "Se o dano resultar de um choque com outras pessoas ou veículos, a situação envolve mais do que a mota. Trate primeiro da segurança, contacte a loja de imediato e não assuma compromissos sobre valores no local sem perceber o que está em causa."
+      ]
+    },
+    {
+      "h2": "Seguros: o que confirmar antes de conduzir",
+      "body": [
+        "Não presuma que algum seguro cobre os danos na própria mota. O guia dos [documentos da mota alugada](/guia-de-aluguer/documentos-da-mota-alugada/) explica o seguro obrigatório que acompanha o veículo; para saber se existe alguma cobertura para danos na mota, pergunte à loja e peça que a resposta fique por escrito.",
+        "Leia também a apólice do seu seguro de viagem antes de conduzir: veja se cobre a condução de motas, em que condições e que documentos pede em caso de sinistro. Guarde as fotografias, o orçamento e o recibo de qualquer dano, para o caso de a seguradora os pedir."
+      ]
+    },
+    {
+      "h2": "Perguntas sobre danos antes de levantar a mota",
+      "body": [
+        "Antes de sair da loja, confirme estes pontos e guarde as respostas:",
+        {
+          "checklist": [
+            "Como distinguem desgaste normal de dano?",
+            "Os defeitos que já existem ficam anotados? Onde?",
+            "Como se calcula o valor de um dano: orçamento, preço da peça ou tabela?",
+            "Posso ver essa tabela, se existir?",
+            "Quem escolhe a oficina e o tipo de peça?",
+            "Se a reparação for feita depois de eu partir, como recebo o recibo?",
+            "Existe alguma cobertura para danos na própria mota?"
+          ]
+        },
+        "Envie-as numa mensagem antes do levantamento, juntamente com as restantes [perguntas a fazer antes de alugar](/guia-de-aluguer/perguntas-antes-de-alugar/). Os dados para falar com a loja estão na página de [contactos](/contactos/)."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Um risco pequeno também tem de ser pago?",
+      "a": "Depende de como o acordo trata as marcas pequenas e de o risco ser ou não novo. Por isso vale a pena perguntar no levantamento como é tratado um risco superficial e fotografar todos os que já existem, por pequenos que pareçam."
+    },
+    {
+      "q": "E se a solução proposta for trocar uma peça inteira por causa de um risco?",
+      "a": "Pergunte porque não é possível reparar e peça para ver o orçamento das duas opções, se existir. Em algumas peças, como plásticos pintados, reparar pode não dar um bom resultado; noutras, chega. O importante é perceber a escolha antes de aceitar o valor."
+    },
+    {
+      "q": "Tenho de pagar um dano no momento?",
+      "a": "Depende do acordo e de o valor já ser conhecido. Pode ser acertado com a caução, pago à parte ou ficar à espera de um orçamento. Seja qual for o caso, peça que o dano, o valor e a forma de pagamento fiquem por escrito antes de sair da loja."
+    },
+    {
+      "q": "Posso levar a mota a uma oficina à minha escolha para reparar um dano?",
+      "a": "Só se a loja concordar. A mota é da loja, que pode preferir uma oficina de confiança ou um certo tipo de peça. Combine antes quem escolhe a oficina e guarde a autorização por escrito."
+    }
+  ],
+  "sources": [],
+  "legal_note": false,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "PUBLISHED",
+  "date_published": "2026-10-13",
+  "date_modified": "2026-10-13",
+  "editorial": {
+    "qa_score": 100,
+    "qa_warnings": [],
+    "words": 1768,
+    "publish_mode": "review",
+    "approved_at": "2026-10-13",
+    "revisions": []
+  }
+}

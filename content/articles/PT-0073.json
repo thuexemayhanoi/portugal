@@ -1,0 +1,203 @@
+{
+  "contract_version": 1,
+  "id": "PT-0073",
+  "slug": "prolongar-o-aluguer",
+  "title": "Prolongar o aluguer da mota em Hanói: como pedir mais dias",
+  "description": "Como prolongar o aluguer da mota em Hanói: quando avisar a loja, que valor pedir pelos dias extra, o que deixar por escrito e o risco de não avisar.",
+  "h1": "Como prolongar o aluguer da mota sem complicações",
+  "summary": "Para prolongar o aluguer da mota, avise a loja assim que souber e sempre antes da hora de devolução combinada, indique a nova data e hora e peça o total dos dias extra. Só conte com o prolongamento depois de a loja o confirmar por escrito: a mota pode já estar reservada e o preço depende do acordo.",
+  "key_points": [
+    "Peça os dias extra antes da hora de devolução combinada e dentro do horário da loja ({{hours}}), nunca no momento em que devia entregar a mota.",
+    "A tabela publica preços por dia, semana e mês, mas não um preço de prolongamento: peça o total dos novos dias antes de decidir.",
+    "Se, com os dias extra, o aluguer chegar ao número de dias em que a semana compensa, pergunte se o total pode ser recalculado pela tarifa semanal.",
+    "O prolongamento só existe quando a loja responde a confirmá-lo: guarde a mensagem com a nova data, a hora e o valor.",
+    "Ficar com a mota sem acordo cria problemas à loja e a si; pergunte logo no início como é tratado um atraso."
+  ],
+  "intro": [
+    "A viagem corre bem, a cidade agrada-lhe mais do que esperava ou um voo muda de data — e, de repente, os dias de mota que reservou já não chegam. Pedir mais dias é uma conversa curta quando é feita a tempo. Deixada para a hora da devolução, pode transformar-se num problema para si e para a loja.",
+    "Este guia explica como prolongar o aluguer na loja {{brand}}, em {{area}}: quando avisar, o que escrever no pedido, como pensar no preço dos dias extra e o que deixar confirmado por escrito. Se ainda está a escolher a duração, comece pelos guias do [aluguer semanal](/precos/aluguer-semanal-de-mota/) e do [aluguer mensal](/precos/aluguer-mensal-de-mota/)."
+  ],
+  "sections": [
+    {
+      "h2": "Quando avisar a loja",
+      "body": [
+        "O momento certo para pedir mais dias é assim que perceber que vai precisar deles. Quanto mais cedo a loja souber, mais fácil é verificar se a mesma mota continua livre nas novas datas e responder sem pressa.",
+        "Há um limite que não deve ultrapassar: a hora de devolução que ficou combinada. Até lá, o aluguer decorre dentro do acordo. A partir daí, a mota fica consigo sem que a loja o tenha aceitado, mesmo que a sua intenção fosse avisar mais tarde.",
+        {
+          "h3": "Contar com o horário da loja"
+        },
+        "A loja funciona {{hours}}. Uma mensagem enviada depois das {{closes}} pode só ser lida na manhã seguinte, já perto da hora em que devia entregar a mota. Se o prazo termina de manhã, faça o pedido na véspera, dentro do horário.",
+        "Pergunte também com que antecedência a loja prefere ser avisada. O site não publica nenhum prazo, e a resposta pode variar com o modelo e a época do ano.",
+        {
+          "note": "Se ainda não decidiu, avise na mesma que é provável precisar de mais dias e pergunte até quando pode confirmar. A pergunta não fecha nenhum acordo, mas dá tempo à loja para organizar as reservas e a si para comparar opções.",
+          "tone": "info",
+          "title": "Na dúvida, pergunte cedo"
+        }
+      ]
+    },
+    {
+      "h2": "O que escrever no pedido",
+      "body": [
+        "Um pedido completo evita várias mensagens de ida e volta. Junte numa só mensagem:",
+        {
+          "checklist": [
+            "o seu nome e o modelo da mota, com a matrícula se a tiver anotada;",
+            "a data e a hora de devolução que estão combinadas;",
+            "a nova data e a nova hora a que quer devolver a mota;",
+            "o pedido do valor total dos dias extra e da forma de pagamento;",
+            "qualquer mudança de planos que a loja deva conhecer, como uma saída de Hanói ou um segundo condutor."
+          ]
+        },
+        "Use o canal com que reservou — telefone ou Zalo, através do {{phone}} — para que todo o historial do aluguer fique na mesma conversa. Os restantes dados da loja estão na página de [contactos](/contactos/).",
+        {
+          "h3": "Uma mensagem lida não é um pedido aceite"
+        },
+        "Espere por uma resposta que indique a nova data, a hora e o valor. Se ela não chegar e o prazo estiver a aproximar-se, ligue para a loja. Enquanto não houver confirmação, o mais seguro é tratar a hora original como a hora de devolução e resolver o prolongamento quando lá chegar com a mota."
+      ]
+    },
+    {
+      "h2": "Como pensar no preço dos dias extra",
+      "body": [
+        "A [tabela de preços](/precos/) publica tarifas por dia, por semana e por mês, mas não um preço próprio para prolongamentos. O valor dos dias a mais é, por isso, uma pergunta a fazer, e não uma conta a dar por certa.",
+        "Há duas maneiras de olhar para o pedido. A mais simples é somar dias ao preço diário do modelo — numa Honda Vision, por exemplo, a referência é de {{price.vision.day}} por dia. A outra é olhar para o aluguer inteiro, juntando os dias iniciais e os novos. Quando essa soma se aproxima de uma semana ou de um mês, a tarifa desse período pode ser a referência mais adequada.",
+        {
+          "component": "duration-compare"
+        },
+        "A tabela acima mostra, modelo a modelo, a partir de quantos dias a semana custa o mesmo ou menos do que pagar ao dia. Numa Vision, esse ponto chega aos {{price.vision.weekFrom}} dias; numa Honda Wave, aos {{price.wave.weekFrom}}. Se o seu aluguer, com o prolongamento, atingir esse número, pergunte à loja se o total pode ser recalculado pela tarifa semanal.",
+        {
+          "h3": "Quando os dias extra se transformam em semanas"
+        },
+        "Se o prolongamento começa a contar-se em semanas, compare também com o mês: a referência mensal é de {{price.vision.month}} na Vision e de {{price.wave.month}} na Wave. O guia do [aluguer mensal](/precos/aluguer-mensal-de-mota/) explica o que muda num acordo de várias semanas, da manutenção à forma de pagamento.",
+        "Em qualquer caso, os valores da tabela são uma referência verificada a {{pricing.verifiedAt}}. Para os dias extra, conta o total que a loja confirmar por escrito."
+      ]
+    },
+    {
+      "h2": "A mesma mota ou outra unidade",
+      "body": [
+        "Um prolongamento depende, antes de mais, de a mota estar livre. Se a unidade que tem consigo já estiver reservada a partir de certa data, a loja pode propor outra mota para os dias seguintes ou aceitar só parte do período pedido. É mais um motivo para avisar cedo.",
+        "Se houver troca de unidade:",
+        {
+          "ul": [
+            "combine a hora e o local da troca, dentro do horário da loja;",
+            "entregue a primeira mota com a verificação habitual e peça o comprovativo da entrega;",
+            "inspecione e fotografe a nova mota como fez no primeiro dia, incluindo o combustível e a quilometragem;",
+            "confirme se o preço muda, sobretudo se a nova unidade for de outro modelo."
+          ]
+        },
+        "Mesmo sem troca, um aluguer mais longo é uma boa altura para olhar outra vez para a mota: pneus, travões, luzes e, nas semiautomáticas, a corrente. Se notar algum problema, diga-o no mesmo contacto em que pede os dias extra. Se a mota for uma [Honda Vision](/tipos-de-motas/honda-vision-em-hanoi/), o guia do modelo mostra o que esperar dela no dia a dia."
+      ]
+    },
+    {
+      "h2": "Pagamento, caução e documentos no novo período",
+      "body": [
+        "Prolongar muda a data de fim do aluguer e, com ela, algumas condições. Antes de dar o assunto por fechado, confirme:",
+        {
+          "checklist": [
+            "**Pagamento**: se os dias extra se pagam já, à distância, ou na devolução, e de que forma;",
+            "**Comprovativo**: que recibo recebe pelo valor adicional;",
+            "**Caução**: se existe no seu caso, se se mantém igual e quando é devolvida com a nova data de fim;",
+            "**Combustível**: se o nível combinado para a devolução se mantém;",
+            "**Documentos da mota**: se o certificado do seguro que segue consigo continua válido até à nova data."
+          ]
+        },
+        "O guia dos [documentos da mota alugada](/guia-de-aluguer/documentos-da-mota-alugada/) mostra onde encontrar as datas de validade no certificado. O de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/) explica o que perguntar quando a loja pede uma garantia.",
+        "Se o prolongamento for longo, verifique também os seus próprios planos: o alojamento onde a mota passa a noite, os dias em que vai estar fora de Hanói e se continua a precisar dela todos os dias."
+      ]
+    },
+    {
+      "h2": "Do pedido à nova data de devolução",
+      "body": [
+        {
+          "steps": [
+            {
+              "title": "Peça com antecedência",
+              "text": "Envie a nova data e hora e pergunte pelo total, de preferência um ou dois dias antes do fim do prazo."
+            },
+            {
+              "title": "Leia a resposta com atenção",
+              "text": "Confirme se a loja aceita o período inteiro, se a unidade é a mesma e qual é o valor dos dias extra."
+            },
+            {
+              "title": "Pague como ficou combinado",
+              "text": "Faça o pagamento no momento e na forma acordados e guarde o comprovativo."
+            },
+            {
+              "title": "Atualize a sua agenda",
+              "text": "Anote a nova hora de devolução no telemóvel, com um alarme, e reveja o percurso de regresso a {{area}}."
+            },
+            {
+              "title": "Devolva na nova data",
+              "text": "Chegue com margem antes da hora acordada e faça a verificação conjunta como faria no fim de qualquer aluguer."
+            }
+          ]
+        },
+        "Se, entretanto, os planos voltarem a mudar, repita o processo: cada alteração deve ficar escrita na mesma conversa."
+      ]
+    },
+    {
+      "h2": "O que pode acontecer se não avisar",
+      "body": [
+        "Ficar com a mota depois da hora combinada sem acordo da loja é a forma mais comum de transformar um prolongamento simples num desentendimento. As consequências concretas dependem do acordo de aluguer, mas há efeitos práticos que vale a pena ter em conta:",
+        {
+          "ul": [
+            "**A mota pode estar prometida a outra pessoa.** Se a loja tiver uma reserva para aquela unidade, o seu atraso afeta também outro cliente.",
+            "**O valor pode não ser o que imaginava.** Sem preço combinado, o acerto segue as condições do aluguer, que podem não coincidir com a tarifa que tinha em mente.",
+            "**A caução, se existir, fica dependente do acerto de contas.** Os atrasos estão entre as situações que podem dar lugar a descontos na caução, por isso pergunte como são tratados.",
+            "**A loja deixa de saber onde está a mota.** Um silêncio de horas preocupa quem a alugou e obriga a loja a tentar contactá-lo."
+          ]
+        },
+        "Ao fechar o aluguer, pergunte como é tratado um atraso na devolução e a partir de quando conta como dia adicional. Se a resposta ficar escrita logo no início, não há surpresas no fim.",
+        {
+          "note": "Se algo o impedir de devolver a mota à hora — uma avaria, um acidente, chuva muito forte —, ligue para a loja antes da hora combinada, explique a situação e combine o passo seguinte. Um aviso feito a tempo muda o tom de toda a conversa.",
+          "tone": "warn",
+          "title": "Imprevistos no último dia"
+        }
+      ]
+    },
+    {
+      "h2": "Prolongar várias vezes ou fechar logo um período maior",
+      "body": [
+        "Pedir dois ou três dias de cada vez é útil quando os planos estão realmente em aberto. Mas, se já percebeu que vai ficar bastante mais tempo, os prolongamentos sucessivos têm desvantagens: mais mensagens, mais pagamentos separados e o risco de, numa das vezes, a mota já não estar livre.",
+        "Nesse caso, peça à loja um valor para todo o período que ainda tem pela frente e compare-o com a tarifa semanal ou mensal do mesmo modelo. Decidir com o total à frente é mais simples do que ir somando pequenos acertos.",
+        "Se ainda não levantou a mota e hesita entre durações, pode começar com um período curto e prolongar depois — o guia do [aluguer por um dia](/precos/aluguer-de-mota-por-um-dia/) ajuda a organizar o primeiro dia. Nesse caso, pergunte logo à partida como funcionaria um prolongamento e se os dias já pagos contam para uma eventual tarifa semanal. As outras perguntas a fazer antes de alugar estão reunidas nas [15 perguntas a fazer à loja](/guia-de-aluguer/perguntas-antes-de-alugar/)."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Posso prolongar o aluguer só por algumas horas?",
+      "a": "A tabela de referência não publica preços à hora. Se precisa apenas de devolver a mota mais tarde no mesmo dia, pergunte à loja antes da hora combinada se é possível e com que custo, e só conte com isso depois de ter a resposta."
+    },
+    {
+      "q": "Tenho de ir à loja para pedir mais dias?",
+      "a": "Pergunte à loja se o pedido por telefone ou Zalo basta ou se precisa de passar por {{area}}, por exemplo para pagar ou trocar de mota. Combine-o na mesma mensagem em que pede os dias extra."
+    },
+    {
+      "q": "E se a loja não responder antes do fim do prazo?",
+      "a": "Ligue para o {{phone}} dentro do horário, {{hours}}. Enquanto não tiver confirmação, trate a hora original como a hora de devolução: levar a mota à loja e resolver ali o prolongamento é mais seguro do que ficar com ela sem acordo."
+    },
+    {
+      "q": "O preço dos dias extra é o da tabela?",
+      "a": "A tabela serve de referência, mas não indica um preço próprio para prolongamentos. Conta o valor que a loja confirmar para os novos dias, por isso peça-o antes de decidir e guarde a resposta."
+    }
+  ],
+  "sources": [
+    "tabela-precos-proprietario"
+  ],
+  "legal_note": false,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "PUBLISHED",
+  "date_published": "2026-10-13",
+  "date_modified": "2026-10-13",
+  "editorial": {
+    "qa_score": 100,
+    "qa_warnings": [],
+    "words": 2003,
+    "publish_mode": "review",
+    "approved_at": "2026-10-13",
+    "revisions": []
+  }
+}

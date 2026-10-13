@@ -84,6 +84,8 @@ test('pt-BR vocabulary is detected, pt-PT is not', () => {
   assert.ok(terms.includes('celular'));
   assert.ok(terms.some((t) => t.includes('chovendo')));
   assert.equal(findBrazilianisms('O aluguer da mota, o autocarro e o telemóvel. Está a chover.').length, 0);
+  assert.equal(findBrazilianisms('Toda a gente usa capacete.').length, 0, '«toda a gente» is pt-PT');
+  assert.equal(findBrazilianisms('A gente vai de mota.').length, 1);
 });
 
 test('unverified business claims are flagged unless negated or asked', () => {

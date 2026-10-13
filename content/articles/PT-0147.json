@@ -1,0 +1,247 @@
+{
+  "contract_version": 1,
+  "id": "PT-0147",
+  "slug": "autorizacao-para-sair-de-hanoi",
+  "title": "Levar a mota alugada para fora de Hanói: pedir autorização",
+  "description": "Antes de sair de Hanói com a mota alugada, diga à loja o destino, as datas e o percurso, confirme as condições por escrito e leve os documentos certos.",
+  "h1": "Sair da cidade com a mota alugada: o que dizer à loja e o que deixar por escrito",
+  "summary": "Antes de levar a mota alugada para fora de Hanói, peça autorização à loja: diga para onde vai, em que datas, por que estradas e onde passa as noites, e parta só quando tiver por escrito o destino aceite, o modelo adequado e o que fazer em caso de avaria. Planeie o percurso por estradas nacionais, porque as motas não podem circular nas autoestradas.",
+  "key_points": [
+    "O site não publica uma lista de destinos autorizados: a loja responde caso a caso, para cada mota e cada viagem.",
+    "Diga à loja o destino, as datas, o percurso, as noites fora, quem conduz e se leva passageiro ou bagagem.",
+    "Peça por escrito o destino aceite, o procedimento em caso de avaria longe da loja e a hora de regresso.",
+    "Nenhuma autorização da loja permite entrar numa autoestrada (cao tốc): as motas estão proibidas nelas.",
+    "Leve o registo e o seguro da mota, a sua carta com a licença internacional e a confirmação da loja."
+  ],
+  "intro": [
+    "Hanói é um bom ponto de partida para saídas curtas: um dia nos arredores, uma noite em Ninh Bình, um percurso mais longo para norte. Com uma mota alugada, a vontade de esticar a viagem surge muitas vezes a meio da estadia. Antes de arrancar, há uma conversa a ter com a loja, porque o acordo pode ter sido feito a pensar no uso dentro da cidade.",
+    "Este guia trata desse pedido: porque é necessário, que informação dar, que condições confirmar e que documentos levar. Não é um guia de rotas. Os percursos, as distâncias e o estado das estradas dependem do destino e preparam-se à parte, já com a autorização da loja."
+  ],
+  "sections": [
+    {
+      "h2": "Porque é que a loja precisa de saber",
+      "body": [
+        "Uma mota que circula em Hanói fica, no máximo, a algumas dezenas de minutos da loja. Uma mota que passa dois dias numa província vizinha está noutra situação: faz muitos mais quilómetros, dorme fora e, se avariar, o problema já não se resolve com uma deslocação curta. É natural que a loja queira saber para onde vai a mota antes de ela partir.",
+        "Para si, o pedido também tem vantagens:",
+        {
+          "ul": [
+            "fica a saber se o modelo que tem é adequado à viagem antes de descobrir, a meio do caminho, que não é;",
+            "combina com a loja o que fazer se a mota avariar longe, em vez de improvisar na berma;",
+            "evita discussões no regresso, porque a viagem estava prevista e aceite;",
+            "leva consigo uma confirmação escrita que, junto com o acordo, mostra que a viagem foi combinada."
+          ]
+        },
+        "Este site não publica regras sobre viagens fora de Hanói nem uma lista de destinos aceites. Como explicam os [termos e condições](/termos-e-condicoes/), as condições de cada aluguer são acordadas diretamente com a loja. A resposta para a sua viagem é a que a loja lhe der.",
+        {
+          "h3": "Quando pedir"
+        },
+        "O ideal é logo no primeiro contacto: a página de [contactos](/contactos/) já sugere que diga se pretende sair de Hanói durante o aluguer. Se a ideia surgir mais tarde, peça antes de partir, nunca depois. Uma viagem feita sem acordo deixa-o numa posição difícil se alguma coisa correr mal."
+      ]
+    },
+    {
+      "h2": "O que dizer à loja: a informação a dar",
+      "body": [
+        "Quanto mais concreto for o pedido, mais útil é a resposta. «Posso ir a Ninh Bình?» é uma pergunta solta. «Quero ir a Ninh Bình no sábado, sair às 08:00, dormir lá e voltar no domingo à tarde, por estradas nacionais, com um passageiro e uma mochila» é um pedido a que a loja consegue responder.",
+        {
+          "table": {
+            "caption": "Informação a incluir no pedido de autorização",
+            "head": [
+              "O que indicar",
+              "Exemplo",
+              "Porque importa"
+            ],
+            "rows": [
+              [
+                "Destino ou destinos",
+                "Ninh Bình, com passagem por Tam Cốc",
+                "A loja avalia a distância e o tipo de estrada para aquela mota"
+              ],
+              [
+                "Datas e horas",
+                "Saída no sábado às 08:00, regresso no domingo às 17:00",
+                "Define quanto tempo a mota está fora e quando volta à loja"
+              ],
+              [
+                "Percurso previsto",
+                "Estradas nacionais, sem autoestradas",
+                "Mostra que o trajeto pode ser feito de mota"
+              ],
+              [
+                "Noites fora",
+                "Uma noite num hotel com estacionamento",
+                "Indica onde a mota fica parada longe de Hanói"
+              ],
+              [
+                "Quem conduz",
+                "Só a pessoa que alugou",
+                "Confirma que o condutor é o que consta do acordo"
+              ],
+              [
+                "Passageiro e bagagem",
+                "Um passageiro e uma mochila",
+                "Pesa na escolha do modelo"
+              ],
+              [
+                "Mota que tem ou que prefere",
+                "Honda Vision, ou outra mais adequada",
+                "Permite à loja propor outro modelo antes da partida"
+              ]
+            ]
+          }
+        },
+        "Junte tudo numa mensagem, por telefone ou Zalo, para o {{phone}}. Se a viagem ainda não estiver fechada, diga-o: a loja pode responder com as condições gerais e confirmar os pormenores mais tarde."
+      ]
+    },
+    {
+      "h2": "As condições a confirmar antes de partir",
+      "body": [
+        "A resposta da loja só é útil se cobrir as questões que contam quando se está longe. Peça que confirme, por escrito:",
+        {
+          "checklist": [
+            "**Destino aceite**: se a viagem descrita é aceite para aquela mota e se há zonas ou estradas a evitar.",
+            "**Modelo**: se a mota que tem é adequada ou se a loja recomenda outra para essa viagem.",
+            "**Preço e caução**: se alguma coisa muda por a mota sair de Hanói.",
+            "**Avaria longe da loja**: se deve ligar primeiro para a loja, se pode recorrer a uma oficina local, como guarda os recibos e quem paga a reparação.",
+            "**Mota imobilizada**: o que acontece se a mota não puder continuar e como regressa a Hanói.",
+            "**Regresso**: a hora de devolução e o que fazer se a viagem atrasar.",
+            "**Contacto**: a que número ligar ou escrever durante a viagem e em que horário há resposta."
+          ]
+        },
+        {
+          "note": "«Pode ir, sem problema» é uma autorização, mas não diz nada sobre o que fazer com um pneu furado a cem quilómetros da loja. Peça o procedimento concreto e guarde-o na mesma conversa da reserva.",
+          "tone": "warn",
+          "title": "Uma resposta vaga não chega"
+        },
+        "Se algum destes pontos ficar sem resposta, não parta do princípio de que se resolve pelo caminho: pergunte outra vez antes de sair."
+      ]
+    },
+    {
+      "h2": "A mota certa para sair da cidade",
+      "body": [
+        "A resposta da loja pode depender do modelo. Algumas orientações antes de fazer o pedido:",
+        {
+          "ul": [
+            "**50 cc**: pensada para percursos curtos e a baixa velocidade, não é um veículo para viagens longas fora de Hanói. A página das [motas de 50 cc](/tipos-de-motas/motas-50cc/) explica os seus limites.",
+            "**Mota elétrica**: pergunte à loja qual é a autonomia real e onde poderá carregar a mota durante a viagem e no alojamento.",
+            "**Semiautomáticas**: só fazem sentido se já domina as mudanças de pé, sobretudo em estradas com subidas e camiões.",
+            "**Honda Air Blade**: mais potente, útil para andar a dois ou para saídas mais longas. Confirme a cilindrada da unidade, porque acima de 125 cm³ a carta exigida passa da categoria A1 para a categoria A."
+          ]
+        },
+        "Se a loja recomendar outro modelo, faça a troca antes de partir, com nova inspeção e novas fotografias. As [scooters automáticas](/tipos-de-motas/scooters/) e os restantes [tipos de motas](/tipos-de-motas/) estão comparados em páginas próprias."
+      ]
+    },
+    {
+      "h2": "Autoestradas: uma regra que nenhuma autorização muda",
+      "body": [
+        "As motas não podem circular nas autoestradas vietnamitas (cao tốc), seja qual for a cilindrada. A autorização da loja diz respeito ao aluguer e não muda as regras de trânsito. Mesmo que o destino seja aceite, o percurso tem de ser feito por estradas nacionais e outras vias abertas às motas.",
+        "Ao preparar o trajeto numa aplicação de navegação, confirme que o percurso proposto não entra numa autoestrada. Muitas aplicações têm uma opção para evitar autoestradas: ative-a e reveja o mapa antes de sair. Em caso de dúvida, pergunte à loja que estrada deve usar para o destino escolhido.",
+        "As restantes regras de trânsito também se aplicam fora da cidade. As [perguntas frequentes](/perguntas-frequentes/) resumem as principais."
+      ]
+    },
+    {
+      "h2": "Documentos a levar na viagem",
+      "body": [
+        "Longe de Hanói, não há forma rápida de ir buscar um papel esquecido. Antes de partir, confirme que leva:",
+        {
+          "checklist": [
+            "o **certificado de registo** da mota;",
+            "o **certificado do seguro obrigatório** de responsabilidade civil, válido até depois do regresso;",
+            "a sua **carta de condução**, adequada à categoria da mota, e a **licença internacional** reconhecida no Vietname;",
+            "o **passaporte**, de que vai precisar no alojamento;",
+            "a **confirmação da loja** sobre a viagem, junto com o acordo de aluguer, em papel ou em fotografia;",
+            "o número da loja, {{phone}}, guardado no telemóvel, e a morada em vietnamita: {{address.vi}}."
+          ]
+        },
+        "O registo, o seguro e a carta adequada são exigidos pela lei de trânsito de 2024 a quem conduz, em qualquer estrada; a licença internacional é o documento que, como visitante, acompanha a carta do seu país. O guia dos [documentos da mota alugada](/guia-de-aluguer/documentos-da-mota-alugada/) explica como conferir os papéis com a mota, e o da [Licença Internacional de Condução](/guia-de-aluguer/licenca-internacional-de-conducao/) mostra como a pedir em Portugal.",
+        "Confirme ainda, no seu seguro de viagem, se a condução de uma mota está coberta e em que condições. Essa resposta só a seguradora a pode dar."
+      ]
+    },
+    {
+      "h2": "Durante a viagem: avisar antes de mudar de planos",
+      "body": [
+        "A autorização vale para a viagem que descreveu. Se os planos mudarem pelo caminho, a conversa recomeça:",
+        {
+          "ul": [
+            "**Outro destino ou uma noite a mais**: peça à loja antes de seguir, e não depois de chegar.",
+            "**Atraso no regresso**: avise antes da hora de devolução combinada e diga a que horas consegue chegar.",
+            "**Avaria ou acidente**: pare num local seguro, fotografe a mota e o local, envie a localização à loja e siga o procedimento combinado.",
+            "**Mau tempo**: se a chuva ou a falta de visibilidade tornarem a estrada perigosa, pare e espere; um regresso tardio combinado é melhor do que um regresso à pressa."
+          ]
+        },
+        "Mande uma mensagem curta quando sair de Hanói e outra quando regressar. É um gesto simples que mantém a loja a par e deixa, na mesma conversa, o registo de toda a viagem."
+      ]
+    },
+    {
+      "h2": "Do pedido à partida, passo a passo",
+      "body": [
+        {
+          "steps": [
+            {
+              "title": "Descreva a viagem",
+              "text": "Destino, datas, percurso, noites fora, condutor, passageiro e bagagem, numa só mensagem."
+            },
+            {
+              "title": "Leia a resposta",
+              "text": "Confirme que a loja aceita o destino para aquela mota e que respondeu sobre avarias, preço, caução e hora de regresso."
+            },
+            {
+              "title": "Ajuste a mota, se for preciso",
+              "text": "Se a loja recomendar outro modelo, faça a troca antes de partir, com inspeção e fotografias."
+            },
+            {
+              "title": "Confira os documentos",
+              "text": "Registo, seguro, carta, licença internacional, passaporte e confirmação da loja."
+            },
+            {
+              "title": "Avise quando sair e quando voltar",
+              "text": "Duas mensagens curtas que fecham o registo da viagem na mesma conversa."
+            }
+          ]
+        },
+        "As outras perguntas a fazer antes de alugar, do preço aos capacetes, estão nas [15 perguntas a fazer à loja](/guia-de-aluguer/perguntas-antes-de-alugar/). A caução e os documentos pedidos para o aluguer têm explicação própria no guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/)."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Preciso de autorização para uma saída de um só dia?",
+      "a": "Peça-a na mesma. Uma ida e volta no mesmo dia pode somar muitos quilómetros e levar a mota longe da loja. Diga o destino e a hora de regresso e guarde a resposta: a conversa é curta e a confirmação fica escrita."
+    },
+    {
+      "q": "A loja pode recusar a viagem?",
+      "a": "Pode. As condições do aluguer, incluindo por onde a mota pode circular, são combinadas com a loja. Se a resposta for negativa para aquele modelo, pergunte se outro serve; se não houver solução, faça essa parte da viagem noutro transporte e use a mota só em Hanói."
+    },
+    {
+      "q": "A autorização da loja dispensa algum documento na viagem?",
+      "a": "Não. A autorização diz respeito ao aluguer: mostra que a viagem foi combinada com a loja. A carta adequada à categoria da mota, a licença internacional e os documentos do veículo continuam a ser necessários em qualquer estrada, dentro ou fora de Hanói."
+    },
+    {
+      "q": "Com autorização da loja, posso usar a autoestrada?",
+      "a": "Não. As motas não podem circular nas autoestradas do Vietname (cao tốc), seja qual for a cilindrada, e nenhuma autorização da loja muda essa regra. Planeie o percurso por estradas nacionais e confirme-o no mapa antes de sair."
+    }
+  ],
+  "sources": [
+    "dtinews-autoestrada-2026",
+    "lei-36-2024-artigo-56",
+    "lei-36-2024-a1",
+    "lawnet-categorias-2025",
+    "mfat-conduzir-vietname",
+    "imt-lic"
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "PUBLISHED",
+  "date_published": "2026-10-13",
+  "date_modified": "2026-10-13",
+  "editorial": {
+    "qa_score": 100,
+    "qa_warnings": [],
+    "words": 1870,
+    "publish_mode": "review",
+    "approved_at": "2026-10-13",
+    "revisions": []
+  }
+}

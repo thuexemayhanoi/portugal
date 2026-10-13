@@ -1,0 +1,284 @@
+{
+  "contract_version": 1,
+  "id": "PT-0120",
+  "slug": "vision-ou-click-no-aluguer-mensal",
+  "title": "Vision ou Click no aluguer mensal: o que paga a diferença",
+  "description": "Honda Vision ou Honda Click para um mês em Hanói? Compare os preços mensais de referência e o que a diferença paga em conforto, potência e idade da mota.",
+  "h1": "Um mês de scooter em Hanói: Honda Vision ou Honda Click?",
+  "summary": "Na tabela de referência, um mês de Honda Click custa {{price.click.month}}, {{cmp.click.vision.month}} um mês de Honda Vision ({{price.vision.month}}). A Click chega para quem anda sozinho e sobretudo na cidade; a Vision é um modelo que a Honda Vietname continua a vender, mais previsível de unidade para unidade. Peça os dois orçamentos para as mesmas datas, com o ano e a cilindrada de cada mota.",
+  "key_points": [
+    "Ao mês, a Click custa {{cmp.click.vision.month}} a Vision; os dois preços são intervalos, e é a loja que fixa o valor de cada unidade.",
+    "A diferença não compra necessariamente mais motor: uma Click 125i ou 160 tem mais cilindrada do que os cerca de 110 cm³ da Vision; só a Click antiga, feita no Vietname, fica ao mesmo nível.",
+    "Num mês, o estado e a idade da unidade pesam mais do que a ficha técnica: pergunte o ano, a cilindrada do registo e a data da última mudança de óleo.",
+    "Para andar muitas vezes a dois, compare também com a Air Blade, que ao mês custa {{cmp.airblade.vision.month}} a Vision.",
+    "Se não houver Click livre, a Yamaha Mio é a alternativa direta: ao mês, custa {{cmp.mio.click.month}} a Click."
+  ],
+  "intro": [
+    "Para um mês em Hanói, a Honda Vision e a Honda Click são as duas scooters que mais vezes entram na conversa: ambas automáticas, ambas fáceis de manobrar, mas com referências mensais diferentes na tabela da loja. A dúvida é se essa diferença se justifica, e a resposta depende menos do nome do modelo do que da unidade concreta e do uso que lhe vai dar.",
+    "Este artigo compara só estes dois modelos e só no aluguer de um mês. As condições gerais de um aluguer longo — caução, manutenção, prolongamento — estão no guia do [aluguer mensal de mota](/precos/aluguer-mensal-de-mota/), e as fichas completas de cada scooter estão nos guias da [Honda Vision](/tipos-de-motas/honda-vision-em-hanoi/) e da [Honda Click](/tipos-de-motas/honda-click-em-hanoi/)."
+  ],
+  "sections": [
+    {
+      "h2": "Os dois preços mensais lado a lado",
+      "body": [
+        "Na tabela de referência da loja, verificada a {{pricing.verifiedAt}}, um mês de Honda Click custa {{price.click.month}} e um mês de Honda Vision {{price.vision.month}}. Ao mês, a Click custa, portanto, {{cmp.click.vision.month}} a Vision. A tabela das scooters automáticas mostra também o dia e a semana de cada modelo:",
+        {
+          "component": "price-table",
+          "category": "scooters-automaticas"
+        },
+        "Os dois preços mensais são intervalos. Para a comparação ser justa, compare valores finais e não limites da tabela: peça à loja o preço de cada modelo para as mesmas datas e pergunte, em cada caso, porque é que a unidade fica perto do limite inferior ou do superior. Um orçamento da Click no topo do intervalo e um da Vision na base aproximam os dois modelos; o inverso afasta-os.",
+        "Pergunte também se a caução, se existir, e a forma de pagamento são iguais para os dois modelos. Num mês, uma diferença nessas condições pode pesar tanto como a diferença na tarifa. A [tabela de preços](/precos/) completa mostra as referências de todos os modelos da loja."
+      ]
+    },
+    {
+      "h2": "O que se recebe com a Vision",
+      "body": [
+        "A Vision é uma scooter urbana que a Honda produz e vende no Vietname há muitos anos e que continua no catálogo da marca. A geração atual tem um motor de cerca de 110 cm³, com injeção eletrónica; segundo os dados divulgados para a versão de 2026, rende 6,59 kW às 7.500 rotações por minuto. É uma potência modesta, pensada para a cidade.",
+        "Ao longo de um mês, contam sobretudo estes pontos:",
+        {
+          "ul": [
+            "**Posição baixa e pouco peso**: chega-se bem com os pés ao chão, o que alivia as paragens de todos os dias.",
+            "**Consumo anunciado de 1,82 litros aos 100 km** na versão atual, em condições de teste; no trânsito real, conte com mais.",
+            "**Painel com ecrã** na geração mais recente, com o nível de combustível e a distância percorrida, útil para planear os abastecimentos do mês.",
+            "**Chave inteligente** nas versões mais equipadas e, nas mais recentes, um porta-objetos frontal com tomada USB-C.",
+            "**Uma das scooters mais comuns no Vietname**, o que facilita encontrar ajuda para um furo ou uma avaria simples."
+          ]
+        },
+        {
+          "note": "A Vision que lhe propõem pode ser de outro ano ou de outra versão. Se a chave inteligente ou o painel com ecrã forem importantes para si, pergunte antes de fechar o mês.",
+          "tone": "info",
+          "title": "Nem todas as Vision são iguais"
+        }
+      ]
+    },
+    {
+      "h2": "O que se aceita com a Click",
+      "body": [
+        "A Click foi o primeiro modelo automático da Honda Vietname, lançado em 2006. Segundo a imprensa vietnamita, a marca deixou de a vender no país em 2011, e as gerações seguintes, fabricadas na Tailândia, chegaram ao mercado através de importadores independentes. Por isso, «Honda Click» pode designar motas bastante diferentes:",
+        {
+          "table": {
+            "caption": "Gerações da Honda Click que pode encontrar em Hanói",
+            "head": [
+              "Geração",
+              "Motor",
+              "O que significa num mês de aluguer"
+            ],
+            "rows": [
+              [
+                "Produzida no Vietname (2006–2011)",
+                "Cerca de 108 cm³",
+                "Unidade com muitos anos: pneus, travões e motor merecem uma verificação atenta"
+              ],
+              [
+                "Click 125i (Tailândia, desde 2012)",
+                "125 cm³",
+                "Mais cilindrada do que a Vision, ainda dentro da categoria A1"
+              ],
+              [
+                "Click 160 (Tailândia)",
+                "Cerca de 157 cm³",
+                "Exige carta de categoria A no Vietname"
+              ]
+            ]
+          }
+        },
+        "Com a referência mensal da Click vêm também limites que se notam mais num mês do que num dia. O espaço debaixo do assento varia com a geração, a margem de potência fica curta com passageiro e não deve contar com ABS sem que a loja o confirme.",
+        "A seu favor, a Click é compacta: vira em pouco espaço nos becos, entra e sai com facilidade dos parques de motas cheios e cansa pouco no trânsito lento. São vantagens pequenas, mas repetem-se todos os dias do mês."
+      ]
+    },
+    {
+      "h2": "Potência e conforto: a diferença nem sempre vai no mesmo sentido",
+      "body": [
+        "É tentador associar a referência mensal da Vision a mais potência, mas com estas duas scooters a relação não é direta. A Vision atual tem cerca de 110 cm³; uma Click 125i tem mais cilindrada e uma Click 160 bastante mais, e só a Click antiga, produzida no Vietname, fica ao mesmo nível. Em Hanói, de resto, a potência raramente é o que limita: no pára-arranca, contam mais a suavidade do acelerador e a atenção ao trânsito.",
+        "No conforto, pesam outros fatores, que dependem do seu mês:",
+        {
+          "ul": [
+            "**Sozinho e na cidade**: as duas servem. A Click é mais ágil em ruas estreitas; a Vision é baixa e previsível.",
+            "**A dois, com frequência**: nenhuma é a opção mais folgada. A Honda Air Blade, maior e mais potente, custa ao mês {{cmp.airblade.vision.month}} a Vision ({{price.airblade.month}}); confirme se a unidade é de 125 ou de 160 cm³, como explica o guia [Air Blade 125 ou 160](/tipos-de-motas/honda-air-blade-125-ou-160/).",
+            "**Pontes e rampas compridas todos os dias**: com qualquer das duas, mantenha-se nas faixas da direita e a um ritmo regular; se o trajeto for longo e diário, pondere a Air Blade."
+          ]
+        },
+        "Se a Click não estiver livre nas suas datas, a Yamaha Mio é a alternativa mais próxima: também automática e compacta, custa ao mês {{cmp.mio.click.month}} a Click. A página das [scooters automáticas](/tipos-de-motas/scooters/) resume as quatro scooters da loja."
+      ]
+    },
+    {
+      "h2": "Num mês, a unidade conta mais do que o modelo",
+      "body": [
+        "Durante quatro semanas, a mota acumula quilómetros, chuva e noites num parque. Uma unidade bem cuidada de qualquer dos dois modelos dá menos trabalho do que uma unidade cansada do modelo que preferia. Antes de escolher entre Vision e Click, peça informação sobre as motas concretas:",
+        {
+          "table": {
+            "caption": "Perguntas sobre a unidade e porque contam num aluguer de um mês",
+            "head": [
+              "Pergunte",
+              "Porque conta num mês"
+            ],
+            "rows": [
+              [
+                "Ano de fabrico e cilindrada que consta do registo",
+                "Identifica a geração da Click e a categoria de carta exigida"
+              ],
+              [
+                "Data da última mudança de óleo",
+                "Com uso diário, a próxima pode calhar a meio do aluguer"
+              ],
+              [
+                "Estado dos pneus e dos travões",
+                "São as peças que mais se gastam num mês de trajetos"
+              ],
+              [
+                "Se a unidade tem ABS",
+                "Evita contar, em piso molhado, com um sistema que a mota não tem"
+              ],
+              [
+                "Que alternativa existe se a mota tiver de parar",
+                "Num mês, uma avaria sem substituição custa dias de uso"
+              ]
+            ]
+          }
+        },
+        "No Vietname, a categoria A1 abrange motociclos de duas rodas até 125 cm³ desde 1 de janeiro de 2025; acima disso, é exigida a categoria A. É por isso que a cilindrada do registo importa tanto numa Click. As perguntas comuns a qualquer modelo, sobre caução, pagamento e devolução, estão na lista de [perguntas a fazer antes de alugar](/guia-de-aluguer/perguntas-antes-de-alugar/)."
+      ]
+    },
+    {
+      "h2": "Que escolha faz sentido para o seu mês",
+      "body": [
+        "Com os orçamentos e os dados das unidades à frente, a decisão costuma resolver-se assim:",
+        {
+          "ul": [
+            "**Escolha a Click** se vai andar quase sempre sozinho, em trajetos urbanos, e a unidade proposta tiver o ano, a cilindrada e o estado que procura. Se a sua carta é de categoria A1, confirme que não é uma Click 160.",
+            "**Escolha a Vision** se quer um modelo atual e previsível, com consumo anunciado modesto, e dá valor à posição baixa no pára-arranca de todos os dias.",
+            "**Compare com a Air Blade** se o mês incluir passageiro frequente, pontes ou avenidas largas.",
+            "**Compare com a Mio** se a Click não estiver livre nas suas datas."
+          ]
+        },
+        "Em caso de dúvida, pese o que vai fazer na maior parte dos dias, e não a exceção. Uma saída de fim de semana a dois não justifica, por si só, mudar de modelo para o mês inteiro."
+      ]
+    },
+    {
+      "h2": "Pedir os dois orçamentos sem perder tempo",
+      "body": [
+        {
+          "steps": [
+            {
+              "title": "Uma só mensagem",
+              "text": "Indique as datas de início e de fim e peça o preço do mês para uma Vision e para uma Click."
+            },
+            {
+              "title": "Dados de cada unidade",
+              "text": "Para cada modelo, peça o ano, a cilindrada do registo e o equipamento que lhe interessa, como a chave inteligente."
+            },
+            {
+              "title": "Mesmas condições",
+              "text": "Confirme que a caução, o pagamento e a manutenção seguem as mesmas regras nos dois casos, ou anote as diferenças."
+            },
+            {
+              "title": "Decida e guarde a resposta",
+              "text": "Escolha com os dois valores finais à frente e guarde a confirmação escrita até ao fim do mês."
+            }
+          ]
+        },
+        "Pode pedir os orçamentos pelo telefone ou Zalo {{phone}}. A morada e os restantes dados estão na página de [contactos](/contactos/)."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Qual gasta menos combustível num mês, a Vision ou a Click?",
+      "a": "Para a Vision atual, o consumo anunciado é de 1,82 litros aos 100 km, em condições de teste. Na Click, o valor depende da geração, e este site não publica um número comparável. Na conta do mês, pesam sobretudo os quilómetros que faz: anote-os na primeira semana para estimar o resto."
+    },
+    {
+      "q": "Posso pedir uma Click mais recente em vez de uma unidade antiga?",
+      "a": "Pode perguntar. A tabela da loja indica o modelo e não a geração, por isso peça o ano e a cilindrada de cada unidade disponível. Se a única Click livre for antiga, compare-a com a Vision ou com a Yamaha Mio antes de fechar o mês."
+    },
+    {
+      "q": "Uma Click 160 é boa alternativa à Vision para quem quer mais potência?",
+      "a": "Tem bastante mais cilindrada, cerca de 157 cm³, mas por isso exige carta de categoria A no Vietname: com a categoria A1, não a pode conduzir. Se procura mais motor dentro da A1, pergunte por uma Click 125i ou por uma Air Blade de 125 cm³."
+    }
+  ],
+  "sources": [
+    "tabela-precos-proprietario",
+    {
+      "title": "Bảng giá xe Honda Vision mới nhất tháng 9/2026",
+      "publisher": "CafeF",
+      "url": "https://cafef.vn/bang-gia-xe-honda-vision-moi-nhat-thang-9-2026-188260909071440813.chn",
+      "accessed": "2026-10-12",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Honda Vision thế hệ mới được ra mắt tại Việt Nam, giá từ 30 triệu đồng",
+      "publisher": "Doanh Nhân — Báo Pháp luật Việt Nam",
+      "url": "https://doanhnhan.baophapluat.vn/honda-vision-the-he-moi-duoc-ra-mat-tai-viet-nam-gia-tu-30-trieu-dong-35960.html",
+      "accessed": "2026-10-12",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Página do modelo Honda Vision no site oficial da Honda Vietname",
+      "publisher": "Honda Việt Nam",
+      "url": "https://www.honda.com.vn/xe-may/san-pham/vision",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "Comunicado de imprensa da Honda sobre a expansão da produção de motas no Vietname, com a Click como primeiro modelo automático da Honda Vietname (29 de junho de 2010)",
+      "publisher": "Honda Motor Co., Ltd.",
+      "url": "https://global.honda/en/newsroom/news/2010/c100629aeng.html",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "en"
+    },
+    {
+      "title": "A.P. Honda Co., Ltd. to Release New Click 125i (125-cc scooter) in Thailand",
+      "publisher": "Honda Motor Co., Ltd.",
+      "url": "https://global.honda/en/newsroom/worldnews/2012/2120110New-Click-125i-Thailand.html",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "en"
+    },
+    {
+      "title": "Notícia sobre o regresso da Honda Click ao Vietname por importação não oficial e o fim da venda do modelo no país em 2011 (28 de junho de 2018)",
+      "publisher": "VTC News",
+      "url": "https://vtcnews.vn/honda-click-2018-quay-lai-viet-nam-theo-duong-khong-chinh-hang-ar409624.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Honda Click",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Honda_Click",
+      "accessed": "2026-10-13",
+      "type": "reference",
+      "lang": "en"
+    },
+    {
+      "title": "Honda Click 160 2026 ra mắt, giá khoảng 55 triệu đồng",
+      "publisher": "Thương hiệu và Công luận",
+      "url": "https://thuonghieucongluan.com.vn/honda-click-160-2026-ra-mat-gia-tu-55-trieu-dong-a329531.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    "chotot-air-blade-125-160",
+    "lei-36-2024-a1",
+    "lawnet-categorias-2025"
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "PUBLISHED",
+  "date_published": "2026-10-13",
+  "date_modified": "2026-10-13",
+  "editorial": {
+    "qa_score": 100,
+    "qa_warnings": [],
+    "words": 1740,
+    "publish_mode": "review",
+    "approved_at": "2026-10-13",
+    "revisions": []
+  }
+}

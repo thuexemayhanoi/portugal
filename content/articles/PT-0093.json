@@ -1,0 +1,277 @@
+{
+  "contract_version": 1,
+  "id": "PT-0093",
+  "slug": "recibos-e-comprovativos",
+  "title": "Recibo do aluguer de mota: que comprovativos pedir e guardar",
+  "description": "Que recibos pedir num aluguer de mota em Hanói — pagamento, caução, prolongamentos e reparações — e como organizá-los no telemóvel até ao fim.",
+  "h1": "Recibos e comprovativos de uma mota alugada: o que pedir e como arquivar",
+  "summary": "Num aluguer de mota, peça um recibo sempre que entrega dinheiro: o pagamento do aluguer, a caução (se existir), cada prolongamento e qualquer reparação combinada com a loja. Fotografe cada papel no momento, junte tudo numa pasta no telemóvel com cópia na nuvem e guarde-a até a caução ser devolvida e as contas fechadas.",
+  "key_points": [
+    "Cada pagamento ou entrega de dinheiro deve ter o seu comprovativo: aluguer, caução, prolongamento, reparação.",
+    "Um bom recibo indica a data, o valor, a moeda, o período coberto e a mota.",
+    "Uma transferência deixa rasto no banco, mas guarde também a captura de ecrã da confirmação.",
+    "Fotografe cada papel no momento e reúna tudo numa pasta própria, com cópia fora do telemóvel.",
+    "Mantenha os comprovativos até a caução ser devolvida e não haver valores pendentes."
+  ],
+  "intro": [
+    "Este site não faz reservas nem recebe pagamentos: tudo o que paga num aluguer é acertado diretamente com a loja, e os comprovativos são os que pedir e guardar. Ao longo de um aluguer, sobretudo de vários dias, juntam-se mais papéis do que parece — o recibo do primeiro pagamento, o da caução, o de uma semana extra, o talão de uma oficina de rua.",
+    "Este guia organiza esses comprovativos por fase do aluguer, explica o que cada um deve mostrar e propõe uma rotina simples para os arquivar no telemóvel. O objetivo é tê-los à mão quando fizerem falta: no balcão da loja, no dia da devolução ou já em casa, ao conferir as contas da viagem."
+  ],
+  "sections": [
+    {
+      "h2": "Os comprovativos de um aluguer, fase a fase",
+      "body": [
+        "Pense no aluguer como uma sequência de acordos e de pagamentos. Cada um deve deixar um registo que possa mostrar mais tarde:",
+        {
+          "table": {
+            "caption": "Comprovativos a pedir em cada fase do aluguer",
+            "head": [
+              "Fase",
+              "Comprovativo",
+              "O que deve mostrar"
+            ],
+            "rows": [
+              [
+                "Antes de ir à loja",
+                "Confirmação escrita das condições",
+                "Modelo, datas, preço total e caução, se houver"
+              ],
+              [
+                "Levantamento",
+                "Recibo do pagamento do aluguer",
+                "Valor pago, período coberto e mota"
+              ],
+              [
+                "Levantamento",
+                "Comprovativo da caução",
+                "Montante, moeda e condições de devolução"
+              ],
+              [
+                "Levantamento",
+                "Acordo de aluguer e fotografias da mota",
+                "Estado da mota, nível de combustível e datas"
+              ],
+              [
+                "Durante o aluguer",
+                "Recibo de cada prolongamento",
+                "Dias acrescentados, valor e nova data de devolução"
+              ],
+              [
+                "Durante o aluguer",
+                "Recibo de reparações combinadas",
+                "O que foi feito, onde, quando e quanto custou"
+              ],
+              [
+                "Devolução",
+                "Confirmação do fecho do aluguer",
+                "Data de entrega, acertos feitos e caução devolvida"
+              ]
+            ]
+          }
+        },
+        "Nem todas as linhas se aplicam a todos os alugueres. Num dia de mota, podem bastar o recibo e as fotografias; num mês, a lista completa faz sentido. O essencial é que nenhum pagamento fique sem registo."
+      ]
+    },
+    {
+      "h2": "O recibo do pagamento do aluguer",
+      "body": [
+        "É o comprovativo mais básico e, talvez por isso, o mais fácil de esquecer na pressa de arrancar. Peça-o no momento em que paga, seja no levantamento ou na devolução. Confirme que inclui:",
+        {
+          "checklist": [
+            "a data do pagamento;",
+            "o valor pago e a moeda, em algarismos;",
+            "o período coberto, com data e hora de início e de fim;",
+            "o modelo e a matrícula da mota;",
+            "o nome da loja e de quem recebeu o pagamento;",
+            "a forma de pagamento: numerário, transferência ou outra."
+          ]
+        },
+        "Compare o valor com o que lhe foi confirmado por escrito e com os [preços de referência](/precos/) do modelo, verificados a {{pricing.verifiedAt}}. Se houver diferença — por exemplo, um acessório extra que combinou —, peça que o recibo a indique, com o motivo."
+      ]
+    },
+    {
+      "h2": "A caução merece um comprovativo próprio",
+      "body": [
+        "A caução não é o preço do aluguer e não deve aparecer misturada no mesmo valor do recibo. Se houver caução no seu caso, peça um comprovativo separado ou, pelo menos, uma linha própria no acordo, com o montante e a moeda.",
+        "Se a caução for entregue em numerário, esse papel é a única prova do que entregou. Se a garantia for um documento, o comprovativo deve identificar qual e em que estado ficou na loja. As condições de cada caso são definidas pela loja; o guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/) resume as perguntas a fazer antes de fechar o aluguer."
+      ]
+    },
+    {
+      "h2": "Prolongamentos e alterações a meio do aluguer",
+      "body": [
+        "Os prolongamentos são o ponto em que os comprovativos mais se perdem. Combinam-se por mensagem, pagam-se ao passar pela loja e raramente dão origem a papel novo. No fim, a dúvida é quase sempre a mesma: aquele dia extra foi pago ou não?",
+        {
+          "steps": [
+            {
+              "title": "Peça a alteração por escrito.",
+              "text": "Envie à loja a nova data e hora de devolução e espere pela confirmação do valor."
+            },
+            {
+              "title": "Pague e peça recibo.",
+              "text": "O recibo deve indicar os dias acrescentados, o valor e a nova data de fim do aluguer."
+            },
+            {
+              "title": "Atualize a pasta.",
+              "text": "Fotografe o recibo e junte-o aos do primeiro pagamento, com um nome que indique a data."
+            }
+          ]
+        },
+        "O mesmo vale para uma troca de mota a meio do aluguer: a matrícula muda, e o registo deve mostrar que unidade tem consigo a partir dessa data. Se alugou à semana, o guia do [aluguer semanal](/precos/aluguer-semanal-de-mota/) mostra o que combinar quando os planos mudam."
+      ]
+    },
+    {
+      "h2": "Reparações, furos e outras despesas",
+      "body": [
+        "Se tiver um furo ou uma avaria e a loja lhe indicar uma oficina, o custo dessa reparação passa a fazer parte das contas do aluguer. Numa oficina de rua, o comprovativo pode ser apenas um papel escrito à mão, por isso reforce-o com fotografias e mensagens:",
+        {
+          "checklist": [
+            "a mensagem em que a loja autoriza a reparação ou indica a oficina;",
+            "uma fotografia do problema e do local onde aconteceu;",
+            "o recibo ou talão da oficina, com o valor;",
+            "uma fotografia da peça trocada, se houver;",
+            "a mensagem em que envia tudo isto à loja, no próprio dia."
+          ]
+        },
+        "Quem paga cada reparação depende do acordo, e convém combiná-lo antes de sair da loja. O procedimento em caso de avaria faz parte das [perguntas a fazer antes de alugar](/guia-de-aluguer/perguntas-antes-de-alugar/); aqui, o que importa é que cada despesa tenha um papel e uma fotografia que a comprovem."
+      ]
+    },
+    {
+      "h2": "Transferência, cartão ou numerário: que prova fica",
+      "body": [
+        "Pergunte à loja que formas de pagamento aceita antes de ir. Cada uma deixa um tipo diferente de prova, e nenhuma dispensa a confirmação da loja:",
+        {
+          "ul": [
+            "**Transferência**: faça uma captura de ecrã da confirmação, com a data, a hora, o valor e o nome do destinatário, e envie-a à loja na mesma conversa.",
+            "**Cartão**: guarde o talão do terminal e confira no extrato, já em casa, se o valor e a moeda coincidem.",
+            "**Numerário**: o recibo em papel é a única prova; fotografe-o logo à saída."
+          ]
+        },
+        "Um movimento bancário mostra que saiu dinheiro da sua conta, mas nem sempre mostra a que se refere. Peça à loja que confirme por escrito que recebeu o pagamento: é essa mensagem que liga o movimento ao seu aluguer."
+      ]
+    },
+    {
+      "h2": "Arquivar os papéis no telemóvel",
+      "body": [
+        "Não precisa de nenhuma aplicação especial. Basta repetir a mesma rotina sempre que receber um papel:",
+        {
+          "steps": [
+            {
+              "title": "Crie uma pasta só para o aluguer.",
+              "text": "Um álbum na galeria ou uma pasta na nuvem com um nome claro, por exemplo «Mota Hanói» seguido das datas."
+            },
+            {
+              "title": "Fotografe o papel inteiro.",
+              "text": "Com luz natural e sem reflexos, de forma que o valor, a data e a assinatura fiquem legíveis. Se a aplicação de notas tiver a função de digitalizar documentos, use-a."
+            },
+            {
+              "title": "Dê nomes que se percebam.",
+              "text": "Data e tipo de documento, como «2026-10-14 recibo dia extra». Assim encontra cada um em segundos."
+            },
+            {
+              "title": "Faça uma cópia fora do telemóvel.",
+              "text": "Sincronize a pasta com a nuvem ou envie as imagens para o seu e-mail. Se perder o telemóvel, não perde as provas."
+            },
+            {
+              "title": "Mantenha a conversa com a loja.",
+              "text": "As mensagens trocadas no Zalo mostram o que foi combinado. Não as apague enquanto o aluguer não estiver fechado."
+            }
+          ]
+        },
+        "Os originais em papel ficam todos juntos numa bolsa de plástico, no alojamento. É o sítio mais fácil de os encontrar no dia da devolução."
+      ]
+    },
+    {
+      "h2": "Palavras úteis num recibo em vietnamita",
+      "body": [
+        "É provável que os recibos sejam escritos em vietnamita. Algumas palavras ajudam a perceber o essencial antes de os guardar:",
+        {
+          "table": {
+            "caption": "Palavras frequentes em recibos de aluguer de mota",
+            "head": [
+              "Em vietnamita",
+              "Significado"
+            ],
+            "rows": [
+              [
+                "biên nhận",
+                "recibo, comprovativo de entrega"
+              ],
+              [
+                "hóa đơn",
+                "fatura"
+              ],
+              [
+                "tiền thuê xe",
+                "valor do aluguer do veículo"
+              ],
+              [
+                "tiền cọc, đặt cọc",
+                "caução"
+              ],
+              [
+                "đã thanh toán",
+                "pago"
+              ],
+              [
+                "ngày thuê, ngày trả",
+                "data de aluguer, data de devolução"
+              ],
+              [
+                "biển số",
+                "matrícula"
+              ]
+            ]
+          }
+        },
+        "Se tiver dúvidas sobre uma linha, peça que a loja a explique ou use a tradução pela câmara do telemóvel. Pode também pedir que escrevam os valores em algarismos bem legíveis, que se percebem em qualquer língua."
+      ]
+    },
+    {
+      "h2": "Até quando guardar os comprovativos",
+      "body": [
+        "Guarde tudo, pelo menos, até a caução ser devolvida e a loja confirmar que não há valores pendentes. Depois disso, vale a pena manter as cópias digitais durante mais algum tempo:",
+        {
+          "ul": [
+            "até conferir o extrato do cartão ou da conta, se pagou por esses meios;",
+            "até apresentar despesas a uma seguradora de viagem ou à sua empresa, se for o caso — pergunte-lhes antes que documentos aceitam;",
+            "até ter a certeza de que a loja não precisa de lhe pedir mais nada sobre o aluguer."
+          ]
+        },
+        "As cópias digitais ocupam pouco espaço e podem poupar uma conversa difícil. Se tiver dúvidas sobre um valor depois de voltar para casa, contacte a loja pelos dados da página de [contactos](/contactos/), com a fotografia do recibo em causa."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Uma mensagem no Zalo serve de comprovativo?",
+      "a": "Serve como registo do que foi combinado e, se a loja confirmar nela que recebeu um valor, também do pagamento. Ainda assim, quando entrega dinheiro em mão, peça um recibo: junta numa só folha o valor, a data e a mota."
+    },
+    {
+      "q": "E se a loja não costumar passar recibos?",
+      "a": "Peça, no mínimo, uma confirmação escrita por mensagem com o valor, a data e a mota. Se não for possível deixar nenhum registo de um pagamento ou de uma caução, pondere se quer avançar com o aluguer."
+    },
+    {
+      "q": "Preciso de guardar os talões do combustível?",
+      "a": "Só se o acordo previr que a loja acerte esse valor consigo. Em regra, o que deve ter comprovativo são as despesas que podem vir a ser acertadas com a loja, como um furo ou uma reparação combinada. Na dúvida, fotografe o talão: não custa nada."
+    }
+  ],
+  "sources": [
+    "tabela-precos-proprietario"
+  ],
+  "legal_note": false,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "PUBLISHED",
+  "date_published": "2026-10-13",
+  "date_modified": "2026-10-13",
+  "editorial": {
+    "qa_score": 100,
+    "qa_warnings": [],
+    "words": 1593,
+    "publish_mode": "review",
+    "approved_at": "2026-10-13",
+    "revisions": []
+  }
+}

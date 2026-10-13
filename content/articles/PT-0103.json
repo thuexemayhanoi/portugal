@@ -1,0 +1,229 @@
+{
+  "contract_version": 1,
+  "id": "PT-0103",
+  "slug": "combustivel-no-aluguer",
+  "title": "Combustível no aluguer de mota: nível na entrega e na devolução",
+  "description": "Com quanto combustível recebe a mota alugada em Hanói, como registar o nível no painel, quando abastecer e como a devolver sem acertos no fim do aluguer.",
+  "h1": "Gasolina na mota alugada: como combinar o nível e devolvê-la sem surpresas",
+  "summary": "O combustível fica fora do preço de referência e combina-se à parte: pergunte à loja com que nível recebe a mota e com que nível a deve devolver, fotografe o indicador com a ignição ligada quando a recebe e abasteça perto do fim, já no caminho de regresso. Saiba também, antes de sair, como se acerta uma diferença no fim.",
+  "key_points": [
+    "A tabela de preços cobre o aluguer do veículo; a gasolina fica fora da tarifa e combina-se à parte.",
+    "«O mesmo nível» e «depósito cheio» são acordos diferentes: confirme qual se aplica e deixe-o por escrito.",
+    "Fotografe o painel com a ignição ligada, ao receber e ao devolver, com a quilometragem na mesma imagem.",
+    "Abasteça no caminho de regresso, numa bomba perto da loja, e fotografe o visor da bomba.",
+    "Pergunte antes de alugar como se acerta a diferença se a mota voltar com menos combustível."
+  ],
+  "intro": [
+    "Numa mota alugada, o combustível é uma parcela pequena do orçamento, mas é dos temas que mais dúvidas levanta no momento da devolução. A razão é simples: os indicadores das motas são aproximados, e expressões como «meio depósito» ou «o mesmo nível» podem querer dizer coisas diferentes para quem entrega e para quem devolve.",
+    "Este guia trata só do combustível: como combinar o nível com a loja, como o registar quando recebe a mota, como abastecer durante o aluguer e como devolver a mota para que a conta feche sem discussões. No fim, há uma nota para quem aluga uma mota elétrica, em que a questão passa a ser a carga da bateria."
+  ],
+  "sections": [
+    {
+      "h2": "Combustível e preço de referência",
+      "body": [
+        "A tabela de [preços de referência](/precos/) indica o valor do aluguer de cada modelo por dia, semana ou mês, e só isso. O combustível fica fora da tarifa, tal como a caução, a entrega ou os acessórios. Não se trata de um custo escondido: é um ponto que se combina à parte, e convém saber como antes de sair com a mota.",
+        "Há várias formas de combinar o combustível num aluguer, e não deve presumir qual se aplica ao seu. As mais simples de explicar são estas:",
+        {
+          "table": {
+            "caption": "Formas de combinar o combustível num aluguer de mota",
+            "head": [
+              "Acordo",
+              "Como funciona",
+              "Ponto de atenção"
+            ],
+            "rows": [
+              [
+                "O mesmo nível",
+                "Devolve a mota com o nível com que a recebeu.",
+                "Exige uma fotografia clara do indicador no início."
+              ],
+              [
+                "Depósito cheio",
+                "Recebe a mota cheia e devolve-a cheia.",
+                "Abasteça mesmo antes de a devolver, para o nível não descer."
+              ],
+              [
+                "Nível mínimo indicado",
+                "Recebe com pouco combustível e devolve com, pelo menos, o mesmo.",
+                "Abasteça logo no início, antes de precisar de procurar uma bomba à pressa."
+              ]
+            ]
+          }
+        },
+        "Seja qual for o acordo, o que conta é o que ficar escrito na conversa com a loja. Uma frase chega: «recebo com três barras e devolvo com três barras», ou «recebo cheio e devolvo cheio». Se a loja usar outra forma de contar, peça que a explique na mesma mensagem."
+      ]
+    },
+    {
+      "h2": "Registar o nível com que recebe a mota",
+      "body": [
+        "O momento da entrega é o único em que pode registar o ponto de partida. Faça-o antes de arrancar, com a mota parada:",
+        {
+          "steps": [
+            {
+              "title": "Ligue a ignição",
+              "text": "Na maior parte das motas, o indicador de combustível só se acende ou se mexe com a ignição ligada. Sem isso, a fotografia não mostra nada de útil."
+            },
+            {
+              "title": "Espere uns segundos",
+              "text": "Nos painéis digitais, as barras podem demorar um momento a aparecer; nos de ponteiro, este sobe devagar. Fotografe só quando o valor estabilizar."
+            },
+            {
+              "title": "Fotografe o painel de frente",
+              "text": "Num ângulo que mostre o indicador de combustível e, na mesma imagem, o conta-quilómetros."
+            },
+            {
+              "title": "Diga o que vê",
+              "text": "Confirme a leitura com quem lhe entrega a mota — «três barras», «um quarto» — e escreva-a na conversa com a loja, junto da fotografia."
+            }
+          ]
+        },
+        "A quilometragem na mesma imagem é útil por duas razões: prova que a fotografia foi tirada no início e ajuda a perceber quanto conduziu, se a conta do combustível parecer estranha no fim.",
+        {
+          "note": "Se o indicador já estiver na reserva quando recebe a mota, diga-o logo e pergunte onde fica a bomba de gasolina mais próxima. Não comece um percurso longo sem abastecer primeiro.",
+          "tone": "warn",
+          "title": "Luz de reserva acesa à saída"
+        },
+        "Esta verificação é uma das várias que se fazem na entrega. As perguntas sobre caução, documentos e capacetes estão reunidas nas [perguntas a fazer antes de alugar](/guia-de-aluguer/perguntas-antes-de-alugar/)."
+      ]
+    },
+    {
+      "h2": "Ler o indicador sem enganos",
+      "body": [
+        "Os indicadores de combustível das motas pequenas dão uma ideia, não uma medida. Alguns cuidados evitam conclusões erradas:",
+        {
+          "ul": [
+            "**A posição da mota conta.** No descanso lateral, a mota inclina-se e o combustível desloca-se no depósito. Para comparar a leitura do início com a do fim, use sempre a mesma posição — de preferência o descanso central, em piso plano.",
+            "**As barras não medem litros exatos.** Uma barra a menos pode corresponder a quantidades diferentes conforme o modelo e a zona do depósito. Não tente fazer contas a partir do número de barras.",
+            "**Cada mota tem o seu painel.** Ponteiro nas motas mais antigas, barras num ecrã nas mais recentes. Peça a quem entrega a mota que lhe mostre onde está o indicador e como se vê a reserva."
+          ]
+        },
+        "Por isso, um acordo de depósito cheio é mais fácil de verificar do que um acordo pelo mesmo nível: um depósito cheio confirma-se na bomba, enquanto duas leituras de barras podem deixar dúvidas. Se o acordo for pelo mesmo nível, a fotografia do início é a sua referência e vale a pena tirá-la com cuidado."
+      ]
+    },
+    {
+      "h2": "Abastecer durante o aluguer",
+      "body": [
+        "Em vietnamita, a bomba de gasolina é a «cây xăng» ou o «trạm xăng». Em muitas bombas é um funcionário quem abastece: pode pedir para encher o depósito («đổ đầy») ou indicar o valor em dong que quer pôr. Desligue o motor e saia da mota antes de abrir o depósito.",
+        "Peça na entrega que lhe mostrem onde fica a tampa do depósito, porque muda de modelo para modelo: nalgumas scooters fica debaixo do assento, noutras à frente, junto aos pés. E pergunte que gasolina deve pôr. Nas bombas há normalmente mais do que um tipo, identificados no próprio equipamento; se tiver dúvidas no momento, mostre ao funcionário a indicação que a loja lhe deu por escrito.",
+        "Algumas regras simples evitam ficar sem combustível:",
+        {
+          "ul": [
+            "Não espere pela luz de reserva para procurar uma bomba, sobretudo antes de passeios fora do centro ou de regressos à noite.",
+            "Antes de um percurso longo, abasteça à saída da cidade, e não a meio do caminho.",
+            "Leve algum dinheiro em notas pequenas para pagar a gasolina.",
+            "Se o indicador entrar na reserva longe de uma bomba, conduza com suavidade, sem acelerações bruscas, até abastecer."
+          ]
+        },
+        "Num dia de cidade, uma scooter pequena gasta pouco. O guia da [Honda Vision](/tipos-de-motas/honda-vision-em-hanoi/) dá uma ideia do consumo de uma scooter urbana. Para passeios mais longos, pergunte à loja quantos quilómetros a unidade que vai receber costuma fazer com um depósito."
+      ]
+    },
+    {
+      "h2": "Se ficar sem gasolina a meio do caminho",
+      "body": [
+        "Com indicadores pouco precisos, pode acontecer. Se a mota parar por falta de combustível:",
+        {
+          "ol": [
+            "Encoste em segurança, fora da faixa de rodagem, e desligue a ignição.",
+            "Procure no mapa do telemóvel a bomba mais próxima e veja se consegue lá chegar a pé, a empurrar a mota com cuidado.",
+            "Se a distância for grande ou o local não for seguro, contacte a loja pelo {{phone}}, explique onde está e envie a localização pelo Zalo.",
+            "Evite gasolina vendida avulso, fora de uma bomba: não sabe o que está a pôr no depósito, e uma avaria custa muito mais do que o combustível."
+          ]
+        },
+        "Ficar sem gasolina é diferente de uma avaria. Pergunte na entrega como a loja prefere que proceda num caso destes, para saber de antemão a quem ligar primeiro."
+      ]
+    },
+    {
+      "h2": "Devolver a mota com o nível combinado",
+      "body": [
+        "A devolução é o momento em que o acordo de combustível é posto à prova. Para que a conta feche sem dúvidas:",
+        {
+          "checklist": [
+            "Na véspera, procure no mapa uma bomba de gasolina perto da loja, para não andar à procura no último dia.",
+            "Abasteça na última parte do regresso, para que o nível não desça entre a bomba e a loja.",
+            "Se o acordo for pelo mesmo nível, compare o painel com a fotografia do início antes de sair da bomba e, se faltar, ponha mais um pouco.",
+            "Guarde o recibo do abastecimento, se lho derem, ou fotografe o visor da bomba com o valor e a hora.",
+            "À chegada, fotografe de novo o painel com a ignição ligada, na presença de quem recebe a mota.",
+            "Se houver diferença, fale dela na hora, com as duas fotografias à vista."
+          ]
+        },
+        "Conte com tempo. A loja está aberta {{hours}}, e o regresso a {{area}} ao fim do dia apanha o trânsito mais denso. Deixar o abastecimento para o último minuto, já com pressa de chegar antes das {{closes}}, é meio caminho para devolver a mota com menos do que o combinado. Num aluguer curto, o guia do [aluguer de mota por um dia](/precos/aluguer-de-mota-por-um-dia/) ajuda a planear a hora de regresso."
+      ]
+    },
+    {
+      "h2": "Se a mota voltar com menos combustível",
+      "body": [
+        "Pode acontecer por pressa, por um indicador traiçoeiro ou porque os planos mudaram. O que se segue depende do que a loja tiver combinado consigo, por isso pergunte antes de alugar:",
+        {
+          "ul": [
+            "se a diferença é acertada em dinheiro e como é calculado o valor;",
+            "se esse acerto é descontado da caução, caso exista, ou pago à parte;",
+            "se pode simplesmente ir abastecer e voltar, quando há uma bomba perto e tempo para isso."
+          ]
+        },
+        "O combustível é um dos pontos que o guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/) recomenda esclarecer quando pergunta em que situações pode haver descontos na caução. Mais uma razão para ter a resposta por escrito antes de começar.",
+        "E se devolver com mais do que o combinado? Não parta do princípio de que a diferença é compensada. Se o acordo for pelo mesmo nível, não vale a pena encher o depósito por precaução: ponha só o necessário para chegar à leitura do início."
+      ]
+    },
+    {
+      "h2": "Motas elétricas: a carga em vez da gasolina",
+      "body": [
+        "Com uma mota elétrica, o raciocínio é o mesmo, aplicado à bateria. Pergunte com que carga recebe a mota e com que carga a deve devolver, e fotografe o indicador de bateria na entrega e na devolução.",
+        "Pergunte também qual é a autonomia real da unidade, onde a pode carregar e quanto tempo demora uma carga completa. No alojamento, nem sempre há uma tomada junto ao lugar de estacionamento, por isso confirme antes de reservar. Planeie a última carga para a véspera da devolução, e não para a manhã do próprio dia. O guia de [tipos de motas](/tipos-de-motas/) explica as diferenças entre as motas elétricas e as motas a gasolina."
+      ]
+    },
+    {
+      "h2": "Tudo o que perguntar numa só mensagem",
+      "body": [
+        "Junte estas perguntas ao pedido de reserva, com as datas e o modelo, e guarde a resposta:",
+        {
+          "checklist": [
+            "Com que nível de combustível recebo a mota?",
+            "Com que nível a devo devolver?",
+            "Que gasolina devo pôr?",
+            "Como se acerta uma diferença no fim, e se entra na caução?",
+            "Há uma bomba perto da loja que recomende para o último abastecimento?",
+            "Quantos quilómetros, mais ou menos, faz esta unidade com um depósito?"
+          ]
+        },
+        "Pode enviar tudo por telefone ou Zalo, para o {{phone}}. Os restantes dados da loja estão na página de [contactos](/contactos/)."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "A mota alugada vem com o depósito cheio?",
+      "a": "Não assuma que sim. Depende do que a loja combinar consigo para o seu aluguer. Pergunte antes de levantar a mota e, no momento da entrega, fotografe o indicador com a ignição ligada."
+    },
+    {
+      "q": "Quanto custa encher o depósito de uma scooter?",
+      "a": "Depende da capacidade do depósito da unidade e do preço da gasolina nesse dia, que aparece no visor da bomba. Se quiser fazer contas antes, pergunte à loja quantos litros leva o depósito da mota que vai receber."
+    },
+    {
+      "q": "Posso devolver a mota com menos gasolina e pagar a diferença?",
+      "a": "Só se a loja o aceitar. Pergunte antes como se acerta a diferença e, se puder, devolva a mota com o nível combinado: evita cálculos e discussões no fim do aluguer."
+    },
+    {
+      "q": "Num aluguer de um só dia também tenho de abastecer?",
+      "a": "Quase sempre, sim. Mesmo num dia gasta combustível e, conforme o acordo, tem de o repor até ao nível combinado antes de devolver a mota. Planeie esse abastecimento para a parte final do regresso."
+    }
+  ],
+  "sources": [
+    "tabela-precos-proprietario"
+  ],
+  "legal_note": false,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "PUBLISHED",
+  "date_published": "2026-10-13",
+  "date_modified": "2026-10-13",
+  "editorial": {
+    "qa_score": 100,
+    "qa_warnings": [],
+    "words": 1976,
+    "publish_mode": "review",
+    "approved_at": "2026-10-13",
+    "revisions": []
+  }
+}

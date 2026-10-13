@@ -1,0 +1,218 @@
+{
+  "contract_version": 1,
+  "id": "PT-0050",
+  "slug": "mitos-sobre-motas-50cc",
+  "title": "Mitos sobre motas de 50 cc no Vietname: o que é verdade",
+  "description": "Carta, idade, capacete, álcool, autoestradas, preço: as ideias mais repetidas sobre as motas de 50 cc no Vietname, confrontadas com a lei em vigor.",
+  "h1": "Nove ideias feitas sobre as 50 cc no Vietname, verificadas uma a uma",
+  "summary": "Muito do que se ouve sobre as 50 cc no Vietname é meia verdade. É certo que a lei as trata como categoria própria, com idade mínima de 16 anos. Não é certo que dispensem documentos — confirme-os antes de conduzir — e é falso que fiquem fora das regras do capacete, do álcool zero ou da proibição de circular nas autoestradas.",
+  "key_points": [
+    "A lei vietnamita trata os veículos até 50 cm³ como categoria própria, mas daí não se pode concluir que dispensem documentos.",
+    "A idade mínima de 16 anos vale só para esse grupo; as cartas de motociclo A1 e A só são emitidas a partir dos 18.",
+    "Capacete, álcool zero e proibição das autoestradas aplicam-se a uma 50 cc como a qualquer outra mota.",
+    "Uma mota elétrica só fica no grupo das 50 cc até 4 kW e 50 km/h de velocidade de projeto.",
+    "Alugar uma mota e estar habilitado para a conduzir são coisas diferentes, e a polícia fiscaliza estrangeiros."
+  ],
+  "intro": [
+    "Sobre as motas de 50 cc no Vietname circulam muitas certezas: em fóruns de viagem, em conversas de hostel, em textos escritos antes da lei de trânsito que entrou em vigor em 2025. Algumas têm um fundo de verdade, outras estão simplesmente erradas, e quase todas simplificam demasiado.",
+    "Este artigo pega nas nove ideias que mais se repetem e compara cada uma com o que dizem as fontes legais consultadas a 12 de outubro de 2026. As frases entre aspas são os mitos, citados apenas para os corrigir. Para o retrato completo destes veículos — preço, limitações e para quem fazem sentido —, veja o [guia de motas de 50 cc](/tipos-de-motas/motas-50cc/)."
+  ],
+  "sections": [
+    {
+      "h2": "Resumo: as nove ideias e o que é verdade",
+      "body": [
+        {
+          "table": {
+            "caption": "Mitos sobre as 50 cc e o que dizem as fontes (consulta de 12 de outubro de 2026)",
+            "head": [
+              "O que se ouve",
+              "Veredicto",
+              "O que é verdade"
+            ],
+            "rows": [
+              [
+                "«Numa 50 cc não é preciso carta»",
+                "Não confirmado",
+                "A lei trata estes veículos de forma própria, mas os requisitos para visitantes têm de ser confirmados"
+              ],
+              [
+                "«Se a loja aluga, ninguém vai pedir documentos»",
+                "Falso",
+                "Alugar e estar habilitado são coisas diferentes, e a polícia fiscaliza estrangeiros"
+              ],
+              [
+                "«Com 16 anos pode-se conduzir qualquer mota»",
+                "Falso",
+                "16 anos é o mínimo só até 50 cm³; as cartas A1 e A exigem 18 anos"
+              ],
+              [
+                "«Uma mota elétrica pequena conta como 50 cc»",
+                "Depende",
+                "Só até 4 kW e 50 km/h de velocidade de projeto"
+              ],
+              [
+                "«Numa 50 cc o capacete é dispensável»",
+                "Falso",
+                "É obrigatório para quem conduz e para quem vai atrás"
+              ],
+              [
+                "«Uma cerveja não faz mal numa 50 cc»",
+                "Falso",
+                "A lei não admite qualquer concentração de álcool"
+              ],
+              [
+                "«Com uma 50 cc vai-se a todo o lado, até pela autoestrada»",
+                "Falso",
+                "Nenhuma mota pode entrar nas autoestradas"
+              ],
+              [
+                "«Por ser lenta, a 50 cc é a mais segura para principiantes»",
+                "Meia verdade",
+                "A velocidade limitada também é um risco em vias rápidas"
+              ],
+              [
+                "«A 50 cc é sempre a opção mais barata»",
+                "Veja a tabela",
+                "Uma 50 cc custa {{cmp.cc50.wave.day}} uma Honda Wave e {{cmp.cc50.vision.day}} uma Honda Vision"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "h2": "Mitos sobre carta e documentos",
+      "body": [
+        {
+          "h3": "1. «Numa 50 cc não é preciso carta»"
+        },
+        "**Veredicto: não confirmado.** É a ideia mais repetida e a que mais problemas pode causar. Tem um ponto de partida real: a Lei n.º 36/2024/QH15 coloca os veículos até 50 cm³ — ou elétricos até 4 kW, com velocidade de projeto até 50 km/h — numa categoria própria, o «xe gắn máy», separada dos motociclos que exigem carta A1 ou A.",
+        "O problema é o salto que se dá a seguir. Da existência de uma categoria própria não se pode concluir que um visitante estrangeiro possa conduzir uma 50 cc sem documentos. Os requisitos dependem do veículo, da idade e da situação de cada condutor, e a lei pode mudar. Para visitantes, a orientação mais citada por fontes oficiais continua a ser a carta do país de origem acompanhada de uma licença internacional reconhecida no Vietname, que aderiu à Convenção de Viena de 1968.",
+        "Antes de conduzir, confirme os requisitos em fontes oficiais e leia o guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/). Veja também a apólice do seguro de viagem: o Governo da Nova Zelândia, por exemplo, recomenda confirmar se o seguro cobre acidentes de mota antes de conduzir no Vietname.",
+        {
+          "h3": "2. «Se a loja aluga, ninguém vai pedir documentos»"
+        },
+        "**Veredicto: falso.** Há aqui dois erros. O primeiro é confundir aluguer com habilitação: a loja define o que pede para entregar a mota, a lei define o que é preciso para a conduzir. Uma coisa não resolve a outra, e quem conduz sem a carta adequada arrisca uma coima e um seguro que recusa pagar o acidente.",
+        "O segundo erro é achar que a polícia não manda parar turistas. Em maio de 2026, a imprensa vietnamita noticiou a fiscalização de estrangeiros que conduziam motas sem licença internacional na província de Khánh Hòa. Leve sempre consigo os seus documentos e os da mota, explicados no guia dos [documentos da mota alugada](/guia-de-aluguer/documentos-da-mota-alugada/)."
+      ]
+    },
+    {
+      "h2": "Mitos sobre idade e tipo de veículo",
+      "body": [
+        {
+          "h3": "3. «Com 16 anos pode-se conduzir qualquer mota»"
+        },
+        "**Veredicto: falso.** A idade mínima de 16 anos vale apenas para os veículos até 50 cm³. As cartas de motociclo — a A1, até 125 cm³ ou 11 kW, e a A, acima disso — só são emitidas a partir dos 18 anos.",
+        "Na prática, isto deixa de fora as scooters mais comuns em Hanói: a [Honda Vision](/tipos-de-motas/honda-vision-em-hanoi/), com cerca de 110 cm³, já é um motociclo da categoria A1. E, mesmo numa 50 cc, ter 16 anos é apenas um dos requisitos: a questão dos documentos continua em aberto.",
+        {
+          "h3": "4. «Uma mota elétrica pequena conta como 50 cc»"
+        },
+        "**Veredicto: depende.** A lei põe no mesmo grupo das 50 cc as motas elétricas até 4 kW cuja velocidade de projeto não passa de 50 km/h. Acima de 4 kW, uma elétrica é um motociclo: até 11 kW, entra na categoria A1; acima disso, na A.",
+        "O tamanho e o aspeto não dizem nada sobre a potência. Se está a pensar numa mota elétrica, peça à loja a potência e a velocidade de projeto da unidade concreta antes de concluir em que grupo está."
+      ]
+    },
+    {
+      "h2": "Mitos sobre as regras de trânsito",
+      "body": [
+        {
+          "h3": "5. «Numa 50 cc o capacete é dispensável»"
+        },
+        "**Veredicto: falso.** O capacete é obrigatório para quem conduz e para o passageiro, também numa 50 cc. O Decreto 168/2024/NĐ-CP, em vigor desde 1 de janeiro de 2025, fixa em 400 mil a 600 mil VND a coima por não o usar, e a obrigação abrange até as bicicletas elétricas.",
+        "Mais do que a coima, conta a proteção. Andar devagar não torna uma queda inofensiva, sobretudo no meio de trânsito denso. Escolha um capacete do seu tamanho e aperte sempre a fivela, mesmo para três quarteirões.",
+        {
+          "h3": "6. «Uma cerveja não faz mal numa 50 cc»"
+        },
+        "**Veredicto: falso.** Desde 1 de janeiro de 2025, a lei vietnamita proíbe conduzir com qualquer concentração de álcool no sangue ou no ar expirado. Não há uma pequena margem tolerada, nem uma regra mais leve para veículos pequenos. Se vai beber, deixe a mota estacionada e regresse de táxi.",
+        {
+          "h3": "7. «Com uma 50 cc vai-se a todo o lado, até pela autoestrada»"
+        },
+        "**Veredicto: falso.** Nenhuma mota pode circular nas autoestradas vietnamitas (cao tốc), seja qual for a cilindrada. E, mesmo por estradas nacionais, uma 50 cc não foi pensada para longas distâncias: a velocidade de projeto é baixa e cada subida se faz sentir.",
+        "Se o plano inclui sair de Hanói, diga-o à loja logo no primeiro contacto e pondere outro veículo ou outro meio de transporte para essa parte da viagem."
+      ]
+    },
+    {
+      "h2": "Mitos sobre segurança e preço",
+      "body": [
+        {
+          "h3": "8. «Por ser lenta, a 50 cc é a mais segura para principiantes»"
+        },
+        "**Veredicto: meia verdade.** Uma 50 cc é leve e pouco potente, o que pode dar confiança a quem circula com calma em ruas tranquilas. Mas a velocidade de projeto, que não passa de 50 km/h, pode ser pouca em vias com trânsito rápido, onde ficar abaixo do ritmo dos outros também é um risco. Com passageiro ou bagagem, a aceleração e a capacidade de subida diminuem ainda mais.",
+        "Para trajetos longos, avenidas rápidas ou viagens a dois, uma scooter de maior cilindrada é normalmente mais segura; a página de [scooters automáticas](/tipos-de-motas/scooters/) compara os modelos. Nenhuma mota, porém, substitui a experiência: se nunca conduziu, o trânsito de Hanói não é o lugar para aprender.",
+        {
+          "h3": "9. «A 50 cc é sempre a opção mais barata»"
+        },
+        "**Veredicto: veja a tabela.** O tamanho do motor não define o preço do aluguer. Na tabela de referência da loja, uma 50 cc custa {{price.cc50.day}} por dia: {{cmp.cc50.wave.day}} uma Honda Wave e {{cmp.cc50.vision.day}} uma Honda Vision. Além disso, as semanas e os meses de uma 50 cc são cotados caso a caso, enquanto outros modelos têm tarifas semanais e mensais publicadas.",
+        {
+          "component": "price-table"
+        },
+        "Para comparar os tipos de veículos, e não só o preço, veja a página de [tipos de motas](/tipos-de-motas/)."
+      ]
+    },
+    {
+      "h2": "Como separar o mito da regra",
+      "body": [
+        "Para avaliar o que lê ou ouve sobre as 50 cc, faça três perguntas antes de acreditar:",
+        {
+          "ol": [
+            "**A informação é anterior a 2025?** A Lei n.º 36/2024/QH15 entrou em vigor a 1 de janeiro de 2025 e mudou as categorias de carta e várias regras. Um texto mais antigo pode estar desatualizado.",
+            "**Tem fonte?** Prefira a legislação, as bases de dados jurídicas vietnamitas, as autoridades e as embaixadas a relatos de fóruns ou de outros viajantes.",
+            "**Fala da lei ou da loja?** O que a lei exige para conduzir e o que uma loja pede para alugar são coisas diferentes; uma frase que as mistura merece desconfiança."
+          ]
+        },
+        "Quando a dúvida for sobre o aluguer — modelo, cilindrada, capacetes, documentos pedidos —, pergunte diretamente à loja através dos [contactos](/contactos/) e guarde a resposta por escrito. A lista de [perguntas a fazer antes de alugar](/guia-de-aluguer/perguntas-antes-de-alugar/) ajuda a não esquecer nada."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Porque é que tanta gente diz que as 50 cc não precisam de carta?",
+      "a": "Porque a lei vietnamita trata os veículos até 50 cm³ como categoria própria, separada dos motociclos das categorias A1 e A, e essa diferença acaba resumida numa frase simples demais. Uma categoria própria não significa ausência de requisitos: como visitante, confirme sempre em fontes oficiais o que se exige antes de conduzir."
+    },
+    {
+      "q": "Estes mitos valem também para as bicicletas elétricas?",
+      "a": "Em parte. Também na bicicleta elétrica o capacete é obrigatório no Vietname, por isso a ideia de que um veículo pequeno não exige capacete é falsa nos dois casos. Para o resto, como a idade e os documentos, pergunte à loja e confirme as regras aplicáveis antes de usar a bicicleta."
+    },
+    {
+      "q": "Uma 50 cc pode levar passageiro?",
+      "a": "A regra geral no Vietname é um passageiro por mota, com capacete para os dois. Numa 50 cc, porém, o peso extra reduz a aceleração e a capacidade de subida, por isso só faz sentido em trajetos curtos e calmos. Para andar a dois com frequência, compare com uma scooter mais potente."
+    }
+  ],
+  "sources": [
+    "luatvietnam-16-anos",
+    "lei-36-2024-a1",
+    "lawnet-categorias-2025",
+    "uncrd-vietname-1968",
+    "mfat-conduzir-vietname",
+    "tuoitre-lic-fiscalizacao",
+    {
+      "title": "Honda Vision thế hệ mới được ra mắt tại Việt Nam, giá từ 30 triệu đồng",
+      "publisher": "Doanh Nhân — Báo Pháp luật Việt Nam",
+      "url": "https://doanhnhan.baophapluat.vn/honda-vision-the-he-moi-duoc-ra-mat-tai-viet-nam-gia-tu-30-trieu-dong-35960.html",
+      "accessed": "2026-10-12",
+      "type": "news",
+      "lang": "vi"
+    },
+    "lawnet-capacete-168",
+    "lawnet-proibicoes-2024",
+    "tuoitre-alcool-zero",
+    "dtinews-autoestrada-2026",
+    "lawnet-passageiros-2025",
+    "tabela-precos-proprietario"
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "PUBLISHED",
+  "date_published": "2026-10-13",
+  "date_modified": "2026-10-13",
+  "editorial": {
+    "qa_score": 100,
+    "qa_warnings": [],
+    "words": 1747,
+    "publish_mode": "review",
+    "approved_at": "2026-10-13",
+    "revisions": []
+  }
+}

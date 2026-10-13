@@ -1,0 +1,233 @@
+{
+  "contract_version": 1,
+  "id": "PT-0009",
+  "slug": "scooter-para-duas-pessoas",
+  "title": "Scooter para duas pessoas em Hanói: modelo, capacetes e regras",
+  "description": "Vai andar a dois em Hanói? Que scooter aguenta melhor o passageiro, quando a lei admite mais de um, capacetes para ambos e como conduzir com o peso extra.",
+  "h1": "Andar a dois de scooter em Hanói: que modelo escolher e o que a lei permite",
+  "summary": "Para duas pessoas, a scooter da loja que dá mais folga é a Honda Air Blade, que custa {{price.airblade.day}} por dia, {{cmp.airblade.vision.day}} a Vision; a Vision serve na cidade e a Click tem pouca margem. A lei vietnamita admite, regra geral, um passageiro por mota, e quem conduz e quem vai atrás têm de usar capacete apertado.",
+  "key_points": [
+    "Regra geral no Vietname: um passageiro por mota. Levar dois só é permitido em quatro situações excecionais previstas na lei.",
+    "Capacete apertado para quem conduz e para quem vai atrás; quem não o usa arrisca uma coima de 400 mil a 600 mil VND.",
+    "Com passageiro, a Air Blade dá mais folga, a Vision resolve na cidade e a Click fica com pouca margem; uma 50 cc não é pensada para dois.",
+    "A Air Blade 160 exige carta de categoria A: se a sua habilitação só cobre motas até 125 cm³, peça a versão de 125.",
+    "Ao reservar, diga que vão duas pessoas e peça dois capacetes do tamanho certo."
+  ],
+  "intro": [
+    "Partilhar uma scooter é a forma mais simples de um casal ou de dois amigos circularem juntos em Hanói: uma mota, um condutor e um lugar atrás. O segundo adulto, porém, muda a forma como a scooter arranca, trava e curva, e a lei vietnamita tem regras claras sobre quem pode ir atrás e com que equipamento.",
+    "Este guia ajuda a escolher, entre os modelos da loja, uma scooter para duas pessoas, explica o que a lei permite, o que pedir ao reservar e como adaptar a condução quando leva alguém. Se ainda está a decidir entre scooter, semiautomática ou elétrica, comece pelo guia de [tipos de motas](/tipos-de-motas/)."
+  ],
+  "sections": [
+    {
+      "h2": "O que a lei permite: um passageiro, com capacete",
+      "body": [
+        "No Vietname, quem conduz uma mota pode levar **um passageiro**. A lei de trânsito em vigor desde 1 de janeiro de 2025 só admite dois passageiros em quatro situações excecionais:",
+        {
+          "ul": [
+            "levar um doente a uma urgência médica;",
+            "escoltar o autor de uma infração;",
+            "transportar uma criança com menos de 12 anos;",
+            "transportar uma pessoa idosa ou com deficiência."
+          ]
+        },
+        "Fora destes casos, uma scooter leva no máximo duas pessoas: quem conduz e quem vai atrás. Se viajam três amigos, são precisas duas motas, ou um táxi para o terceiro.",
+        "O capacete é obrigatório para as duas pessoas e tem de ir apertado. Segundo o Decreto 168/2024/NĐ-CP, em vigor desde 1 de janeiro de 2025, quem não o usa arrisca uma coima de 400 mil a 600 mil VND. Com chuva, a solução é uma capa para cada um: a lei proíbe quem conduz de usar guarda-chuva ou telemóvel enquanto conduz.",
+        {
+          "note": "A exceção para crianças com menos de 12 anos só altera o número de pessoas que a mota pode levar. Antes de a usar, pergunte à loja se tem um capacete do tamanho da criança e pondere a alternativa de um táxi, sobretudo em trajetos longos, com chuva ou à noite.",
+          "tone": "info",
+          "title": "Viajar com uma criança"
+        }
+      ]
+    },
+    {
+      "h2": "Que scooter escolher para andar a dois",
+      "body": [
+        "As scooters da loja têm lugar para um passageiro, mas não oferecem todas a mesma folga. O que conta é a reserva de potência para arrancar com dois adultos, subir as rampas das pontes e recuperar velocidade depois de cada semáforo.",
+        {
+          "table": {
+            "caption": "Scooters da loja com passageiro",
+            "head": [
+              "Modelo",
+              "Com passageiro",
+              "Categoria de carta no Vietname"
+            ],
+            "rows": [
+              [
+                "Honda Air Blade 160",
+                "A que tem mais folga: arranca e sobe as rampas com mais facilidade",
+                "A"
+              ],
+              [
+                "Honda Air Blade 125",
+                "Leva um passageiro sem dificuldade na cidade; nas rampas longas, nota-se o peso",
+                "A1 (ou A)"
+              ],
+              [
+                "Honda Vision",
+                "Serve na cidade, mas acelera mais devagar e precisa de mais distância para parar",
+                "A1 (ou A)"
+              ],
+              [
+                "Honda Click",
+                "Leva um adulto atrás, com pouca margem",
+                "A1 até 125 cm³; a Click 160 exige A"
+              ]
+            ]
+          }
+        },
+        "Na tabela de referência, a Air Blade custa {{price.airblade.day}} por dia, {{cmp.airblade.vision.day}} a Vision, e a loja indica um só preço para as duas versões. A de 160 cm³ é a mais confortável a dois, mas ultrapassa o limite de 125 cm³ da categoria A1: só a pode conduzir com a categoria A. O guia [Air Blade 125 ou 160](/tipos-de-motas/honda-air-blade-125-ou-160/) explica o que separa as duas versões.",
+        "Se a sua habilitação só cobre motas até 125 cm³, a Air Blade 125 é a escolha mais equilibrada para dois. A [Honda Vision](/tipos-de-motas/honda-vision-em-hanoi/) também resolve, sobretudo em percursos curtos e sem pressa. A [Honda Click](/tipos-de-motas/honda-click-em-hanoi/) faz sentido a dois apenas em deslocações pontuais; para a Yamaha Mio, também de pequena cilindrada, pergunte à loja como se comporta com passageiro.",
+        "Uma [mota de 50 cc](/tipos-de-motas/motas-50cc/) não foi pensada para passageiro: com duas pessoas, perde aceleração e capacidade de subida. Os preços de referência das scooters estão lado a lado na tabela seguinte e no guia de [scooters automáticas](/tipos-de-motas/scooters/):",
+        {
+          "component": "price-table",
+          "category": "scooters-automaticas"
+        }
+      ]
+    },
+    {
+      "h2": "Antes de reservar: o que dizer à loja",
+      "body": [
+        "Ao pedir a scooter, diga logo que vão duas pessoas. A loja consegue assim propor uma unidade adequada e preparar o equipamento. Inclua na mensagem:",
+        {
+          "checklist": [
+            "o número de pessoas e se vão andar a dois todos os dias ou só de vez em quando;",
+            "a categoria de motociclos que consta da carta de quem conduz, para a loja propor uma cilindrada compatível;",
+            "dois capacetes e o tamanho de cada um, se o souber;",
+            "se o passageiro também vai conduzir: nesse caso, precisa da sua própria habilitação e convém confirmar se pode constar do acordo;",
+            "a bagagem que pensam levar na mota;",
+            "o preço total para as suas datas, tendo em conta que a tabela de referência indica preços por veículo."
+          ]
+        },
+        "Pode tratar do pedido pelo {{phone}}, por chamada ou Zalo; a morada e o mapa estão na página de [contactos](/contactos/). Para aproveitar a mesma conversa e esclarecer a caução e os documentos, use a lista de [perguntas a fazer antes de alugar](/guia-de-aluguer/perguntas-antes-de-alugar/)."
+      ]
+    },
+    {
+      "h2": "Dois capacetes à medida",
+      "body": [
+        "Um capacete largo demais roda na cabeça numa travagem; um apertado demais torna-se insuportável ao fim de meia hora. Experimentem os dois na loja, antes de arrancar:",
+        {
+          "checklist": [
+            "**Tamanho**: com a fivela fechada, o capacete não deve rodar nem descair para a frente quando abana a cabeça.",
+            "**Fivela**: fechada e ajustada ao queixo, sem folga que deixe o capacete sair para trás.",
+            "**Estado**: calota sem fissuras e forro interior inteiro.",
+            "**Viseira**: limpa e sem riscos que atrapalhem a visão; sem viseira, use óculos contra o pó e o vento.",
+            "**Cabelo comprido**: apanhado de forma a não impedir que o capacete encaixe bem."
+          ]
+        },
+        "Quem vai atrás corre os mesmos riscos de quem conduz e não tem guiador onde se segurar. Um capacete mal apertado é tão perigoso no lugar de trás como à frente, e a fivela fecha-se antes de a mota arrancar, mesmo para um trajeto de dois quarteirões."
+      ]
+    },
+    {
+      "h2": "Conduzir com passageiro: o que muda",
+      "body": [
+        "Com um segundo adulto, a scooter fica mais pesada atrás e reage de outra forma. Façam os primeiros quilómetros a dois numa rua calma, para quem conduz ganhar referência antes de entrar nas avenidas.",
+        {
+          "h3": "Arranque, travagem e manobras"
+        },
+        {
+          "ul": [
+            "**Arranque**: a mota acelera mais devagar. Não conte com a aceleração que tinha sozinho para entrar num espaço apertado do trânsito.",
+            "**Travagem**: a distância para parar aumenta. Use as duas manetes em conjunto, de forma progressiva, e deixe mais espaço para o veículo da frente, ainda mais com o piso molhado.",
+            "**Manobras lentas**: a direção fica mais pesada a baixa velocidade. Nas inversões de marcha e nos parques apertados, avance devagar e com os pés prontos a apoiar.",
+            "**Paragens**: com o peso extra, a mota desequilibra-se com mais facilidade em piso inclinado ou irregular. Escolha bem onde pousa os pés."
+          ]
+        },
+        {
+          "h3": "Subir e descer da mota"
+        },
+        {
+          "steps": [
+            {
+              "title": "Quem conduz sobe primeiro",
+              "text": "Com o descanso recolhido, os dois pés no chão, o acelerador fechado e uma manete de travão acionada."
+            },
+            {
+              "title": "O passageiro sobe depois do aviso",
+              "text": "Abre os pousa-pés, apoia uma mão no ombro de quem conduz ou na pega traseira e passa a perna por trás, sem saltar para o assento."
+            },
+            {
+              "title": "Atenção ao escape",
+              "text": "O tubo de escape aquece muito. Ao subir e ao descer, mantenha as pernas afastadas dele, sobretudo se estiver de calções ou de saia."
+            },
+            {
+              "title": "Para descer, a ordem inverte-se",
+              "text": "Com a mota parada e travada, desce primeiro o passageiro e só depois quem conduz."
+            }
+          ]
+        },
+        {
+          "h3": "O papel de quem vai atrás"
+        },
+        "Um bom passageiro quase não se sente. Deve ir sentado direito e perto de quem conduz, com os pés sempre nos pousa-pés e as mãos na cintura de quem conduz ou na pega traseira. Nas curvas, acompanha a inclinação da mota em vez de se endireitar; nas paragens, fica quieto e sem pôr os pés no chão.",
+        "As pontes sobre o rio Vermelho são o teste mais exigente a dois: rampa longa, vento de lado e motas a ultrapassar. Suba a ritmo regular, sem acelerações nem travagens desnecessárias, e deixe as ultrapassagens para quem vai mais leve."
+      ]
+    },
+    {
+      "h2": "Bagagem a dois: o que cabe numa scooter",
+      "body": [
+        "Com duas pessoas, o espaço para carga encolhe: o lugar de trás está ocupado e o compartimento debaixo do assento leva apenas objetos pequenos. Na prática:",
+        {
+          "ul": [
+            "cada um leva uma mochila pequena às costas, com as alças bem presas e longe das rodas;",
+            "o compartimento debaixo do assento fica para as capas de chuva, a água e pouco mais;",
+            "nada de sacos pendurados no guiador nem de malas entre os pés de quem conduz;",
+            "as malas grandes seguem de táxi até ao alojamento."
+          ]
+        },
+        "Se a viagem a dois incluir mudar de alojamento com bagagem, fale com a loja antes de fechar o aluguer e combine como fazer a mudança sem sobrecarregar a mota."
+      ]
+    },
+    {
+      "h2": "Uma scooter para dois ou duas scooters?",
+      "body": [
+        "Quando os dois têm habilitação e experiência, alugar duas motas é uma alternativa a considerar: cada scooter vai mais leve, ninguém depende do outro para se deslocar e o passageiro deixa de passar horas sentado atrás. Como a tabela de referência indica preços por veículo, peça à loja o total das duas opções antes de decidir.",
+        "Se só um dos dois tem habilitação e experiência, a resposta é simples: uma scooter, conduzida por essa pessoa. O trânsito de Hanói não é sítio para aprender, e quem nunca conduziu uma mota deve ir atrás ou de táxi.",
+        "Para um único dia de passeio a dois, veja como organizar um [aluguer de mota por um dia](/precos/aluguer-de-mota-por-um-dia/); para estadias mais longas, compare as tarifas semanais e mensais na [página de preços](/precos/). Seja qual for a opção, quem conduz leva consigo a carta, a licença internacional e os documentos da mota, como se explica em [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/)."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Posso levar duas pessoas atrás numa scooter alugada?",
+      "a": "Só nas situações excecionais previstas na lei vietnamita: levar um doente a uma urgência médica, escoltar o autor de uma infração, transportar uma criança com menos de 12 anos ou uma pessoa idosa ou com deficiência. Fora disso, a regra é um passageiro por mota."
+    },
+    {
+      "q": "O passageiro também pode conduzir a scooter?",
+      "a": "Pode, se tiver habilitação válida para a categoria da mota e, como visitante, a licença internacional reconhecida no Vietname. Antes de trocarem de lugar, confirme com a loja se outra pessoa pode conduzir e se tem de constar do acordo. Os documentos da mota acompanham quem conduz em cada momento, como explica o guia dos [documentos da mota alugada](/guia-de-aluguer/documentos-da-mota-alugada/)."
+    },
+    {
+      "q": "Pagamos mais por levar passageiro?",
+      "a": "A tabela de referência indica preços por veículo e não faz distinção pelo número de pessoas. Mesmo assim, peça à loja o total para as suas datas e confirme se o segundo capacete está incluído."
+    },
+    {
+      "q": "O seguro de viagem cobre o passageiro de uma mota?",
+      "a": "Depende da apólice. Antes de viajar, confirme se cobre acidentes de mota, tanto para quem conduz como para quem vai atrás, e em que condições: o Governo da Nova Zelândia, por exemplo, recomenda esta verificação a quem conduz no Vietname. Muitas apólices excluem acidentes ocorridos sem habilitação válida."
+    }
+  ],
+  "sources": [
+    "lawnet-passageiros-2025",
+    "lawnet-capacete-168",
+    "lei-36-2024-a1",
+    "lawnet-categorias-2025",
+    "chotot-air-blade-125-160",
+    "lei-36-2024-artigo-56",
+    "mfat-conduzir-vietname",
+    "tabela-precos-proprietario"
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "PUBLISHED",
+  "date_published": "2026-10-13",
+  "date_modified": "2026-10-13",
+  "editorial": {
+    "qa_score": 100,
+    "qa_warnings": [],
+    "words": 1897,
+    "publish_mode": "review",
+    "approved_at": "2026-10-13",
+    "revisions": []
+  }
+}

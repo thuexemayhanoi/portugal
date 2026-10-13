@@ -1,0 +1,233 @@
+{
+  "contract_version": 1,
+  "id": "PT-0086",
+  "slug": "como-funciona-a-caucao",
+  "title": "Caução no aluguer de motas em Hanói: como funciona",
+  "description": "O que é a caução num aluguer de mota em Hanói, em que difere do preço, que formas pode assumir, o que deve ficar escrito e o que perguntar à loja.",
+  "h1": "Como funciona a caução quando aluga uma mota em Hanói",
+  "summary": "A caução é uma garantia que a loja guarda enquanto a mota está consigo e que lhe é restituída no fim, segundo as regras combinadas: não paga o aluguer nem é um custo extra. Se existe no seu caso, o montante, a forma e as condições de restituição definem-se caso a caso, por isso peça-os por escrito antes de levantar a mota.",
+  "key_points": [
+    "A caução fica retida durante o aluguer e regressa no fim; o preço paga o uso da mota e não volta.",
+    "Este site não publica montantes: se há caução, quanto e em que forma é confirmado pela loja para cada aluguer.",
+    "A forma conta tanto como o valor: dinheiro, transferência ou documento têm consequências diferentes durante a viagem.",
+    "Deixe registado o estado da mota, o que recebeu com ela e em que situações pode haver descontos.",
+    "Peça um comprovativo da caução entregue e guarde-o até ao último dia."
+  ],
+  "intro": [
+    "Quem aluga uma mota pela primeira vez no estrangeiro costuma olhar só para o preço por dia e descobre a caução ao balcão. Não é uma taxa nem um extra escondido, mas também não é um pormenor: durante o aluguer, há dinheiro ou um documento seu nas mãos de outra pessoa, e convém saber em que termos.",
+    "Este guia explica o mecanismo da caução num aluguer de mota em Hanói: para que serve, como se distingue do preço, que formas pode assumir e o que deve ficar escrito para que a restituição corra bem. Não indicamos valores, porque dependem de cada caso e são confirmados pela loja. A lista do que levar para alugar e para conduzir está no guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/)."
+  ],
+  "sections": [
+    {
+      "h2": "Para que serve uma caução",
+      "body": [
+        "Ao entregar uma mota, a loja confia um veículo de valor a alguém que conheceu há minutos e que, muitas vezes, deixa o país poucos dias depois. A caução equilibra esse risco. Se a mota regressar no prazo e no estado combinados, a caução volta por inteiro. Se faltar alguma coisa, já existe uma forma acordada de a compensar, sem negociações à pressa no último dia.",
+        "Em termos gerais, as situações ligadas a uma caução são estas:",
+        {
+          "ul": [
+            "**danos na mota** que não existiam no início do aluguer;",
+            "**peças ou acessórios em falta**, como a chave, os capacetes ou os documentos do veículo;",
+            "**atrasos** na devolução, ou dias de uso para além dos que foram pagos;",
+            "**combustível ou carga** abaixo do nível com que recebeu a mota."
+          ]
+        },
+        "Quais destas situações se aplicam ao seu aluguer, e com que regras, depende do acordo com a loja. É isso que convém esclarecer antes de assinar. No dia da devolução já não há margem para discutir o que ficou por combinar, e o momento da entrega da mota merece uma preparação própria.",
+        {
+          "note": "A caução diz respeito às perdas relacionadas com a mota e com o acordo de aluguer. Não foi pensada para pagar despesas médicas nem danos causados a outras pessoas num acidente. O seguro obrigatório que acompanha a mota é explicado no guia dos [documentos da mota alugada](/guia-de-aluguer/documentos-da-mota-alugada/); confirme também o que cobre o seu seguro de viagem.",
+          "tone": "info",
+          "title": "A caução não é um seguro"
+        }
+      ]
+    },
+    {
+      "h2": "Caução e preço do aluguer: duas contas diferentes",
+      "body": [
+        "O preço do aluguer paga o uso da mota durante as datas combinadas. Na tabela de referência da loja, um dia custa entre {{price.min.day}} e {{price.max.day}}, conforme o modelo, e esse valor não regressa ao seu bolso. A caução, se existir, segue a lógica inversa: sai no início e volta no fim, por inteiro ou com os descontos que o acordo previr.",
+        "Os valores da [tabela de preços](/precos/) referem-se apenas ao veículo e não incluem caução. Ao comparar propostas, separe sempre as duas parcelas e veja quanto dinheiro fica parado em cada uma, e durante quanto tempo.",
+        {
+          "table": {
+            "caption": "Preço do aluguer e caução, lado a lado",
+            "head": [
+              "Aspeto",
+              "Preço do aluguer",
+              "Caução"
+            ],
+            "rows": [
+              [
+                "O que paga",
+                "O uso da mota durante as datas combinadas",
+                "Nada: é uma garantia retida enquanto a mota está consigo"
+              ],
+              [
+                "Quando sai do seu bolso",
+                "No momento que combinar com a loja",
+                "No levantamento da mota, se houver caução"
+              ],
+              [
+                "Regressa no fim?",
+                "Não",
+                "Sim, por inteiro ou com os descontos previstos no acordo"
+              ],
+              [
+                "Onde encontra o valor",
+                "Na tabela de preços de referência",
+                "Só na confirmação que a loja lhe der"
+              ]
+            ]
+          }
+        },
+        "No orçamento da viagem, conte com as duas parcelas ao mesmo tempo. Num aluguer longo, a caução pode ficar retida durante semanas, como lembra o guia do [aluguer mensal](/precos/aluguer-mensal-de-mota/). Se a caução for em numerário, verifique antes da viagem os limites diários de levantamento do seu cartão no estrangeiro, para não ficar sem dinheiro para o resto da estadia."
+      ]
+    },
+    {
+      "h2": "As formas que uma caução pode assumir",
+      "body": [
+        "A forma da caução pesa tanto como o montante. Conforme a loja e o caso, pode ser-lhe pedido dinheiro, uma transferência ou um documento original. Cada opção tem consequências diferentes nos dias seguintes.",
+        {
+          "table": {
+            "caption": "Formas de caução: o que ponderar em cada uma",
+            "head": [
+              "Forma",
+              "O que ponderar",
+              "O que pedir"
+            ],
+            "rows": [
+              [
+                "Dinheiro em numerário",
+                "Fica sem esse valor disponível até ao fim; conte as notas à frente de quem as recebe.",
+                "Recibo ou mensagem com o montante, a moeda e a data."
+              ],
+              [
+                "Transferência ou pagamento eletrónico",
+                "Deixa rasto, mas a restituição pode demorar e ter custos bancários ou de câmbio.",
+                "Prazo e forma da restituição, e para que conta."
+              ],
+              [
+                "Documento original",
+                "Fica sem um documento de que pode precisar durante a viagem.",
+                "Que alternativas existem e quem guarda o documento."
+              ]
+            ]
+          }
+        },
+        "Antes de deixar um documento original, pense no que vai fazer durante o aluguer. O passaporte é pedido, por exemplo, nos alojamentos e em controlos de identidade. A carta de condução não é uma boa candidata: a lei de trânsito vietnamita de 2024 exige que quem conduz a leve consigo, tal como os documentos do veículo.",
+        "Se a loja aceitar mais do que uma forma, escolha a que menos condiciona a sua viagem e confirme-a por escrito antes do dia do levantamento. Uma decisão tomada ao balcão, com a mota já à porta, é sempre mais apressada."
+      ]
+    },
+    {
+      "h2": "O que deve ficar registado no início",
+      "body": [
+        "A caução só regressa sem discussão quando as duas partes partem do mesmo registo. Pode ser um acordo em papel, uma conversa no Zalo ou ambos; o essencial é que exista e que fique com uma cópia. Confirme que inclui:",
+        {
+          "checklist": [
+            "a forma da caução e, se for dinheiro, o montante e a moeda;",
+            "a identificação da mota: modelo, matrícula e quilometragem no levantamento;",
+            "o estado da mota, com fotografias de todos os lados, do painel e dos riscos que já tem;",
+            "o nível de combustível ou de carga no momento da entrega;",
+            "o que recebeu com a mota: chaves, capacetes, capa de chuva, documentos do veículo;",
+            "a data, a hora e o local da devolução;",
+            "as situações que podem dar origem a descontos e como se calcula cada valor;",
+            "quando e como a caução lhe é restituída."
+          ]
+        },
+        "As fotografias valem mais quando têm data. Tire-as no próprio local, antes de arrancar, e envie algumas para a conversa com a loja: ficam datadas e à vista das duas partes, o que poupa discussões no fim."
+      ]
+    },
+    {
+      "h2": "Descontos: as regras combinam-se antes",
+      "body": [
+        "Um desconto na caução só é justo quando a regra já existia antes do problema. Para cada situação prevista no acordo, pergunte como se chega ao valor: um orçamento de oficina, um preço fixo por peça ou outra forma que a loja indique. Não precisa de conhecer todos os números de antemão, mas deve saber como serão calculados.",
+        "Pergunte também como é tratado o desgaste normal de uma mota em uso, como pneus mais gastos ou pequenas marcas do dia a dia. A fronteira entre desgaste e dano pode gerar mal-entendidos no fim de um aluguer, por isso vale a pena ouvi-la explicada pela loja logo no início.",
+        "O mesmo se aplica às avarias. Combine o que fazer se a mota deixar de funcionar a meio do aluguer: ligar primeiro à loja, levar a uma oficina de rua ou esperar por instruções. Guarde sempre o recibo de uma reparação autorizada, para que não seja confundida com um dano no dia da devolução."
+      ]
+    },
+    {
+      "h2": "Perguntas sobre a caução antes de levantar a mota",
+      "body": [
+        "As perguntas gerais sobre preço, documentos e equipamento estão reunidas nas [15 perguntas a fazer antes de alugar](/guia-de-aluguer/perguntas-antes-de-alugar/). Sobre a caução em particular, estas são as que evitam mais equívocos:",
+        {
+          "ol": [
+            "Há caução no meu aluguer, com este modelo e nestas datas?",
+            "Que formas aceitam, e posso escolher entre elas?",
+            "Se for em dinheiro, qual é o montante e em que moeda?",
+            "Que comprovativo recebo no momento em que a entrego?",
+            "Em que situações pode haver um desconto, e como se calcula?",
+            "A restituição é feita logo após a verificação da mota, ou noutro prazo?"
+          ]
+        },
+        "Uma boa resposta é concreta e coincide com o que depois fica no acordo. Se as condições mudarem entre a primeira mensagem e o dia do levantamento, peça que lhe expliquem a diferença antes de pagar seja o que for."
+      ]
+    },
+    {
+      "h2": "Porque é que este site não publica um valor de caução",
+      "body": [
+        "As condições de caução dependem do modelo, da duração e da situação de cada aluguer. Um valor fixo publicado aqui criaria uma expectativa que podia não corresponder ao seu caso, num sentido ou no outro. Por isso, este site indica apenas o que perguntar, e é a loja que confirma as condições quando lhe envia a proposta.",
+        "Os [termos e condições](/termos-e-condicoes/) do site seguem o mesmo princípio: se houver diferença entre o que lê aqui e o acordo de aluguer, prevalece o acordo. Leia com atenção a parte que trata da caução antes de assinar e peça explicação para qualquer ponto que não perceba."
+      ]
+    },
+    {
+      "h2": "Do primeiro contacto ao levantamento",
+      "body": [
+        {
+          "steps": [
+            {
+              "title": "Peça uma proposta completa.",
+              "text": "Indique as datas, as horas, o modelo e a zona onde vai ficar, e peça na mesma resposta o preço total e as condições da caução."
+            },
+            {
+              "title": "Some as duas parcelas.",
+              "text": "Junte o preço do aluguer ao valor que fica retido e veja se o orçamento da viagem comporta ambos ao mesmo tempo."
+            },
+            {
+              "title": "Leve a conversa consigo.",
+              "text": "No dia do levantamento, tenha as mensagens à mão para confirmar que o acordo diz o mesmo que foi combinado."
+            },
+            {
+              "title": "Saia com o comprovativo.",
+              "text": "Antes de arrancar, guarde o recibo ou a mensagem que confirma a caução entregue, junto com as fotografias da mota."
+            }
+          ]
+        },
+        "Pode falar com a loja {{brand}} por telefone ou Zalo, pelo {{phone}}, {{hours}}. A morada e o mapa estão na página de [contactos](/contactos/)."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Posso entregar a caução com um cartão bancário?",
+      "a": "Depende das formas que a loja aceita para o seu aluguer, que este site não publica. Pergunte antes de se deslocar e, se for possível, confirme se há custos bancários ou de câmbio e como e quando o valor lhe é restituído."
+    },
+    {
+      "q": "A caução é a mesma em todos os modelos?",
+      "a": "Este site não publica valores, porque as condições dependem do modelo, da duração e da situação de cada aluguer. Se hesita entre dois modelos, peça à loja as condições de ambos na mesma mensagem e compare-as em conjunto com o preço."
+    },
+    {
+      "q": "Se prolongar o aluguer, tenho de entregar uma nova caução?",
+      "a": "Pergunte quando pedir o prolongamento. Peça que a confirmação indique as novas datas e se a caução já entregue continua associada ao aluguer, para que o comprovativo inicial continue a valer até à devolução."
+    },
+    {
+      "q": "O que acontece à caução se a mota avariar sem culpa minha?",
+      "a": "Uma avaria por desgaste não é o mesmo que um dano por mau uso, mas a fronteira entre os dois deve ficar clara no acordo. Combine com a loja o que fazer em caso de avaria e guarde os recibos de qualquer reparação autorizada."
+    }
+  ],
+  "sources": [
+    "tabela-precos-proprietario",
+    "lei-36-2024-artigo-56"
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "PUBLISHED",
+  "date_published": "2026-10-13",
+  "date_modified": "2026-10-13",
+  "editorial": {
+    "qa_score": 100,
+    "qa_warnings": [],
+    "words": 1856,
+    "publish_mode": "review",
+    "approved_at": "2026-10-13",
+    "revisions": []
+  }
+}

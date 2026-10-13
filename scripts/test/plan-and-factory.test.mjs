@@ -54,7 +54,10 @@ test('validator rejects an incomplete draft and drafts with invented claims', ()
 
 test('hold topics cannot be submitted', () => {
   const { validateArticle, topics } = createValidator();
-  const held = [...topics.values()].find((t) => t.editorial_qa_status === 'HOLD_FOR_INTENT_REVIEW');
+  // Simulated on an open topic, since the plan may have no topic on hold.
+  const held = [...topics.values()].find((t) => t.editorial_qa_status !== 'PUBLISHED');
+  held.editorial_qa_status = 'HOLD_FOR_INTENT_REVIEW';
+  held.hold_reason = 'teste';
   const r = validateArticle({ id: held.id, slug: held.slug, title: 'x', description: 'y', h1: 'z', summary: 's', sections: [] });
   assert.ok(r.errors.some((e) => e.includes('HOLD_FOR_INTENT_REVIEW')));
 });

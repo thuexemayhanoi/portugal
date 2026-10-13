@@ -1,0 +1,216 @@
+{
+  "contract_version": 1,
+  "id": "PT-0125",
+  "slug": "preco-justo-de-aluguer",
+  "title": "Preço justo de aluguer de mota em Hanói: como avaliar",
+  "description": "Um método para avaliar o preço de aluguer de uma mota em Hanói: comparar totais pelo mesmo período, o que inclui, a caução, a mota e o apoio em avarias.",
+  "h1": "Como saber se um preço de aluguer de mota é justo: um método para comparar orçamentos",
+  "summary": "Um preço de aluguer de mota é justo quando, comparado pelo mesmo período e nas mesmas condições, corresponde ao que recebe: a mota, os acessórios, regras claras de caução e apoio se algo correr mal. Compare totais escritos, e não preços por dia, e ponha lado a lado o que cada orçamento inclui antes de olhar para o número final.",
+  "key_points": [
+    "Compare o total para as suas datas, nunca o preço por dia isolado.",
+    "Ponha os orçamentos na mesma base: tipo de mota, cilindrada, período, hora de devolução e número de capacetes.",
+    "Some o que fica fora da tarifa e trate a caução à parte: não é um custo, mas pesa na decisão.",
+    "Pese o que não tem preço: o estado da unidade, o apoio em caso de avaria e a clareza das regras.",
+    "Divida o total pelos dias em que vai realmente conduzir para saber quanto lhe custa cada dia de uso."
+  ],
+  "intro": [
+    "«É caro ou é barato?» é a primeira reação a quase qualquer orçamento. A resposta raramente está no número sozinho. Dois preços por dia iguais podem esconder alugueres muito diferentes, e um valor mais alto pode incluir o que noutro orçamento só aparece ao balcão.",
+    "Este guia não compara lojas nem indica valores de mercado. Propõe um método em cinco passos para pôr qualquer orçamento, o desta loja incluído, na mesma base e decidir com os dados à frente. No fim, saberá dizer se um preço é justo para o aluguer que procura."
+  ],
+  "sections": [
+    {
+      "h2": "O que faz um preço justo",
+      "body": [
+        "Justo não quer dizer o mais baixo. Um preço é justo para si quando se confirmam três coisas: sabe exatamente quanto vai pagar, sabe o que recebe em troca e as condições não mudam a meio do aluguer.",
+        "O número do orçamento é só a parte visível. Por trás dele estão a mota concreta que lhe entregam, o que acontece se tiver um furo a meio de um passeio, a forma como a caução é tratada e o que se paga à parte. Um orçamento mais baixo, com uma mota gasta e regras vagas, pode sair-lhe caro em tempo, em segurança e em discussões no último dia.",
+        "Os cinco passos seguintes transformam essa intuição numa comparação concreta, que pode fazer em poucos minutos com as mensagens das lojas à frente."
+      ]
+    },
+    {
+      "h2": "Passo 1: pôr os orçamentos na mesma base",
+      "body": [
+        "Só se comparam preços de coisas iguais. Antes de pedir orçamentos, defina o que está a comparar e envie a mesma informação a todas as lojas:",
+        {
+          "checklist": [
+            "**tipo de mota** — scooter automática, semiautomática, 50 cc ou elétrica — e a cilindrada;",
+            "**datas e horas** exatas de levantamento e de devolução;",
+            "**número de pessoas**, para saber quantos capacetes vão ser precisos;",
+            "**local** de levantamento e de devolução, e se precisa de entrega;",
+            "**planos de viagem**, sobretudo se pensa sair de Hanói."
+          ]
+        },
+        "O tipo de mota pesa muito no preço. Na própria tabela desta loja, uma Honda Vision custa {{cmp.vision.wave.day}} uma Honda Wave por dia: pôr lado a lado uma scooter de uma loja e uma semiautomática de outra não diz nada sobre nenhuma das duas. As diferenças entre os tipos estão explicadas em [tipos de motas](/tipos-de-motas/)."
+      ]
+    },
+    {
+      "h2": "Passo 2: comparar totais, não preços por dia",
+      "body": [
+        "O preço por dia serve para uma primeira triagem. Para decidir, peça a cada loja o **total** para o período exato, em dong vietnamita e por escrito. Três pormenores mudam esse total sem mudar o preço por dia:",
+        {
+          "ul": [
+            "**A forma de contar o dia.** Em 24 horas a partir do levantamento ou até ao fecho da loja: para as mesmas datas, a diferença pode valer um dia de aluguer.",
+            "**As tarifas por duração.** A semana e o mês não são o preço diário multiplicado; se o seu período estiver perto de uma semana, peça também o preço da semana completa.",
+            "**A moeda.** Se o orçamento vier noutra moeda, peça o valor em dong ou a taxa de câmbio usada, para comparar na mesma unidade."
+          ]
+        },
+        "Para os modelos desta loja, a comparação seguinte mostra a partir de quantos dias a semana custa o mesmo ou menos do que pagar ao dia. Aplique a mesma lógica a qualquer orçamento:",
+        {
+          "component": "duration-compare"
+        },
+        "Os guias do [aluguer semanal](/precos/aluguer-semanal-de-mota/) e do [aluguer mensal](/precos/aluguer-mensal-de-mota/) explicam o que mais muda quando o aluguer se prolonga."
+      ]
+    },
+    {
+      "h2": "Passo 3: somar o que fica fora da tarifa",
+      "body": [
+        "O total do aluguer ainda não é o custo do aluguer. Antes de comparar, pergunte a cada loja o que fica de fora e trate cada rubrica da forma certa:",
+        {
+          "table": {
+            "caption": "Como cada rubrica entra na comparação",
+            "head": [
+              "Rubrica",
+              "O que perguntar",
+              "Como entra na comparação"
+            ],
+            "rows": [
+              [
+                "Entrega e recolha",
+                "Se é possível na sua morada e qual o valor",
+                "Somar ao total, ou contar o transporte até à loja"
+              ],
+              [
+                "Capacetes e acessórios",
+                "Quantos capacetes, capa de chuva, suporte",
+                "Somar o que se paga à parte"
+              ],
+              [
+                "Combustível",
+                "Com que nível recebe e devolve a mota",
+                "Paga-se sempre à parte: compare só o acordo e o acerto no fim"
+              ],
+              [
+                "Dias extra e atrasos",
+                "Valor de cada dia a mais e tolerância na hora",
+                "Pesar se os seus planos podem mudar"
+              ],
+              [
+                "Caução",
+                "Se existe, de que forma e quando é devolvida",
+                "Não somar: avaliar à parte, no passo 4"
+              ],
+              [
+                "Furos e avarias",
+                "Quem paga e a quem ligar",
+                "Avaliar no passo 4"
+              ]
+            ]
+          }
+        },
+        "A página de [preços](/precos/) indica o que a tabela de referência não inclui. Quanto mais destas linhas ficarem respondidas por escrito, mais fiável é a comparação; uma linha sem resposta é uma incerteza que deve pesar contra esse orçamento."
+      ]
+    },
+    {
+      "h2": "Passo 4: pesar o que não tem preço na tabela",
+      "body": [
+        "Há elementos que não aparecem em nenhuma tabela e que distinguem dois orçamentos com o mesmo total. Avalie-os um a um.",
+        {
+          "h3": "A mota que vai receber"
+        },
+        "Um orçamento refere um modelo; o que conduz é uma unidade concreta. Peça para ver a mota, ou fotografias dela, antes de pagar: pneus com piso, travões que respondem, luzes e piscas a funcionar, espelhos firmes. Confirme também que o certificado de registo e o do seguro seguem consigo; o guia dos [documentos da mota alugada](/guia-de-aluguer/documentos-da-mota-alugada/) mostra como os conferir.",
+        {
+          "h3": "O apoio se algo correr mal"
+        },
+        "Pergunte o que acontece se a mota avariar ou tiver um furo: a quem liga, quem paga a reparação e se há troca de mota quando o problema impede de circular. Num aluguer de vários dias, a resposta a esta pergunta pesa tanto como o preço.",
+        {
+          "h3": "A caução"
+        },
+        "Uma caução em dinheiro deixa-o sem essa quantia durante o aluguer; um documento original entregue como garantia pode fazer-lhe falta noutro sítio, como no alojamento. Compare a forma, o montante e as condições de devolução, e veja o que perguntar no guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/).",
+        {
+          "h3": "Flexibilidade e comunicação"
+        },
+        "Veja como cada loja trata um prolongamento, uma devolução antecipada ou uma mudança de hora, e se responde por escrito, de forma concreta, numa língua que ambos entendam. Uma resposta clara antes de pagar é um bom indicador das respostas que vai receber durante o aluguer."
+      ]
+    },
+    {
+      "h2": "Passo 5: calcular o custo de cada dia de uso",
+      "body": [
+        "O último passo põe o preço em relação com o uso que vai dar à mota. Some o total do aluguer e os extras do passo 3 e divida pelo número de dias em que vai realmente conduzir. Dias parados — um passeio organizado fora da cidade, uma chuvada que o prende ao hotel — também se pagam e fazem subir esse valor.",
+        "Com esse número na mão, compare-o com a alternativa: o que gastaria nesses dias em táxis ou em viagens de mota com condutor, cujo preço estimado pode consultar na aplicação de transporte que usar. Se vai conduzir pouco, ou se não se sente à vontade no trânsito de Hanói, a alternativa pode fazer mais sentido do que um aluguer de vários dias.",
+        "Para guardar a comparação, anote para cada orçamento:",
+        {
+          "checklist": [
+            "total escrito para as datas exatas;",
+            "extras somados e extras ainda por confirmar;",
+            "forma e condições da caução;",
+            "estado da unidade e documentos que seguem com ela;",
+            "procedimento em caso de furo ou avaria;",
+            "custo por dia de uso."
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "Sinais de que um preço não está claro",
+      "body": [
+        "Um preço baixo não é, por si só, mau sinal, e um preço alto não é prova de qualidade. O que deve fazê-lo parar é a falta de clareza:",
+        {
+          "ul": [
+            "recebe apenas um preço por dia e não consegue obter o total para as suas datas;",
+            "o total muda de uma mensagem para a outra sem que nada tenha mudado no pedido;",
+            "ninguém sabe dizer o que está incluído, ou a lista muda quando volta a perguntar;",
+            "há valores combinados só de viva voz, que ninguém quer pôr por escrito;",
+            "as condições da caução ficam vagas até ao momento de pagar."
+          ]
+        },
+        "Perante qualquer destes sinais, faça a pergunta diretamente e espere pela resposta antes de pagar. Para os pontos que vão além do preço, use a lista de [perguntas a fazer antes de alugar](/guia-de-aluguer/perguntas-antes-de-alugar/)."
+      ]
+    },
+    {
+      "h2": "Aplicar o método ao orçamento desta loja",
+      "body": [
+        "Este site publica a tabela de referência da loja {{brand}}, verificada a {{pricing.verifiedAt}}. Mostra o preço do aluguer de cada modelo por dia, semana e mês, e nada mais:",
+        {
+          "component": "price-table"
+        },
+        "Use-a como qualquer outro orçamento: peça à loja o total para as suas datas, pergunte o que fica de fora e passe-o pelos cinco passos deste guia. O valor final, a unidade e as condições são confirmados pela loja antes do aluguer. Pode pedir o orçamento por telefone ou Zalo, para o {{phone}}, e ver os restantes dados em [contactos](/contactos/)."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Um preço mais baixo quer dizer que a mota é pior?",
+      "a": "Não necessariamente. Pode corresponder a um modelo mais simples, a uma mota mais antiga ou a menos coisas incluídas. Pergunte o que o orçamento inclui e peça para ver a unidade antes de pagar: é isso que permite comparar."
+    },
+    {
+      "q": "Posso negociar o preço do aluguer?",
+      "a": "Pode perguntar, mas não parta do princípio de que há margem. Mais útil do que discutir o preço por dia é confirmar o total, o que está incluído e as condições da caução, e ter tudo por escrito antes de pagar."
+    },
+    {
+      "q": "Devo comparar o aluguer com o preço de táxis ou de aplicações de transporte?",
+      "a": "Sim, se tiver dúvidas sobre o uso que vai dar à mota. Calcule o custo de cada dia de uso do aluguer, com combustível e estacionamento, e compare-o com as viagens que faria nesses dias. Se vai conduzir pouco, ou se não se sente à vontade no trânsito, a alternativa pode fazer mais sentido."
+    },
+    {
+      "q": "O preço desta loja é o da tabela publicada?",
+      "a": "A tabela mostra os preços de referência da loja, verificados a {{pricing.verifiedAt}}. O valor final, a unidade disponível e as condições são confirmados pela loja antes do aluguer, por isso peça sempre o total por escrito para as suas datas."
+    }
+  ],
+  "sources": [
+    "tabela-precos-proprietario"
+  ],
+  "legal_note": false,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "PUBLISHED",
+  "date_published": "2026-10-13",
+  "date_modified": "2026-10-13",
+  "editorial": {
+    "qa_score": 100,
+    "qa_warnings": [],
+    "words": 1727,
+    "publish_mode": "review",
+    "approved_at": "2026-10-13",
+    "revisions": []
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "contract_version": 1,
+  "id": "PT-0146",
+  "slug": "trocar-de-mota",
+  "title": "Trocar de mota a meio do aluguer: quando e como pedir",
+  "description": "Avaria, mota desconfortável ou planos novos: quando pedir à loja para trocar de mota, o que perguntar sobre preço, caução e carta, e como registar a troca.",
+  "h1": "Pedir outra mota com o aluguer a decorrer: motivos, perguntas e registo da troca",
+  "summary": "Pode pedir para trocar de mota a meio do aluguer quando a sua deixa de ser segura, não se adapta a si ou deixa de servir os seus planos. A troca depende das motas livres e do acordo com a loja: peça-a por escrito, confirme se o preço, a caução e a carta exigida mudam e trate a nova mota como um novo levantamento, com inspeção, fotografias e documentos.",
+  "key_points": [
+    "Três motivos justificam pedir outra mota: um problema mecânico, uma mota que não se adapta a si e uma mudança de planos.",
+    "Se o problema afetar os travões, os pneus ou as luzes, pare e contacte a loja antes de voltar a conduzir.",
+    "Mudar de modelo pode mudar o preço: ao dia, a Honda Air Blade custa {{cmp.airblade.click.day}} a Honda Click.",
+    "Acima de 125 cm³, a carta exigida passa da categoria A1 para a A: confirme a cilindrada antes de aceitar uma mota maior.",
+    "Registe a troca por escrito: data, hora, matrícula das duas motas, estado, combustível e o que muda no preço."
+  ],
+  "intro": [
+    "Ao fim de um ou dois dias de aluguer, pode perceber que algo não está bem: o assento é demasiado alto, escolheu uma semiautomática e afinal prefere não usar mudanças, um travão parece mais fraco do que no primeiro dia ou surgiu um plano novo que pede outra mota. Pedir uma troca é legítimo, mas não é automático. Depende das motas que a loja tem livres e do que ficou combinado no acordo.",
+    "Este guia explica quando faz sentido pedir outra mota, o que preparar antes de contactar a loja, que perguntas fazer sobre preço, caução e carta e como registar a troca para que o fim do aluguer corra sem dúvidas. O que acontece no seu caso — se há troca, em que prazo e com que custo — é sempre a loja que o confirma."
+  ],
+  "sections": [
+    {
+      "h2": "Quando faz sentido pedir outra mota",
+      "body": [
+        "Os motivos para uma troca cabem, quase sempre, em três grupos. Cada um pede uma conversa diferente com a loja.",
+        {
+          "h3": "Um problema mecânico ou de segurança"
+        },
+        "Travões que perderam força, um pneu que esvazia repetidamente, luzes ou piscas que deixaram de funcionar, um motor que custa a pegar ou que se desliga em andamento. Se o problema afeta a segurança, não continue a conduzir: pare num local seguro e contacte a loja. Um furo isolado nem sempre obriga a trocar de mota, mas o procedimento deve ser combinado com a loja antes de mandar fazer qualquer reparação.",
+        {
+          "h3": "Uma mota que não se adapta a si"
+        },
+        "O assento é alto para a sua estatura, a mota é pesada para manobrar no estacionamento, a semiautomática obriga-o a pensar nas mudanças em cada cruzamento ou falta potência para andar a dois. Não são caprichos: uma mota em que não se sente seguro aumenta o risco no trânsito de Hanói. Quanto mais cedo pedir, mais simples é resolver.",
+        {
+          "h3": "Planos que mudaram"
+        },
+        "Um amigo junta-se à viagem e passa a levar passageiro, decidiu fazer uma saída para fora da cidade, o novo alojamento não deixa carregar uma mota elétrica durante a noite ou percebeu que uma [mota de 50 cc](/tipos-de-motas/motas-50cc/) não chega para as distâncias que faz. Aqui a mota está em bom estado; o que muda é o uso. A troca é uma alteração ao aluguer que a loja pode aceitar ou não, e o preço pode mudar."
+      ]
+    },
+    {
+      "h2": "Antes de contactar a loja: o que preparar",
+      "body": [
+        "Um pedido claro resolve-se mais depressa. Antes de escrever ou de ligar, junte o que a loja precisa para perceber a situação:",
+        {
+          "checklist": [
+            "fotografias ou um vídeo curto do problema, incluindo o painel, se houver alguma luz de aviso acesa;",
+            "a matrícula da mota e as datas do seu aluguer;",
+            "onde está e se a mota ainda pode circular em segurança;",
+            "o que prefere: a mesma mota reparada, outra unidade do mesmo modelo ou um modelo diferente;",
+            "a que horas pode passar pela loja, dentro do horário ({{hours}})."
+          ]
+        },
+        "Releia também a conversa ou o acordo da reserva. Se lá estiver escrito o que acontece quando a mota avaria ou deixa de poder ser usada, cite-o no pedido. Se nada ficou combinado, é agora que se combina, por escrito.",
+        "Não mande reparar a mota por iniciativa própria nem tente desmontar peças. Uma reparação feita sem acordo complica a conversa sobre quem paga e, se houver caução, sobre a sua devolução."
+      ]
+    },
+    {
+      "h2": "Como pedir a troca",
+      "body": [
+        "Use o canal com que reservou, telefone ou Zalo, para o {{phone}}, de modo a que toda a história do aluguer fique na mesma conversa. Se a mota não puder circular ou estiver num local pouco seguro, ligue em vez de escrever.",
+        {
+          "steps": [
+            {
+              "title": "Descreva o problema",
+              "text": "Diga o que aconteceu, quando e onde, e envie as fotografias. Seja concreto: «o travão de trás vai até ao fim sem travar bem» diz mais do que «a mota está estranha»."
+            },
+            {
+              "title": "Diga o que pretende",
+              "text": "Outra unidade do mesmo modelo, um modelo diferente ou a reparação da mota que tem. Se aceita mais do que uma opção, diga-o."
+            },
+            {
+              "title": "Combine onde e quando",
+              "text": "Na loja, em {{area}}, ou noutro local, se a loja o propuser. Pergunte se há custo quando a troca é feita fora da loja."
+            },
+            {
+              "title": "Peça a confirmação por escrito",
+              "text": "Espere por uma resposta com a data e a hora da troca, o modelo da nova mota e o que muda no preço."
+            }
+          ]
+        },
+        "Se a mota não puder circular em segurança, não a conduza até à loja para ganhar tempo. Pergunte como deve proceder e onde a pode deixar enquanto espera por uma solução."
+      ]
+    },
+    {
+      "h2": "O que perguntar antes de aceitar a nova mota",
+      "body": [
+        "Uma troca altera o acordo a meio do caminho. Antes de dizer que sim, peça resposta a estes pontos:",
+        {
+          "checklist": [
+            "**Modelo e cilindrada** da nova mota, e se a sua carta a cobre.",
+            "**Preço**: se se mantém ou se muda a partir do dia da troca, e como se acerta o período já pago.",
+            "**Caução**: se existir, se fica igual ou muda com o modelo, e que comprovativo recebe.",
+            "**Data de devolução**: se continua a ser a que estava combinada.",
+            "**A mota anterior**: se o problema lhe é atribuído ou tratado como avaria normal, e se há algum valor a acertar.",
+            "**Documentos**: que documentos da nova mota seguem consigo.",
+            "**Combustível**: com que nível recebe a nova mota e com que nível a deve devolver."
+          ]
+        },
+        {
+          "h3": "Quando o modelo muda, o preço pode mudar"
+        },
+        "A tabela de referência tem preços diferentes consoante o modelo. Ao dia, por exemplo, a Honda Vision custa {{cmp.vision.click.day}} a Honda Click, e a Honda Click custa {{cmp.click.mio.day}} a Yamaha Mio. Uma troca para um modelo de outro escalão pode, por isso, mudar o valor do resto do aluguer; uma troca para um modelo equivalente não tem de o fazer. Confirme sempre o valor com a loja.",
+        {
+          "component": "price-table"
+        },
+        {
+          "h3": "Uma mota maior pode exigir outra carta"
+        },
+        "Desde 2025, a categoria A1 vietnamita abrange motociclos até 125 cm³ (ou com motor elétrico até 11 kW) e, acima disso, é exigida a categoria A. Isto pesa numa troca: a Honda Air Blade, por exemplo, é vendida no Vietname em versões de 125 e de 160 cm³. Se a sua carta só cobre a A1, peça uma unidade de 125 cm³ ou outro modelo e confirme a cilindrada por escrito. O guia da [Air Blade de 125 ou 160](/tipos-de-motas/honda-air-blade-125-ou-160/) explica como distinguir as versões.",
+        "O mesmo cuidado vale noutro sentido: trocar uma scooter automática por uma semiautomática só faz sentido se já domina as mudanças de pé."
+      ]
+    },
+    {
+      "h2": "No momento da troca: devolver uma mota e levantar outra",
+      "body": [
+        "Na prática, a troca é uma devolução seguida de um levantamento. Trate cada parte com o cuidado do primeiro dia, porque é a partir daqui que o estado da nova mota passa a contar.",
+        {
+          "table": {
+            "caption": "O que fazer com cada mota no momento da troca",
+            "head": [
+              "Mota que devolve",
+              "Mota que recebe"
+            ],
+            "rows": [
+              [
+                "Retire os objetos pessoais do compartimento do assento.",
+                "Inspecione os travões, os pneus, as luzes, os piscas e os espelhos."
+              ],
+              [
+                "Verifique o estado com alguém da loja e compare-o com as fotografias do primeiro dia.",
+                "Fotografe-a de todos os lados, incluindo os riscos e as marcas que já tem."
+              ],
+              [
+                "Registe o nível de combustível ou de carga e os quilómetros do painel.",
+                "Fotografe o painel com o nível de combustível ou de carga e os quilómetros."
+              ],
+              [
+                "Entregue a chave e os documentos dessa mota.",
+                "Confira a matrícula na chapa, no certificado de registo e no certificado do seguro."
+              ],
+              [
+                "Peça confirmação escrita de que a mota foi devolvida.",
+                "Dê uma volta curta perto da loja antes de seguir caminho."
+              ]
+            ]
+          }
+        },
+        "Os documentos merecem atenção especial. A lei vietnamita exige que quem conduz leve consigo, entre outros, o certificado de registo do veículo e o certificado do seguro obrigatório de responsabilidade civil, e esses papéis são de cada mota. Se ficar por engano com os da mota anterior, conduz a nova sem os documentos certos. O guia dos [documentos da mota alugada](/guia-de-aluguer/documentos-da-mota-alugada/) mostra como os conferir com a mota.",
+        "A inspeção da nova mota segue a lista do levantamento, descrita no [guia de aluguer passo a passo](/guia-de-aluguer/)."
+      ]
+    },
+    {
+      "h2": "Registar a troca por escrito",
+      "body": [
+        "No fim do aluguer, a verificação faz-se com a mota que tem consigo e com as fotografias tiradas quando a recebeu. Se a troca não ficar registada, essa comparação perde a referência. Peça que fique escrita no acordo, numa linha acrescentada e rubricada pelas duas partes, ou numa mensagem da loja com estes elementos:",
+        {
+          "checklist": [
+            "data e hora da troca;",
+            "matrícula e modelo da mota devolvida e da mota recebida;",
+            "motivo da troca;",
+            "estado das duas motas, com referência às fotografias;",
+            "nível de combustível ou de carga de cada uma;",
+            "o que muda, ou não, no preço, na caução e na data de devolução."
+          ]
+        },
+        {
+          "note": "«Confirmo que hoje, [data], às [hora], devolvi a mota de matrícula [matrícula antiga] e recebi a [modelo] de matrícula [matrícula nova], com [nível] de combustível. O preço [mantém-se / passa a ser …] e a devolução continua marcada para [data e hora]. Podem confirmar?» Preencha os campos entre parênteses retos com os dados da troca.",
+          "tone": "info",
+          "title": "Uma mensagem que pode adaptar"
+        },
+        "Guarde esta mensagem e as fotografias das duas motas até ao fim do aluguer e, se houver caução, até ela ser devolvida."
+      ]
+    },
+    {
+      "h2": "Se a loja não tiver outra mota",
+      "body": [
+        "Nem sempre há uma unidade livre no momento em que precisa. Nesse caso, há várias saídas possíveis, que dependem do que a loja propuser e do que ficou combinado:",
+        {
+          "ul": [
+            "**esperar pela reparação** da mota que tem, se o problema tiver solução rápida;",
+            "**aceitar outro modelo**, depois de confirmar o preço e a categoria de carta;",
+            "**marcar a troca para mais tarde**, quando houver uma unidade livre, continuando com a mota atual só se for segura;",
+            "**terminar o aluguer mais cedo**, depois de perguntar como fica o valor já pago."
+          ]
+        },
+        "Seja qual for a solução, não conduza uma mota com um problema de travões, de pneus ou de luzes à espera de que a troca aconteça. E não dê por certo nenhum acerto de valores sem o ter por escrito.",
+        "Para evitar surpresas, faça esta pergunta logo na reserva: «se a mota avariar e não puder ser usada, a loja troca-a, em que prazo e onde?». Junte-a às [perguntas a fazer antes de alugar](/guia-de-aluguer/perguntas-antes-de-alugar/) e às questões sobre caução e documentos que o guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/) explica em pormenor."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "A troca de mota tem custo?",
+      "a": "O site não publica um valor para trocas. Se a mota avariou, pergunte se a troca tem algum custo; se a troca for a seu pedido, para outro modelo, o preço de referência desse modelo pode ser diferente. Peça o valor antes de aceitar e guarde a resposta."
+    },
+    {
+      "q": "Posso trocar só para experimentar outro modelo?",
+      "a": "Pode perguntar, mas diga-o claramente: é uma alteração ao aluguer a seu pedido, e não uma troca por avaria. Depende das motas livres e pode mudar o preço. Se a loja aceitar, a troca regista-se da mesma forma, com fotografias e confirmação escrita."
+    },
+    {
+      "q": "Tenho de levar a mota à loja para a trocar?",
+      "a": "Pergunte à loja onde se faz a troca. Se for na loja, em {{area}}, combine a hora dentro do horário. Se a mota não puder circular em segurança, não a conduza: explique a situação e pergunte como proceder."
+    },
+    {
+      "q": "A caução passa para a nova mota?",
+      "a": "Se houver caução, pergunte se se mantém igual. As condições de caução dependem do modelo e do aluguer, por isso uma mota diferente pode alterá-las. Peça que a resposta fique escrita e, se o valor mudar, um comprovativo novo."
+    }
+  ],
+  "sources": [
+    "tabela-precos-proprietario",
+    "lei-36-2024-artigo-56",
+    "lei-36-2024-a1",
+    "lawnet-categorias-2025",
+    "chotot-air-blade-125-160"
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "PUBLISHED",
+  "date_published": "2026-10-13",
+  "date_modified": "2026-10-13",
+  "editorial": {
+    "qa_score": 100,
+    "qa_warnings": [],
+    "words": 2008,
+    "publish_mode": "review",
+    "approved_at": "2026-10-13",
+    "revisions": []
+  }
+}

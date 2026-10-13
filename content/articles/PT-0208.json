@@ -1,0 +1,207 @@
+{
+  "contract_version": 1,
+  "id": "PT-0208",
+  "slug": "devolver-noutro-local",
+  "title": "Devolver a mota noutro local em Hanói: o que combinar",
+  "description": "Quer devolver a mota alugada no hotel, no aeroporto ou noutra cidade? Quando pode ser possível, o que pedir à loja e que alternativas ter se não for.",
+  "h1": "Acabar o aluguer fora da loja: hotel, aeroporto ou outra cidade",
+  "summary": "Devolver a mota noutro local que não a loja — no hotel, no aeroporto ou noutra cidade — só é possível se a loja o aceitar para o seu aluguer, e a resposta depende do sítio, do dia e da hora. Peça-o cedo e deixe por escrito o local, a hora, o custo e quem recebe a mota; sem esse acordo, conte com devolvê-la na loja.",
+  "key_points": [
+    "Este site não publica um serviço de recolha nem um preço para ela: a loja responde a cada pedido.",
+    "Peça cedo, com o local exato, a data, a janela horária e o motivo, e espere pela confirmação escrita.",
+    "Fora da loja, entregue a mota e a chave apenas à pessoa que a loja indicar.",
+    "Combine também a verificação, o pagamento final e a caução, que deixam de se tratar ao balcão.",
+    "Se a resposta for não, devolver na loja mais cedo ou desenhar a viagem em circuito são as alternativas mais simples."
+  ],
+  "intro": [
+    "O plano mais simples é devolver a mota onde a levantou, na loja em {{area}}. Mas as viagens nem sempre acabam no mesmo sítio: um voo a meio da tarde, uma mala pesada à espera no hotel ou uma volta pelo norte que termina noutra cidade fazem surgir a pergunta — posso entregar a mota noutro lado?",
+    "A resposta honesta é que depende, e quem decide é a loja, caso a caso. Este guia explica em que situações vale a pena pedir, o que a loja precisa de saber, o que deixar combinado por escrito e que alternativas ter se a resposta for negativa. O percurso completo do aluguer, do orçamento à devolução, está no [guia de aluguer passo a passo](/guia-de-aluguer/)."
+  ],
+  "sections": [
+    {
+      "h2": "Porque a resposta depende sempre da loja",
+      "body": [
+        "Os [termos e condições](/termos-e-condicoes/) deste site são claros: o veículo, as datas, o preço, a caução, a entrega e a devolução acordam-se diretamente com a loja, e o acordo prevalece sobre o que o site diz. Não há, portanto, uma lista pública de locais de devolução nem um preço de recolha publicado. A [tabela de preços](/precos/) mostra o aluguer da mota, e só isso.",
+        "Para a loja, receber a mota fora de portas significa ter alguém disponível para ir ao local à hora marcada e voltar com a mota. Por isso, a resposta pode variar com:",
+        {
+          "ul": [
+            "**a distância** entre o sítio pretendido e a loja;",
+            "**o dia e a hora**, sobretudo ao fim da tarde, quando atravessar o rio Vermelho demora mais;",
+            "**quem está disponível** na loja nesse momento;",
+            "**o tipo de local**: um hotel com receção e parque não é o mesmo que uma esquina de rua ou a saída de um terminal."
+          ]
+        },
+        "Daqui resulta uma regra prática: até ter uma confirmação escrita, conte com devolver a mota na loja e organize o último dia em função disso."
+      ]
+    },
+    {
+      "h2": "Os pedidos mais comuns e o que implicam",
+      "body": [
+        "Os pedidos de devolução fora da loja cabem quase todos em quatro casos. Nenhum é apenas «deixar a mota»: em todos, alguém da loja tem de se deslocar e a verificação deixa de ser feita ao balcão.",
+        {
+          "table": {
+            "caption": "Devolução fora da loja: o que cada pedido implica",
+            "head": [
+              "Local pretendido",
+              "O que a loja tem de organizar",
+              "O que confirmar"
+            ],
+            "rows": [
+              [
+                "Hotel ou alojamento em Hanói",
+                "Alguém que vá ao local e regresse com a mota",
+                "Hora, custo, onde se faz a verificação e quem recebe a mota"
+              ],
+              [
+                "Outro ponto da cidade",
+                "Uma deslocação a um sítio sem receção nem parque",
+                "Um ponto de encontro fácil de reconhecer e o plano para um atraso"
+              ],
+              [
+                "Aeroporto de Nội Bài",
+                "Uma deslocação longa, com a hora presa ao seu voo",
+                "Se é possível, o ponto de encontro exato e a margem antes do voo"
+              ],
+              [
+                "Outra cidade",
+                "O regresso da mota a Hanói",
+                "Se a loja aceita, como volta a mota, quanto custa e quem responde por ela pelo caminho"
+              ]
+            ]
+          }
+        },
+        "Quanto mais perto da loja e mais simples o local, mais fácil é a resposta. O aeroporto e as outras cidades são os casos mais exigentes e têm secções próprias mais abaixo."
+      ]
+    },
+    {
+      "h2": "Como fazer o pedido à loja",
+      "body": [
+        "Quanto mais cedo, melhor. O ideal é falar disso logo no pedido de orçamento, junto com as datas. Se o plano mudar a meio da viagem, peça assim que souber, e não na véspera à noite.",
+        "Numa só mensagem para o {{phone}}, por telefone ou Zalo, indique:",
+        {
+          "checklist": [
+            "o local exato da devolução: nome do hotel e morada em vietnamita, ou a localização partilhada no Google Maps;",
+            "a data e uma janela horária, com uma alternativa;",
+            "o motivo, se ajudar a loja a propor outra solução, por exemplo a hora do voo;",
+            "o modelo e a matrícula da mota;",
+            "o número de telemóvel ou de Zalo em que está contactável nesse dia."
+          ]
+        },
+        "Um exemplo, fácil de passar por um tradutor: «Bom dia. Tenho a [modelo], matrícula [matrícula], para devolver no dia [data]. O meu voo é às [hora] e gostava de entregar a mota no hotel [nome], [morada], entre as 08:00 e as 09:00. É possível? Tem custo?»",
+        "Espere pela resposta escrita antes de reorganizar o último dia. Um «talvez» ou um «vamos ver» não é uma confirmação."
+      ]
+    },
+    {
+      "h2": "O que deixar combinado por escrito",
+      "body": [
+        "Se a loja aceitar, a confirmação deve responder a estas perguntas. Uma frase para cada uma chega:",
+        {
+          "checklist": [
+            "Onde exatamente, e a que horas, alguém da loja recebe a mota?",
+            "Qual é o custo, e paga-se no local ou à parte?",
+            "Como e onde se faz a verificação do estado da mota?",
+            "A partir de que momento a mota deixa de estar a meu cargo?",
+            "Se houver caução, é devolvida no local, mais tarde ou por outra via? Com que comprovativo?",
+            "Com que nível de combustível devo entregar a mota?",
+            "O que acontece se a pessoa da loja se atrasar, ou se for eu a atrasar-me?"
+          ]
+        },
+        "A pergunta sobre a responsabilidade é a que mais se esquece. Na loja, a entrega da chave e a verificação acontecem no mesmo sítio e ao mesmo tempo; fora dela, convém saber com exatidão quando é que a mota passa para as mãos da loja. Sobre a caução, o guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/) explica o que perguntar."
+      ]
+    },
+    {
+      "h2": "No dia: entregar a mota fora da loja",
+      "body": [
+        "A devolução segue os passos de uma devolução normal — combustível, objetos pessoais, verificação conjunta, comprovativos —, mas com três diferenças que convém preparar:",
+        {
+          "ul": [
+            "**A luz e o espaço.** À porta de um hotel ou numa rua, a verificação faz-se onde houver lugar. Escolha um sítio iluminado e fora da faixa de rodagem e evite marcar a entrega para depois do anoitecer.",
+            "**A pessoa certa.** Entregue a mota e a chave apenas a quem a loja indicou. A receção do hotel, o responsável do parque ou um vizinho não substituem a loja, a menos que isso esteja combinado por escrito.",
+            "**O registo.** Antes de a pessoa partir, peça-lhe que confirme na conversa com a loja que recebeu a mota, com a hora. Fotografe a mota e o painel nesse momento."
+          ]
+        },
+        "Tudo o que recebeu tem de seguir com a mota: chave, capacetes, acessórios e documentos do veículo. O guia dos [documentos da mota alugada](/guia-de-aluguer/documentos-da-mota-alugada/) lembra quais são e porque não devem ficar esquecidos numa bolsa."
+      ]
+    },
+    {
+      "h2": "Aeroporto: pense duas vezes antes de pedir",
+      "body": [
+        "Entregar a mota no aeroporto parece a solução perfeita para o último dia, mas junta dois horários rígidos — o do voo e o da pessoa que recebe a mota — numa deslocação longa a partir do centro. Um atraso de qualquer dos lados deixa-o a escolher entre perder o voo e deixar a mota sem ninguém.",
+        "Há ainda a bagagem. Conduzir uma scooter até ao aeroporto com a mala da viagem é desconfortável e pouco seguro, sobretudo se levar passageiro.",
+        "Muitas vezes, a alternativa é mais simples: devolver a mota na loja de manhã, com tempo para a verificação, e seguir depois de táxi ou de transporte por aplicação. Se mesmo assim quiser perguntar pela entrega no aeroporto, indique o número do voo e a hora de partida e peça o ponto de encontro exato."
+      ]
+    },
+    {
+      "h2": "Acabar a viagem noutra cidade",
+      "body": [
+        "Alugar em Hanói e terminar a viagem noutra cidade, depois de uma volta pelo norte ou a caminho do sul, é o pedido mais difícil de satisfazer, porque a mota tem de regressar a Hanói. Antes de planear a viagem nesse pressuposto, pergunte à loja se aceita este tipo de aluguer.",
+        "Se a resposta for sim, peça por escrito:",
+        {
+          "ul": [
+            "como e quando a mota regressa a Hanói, e quem trata disso;",
+            "quanto custa esse regresso e quando se paga;",
+            "quem responde pela mota durante o transporte, e a partir de que momento;",
+            "como fica a caução, se a houver, e quando é restituída;",
+            "onde e a quem entrega a mota, a chave e os documentos no destino."
+          ]
+        },
+        "Se a resposta for não, há duas formas de manter a viagem. Pode desenhá-la em circuito, com regresso a Hanói, ou usar a mota só nos dias passados na cidade e arredores — por exemplo, num roteiro como [Hanói de mota num dia](/rotas-e-mobilidade/hanoi-de-mota-num-dia/) — e fazer o resto do percurso de autocarro, comboio ou avião.",
+        {
+          "note": "Organizar por sua conta o envio da mota para Hanói, sem acordo escrito da loja, deixa por esclarecer quem responde por ela pelo caminho e em que estado chega. A mota é da loja: qualquer solução de transporte tem de passar por ela.",
+          "tone": "warn",
+          "title": "Não despache a mota por iniciativa própria"
+        }
+      ]
+    },
+    {
+      "h2": "Se a resposta for não: alternativas práticas",
+      "body": [
+        "Uma recusa não tem de estragar a viagem. Reorganizar o último dia pode chegar:",
+        {
+          "ul": [
+            "**Devolver na loja mais cedo.** Marque a devolução para a manhã do último dia, deixe a bagagem no alojamento e use o resto do dia a pé ou de táxi. Se isso encurtar o aluguer, pergunte se o valor pago se ajusta.",
+            "**Terminar o aluguer na véspera.** Se o último dia é só de malas e aeroporto, talvez não precise da mota; compare os períodos na tabela de preços antes de fechar as datas.",
+            "**Voltar da loja de táxi.** Depois de devolver a mota, o regresso ao hotel faz-se de táxi ou por aplicação; guarde o nome e a morada do alojamento em vietnamita no telemóvel."
+          ]
+        },
+        "Em nenhum caso deixe a mota estacionada à porta do hotel, com a chave na receção, à espera de que alguém a venha buscar, se a loja não o aceitou por escrito. Sem verificação nem comprovativo, o que acontecer à mota até à recolha fica por esclarecer.",
+        "Se a mota avariar ou ficar imobilizada longe da loja, a lógica é a mesma, mas mais urgente: diga à loja onde está a mota, siga as instruções que lhe derem e não a deixe numa oficina ou num parque sem a loja saber. A morada e o mapa da loja estão em [contactos](/contactos/)."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Se a mota me foi entregue no hotel, a recolha no fim fica incluída?",
+      "a": "Não presuma. A entrega no início e a recolha no fim são pedidos diferentes, e cada um pode ter condições próprias. Se quer as duas, peça-as na mesma mensagem e confirme se o valor indicado cobre a ida e a volta."
+    },
+    {
+      "q": "Posso deixar a mota no parque do hotel e a chave na receção?",
+      "a": "Só se a loja o aceitar por escrito e indicar quem a recolhe e quando. Sem esse acordo, a mota fica sem verificação e sem comprovativo de entrega, e o que lhe acontecer até à recolha fica por esclarecer. Na dúvida, devolva-a na loja."
+    },
+    {
+      "q": "E se a pessoa da loja não aparecer à hora combinada?",
+      "a": "Ligue para o {{phone}} e envie uma mensagem com a hora e a localização, para ficar registado. Não deixe a mota sozinha para apanhar um transporte. Se tiver um voo, combine desde o início uma hora com folga, para que um atraso não o obrigue a escolher."
+    },
+    {
+      "q": "Com quanto tempo de antecedência devo pedir?",
+      "a": "Assim que souber que o aluguer não vai terminar na loja, de preferência no pedido de orçamento. Um pedido feito na véspera pode não ter resposta a tempo, e é com essa resposta que organiza o último dia."
+    }
+  ],
+  "sources": [],
+  "legal_note": false,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "PUBLISHED",
+  "date_published": "2026-10-13",
+  "date_modified": "2026-10-13",
+  "editorial": {
+    "qa_score": 100,
+    "qa_warnings": [],
+    "words": 1916,
+    "publish_mode": "review",
+    "approved_at": "2026-10-13",
+    "revisions": []
+  }
+}

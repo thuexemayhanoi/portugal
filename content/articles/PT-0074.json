@@ -1,0 +1,186 @@
+{
+  "contract_version": 1,
+  "id": "PT-0074",
+  "slug": "devolver-a-mota-mais-cedo",
+  "title": "Devolver a mota mais cedo: o que perguntar sobre o valor pago",
+  "description": "Vai devolver a mota alugada antes do prazo? Que perguntas fazer à loja sobre os dias por usar, a caução e o acerto de valores, sem contar com reembolsos.",
+  "h1": "Devolução antecipada da mota alugada: dias por usar, acertos e o que combinar",
+  "summary": "Se devolver a mota mais cedo do que o combinado, o valor dos dias por usar só é acertado se o acordo com a loja o previr. Pergunte antes de pagar se há acerto, como se calcula e quando é feito, e guarde a resposta por escrito.",
+  "key_points": [
+    "O site não publica regras para devoluções antecipadas: o que vale é o que combinar com a loja para o seu aluguer.",
+    "As tarifas semanal e mensal são preços de um período inteiro, não somas de dias, e isso pesa em qualquer acerto.",
+    "Pergunte antes de pagar se há acerto, como se calcula, de que forma e em que prazo.",
+    "Devolver mais cedo por decisão sua não é o mesmo que devolver porque a mota deixou de funcionar: pergunte pelos dois casos.",
+    "Se os planos mudarem, avise a loja logo que souber e combine a hora da devolução dentro do horário, {{hours}}."
+  ],
+  "intro": [
+    "Os planos mudam: um voo antecipado, uma viagem para fora de Hanói que se prolonga, dois dias de chuva forte ou, simplesmente, a decisão de não voltar a conduzir no trânsito da cidade. Quando isso acontece a meio do aluguer, surge a pergunta inevitável: o que acontece ao dinheiro dos dias que não vai usar?",
+    "Não há uma resposta única. A devolução mais cedo trata-se de forma diferente de loja para loja, e a [tabela de preços](/precos/) da loja {{brand}} não publica nenhuma regra sobre o assunto. Este guia não adivinha essa política: mostra que perguntas fazer, quando fazê-las e como deixar a resposta registada, para que terminar o aluguer antes do tempo não acabe num mal-entendido."
+  ],
+  "sections": [
+    {
+      "h2": "O que a tabela de preços diz e o que deixa em aberto",
+      "body": [
+        "A tabela publica tarifas por dia, por semana e por mês para cada modelo. Não indica se os dias por usar são devolvidos, se há um valor mínimo a pagar nem como se recalcula um período interrompido. Tudo isso faz parte do acordo de aluguer, que é a loja a definir e a confirmar.",
+        "Os [termos e condições](/termos-e-condicoes/) do site dizem o mesmo por outras palavras: as condições de cada aluguer, incluindo a devolução, são acordadas diretamente com a loja e prevalecem sobre a informação geral publicada. A única resposta fiável é, por isso, a que a loja lhe der para as suas datas.",
+        {
+          "note": "Neste guia, «acerto» é qualquer ajuste ao valor pago quando a mota volta antes do prazo: devolução de parte do dinheiro, crédito para outra altura ou novo cálculo do período. Se existe e como funciona, só a loja o pode dizer.",
+          "tone": "info",
+          "title": "Uma palavra, várias possibilidades"
+        }
+      ]
+    },
+    {
+      "h2": "Porque é que a semana e o mês complicam as contas",
+      "body": [
+        "Num aluguer pago ao dia, a conta é intuitiva: cada dia tem o seu preço. Nas tarifas semanal e mensal, o preço é do período inteiro. Numa Honda Wave, por exemplo, a semana de {{price.wave.week}} custa o mesmo ou menos do que pagar {{price.wave.day}} por dia a partir de {{price.wave.weekFrom}} dias. É deste desfasamento que nascem as dúvidas na devolução antecipada.",
+        {
+          "component": "duration-compare"
+        },
+        "Imagine que pagou uma semana e devolve a mota antes do sétimo dia. Uma das formas de fazer um acerto seria recalcular os dias usados ao preço diário. Mas, se usou a mota durante pelo menos o número de dias indicado na tabela acima, esses dias pagos ao preço diário já custariam o mesmo ou mais do que a semana — e, por essa via, não sobraria nada a acertar.",
+        "Outras formas possíveis são a devolução proporcional dos dias por usar, um crédito para outra altura ou nenhum acerto. O site não publica qual delas se aplica: é exatamente isso que deve perguntar.",
+        {
+          "h3": "E no aluguer mensal?"
+        },
+        "O raciocínio é o mesmo, com uma particularidade: em vários modelos o preço mensal é um intervalo — {{price.vision.month}} na Honda Vision, por exemplo — e o valor exato depende das condições do acordo. Se pensa que pode encurtar a estadia, diga-o ao pedir o orçamento e pergunte se essa possibilidade muda as condições propostas. O guia do [aluguer mensal](/precos/aluguer-mensal-de-mota/) explica os restantes pontos a combinar num mês."
+      ]
+    },
+    {
+      "h2": "As perguntas a fazer antes de pagar",
+      "body": [
+        "O melhor momento para esclarecer a devolução antecipada é antes de fechar o aluguer, quando ainda pode comparar e escolher a duração. Junte estas perguntas à mensagem de reserva:",
+        {
+          "ol": [
+            "Se devolver a mota antes da data combinada, há algum acerto do valor pago?",
+            "Se houver, como é calculado: pelos dias por usar, recalculando os dias usados ao preço diário ou de outra forma?",
+            "Há um período mínimo que é sempre cobrado?",
+            "O acerto é feito em dinheiro, por transferência ou como crédito para outro aluguer — e quando?",
+            "Com quanta antecedência devo avisar que vou devolver mais cedo?",
+            "Se existir caução, é devolvida no próprio dia da devolução antecipada?",
+            "O que muda se a devolução antecipada for causada por uma avaria da mota?"
+          ]
+        },
+        "Uma boa resposta é concreta: diz o que acontece, como se calcula e quando. Se for vaga — «depois logo se vê» —, peça um exemplo com as suas datas e o modelo que escolheu.",
+        "Estas perguntas completam a lista geral das [15 perguntas a fazer antes de alugar](/guia-de-aluguer/perguntas-antes-de-alugar/), que cobre a caução, os documentos e o equipamento."
+      ]
+    },
+    {
+      "h2": "Decisão sua ou problema da mota: casos diferentes",
+      "body": [
+        {
+          "h3": "Quando os seus planos mudam"
+        },
+        "Se a mota está em boas condições e decide devolvê-la mais cedo — porque muda de cidade, antecipa o voo ou prefere outro transporte —, aplica-se o que tiver ficado combinado sobre devoluções antecipadas. Se nada ficou combinado, a conversa começa do zero no dia da devolução, que é o pior momento para a ter.",
+        {
+          "h3": "Quando a mota deixa de poder ser usada"
+        },
+        "Uma avaria que impeça a utilização é outra situação. Antes de alugar, pergunte o que a loja faz nesse caso: se substitui a mota por outra unidade, em que prazo e o que acontece aos dias pagos se não houver substituição. Se acontecer, contacte a loja de imediato pelo {{phone}}, fotografe o problema e não mande fazer reparações sem acordo.",
+        {
+          "h3": "Quando há danos a resolver"
+        },
+        "Se a devolução antecipada coincidir com danos na mota, o acerto dos dias e o custo da reparação são duas conversas diferentes. Peça que fiquem separadas por escrito: o que diz respeito ao período pago e o que diz respeito ao dano. Assim, cada valor fica claro e pode ser conferido com as fotografias tiradas no levantamento."
+      ]
+    },
+    {
+      "h2": "Já tem a mota e precisa de a devolver mais cedo",
+      "body": [
+        "Se os planos mudaram com o aluguer já a decorrer, siga esta ordem para que a devolução seja rápida e sem discussões:",
+        {
+          "steps": [
+            {
+              "title": "Avise logo",
+              "text": "Envie uma mensagem à loja assim que souber, com a data e a hora em que pretende devolver a mota, dentro do horário de funcionamento."
+            },
+            {
+              "title": "Recupere o que foi combinado",
+              "text": "Procure na conversa da reserva o que ficou dito sobre devoluções antecipadas e cite-o na mensagem."
+            },
+            {
+              "title": "Peça o valor antes de ir",
+              "text": "Pergunte se há algum acerto e de quanto, para não ter de discutir números no momento da entrega."
+            },
+            {
+              "title": "Devolva com a verificação habitual",
+              "text": "Combustível no nível combinado, objetos pessoais retirados e uma volta à mota em conjunto com alguém da loja."
+            },
+            {
+              "title": "Feche as contas por escrito",
+              "text": "Peça o comprovativo do acerto feito, se houver, e da devolução da caução, se existir."
+            }
+          ]
+        },
+        "A loja está aberta {{hours}}. Os dados para a contactar estão na página de [contactos](/contactos/); a morada em vietnamita, útil para mostrar a um taxista no regresso, é {{address.vi}}."
+      ]
+    },
+    {
+      "h2": "Escolher a duração para reduzir o risco",
+      "body": [
+        "A forma mais simples de evitar uma devolução antecipada é não se comprometer com mais tempo do que tem a certeza de usar. Algumas orientações:",
+        {
+          "ul": [
+            "**Planos firmes**: se sabe que vai conduzir quase todos os dias, a [tarifa semanal](/precos/aluguer-semanal-de-mota/) ou a mensal fazem sentido, com a pergunta sobre devoluções antecipadas já respondida.",
+            "**Planos em aberto**: comece por um período mais curto e pergunte desde o início como funcionaria um prolongamento, para só se comprometer com mais dias quando tiver a certeza.",
+            "**Primeira vez no trânsito de Hanói**: experimente um dia antes de fechar uma semana — o guia do [aluguer por um dia](/precos/aluguer-de-mota-por-um-dia/) ajuda a organizá-lo.",
+            "**Dias fora da cidade sem a mota**: se parte da estadia vai ser passada noutro destino, conte só os dias em que vai conduzir antes de escolher a tarifa."
+          ]
+        },
+        "Há um equilíbrio a fazer. Numa Honda Vision, pagar ao dia já custa o mesmo ou mais do que a semana a partir de {{price.vision.weekFrom}} dias; se começar com dias avulsos e acabar por usar a mota muito tempo, pode pagar mais do que pagaria pela semana fechada à partida. Pergunte à loja se, nesse caso, os dias já pagos podem passar para a tarifa semanal.",
+        "Se o modelo que tem em vista é a [Honda Vision](/tipos-de-motas/honda-vision-em-hanoi/), o guia do modelo ajuda a perceber se é a scooter certa antes de se comprometer com um período longo."
+      ]
+    },
+    {
+      "h2": "Como registar o acordo para evitar mal-entendidos",
+      "body": [
+        "Os desentendimentos sobre dinheiro nascem quase sempre de acordos feitos de viva voz ou de respostas soltas. Uma mensagem escrita com estes pontos resolve a maioria:",
+        {
+          "checklist": [
+            "a data e a hora de levantamento e de devolução previstas;",
+            "o total pago e o período a que corresponde;",
+            "o que acontece se devolver mais cedo, nas palavras da loja;",
+            "o que acontece se a mota avariar e não puder ser substituída;",
+            "as condições da caução, se existir."
+          ]
+        },
+        "Guarde a conversa até ao fim do aluguer e, de preferência, até a caução estar devolvida. Se a resposta da loja for diferente do que leu no site, prevalece o que combinar com ela — mais uma razão para a ter por escrito.",
+        "As regras gerais sobre garantias e devolução da caução estão no guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/)."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Recebo de volta o dinheiro dos dias que não usei?",
+      "a": "Depende do acordo com a loja: o site não publica nenhuma regra de reembolso para devoluções antecipadas. Pergunte antes de pagar se há acerto e como é calculado, e guarde a resposta. Sem essa combinação, não conte com a devolução do valor."
+    },
+    {
+      "q": "A caução é devolvida se entregar a mota antes do prazo?",
+      "a": "Se existir caução, as condições de devolução são as que combinou com a loja. Pergunte se é devolvida no próprio dia da devolução antecipada e em que situações pode haver descontos, como danos ou combustível em falta."
+    },
+    {
+      "q": "Posso trocar os dias por usar por outro modelo ou por outra data?",
+      "a": "Não assuma que sim. Uma troca de modelo depende das unidades livres e pode mudar o preço, e um crédito para outra data só existe se a loja o aceitar. Pergunte e peça a resposta por escrito."
+    },
+    {
+      "q": "Devolver mais cedo é o mesmo que cancelar a reserva?",
+      "a": "Não. Cancelar é desistir antes de levantar a mota; devolver mais cedo acontece com o aluguer já a decorrer. São situações diferentes, e convém perguntar à loja como trata cada uma antes de reservar."
+    }
+  ],
+  "sources": [
+    "tabela-precos-proprietario"
+  ],
+  "legal_note": false,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "PUBLISHED",
+  "date_published": "2026-10-13",
+  "date_modified": "2026-10-13",
+  "editorial": {
+    "qa_score": 100,
+    "qa_warnings": [],
+    "words": 1786,
+    "publish_mode": "review",
+    "approved_at": "2026-10-13",
+    "revisions": []
+  }
+}

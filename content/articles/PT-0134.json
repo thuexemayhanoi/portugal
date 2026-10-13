@@ -1,0 +1,343 @@
+{
+  "contract_version": 1,
+  "id": "PT-0134",
+  "slug": "acordo-de-aluguer",
+  "title": "Contrato de aluguer de mota: o que deve constar e como lê-lo",
+  "description": "O que deve constar num contrato de aluguer de mota em Hanói, como ler as cláusulas de danos, avarias e multas e que sinais justificam pedir uma correção.",
+  "h1": "O acordo de aluguer da mota, cláusula a cláusula: o que verificar antes de assinar",
+  "summary": "Um contrato de aluguer de mota deve identificar a loja, o cliente e a mota (modelo e matrícula), as datas e horas de levantamento e de devolução, o preço total, a caução, se existir, e quem responde por danos, avarias, furto e multas. Leia cada cláusula com a mota à frente, peça explicação do que for vago e guarde uma cópia do documento assinado.",
+  "key_points": [
+    "Um acordo útil cabe numa folha: o essencial é que identifique a mota, as datas, o preço total e as regras de devolução.",
+    "A matrícula escrita no acordo tem de ser a da chapa e a do certificado de registo que segue com a mota.",
+    "As cláusulas sobre danos, avarias, furto e multas são as que mais pesam no fim do aluguer: leia-as duas vezes.",
+    "Campos em branco, valores diferentes dos combinados ou a recusa de lhe dar uma cópia são motivos para parar antes de assinar.",
+    "Qualquer alteração posterior — prolongamento, troca de mota, outro condutor — também deve ficar por escrito."
+  ],
+  "intro": [
+    "O contrato de aluguer de mota é, muitas vezes, o documento mais curto de toda a viagem e o que menos atenção recebe. Pode ser uma folha impressa, um formulário preenchido à mão ou apenas um recibo, e às vezes está só em vietnamita. Ainda assim, é ele que decide o que acontece se a mota se avariar, se aparecer um risco novo ou se se atrasar na devolução.",
+    "Este guia percorre o acordo cláusula a cláusula: o que deve constar, como o ler com a mota à frente, as palavras vietnamitas que vai encontrar e os sinais que justificam pedir uma correção antes de assinar. Para preparar os documentos pessoais e perceber a caução, comece pelo guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/). Se ainda não contactou nenhuma loja, a lista de [perguntas a fazer antes de alugar](/guia-de-aluguer/perguntas-antes-de-alugar/) ajuda-o a chegar a este momento com as respostas já dadas."
+  ],
+  "sections": [
+    {
+      "h2": "Que forma pode ter o acordo",
+      "body": [
+        "O nome importa pouco. Contrato, acordo, ficha de aluguer ou recibo: o que conta é existir um registo escrito, aceite pelas duas partes, com os pontos essenciais do aluguer. Na prática, aparece de três formas:",
+        {
+          "ul": [
+            "**um contrato impresso**, com cláusulas gerais e espaços para preencher os dados do seu aluguer;",
+            "**uma ficha ou um recibo** com os dados principais e a assinatura das duas partes;",
+            "**uma troca de mensagens**, por exemplo no Zalo, em que a loja confirma o modelo, as datas, o preço e as condições."
+          ]
+        },
+        "Qualquer uma pode funcionar, desde que fique claro o que foi combinado e que fique com uma cópia. Uma conversa por mensagem tem a vantagem de ficar datada no seu telemóvel; um papel assinado reúne tudo num só sítio. Se a loja usar um documento em papel, nada impede que confirme também por mensagem os pontos mais importantes.",
+        "Os preços e as condições publicados neste site são de referência. Como explicam os [termos e condições](/termos-e-condicoes/), o aluguer rege-se pelo acordo feito diretamente com a loja e, se houver diferenças, prevalece o acordo. É mais uma razão para o ler com atenção, mesmo que já conheça a tabela."
+      ]
+    },
+    {
+      "h2": "O que deve constar: os elementos essenciais",
+      "body": [
+        "Seja qual for o formato, um acordo completo responde a dez perguntas. A tabela resume o que procurar em cada uma e porque é importante.",
+        {
+          "table": {
+            "caption": "Elementos de um acordo de aluguer de mota e o que confirmar",
+            "head": [
+              "Elemento",
+              "O que deve constar",
+              "Porque importa"
+            ],
+            "rows": [
+              [
+                "Partes",
+                "Nome e contacto da loja; o seu nome e o documento de identificação apresentado",
+                "Sabe a quem recorrer e o acordo fica associado a si"
+              ],
+              [
+                "Mota",
+                "Modelo e matrícula e, por vezes, os números de quadro e de motor",
+                "Prova qual foi a mota entregue e permite conferi-la com os documentos"
+              ],
+              [
+                "Datas e horas",
+                "Dia e hora de levantamento e de devolução",
+                "Define quando começa e acaba o aluguer e a partir de quando há atraso"
+              ],
+              [
+                "Preço",
+                "Total do período, ou valor por dia, semana ou mês e número de períodos",
+                "Evita somas diferentes no último dia"
+              ],
+              [
+                "Pagamento",
+                "Montante pago, data e forma de pagamento",
+                "Prova o que já pagou"
+              ],
+              [
+                "Caução",
+                "Se existe, a forma, o montante e as condições de devolução",
+                "É o ponto que mais discussões gera na devolução"
+              ],
+              [
+                "Estado à entrega",
+                "Danos já existentes, combustível ou carga, quilómetros no painel",
+                "Separa o que já existia do que aconteça durante o aluguer"
+              ],
+              [
+                "Equipamento",
+                "Capacetes, capa de chuva ou outros acessórios entregues",
+                "Evita cobranças por objetos que nunca recebeu"
+              ],
+              [
+                "Devolução",
+                "Local, hora limite, nível de combustível e consequências de um atraso",
+                "Fixa as regras do último dia"
+              ],
+              [
+                "Responsabilidades",
+                "Danos, avarias, furto, perda da chave ou dos documentos, multas",
+                "Diz quem paga o quê se algo correr mal"
+              ]
+            ]
+          }
+        },
+        "Há dois pontos que nem sempre aparecem e que evitam mal-entendidos: **quem pode conduzir** a mota (só quem a alugou ou também outra pessoa) e **por onde pode circular** (só em Hanói ou também fora da cidade). Se forem relevantes para a sua viagem e não estiverem escritos, peça que os acrescentem."
+      ]
+    },
+    {
+      "h2": "Identificar a mota: matrícula, modelo e documentos",
+      "body": [
+        "A cláusula mais simples é também a mais fácil de verificar. A matrícula escrita no acordo tem de coincidir com a chapa da mota que vai levar e com a do certificado de registo que segue com ela. Se o acordo indicar o modelo e a cilindrada, confirme que correspondem à mota: a cilindrada decide a categoria de carta de que precisa.",
+        "Se, à última hora, lhe entregarem outra unidade, peça que o acordo seja corrigido antes de sair. Um acordo que descreve uma mota quando a chave liga outra deixa as duas partes sem referência no fim do aluguer.",
+        "Os documentos do veículo — o certificado de registo e o do seguro obrigatório — são tema próprio. O guia sobre os [documentos da mota alugada](/guia-de-aluguer/documentos-da-mota-alugada/) explica como os conferir com a mota e onde os guardar."
+      ]
+    },
+    {
+      "h2": "Preço, pagamento e caução: o que confirmar no papel",
+      "body": [
+        "O valor escrito no acordo deve ser o que lhe foi indicado por mensagem ou ao balcão. Se a loja calcular ao dia, confirme o número de dias e a forma de contar cada um; se usar uma tarifa semanal ou mensal, confirme a que período corresponde. A tabela de [preços de referência](/precos/) dá-lhe uma ordem de grandeza por modelo, mas o valor que conta é o do seu acordo.",
+        "Verifique também se o pagamento já feito ficou registado, com montante, data e forma. Um acordo que não menciona um pagamento adiantado obriga-o a provar mais tarde que pagou.",
+        "Na caução, o acordo deve dizer, pelo menos:",
+        {
+          "checklist": [
+            "se há caução no seu aluguer e de que tipo;",
+            "o montante, quando for em dinheiro;",
+            "quando e onde é devolvida;",
+            "em que situações a loja pode reter uma parte e como se calcula esse valor;",
+            "se fica algum documento seu na loja e quando lhe é devolvido."
+          ]
+        },
+        "Este guia não indica montantes: as condições variam com a loja, o modelo e a duração. O que importa é que o que lhe disseram coincida com o que ficou escrito."
+      ]
+    },
+    {
+      "h2": "As cláusulas de responsabilidade, lidas com calma",
+      "body": [
+        "É nesta parte que um acordo bem feito faz a diferença. Leia cada cláusula a pensar num caso concreto: «se tiver um furo no segundo dia, o que diz o acordo?».",
+        {
+          "h3": "Danos à mota"
+        },
+        "Procure como é avaliado um dano: pelo custo da reparação numa oficina, com recibo, ou por um valor fixo definido pela loja. Confirme se o desgaste normal — pneus, pastilhas dos travões, pequenas marcas de uso — fica de fora. Uma cláusula que diz apenas «o cliente paga todos os danos», sem explicar como se calculam, merece uma pergunta.",
+        {
+          "h3": "Avarias e furos"
+        },
+        "Um bom acordo distingue a avaria que resulta do uso normal, como uma falha elétrica, da que resulta de uma utilização indevida. Confirme também o procedimento: se deve contactar a loja antes de mandar reparar, se pode recorrer a uma oficina de rua e como é reembolsado, se for o caso.",
+        {
+          "h3": "Furto e perda da chave ou dos documentos"
+        },
+        "Veja o que o acordo prevê para o furto da mota, a perda da chave e a perda do certificado de registo. Pergunte que passos tem de dar, por exemplo avisar a loja e a polícia, e como se calcula o valor a pagar, se houver algum.",
+        {
+          "h3": "Multas durante o aluguer"
+        },
+        "No Vietname, as infrações detetadas por câmaras de trânsito são notificadas a quem consta como proprietário da mota no registo — numa mota alugada, a loja — e o aviso pode chegar depois da devolução. Por isso faz sentido que o acordo diga quem paga as multas do período do aluguer, como é informado e se podem atrasar a devolução da caução.",
+        {
+          "h3": "Seguro"
+        },
+        "Se o acordo mencionar um seguro, pergunte qual é e o que cobre. O seguro obrigatório da mota é de responsabilidade civil: indemniza terceiros pelos danos que a mota lhes cause, mas não é um seguro da própria mota nem um seguro de acidentes para quem a conduz. Para esses casos, conta o que estiver escrito no acordo e o que cobrir o seu seguro de viagem."
+      ]
+    },
+    {
+      "h2": "Como ler o acordo antes de assinar",
+      "body": [
+        "Reserve dez minutos para esta leitura e faça-a com a mota à frente, no momento do levantamento. Esta ordem evita que salte os pontos importantes:",
+        {
+          "steps": [
+            {
+              "title": "Compare com o que foi combinado",
+              "text": "Abra a conversa com a loja no telemóvel e confirme que o modelo, as datas, as horas e o preço do acordo são os mesmos."
+            },
+            {
+              "title": "Confira a mota",
+              "text": "Compare a matrícula do acordo com a chapa e, se houver uma lista de danos, procure cada um deles na mota."
+            },
+            {
+              "title": "Leia as responsabilidades",
+              "text": "Para cada cláusula sobre danos, avarias, furto e multas, imagine um caso concreto. Peça explicação para o que for vago."
+            },
+            {
+              "title": "Procure campos em branco",
+              "text": "Espaços por preencher, como o valor da caução ou a hora de devolução, devem ser preenchidos ou riscados antes de assinar."
+            },
+            {
+              "title": "Traduza o que não percebe",
+              "text": "Se o acordo estiver só em vietnamita, aponte a câmara de uma aplicação de tradução para o texto e peça à loja que confirme os pontos principais por mensagem."
+            },
+            {
+              "title": "Assine e guarde uma cópia",
+              "text": "Fotografe todas as páginas depois de assinadas, incluindo as assinaturas, e peça uma cópia em papel, se a loja a tiver."
+            }
+          ]
+        },
+        {
+          "note": "Não assine um documento em branco nem aceite completar «depois» campos como o preço ou a caução. O que estiver escrito no momento da assinatura é o que conta no fim do aluguer.",
+          "tone": "warn",
+          "title": "Nada de campos por preencher"
+        }
+      ]
+    },
+    {
+      "h2": "Acordo em vietnamita: palavras que vai encontrar",
+      "body": [
+        "As aplicações de tradução resolvem o essencial, mas reconhecer algumas palavras ajuda a encontrar depressa cada cláusula e a perceber se a tradução faz sentido.",
+        {
+          "table": {
+            "caption": "Termos frequentes num acordo de aluguer de mota em vietnamita",
+            "head": [
+              "Em vietnamita",
+              "Em português"
+            ],
+            "rows": [
+              [
+                "Hợp đồng thuê xe",
+                "Contrato de aluguer do veículo"
+              ],
+              [
+                "Bên cho thuê",
+                "A loja (quem dá a mota de aluguer)"
+              ],
+              [
+                "Bên thuê",
+                "O cliente (quem toma a mota de aluguer)"
+              ],
+              [
+                "Biển số",
+                "Matrícula"
+              ],
+              [
+                "Giá thuê",
+                "Preço do aluguer"
+              ],
+              [
+                "Ngày nhận xe / ngày trả xe",
+                "Data de levantamento / data de devolução"
+              ],
+              [
+                "Tiền cọc, đặt cọc",
+                "Caução"
+              ],
+              [
+                "Hư hỏng",
+                "Danos, avarias"
+              ],
+              [
+                "Bồi thường",
+                "Indemnização"
+              ],
+              [
+                "Mất xe",
+                "Perda ou furto da mota"
+              ],
+              [
+                "Phạt nguội",
+                "Multa registada por câmara"
+              ],
+              [
+                "Chữ ký",
+                "Assinatura"
+              ]
+            ]
+          }
+        },
+        "Se uma palavra-chave da tradução não fizer sentido, por exemplo «indemnização» numa cláusula sobre combustível, peça à loja que lhe explique a frase inteira. Uma tradução automática de uma cláusula curta pode inverter o sentido."
+      ]
+    },
+    {
+      "h2": "Sinais de alerta num acordo de aluguer",
+      "body": [
+        "Alguns pormenores justificam pedir uma correção — ou procurar outra loja — antes de assinar:",
+        {
+          "ul": [
+            "o preço ou as datas não coincidem com o que lhe foi confirmado por mensagem;",
+            "a mota não está identificada, ou a matrícula escrita não é a da chapa;",
+            "há campos em branco, sobretudo no preço, na caução ou na hora de devolução;",
+            "o acordo atribui-lhe qualquer avaria, incluindo o desgaste normal, sem dizer como se calcula o custo;",
+            "a caução aparece sem data nem condições de devolução;",
+            "fica um documento seu na loja e o acordo não o menciona;",
+            "pedem-lhe que assine depressa, sem tempo para ler, ou recusam dar-lhe uma cópia ou deixar fotografar o documento."
+          ]
+        },
+        "Nenhum destes sinais significa, por si só, má-fé. Muitas vezes resolve-se com uma linha acrescentada à mão e rubricada pelos dois. O que conta é a reação da loja quando pede o esclarecimento."
+      ]
+    },
+    {
+      "h2": "Durante e depois do aluguer: usar o acordo",
+      "body": [
+        "O acordo não fica arrumado depois da assinatura. Guarde as fotografias das páginas numa pasta do telemóvel que abra sem rede, junto com a conversa com a loja. Num controlo de trânsito, ajudam a mostrar porque conduz uma mota que não está em seu nome.",
+        "Qualquer alteração deve ficar escrita, nem que seja por mensagem: prolongar o aluguer, trocar de mota, acrescentar um condutor ou mudar o local de devolução. Indique a nova data, o novo preço e a mota em causa, e guarde a resposta.",
+        "Na devolução, use o acordo como lista: local, hora, combustível, equipamento e estado da mota. Quando tudo estiver em ordem, peça uma confirmação de que o aluguer ficou encerrado e, se tiver havido caução, de que foi devolvida. Guarde estes registos durante algumas semanas, porque o aviso de uma multa registada por câmara pode chegar depois.",
+        "Os passos gerais, do primeiro contacto à devolução, estão no [guia de aluguer](/guia-de-aluguer/). Para pedir um orçamento ou esclarecer uma cláusula antes de se deslocar, os dados da loja estão em [contactos](/contactos/)."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "O acordo tem de estar em português ou em inglês?",
+      "a": "Depende da loja. Se o acordo estiver só em vietnamita, traduza-o com a câmara do telemóvel e peça à loja que confirme por mensagem, numa língua que domine, o modelo, as datas, o preço, a caução e as regras de devolução. Fica assim com um registo que consegue ler mais tarde."
+    },
+    {
+      "q": "Uma conversa no Zalo pode substituir o contrato?",
+      "a": "Pode servir de acordo escrito se a loja confirmar na conversa os pontos essenciais: mota, datas, preço, caução e devolução. Mantenha a conversa até ao fim do aluguer e faça capturas de ecrã das mensagens mais importantes, para o caso de perder o acesso à aplicação."
+    },
+    {
+      "q": "Posso pedir para alterar uma cláusula?",
+      "a": "Pode pedir. Se a loja aceitar, a alteração deve ficar escrita no próprio acordo e rubricada pelos dois, ou confirmada por mensagem. Uma promessa verbal que contradiz o texto assinado é difícil de fazer valer no fim do aluguer."
+    },
+    {
+      "q": "E se a loja não usar acordo escrito?",
+      "a": "Peça, pelo menos, um recibo do pagamento e uma mensagem que confirme o modelo, a matrícula, as datas, o preço e as condições de devolução e de caução. Se nem isso for possível, pondere procurar outra loja."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Quy trình 'phạt nguội' mới nhất 2025: Những thay đổi quan trọng người lái xe cần biết",
+      "publisher": "Hệ thống pháp luật Việt Nam",
+      "url": "https://hethongphapluat.com/phap-luat/huong-dan/quy-trinh-phat-nguoi-moi-nhat-2025-nhung-thay-doi-quan-trong-nguoi-lai-xe-can-biet.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    "lei-36-2024-artigo-56",
+    {
+      "title": "Đã có Nghị định 67/2023/NĐ-CP về bảo hiểm bắt buộc của chủ xe cơ giới",
+      "publisher": "LuatVietnam",
+      "url": "https://luatvietnam.vn/tin-van-ban-moi/da-co-nghi-dinh-67-2023-nd-cp-ve-bao-hiem-bat-buoc-cua-chu-xe-co-gioi-186-95475-article.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    }
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "PUBLISHED",
+  "date_published": "2026-10-13",
+  "date_modified": "2026-10-13",
+  "editorial": {
+    "qa_score": 100,
+    "qa_warnings": [],
+    "words": 2329,
+    "publish_mode": "review",
+    "approved_at": "2026-10-13",
+    "revisions": []
+  }
+}

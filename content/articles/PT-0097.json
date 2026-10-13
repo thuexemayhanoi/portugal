@@ -1,0 +1,176 @@
+{
+  "contract_version": 1,
+  "id": "PT-0097",
+  "slug": "pagar-no-inicio-ou-no-fim",
+  "title": "Pagar o aluguer da mota no início ou no fim? O que combinar",
+  "description": "Pagar a mota alugada no levantamento, na devolução ou por partes: o que muda em cada caso, como tratar prolongamentos e o que confirmar por escrito.",
+  "h1": "Quando fazer o pagamento do aluguer: no levantamento, na devolução ou por partes",
+  "summary": "O momento do pagamento de um aluguer de mota é definido com a loja: pode ser no levantamento, na devolução ou, em alugueres longos, por partes. Seja qual for, confirme por escrito quando paga, quanto, de que forma e como se acertam prolongamentos e devoluções antecipadas, e peça recibo de cada pagamento.",
+  "key_points": [
+    "O momento do pagamento é definido pela loja: confirme-o antes de ir buscar a mota.",
+    "Pagar no levantamento fecha as contas cedo; pagar na devolução obriga a ter o dinheiro pronto no último dia.",
+    "Nos alugueres longos, pergunte se o valor se paga de uma vez ou por períodos.",
+    "Prolongamentos, devoluções antecipadas e atrasos mudam a conta: combine à partida como se acertam.",
+    "Pague apenas pelos contactos oficiais da loja e peça recibo de cada pagamento."
+  ],
+  "intro": [
+    "Saber quanto custa a mota é só metade da conversa com a loja. A outra metade é saber quando se paga: no momento em que leva a mota, quando a devolve, ou em várias vezes ao longo de um aluguer mais longo. A resposta muda a forma como organiza o dinheiro da viagem e o que acontece se os planos mudarem a meio.",
+    "Este guia compara as opções do ponto de vista de quem aluga, lista os pontos a acertar — momento, montante, forma de pagamento, recibos e alterações — e explica porque vale a pena ter tudo confirmado por escrito antes de sair da loja. Os valores de referência de cada modelo estão na página de [preços](/precos/)."
+  ],
+  "sections": [
+    {
+      "h2": "Três momentos possíveis para pagar",
+      "body": [
+        "Não há uma regra única: cada loja define quando se paga e pode ajustar esse momento à duração do aluguer. Na prática, as opções resumem-se a três:",
+        {
+          "table": {
+            "caption": "Momentos de pagamento e o que implicam para quem aluga",
+            "head": [
+              "Momento",
+              "Como funciona",
+              "O que confirmar"
+            ],
+            "rows": [
+              [
+                "No levantamento",
+                "Paga o período combinado quando recebe a mota.",
+                "Se os dias não usados têm acerto caso devolva a mota mais cedo."
+              ],
+              [
+                "Na devolução",
+                "Leva a mota e paga quando a entrega.",
+                "Como se contam os dias e se o valor muda com um atraso."
+              ],
+              [
+                "Por partes",
+                "Paga um primeiro período e renova os seguintes.",
+                "A data e o valor de cada pagamento."
+              ]
+            ]
+          }
+        },
+        "A caução, se existir no seu caso, é um montante à parte e tem as suas próprias regras. Não a confunda com o pagamento do aluguer: são dois valores diferentes, que podem ser entregues em momentos diferentes. O que ponderar sobre a caução está no guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/)."
+      ]
+    },
+    {
+      "h2": "Pagar no levantamento: contas fechadas desde o início",
+      "body": [
+        "Pagar quando recebe a mota tem uma vantagem clara: sabe exatamente quanto gastou e não volta a pensar nisso até à devolução. É também a opção mais simples de documentar, porque o pagamento acontece no mesmo momento em que verifica a mota, fotografa o painel e recebe o acordo.",
+        "O ponto sensível é o que acontece se a viagem encurtar. Antes de pagar, pergunte se os dias que ficarem por usar têm algum acerto ou se o período pago conta por inteiro. Confirme também:",
+        {
+          "checklist": [
+            "que o valor total corresponde às datas que pediu;",
+            "que o recibo indica o período pago, do primeiro ao último dia;",
+            "o que acontece se devolver a mota antes ou depois da data combinada."
+          ]
+        },
+        "Se pagar no levantamento, leve o valor certo ou confirme antes a forma de pagamento aceite. Descobrir ao balcão que tem de ir procurar uma caixa automática atrasa o início do dia."
+      ]
+    },
+    {
+      "h2": "Pagar na devolução: o que ter em conta",
+      "body": [
+        "Pagar no fim pode parecer mais cómodo: usa a mota e paga pelo tempo que de facto a teve. Mas passa para o último dia — muitas vezes o do voo ou do autocarro noturno — uma tarefa que exige tempo e dinheiro disponível.",
+        {
+          "ul": [
+            "**Dinheiro à mão no último dia**: se o pagamento for em numerário, levante-o na véspera, e não à pressa a caminho da loja.",
+            "**Contagem dos dias**: confirme se a conta final se faz por dias de calendário ou por períodos de 24 horas, e qual é a hora limite de devolução.",
+            "**Caução e pagamento ao mesmo tempo**: se a loja devolver a caução e receber o pagamento no mesmo momento, pergunte se os valores se acertam entre si e peça que o recibo mostre as duas operações em separado.",
+            "**Horário da loja**: a loja está aberta {{hours}}. Se o seu voo for de manhã cedo, combine a devolução e o pagamento para a véspera."
+          ]
+        },
+        "Pagar no fim também pede confiança de parte a parte. Por isso, mesmo que não pague nada no início, peça que o preço acordado fique escrito antes de levar a mota: é essa a referência para a conta final."
+      ]
+    },
+    {
+      "h2": "Alugueres longos: de uma vez ou por períodos",
+      "body": [
+        "Num aluguer de várias semanas ou de um mês, o valor é maior e a probabilidade de os planos mudarem também. Pergunte se o período se paga todo no início ou se pode pagar por semana ou por mês, e que datas ficam combinadas para cada pagamento.",
+        "Na tabela de referência, uma semana de Honda Vision custa {{price.vision.week}} e um mês {{price.vision.month}}; numa Honda Wave, os valores são {{price.wave.week}} e {{price.wave.month}}. Se pagar por partes, confirme se cada renovação mantém a tarifa do período completo ou se passa a ser contada de outra forma.",
+        "O guia do [aluguer mensal](/precos/aluguer-mensal-de-mota/) explica o que combinar num aluguer longo. Quanto ao pagamento, o essencial é que cada parcela tenha data, valor e recibo próprios, para que no fim seja fácil somar o que já foi pago."
+      ]
+    },
+    {
+      "h2": "Prolongar, encurtar ou atrasar: como muda a conta",
+      "body": [
+        "Mais do que o momento do pagamento em si, o que costuma gerar dúvidas no fim de um aluguer são as alterações. Combine à partida como se tratam estes três casos.",
+        {
+          "h3": "Quer ficar mais dias"
+        },
+        "Pergunte com que antecedência deve avisar, quanto custa cada dia ou período extra e se o prolongamento se paga logo ou na devolução. Peça a confirmação na mesma conversa em que combinou o aluguer, para ficar tudo no mesmo sítio.",
+        {
+          "h3": "Precisa de devolver mais cedo"
+        },
+        "Se pagou no início, pergunte se há acerto pelos dias não usados. Se paga no fim, confirme se paga apenas os dias em que teve a mota ou se o período combinado conta por inteiro.",
+        {
+          "h3": "Chega atrasado à devolução"
+        },
+        "Confirme a hora limite e o que acontece depois dela: se conta mais um dia, uma fração ou nada. Conforme o acordo, um atraso de poucas horas pode pesar na conta final.",
+        "Se alugou à semana, o guia do [aluguer semanal](/precos/aluguer-semanal-de-mota/) trata em pormenor o caso de querer ficar mais tempo ou de ter de devolver a mota antes do fim."
+      ]
+    },
+    {
+      "h2": "Porque confirmar tudo por escrito",
+      "body": [
+        "Um acordo de pagamento feito de viva voz, ao balcão e em duas línguas, é fácil de recordar de maneiras diferentes uma semana depois. Uma mensagem escrita resolve isso: fica com data e hora, as duas partes leem o mesmo texto e pode mostrá-la no fim, se surgir uma dúvida.",
+        "Escreva na língua em que a loja lhe responde, com a ajuda de um tradutor se for preciso; números e datas percebem-se em qualquer língua. Envie a mensagem por Zalo ou SMS para o {{phone}} e inclua:",
+        {
+          "checklist": [
+            "o modelo e as datas de levantamento e de devolução;",
+            "o preço total do período, em dong vietnamita;",
+            "o momento do pagamento: levantamento, devolução ou por partes;",
+            "a forma de pagamento aceite;",
+            "o valor de cada dia extra e quando se paga;",
+            "o que acontece se devolver a mota mais cedo;",
+            "o pedido de recibo para cada pagamento."
+          ]
+        },
+        "Quando a loja responder, não apague a conversa até o aluguer estar fechado. Se acertou alguma coisa por telefone, resuma-a numa mensagem e peça que a confirmem. As restantes perguntas úteis — documentos, capacetes, combustível — estão na lista de [perguntas a fazer antes de alugar](/guia-de-aluguer/perguntas-antes-de-alugar/)."
+      ]
+    },
+    {
+      "h2": "Cuidados com pedidos de pagamento antecipado",
+      "body": [
+        "Este site não faz reservas nem recebe pagamentos: tudo é combinado diretamente com a loja. Se alguém lhe pedir um pagamento antecipado em nome da loja, confirme primeiro que o número é o mesmo que consta da página de [contactos](/contactos/) e que o nome do destinatário corresponde à loja.",
+        "Antes de pagar qualquer valor sem ter visto a mota, pergunte o que esse pagamento cobre, se é deduzido do preço final e o que acontece se cancelar. Peça a resposta por escrito e guarde o comprovativo da operação. Na dúvida, prefira pagar ao balcão, depois de ver a mota e de ler o acordo."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Posso pagar uma parte no início e o resto no fim?",
+      "a": "Depende da loja. Se for possível, peça que cada parte fique escrita: quanto pagou no início, quanto falta e quando o paga. Assim, no fim, a conta resume-se a uma subtração e a um último recibo."
+    },
+    {
+      "q": "Se pagar no início e prolongar, como pago os dias extra?",
+      "a": "O prolongamento é um valor que se soma ao período já pago. Confirme o preço dos dias extra e se o paga logo ou na devolução, e peça um recibo à parte para não haver dúvidas sobre o que já estava pago."
+    },
+    {
+      "q": "O valor do aluguer pode ser acertado com a caução?",
+      "a": "Só se a loja o aceitar e ficar combinado. Pergunte antes e, se for o caso, peça que o recibo mostre o valor do aluguer e o da caução em separado, com o resultado do acerto."
+    },
+    {
+      "q": "Posso pagar o aluguer através deste site?",
+      "a": "Não. O site é informativo e não faz reservas nem recebe pagamentos. O preço final, a forma e o momento do pagamento são combinados diretamente com a loja, pelos contactos indicados na página de contactos."
+    }
+  ],
+  "sources": [
+    "tabela-precos-proprietario"
+  ],
+  "legal_note": false,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "PUBLISHED",
+  "date_published": "2026-10-13",
+  "date_modified": "2026-10-13",
+  "editorial": {
+    "qa_score": 100,
+    "qa_warnings": [],
+    "words": 1537,
+    "publish_mode": "review",
+    "approved_at": "2026-10-13",
+    "revisions": []
+  }
+}

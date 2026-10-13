@@ -1,0 +1,221 @@
+{
+  "contract_version": 1,
+  "id": "PT-0075",
+  "slug": "horas-de-levantamento-e-devolucao",
+  "title": "Hora de devolução da mota alugada: como se conta o dia",
+  "description": "Dia de calendário ou 24 horas? Como se conta um dia de aluguer de mota, que horas combinar no levantamento e na devolução e como planear tudo em torno do voo.",
+  "h1": "Horas de levantamento e devolução: como se conta um dia de aluguer",
+  "summary": "Um dia de aluguer pode contar-se até ao fecho da loja na própria data ou como um período de 24 horas a partir do levantamento. A loja está aberta {{hours}}; pergunte qual das contagens se aplica ao seu aluguer e peça que a data e a hora de devolução fiquem escritas.",
+  "key_points": [
+    "Contagem por 24 horas: a devolução faz-se à mesma hora do levantamento, no dia em que o período termina.",
+    "Contagem por dia de calendário: cada dia termina ao fecho da loja, às {{closes}}, seja qual for a hora a que levantou a mota.",
+    "A loja funciona {{hours}}; levantar ou devolver fora desse horário só com acordo prévio.",
+    "Se o voo parte antes da abertura, planeie devolver a mota na véspera; nos voos da tarde e da noite, conte com o trajeto e uma margem.",
+    "Escreva a data e a hora de devolução na confirmação, no formato de 24 horas e na hora local do Vietname."
+  ],
+  "intro": [
+    "«Um dia» parece uma medida evidente até ao momento de devolver a mota. Se a levantou a meio da tarde, tem de a entregar ao fecho da loja nesse mesmo dia ou pode ficar com ela até à mesma hora do dia seguinte? A resposta depende da forma como o aluguer conta o tempo, e é uma das perguntas que mais vale a pena fazer antes de sair com a mota.",
+    "Este guia explica as duas formas habituais de contar um dia de aluguer, como o horário da loja {{brand}}, em {{area}}, delimita as horas possíveis de levantamento e de devolução e como encaixar tudo isto numa viagem com voos, comboios e horas de saída do alojamento. Para o preço de cada período, consulte a [tabela de preços](/precos/)."
+  ],
+  "sections": [
+    {
+      "h2": "Duas formas de contar um dia de aluguer",
+      "body": [
+        {
+          "h3": "Período de 24 horas"
+        },
+        "Nesta contagem, cada dia de aluguer dura 24 horas a partir do momento em que recebe a mota. Se a levanta às 11:00, o primeiro dia acaba às 11:00 do dia seguinte, e um aluguer de três dias termina à mesma hora, três dias depois. A hora do levantamento passa a ser a referência para tudo.",
+        {
+          "h3": "Dia de calendário"
+        },
+        "Aqui, o dia conta-se pela data e não pelo relógio: cada data em que fica com a mota conta como um dia, e o fim de cada dia coincide com o fecho da loja, às {{closes}}. Levantar a mota de manhã ou ao fim da tarde dá o mesmo número de dias, mas quem chega tarde aproveita muito menos o primeiro.",
+        "Nenhuma das duas é melhor em absoluto. A de 24 horas favorece quem levanta a mota tarde; a de calendário torna as contas mais simples e põe todas as devoluções no mesmo intervalo do dia. O que importa é saber qual se aplica antes de escolher a hora de levantamento.",
+        {
+          "note": "O site publica preços por dia, semana e mês, mas não indica como a loja conta cada dia. Pergunte-o ao reservar e peça a hora exata de devolução na mensagem de confirmação.",
+          "tone": "info",
+          "title": "O que o site não define"
+        }
+      ]
+    },
+    {
+      "h2": "Exemplos com horas concretas",
+      "body": [
+        "A diferença entre as duas contagens vê-se melhor num aluguer de um só dia, levantado a horas diferentes:",
+        {
+          "table": {
+            "caption": "Hora de devolução de um aluguer de um dia, conforme a forma de contagem",
+            "head": [
+              "Levantamento",
+              "Contagem por 24 horas",
+              "Contagem por dia de calendário"
+            ],
+            "rows": [
+              [
+                "À abertura, às {{opens}}",
+                "Devolução até às {{opens}} do dia seguinte",
+                "Devolução até às {{closes}} do mesmo dia"
+              ],
+              [
+                "A meio do dia",
+                "Devolução à mesma hora do dia seguinte",
+                "Devolução até às {{closes}} do mesmo dia, com meio dia de uso"
+              ],
+              [
+                "Ao fim da tarde, pouco antes das {{closes}}",
+                "Devolução à mesma hora do dia seguinte",
+                "O dia termina logo ao fecho; ficar com a mota até ao dia seguinte conta como uma segunda data"
+              ]
+            ]
+          }
+        },
+        "A diferença pesa sobretudo nos levantamentos ao fim da tarde. Se só consegue ir buscar a mota depois de chegar a Hanói ou depois de um passeio organizado, pergunte se, nesse caso, o primeiro dia conta por inteiro ou se o aluguer começa na manhã seguinte.",
+        {
+          "h3": "Semanas e meses"
+        },
+        "Nos alugueres mais longos, a lógica é a mesma. Uma semana pode terminar à hora a que levantou a mota no sétimo dia ou ao fecho de uma determinada data — confirme qual. No aluguer mensal, pergunte ainda se o mês corresponde a 30 dias ou vai até à mesma data do mês seguinte, já que os meses não têm todos a mesma duração. Os guias do [aluguer semanal](/precos/aluguer-semanal-de-mota/) e do [aluguer mensal](/precos/aluguer-mensal-de-mota/) explicam o resto do que convém combinar nesses casos."
+      ]
+    },
+    {
+      "h2": "O horário da loja marca os limites",
+      "body": [
+        "A loja está aberta {{hours}}, na hora local do Vietname (UTC+7). Levantamentos e devoluções acontecem dentro desse intervalo; fora dele, só se a loja o aceitar antes, como indicam as [perguntas frequentes](/perguntas-frequentes/) e a página de [contactos](/contactos/).",
+        "Isto tem uma consequência prática em cada contagem. Com períodos de 24 horas, se levantou a mota dentro do horário, a hora de devolução também calha dentro do horário: basta respeitar a hora do levantamento. Com dias de calendário, todas as devoluções têm de acontecer até às {{closes}}, e o regresso à loja coincide muitas vezes com o trânsito mais denso do fim do dia.",
+        {
+          "h3": "Chegar com margem"
+        },
+        "A hora combinada é a hora de entrega, não a hora a que sai do outro lado da cidade. Conte com o trânsito de regresso a {{area}}, com uma paragem para abastecer e com alguns minutos para a verificação conjunta da mota. Uma folga entre meia hora e uma hora evita a maior parte dos atrasos.",
+        {
+          "h3": "E se se atrasar?"
+        },
+        "O site não publica nenhuma tolerância para atrasos. Pergunte, ao reservar, se há uma margem e a partir de quando um atraso passa a contar como mais um dia. Se perceber que não vai chegar a tempo, ligue para o {{phone}} antes da hora combinada, e não depois.",
+        {
+          "h3": "Feriados e datas especiais"
+        },
+        "Se o levantamento ou a devolução calharem num feriado prolongado, como o Tết, o Ano Novo Lunar, confirme com antecedência se o horário habitual se mantém nesses dias e combine a hora com a loja."
+      ]
+    },
+    {
+      "h2": "Planear o levantamento e a devolução em torno do voo",
+      "body": [
+        "Nos dias de chegada e de partida, a hora da mota tem de encaixar no resto da viagem. O trajeto entre {{area}} e o aeroporto de Nội Bài varia muito com o trânsito, e a companhia aérea indica com que antecedência se deve apresentar. Some as duas coisas antes de escolher a hora de devolução.",
+        {
+          "table": {
+            "caption": "Exemplos de planeamento conforme a hora do voo",
+            "head": [
+              "Situação",
+              "Como organizar",
+              "O que perguntar à loja"
+            ],
+            "rows": [
+              [
+                "Voo de partida antes das {{opens}}",
+                "Devolver a mota na véspera, antes das {{closes}}, e seguir para o aeroporto de táxi",
+                "Como se conta o último dia se devolver na véspera"
+              ],
+              [
+                "Voo de partida a meio do dia",
+                "Devolver à abertura, às {{opens}}, só se o trajeto e a antecedência do voo o permitirem; caso contrário, na véspera",
+                "Quanto tempo demora a verificação na devolução"
+              ],
+              [
+                "Voo de partida à noite",
+                "Devolver a mota durante a tarde, com margem, e seguir de táxi com a bagagem",
+                "Até que hora pode devolver sem pagar mais um dia"
+              ],
+              [
+                "Chegada a Hanói à tarde ou à noite",
+                "Levantar a mota na manhã seguinte, descansado e com luz do dia",
+                "Se um levantamento perto do fecho conta como dia inteiro"
+              ]
+            ]
+          }
+        },
+        "Para o trajeto entre a loja e o alojamento, ou para chamar um táxi à saída da loja, mostre ao motorista a morada em vietnamita: {{address.vi}}.",
+        {
+          "h3": "Entrega ou recolha no alojamento"
+        },
+        "Se quer evitar a ida à loja no último dia, pergunte se é possível a loja recolher a mota no alojamento, a que horas e com que custo. Não conte com isso sem confirmação: a disponibilidade, o horário e um eventual custo são combinados caso a caso."
+      ]
+    },
+    {
+      "h2": "Encaixar a mota nos outros horários da viagem",
+      "body": [
+        "O voo não é o único horário que condiciona a devolução. Antes de marcar a hora, veja também:",
+        {
+          "ul": [
+            "**Saída do alojamento**: se tem de deixar o quarto de manhã e só devolve a mota à tarde, pergunte na receção se pode deixar lá a bagagem e onde fica a mota entretanto.",
+            "**Autocarros e comboios**: se parte ao fim do dia, devolva a mota antes da partida e com margem; depois das {{closes}}, a loja está fechada.",
+            "**Passeios fora de Hanói**: com contagem por 24 horas, um regresso tardio pode ultrapassar a hora de devolução; planeie o regresso em função dessa hora, e não o contrário.",
+            "**Dia de chegada**: depois de um voo longo, levantar a mota no dia seguinte costuma ser mais prudente do que conduzir cansado e de noite."
+          ]
+        },
+        "Se quer aproveitar ao máximo um único dia de mota, o guia do [aluguer por um dia](/precos/aluguer-de-mota-por-um-dia/) sugere uma forma de distribuir o tempo entre o levantamento e a devolução."
+      ]
+    },
+    {
+      "h2": "Como deixar as horas escritas na confirmação",
+      "body": [
+        "Uma confirmação clara tem quatro elementos: data e hora de levantamento, data e hora de devolução, forma de contagem e o que acontece em caso de atraso. Escreva as horas no formato de 24 horas — 18:00 e não «seis da tarde» — para não haver dúvidas entre manhã e tarde.",
+        {
+          "steps": [
+            {
+              "title": "Proponha as horas",
+              "text": "Indique a data e a hora a que quer levantar a mota e a data e a hora a que pretende devolvê-la, dentro do horário da loja."
+            },
+            {
+              "title": "Pergunte como se conta",
+              "text": "Peça à loja que confirme se o aluguer conta períodos de 24 horas ou dias de calendário, e quantos dias vai pagar."
+            },
+            {
+              "title": "Confirme a margem para atrasos",
+              "text": "Pergunte se há tolerância para pequenos atrasos e a partir de quando se paga mais um dia."
+            },
+            {
+              "title": "Guarde a resposta",
+              "text": "Mantenha a conversa no telemóvel até ao fim do aluguer: é a sua referência se houver dúvidas na devolução."
+            }
+          ]
+        },
+        "Se combinar as horas ainda em Portugal, lembre-se de que a loja trabalha na hora de Hanói: confirme que a data e a hora da mensagem são as locais. As restantes perguntas antes de alugar — caução, documentos, capacetes — estão reunidas nas [15 perguntas a fazer antes de alugar](/guia-de-aluguer/perguntas-antes-de-alugar/).",
+        "Se, ao ler a confirmação, perceber que as horas não servem os seus planos, ajuste-as logo nessa conversa: no dia da devolução, o que conta é a hora que ficar escrita."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Se levantar a mota perto do fecho da loja, pago um dia inteiro?",
+      "a": "Depende da forma de contagem. Com períodos de 24 horas, o dia começa quando recebe a mota e acaba à mesma hora do dia seguinte; com dias de calendário, esse primeiro dia termina logo às {{closes}}. Pergunte à loja antes de marcar o levantamento."
+    },
+    {
+      "q": "Posso devolver a mota antes da abertura da loja?",
+      "a": "Não conte com isso. A loja abre às {{opens}}, e devolver fora do horário depende sempre de acordo prévio. Se tem um voo de manhã cedo, o mais simples é devolver a mota na véspera, antes das {{closes}}."
+    },
+    {
+      "q": "As horas combinadas são na hora local do Vietname?",
+      "a": "Sim. O horário da loja segue a hora local do Vietname (UTC+7). Se combinar as horas antes de viajar, confirme que está a pensar na hora de Hanói e não na de Portugal."
+    },
+    {
+      "q": "Há tolerância se chegar uns minutos atrasado?",
+      "a": "O site não publica nenhuma tolerância. Pergunte à loja ao reservar e, se perceber que vai chegar depois da hora combinada, ligue para o {{phone}} antes dessa hora."
+    }
+  ],
+  "sources": [
+    "tabela-precos-proprietario"
+  ],
+  "legal_note": false,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "PUBLISHED",
+  "date_published": "2026-10-13",
+  "date_modified": "2026-10-13",
+  "editorial": {
+    "qa_score": 100,
+    "qa_warnings": [],
+    "words": 1845,
+    "publish_mode": "review",
+    "approved_at": "2026-10-13",
+    "revisions": []
+  }
+}
