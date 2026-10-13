@@ -5,9 +5,9 @@
   "title": "Mota elétrica ou gasolina em Hanói: qual escolher para alugar",
   "description": "Mota elétrica ou gasolina para alugar em Hanói: preço de referência, combustível, autonomia, tempo de carga e o que a zona de baixas emissões muda em 2026.",
   "h1": "Elétrica ou scooter a gasolina: comparação para quem aluga em Hanói",
-  "summary": "Para dias longos ou saídas de Hanói, a scooter a gasolina é mais simples; para dias curtos na cidade, com um sítio onde carregar à noite, a mota elétrica serve, se a loja confirmar a autonomia da unidade. As VinFast anunciam 160 a 205 km por carga, mas uma carga demora 6 a 10 horas, e ao dia a elétrica custa {{cmp.eletrica.vision.day}} a Honda Vision.",
+  "summary": "Para dias longos ou saídas de Hanói, uma scooter a gasolina pode ser mais simples; para trajetos curtos na cidade com carregamento noturno, uma elétrica pode servir se a loja confirmar a autonomia. As tarifas das motas elétricas são sob consulta: compare orçamentos nas mesmas datas.",
   "key_points": [
-    "Preço: ao dia, a elétrica custa {{cmp.eletrica.vision.day}} a Honda Vision e {{cmp.eletrica.click.day}} a Honda Click; ao mês, custa {{cmp.eletrica.vision.month}} a Vision.",
+    "Preço: as scooters a gasolina têm tarifas de referência publicadas; a mota elétrica exige orçamento para o modelo e a duração pretendidos.",
     "Autonomia: as elétricas VinFast anunciam 160 a 205 km por carga; no papel, as scooters a gasolina chegam a 215–260 km por depósito (cálculo a partir das fichas).",
     "Energia: uma carga elétrica demora 6 a 10 horas; 50 km de gasolina custam cerca de 19 mil a 22 mil VND, a preços de 8 de maio de 2026.",
     "Zona de baixas emissões: em 2026, a primeira fase não distingue o motor; as fases seguintes ainda não estão fechadas.",
@@ -35,9 +35,9 @@
             "rows": [
               [
                 "Mota elétrica",
-                "{{price.eletrica.day}}",
-                "{{price.eletrica.week}}",
-                "{{price.eletrica.month}}"
+                "Sob consulta",
+                "Sob consulta",
+                "Sob consulta"
               ],
               [
                 "Honda Vision (scooter automática)",
@@ -60,8 +60,8 @@
             ]
           }
         },
-        "Ao dia, a elétrica custa {{cmp.eletrica.vision.day}} a Honda Vision, {{cmp.eletrica.click.day}} a Honda Click e {{cmp.eletrica.wave.day}} a Honda Wave. Ao mês, custa {{cmp.eletrica.vision.month}} a Vision e {{cmp.eletrica.click.month}} a Click. A comparação muda com o modelo e com a duração, por isso ponha as suas datas ao lado da tabela.",
-        "A tarifa semanal da elétrica custa o mesmo ou menos do que pagar dia a dia a partir de {{price.eletrica.weekFrom}} dias. O quadro seguinte faz a mesma conta para os restantes modelos.",
+        "Sem preço fixo publicado para a elétrica, não é possível afirmar que custa mais ou menos do que uma Vision, Click ou Wave. Peça à loja um orçamento para a elétrica e compare com as tarifas da gasolina para as mesmas datas na [página de preços](/precos/).",
+        "Os valores diários, semanais e mensais para a elétrica devem ser confirmados com a loja. O quadro seguinte permite comparar apenas os modelos com tarifas publicadas.",
         {
           "component": "duration-compare"
         },
@@ -212,12 +212,12 @@
               [
                 "Orçamento ao dia",
                 "Veja a tabela",
-                "Ao dia, a Honda Click custa {{cmp.click.eletrica.day}} a elétrica e a Honda Vision custa {{cmp.vision.eletrica.day}} a elétrica."
+                "Compare as tarifas publicadas da Honda Click e da Honda Vision com o orçamento da elétrica para o mesmo período."
               ],
               [
                 "Aluguer de um mês",
                 "Compare as tarifas mensais",
-                "Ao mês, a elétrica custa {{cmp.eletrica.vision.month}} a Vision e {{cmp.eletrica.click.month}} a Click."
+                "Os preços mensais da elétrica não são fixos; peça orçamento antes de a comparar com a Vision ou a Click."
               ],
               [
                 "Noites de fim de semana no centro histórico",
@@ -253,7 +253,7 @@
   "faq": [
     {
       "q": "A mota elétrica é mais barata de alugar do que a scooter a gasolina?",
-      "a": "Depende do modelo e da duração. Na tabela de referência, ao dia a elétrica custa {{cmp.eletrica.vision.day}} a Honda Vision e {{cmp.eletrica.click.day}} a Honda Click; ao mês, custa {{cmp.eletrica.vision.month}} a Vision. A tabela não inclui a energia: o combustível da scooter, cerca de 19 mil a 22 mil VND por 50 km em maio de 2026, e a eletricidade da elétrica, cujo custo não conseguimos confirmar."
+      "a": "Depende do modelo e da duração. A loja publica preços de referência para scooters a gasolina, mas a elétrica é sob consulta. Compare os orçamentos do mesmo período e confirme os custos de energia e combustível separadamente."
     },
     {
       "q": "Uma mota elétrica precisa de outra carta?",

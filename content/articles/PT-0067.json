@@ -7,7 +7,7 @@
   "h1": "Alugar uma mota por uma semana em Hanói: quanto custa e o que combinar",
   "summary": "Alugar uma mota por uma semana em Hanói custa entre {{price.min.week}} e {{price.max.week}}, consoante o modelo, segundo a tabela da loja. Numa Wave, por exemplo, a tarifa semanal custa o mesmo ou menos do que pagar ao dia a partir de {{price.wave.weekFrom}} dias; a tabela do artigo faz a conta para cada modelo. Peça sempre o total para as suas datas e confirme o que fica fora da tarifa, como a caução ou a entrega.",
   "key_points": [
-    "Por semana: Wave {{price.wave.week}}, Sirius {{price.sirius.week}}, Click {{price.click.week}}, Mio {{price.mio.week}}, Vision {{price.vision.week}}, Air Blade {{price.airblade.week}} e mota elétrica {{price.eletrica.week}}.",
+    "Por semana: Wave {{price.wave.week}}, Sirius {{price.sirius.week}}, Click {{price.click.week}}, Mio {{price.mio.week}}, Vision {{price.vision.week}} e Air Blade {{price.airblade.week}}. Mota elétrica: sob consulta.",
     "Para comparar, multiplique o preço de um dia pelos dias de que precisa: numa Wave, a semana fica igual ou abaixo dessa soma a partir de {{price.wave.weekFrom}} dias, e numa Vision a partir de {{price.vision.weekFrom}}.",
     "Os veículos que a tabela mostra como «sob consulta» não têm tarifa semanal fixa: peça o total para as suas datas.",
     "Antes de fechar, combine como se contam os sete dias, a hora de devolução e o preço de cada dia extra.",

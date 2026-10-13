@@ -168,7 +168,7 @@
     },
     {
       "q": "Quem paga a eletricidade para carregar?",
-      "a": "O preço de referência da loja, de {{price.eletrica.day}} por dia, cobre o aluguer da mota. Se carregar no alojamento, pergunte se a eletricidade se paga à parte. Numa rede pública, confirme com a loja se a unidade a pode usar e como se paga."
+      "a": "O preço de aluguer da mota elétrica é sob consulta e depende do modelo e da duração. Se carregar no alojamento, pergunte se a eletricidade se paga à parte. Numa rede pública, confirme com a loja se a unidade a pode usar e como se paga."
     },
     {
       "q": "Posso trocar a bateria num armário em vez de esperar pela carga?",

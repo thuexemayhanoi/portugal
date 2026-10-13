@@ -5,9 +5,9 @@
   "title": "Aluguer de mota elétrica em Hanói: preço, autonomia e carga",
   "description": "Quanto custa alugar a mota elétrica da loja em Hanói ao dia, à semana e ao mês, que autonomia esperar, como a carregar e o que confirmar antes de reservar.",
   "h1": "Alugar uma mota elétrica em Hanói: quanto custa e a quem convém",
-  "summary": "Na tabela de referência da loja, a mota elétrica custa {{price.eletrica.day}} por dia, {{price.eletrica.week}} por semana e {{price.eletrica.month}} por mês. O modelo não vem indicado, por isso a autonomia e o tempo de carga confirmam-se para a unidade que lhe entregarem: como exemplo, a VinFast anuncia 160 a 205 km por carga em condições de teste e 6 a 10 horas para uma carga completa.",
+  "summary": "O preço do aluguer de uma mota elétrica em Hanói depende do modelo e do período: confirme o orçamento com a loja antes de reservar. O modelo não vem indicado na tabela, por isso a autonomia e o tempo de carga confirmam-se para a unidade entregue; modelos VinFast servem apenas de exemplo.",
   "key_points": [
-    "Preço de referência: {{price.eletrica.day}} por dia, {{price.eletrica.week}} por semana e {{price.eletrica.month}} por mês; a tarifa semanal compensa a partir de {{price.eletrica.weekFrom}} dias de uso.",
+    "Preço da mota elétrica: sob consulta. Peça orçamento por dia, semana ou mês para o modelo disponível.",
     "A tabela da loja diz apenas «Mota elétrica»: peça marca, modelo e ano da unidade antes de contar com qualquer autonomia.",
     "Os valores da VinFast servem de exemplo: 160 a 205 km por carga a 30 km/h, conforme o modelo, e menos fora dessas condições.",
     "Uma carga completa demora horas, cerca de 6 a 10 nos exemplos: a elétrica pede um sítio para carregar durante a noite.",
@@ -26,11 +26,11 @@
           "component": "price-table",
           "category": "motas-eletricas"
         },
-        "Para situar estes valores, compare-os com as scooters a gasolina da mesma tabela. Ao dia, a elétrica custa {{cmp.eletrica.vision.day}} uma Honda Vision e {{cmp.eletrica.click.day}} uma Honda Click. Ao mês, custa {{cmp.eletrica.vision.month}} a Vision e {{cmp.eletrica.airblade.month}} a Air Blade. A [página de preços](/precos/) reúne as tarifas de todos os modelos.",
+        "Não é possível comparar diretamente a tarifa da elétrica com a Honda Vision ou a Honda Click sem um preço confirmado para a elétrica. Consulte os preços de referência das scooters na [página de preços](/precos/) e peça orçamento da elétrica para as mesmas datas.",
         {
           "h3": "Dias avulsos, semana ou mês"
         },
-        "Se vai usar a mota quase todos os dias, a tarifa semanal custa o mesmo ou menos do que pagar dia a dia a partir de {{price.eletrica.weekFrom}} dias de uso. Para estadias mais longas, ponha a soma das semanas ao lado do preço do mês e peça à loja o total para as suas datas. Os guias do [aluguer semanal](/precos/aluguer-semanal-de-mota/) e do [aluguer mensal](/precos/aluguer-mensal-de-mota/) explicam como se contam os dias e o que deixar combinado.",
+        "Se vai usar a mota vários dias, solicite à loja preços diários, semanais e mensais para o modelo elétrico concreto. Compare o valor total e as condições de carregamento antes de reservar. Os guias do [aluguer semanal](/precos/aluguer-semanal-de-mota/) e do [aluguer mensal](/precos/aluguer-mensal-de-mota/) explicam como se contam os dias e o que deixar combinado.",
         {
           "note": "Os preços de referência cobrem o aluguer da mota. Caução, entrega, recolha e extras combinam-se à parte, e o valor final, a unidade disponível e as condições são sempre confirmados pela loja. Numa elétrica, pergunte também se o carregador segue com a mota e, no alojamento, se a eletricidade para a carregar se paga à parte.",
           "tone": "info",
