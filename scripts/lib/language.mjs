@@ -57,7 +57,7 @@ const BRAZILIANISMS = [
   ['planejamento', 'planeamento'],
   ['esportes?', 'desporto'],
   ['xícara', 'chávena'],
-  ['a gente', 'nós'],
+  ['(?<!toda\\s)a gente', 'nós'], // «toda a gente» is standard pt-PT
   ['dirigir', 'conduzir']
 ].map(([term, pt]) => ({ re: B(term), term, pt }));
 

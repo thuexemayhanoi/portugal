@@ -1,0 +1,342 @@
+{
+  "contract_version": 1,
+  "id": "PT-0141",
+  "slug": "controlo-da-policia",
+  "title": "Polícia de trânsito no Vietname: o que fazer se o mandarem parar",
+  "description": "Mandado parar pela polícia de trânsito no Vietname com uma mota alugada? Como parar, que documentos mostrar, como comunicar e o que fazer perante uma coima.",
+  "h1": "Controlo da polícia com uma mota alugada: o que mostrar e como agir",
+  "summary": "Se a polícia de trânsito o mandar parar no Vietname, encoste num local seguro, desligue o motor e entregue os documentos que lhe pedirem: carta, licença internacional, registo e seguro da mota. Se não perceber o que se passa, mantenha a calma, peça que lhe escrevam a infração e, dentro do horário da loja, ligue para o {{phone}}.",
+  "key_points": [
+    "Pare só onde for seguro, desligue o motor e espere pelas indicações do agente; nunca tente contornar o controlo.",
+    "Leve numa só bolsa a carta, a licença internacional, o registo e o seguro da mota, o passaporte e o acordo de aluguer.",
+    "Se não perceber o que lhe dizem, peça a infração por escrito, use uma aplicação de tradução e ligue para a loja antes de assinar o que quer que seja.",
+    "Coimas que podem surgir num controlo: 200 mil a 300 mil VND por não levar o registo da mota, 400 mil a 600 mil VND por circular sem capacete.",
+    "Depois, avise a loja e guarde todos os papéis: a mota e os documentos do veículo pertencem-lhe."
+  ],
+  "intro": [
+    "Um agente a fazer sinal para encostar é uma das situações que mais preocupam quem conduz pela primeira vez no Vietname. À barreira da língua junta-se a dúvida de como apresentar os documentos de uma mota que não é sua. E a polícia fiscaliza, de facto, quem vem de fora: em maio de 2026, a imprensa vietnamita noticiou controlos a estrangeiros que conduziam motas sem licença internacional na província de Khánh Hòa.",
+    "Este guia acompanha um controlo do princípio ao fim: como parar, o que lhe podem pedir, como comunicar sem falar vietnamita, o que fazer se lhe for apontada uma infração e como deixar a loja a par. Os documentos em si estão explicados em guias próprios, para onde remetemos em vez de repetir."
+  ],
+  "sections": [
+    {
+      "h2": "Antes de arrancar: a bolsa do controlo",
+      "body": [
+        "Um controlo resolve-se mais depressa quando tudo está no mesmo sítio. Antes de sair do alojamento, confirme que leva consigo:",
+        {
+          "checklist": [
+            "a carta de condução e a Licença Internacional de Condução, sempre juntas — o guia da [Licença Internacional de Condução](/guia-de-aluguer/licenca-internacional-de-conducao/) explica como a pedir em Portugal;",
+            "o certificado de registo e o certificado do seguro obrigatório da mota, conferidos no levantamento como se mostra em [documentos da mota alugada](/guia-de-aluguer/documentos-da-mota-alugada/);",
+            "o passaporte;",
+            "o acordo de aluguer, ou a mensagem da loja que identifica a mota e as datas;",
+            "o telemóvel com bateria, o número da loja ({{phone}}) guardado e uma aplicação de tradução preparada para funcionar sem rede."
+          ]
+        },
+        "Uma bolsa de plástico com fecho protege os papéis da chuva e evita andar a procurá-los pelos bolsos à frente do agente. Ao levantar a mota, pergunte também à loja o que deve fazer num controlo: é uma das perguntas da lista de [perguntas a fazer antes de alugar](/guia-de-aluguer/perguntas-antes-de-alugar/)."
+      ]
+    },
+    {
+      "h2": "Quando lhe fazem sinal: como parar",
+      "body": [
+        "O momento de parar é o mais delicado, porque acontece no meio do trânsito. Faça-o por esta ordem:",
+        {
+          "steps": [
+            {
+              "title": "Sinalize e abrande",
+              "text": "Ligue o pisca, olhe pelos espelhos e reduza a velocidade sem travagens bruscas: no trânsito de Hanói, é provável que tenha outras motas muito perto."
+            },
+            {
+              "title": "Encoste onde lhe indicarem",
+              "text": "Pare junto à berma, no ponto que o agente lhe apontar, sem bloquear quem vem atrás."
+            },
+            {
+              "title": "Desligue o motor",
+              "text": "Fique junto da mota, com as mãos à vista, e espere que o agente se aproxime e diga o que pretende."
+            },
+            {
+              "title": "Entregue o que lhe pedirem",
+              "text": "Tire os documentos da bolsa um de cada vez, à medida que lhos pedirem, e volte a guardá-los quando lhos devolverem."
+            }
+          ]
+        },
+        {
+          "note": "Dar meia-volta, acelerar ou passar como se não tivesse visto o sinal é perigoso no meio do trânsito e transforma uma verificação de documentos num problema muito mais sério. Se não tiver a certeza de que o sinal era para si, abrande e pare: é sempre a opção mais segura.",
+          "tone": "warn",
+          "title": "Nunca contorne um controlo"
+        }
+      ]
+    },
+    {
+      "h2": "O que lhe podem pedir e como responder",
+      "body": [
+        "Num controlo, a polícia pode pedir os documentos que o artigo 56.º da Lei n.º 36/2024/QH15 obriga quem conduz a levar: a carta adequada à categoria da mota, o certificado de registo do veículo e o certificado do seguro obrigatório de responsabilidade civil. Como visitante, a carta vai acompanhada da licença internacional: o artigo 57.º da mesma lei exige que as duas sigam consigo.",
+        "A mota não está em seu nome, e isso é normal num aluguer: o registo e o seguro pertencem ao proprietário. O que importa é que correspondam à mota que conduz. Se o agente estranhar, mostre o acordo de aluguer ou a mensagem da loja que identifica a mota e as datas.",
+        "Os agentes falam vietnamita e os documentos também estão escritos em vietnamita. Estas palavras ajudam a perceber o que lhe pedem:",
+        {
+          "table": {
+            "caption": "O que lhe podem pedir num controlo",
+            "head": [
+              "Em vietnamita",
+              "O que é",
+              "O que mostrar"
+            ],
+            "rows": [
+              [
+                "Giấy phép lái xe, bằng lái",
+                "Carta de condução",
+                "A carta do seu país"
+              ],
+              [
+                "Giấy phép lái xe quốc tế",
+                "Licença internacional de condução",
+                "A licença, junto com a carta"
+              ],
+              [
+                "Giấy đăng ký xe, cà vẹt",
+                "Certificado de registo da mota",
+                "O certificado que recebeu da loja"
+              ],
+              [
+                "Bảo hiểm xe máy",
+                "Seguro obrigatório da mota",
+                "O certificado, em papel ou eletrónico"
+              ],
+              [
+                "Hộ chiếu",
+                "Passaporte",
+                "O passaporte, se lho pedirem para identificação"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "h2": "Se não perceber o que se passa",
+      "body": [
+        "A língua é a maior fonte de tensão num controlo. Nesse momento, o objetivo é perceber qual é o problema, não discuti-lo:",
+        {
+          "ul": [
+            "fale devagar, em frases curtas e num tom calmo, mesmo que o agente fale depressa;",
+            "mostre no telemóvel uma frase já traduzida, como as da tabela abaixo;",
+            "peça que lhe escrevam a infração num papel ou na aplicação de tradução;",
+            "dentro do horário da loja ({{hours}}), ligue para o {{phone}} e, se o agente aceitar, passe-lhe o telemóvel;",
+            "antes de assinar qualquer documento, peça que lhe expliquem o que diz."
+          ]
+        },
+        {
+          "table": {
+            "caption": "Frases úteis num controlo de trânsito",
+            "head": [
+              "Em português",
+              "Em vietnamita"
+            ],
+            "rows": [
+              [
+                "Não falo vietnamita.",
+                "Tôi không nói được tiếng Việt."
+              ],
+              [
+                "Não percebo.",
+                "Tôi không hiểu."
+              ],
+              [
+                "Esta mota é alugada.",
+                "Xe này là xe thuê."
+              ],
+              [
+                "Qual foi a infração?",
+                "Tôi vi phạm lỗi gì?"
+              ],
+              [
+                "Pode escrever, por favor?",
+                "Làm ơn viết ra giúp tôi."
+              ],
+              [
+                "Posso ligar para a loja?",
+                "Tôi gọi cho cửa hàng được không?"
+              ]
+            ]
+          }
+        },
+        "Guarde estas frases nas notas do telemóvel antes de sair: a meio de um controlo, não é altura de as procurar."
+      ]
+    },
+    {
+      "h2": "Se lhe apontarem uma infração",
+      "body": [
+        "As coimas de trânsito estão fixadas no Decreto 168/2024/NĐ-CP, em vigor desde 1 de janeiro de 2025, e aplicam-se a quem conduz — também numa mota alugada. Estas são algumas das que podem surgir num controlo:",
+        {
+          "table": {
+            "caption": "Coimas para condutores de mota (Decreto 168/2024/NĐ-CP, consulta a 13 de outubro de 2026)",
+            "head": [
+              "Situação",
+              "Coima"
+            ],
+            "rows": [
+              [
+                "Registo da mota esquecido no alojamento",
+                "200 mil a 300 mil VND"
+              ],
+              [
+                "Certificado do seguro obrigatório em falta ou caducado",
+                "200 mil a 300 mil VND"
+              ],
+              [
+                "Circular sem capacete",
+                "400 mil a 600 mil VND"
+              ],
+              [
+                "Conduzir uma mota que não tem registo",
+                "2 a 3 milhões de VND"
+              ],
+              [
+                "Passar no vermelho, em contramão ou pelo passeio",
+                "4 a 6 milhões de VND"
+              ]
+            ]
+          }
+        },
+        "Para a falta de licença internacional, as fontes consultadas para este guia não indicam o montante, por isso não o apresentamos. Saiba apenas que conduzir sem a habilitação exigida pode dar origem a coima e deixá-lo sem cobertura do seguro de viagem em caso de acidente.",
+        "Se lhe for apontada uma infração, siga estes passos:",
+        {
+          "steps": [
+            {
+              "title": "Pergunte qual é",
+              "text": "Peça que lhe indiquem a infração e, se possível, que a escrevam."
+            },
+            {
+              "title": "Perceba antes de assinar",
+              "text": "Se lhe apresentarem um documento, peça tradução ou ligue para a loja antes de o assinar."
+            },
+            {
+              "title": "Pague só pela via indicada",
+              "text": "Use apenas os meios de pagamento que lhe indicarem e peça sempre um comprovativo."
+            },
+            {
+              "title": "Fotografe os papéis",
+              "text": "Fotografe tudo o que lhe entregarem e guarde os originais junto do acordo de aluguer."
+            }
+          ]
+        },
+        "Não ofereça dinheiro a um agente para encerrar o assunto. E, se lhe disserem que a mota ou algum documento fica retido, peça que lhe indiquem por escrito o motivo e onde os pode reaver, e avise a loja de imediato: a mota e os documentos do veículo são dela."
+      ]
+    },
+    {
+      "h2": "Depois do controlo: avisar a loja",
+      "body": [
+        "Mesmo que tudo se resolva em poucos minutos, conte à loja o que aconteceu, de preferência por mensagem e com fotografias dos papéis que recebeu. Fica registado, e a loja sabe o que esperar se surgir alguma questão mais tarde.",
+        "Se a coima ficou paga, guarde o comprovativo e mostre-o na devolução. Se algum documento da mota ficou retido ou se perdeu, a segunda via é pedida pelo proprietário; até lá, circular sem ele expõe-no a nova coima, por isso combine com a loja como continuar antes de voltar à estrada.",
+        "Um controlo também não altera o que ficou combinado no aluguer: as condições sobre caução e responsabilidades são as do acordo com a loja. O guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/) resume o que deve ficar escrito antes de levantar a mota."
+      ]
+    },
+    {
+      "h2": "Erros que complicam um controlo",
+      "body": [
+        {
+          "ul": [
+            "**Não saber onde estão os documentos da mota**, ou tê-los deixado no alojamento: é a coima mais fácil de evitar.",
+            "**Mostrar uma «carta internacional» comprada online.** Em 2022, a polícia de trânsito da cidade de Ho Chi Minh declarou que documentos deste tipo, como os da IAA, não têm valor no Vietname.",
+            "**Conduzir uma mota acima da sua categoria.** A categoria A1 cobre motociclos até 125 cm³; uma Air Blade de 160 cm³, por exemplo, exige a categoria A. Compare os modelos na página das [scooters automáticas](/tipos-de-motas/scooters/).",
+            "**Discutir a infração no local** ou levantar a voz: não ajuda a perceber o que está em causa e prolonga o controlo.",
+            "**Ir embora sem perceber** se o assunto ficou resolvido e o que tem de fazer a seguir."
+          ]
+        },
+        "As regras de base para conduzir em Hanói — capacete apertado, álcool zero, telemóvel guardado — estão resumidas no [guia de aluguer](/guia-de-aluguer/)."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "E se o controlo acontecer fora do horário da loja?",
+      "a": "Mantenha a calma, use a aplicação de tradução e peça a infração por escrito. Fotografe os papéis que lhe entregarem e envie à loja uma mensagem com os pormenores e as imagens, para que a veja logo que abra — a loja funciona {{hours}}. Combine este cenário com a loja ao levantar a mota."
+    },
+    {
+      "q": "Posso pedir ao agente que fale com a loja ao telefone?",
+      "a": "Pode perguntar. Ligue para o {{phone}} e, se o agente aceitar, passe-lhe o telemóvel: uma conversa em vietnamita pode esclarecer depressa o que está em causa. Pergunte antes à loja se pode ligar-lhe nessa situação e guarde o número com um nome fácil de encontrar."
+    },
+    {
+      "q": "O que acontece se eu não tiver a licença internacional?",
+      "a": "Conduzir sem a habilitação exigida pode dar origem a coima e deixá-lo sem cobertura do seguro de viagem em caso de acidente. A licença portuguesa só se pede presencialmente, num balcão do IMT, por isso trate dela antes de partir, como se explica no guia da [Licença Internacional de Condução](/guia-de-aluguer/licenca-internacional-de-conducao/). Sem ela, desloque-se de outra forma."
+    }
+  ],
+  "sources": [
+    "lei-36-2024-artigo-56",
+    {
+      "title": "Luật Trật tự, an toàn giao thông đường bộ 2024 số 36/2024/QH15",
+      "publisher": "Thư Viện Pháp Luật",
+      "url": "https://thuvienphapluat.vn/van-ban/Giao-thong-Van-tai/Luat-trat-tu-an-toan-giao-thong-duong-bo-444251.aspx",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "Không mang giấy tờ xe bị phạt bao nhiêu theo quy định 2026?",
+      "publisher": "LuatVietnam",
+      "url": "https://luatvietnam.vn/giao-thong/khong-mang-giay-to-xe-bi-phat-bao-nhieu-theo-quy-dinh-863-107145-article.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "Cà vẹt xe là gì? Không có cà vẹt xe bị phạt thế nào?",
+      "publisher": "LuatVietnam",
+      "url": "https://luatvietnam.vn/giao-thong/ca-vet-xe-la-gi-863-96302-article.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "Tăng mức phạt đối với hành vi không có bảo hiểm xe máy bắt buộc từ 01/01/2025",
+      "publisher": "LuatVietnam",
+      "url": "https://luatvietnam.vn/tin-van-ban-moi/tang-muc-phat-doi-voi-hanh-vi-khong-co-bao-hiem-xe-may-bat-buoc-tu-01-01-2025-186-100606-article.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    "lawnet-capacete-168",
+    {
+      "title": "Điều khiển xe máy vượt đèn đỏ, đi trên vỉa hè bị phạt từ 4-6 triệu đồng",
+      "publisher": "Portal de divulgação jurídica da cidade de Cần Thơ (pbgdpl.cantho.gov.vn)",
+      "url": "https://pbgdpl.cantho.gov.vn/dieu-khien-xe-may-vuot-den-do-di-tren-via-he-bi-phat-tu-4-6-trieu-dong",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "vi"
+    },
+    "tuoitre-lic-fiscalizacao",
+    {
+      "title": "IAA int'l driver's license invalid in Vietnam",
+      "publisher": "Tuổi Trẻ News",
+      "url": "https://news.tuoitre.vn/iaa-intl-drivers-license-invalid-in-vietnam-10368738.htm",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "en"
+    },
+    {
+      "title": "Pedir a licença internacional de condução",
+      "publisher": "gov.pt",
+      "url": "https://www2.gov.pt/pt/servicos/pedir-a-licenca-internacional-de-conducao",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "pt"
+    },
+    "lei-36-2024-a1",
+    "chotot-air-blade-125-160",
+    "mfat-conduzir-vietname"
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "PUBLISHED",
+  "date_published": "2026-10-13",
+  "date_modified": "2026-10-13",
+  "editorial": {
+    "qa_score": 100,
+    "qa_warnings": [],
+    "words": 1752,
+    "publish_mode": "review",
+    "approved_at": "2026-10-13",
+    "revisions": []
+  }
+}

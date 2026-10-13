@@ -1,0 +1,191 @@
+{
+  "contract_version": 1,
+  "id": "PT-0198",
+  "slug": "atraso-na-devolucao",
+  "title": "Atraso na devolução da mota alugada: como avisar a loja",
+  "description": "Vai entregar a mota alugada mais tarde do que o combinado? Quando e como avisar a loja, que custos confirmar e como deixar o novo horário por escrito.",
+  "h1": "Vou atrasar-me a devolver a mota: o que fazer antes da hora combinada",
+  "summary": "Se vai atrasar-se a devolver a mota, avise a loja antes da hora combinada, por chamada ou mensagem para o {{phone}}, diga a que horas consegue chegar e peça que lhe confirmem por escrito o novo horário e o custo. Não presuma que há tolerância nem que o atraso se paga como um dia extra: depende do acordo.",
+  "key_points": [
+    "Avise antes de a hora combinada passar, e não depois.",
+    "Indique uma hora de chegada realista, com margem, e não a mais otimista.",
+    "Pergunte quanto custa o atraso e se mexe na caução: este site não publica esse valor.",
+    "Se a nova hora passar das {{closes}}, combine com a loja o que fazer à mota durante a noite.",
+    "Guarde o acordo numa mensagem escrita, mesmo que a conversa tenha sido por telefone."
+  ],
+  "intro": [
+    "Um engarrafamento na ponte, uma chuvada que obriga a parar, uma visita que se prolongou: há muitas razões para não chegar à loja à hora marcada. Um atraso avisado dá à loja tempo para se reorganizar. Um atraso de que a loja não sabe é outra conversa, porque a mota pode estar prometida a outra pessoa, porque a loja fecha às {{closes}} ou simplesmente porque ninguém sabe onde está o veículo.",
+    "Este guia explica o que fazer a partir do momento em que percebe que não vai chegar a tempo: quando e como avisar, o que perguntar sobre o custo, como registar o novo horário e o que muda se o atraso vier de uma avaria. As regras gerais do aluguer estão no [guia de aluguer passo a passo](/guia-de-aluguer/)."
+  ],
+  "sections": [
+    {
+      "h2": "Avise assim que souber, antes da hora combinada",
+      "body": [
+        "O melhor momento para avisar é aquele em que percebe que não vai chegar. Esperar para ver se recupera o tempo perdido tira à loja a margem para se organizar e transforma um atraso simples num atraso por explicar.",
+        "Pare num local seguro e ligue: uma chamada resolve tudo mais depressa. Depois, envie uma mensagem pelo Zalo para o mesmo número, {{phone}}, a resumir o que ficou dito. Nunca escreva nem telefone com a mota em andamento.",
+        "A loja funciona {{hours}}. Se o atraso surgir fora desse horário, por exemplo numa devolução marcada para a abertura, às {{opens}}, envie a mensagem na mesma: fica registado que avisou a tempo.",
+        {
+          "note": "Um atraso resolve-se com uma mensagem; uma queda na pressa do regresso, não. Conduza ao ritmo do trânsito, sobretudo com chuva ou ao anoitecer, e deixe que seja o aviso a tratar do atraso.",
+          "tone": "warn",
+          "title": "Não acelere para recuperar o tempo"
+        }
+      ]
+    },
+    {
+      "h2": "O que dizer na mensagem",
+      "body": [
+        "Uma boa mensagem permite à loja responder logo, sem ter de lhe fazer perguntas. Inclua:",
+        {
+          "checklist": [
+            "o seu nome e o modelo da mota, com a matrícula;",
+            "a hora de devolução que estava combinada;",
+            "o motivo do atraso, numa frase;",
+            "a hora a que prevê chegar, já com alguma margem;",
+            "a pergunta direta: é possível, e tem algum custo?"
+          ]
+        },
+        "Um exemplo em português, fácil de passar por um tradutor: «Bom dia. Sou [nome] e tenho a [modelo], matrícula [matrícula], para devolver hoje às 17:00. Vou atrasar-me por causa do trânsito e prevejo chegar às 19:00. Pode ser? Há algum custo pelo atraso?»",
+        "Se preferir acrescentar algumas palavras em vietnamita, estas ajudam a que a mensagem seja percebida à primeira:",
+        {
+          "table": {
+            "caption": "Expressões úteis para avisar a loja em vietnamita",
+            "head": [
+              "Em vietnamita",
+              "Em português"
+            ],
+            "rows": [
+              [
+                "trả xe",
+                "devolver a mota"
+              ],
+              [
+                "muộn",
+                "tarde, atrasado"
+              ],
+              [
+                "khoảng",
+                "cerca de, por volta de"
+              ],
+              [
+                "phí",
+                "custo, taxa"
+              ],
+              [
+                "gia hạn",
+                "prolongar"
+              ],
+              [
+                "Tôi sẽ trả xe muộn, khoảng 19 giờ.",
+                "Vou devolver a mota mais tarde, por volta das 19:00."
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "h2": "Confirmar o novo horário",
+      "body": [
+        "A resposta da loja deve deixar claro quando e onde entrega a mota. Se a nova hora ficar dentro do horário de funcionamento, basta confirmá-la. Se passar das {{closes}}, há duas hipóteses a acertar com a loja: devolver ainda nesse dia, se a loja o aceitar, ou ficar com a mota durante a noite e entregá-la no dia seguinte, a partir das {{opens}}.",
+        "Na segunda hipótese, confirme também:",
+        {
+          "ul": [
+            "a hora exata da devolução no dia seguinte;",
+            "se essa noite conta como mais um dia de aluguer;",
+            "onde deixar a mota durante a noite, de preferência num parque vigiado ou no estacionamento do alojamento."
+          ]
+        },
+        "Não deixe a mota à porta da loja fechada nem entregue a chave a quem não trabalha lá. Sem ninguém para a receber, não há verificação nem prova de entrega, e o que acontecer à mota até de manhã fica por esclarecer."
+      ]
+    },
+    {
+      "h2": "Quanto pode custar o atraso: o que perguntar",
+      "body": [
+        "Este site não publica um valor para atrasos, porque depende do acordo de cada aluguer. A forma de contar um atraso varia de loja para loja e pode ser à hora, por meio dia ou ao dia, por isso pergunte em vez de presumir.",
+        "Para ter uma ordem de grandeza, um dia de aluguer custa entre {{price.min.day}} e {{price.max.day}} na [tabela de preços](/precos/), conforme o modelo. Isso não quer dizer que um atraso seja cobrado como um dia inteiro: serve apenas para perceber o que está em jogo quando faz a pergunta.",
+        "Faça três perguntas e peça a resposta por escrito:",
+        {
+          "ol": [
+            "Quanto custa o atraso que estou a prever?",
+            "Paga-se no momento da devolução, e de que forma?",
+            "Se houver caução, o atraso é descontado dela?"
+          ]
+        },
+        "As situações em que a caução pode sofrer descontos, entre elas os atrasos, devem ficar claras desde o início. O guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/) explica o que perguntar sobre isso.",
+        "Conta ainda a forma como o seu aluguer foi contado. Num aluguer por períodos de 24 horas, a hora a que começa um novo período é diferente da de um aluguer por dia de calendário. Se a confirmação inicial não o indicar, pergunte qual é o seu caso."
+      ]
+    },
+    {
+      "h2": "Registar tudo por escrito",
+      "body": [
+        "Combinado por telefone, confirmado por escrito. Se acertou o novo horário numa chamada, envie logo a seguir uma mensagem a resumir o que ficou decidido e peça à loja que a confirme. Por exemplo: «Como combinámos por telefone, devolvo a mota hoje às 19:00, com o custo de atraso que me indicou. Obrigado.»",
+        "Guarde as capturas de ecrã da conversa até a caução, se existir, ter sido devolvida e o aluguer estar fechado. Na devolução, mostre a mensagem se houver dúvidas sobre o que foi acordado e peça o comprovativo de qualquer valor pago pelo atraso.",
+        "Se a loja não responder, guarde a prova de que tentou: o registo das chamadas e a mensagem enviada antes da hora combinada."
+      ]
+    },
+    {
+      "h2": "Quando o atraso vem de uma avaria ou de um furo",
+      "body": [
+        "Se não chega a horas porque a mota avariou ou ficou com um pneu furado, a ordem de prioridades muda: primeiro a sua segurança, depois a mota e só depois a hora. Encoste num local seguro, contacte a loja e siga o procedimento combinado na entrega. Pergunte se deve esperar ou procurar uma oficina antes de mandar reparar o que quer que seja.",
+        "Diga também que o problema vai atrasar a devolução. Fotografe a avaria e o local e guarde os recibos de qualquer reparação autorizada: na devolução, explicam o atraso melhor do que qualquer descrição. Pergunte à loja como será tratado esse tempo, sem dar por certo que não terá custo.",
+        "Se o tema das avarias não ficou combinado antes de alugar, a lista de [perguntas a fazer antes de alugar](/guia-de-aluguer/perguntas-antes-de-alugar/) ajuda a tratá-lo no próximo aluguer."
+      ]
+    },
+    {
+      "h2": "Se precisar da mota mais dias, peça um prolongamento",
+      "body": [
+        "Um atraso de algumas horas é uma coisa; precisar da mota mais um ou dois dias é outra. Nesse caso, não fale de atraso: peça à loja para prolongar o aluguer, antes da data prevista, e confirme o preço dos dias extra e a nova data de devolução.",
+        "Se o prolongamento for de vários dias, compare com a tarifa semanal. O guia do [aluguer semanal de mota](/precos/aluguer-semanal-de-mota/) mostra, modelo a modelo, a partir de quantos dias a semana compensa.",
+        "Lembre-se de que a mota pode já estar prometida a outro cliente. Quanto mais cedo pedir, mais hipóteses tem de ficar com ela."
+      ]
+    },
+    {
+      "h2": "Sinais de que vai chegar tarde",
+      "body": [
+        "A maior parte dos atrasos anuncia-se com horas de antecedência. No último dia, esteja atento a estes sinais:",
+        {
+          "ul": [
+            "a meio da tarde, ainda está a mais de uma hora da loja e com planos por cumprir;",
+            "começou a chover com força e vai ter de parar;",
+            "o combustível está baixo e ainda tem de abastecer antes de devolver;",
+            "o regresso coincide com a hora de ponta numa das pontes sobre o rio Vermelho."
+          ]
+        },
+        "Perante qualquer um deles, avise logo, mesmo que ainda possa chegar a horas. Uma mensagem a dizer «talvez me atrase meia hora» custa muito menos do que uma explicação à chegada."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Há uma tolerância de alguns minutos?",
+      "a": "Este site não publica nenhuma tolerância. Uns minutos podem não ter consequências, mas isso é decisão da loja. Se vai chegar depois da hora combinada, por pouco que seja, avise antes e pergunte."
+    },
+    {
+      "q": "E se não conseguir falar com a loja?",
+      "a": "Envie uma mensagem pelo Zalo para o {{phone}} com a nova hora prevista e volte a ligar mais tarde. Guarde a prova de que avisou antes da hora combinada e mostre-a na devolução."
+    },
+    {
+      "q": "Posso deixar a mota à porta da loja se chegar depois do fecho?",
+      "a": "Não. Sem ninguém para a receber, não há verificação nem comprovativo de entrega. Combine com a loja onde guardar a mota durante a noite e a que horas a devolve no dia seguinte."
+    }
+  ],
+  "sources": [
+    "tabela-precos-proprietario"
+  ],
+  "legal_note": false,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "PUBLISHED",
+  "date_published": "2026-10-13",
+  "date_modified": "2026-10-13",
+  "editorial": {
+    "qa_score": 100,
+    "qa_warnings": [],
+    "words": 1519,
+    "publish_mode": "review",
+    "approved_at": "2026-10-13",
+    "revisions": []
+  }
+}

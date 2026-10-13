@@ -1,5 +1,21 @@
 # Changelog
 
+## 1.3.0 — 2026-10-13 · 64 artigos e plano sem temas em espera
+
+- **53 artigos novos** publicados pela Content Factory (64/300). Todos passaram o QA com 0 erros e 0 avisos e foram aprovados. Temas:
+  - caução e pagamentos, custos extra, combustível e entrega no alojamento;
+  - receber, devolver e trocar a mota, atrasos, chave perdida e danos;
+  - acordo de aluguer, fotografias, multas e controlo policial;
+  - categorias de carta, seguro obrigatório, buzina e motas de 50 cc;
+  - zona de baixas emissões, ponte Long Biên e a loja em Long Biên.
+- **Revisão de intenção** dos 45 temas em espera e de 3 temas problemáticos:
+  - PT-0039 tinha uma premissa falsa: a semiautomática custa o mesmo que a Click;
+  - PT-0081 e PT-0082 sobrepunham-se aos artigos semanal e mensal;
+  - cada um destes 48 temas ganhou um ângulo próprio ou foi substituído na mesma categoria, sem mudar os totais por categoria;
+  - ficam 0 temas em espera e 0 com risco alto de canibalização.
+- **QA de linguagem**: «toda a gente» deixa de ser assinalado como pt-BR (só «a gente» o é).
+- Testes independentes do estado do plano.
+
 ## 1.2.0 — 2026-10-13 · Conteúdo contínuo e conclusões de preço calculadas
 
 - **8 artigos novos** publicados pela Content Factory (11/300 no total): Honda Air Blade 125 ou 160, Honda Click, aluguer semanal, aluguer mensal, Licença Internacional de Condução, documentos da mota alugada, conduzir no Bairro Antigo e Hanói de mota num dia. As categorias «Zonas de Hanói» e «Rotas e mobilidade» ganham a sua página (noindex até terem três artigos).

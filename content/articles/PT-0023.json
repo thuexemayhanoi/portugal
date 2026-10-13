@@ -1,0 +1,174 @@
+{
+  "contract_version": 1,
+  "id": "PT-0023",
+  "slug": "telemovel-e-gps-na-scooter",
+  "title": "Telemóvel e GPS na scooter em Hanói: suporte, carregamento e lei",
+  "description": "A lei vietnamita proíbe usar o telemóvel ao conduzir. Como preparar o percurso, onde parar para ver o mapa, que suporte usar e como manter a bateria.",
+  "h1": "Orientar-se de scooter em Hanói sem infringir a lei: telemóvel, suporte e bateria",
+  "summary": "A lei vietnamita proíbe usar o telemóvel enquanto conduz uma mota. Para se orientar de scooter em Hanói, estude o percurso antes de arrancar, encoste num local seguro sempre que precisar de ver o mapa e, se usar um suporte, deixe a rota definida e não toque no ecrã em andamento. Pergunte à loja se a mota tem suporte ou tomada para carregar.",
+  "key_points": [
+    "A lei vietnamita proíbe quem conduz uma mota de usar o telemóvel, tal como de usar um guarda-chuva.",
+    "Defina o percurso e descarregue o mapa antes de arrancar; para rever o caminho, encoste num local seguro.",
+    "Um suporte bem fixo evita ter o telemóvel na mão nas paragens, mas não autoriza mexer-lhe em andamento.",
+    "A tomada USB-C só existe em algumas versões recentes da Vision: pergunte à loja o que tem a sua unidade e leve uma bateria externa.",
+    "A aplicação de navegação não substitui os sinais: confirme que a rota evita as autoestradas, onde as motas são proibidas."
+  ],
+  "intro": [
+    "O telemóvel é o mapa, o tradutor e o telefone de quase todos os visitantes que alugam uma scooter em Hanói. Ao guiador, porém, passa a ser uma distração, e a lei vietnamita não deixa margem: quem conduz não o pode usar.",
+    "Este guia explica como conciliar as duas coisas: o que a lei proíbe, como preparar o percurso para não depender do ecrã, onde parar para consultar o mapa, o que verificar num suporte e como manter a bateria até ao fim do dia."
+  ],
+  "sections": [
+    {
+      "h2": "O que a lei proíbe a quem conduz uma mota",
+      "body": [
+        "A lei vietnamita sobre a ordem e a segurança do trânsito rodoviário, em vigor desde 1 de janeiro de 2025, proíbe quem conduz uma mota de usar o telemóvel enquanto conduz. A mesma regra afasta o guarda-chuva: com chuva, a solução é a capa.",
+        "As fontes consultadas para este guia não detalham se olhar para um telemóvel preso num suporte conta como uso. Seguimos por isso a leitura prudente, a mesma dos outros guias deste site: em andamento, o telemóvel não se usa, nem na mão nem no suporte, e o mapa consulta-se com a mota parada.",
+        "Há também uma razão prática. No trânsito de Hanói, com motas a ultrapassar pelos dois lados e peões a atravessar quando menos se espera, um segundo de olhos no ecrã é tempo de mais. As outras regras de base, como o capacete apertado e o álcool zero, estão no [guia de aluguer passo a passo](/guia-de-aluguer/)."
+      ]
+    },
+    {
+      "h2": "Preparar o percurso antes de arrancar",
+      "body": [
+        "Quanto melhor conhecer o caminho, menos vezes precisa de parar. Antes de sair do alojamento ou da loja:",
+        {
+          "checklist": [
+            "**Veja o percurso inteiro no mapa** e fixe três ou quatro referências fáceis de reconhecer: uma ponte, um lago, uma avenida larga.",
+            "**Descarregue o mapa da zona** para o usar sem rede, caso os dados móveis falhem a meio do dia.",
+            "**Confirme que a rota evita as autoestradas** (cao tốc): as motas não podem circular nelas. Se a aplicação tiver um modo para motas, use-o.",
+            "**Guarde as moradas de que vai precisar**: a do alojamento e a da loja em vietnamita, {{address.vi}}, para mostrar a quem lhe der indicações.",
+            "**Grave o número da loja**, {{phone}}, para o caso de avaria ou de dúvida."
+          ]
+        },
+        "O mapa no telemóvel serve para planear, mas pode não saber de um sentido único recente, de obras ou de uma rua fechada por um festival. Na estrada, mandam os sinais, as barreiras e os agentes. No centro histórico, onde as regras mudam com o dia da semana, leia antes o guia para [conduzir no Bairro Antigo](/zonas-de-hanoi/conduzir-no-bairro-antigo/).",
+        "Se vai passar um dia inteiro a passear, o itinerário de [Hanói de mota num dia](/rotas-e-mobilidade/hanoi-de-mota-num-dia/) já indica as paragens e onde deixar a mota em cada uma, o que reduz as consultas ao mapa."
+      ]
+    },
+    {
+      "h2": "Parar para ver o mapa: onde e como",
+      "body": [
+        "Rever o caminho a meio do trajeto é normal; fazê-lo em andamento, não. Quando precisar do mapa:",
+        {
+          "steps": [
+            {
+              "title": "Sinalize e encoste",
+              "text": "Ligue o pisca, olhe para os espelhos e saia da faixa de rodagem com calma, sem travagens bruscas."
+            },
+            {
+              "title": "Escolha um sítio que não atrapalhe",
+              "text": "Um parque de motas, a entrada de uma bomba de gasolina ou uma rua lateral tranquila. Nunca no tabuleiro de uma ponte, numa curva ou à saída de um cruzamento."
+            },
+            {
+              "title": "Consulte com a mota parada",
+              "text": "Com os pés no chão, reveja os próximos cruzamentos, não apenas o seguinte, e guarde o telemóvel ou deixe-o fixo no suporte antes de arrancar."
+            },
+            {
+              "title": "Volte ao trânsito devagar",
+              "text": "Olhe para trás e para os espelhos antes de sair: em Hanói, há quase sempre alguém a passar rente à berma."
+            }
+          ]
+        },
+        "À beira da estrada, mantenha o telemóvel junto ao corpo, virado para si e longe da faixa de rodagem. Um telemóvel que cai no meio do trânsito dificilmente se recupera."
+      ]
+    },
+    {
+      "h2": "Suporte de telemóvel: o que verificar",
+      "body": [
+        "Um suporte no guiador evita tirar o telemóvel do bolso a cada paragem e deixa o mapa à vista quando está parado. Não torna legal mexer-lhe em andamento: a rota define-se antes de arrancar e as alterações fazem-se com a mota parada.",
+        {
+          "h3": "Pergunte primeiro à loja"
+        },
+        "Não conte com um suporte à partida. Ao reservar, pergunte se a mota tem um suporte montado ou se a loja dispõe de algum, e em que condições. Se levar o seu, confirme que o pode instalar e retirar no fim sem danificar a mota.",
+        {
+          "h3": "Na montagem"
+        },
+        {
+          "checklist": [
+            "**Fixação firme**: com a mota parada, o suporte não pode rodar nem deslizar quando abana o guiador.",
+            "**Espelhos, luzes e comandos livres**: nada pode tapar os espelhos, o farol ou os interruptores, nem travar o movimento das manetes dos travões.",
+            "**Direção livre**: rode o guiador de um lado ao outro e confirme que o suporte e o cabo não tocam em nada.",
+            "**Telemóvel bem preso**: as vibrações e os buracos soltam um telemóvel mal encaixado; confirme o fecho antes de cada saída.",
+            "**Altura certa**: com a mota parada, deve conseguir ler o ecrã sem baixar a cabeça nem largar o guiador."
+          ]
+        },
+        {
+          "h3": "Sol, calor e chuva"
+        },
+        "Ao sol, o ecrã perde legibilidade e o telemóvel aquece, sobretudo se estiver a carregar; muitos aparelhos baixam o brilho quando aquecem. Com chuva, um suporte sem proteção deixa o telemóvel exposto: use uma capa impermeável ou guarde-o até a chuva passar.",
+        "Ao estacionar, retire o telemóvel do suporte e leve-o consigo."
+      ]
+    },
+    {
+      "h2": "Carregar o telemóvel durante o dia",
+      "body": [
+        "Com o mapa aberto e o ecrã ligado, a bateria gasta-se mais depressa do que o habitual. Há três formas de chegar ao fim do dia:",
+        {
+          "ul": [
+            "**Tomada na scooter**: nas versões mais recentes da [Honda Vision](/tipos-de-motas/honda-vision-em-hanoi/), o porta-objetos frontal tem uma tomada USB-C. Noutros modelos e versões, pergunte à loja se a unidade tem tomada e de que tipo.",
+            "**Bateria externa**: leve uma carregada na mochila e ligue o telemóvel nas paragens. Funciona com qualquer mota.",
+            "**Poupar bateria**: mapa descarregado, brilho no mínimo que permita ler e aplicações desnecessárias fechadas."
+          ]
+        },
+        "Se o telemóvel carregar enquanto conduz, passe o cabo por onde não se possa enrolar no guiador nem prender nas manetes. E não o deixe a carregar fechado no compartimento debaixo do assento, onde o calor e a humidade se acumulam."
+      ]
+    },
+    {
+      "h2": "O que perguntar à loja antes de sair",
+      "body": [
+        "Junte estas perguntas à conversa da reserva, de preferência por escrito:",
+        {
+          "checklist": [
+            "A mota tem suporte de telemóvel ou a loja tem algum disponível? Em que condições?",
+            "A unidade tem tomada para carregar? De que tipo?",
+            "Posso instalar o meu suporte e retirá-lo no fim do aluguer?",
+            "Para que número ligo, e por que meio, se tiver uma avaria ou não encontrar o caminho de volta?"
+          ]
+        },
+        "Pode fazer estas perguntas pelo {{phone}}, por chamada ou Zalo, {{hours}}; os restantes dados estão em [contactos](/contactos/). Confirme na mesma conversa os documentos que deve levar ao conduzir, explicados em [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/).",
+        "Se vai alugar só para um passeio, o guia do [aluguer de mota por um dia](/precos/aluguer-de-mota-por-um-dia/) ajuda a planear horários e devolução. Para comparar modelos, veja as [scooters automáticas](/tipos-de-motas/scooters/) e os restantes [tipos de motas](/tipos-de-motas/)."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Posso ouvir as indicações do GPS com auriculares?",
+      "a": "Este guia não confirmou a regra vietnamita sobre auriculares, por isso verifique-a antes de os usar. Na dúvida, dispense-os: no trânsito de Hanói, a buzina e o ruído das motas à volta são informação de que precisa. Em alternativa, memorize os próximos cruzamentos em cada paragem."
+    },
+    {
+      "q": "Se formos dois, quem vai atrás pode guiar com o telemóvel?",
+      "a": "A proibição citada neste guia aplica-se a quem conduz; para o passageiro, confirme a regra em vigor. Se quem vai atrás consultar o mapa, deve segurar o telemóvel com firmeza, junto ao corpo, e avisar as mudanças de direção com antecedência, sem gestos bruscos nem braços estendidos para a faixa de rodagem."
+    },
+    {
+      "q": "E se o telemóvel ficar sem bateria a meio do percurso?",
+      "a": "Encoste num local seguro e carregue-o com a bateria externa, se a tiver. Sem mapa, pergunte o caminho mostrando a morada de destino escrita em vietnamita, que convém levar também em papel. Se precisar de falar com a loja, peça a alguém que ligue para o {{phone}}."
+    }
+  ],
+  "sources": [
+    "lawnet-proibicoes-2024",
+    "lawnet-passageiros-2025",
+    "dtinews-autoestrada-2026",
+    {
+      "title": "Honda Vision thế hệ mới được ra mắt tại Việt Nam, giá từ 30 triệu đồng",
+      "publisher": "Doanh Nhân — Báo Pháp luật Việt Nam",
+      "url": "https://doanhnhan.baophapluat.vn/honda-vision-the-he-moi-duoc-ra-mat-tai-viet-nam-gia-tu-30-trieu-dong-35960.html",
+      "accessed": "2026-10-12",
+      "type": "news",
+      "lang": "vi"
+    }
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "PUBLISHED",
+  "date_published": "2026-10-13",
+  "date_modified": "2026-10-13",
+  "editorial": {
+    "qa_score": 100,
+    "qa_warnings": [],
+    "words": 1469,
+    "publish_mode": "review",
+    "approved_at": "2026-10-13",
+    "revisions": []
+  }
+}

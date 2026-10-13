@@ -1,0 +1,265 @@
+{
+  "contract_version": 1,
+  "id": "PT-0084",
+  "slug": "aluguer-com-datas-em-aberto",
+  "title": "Aluguer de mota flexível em Hanói: quando não sabe as datas",
+  "description": "Não sabe quantos dias vai precisar da mota em Hanói? Que período escolher para começar, o que perguntar à loja e como registar cada alteração ao acordo.",
+  "h1": "Não sabe quantos dias vai precisar da mota? Como alugar com flexibilidade",
+  "summary": "Se não sabe quantos dias vai precisar da mota, alugue pelo período de que tem a certeza, pergunte logo à partida como se prolonga e como se devolve mais cedo e registe cada alteração por escrito, na mesma conversa com a loja. Quando os dias se acumularem, compare o total com a tarifa semanal ou mensal do mesmo modelo.",
+  "key_points": [
+    "Comece pelo período de que tem a certeza e trate o resto como hipótese, não como compromisso.",
+    "Numa Honda Vision, a semana custa o mesmo ou menos do que pagar ao dia a partir de {{price.vision.weekFrom}} dias; numa Honda Wave, a partir de {{price.wave.weekFrom}}.",
+    "Antes de levantar a mota, pergunte como se prolonga, como se devolve mais cedo e se o total pode ser recalculado.",
+    "Marque um dia de decisão antes do fim de cada período, dentro do horário da loja.",
+    "Cada alteração ao acordo deve ficar escrita, com a nova data de fim e o valor."
+  ],
+  "intro": [
+    "Há viagens em que a data de fim ainda não existe: um bilhete de regresso em aberto, um trabalho que pode durar mais umas semanas, uma rota que depende do tempo ou da vontade de ficar. Nesses casos, escolher a duração do aluguer parece uma aposta. Alugar pouco obriga a renovar várias vezes; alugar muito pode significar pagar dias que não vai usar.",
+    "Este guia mostra como montar um aluguer de mota flexível na loja {{brand}}, em {{area}}: que período escolher para começar, o que perguntar antes de levantar a mota e como manter um registo claro de cada mudança. Os preços por dia, semana e mês estão na [página de preços](/precos/)."
+  ],
+  "sections": [
+    {
+      "h2": "Porque é difícil escolher a duração à partida",
+      "body": [
+        "A tabela de referência tem três tarifas — dia, semana e mês — e cada uma pressupõe que sabe quanto tempo vai ficar com a mota. Quando não sabe, há dois riscos opostos:",
+        {
+          "ul": [
+            "**Alugar de menos**: vai renovando aos poucos, com mais mensagens e pagamentos, e os dias avulsos somados podem chegar ao preço da semana — numa Honda Vision, isso acontece a partir de {{price.vision.weekFrom}} dias.",
+            "**Alugar de mais**: fecha uma semana ou um mês e, se os planos mudarem, fica com dias pagos por usar, cujo eventual acerto depende do acordo com a loja."
+          ]
+        },
+        "Um aluguer flexível não é uma tarifa à parte: o site não publica nenhuma modalidade sem data de fim. É uma forma de organizar o aluguer para que os dois riscos fiquem pequenos, e passa sobretudo por fazer as perguntas certas antes de começar."
+      ]
+    },
+    {
+      "h2": "Três formas de começar quando as datas estão em aberto",
+      "body": [
+        {
+          "table": {
+            "caption": "Estratégias para um aluguer sem data de fim certa",
+            "head": [
+              "Estratégia",
+              "Indicada para",
+              "Risco principal",
+              "O que perguntar"
+            ],
+            "rows": [
+              [
+                "Começar ao dia e prolongar",
+                "Planos muito incertos ou primeira experiência no trânsito de Hanói",
+                "Somar dias avulsos para lá do ponto em que a semana compensa",
+                "Se os dias já pagos podem ser recalculados pela tarifa semanal"
+              ],
+              [
+                "Fechar uma semana e decidir depois",
+                "Quem sabe que fica alguns dias, mas não quantos",
+                "Devolver antes do sétimo dia",
+                "O que acontece aos dias por usar e como se renova a semana"
+              ],
+              [
+                "Fechar um mês com hipótese de sair antes",
+                "Estadias longas com fim provável, mas não certo",
+                "Encurtar a estadia depois de pagar o mês",
+                "Se há acerto numa devolução antecipada e como se calcula"
+              ]
+            ]
+          }
+        },
+        "Nenhuma é melhor em absoluto. A escolha depende de quantos dias tem a certeza de usar a mota e do ponto em que, no seu modelo, uma tarifa passa a compensar mais do que a anterior.",
+        {
+          "h3": "A tabela que ajuda a decidir"
+        },
+        "A comparação seguinte mostra, modelo a modelo, a partir de quantos dias a semana custa o mesmo ou menos do que pagar ao dia:",
+        {
+          "component": "duration-compare"
+        },
+        "Use esse número como referência. Se os dias de que tem a certeza já lá chegam, a semana é o ponto de partida natural. Se ficam abaixo, começar ao dia deixa menos dinheiro comprometido à partida, e pode sempre prolongar."
+      ]
+    },
+    {
+      "h2": "Como escolher o período inicial, passo a passo",
+      "body": [
+        {
+          "steps": [
+            {
+              "title": "Separe os dias certos dos prováveis",
+              "text": "Conte os dias em que vai de certeza precisar da mota, os que são prováveis e os que são apenas possíveis. Só os primeiros entram no período inicial."
+            },
+            {
+              "title": "Compare com o ponto de viragem",
+              "text": "Veja na tabela acima a partir de quantos dias a semana compensa no modelo que escolheu — {{price.vision.weekFrom}} na Honda Vision, por exemplo — e ponha esse número ao lado dos seus dias certos."
+            },
+            {
+              "title": "Pense no mês só com uma base sólida",
+              "text": "O mês, que na Vision tem uma referência de {{price.vision.month}}, faz sentido quando já sabe que fica várias semanas e conduz quase todos os dias. O guia do [aluguer mensal](/precos/aluguer-mensal-de-mota/) mostra o que muda nesse caso."
+            },
+            {
+              "title": "Diga à loja que as datas estão em aberto",
+              "text": "Informe logo no primeiro contacto que pode prolongar ou encurtar. A loja fica a saber com o que conta e pode dizer-lhe se a mota continua livre depois da primeira data."
+            },
+            {
+              "title": "Peça o total do período inicial",
+              "text": "Na mesma mensagem, pergunte quanto custaria cada prolongamento provável, para decidir mais tarde com os valores à frente."
+            }
+          ]
+        },
+        "Se nunca conduziu em Hanói, o período certo para começar é curto: um dia chega para perceber se se sente à vontade no trânsito. O guia do [aluguer por um dia](/precos/aluguer-de-mota-por-um-dia/) ajuda a organizá-lo."
+      ]
+    },
+    {
+      "h2": "As perguntas que tornam o aluguer flexível",
+      "body": [
+        "A flexibilidade depende do que a loja aceitar. Por isso, as perguntas fazem-se antes de pagar, e não quando os planos já mudaram. Junte-as numa só mensagem:",
+        {
+          "checklist": [
+            "**Prolongar**: com quanta antecedência devo avisar, e por que canal?",
+            "**Preço dos dias extra**: conta o preço diário, ou o total é recalculado pela semana ou pelo mês quando o aluguer lá chega?",
+            "**Mesma mota**: se prolongar, fico com a mesma unidade ou pode ser preciso trocar?",
+            "**Devolver mais cedo**: há algum acerto se entregar a mota antes da data combinada?",
+            "**Pagamento**: pago cada período no início ou o total no fim?",
+            "**Caução**: se existir, mantém-se igual quando o aluguer se prolonga?"
+          ]
+        },
+        "As respostas definem até onde vai a flexibilidade do seu aluguer. Se alguma for vaga, peça um exemplo concreto com o seu modelo e as suas datas. As restantes questões gerais estão nas [15 perguntas a fazer antes de alugar](/guia-de-aluguer/perguntas-antes-de-alugar/)."
+      ]
+    },
+    {
+      "h2": "Marcar dias de decisão ao longo do aluguer",
+      "body": [
+        "Com datas em aberto, a tentação é decidir à última hora. Mas uma renovação pedida na noite anterior à devolução depende de a mota ainda estar livre e de a loja responder a tempo. É melhor marcar no telemóvel um dia de decisão antes do fim de cada período:",
+        {
+          "ul": [
+            "**Aluguer ao dia**: decida na véspera, dentro do horário da loja ({{hours}}), se continua.",
+            "**Aluguer à semana**: decida por volta do quinto dia, para ter tempo de pedir a renovação ou de combinar a devolução.",
+            "**Aluguer ao mês**: decida na última semana e pergunte se o preço do mês seguinte se mantém."
+          ]
+        },
+        "Em cada dia de decisão, olhe para os mesmos três pontos: quantos dias usou a mota no período que está a acabar, quantos dias certos tem pela frente e se os outros planos — alojamento, voos, viagens fora de Hanói — já estão definidos.",
+        {
+          "note": "Se o alojamento ou o bilhete de regresso também estão em aberto, tente fazer coincidir os dias de decisão. Decidir tudo de uma vez evita prolongar a mota por uma semana e descobrir no dia seguinte que vai mudar de cidade.",
+          "tone": "info",
+          "title": "Planos alinhados"
+        }
+      ]
+    },
+    {
+      "h2": "Como registar as alterações ao acordo",
+      "body": [
+        "Num aluguer que muda várias vezes, a memória não chega. Cada alteração — mais dias, uma devolução antecipada, uma troca de mota — deve ficar escrita na mesma conversa em que combinou o aluguer, com uma confirmação clara da loja.",
+        {
+          "h3": "Um resumo atualizado depois de cada mudança"
+        },
+        "Depois de cada alteração, envie uma mensagem curta que resuma o estado do aluguer e peça à loja que a confirme: modelo e matrícula, data e hora de fim, total pago até ao momento e o que falta pagar. A última mensagem confirmada passa a ser a referência, e as anteriores ficam como histórico.",
+        {
+          "table": {
+            "caption": "Exemplo de registo de alterações num aluguer com datas em aberto",
+            "head": [
+              "Momento",
+              "O que mudou",
+              "Novo fim do aluguer",
+              "Confirmado por escrito"
+            ],
+            "rows": [
+              [
+                "Primeiro contacto",
+                "Três dias iniciais, com hipótese de prolongar",
+                "Terceiro dia, à hora combinada",
+                "Sim, com o total dos três dias"
+              ],
+              [
+                "Terceiro dia",
+                "Prolongamento até completar a semana",
+                "Sétimo dia, à mesma hora",
+                "Sim, com o novo total"
+              ],
+              [
+                "Sexto dia",
+                "Mais uma semana com a mesma mota",
+                "Fim da segunda semana",
+                "Sim, com a forma de pagamento"
+              ],
+              [
+                "Décimo dia",
+                "Devolução dois dias mais cedo",
+                "Décimo segundo dia",
+                "Sim, com o acerto combinado, se houver"
+              ]
+            ]
+          }
+        },
+        {
+          "h3": "O que guardar até ao fim"
+        },
+        {
+          "checklist": [
+            "as mensagens de confirmação, sem as apagar até a caução estar devolvida, se existir;",
+            "os comprovativos de cada pagamento, com a data e o período a que se referem;",
+            "as fotografias da mota no levantamento e em cada troca de unidade;",
+            "a quilometragem anotada em cada renovação."
+          ]
+        },
+        "Se a resposta da loja for diferente do que leu no site, prevalece o acordo, como indicam os [termos e condições](/termos-e-condicoes/). É mais uma razão para ter cada mudança por escrito."
+      ]
+    },
+    {
+      "h2": "Grupos e famílias: cada mota com as suas datas",
+      "body": [
+        "Quando viajam várias pessoas, os planos nem sempre acabam ao mesmo tempo: alguém parte mais cedo, outra pessoa decide ficar mais uma semana. Nesse caso, trate cada mota como um aluguer com datas próprias.",
+        "Pergunte à loja se as motas alugadas em conjunto podem ser devolvidas em dias diferentes e se cada uma pode ser prolongada à parte. No registo das alterações, identifique sempre a mota pela matrícula, para não haver dúvidas sobre qual delas mudou de data."
+      ]
+    },
+    {
+      "h2": "Quando é altura de fechar um período maior",
+      "body": [
+        "Prolongar aos poucos é útil enquanto os planos estão de facto em aberto. Há sinais de que deixou de ser a melhor forma:",
+        {
+          "ul": [
+            "já prolongou duas ou três vezes e os planos parecem estáveis;",
+            "os dias que somou já passam o número a partir do qual a semana compensa no seu modelo;",
+            "tem alojamento marcado por várias semanas;",
+            "a mota passou a fazer parte da rotina diária."
+          ]
+        },
+        "Nessa altura, peça à loja um valor para todo o período que ainda tem pela frente e compare-o com a [tarifa semanal](/precos/aluguer-semanal-de-mota/) ou com o mês do mesmo modelo. Na Honda Vision, a referência é de {{price.vision.week}} por semana e de {{price.vision.month}} por mês; o guia da [Honda Vision](/tipos-de-motas/honda-vision-em-hanoi/) ajuda a perceber se é a scooter certa para uma estadia mais longa.",
+        "Quando souber pelo menos o primeiro período, [contacte a loja](/contactos/) pelo {{phone}} e diga logo que as datas estão em aberto."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Posso alugar uma mota sem data de devolução?",
+      "a": "O site não publica nenhuma modalidade sem data de fim: os preços de referência são por dia, semana e mês. Combine sempre uma data e uma hora de devolução, mesmo que provisórias, e pergunte à loja como funciona prolongar a partir daí."
+    },
+    {
+      "q": "Se prolongar várias vezes, pago mais do que se tivesse fechado logo a semana?",
+      "a": "Pode acontecer. Em cada modelo, a soma dos dias avulsos chega ao preço da semana a partir de certo número de dias — {{price.wave.weekFrom}} numa Honda Wave, por exemplo. Pergunte antes de começar se, ao atingir esse número, o total pode ser recalculado pela tarifa semanal."
+    },
+    {
+      "q": "Tenho de pagar o período todo de uma vez?",
+      "a": "O site não publica a forma de pagamento: é a loja que a indica quando confirma o aluguer. Com datas em aberto, pergunte se paga cada período no início ou o total na devolução, e peça um comprovativo de cada pagamento."
+    },
+    {
+      "q": "Vale a pena avisar a loja de que as datas estão em aberto?",
+      "a": "Sim. Dizer logo que pode prolongar ou encurtar ajuda a loja a organizar as reservas e a dizer-lhe à partida se a mota fica livre depois da primeira data. Não é um compromisso: é informação que torna as respostas mais úteis."
+    }
+  ],
+  "sources": [
+    "tabela-precos-proprietario"
+  ],
+  "legal_note": false,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "PUBLISHED",
+  "date_published": "2026-10-13",
+  "date_modified": "2026-10-13",
+  "editorial": {
+    "qa_score": 100,
+    "qa_warnings": [],
+    "words": 1885,
+    "publish_mode": "review",
+    "approved_at": "2026-10-13",
+    "revisions": []
+  }
+}

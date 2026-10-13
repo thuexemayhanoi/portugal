@@ -1,0 +1,239 @@
+{
+  "contract_version": 1,
+  "id": "PT-0109",
+  "slug": "limpeza-da-mota",
+  "title": "Lavagem da mota alugada em Hanói: quando é necessária",
+  "description": "Quando é preciso lavar a mota alugada em Hanói — chuva, lama, ruas alagadas —, o que combinar com a loja sobre a limpeza e como pedir uma lavagem rápida.",
+  "h1": "Limpar a mota alugada depois da chuva e da lama: quando lavar, onde e o que combinar com a loja",
+  "summary": "A lavagem da mota alugada torna-se necessária quando a sujidade vai além do pó do dia a dia: lama, terra de estrada ou a água suja de uma rua alagada, que tapam a carroçaria e se agarram às rodas. O que a loja espera na devolução, e se uma mota muito suja tem custo, combina-se antes de a levantar.",
+  "key_points": [
+    "Pó e chuva ligeira resolvem-se com um pano; lama, terra e água de ruas alagadas pedem uma lavagem.",
+    "Pergunte à loja, antes de levantar a mota, que limpeza espera na devolução e se uma mota muito suja tem custo.",
+    "Para lavar, procure um «rửa xe» — não confundir com «sửa xe», que é uma oficina — e pergunte o preço antes.",
+    "Peça jato suave junto do painel, da ignição e das ligações elétricas; numa mota elétrica, pergunte primeiro à loja.",
+    "Depois de chuva forte, seque o assento e o compartimento e confirme que os travões e as luzes respondem bem."
+  ],
+  "intro": [
+    "Uma mota que circula em Hanói não fica limpa muito tempo. O pó das obras, a chuva de verão e, num passeio fora da cidade, a lama de uma estrada de terra deixam marcas em poucos dias. A questão prática é saber quando isso pede uma lavagem e quando basta um pano.",
+    "Este guia ajuda a distinguir os casos, explica o que perguntar à loja sobre a limpeza e mostra como pedir uma lavagem rápida num ponto de lavagem de motas. Não descreve regras da loja: para o seu aluguer, conta o que ficar combinado por escrito."
+  ],
+  "sections": [
+    {
+      "h2": "Pó, chuva ou lama: quando a limpeza é necessária",
+      "body": [
+        "Nem toda a sujidade é igual. A tabela seguinte ajuda a decidir o que fazer em cada situação:",
+        {
+          "table": {
+            "caption": "Que limpeza pede cada situação",
+            "head": [
+              "Situação",
+              "O que fazer",
+              "Porquê"
+            ],
+            "rows": [
+              [
+                "Pó e fuligem do dia a dia",
+                "Pano húmido no assento, no painel, nos espelhos e nas luzes",
+                "Mantém a visibilidade e o conforto; não pede lavagem"
+              ],
+              [
+                "Chuva em estrada asfaltada",
+                "Secar o assento e o compartimento debaixo dele",
+                "Pode entrar água no compartimento e molhar o que lá guardar"
+              ],
+              [
+                "Rua alagada depois de uma chuvada",
+                "Água limpa nas rodas e na parte de baixo; testar travões e luzes",
+                "A água das ruas alagadas deixa lama e detritos"
+              ],
+              [
+                "Estrada de terra, obras ou lama",
+                "Lavagem antes da devolução e, num aluguer longo, logo que possível",
+                "A lama tapa riscos e agarra-se às rodas, aos travões e à corrente"
+              ],
+              [
+                "Derrame no assento ou no compartimento",
+                "Limpar no próprio dia, com água e um pano",
+                "Evita manchas e cheiros difíceis de tirar"
+              ]
+            ]
+          }
+        },
+        "A diferença prática é esta: a sujidade que sai com um pano é a de qualquer mota usada na cidade; a que tapa a carroçaria ou fica agarrada às rodas merece uma lavagem. Impede de ver o estado da mota e, junto aos travões e à corrente, não é sujidade que se deva deixar acumular.",
+        "Se pingar gasolina ao abastecer, limpe-a logo com um pano: evita manchas na carroçaria e o cheiro no assento."
+      ]
+    },
+    {
+      "h2": "O que combinar com a loja antes de levantar a mota",
+      "body": [
+        "A limpeza é um dos pontos em que poucos pensam ao reservar e que pode gerar dúvidas no fim. Não há uma regra única: o que a loja espera na devolução é o que ela lhe disser. Junte estas perguntas à mensagem da reserva:",
+        {
+          "checklist": [
+            "Em que estado espera a mota na devolução: basta que venha sem lama, ou prefere que seja lavada?",
+            "Se a mota voltar muito suja, há algum custo? De quanto, e quando se paga?",
+            "Prefere que eu não a lave e que a limpeza fique a cargo da loja?",
+            "Numa mota elétrica: posso lavá-la com água, ou só limpá-la com um pano?",
+            "Num aluguer longo: a limpeza periódica fica a meu cargo?"
+          ]
+        },
+        "Peça as respostas por escrito, na mesma conversa em que confirma as datas e o preço. A tabela de [preços de referência](/precos/) cobre apenas o aluguer do veículo; qualquer custo ligado à limpeza é confirmado pela loja. As outras questões a esclarecer antes de reservar estão na lista de [perguntas a fazer antes de alugar](/guia-de-aluguer/perguntas-antes-de-alugar/).",
+        "E se a mota já vier suja? Fotografe-a na entrega e diga-o na conversa com a loja. Fica registado o ponto de partida, e ninguém terá dúvidas sobre o estado em que deve voltar.",
+        "Pode fazer estas perguntas por telefone ou Zalo, para o {{phone}}; os restantes dados da loja estão em [contactos](/contactos/)."
+      ]
+    },
+    {
+      "h2": "Onde lavar a mota em Hanói",
+      "body": [
+        "Os pontos de lavagem de motas identificam-se pela placa «rửa xe», que quer dizer lavar o veículo, muitas vezes seguida de «xe máy», mota. Não confunda com «sửa xe», que indica uma oficina de reparação, nem com «vá xe», onde se reparam furos: a diferença está numa só palavra.",
+        {
+          "h3": "Como pedir a lavagem"
+        },
+        {
+          "steps": [
+            {
+              "title": "Pergunte o preço primeiro",
+              "text": "Mostre a mota e pergunte quanto custa antes de começarem: «Rửa xe máy bao nhiêu tiền?», ou seja, «Quanto custa lavar a mota?»."
+            },
+            {
+              "title": "Esvazie o compartimento",
+              "text": "Retire de debaixo do assento os documentos da mota, a capa de chuva e tudo o que não deva molhar."
+            },
+            {
+              "title": "Peça cuidado com as partes elétricas",
+              "text": "Peça jato suave junto do painel, da ignição e das ligações elétricas. Uma frase curta ajuda: «Xịt nhẹ thôi», ou seja, «só jato suave»."
+            },
+            {
+              "title": "Confira antes de pagar",
+              "text": "Veja se a lama saiu das rodas e da parte de baixo e se o assento ficou seco."
+            }
+          ]
+        },
+        "À saída da lavagem, os travões molhados podem demorar um pouco a responder como antes. Teste-os a baixa velocidade nos primeiros metros, antes de entrar no trânsito.",
+        {
+          "note": "Numa mota elétrica, pergunte primeiro à loja se a pode lavar com água e de que forma. A bateria e os componentes elétricos pedem mais cuidado do que numa mota a gasolina, e é a loja que conhece a unidade.",
+          "tone": "warn",
+          "title": "Motas elétricas: perguntar antes de lavar"
+        }
+      ]
+    },
+    {
+      "h2": "Limpar sem lavar: o que pode fazer no alojamento",
+      "body": [
+        "Na maior parte dos dias, não precisa de lavagem nenhuma. Dez minutos com um pano chegam para manter a mota em ordem:",
+        {
+          "ul": [
+            "**Assento**: seque-o depois da chuva e tire-lhe o pó antes de se sentar, para não sujar a roupa.",
+            "**Espelhos, farol e piscas**: limpos, veem melhor e deixam-se ver, sobretudo à noite e com chuva.",
+            "**Matrícula**: uma passagem rápida com o pano mantém-na legível.",
+            "**Painel**: um pano macio e seco, sem produtos agressivos.",
+            "**Compartimento debaixo do assento**: abra-o, retire a água ou a areia que lá entrou e deixe-o arejar.",
+            "**Viseira do capacete**: água e um pano macio; papel ou tecidos ásperos riscam-na."
+          ]
+        },
+        "Peça no alojamento um pano velho, em vez de usar as toalhas do quarto. E não lave a mota com mangueira no pátio sem perguntar antes: nem todos os alojamentos o permitem, e a água escorre para onde outros hóspedes estacionam."
+      ]
+    },
+    {
+      "h2": "Depois de chuva forte ou de ruas alagadas",
+      "body": [
+        "Segundo o portal oficial de turismo do Vietname, a época das chuvas em Hanói atinge o auge entre junho e agosto. Nesses meses, uma chuvada forte pode deixar algumas ruas alagadas durante algum tempo. Se apanhar uma chuvada ou tiver de passar por água:",
+        {
+          "ol": [
+            "Sempre que puder, evite atravessar ruas alagadas: não vê os buracos nem as tampas soltas debaixo da água.",
+            "Se tiver mesmo de passar, teste os travões a baixa velocidade logo a seguir, até responderem como antes.",
+            "Se a água chegar ao nível do motor ou se a mota começar a falhar, não insista: pare em segurança e contacte a loja pelo {{phone}}.",
+            "No alojamento, seque o assento, abra o compartimento e estenda a capa de chuva a secar.",
+            "Se a água deixou lama nas rodas e na parte de baixo, passe-lhe água limpa no próprio dia ou no seguinte."
+          ]
+        },
+        "Num aluguer que coincide com a época das chuvas, vale a pena perguntar logo na reserva como a loja prefere que trate a mota depois destes episódios. Assim sabe o que fazer sem ter de improvisar à beira da estrada."
+      ]
+    },
+    {
+      "h2": "Na devolução: limpeza, verificação e custos",
+      "body": [
+        "No último dia, a limpeza tem dois efeitos. Deixa ver a carroçaria, e a verificação conjunta faz-se mais depressa e com menos dúvidas quando os riscos estão à vista. E evita qualquer acerto ligado à sujidade, se a loja o tiver previsto.",
+        "Planeie a lavagem para a véspera ou para a manhã do último dia, e não para o caminho da loja à última hora: o assento tem tempo de secar e não chega à pressa. A loja funciona {{hours}}; conte com o tempo da lavagem quando escolher a hora de chegada.",
+        "Se lhe for apontado um custo de limpeza que não estava combinado, mostre a conversa da reserva e as fotografias da entrega e peça que lhe expliquem o valor. Por isso convém que a pergunta sobre a limpeza fique respondida por escrito logo no início."
+      ]
+    },
+    {
+      "h2": "Alugueres longos: uma rotina simples",
+      "body": [
+        "Num aluguer de várias semanas, a limpeza deixa de ser um acontecimento e passa a ser uma rotina:",
+        {
+          "table": {
+            "caption": "Rotina de limpeza num aluguer longo",
+            "head": [
+              "Quando",
+              "O que fazer"
+            ],
+            "rows": [
+              [
+                "Em cada dia de chuva",
+                "Secar o assento e o compartimento; estender a capa de chuva"
+              ],
+              [
+                "Uma vez por semana",
+                "Pano nos espelhos, nas luzes, no painel e na matrícula"
+              ],
+              [
+                "Depois de lama ou de um passeio fora da cidade",
+                "Lavagem num ponto de lavagem de motas"
+              ],
+              [
+                "Antes da devolução",
+                "Lavagem, se a mota não puder ser verificada à vista"
+              ]
+            ]
+          }
+        },
+        "Aproveite a limpeza semanal para olhar para a mota com atenção: um pneu gasto, um parafuso solto ou uma mancha de óleo veem-se melhor numa mota limpa. Se notar algo, avise a loja antes de o problema crescer. O guia do [aluguer mensal](/precos/aluguer-mensal-de-mota/) tem uma rotina de verificação completa para um mês inteiro."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Tenho de lavar a mota antes de a devolver?",
+      "a": "Depende do que combinar com a loja e do estado em que a mota estiver. Com o pó do dia a dia, um pano chega para que a mota possa ser verificada à vista; com lama ou terra, uma lavagem facilita a verificação. Pergunte antes de levantar a mota e guarde a resposta por escrito."
+    },
+    {
+      "q": "Quanto custa lavar uma mota em Hanói?",
+      "a": "Varia de sítio para sítio, e este guia não publica valores. Pergunte o preço antes de começarem a lavar e confira o resultado antes de pagar."
+    },
+    {
+      "q": "Posso lavar a mota com a mangueira do alojamento?",
+      "a": "Só com autorização do alojamento e, no caso de uma mota elétrica, também da loja. Use pouca pressão, mantenha a água longe do painel e da ignição e seque o assento no fim. Para lama a sério, um ponto de lavagem de motas resolve mais depressa."
+    },
+    {
+      "q": "E se a mota já estava suja quando a recebi?",
+      "a": "Fotografe-a na entrega, de todos os lados, e escreva na conversa com a loja que a recebeu assim. Fica registado o ponto de partida, e o estado em que deve voltar deixa de ser motivo de dúvida."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Weather and climate in Vietnam",
+      "publisher": "Portal oficial de turismo do Vietname (vietnam.travel)",
+      "url": "https://vietnam.travel/things-to-do/weather-and-climate-vietnam",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    }
+  ],
+  "legal_note": false,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "PUBLISHED",
+  "date_published": "2026-10-13",
+  "date_modified": "2026-10-13",
+  "editorial": {
+    "qa_score": 100,
+    "qa_warnings": [],
+    "words": 1725,
+    "publish_mode": "review",
+    "approved_at": "2026-10-13",
+    "revisions": []
+  }
+}

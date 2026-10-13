@@ -1,0 +1,265 @@
+{
+  "contract_version": 1,
+  "id": "PT-0101",
+  "slug": "entrega-da-mota-no-hotel",
+  "title": "Entrega da mota no hotel em Hanói: o que perguntar antes",
+  "description": "Como pedir que a mota alugada seja entregue no hotel em Hanói: que dados enviar à loja, o que confirmar sobre hora e custo e o que verificar à porta.",
+  "h1": "Mota entregue no alojamento: como combinar a entrega e o que verificar à porta",
+  "summary": "A entrega da mota no hotel não faz parte do preço de referência nem está assegurada à partida: a loja confirma, pedido a pedido, se é possível na sua morada, a que horas e com que custo. Envie o endereço exato do alojamento, a data, a hora e o modelo, e peça a resposta por escrito antes de marcar.",
+  "key_points": [
+    "Disponibilidade, horário e custo da entrega são confirmados pela loja em cada pedido; o site não publica tarifas de entrega.",
+    "Envie a morada do alojamento em vietnamita, com o número do beco, e a localização partilhada no Google Maps.",
+    "Fale também com o hotel: onde a mota fica à noite, se o lugar tem custo e a que horas fecha o acesso.",
+    "À porta, verifique a mota, os capacetes e os documentos do veículo antes de pagar ou assinar.",
+    "Se o hotel fica na zona pedonal do lago Hoàn Kiếm, não marque a entrega para as noites de sexta a domingo."
+  ],
+  "intro": [
+    "Receber a mota à porta do hotel poupa a deslocação até à loja, em {{area}}, na margem leste do rio Vermelho. Para quem fica no Bairro Antigo ou noutro bairro do centro, isso significa não atravessar o rio de táxi logo no primeiro dia e começar a conduzir a partir de uma rua que já conhece.",
+    "A entrega, porém, não é um serviço com preço publicado. Depende da morada, do dia e da hora, e combina-se com a loja em cada aluguer. Este guia explica que informação enviar, que perguntas fazer antes de confirmar, o que tratar com o próprio hotel e como verificar a mota nos minutos em que ela chega à porta."
+  ],
+  "sections": [
+    {
+      "h2": "O que está definido e o que se combina caso a caso",
+      "body": [
+        "A tabela de [preços de referência](/precos/) mostra quanto custa o aluguer de cada modelo por dia, por semana e por mês. A entrega e a recolha não fazem parte desses valores. Também não existe uma lista pública de zonas, horários ou tarifas de entrega: a loja responde a cada pedido em função da morada, da data e da hora.",
+        "Na prática, isto quer dizer três coisas:",
+        {
+          "ul": [
+            "**A entrega pode não ser possível** em todas as moradas ou a qualquer hora. Pergunte antes de organizar o primeiro dia à volta dela.",
+            "**O custo, se existir, é indicado no pedido.** Peça que a resposta da loja mencione o valor de forma explícita, mesmo que seja para dizer que não há nenhum.",
+            "**O horário segue o da loja**, que está aberta {{hours}}. Uma entrega fora deste horário só acontece se a loja a confirmar."
+          ]
+        },
+        "Tudo o que for combinado deve ficar escrito na mesma conversa em que reservou a mota, por telefone ou Zalo, através do {{phone}}. Assim, quem traz a mota e quem a recebe trabalham com a mesma informação, e qualquer dúvida no dia resolve-se a olhar para a mensagem."
+      ]
+    },
+    {
+      "h2": "Entrega no hotel ou levantamento na loja?",
+      "body": [
+        "Antes de pedir a entrega, compare com a alternativa de ir buscar a mota. Nenhuma das opções serve melhor em todos os casos: depende da distância, do horário e da sua experiência ao guiador.",
+        {
+          "table": {
+            "caption": "Entrega no alojamento e levantamento na loja: diferenças práticas",
+            "head": [
+              "Aspeto",
+              "Entrega no hotel",
+              "Levantamento na loja"
+            ],
+            "rows": [
+              [
+                "Deslocação",
+                "Nenhuma: a mota vem ter consigo.",
+                "Táxi ou outro transporte até {{area}}."
+              ],
+              [
+                "Custo além do aluguer",
+                "A confirmar com a loja para a sua morada.",
+                "O da sua deslocação até à loja."
+              ],
+              [
+                "Escolha da unidade",
+                "Recebe a unidade combinada por mensagem.",
+                "Vê a mota antes de a aceitar e pode perguntar por outra unidade."
+              ],
+              [
+                "Primeiros quilómetros",
+                "Começam nas ruas à volta do hotel.",
+                "Começam em Long Biên, junto à loja."
+              ],
+              [
+                "Horário",
+                "Uma janela combinada, sujeita ao trânsito.",
+                "Qualquer hora dentro do horário da loja."
+              ]
+            ]
+          }
+        },
+        "Pense também no primeiro percurso. Com a entrega, a primeira volta faz-se logo à porta do hotel — e, no Bairro Antigo, isso quer dizer ruas estreitas, sentidos únicos e muitos peões na faixa de rodagem. O guia para [conduzir no Bairro Antigo](/zonas-de-hanoi/conduzir-no-bairro-antigo/) ajuda a preparar essa saída.",
+        "Se preferir ir à loja, mostre ao taxista a morada em vietnamita: {{address.vi}}. A página de [contactos](/contactos/) tem a localização no Google Maps e o horário."
+      ]
+    },
+    {
+      "h2": "Que informação enviar para pedir a entrega",
+      "body": [
+        "Um pedido completo recebe uma resposta mais rápida e evita trocas de mensagens no próprio dia. Junte numa só mensagem:",
+        {
+          "ol": [
+            "**Nome do alojamento e morada completa**, copiada da reserva, de preferência em vietnamita e com os acentos.",
+            "**Número do beco**, se o hotel ficar num «ngõ» ou num «ngách» (beco e beco secundário): em Hanói, muitas moradas só se encontram com esse número.",
+            "**Localização no Google Maps**, partilhada a partir do telemóvel, para evitar confusões entre ruas com nomes parecidos.",
+            "**Data e janela horária** em que pode estar à porta, com uma alternativa.",
+            "**Modelo pretendido e uma segunda opção**, caso o primeiro não esteja livre nessas datas.",
+            "**Número de capacetes e tamanhos**, sobretudo se for levar passageiro.",
+            "**Data e hora da devolução**, e se pretende também a recolha no fim.",
+            "**O seu nome e um número de telemóvel ou de Zalo** onde a pessoa que traz a mota o possa contactar."
+          ]
+        },
+        "Se ficar num apartamento ou numa casa sem receção, diga-o logo e indique um ponto de encontro fácil de reconhecer: a entrada do prédio, uma loja ou um café na esquina.",
+        {
+          "note": "A morada que aparece na reserva pode estar simplificada ou sem o número do beco. Peça à receção a morada exata em vietnamita — a mesma que daria a um taxista — e envie-a à loja tal como a recebeu.",
+          "tone": "info",
+          "title": "Confirme a morada com o hotel"
+        }
+      ]
+    },
+    {
+      "h2": "Perguntas a fazer antes de confirmar",
+      "body": [
+        "Com o pedido enviado, confirme os pontos seguintes. Uma resposta curta a cada um chega:",
+        {
+          "checklist": [
+            "A entrega é possível nesta morada, neste dia e a esta hora?",
+            "Tem custo? Qual é o valor, e cobre só a ida ou também a recolha no fim?",
+            "Até quando posso mudar a hora ou cancelar a entrega?",
+            "O que acontece se eu me atrasar, ou se o voo chegar mais tarde do que o previsto?",
+            "Quem traz a mota, e de que número me vai contactar?",
+            "O pagamento do aluguer e a eventual caução tratam-se à porta? Em que forma, e com que comprovativo?",
+            "Que documentos devo ter comigo no momento da entrega?",
+            "Que documentos do veículo seguem com a mota?",
+            "Com que nível de combustível chega a mota?"
+          ]
+        },
+        "A caução merece atenção especial numa entrega, porque se trata na rua e não ao balcão. Antes do dia, saiba se existe no seu caso, o montante, a forma e o comprovativo que recebe; o guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/) explica o que perguntar. As restantes questões gerais — avarias, prolongamento, devolução — estão reunidas nas [perguntas a fazer antes de alugar](/guia-de-aluguer/perguntas-antes-de-alugar/)."
+      ]
+    },
+    {
+      "h2": "Escolher o dia e a hora da entrega",
+      "body": [
+        "A hora da entrega pesa mais do que parece, porque é também a hora do seu primeiro percurso. Algumas orientações:",
+        {
+          "ul": [
+            "**Evite o dia da chegada**, sobretudo depois de um voo longo: o cansaço e a falta de orientação não ajudam nos primeiros quilómetros. Se mesmo assim quiser a mota nesse dia, marque-a com margem e avise a loja se o voo se atrasar.",
+            "**Fuja das horas de ponta** da manhã e do fim da tarde, quando o trânsito do centro é mais denso e a viagem até ao hotel demora mais.",
+            "**Prefira a luz do dia**: a inspeção e as fotografias fazem-se muito melhor com luz natural do que debaixo de um candeeiro.",
+            "**Confirme na véspera** a hora e o número de contacto, sobretudo se o pedido foi feito vários dias antes."
+          ]
+        },
+        "Pedir uma janela a meio da manhã ou a meio da tarde, fora das horas de ponta, deixa margem aos dois lados. Se o seu plano para o primeiro dia depende da mota, combine uma hora mais cedo do que precisa: um atraso de trânsito não estraga o dia."
+      ]
+    },
+    {
+      "h2": "O que tratar com o hotel antes de a mota chegar",
+      "body": [
+        "A entrega é só o primeiro momento. Depois, a mota vai passar várias noites no alojamento, e é aí que surgem as dúvidas mais práticas. Pergunte à receção, de preferência antes de chegar:",
+        {
+          "ul": [
+            "**Onde pode ficar a mota**: dentro do edifício, num parque do hotel, num parque vigiado próximo ou na rua.",
+            "**Se o lugar tem custo**, e se se paga por noite ou pela estadia inteira.",
+            "**A que horas fecha o acesso** à entrada ou ao parque, para não ficar com a mota na rua depois de um jantar tardio.",
+            "**Quem fica com a chave**, se o hotel arrumar ele próprio as motas dos hóspedes.",
+            "**Se a receção pode ajudar** a falar com a pessoa que traz a mota, caso haja dificuldade com a língua."
+          ]
+        },
+        "Há alojamentos que guardam as motas dos hóspedes na entrada durante a noite e outros que não têm qualquer lugar. Confirme qual é o caso do seu antes de marcar a entrega, porque essa resposta pode mudar a decisão de receber a mota no hotel.",
+        {
+          "h3": "Hotel na zona pedonal do lago Hoàn Kiếm"
+        },
+        "À data de 13 de outubro de 2026, decorre a primeira fase da zona de baixas emissões de Hanói, prevista até 31 de dezembro de 2026. Na zona 1 — o espaço pedonal do lago Hoàn Kiếm e as ruas do mercado noturno do Bairro Antigo — motas e automóveis não entram às sextas, sábados e domingos, das 19:00 às 24:00.",
+        "Se o seu hotel fica nessa área, não marque a entrega para essas noites: mesmo que a mota chegue antes das 19:00, nessas horas não pode circular com ela dentro da zona. Prefira a manhã ou um dia de semana e, se viajar depois de 2026, confirme as regras em vigor."
+      ]
+    },
+    {
+      "h2": "Quando a mota chega à porta",
+      "body": [
+        "A entrega à porta é rápida, mas a verificação não deve ser. Escolha um sítio com luz, com a mota parada fora da faixa de rodagem, e reserve dez a quinze minutos. Faça tudo antes de pagar ou de assinar.",
+        {
+          "steps": [
+            {
+              "title": "Confirme que é a mota combinada",
+              "text": "Modelo, cor e, se lhe foi indicada, a matrícula. Se receber outro modelo, pergunte porquê antes de aceitar."
+            },
+            {
+              "title": "Fotografe tudo",
+              "text": "Todos os lados, os riscos que já existam e o painel com a quilometragem e o combustível. Envie as fotografias para a conversa com a loja: ficam com data e hora."
+            },
+            {
+              "title": "Teste o essencial",
+              "text": "Arranque, travões das duas rodas, luzes, piscas, buzina e espelhos. Olhe para os pneus e veja como abre o compartimento debaixo do assento."
+            },
+            {
+              "title": "Experimente os capacetes",
+              "text": "Aperte a fivela e confirme que o capacete não roda na cabeça. Trocar de tamanho é muito mais fácil agora do que depois de a pessoa ter partido."
+            },
+            {
+              "title": "Confira os documentos",
+              "text": "Veja que documentos do veículo ficam consigo e se correspondem à mota. O guia dos [documentos da mota alugada](/guia-de-aluguer/documentos-da-mota-alugada/) explica como os comparar com a matrícula."
+            },
+            {
+              "title": "Feche o acordo",
+              "text": "Leia as condições, pague da forma combinada e guarde o comprovativo do pagamento e, se houver, da caução."
+            }
+          ]
+        },
+        "Antes de a pessoa partir, peça-lhe que confirme na conversa com a loja que a entrega foi feita, com a hora. É um registo simples, que ajuda a esclarecer qualquer dúvida no fim do aluguer."
+      ]
+    },
+    {
+      "h2": "Se algo não corresponder ao combinado",
+      "body": [
+        "Pequenas diferenças acontecem: uma unidade de outra cor, um capacete de outro tamanho. O importante é resolvê-las à porta, e não dias depois.",
+        {
+          "ul": [
+            "**Modelo diferente**: uma scooter automática parecida pode não fazer diferença; uma semiautomática quando pediu uma automática é outra coisa — não a aceite sem falar com a loja.",
+            "**Danos que não estavam referidos**: fotografe-os e envie-os logo à loja, com uma mensagem a dizer que já existiam na entrega.",
+            "**Falta um capacete ou um documento**: peça uma solução antes de começar a conduzir.",
+            "**O preço ou as condições mudaram**: pare e confirme com a loja, por escrito, antes de pagar."
+          ]
+        },
+        "Se a pessoa que entrega a mota não falar a sua língua, ligue ou escreva para a loja ali mesmo, ou peça ajuda à receção. Vale mais atrasar a partida meia hora do que começar o aluguer com uma dúvida por esclarecer."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "A loja também entrega a mota no aeroporto?",
+      "a": "Não assuma que sim. Pergunte à loja se é possível e em que condições, indicando o número do voo e a hora prevista de chegada. Muitas vezes é mais simples ir primeiro para o hotel e receber a mota no dia seguinte, já descansado."
+    },
+    {
+      "q": "A receção do hotel pode receber a mota por mim?",
+      "a": "Só se a loja aceitar e ficar combinado por escrito. Mesmo assim, é a si que cabe verificar e fotografar a mota e aceitar as condições, por isso o mais seguro é estar presente no momento da entrega."
+    },
+    {
+      "q": "Com quanto tempo de antecedência devo pedir a entrega?",
+      "a": "Assim que tiver as datas e a morada do alojamento. Um pedido feito cedo dá tempo para confirmar o modelo, a hora e o custo, e para esclarecer dúvidas por mensagem antes do dia."
+    },
+    {
+      "q": "Se a mota for entregue no hotel, tenho de a devolver no hotel?",
+      "a": "Não necessariamente. A devolução e uma eventual recolha no alojamento combinam-se à parte. Diga logo no pedido como prefere terminar o aluguer e peça que a resposta da loja inclua as duas pontas."
+    }
+  ],
+  "sources": [
+    "tabela-precos-proprietario",
+    {
+      "title": "Ha Noi begins restricting fossil-fuel vehicles in low-emission zones",
+      "publisher": "Portal do Governo do Vietname (chinhphu.vn) — Hanoi Capital",
+      "url": "https://hanoicapital.chinhphu.vn/ha-noi-begins-restricting-fossil-fuel-vehicles-in-low-emission-zones-110260702082825273.htm",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "title": "Hà Nội today launches low-emission zone within Ring Road 1",
+      "publisher": "Việt Nam News",
+      "url": "https://vietnamnews.vn/society/1784486/ha-noi-today-launches-low-emission-zone-within-ring-road-1.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "en"
+    }
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "PUBLISHED",
+  "date_published": "2026-10-13",
+  "date_modified": "2026-10-13",
+  "editorial": {
+    "qa_score": 100,
+    "qa_warnings": [],
+    "words": 2136,
+    "publish_mode": "review",
+    "approved_at": "2026-10-13",
+    "revisions": []
+  }
+}

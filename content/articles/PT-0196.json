@@ -1,0 +1,260 @@
+{
+  "contract_version": 1,
+  "id": "PT-0196",
+  "slug": "receber-a-mota",
+  "title": "Receber a mota alugada em Hanói: como decorre a entrega",
+  "description": "Como decorre a entrega de uma mota alugada em Hanói: acordo, documentos, inspeção, fotografias, comandos e contactos, e quanto tempo reservar.",
+  "h1": "Levantar a mota alugada: o que acontece no momento da entrega",
+  "summary": "Na entrega de uma mota alugada, confirma-se o acordo, conferem-se a mota e os documentos do veículo, inspeciona-se e fotografa-se o seu estado e aprende-se a usar os comandos antes de arrancar. Conte com 30 a 45 minutos entre chegar à loja e sair para a estrada.",
+  "key_points": [
+    "Leve os documentos que a loja lhe pediu e tenha aberta no telemóvel a confirmação escrita do aluguer.",
+    "Antes de pagar ou assinar, confira se o modelo, as datas e a hora de devolução são os combinados.",
+    "Fotografe a mota de todos os lados, o painel e cada defeito que já exista, e envie as imagens à loja.",
+    "Peça que lhe mostrem os comandos da sua unidade: chave, assento, combustível, luzes e, se for o caso, as mudanças.",
+    "Saia com o número da loja guardado e o procedimento de avaria combinado."
+  ],
+  "intro": [
+    "O momento em que recebe a mota é curto, mas pesa em tudo o que vem depois. É aí que fica registado o estado do veículo, que se confirmam as condições combinadas por mensagem e que aprende a lidar com uma mota que, muito provavelmente, nunca conduziu. Uma entrega feita à pressa costuma reaparecer, sob a forma de dúvidas, no último dia do aluguer.",
+    "Este guia acompanha a entrega pela ordem habitual, do balcão ao primeiro quilómetro, e indica quanto tempo reservar. As questões a esclarecer antes de reservar estão reunidas nas [perguntas a fazer antes de alugar](/guia-de-aluguer/perguntas-antes-de-alugar/); aqui, o foco é o próprio dia do levantamento, na loja {{brand}}, em {{area}}, ou no local que tenha combinado."
+  ],
+  "sections": [
+    {
+      "h2": "Antes de sair do alojamento",
+      "body": [
+        "Uma entrega rápida prepara-se na véspera. Releia a mensagem em que a loja confirmou o aluguer e verifique se tem consigo tudo o que lhe foi pedido. Os documentos exigidos para alugar são definidos pela loja; os requisitos para conduzir estão explicados no guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/).",
+        {
+          "checklist": [
+            "os documentos que a loja indicou para o aluguer;",
+            "a confirmação escrita com o modelo, as datas, a hora de devolução e o preço;",
+            "o meio de pagamento combinado e, se houver caução, a forma acordada;",
+            "o telemóvel carregado e com espaço livre para fotografias e um vídeo;",
+            "roupa adequada para conduzir: calçado fechado e, de preferência, calças compridas."
+          ]
+        },
+        "A loja fica em {{address}}. Se for de táxi, mostre ao taxista a morada em vietnamita: **{{address.vi}}**. Marque o levantamento para uma hora bem dentro do horário da loja, {{hours}}: chegar perto das {{closes}} encurta a entrega e obriga-o a fazer o primeiro percurso já de noite."
+      ]
+    },
+    {
+      "h2": "A entrega passo a passo",
+      "body": [
+        "Cada loja organiza a entrega à sua maneira, mas os passos repetem-se. Conhecer a sequência ajuda a não saltar nenhum, sobretudo quando há outros clientes à espera.",
+        {
+          "steps": [
+            {
+              "title": "Confirmar o aluguer",
+              "text": "Modelo, datas, hora e local de devolução e preço total devem coincidir com o que foi combinado por mensagem. Se algo mudou, esclareça antes de avançar."
+            },
+            {
+              "title": "Tratar dos documentos e do pagamento",
+              "text": "Apresente os documentos pedidos, pague conforme o combinado e, se houver caução, receba um comprovativo do que entregou."
+            },
+            {
+              "title": "Conhecer a mota e os seus papéis",
+              "text": "Veja a unidade que vai levar e os documentos do veículo que seguem consigo durante o aluguer."
+            },
+            {
+              "title": "Inspecionar e fotografar",
+              "text": "Dê a volta à mota com calma, de preferência acompanhado por alguém da loja, e registe o estado em fotografias."
+            },
+            {
+              "title": "Aprender os comandos",
+              "text": "Peça uma demonstração da chave, do assento, do combustível, das luzes e, numa semiautomática, das mudanças."
+            },
+            {
+              "title": "Ajustar capacetes e espelhos",
+              "text": "Escolha um capacete do seu tamanho, aperte a fivela e regule os espelhos já sentado na mota."
+            },
+            {
+              "title": "Combinar contactos e regras",
+              "text": "Guarde o número da loja e confirme o que fazer em caso de avaria e onde deixar a mota à noite."
+            },
+            {
+              "title": "Fazer um primeiro percurso curto",
+              "text": "Uma volta lenta perto da loja mostra se está tudo bem antes de enfrentar o trânsito."
+            }
+          ]
+        },
+        "As secções seguintes explicam o que observar em cada etapa."
+      ]
+    },
+    {
+      "h2": "Acordo, pagamento e documentos: o que deve ficar escrito",
+      "body": [
+        "Na entrega, o mais importante é que o combinado fique registado. Se a loja usar um acordo em papel, leia-o antes de assinar e peça explicação para o que não perceber. Se tudo foi tratado por mensagem, essa conversa passa a ser o seu registo: mantenha-a no telemóvel até ao fim do aluguer.",
+        "Num sítio ou noutro, devem ficar escritos:",
+        {
+          "ul": [
+            "a identificação da mota, com o modelo e a matrícula;",
+            "a data e a hora de levantamento e de devolução, e o local onde vai devolvê-la;",
+            "o preço total e o valor que já pagou;",
+            "a caução, se existir: a forma, o montante e as condições de devolução;",
+            "o nível de combustível ou de carga com que recebe a mota."
+          ]
+        },
+        "Os documentos do veículo são outro assunto. A lei vietnamita obriga quem conduz a levar consigo o certificado de registo da mota, o certificado do seguro obrigatório e a própria carta de condução. Na entrega, veja onde estão os papéis da mota e confirme que a matrícula coincide com a da chapa. O guia sobre os [documentos da mota alugada](/guia-de-aluguer/documentos-da-mota-alugada/) mostra como conferi-los em poucos minutos."
+      ]
+    },
+    {
+      "h2": "Inspeção e fotografias: registar o estado da mota",
+      "body": [
+        "As fotografias da entrega protegem as duas partes. No fim do aluguer, permitem distinguir um risco antigo de um novo sem discussões, e a loja fica a saber que o cliente viu o mesmo que ela. Faça-as com método:",
+        {
+          "ol": [
+            "**Volta completa**: uma fotografia de frente, outra de trás e uma de cada lado, com a mota inteira no enquadramento.",
+            "**Pormenores**: aproxime-se de cada risco, mossa ou peça partida que já exista e fotografe-a de perto.",
+            "**Painel**: com a ignição ligada, fotografe o indicador de combustível ou de carga e o conta-quilómetros.",
+            "**Pneus e chapa**: o piso dos dois pneus e a matrícula, bem legível.",
+            "**Vídeo**: um vídeo curto, sem cortes, a dar a volta à mota completa as fotografias."
+          ]
+        },
+        "Mostre à pessoa da loja os defeitos que encontrou e peça que fiquem anotados, ou envie as imagens logo pelo Zalo. A mensagem fica com data e hora, o que tem mais valor do que fotografias guardadas apenas na galeria do seu telemóvel.",
+        "Além do aspeto, confirme que a mota funciona: travões firmes nas duas rodas, luzes, piscas e buzina. A lista essencial está no [guia de aluguer passo a passo](/guia-de-aluguer/). Se alguma coisa falhar, aponte-a logo: com a mota parada à porta da loja, o problema resolve-se com muito menos trabalho do que pelo caminho."
+      ]
+    },
+    {
+      "h2": "A explicação dos comandos",
+      "body": [
+        "Mesmo quem conduz há anos encontra surpresas numa mota que não conhece. Peça que lhe mostrem cada função na unidade que vai levar, e não noutra parecida:",
+        {
+          "checklist": [
+            "**Chave**: como ligar e desligar, bloquear o guiador e, numa chave inteligente, o que fazer se o comando deixar de responder.",
+            "**Assento e bocal do combustível**: como abrir o assento e onde fica o bocal, cuja posição varia de modelo para modelo.",
+            "**Combustível**: que gasolina usar e com que nível recebeu a mota.",
+            "**Luzes e sinais**: o interruptor dos piscas, os máximos e a buzina, que mudam de sítio entre marcas.",
+            "**Funções automáticas**: se a mota desliga o motor sozinha quando está parada ou tem travagem combinada, peça que lhe expliquem como se comporta.",
+            "**Mudanças**: numa semiautomática, a sequência das mudanças e onde fica o ponto morto.",
+            "**Mota elétrica**: como carregar a bateria, com que carregador e como ler a autonomia no painel."
+          ]
+        },
+        "Repita os gestos à frente de quem explica: ligar, bloquear, abrir o assento, voltar a ligar. Dois minutos de prática evitam ficar parado numa rua desconhecida sem perceber porque é que a mota não arranca. Se ainda está a decidir que tipo de mota lhe convém, as diferenças estão resumidas em [tipos de motas](/tipos-de-motas/)."
+      ]
+    },
+    {
+      "h2": "Capacetes e acessórios",
+      "body": [
+        "No Vietname, o capacete é obrigatório para quem conduz e para quem vai atrás, por isso merece mais atenção do que um simples «serve». Experimente-o antes de sair: deve ficar justo sem apertar, não rodar quando abana a cabeça e ter a fivela a fechar bem. Se levar passageiro, essa pessoa deve experimentar o dela.",
+        "Veja também a viseira, se existir. Riscada ou suja, atrapalha a visão à noite e com chuva.",
+        "Por fim, pergunte pelos acessórios que podem fazer falta durante o aluguer, como uma capa de chuva ou um cadeado, e anote o que recebeu. No último dia, é exatamente isso que vai devolver."
+      ]
+    },
+    {
+      "h2": "Contactos e regras para os dias seguintes",
+      "body": [
+        "Antes de arrancar, combine como vai comunicar com a loja durante o aluguer. Guarde o número {{phone}} nos contactos e no Zalo e tenha presente que a loja funciona {{hours}}. Depois, esclareça os pontos que ainda não ficaram resolvidos por mensagem:",
+        {
+          "ul": [
+            "o que fazer em caso de furo ou avaria e se pode recorrer a uma oficina de rua;",
+            "quem pode conduzir a mota além de si;",
+            "onde é aconselhável deixá-la durante a noite;",
+            "se pode sair de Hanói com ela;",
+            "como avisar se precisar de mudar a hora de devolução."
+          ]
+        },
+        "Se já tratou destes temas antes de reservar, basta confirmar que nada mudou. A morada, o mapa e o horário ficam sempre à mão na página de [contactos](/contactos/)."
+      ]
+    },
+    {
+      "h2": "Os primeiros minutos na estrada",
+      "body": [
+        "Antes de entrar no trânsito, dê uma volta curta e lenta numa rua calma perto da loja. Teste os travões a baixa velocidade, sinta a resposta do acelerador e confirme que vê bem pelos espelhos. Se notar algo estranho, como um ruído, um travão esponjoso ou uma luz acesa no painel, volte para trás e mostre o problema.",
+        "A loja fica na margem leste do rio Vermelho, e o caminho para o centro passa por uma das pontes. Se é a primeira vez que conduz em Hanói, estude o percurso antes de arrancar e evite as horas de ponta. O itinerário de [um dia de mota em Hanói](/rotas-e-mobilidade/hanoi-de-mota-num-dia/) parte precisamente de Long Biên e pode servir de referência para a primeira saída."
+      ]
+    },
+    {
+      "h2": "Quanto tempo reservar para a entrega",
+      "body": [
+        "A entrega não se faz em cinco minutos. Para planear o dia, use estes tempos indicativos, que variam com o movimento da loja e com a sua experiência:",
+        {
+          "table": {
+            "caption": "Tempos indicativos de uma entrega sem pressa",
+            "head": [
+              "Etapa",
+              "Tempo a reservar"
+            ],
+            "rows": [
+              [
+                "Confirmação do aluguer, documentos e pagamento",
+                "cerca de 10 minutos"
+              ],
+              [
+                "Inspeção e fotografias",
+                "cerca de 10 minutos"
+              ],
+              [
+                "Comandos, capacetes e espelhos",
+                "5 a 10 minutos"
+              ],
+              [
+                "Contactos, regras e volta de teste",
+                "5 a 15 minutos"
+              ],
+              [
+                "Total",
+                "30 a 45 minutos"
+              ]
+            ]
+          }
+        },
+        "Acrescente tempo se nunca conduziu este tipo de mota ou se vão duas pessoas. Se tem um compromisso a seguir, marque o levantamento com folga: quando há pressa, a inspeção é o primeiro passo a ser sacrificado.",
+        {
+          "note": "Se combinou receber a mota no alojamento, a sequência é a mesma, feita à porta e muitas vezes mais depressa. Escolha um sítio com boa luz, peça tempo para as fotografias e faça a volta de teste numa rua tranquila. A possibilidade de entrega no alojamento, e o seu custo, são confirmados pela loja caso a caso.",
+          "tone": "info",
+          "title": "Entrega no alojamento"
+        }
+      ]
+    },
+    {
+      "h2": "Se algo não estiver como combinado",
+      "body": [
+        "Às vezes, na entrega, surge uma diferença em relação ao que ficou acertado. Resolva-a antes de assinar ou de arrancar:",
+        {
+          "ul": [
+            "**Outro modelo**: se lhe propõem uma mota diferente da reservada, confirme se o preço se mantém e se é um tipo de mota que sabe conduzir.",
+            "**Defeito de funcionamento**: travões, luzes ou pneus que não convencem justificam pedir uma correção ou outra unidade.",
+            "**Papéis que não coincidem**: não saia com uma mota cuja matrícula não corresponde à dos documentos.",
+            "**Condições diferentes**: se o preço ou a caução não são os da mensagem, peça esclarecimento antes de pagar."
+          ]
+        },
+        "Pedir uma correção não é sinal de desconfiança. É a forma de começar o aluguer com tudo claro, e a loja também beneficia com isso."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Devo pagar antes ou depois de ver a mota?",
+      "a": "O momento do pagamento é indicado pela loja. Sempre que possível, veja e fotografe a mota antes de pagar ou de entregar uma caução, e peça um comprovativo de cada valor entregue."
+    },
+    {
+      "q": "Outra pessoa pode levantar a mota por mim?",
+      "a": "Depende da loja, por isso pergunte antes que documentos são necessários e quem assina. Em qualquer caso, quem vai conduzir deve conhecer os comandos e ver o estado da mota antes de sair, pelo que o ideal é estar presente."
+    },
+    {
+      "q": "E se só der por um defeito depois de sair da loja?",
+      "a": "Avise a loja logo que o notar, com fotografias e a indicação de onde está. Um defeito comunicado nos primeiros minutos associa-se mais facilmente à entrega, sobretudo se as fotografias iniciais o mostrarem. Não espere pelo fim do aluguer para o referir."
+    },
+    {
+      "q": "Tenho de assinar um contrato?",
+      "a": "A forma do acordo depende da loja: pode ser um documento em papel ou a confirmação por mensagem. O essencial é que a mota, as datas, o preço, a caução e a devolução fiquem escritos algures e que guarde uma cópia ou a conversa."
+    }
+  ],
+  "sources": [
+    "lei-36-2024-artigo-56",
+    "lawnet-capacete-168"
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "PUBLISHED",
+  "date_published": "2026-10-13",
+  "date_modified": "2026-10-13",
+  "editorial": {
+    "qa_score": 100,
+    "qa_warnings": [],
+    "words": 2115,
+    "publish_mode": "review",
+    "approved_at": "2026-10-13",
+    "revisions": []
+  }
+}
