@@ -1,0 +1,17 @@
+{
+  "id": "PT-0088",
+  "checked_at": "2026-10-13",
+  "errors": [],
+  "warnings": [],
+  "stats": {
+    "update": false,
+    "max_intent_overlap": 0.19,
+    "internal_links": 9,
+    "sources": 3,
+    "words": 2635,
+    "avg_sentence_words": 16.5,
+    "legal_text": true,
+    "max_similarity": 0.022,
+    "score": 100
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "PT-0276",
+  "checked_at": "2026-10-13",
+  "errors": [],
+  "warnings": [],
+  "stats": {
+    "update": false,
+    "max_intent_overlap": 0.18,
+    "internal_links": 7,
+    "sources": 8,
+    "words": 2349,
+    "avg_sentence_words": 16,
+    "legal_text": false,
+    "max_similarity": 0.007,
+    "score": 100
+  }
+}

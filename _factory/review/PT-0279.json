@@ -1,0 +1,348 @@
+{
+  "contract_version": 1,
+  "id": "PT-0279",
+  "slug": "melhor-epoca-para-andar-de-mota",
+  "title": "Melhor época para andar de mota em Hanói e no Norte do Vietname",
+  "description": "Mês a mês, com dados oficiais: temperaturas, chuva e humidade em Hanói, as melhores janelas para andar de mota, o que muda nas montanhas do Norte e o Tết.",
+  "h1": "Quando ir de mota a Hanói: o clima mês a mês e as melhores janelas do ano",
+  "summary": "As melhores épocas para andar de mota em Hanói são o outono, de meados de outubro a novembro, e a primavera, de março a abril: temperaturas entre 19 e 30 °C, pouca chuva e dias mais limpos. De dezembro a fevereiro faz frio húmido com chuvisco; de maio a setembro faz calor com trovoadas, e a época das chuvas atinge o auge entre junho e agosto, quando o risco de tempestades tropicais no Norte é maior.",
+  "key_points": [
+    "Outubro e novembro: o melhor do ano, com máximas de 26 a 30 °C, 48 a 126 mm de chuva por mês e poucos dias chuvosos.",
+    "Março e abril: agradável e verde, mas húmido, com chuvisco e nevoeiro no início de março.",
+    "Dezembro a fevereiro: frio para quem conduz, com mínimas de 14 a 16 °C, vento e humidade; o céu fica fechado semanas seguidas.",
+    "Maio a setembro: calor de 32 a 34 °C de máxima, trovoadas ao fim do dia e 190 a 335 mm de chuva por mês; agosto é o mês mais chuvoso.",
+    "Nas montanhas do Norte, Sa Pa e Hà Giang são vários graus mais frias, com nevoeiro no inverno; a melhor altura é o fim de abril e o início de outubro."
+  ],
+  "intro": [
+    "Hanói tem quatro estações, e cada uma muda a experiência de conduzir uma mota. Em novembro, uma scooter leva-o pela cidade com 25 °C e céu aberto; em fevereiro, o mesmo trajeto faz-se com casaco, chuvisco e visibilidade curta; em julho, com calor pegajoso e uma trovoada a meio da tarde. Escolher a altura certa pesa tanto no resultado da viagem como a escolha da mota.",
+    "Este guia reúne os dados climáticos oficiais de Hanói, mês a mês, e traduz os números em decisões práticas: quando conduzir, a que horas do dia, o que levar e que meses evitar. Acrescenta o que muda nas montanhas e na costa do Norte e a semana do Tết, em que a cidade para. Os itinerários e as alternativas à mota estão reunidos em [Rotas e mobilidade](/rotas-e-mobilidade/).",
+    "Os valores de temperatura e chuva são as normais climatológicas de 1991 a 2020 da estação de Hanói, fornecidas pelo serviço meteorológico vietnamita ao serviço de informação meteorológica mundial da Organização Meteorológica Mundial. O tempo de um ano concreto afasta-se da média; antes de cada saída, veja a previsão a três dias."
+  ],
+  "sections": [
+    {
+      "h2": "O ano em Hanói, mês a mês",
+      "body": [
+        "A tabela resume o clima médio de cada mês e o que ele significa para quem vai conduzir. As temperaturas são as mínimas e máximas médias diárias; a chuva é o total médio mensal; os dias de chuva contam qualquer dia com pelo menos 0,1 mm.",
+        {
+          "table": {
+            "caption": "Clima médio de Hanói (normais 1991–2020, estação de Hanói) e o que significa na mota",
+            "head": [
+              "Mês",
+              "Mín.–máx. (°C)",
+              "Chuva (mm)",
+              "Dias de chuva",
+              "Na mota"
+            ],
+            "rows": [
+              [
+                "Janeiro",
+                "14,6–20,0",
+                "28",
+                "11",
+                "Frio húmido e chuvisco; casaco corta-vento e luvas"
+              ],
+              [
+                "Fevereiro",
+                "16,2–21,3",
+                "19",
+                "12",
+                "Pouca chuva, mas céu fechado e piso húmido; semana do Tết em alguns anos"
+              ],
+              [
+                "Março",
+                "18,7–23,5",
+                "55",
+                "18",
+                "Agradável, mas o mês mais húmido e com mais dias de chuva fraca"
+              ],
+              [
+                "Abril",
+                "21,9–27,7",
+                "79",
+                "16",
+                "Uma das melhores janelas: quente sem excesso, chuva moderada"
+              ],
+              [
+                "Maio",
+                "24,5–31,7",
+                "188",
+                "17",
+                "Começa o calor e as trovoadas da tarde"
+              ],
+              [
+                "Junho",
+                "26,3–33,8",
+                "231",
+                "16",
+                "Mês mais quente; conduzir cedo e evitar o início da tarde"
+              ],
+              [
+                "Julho",
+                "26,5–33,3",
+                "300",
+                "18",
+                "Calor e aguaceiros fortes; ruas que alagam em minutos"
+              ],
+              [
+                "Agosto",
+                "25,8–32,5",
+                "335",
+                "18",
+                "Mês mais chuvoso e centro da época de tempestades no Norte"
+              ],
+              [
+                "Setembro",
+                "24,7–31,6",
+                "195",
+                "14",
+                "Ainda quente e chuvoso no início; melhora na segunda metade"
+              ],
+              [
+                "Outubro",
+                "22,4–29,6",
+                "126",
+                "10",
+                "Transição para o melhor período do ano"
+              ],
+              [
+                "Novembro",
+                "19,2–26,3",
+                "48",
+                "7",
+                "O mês ideal: seco, ameno e com céu aberto"
+              ],
+              [
+                "Dezembro",
+                "15,4–22,1",
+                "24",
+                "7",
+                "Seco e fresco no início; frio e nevoeiro no fim"
+              ]
+            ]
+          }
+        },
+        "Dois números completam o quadro. A humidade relativa média anual ronda os 81 %, com o máximo em março (88 %) e o mínimo em dezembro (75 %); é a humidade, mais do que a temperatura, que torna o inverno desconfortável e o verão abafado. E o sol é escasso no fim do inverno: fevereiro e março somam cerca de 45 a 47 horas de sol por mês, contra perto de 196 em julho.",
+        "O portal oficial de turismo do Vietname resume a mesma ideia por estações: de dezembro a março, fresco a frio, com nevoeiro e nuvens; de abril a junho, quente e soalheiro; de junho a agosto, quente, húmido e chuvoso; de setembro a novembro, fresco e com céu limpo."
+      ]
+    },
+    {
+      "h2": "As quatro estações vistas do guiador",
+      "body": [
+        {
+          "h3": "Inverno, de dezembro a fevereiro: frio húmido e chuvisco"
+        },
+        "Quem chega de Portugal estranha que 15 °C possam ser frios. Na mota, são: a humidade acima de 80 %, o vento de nordeste e o chuvisco fino (o «mưa phùn» de janeiro e fevereiro) tiram calor ao corpo e deixam o piso escorregadio. O céu pode ficar cinzento semanas seguidas, e ao fim da tarde a visibilidade cai depressa. Leve um casaco corta-vento, luvas e um lenço para o pescoço; a capa de chuva serve também de corta-vento.",
+        {
+          "h3": "Primavera, de março a abril: verde, mas húmido"
+        },
+        "Março é o mês com mais dias de chuva e com a humidade mais alta do ano, embora a chuva seja quase sempre fraca. As paredes «suam» e as roupas não secam, mas conduz-se bem, com temperaturas entre 19 e 24 °C. Abril é melhor: máximas perto de 28 °C, chuva moderada e as primeiras tardes de sol forte. É uma das duas melhores janelas do ano para quem quer sair da cidade.",
+        {
+          "h3": "Verão, de maio a setembro: calor e trovoadas"
+        },
+        "De junho a agosto, as máximas médias passam dos 32 °C, e a sensação térmica, com a humidade, vai bem além. A chuva cai sobretudo em aguaceiros curtos e intensos ao fim da tarde, que alagam ruas em poucos minutos. A época das chuvas atinge o auge entre junho e agosto, e agosto é, nas normais climatológicas, o mês mais chuvoso do ano, com 335 mm.",
+        {
+          "h3": "Outono, de outubro a novembro: o melhor período"
+        },
+        "Em outubro a humidade baixa, a chuva cai para 126 mm e os dias de chuva para dez; em novembro, para 48 mm e sete dias. As temperaturas entre 19 e 30 °C são as melhores do ano para conduzir a qualquer hora, e o céu aberto faz das estradas do Norte um prazer. É a altura em que mais vale a pena ter uma mota em Hanói."
+      ]
+    },
+    {
+      "h2": "As melhores janelas: outubro a novembro e março a abril",
+      "body": [
+        "Se pode escolher as datas, estas são as duas janelas a privilegiar, e por motivos ligeiramente diferentes:",
+        {
+          "ul": [
+            "**De meados de outubro a novembro**: o período mais seco e ameno do ano. Conduz-se a qualquer hora do dia, as saídas para fora da cidade não dependem da previsão e a roupa é a de uma primavera portuguesa.",
+            "**De março a abril**: temperaturas agradáveis e paisagem verde, com a ressalva da humidade e do chuvisco de março. Abril é o mês mais equilibrado da primavera; a partir de maio o calor instala-se."
+          ]
+        },
+        "Dezembro também conta, sobretudo na primeira quinzena: é seco, com 24 mm de chuva e sete dias chuvosos, e as temperaturas ainda rondam os 15 a 22 °C. A partir do Natal, o frio e o nevoeiro chegam com mais frequência.",
+        "Para um aluguer longo, a janela de outubro a dezembro é a mais confortável. Quem vai ficar um mês ou mais encontra as condições na página do [aluguer mensal de mota](/precos/aluguer-mensal-de-mota/); o que levar para alugar e para conduzir está no guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/)."
+      ]
+    },
+    {
+      "h2": "Verão em Hanói: como conduzir com calor e chuva",
+      "body": [
+        "Não precisa de evitar Hanói no verão; precisa de organizar o dia de outra maneira. Três regras ajudam:",
+        {
+          "ol": [
+            "**Conduza de manhã cedo e ao fim da tarde.** Entre as 11:00 e as 15:00 o asfalto e o capacete aquecem demais; reserve essas horas para museus, cafés e refeições.",
+            "**Conte com a trovoada da tarde.** Veja o radar antes de sair e, se a chuva apertar, pare num sítio abrigado: um aguaceiro de verão em Hanói costuma durar menos de uma hora. Nunca atravesse uma rua alagada sem ver o fundo; a água esconde buracos e tampas de saneamento.",
+            "**Leve água e uma capa de chuva debaixo do assento.** A capa deve ser do tipo que cobre o guiador ou, pelo menos, as pernas; o guia dos [acessórios para a mota alugada](/precos/capa-de-chuva-e-acessorios/) explica o que pedir à loja e o que trazer de casa."
+          ]
+        },
+        "Com chuva forte, o melhor é deixar a mota parada e esperar: as situações em que compensa não conduzir estão descritas no guia sobre [quando é melhor não conduzir em Hanói](/rotas-e-mobilidade/quando-nao-conduzir/)."
+      ]
+    },
+    {
+      "h2": "Tempestades tropicais: julho a setembro no Norte",
+      "body": [
+        "O Norte do Vietname recebe tempestades tropicais e depressões vindas do mar da China Meridional sobretudo entre julho e setembro. Segundo o Centro Nacional de Previsão Hidrometeorológica, citado pela imprensa vietnamita a 1 de agosto de 2026, agosto é o período central da época das chuvas no Norte. Em média, 2,4 tempestades ou depressões tropicais atuam nesse mês no mar da China Meridional e cerca de 0,9 atingem terra, com o Norte e o Centro-Norte como regiões mais expostas.",
+        "Para quem conduz, uma tempestade raramente apanha de surpresa: é anunciada com dias de antecedência, com alertas por regiões. O que a tempestade traz é chuva intensa durante um ou dois dias, inundações nas zonas baixas, deslizamentos nas estradas de montanha e, na costa, cancelamento de barcos. Nesses dias, a mota fica parada e o programa muda.",
+        {
+          "note": "Se planeia sair de Hanói em agosto ou setembro, siga os boletins do centro nacional de previsão (nchmf.gov.vn) e tenha um dia de folga no itinerário. Nas estradas de montanha, um deslizamento pode fechar a única ligação durante horas. Combine com a loja o que fazer se a viagem se atrasar; o guia sobre [levar a mota para fora de Hanói](/guia-de-aluguer/autorizacao-para-sair-de-hanoi/) lista o que deixar por escrito.",
+          "tone": "warn",
+          "title": "Viagens fora de Hanói na época das tempestades"
+        }
+      ]
+    },
+    {
+      "h2": "O Norte fora de Hanói: montanhas e costa",
+      "body": [
+        "O clima de Hanói é o da planície do rio Vermelho. A poucas horas de mota, muda bastante, e convém saber como antes de escolher as datas.",
+        {
+          "table": {
+            "caption": "Clima nas regiões do Norte mais procuradas a partir de Hanói",
+            "head": [
+              "Região",
+              "O que muda",
+              "Melhor altura"
+            ],
+            "rows": [
+              [
+                "Sa Pa e as montanhas do noroeste",
+                "Muito mais frio, sobretudo do fim de dezembro a março, com nevoeiro e, em alguns janeiros, neve ocasional; verões frescos e tempestuosos",
+                "Fim de abril, com os campos em flor, e início de outubro, com os socalcos dourados antes da colheita"
+              ],
+              [
+                "Hà Giang e as montanhas do norte",
+                "Padrão semelhante ao de Sa Pa: inverno frio e nevoeiro, estradas de montanha sujeitas a deslizamentos nas chuvas de verão",
+                "Outubro e novembro, com estradas secas; a primavera, de março a abril, se aceitar algum chuvisco"
+              ],
+              [
+                "Baía de Ha Long e a costa",
+                "Nevoeiro de dezembro a março; tempestades e calor de junho a agosto; cruzeiros cancelados com mau tempo",
+                "Abril a junho e setembro a novembro, segundo o portal oficial de turismo"
+              ],
+              [
+                "Ninh Bình e a planície a sul",
+                "Clima quase igual ao de Hanói, com calor forte no verão e campos alagados na época das chuvas",
+                "As mesmas janelas de Hanói: outubro a novembro e março a abril"
+              ]
+            ]
+          }
+        },
+        "Nas montanhas, conte com temperaturas vários graus abaixo das de Hanói e com mudanças rápidas: uma manhã de sol em Sa Pa pode acabar numa tarde de nevoeiro cerrado, com visibilidade de poucos metros nas curvas. Leve camadas, luvas e uma capa de chuva mesmo em dias de céu limpo, e evite conduzir de noite em estrada de montanha.",
+        "Antes de qualquer saída da cidade, combine-a com a loja: nem todos os modelos servem para a montanha, e há pontos a deixar por escrito, como explica o guia sobre [sair de Hanói com a mota alugada](/guia-de-aluguer/autorizacao-para-sair-de-hanoi/)."
+      ]
+    },
+    {
+      "h2": "Tết e feriados: quando a cidade para",
+      "body": [
+        "O Tết, o Ano Novo lunar, é o único período em que o calendário pesa mais do que o clima. Em 2027, o primeiro dia do Tết cai a 6 de fevereiro, um sábado, e a semana de descanso oficial concentra-se à volta dessa data. Na semana anterior, Hanói enche-se de trânsito e de compras; nos dias de Tết, muitas lojas, restaurantes e serviços fecham, e a cidade fica invulgarmente vazia.",
+        "Para quem aluga uma mota, isso significa três cuidados: confirmar com a loja os horários de levantamento e de devolução nesses dias, abastecer antes, porque algumas bombas e oficinas fecham, e contar com um fevereiro frio e húmido, que é o clima típico do Tết em Hanói. Para esclarecer as datas e os horários, use os [contactos](/contactos/) da loja.",
+        "Os outros feriados vietnamitas, como o 30 de abril e 1 de maio ou o 2 de setembro, caem em meses agradáveis ou quentes, mas trazem multidões aos destinos de fim de semana à volta de Hanói, com estradas cheias e alojamentos esgotados. Se o plano é sair da cidade, parta um dia antes do feriado ou escolha outro fim de semana."
+      ]
+    },
+    {
+      "h2": "Viagem curta ou estadia longa: que meses escolher",
+      "body": [
+        "A melhor época depende do que quer fazer com a mota. Esta tabela ajuda a decidir:",
+        {
+          "table": {
+            "caption": "Que meses escolher conforme o tipo de viagem",
+            "head": [
+              "Plano",
+              "Meses a privilegiar",
+              "Meses possíveis com cuidados",
+              "Meses a evitar"
+            ],
+            "rows": [
+              [
+                "Uns dias em Hanói, com a mota para a cidade",
+                "Outubro a dezembro, março a abril",
+                "Janeiro a fevereiro (frio e chuvisco), maio e setembro (calor)",
+                "Nenhum em absoluto; junho a agosto exige conduzir cedo e tarde"
+              ],
+              [
+                "Passeios de um dia à volta de Hanói",
+                "Outubro a novembro, abril",
+                "Dezembro, março, maio e setembro",
+                "Julho e agosto, pelas trovoadas e alagamentos"
+              ],
+              [
+                "Viagem de vários dias às montanhas do Norte",
+                "Outubro a novembro, fim de abril",
+                "Março, setembro (segunda metade), início de dezembro",
+                "Junho a agosto (tempestades e deslizamentos); janeiro a fevereiro (frio e nevoeiro)"
+              ],
+              [
+                "Estadia de um a três meses em Hanói",
+                "Outubro a dezembro",
+                "Qualquer altura, adaptando os horários",
+                "Nenhum; apenas evite começar na semana do Tết"
+              ]
+            ]
+          }
+        },
+        "Para um passeio de um dia, o itinerário de [Hanói de mota num dia](/rotas-e-mobilidade/hanoi-de-mota-num-dia/) foi pensado para as horas mais frescas e tem um plano B para a chuva. Para uma estadia longa, a mota é mais útil de outubro a dezembro, quando sai todos os dias sem olhar para o céu; nos meses de verão, continua a ser prática, desde que organize o dia à volta do calor e das trovoadas."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Qual é o mês mais chuvoso em Hanói?",
+      "a": "Agosto, com 335 mm de chuva média e 18 dias de chuva nas normais de 1991 a 2020, seguido de julho (300 mm) e junho (231 mm). A chuva de verão cai sobretudo em aguaceiros intensos ao fim da tarde; a de março, o mês com mais dias chuvosos, é quase sempre fraca."
+    },
+    {
+      "q": "Faz frio a sério em Hanói no inverno?",
+      "a": "As mínimas médias de janeiro rondam os 15 °C, mas há vagas de frio com valores abaixo dos 10 °C, e a humidade e o vento fazem com que, na mota, pareça mais frio do que o termómetro indica. Casaco corta-vento, luvas e lenço no pescoço fazem a diferença; a capa de chuva ajuda também contra o vento."
+    },
+    {
+      "q": "Vale a pena alugar mota em Hanói em julho ou agosto?",
+      "a": "Vale, se organizar o dia à volta do calor e das trovoadas: conduzir de manhã cedo e ao fim da tarde, parar quando a chuva aperta e levar capa de chuva e água. Para sair da cidade, siga os boletins do centro nacional de previsão e deixe um dia de folga no itinerário, porque é a época das tempestades tropicais no Norte."
+    },
+    {
+      "q": "Preciso de roupa diferente para ir de Hanói a Sa Pa de mota?",
+      "a": "Sim. Sa Pa fica a mais de 1.500 m de altitude e é vários graus mais fria do que Hanói em qualquer estação, com nevoeiro frequente de dezembro a março e verões frescos. Leve camadas, luvas, calçado fechado e uma capa de chuva, e combine a viagem com a loja antes de partir."
+    }
+  ],
+  "sources": [
+    {
+      "title": "World Weather Information Service — Hanoi, Viet Nam (climatological information 1991–2020, Viet Nam Meteorological and Hydrological Administration)",
+      "publisher": "Organização Meteorológica Mundial (WMO), com dados do serviço meteorológico do Vietname",
+      "url": "https://worldweather.wmo.int/en/city.html?cityId=308",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "title": "Weather and climate in Vietnam",
+      "publisher": "Portal oficial de turismo do Vietname (vietnam.travel)",
+      "url": "https://vietnam.travel/things-to-do/weather-and-climate-vietnam",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "title": "Hanoi — Climate (tabela de normais climatológicas 1991–2020 com humidade relativa e horas de sol)",
+      "publisher": "Wikipedia (em inglês), com base na Organização Meteorológica Mundial e no Instituto de Ciência e Tecnologia da Construção do Vietname",
+      "url": "https://en.wikipedia.org/wiki/Hanoi",
+      "accessed": "2026-10-13",
+      "type": "reference",
+      "lang": "en"
+    },
+    {
+      "title": "Dự báo thời tiết tháng 8: Miền Bắc vào mùa mưa, Biển Đông đón bão",
+      "publisher": "Znews (reprodução de VTC News, com declarações do Trung tâm Dự báo khí tượng thủy văn quốc gia)",
+      "url": "https://znews.vn/du-bao-thoi-tiet-thang-8-mien-bac-vao-mua-mua-bien-dong-don-bao-post1673906.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Ngày mùng 1 Tết Đinh Mùi và những điều cần lưu ý",
+      "publisher": "Luật Minh Khuê",
+      "url": "https://luatminhkhue.vn/ngay-mung-1-tet-dinh-mui-va-nhung-dieu-can-luu-y.aspx",
+      "accessed": "2026-10-13",
+      "type": "reference",
+      "lang": "vi"
+    }
+  ],
+  "legal_note": false,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "READY_FOR_QA"
+}

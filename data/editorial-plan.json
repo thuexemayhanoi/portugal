@@ -1633,7 +1633,7 @@
       ],
       "hold_reason": null,
       "intent_reviewed": false,
-      "editorial_qa_status": "QUEUED",
+      "editorial_qa_status": "IN_REVIEW",
       "metrics": {
         "search_volume": null,
         "keyword_difficulty": null,
@@ -1818,7 +1818,7 @@
       "cannibalization_with": [],
       "hold_reason": null,
       "intent_reviewed": false,
-      "editorial_qa_status": "QUEUED",
+      "editorial_qa_status": "IN_REVIEW",
       "metrics": {
         "search_volume": null,
         "keyword_difficulty": null,
@@ -3477,7 +3477,7 @@
       ],
       "hold_reason": null,
       "intent_reviewed": false,
-      "editorial_qa_status": "QUEUED",
+      "editorial_qa_status": "IN_REVIEW",
       "metrics": {
         "search_volume": null,
         "keyword_difficulty": null,
@@ -3724,7 +3724,7 @@
       ],
       "hold_reason": null,
       "intent_reviewed": false,
-      "editorial_qa_status": "PLANNED",
+      "editorial_qa_status": "QUEUED",
       "metrics": {
         "search_volume": null,
         "keyword_difficulty": null,
@@ -5385,7 +5385,7 @@
       "cannibalization_with": [],
       "hold_reason": null,
       "intent_reviewed": false,
-      "editorial_qa_status": "QUEUED",
+      "editorial_qa_status": "IN_REVIEW",
       "metrics": {
         "search_volume": null,
         "keyword_difficulty": null,
@@ -5982,7 +5982,7 @@
       "cannibalization_with": [],
       "hold_reason": null,
       "intent_reviewed": false,
-      "editorial_qa_status": "QUEUED",
+      "editorial_qa_status": "IN_REVIEW",
       "metrics": {
         "search_volume": null,
         "keyword_difficulty": null,
@@ -7052,7 +7052,7 @@
       "cannibalization_with": [],
       "hold_reason": null,
       "intent_reviewed": false,
-      "editorial_qa_status": "QUEUED",
+      "editorial_qa_status": "IN_REVIEW",
       "metrics": {
         "search_volume": null,
         "keyword_difficulty": null,
@@ -8065,7 +8065,7 @@
       "cannibalization_with": [],
       "hold_reason": null,
       "intent_reviewed": false,
-      "editorial_qa_status": "QUEUED",
+      "editorial_qa_status": "IN_REVIEW",
       "metrics": {
         "search_volume": null,
         "keyword_difficulty": null,
@@ -8951,7 +8951,7 @@
       "cannibalization_with": [],
       "hold_reason": null,
       "intent_reviewed": true,
-      "editorial_qa_status": "QUEUED",
+      "editorial_qa_status": "IN_REVIEW",
       "metrics": {
         "search_volume": null,
         "keyword_difficulty": null,
@@ -9139,7 +9139,7 @@
       "cannibalization_with": [],
       "hold_reason": null,
       "intent_reviewed": false,
-      "editorial_qa_status": "PLANNED",
+      "editorial_qa_status": "QUEUED",
       "metrics": {
         "search_volume": null,
         "keyword_difficulty": null,
@@ -9319,7 +9319,7 @@
       "cannibalization_with": [],
       "hold_reason": null,
       "intent_reviewed": false,
-      "editorial_qa_status": "PLANNED",
+      "editorial_qa_status": "QUEUED",
       "metrics": {
         "search_volume": null,
         "keyword_difficulty": null,
@@ -9501,7 +9501,7 @@
       "cannibalization_with": [],
       "hold_reason": null,
       "intent_reviewed": false,
-      "editorial_qa_status": "PLANNED",
+      "editorial_qa_status": "QUEUED",
       "metrics": {
         "search_volume": null,
         "keyword_difficulty": null,
@@ -9560,7 +9560,7 @@
       "cannibalization_with": [],
       "hold_reason": null,
       "intent_reviewed": false,
-      "editorial_qa_status": "PLANNED",
+      "editorial_qa_status": "QUEUED",
       "metrics": {
         "search_volume": null,
         "keyword_difficulty": null,
@@ -10624,7 +10624,7 @@
       "cannibalization_with": [],
       "hold_reason": null,
       "intent_reviewed": false,
-      "editorial_qa_status": "PLANNED",
+      "editorial_qa_status": "QUEUED",
       "metrics": {
         "search_volume": null,
         "keyword_difficulty": null,
@@ -13055,7 +13055,7 @@
       ],
       "hold_reason": null,
       "intent_reviewed": false,
-      "editorial_qa_status": "QUEUED",
+      "editorial_qa_status": "IN_REVIEW",
       "metrics": {
         "search_volume": null,
         "keyword_difficulty": null,
@@ -13112,7 +13112,7 @@
       "cannibalization_with": [],
       "hold_reason": null,
       "intent_reviewed": false,
-      "editorial_qa_status": "QUEUED",
+      "editorial_qa_status": "IN_REVIEW",
       "metrics": {
         "search_volume": null,
         "keyword_difficulty": null,
@@ -13290,7 +13290,7 @@
       ],
       "hold_reason": null,
       "intent_reviewed": false,
-      "editorial_qa_status": "PLANNED",
+      "editorial_qa_status": "QUEUED",
       "metrics": {
         "search_volume": null,
         "keyword_difficulty": null,
@@ -13758,7 +13758,7 @@
       ],
       "hold_reason": null,
       "intent_reviewed": false,
-      "editorial_qa_status": "PLANNED",
+      "editorial_qa_status": "QUEUED",
       "metrics": {
         "search_volume": null,
         "keyword_difficulty": null,
@@ -13941,7 +13941,7 @@
       "cannibalization_with": [],
       "hold_reason": null,
       "intent_reviewed": false,
-      "editorial_qa_status": "PLANNED",
+      "editorial_qa_status": "QUEUED",
       "metrics": {
         "search_volume": null,
         "keyword_difficulty": null,
@@ -14583,7 +14583,7 @@
       "cannibalization_with": [],
       "hold_reason": null,
       "intent_reviewed": false,
-      "editorial_qa_status": "PLANNED",
+      "editorial_qa_status": "QUEUED",
       "metrics": {
         "search_volume": null,
         "keyword_difficulty": null,
@@ -16504,7 +16504,7 @@
       "cannibalization_with": [],
       "hold_reason": null,
       "intent_reviewed": false,
-      "editorial_qa_status": "QUEUED",
+      "editorial_qa_status": "IN_REVIEW",
       "metrics": {
         "search_volume": null,
         "keyword_difficulty": null,
@@ -16677,7 +16677,7 @@
       "cannibalization_with": [],
       "hold_reason": null,
       "intent_reviewed": false,
-      "editorial_qa_status": "QUEUED",
+      "editorial_qa_status": "IN_REVIEW",
       "metrics": {
         "search_volume": null,
         "keyword_difficulty": null,
@@ -17692,7 +17692,7 @@
       "cannibalization_with": [],
       "hold_reason": null,
       "intent_reviewed": false,
-      "editorial_qa_status": "PLANNED",
+      "editorial_qa_status": "QUEUED",
       "metrics": {
         "search_volume": null,
         "keyword_difficulty": null,
@@ -17755,7 +17755,7 @@
       "cannibalization_with": [],
       "hold_reason": null,
       "intent_reviewed": false,
-      "editorial_qa_status": "PLANNED",
+      "editorial_qa_status": "QUEUED",
       "metrics": {
         "search_volume": null,
         "keyword_difficulty": null,
@@ -17944,7 +17944,8 @@
     "total": 300,
     "by_status": {
       "PUBLISHED": 85,
-      "PLANNED": 203,
+      "PLANNED": 191,
+      "IN_REVIEW": 12,
       "QUEUED": 12
     },
     "by_intent": {
