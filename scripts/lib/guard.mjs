@@ -100,7 +100,7 @@ export function judgeTopic(topic, index, th = GUARD_THRESHOLDS) {
 
 // Builds the guard index from the site model (live pages and articles), the factory drafts and the
 // open topics of the plan, and judges the requested topics (default: open topics without a draft).
-export function runGuard(model, { ids = null, all = false, draftDirs = ['_factory/inbox', '_factory/review'] } = {}) {
+export function runGuard(model, { ids = null, all = false, draftDirs = ['_factory/inbox', '_factory/review'], holdDir = '_factory/hold' } = {}) {
   const plan = model.plan;
   const ctx = { tokens: buildTokens(model.data), where: 'guard' };
   const txt = (s) => {
@@ -120,11 +120,13 @@ export function runGuard(model, { ids = null, all = false, draftDirs = ['_factor
     items.push({ kind: 'live', id: a.id, url: a.url, keyword: topicById.get(a.id)?.primary_keyword || '', title: a.title, h1: a.h1, text: outline(a.article) });
   }
   const drafted = new Set();
-  for (const dir of draftDirs) {
+  const held = new Set();
+  for (const dir of [...draftDirs, holdDir]) {
     for (const f of listFiles(dir, '.json').filter((f) => /^PT-\d{4}\.json$/.test(f))) {
       const d = readJSON(`${dir}/${f}`);
       if (d.revision) continue; // updates of live articles are already indexed as live
       drafted.add(d.id);
+      if (dir === holdDir) held.add(d.id);
       items.push({ kind: 'draft', id: d.id, url: topicById.get(d.id)?.target_url, keyword: topicById.get(d.id)?.primary_keyword || '', title: d.title, h1: d.h1, text: outline(d) });
     }
   }
@@ -135,6 +137,8 @@ export function runGuard(model, { ids = null, all = false, draftDirs = ['_factor
   // A reviewer can accept a collision after checking that the intents differ (guard_reviewed: true).
   return targets.map((t) => {
     const r = { ...judgeTopic(t, index), working_title: t.working_title, has_draft: drafted.has(t.id) };
+    // A draft parked in _factory/hold waits for a person: never queue the topic again.
+    if (held.has(t.id)) return { ...r, decision: 'REVIEW_COLLISION', reasons: [...r.reasons, `draft held for human review in ${holdDir}`] };
     if (r.decision === 'REVIEW_COLLISION' && t.guard_reviewed) return { ...r, decision: 'ALLOW_CREATE', reasons: [...r.reasons, 'collision reviewed: distinct intent (guard_reviewed)'] };
     return r;
   });

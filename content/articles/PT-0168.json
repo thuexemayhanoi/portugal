@@ -1,0 +1,255 @@
+{
+  "contract_version": 1,
+  "id": "PT-0168",
+  "slug": "kit-de-primeiros-socorros",
+  "title": "Primeiros socorros na mota: kit básico e o que não fazer",
+  "description": "O que levar num kit pequeno quando anda de mota em Hanói, como proteger o local de uma queda, porque não deve tirar o capacete a um ferido e o que evitar.",
+  "h1": "Um kit pequeno na mota e os primeiros cuidados até chegar ajuda",
+  "summary": "Os primeiros socorros de quem anda de mota começam por não piorar a situação: estacionar em segurança, desligar os motores, sinalizar o local e ligar para o 115, sem tirar o capacete nem mexer num ferido se não tiver formação. Um kit pequeno ajuda nesses minutos: telemóvel com bateria, água limpa, panos limpos e um colete refletor.",
+  "key_points": [
+    "Numa queda ou num choque, a primeira tarefa é evitar um segundo acidente: pare em segurança, desligue os motores e torne o local visível.",
+    "Não tire o capacete a um motociclista ferido e, sem formação, não o mexa: peça uma ambulância pelo 115 e espere por quem sabe.",
+    "Este guia não encontrou uma lista oficial de kit para motociclistas: os itens propostos servem os passos que as fontes descrevem.",
+    "Numa queimadura, água limpa e depois um pano limpo e seco; álcool, iodopovidona e remédios caseiros ficam de fora.",
+    "O kit só ajuda quem sabe usá-lo: um curso de primeiros socorros antes da viagem prepara para o que nenhuma lista ensina."
+  ],
+  "intro": [
+    "Uma queda de mota acontece em segundos. Nos minutos seguintes, quem está no local — o condutor, o passageiro, um amigo que seguia noutra mota — tanto pode ajudar como piorar a situação, sobretudo num país cuja língua não fala e cujos números de emergência não sabe de cor.",
+    "Este guia reúne o que levar consigo e o que fazer, e sobretudo não fazer, até chegar ajuda profissional. Baseia-se em orientações da Proteção Civil, da Organização Mundial da Saúde e de hospitais vietnamitas, e não substitui um curso de primeiros socorros nem o conselho de um médico ou de um enfermeiro."
+  ],
+  "sections": [
+    {
+      "h2": "Os primeiros minutos: evitar um segundo acidente",
+      "body": [
+        "Um folheto da Proteção Civil da Câmara Municipal de Vila Franca de Xira, pensado para as estradas portuguesas, resume os primeiros passos num acidente rodoviário. Adaptados ao Vietname, onde a ambulância se chama pelo 115, ficam assim:",
+        {
+          "steps": [
+            {
+              "title": "Pare em segurança",
+              "text": "Antes de telefonar ou de socorrer alguém, estacione a sua mota fora da via, num sítio onde não possa ser atingido."
+            },
+            {
+              "title": "Desligue os motores",
+              "text": "Desligue o motor das motas envolvidas, se o puder fazer sem se pôr em risco."
+            },
+            {
+              "title": "Torne o local visível",
+              "text": "Vista um colete refletor, se o tiver, e mantenha-se fora da faixa de rodagem. À noite, a lanterna do telemóvel ajuda a que o vejam."
+            },
+            {
+              "title": "Peça ajuda",
+              "text": "Ligue para o 115 para pedir uma ambulância e, se for preciso a polícia, para o 113. As chamadas para estes números são gratuitas."
+            },
+            {
+              "title": "Fique junto do ferido",
+              "text": "Sem formação, não o mexa nem lhe tire o capacete. Fale com ele e diga-lhe que a ajuda vem a caminho."
+            }
+          ]
+        },
+        "O folheto resume assim o espírito destes passos: agir depressa, mas sem pressa de mexer nos feridos. Para quem não tem formação, a ajuda mais útil é proteger o local e chamar quem sabe."
+      ]
+    },
+    {
+      "h2": "Quando não mexer num ferido, e porquê",
+      "body": [
+        "Diante de um motociclista no chão, o impulso é tirar-lhe o capacete para ver se está bem. É precisamente o que o folheto da Proteção Civil manda não fazer: não se tira o capacete a um motociclista acidentado.",
+        "A cabeça pede um cuidado especial. Segundo a Organização Mundial da Saúde, o traumatismo craniano é a principal causa de morte dos motociclistas. Por isso, deixe o capacete posto e não mexa na cabeça de quem caiu: isso fica para quem chegar com formação.",
+        "O mesmo cuidado vale para o resto do corpo: sem formação, não mude a pessoa de posição nem a tente levantar. Se o local for perigoso, proteja-o com sinalização em vez de arrastar o ferido, e siga as indicações que lhe derem ao telefone.",
+        "Enquanto espera, há muito que pode fazer sem tocar no ferido:",
+        {
+          "ul": [
+            "falar com ele, dizer-lhe o seu nome e explicar que a ambulância vem a caminho;",
+            "protegê-lo do sol ou da chuva com um casaco ou um guarda-chuva seguro por cima, sem o mexer;",
+            "afastar os curiosos e deixar espaço livre para a ambulância chegar;",
+            "anotar a hora e o que viu, para contar a quem chegar."
+          ]
+        },
+        "A melhor proteção da cabeça vem antes da queda: um capacete do tamanho certo, sempre apertado. Segundo a OMS, um capacete seguro e de qualidade reduz o risco de morte em mais de seis vezes; o guia sobre [capacetes no aluguer](/precos/capacetes-no-aluguer/) ajuda a acertar o tamanho."
+      ]
+    },
+    {
+      "h2": "O que levar num kit pequeno",
+      "body": [
+        "Este guia não encontrou uma lista oficial de primeiros socorros pensada para motociclistas. A lista abaixo parte do que as fontes consultadas pedem que faça nos primeiros minutos e cabe numa bolsa pequena:",
+        {
+          "table": {
+            "caption": "Um kit pequeno para levar na mota",
+            "head": [
+              "O quê",
+              "Para quê"
+            ],
+            "rows": [
+              [
+                "Telemóvel carregado, com bateria externa",
+                "Pedir ajuda e partilhar a localização"
+              ],
+              [
+                "Os números de emergência (115, 113, 114 e 112) escritos num papel",
+                "Ligar de outro telefone, se o seu se partir na queda"
+              ],
+              [
+                "Uma garrafa de água limpa",
+                "Arrefecer uma queimadura; beber enquanto espera"
+              ],
+              [
+                "Panos limpos ou compressas em embalagem fechada",
+                "Cobrir uma queimadura depois de arrefecida"
+              ],
+              [
+                "Colete ou faixa refletora",
+                "Ser visto enquanto sinaliza o local"
+              ],
+              [
+                "Cópia da apólice do seguro de viagem",
+                "Ter à mão o número da apólice e a linha de assistência"
+              ],
+              [
+                "Uma nota com alergias ou doenças, se as tiver",
+                "Informar quem o socorrer, se não puder falar"
+              ]
+            ]
+          }
+        },
+        "Para completar, compre em Portugal um estojo de primeiros socorros de farmácia e peça ao farmacêutico que lhe explique para que serve cada item. É mais fácil esclarecer as dúvidas na sua língua do que numa farmácia em Hanói.",
+        {
+          "note": "Se o estojo trouxer álcool, iodopovidona ou água oxigenada, não os use numa queimadura. Segundo hospitais vietnamitas, aumentam a dor, danificam o tecido que se está a formar e podem deixar cicatriz.",
+          "tone": "warn",
+          "title": "Antisséticos e queimaduras"
+        },
+        "A água guardada debaixo do assento aquece com o calor do dia. Para arrefecer uma queimadura, o Hospital Chợ Rẫy indica água limpa a cerca de 16 a 20 °C: se puder, compre uma garrafa fresca no momento, e troque com frequência a que leva na mota.",
+        "Os outros objetos úteis numa mota alugada, da capa de chuva ao suporte de telemóvel, estão no guia dos [acessórios para a mota alugada](/precos/capa-de-chuva-e-acessorios/)."
+      ]
+    },
+    {
+      "h2": "Se houver uma queimadura",
+      "body": [
+        "Numa queda, a perna pode ficar encostada ao escape; e mesmo sem queda, um toque no escape quente pode queimar. Os conselhos de hospitais vietnamitas para este caso são simples:",
+        {
+          "ul": [
+            "arrefecer logo a zona com água limpa durante 15 a 30 minutos, em imersão ou sob água corrente, ou com um pano limpo molhado e trocado muitas vezes;",
+            "cobri-la depois com um pano limpo e seco;",
+            "não aplicar pasta de dentes, molho de peixe, folhas ou outros remédios caseiros, nem rebentar as bolhas;",
+            "mostrar a queimadura num serviço de saúde, sem demora se for numa criança pequena."
+          ]
+        },
+        "Se o ferido tiver outras lesões e não puder ser mexido, a ambulância continua a ser a prioridade. Para a queimadura, use então o pano molhado em vez de tentar mergulhar a zona em água."
+      ]
+    },
+    {
+      "h2": "Os números para ter à mão",
+      "body": [
+        "Os números de emergência do Vietname são nacionais e as chamadas são gratuitas: 115 para a ambulância, 113 para a polícia e 114 para os bombeiros. O 112, ligado a essas três centrais, recebe pedidos de ajuda, incidentes e catástrofes. Quem vem de Portugal está habituado ao 112 para tudo, por isso convém guardar cada número nos contactos com o nome do serviço.",
+        "Ao telefone, diga primeiro onde está e só depois o que aconteceu. Se não houver entendimento, passe a chamada a alguém por perto que fale vietnamita."
+      ]
+    },
+    {
+      "h2": "Preparar-se antes da viagem",
+      "body": [
+        "Os primeiros socorros também se preparam em casa, antes de partir:",
+        {
+          "checklist": [
+            "**Um curso de primeiros socorros.** A formação prática ensina o que nenhuma lista consegue: avaliar uma vítima e reconhecer o que não pode esperar.",
+            "**O seguro de viagem.** O Governo da Nova Zelândia recomenda confirmar, antes de conduzir no Vietname, se a apólice cobre acidentes de mota. Leve o número da apólice e o da linha de assistência.",
+            "**O que o consulado não faz.** Segundo um folheto de 2020 com orientações para viajantes, os postos consulares podem facilitar o contacto com hospitais, mas não pagam despesas médicas.",
+            "**A mota que vai conduzir.** Na entrega, aprenda como se desliga o motor e onde ficam as luzes: é o que vai precisar de encontrar depressa. O guia sobre [receber a mota](/guia-de-aluguer/receber-a-mota/) descreve esse momento."
+          ]
+        },
+        "Os papéis que deve levar consigo, seus e da mota, estão no guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/). Se a mota parar sem que haja feridos, o guia de [assistência na estrada](/guia-de-aluguer/assistencia-na-estrada/) explica a quem recorrer.",
+        "E há dias em que a melhor prevenção é deixar a mota parada: o guia [quando é melhor não conduzir](/rotas-e-mobilidade/quando-nao-conduzir/) reúne sete situações. Os restantes temas do aluguer estão no [guia de aluguer](/guia-de-aluguer/)."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Posso tirar o capacete a um motociclista ferido para ver se está bem?",
+      "a": "Não. O folheto da Proteção Civil diz para não tirar o capacete a um motociclista acidentado. Fale com a pessoa sem lhe mexer na cabeça, peça uma ambulância pelo 115 e deixe essa decisão para quem chegar com formação."
+    },
+    {
+      "q": "Preciso de levar um triângulo de sinalização na mota?",
+      "a": "O folheto da Proteção Civil fala em sinalizar o local com colete refletor e triângulo, mas foi escrito para as estradas portuguesas. Numa mota, um colete ou uma faixa refletora ocupa pouco espaço e ajuda a ser visto; na entrega, pergunte à loja se a mota tem luzes de emergência e como se ligam."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Acidentes Rodoviários",
+      "publisher": "Câmara Municipal de Vila Franca de Xira (Proteção Civil)",
+      "url": "https://www.cm-vfxira.pt/uploads/document/file/345/Acidentes_Rodovi_rios.pdf",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "pt"
+    },
+    {
+      "title": "New WHO guide aims to boost the use of life-saving helmets for motorcycle riders",
+      "publisher": "World Health Organization",
+      "url": "https://www.who.int/news/item/05-04-2023-new-who-guide-aims-to-boost-the-use-of-life-saving-helmets-for-motorcycle-riders",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "title": "Gọi đến các đầu số khẩn cấp như 113, 114, 115... thì có được miễn phí cước điện thoại hay không?",
+      "publisher": "Thư Viện Pháp Luật",
+      "url": "https://thuvienphapluat.vn/phap-luat/goi-den-cac-dau-so-khan-cap-nhu-113-114-115-thi-co-duoc-mien-phi-cuoc-dien-thoai-hay-khong-23081.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "112 trở thành số điện thoại khẩn cấp quốc gia",
+      "publisher": "VOH",
+      "url": "https://voh.com.vn/xa-hoi/112-tro-thanh-so-dien-thoai-khan-cap-quoc-gia-619717.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Bỏng bô xe và sơ cứu đúng cách",
+      "publisher": "VnExpress",
+      "url": "https://vnexpress.net/bong-bo-xe-va-so-cuu-dung-cach-2926578.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Sơ cứu đúng khi bị bỏng bô, bỏng nhiệt",
+      "publisher": "Vinmec",
+      "url": "https://www.vinmec.com/vi/tin-tuc/thong-tin-suc-khoe/so-cuu-dung-khi-bi-bong-bo-bong-nhiet",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Sơ cứu trẻ bị phỏng ống bô xe máy",
+      "publisher": "Vinmec",
+      "url": "https://www.vinmec.com/vie/bai-viet/so-cuu-tre-bi-phong-ong-bo-xe-may-vi",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Flyer Viagens ao estrangeiro versão 01.06.2020 final",
+      "publisher": "Câmara Municipal de Mêda",
+      "url": "https://cdn.cm-meda.pt/Documentos/Avisos-e-Editais/2020/Flyer_Viagens_ao_estrangeiro_versão_01.06.2020_final.pdf",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "pt"
+    },
+    "mfat-conduzir-vietname"
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "PUBLISHED",
+  "date_published": "2026-10-13",
+  "date_modified": "2026-10-13",
+  "editorial": {
+    "qa_score": 100,
+    "qa_warnings": [],
+    "words": 1491,
+    "publish_mode": "review",
+    "approved_at": "2026-10-13",
+    "revisions": []
+  }
+}

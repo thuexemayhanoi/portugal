@@ -1,0 +1,324 @@
+{
+  "contract_version": 1,
+  "id": "PT-0061",
+  "slug": "mota-eletrica-e-chuva",
+  "title": "Mota elétrica à chuva em Hanói: o que se sabe e o que perguntar",
+  "description": "Uma mota elétrica aguenta a chuva e as ruas alagadas de Hanói? O que dizem as fichas VinFast (IP67), os alagamentos datados e o que perguntar à loja.",
+  "h1": "Mota elétrica de aluguer, chuva e ruas alagadas: o que dizem as fontes",
+  "summary": "Com chuva normal, siga o que a loja indicar para a unidade que levar; numa rua alagada, as fontes consultadas não dão uma altura de água segura para uma mota elétrica, por isso não entre. A VinFast indica IP67 nos modelos usados aqui como exemplo (na Evo200, submersão a 0,5 m durante 30 minutos), mas a imprensa regista em Hanói ruas com 0,3 m a mais de 1 m de água.",
+  "key_points": [
+    "A VinFast indica proteção IP67 nas fichas da Evo200, da Feliz S e da Vento S; são exemplos, e a mota da loja pode ser outro modelo.",
+    "Para a Evo200, a marca descreve o IP67 como submersão a 0,5 m durante 30 minutos; em 7 de outubro de 2025, a imprensa registou de 0,3 m a mais de 1 m de água em duas ruas de Hanói.",
+    "As fontes consultadas não dão uma altura de água segura nem instruções para a bateria depois de uma submersão.",
+    "Houve alagamentos noticiados em julho de 2024, em setembro e outubro de 2025 e em setembro de 2026: não se limitam ao pleno verão.",
+    "Antes de levantar a mota, pergunte à loja como quer que a elétrica seja usada à chuva e a quem ligar se ela parar.",
+    "Se a água cobre a rua e não se vê o fundo, não entre; se a mota parar na água, não a ligue nem a carregue sem indicação da loja."
+  ],
+  "intro": [
+    "A pergunta de quem aluga uma mota elétrica em Hanói tem duas metades: pode andar à chuva e o que acontece se a rua estiver alagada? A segunda pesa mais do que parece. Entre 2024 e 2026, a imprensa vietnamita noticiou ruas da cidade com água suficiente para fazer muitos veículos deixar de funcionar; em 2025, centenas.",
+    "Este guia junta o que as fontes consultadas dizem, com datas e números, e diz com franqueza o que não dizem: as fichas técnicas de modelos VinFast e as notícias de alagamentos reais não chegam para dar uma altura de água segura nem um procedimento para a bateria. Onde falta resposta, o texto indica o que perguntar à loja, que conhece a unidade que vai levar. O enquadramento geral das motas elétricas e das restantes está no guia de [tipos de motas](/tipos-de-motas/)."
+  ],
+  "sections": [
+    {
+      "h2": "Chuva normal e rua alagada: duas situações diferentes",
+      "body": [
+        "Chuva normal é a que molha a mota e o piso, mas deixa a rua a escoar. Rua alagada é a que acumula água sobre o pavimento, de modo que a mota tem de passar por dentro dela. Os riscos e as fontes disponíveis não são os mesmos.",
+        "Para a chuva normal, o que existe é a indicação do fabricante nas fichas técnicas, descrita mais abaixo, e a orientação da loja para a unidade que entrega. Para a rua alagada, o que existe são notícias de episódios reais, com datas e alturas de água.",
+        "Na prática, a chuva é um motivo para abrandar e vestir a capa; a água parada sobre a rua, sem se ver o fundo, é um motivo para parar."
+      ]
+    },
+    {
+      "h2": "O que as ruas de Hanói já mostraram: alagamentos datados",
+      "body": [
+        "A imprensa vietnamita registou os episódios da tabela entre 2024 e 2026. Os valores são os que as notícias indicam, não medições oficiais da altura da água.",
+        {
+          "table": {
+            "caption": "Alagamentos em Hanói noticiados pela imprensa vietnamita",
+            "head": [
+              "Data",
+              "O que a imprensa descreve",
+              "Ruas citadas"
+            ],
+            "rows": [
+              [
+                "17 de setembro de 2026, madrugada",
+                "Chuva forte durante toda a noite alagou muitas ruas; muitos veículos deixaram de funcionar e as deslocações ficaram difíceis.",
+                "Muitas ruas da cidade"
+              ],
+              [
+                "7 de outubro de 2025",
+                "Chuva intensa concentrada em pouco tempo, associada à circulação residual da tempestade Matmo; centenas de veículos deixaram de funcionar. Nas duas ruas, a água atingiu de 0,3 m a mais de 1 m.",
+                "Nguyễn Xiển e Nguyễn Văn Lộc"
+              ],
+              [
+                "Finais de setembro de 2025",
+                "Centenas de motas deixaram de funcionar e tiveram de ser empurradas à mão.",
+                "Giang Văn Minh, Trường Chinh, Nguyễn Xiển e Phạm Văn Đồng"
+              ],
+              [
+                "11 de julho de 2024",
+                "Muitas ruas alagadas até cobrirem as rodas; num beco, a água chegou a cerca de 50 cm e muitos veículos deixaram de funcionar.",
+                "Um beco em Xuân Đỉnh"
+              ]
+            ]
+          }
+        },
+        "Há três ideias a retirar. A primeira é a rapidez: o episódio de 7 de outubro de 2025 foi descrito como chuva concentrada em pouco tempo, e o de 17 de setembro de 2026 como chuva durante toda a noite, o que sugere que o aviso pode ser curto. A segunda é a altura: de 0,3 m a mais de 1 m nas duas ruas citadas, num só dia, e cerca de 50 cm num beco em 2024.",
+        "A terceira é o calendário. Segundo o portal oficial de turismo do Vietname, a época das chuvas em Hanói atinge o auge entre junho e agosto, mas três dos quatro episódios da tabela são de setembro e outubro. Não convém, por isso, baixar a guarda quando o verão acaba.",
+        "As fontes consultadas falam de motas e de veículos em geral e não dizem quantos eram elétricos. A tabela mostra o que acontece nas ruas de Hanói, não como as motas elétricas se comportam nelas."
+      ]
+    },
+    {
+      "h2": "O que a VinFast declara sobre a água",
+      "body": [
+        "Nenhuma destas fichas é a da mota que a loja entrega: o modelo pode ser outro e confirma-se com a loja. Como exemplos de motas elétricas com ficha pública, a VinFast indica o seguinte para três modelos:",
+        {
+          "table": {
+            "caption": "Proteção contra a água e bateria nas fichas da VinFast (exemplos, não a mota da loja)",
+            "head": [
+              "Modelo",
+              "Água, segundo a ficha",
+              "Bateria"
+            ],
+            "rows": [
+              [
+                "VinFast Evo200",
+                "IP67; a marca descreve-o como submersão a 0,5 m durante 30 minutos",
+                "LFP de 3,5 kWh"
+              ],
+              [
+                "VinFast Feliz S",
+                "IP67",
+                "LFP de 3,5 kWh, 28 kg"
+              ],
+              [
+                "VinFast Vento S",
+                "IP67",
+                "3,5 kWh, 28 kg"
+              ]
+            ]
+          }
+        },
+        "Para a Feliz S e a Vento S, as fontes consultadas só indicam o código IP67, sem descrever o teste.",
+        {
+          "h3": "Os números da ficha ao lado dos da rua"
+        },
+        "Em 7 de outubro de 2025, a água atingiu entre 0,3 m e mais de 1 m em Nguyễn Xiển e Nguyễn Văn Lộc. O valor da ficha da Evo200, 0,5 m, fica abaixo da altura máxima registada nessas ruas. A comparação tem limites: um valor é uma condição de teste do fabricante, o outro é água numa rua, com lama, buracos e trânsito. Basta, ainda assim, para uma conclusão prudente: uma ficha técnica não autoriza a atravessar alagamentos.",
+        {
+          "h3": "E a bateria?"
+        },
+        "As fichas dão a capacidade da bateria, 3,5 kWh nos três modelos, e, na Feliz S e na Vento S, o peso, 28 kg. Nas fontes consultadas não há informação sobre o que acontece à bateria depois de uma submersão, nem sobre como carregar uma mota que ficou molhada."
+      ]
+    },
+    {
+      "h2": "O que as fontes não dizem",
+      "body": [
+        "Três perguntas ficam sem resposta nas fontes consultadas, e é melhor assumi-lo do que preencher o vazio com um número:",
+        {
+          "ul": [
+            "até que altura de água uma scooter elétrica pode andar sem danos;",
+            "que risco corre a bateria depois de uma submersão, mesmo breve;",
+            "o que fazer, passo a passo, quando uma mota elétrica deixa de funcionar dentro de água."
+          ]
+        },
+        "Perante estas lacunas, a decisão prudente é a mais conservadora. Quem lhe der um valor «seguro» para a altura da água sem indicar a origem está a dar uma opinião, não um dado. Quem pode responder pela mota que vai levar é a loja, e a resposta deve ficar por escrito."
+      ]
+    },
+    {
+      "h2": "Antes de levantar a mota: o que perguntar à loja",
+      "body": [
+        "Estas perguntas cabem numa só mensagem, por telefone ou Zalo, para o {{phone}}. A loja está aberta {{hours}}. Peça as respostas por escrito e guarde-as.",
+        {
+          "checklist": [
+            "**Modelo e versão** da mota elétrica que vai receber, e se o fabricante indica proteção contra a água (o código IP) para essa unidade e a que partes se aplica.",
+            "**Uso à chuva**: o que a loja aceita e o que pede que evite, por exemplo ruas com água acumulada ou lavagens com jato (o guia sobre [limpar a mota depois da chuva](/precos/limpeza-da-mota/) trata do resto).",
+            "**Depois de chuva forte**: se pode carregar a mota logo a seguir, onde a deve deixar à noite e se há algo a verificar antes de a voltar a usar.",
+            "**Se a mota parar na água**: o que fazer, a quem ligar primeiro e a que horas.",
+            "**Alternativa**: se há outra mota para troca e como se contam os dias em que a elétrica ficar parada.",
+            "**Custos**: o que o acordo diz sobre danos causados por água, quem avalia a mota e como o registo fica documentado."
+          ]
+        },
+        "As [fotografias da mota no levantamento](/guia-de-aluguer/fotografar-a-mota/) e a lista de [perguntas a fazer antes de alugar](/guia-de-aluguer/perguntas-antes-de-alugar/) completam o registo. O guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/) mostra o que costuma ficar escrito, e o de [avaliar um dano](/precos/danos-na-mota-alugada/) o que acontece a seguir, se houver um. A morada e o horário da loja estão na página de [contactos](/contactos/)."
+      ]
+    },
+    {
+      "h2": "No dia de chuva: como decidir na rua",
+      "body": [
+        "A tabela aplica o que se sabe, e o que não se sabe, a cinco situações. Não substitui a indicação da loja para a sua mota.",
+        {
+          "table": {
+            "caption": "Decidir à chuva com uma mota elétrica de aluguer",
+            "head": [
+              "Situação",
+              "O que fazer",
+              "Porquê"
+            ],
+            "rows": [
+              [
+                "Chuva fraca ou moderada, rua a escoar",
+                "Siga com a velocidade reduzida e a capa vestida, se a loja confirmou o uso à chuva para essa unidade.",
+                "O que conta é a indicação da loja: as fontes consultadas não trazem instruções do fabricante para andar à chuva."
+              ],
+              [
+                "Chuvada forte, água a acumular nos cruzamentos e nas bermas",
+                "Pare num sítio abrigado e mais alto; espere que abrande ou mude de percurso.",
+                "Os alagamentos de 2025 e 2026 vieram de chuva concentrada em pouco tempo ou prolongada durante a noite."
+              ],
+              [
+                "Água a cobrir o pavimento, sem se ver o fundo",
+                "Não entre. Espere, dê a volta ou use outro transporte.",
+                "Nenhuma fonte dá uma altura segura para elétricas; o valor da ficha da Evo200 (0,5 m) é inferior aos mais de 1 m registados em 7 de outubro de 2025."
+              ],
+              [
+                "A mota perdeu força ou desligou-se dentro de água",
+                "Ponha a ignição em OFF e, se for seguro, empurre a mota para fora da água, sem insistir no arranque. Contacte a loja e não mexa na bateria nem nas fichas.",
+                "As fontes não explicam o que acontece à bateria numa submersão; é a loja que decide o passo seguinte."
+              ],
+              [
+                "Previsão de chuva forte para a noite",
+                "Pergunte ao alojamento por um sítio coberto e mais alto para a mota e à loja como proceder com o carregamento nesse dia.",
+                "O alagamento de 17 de setembro de 2026 ocorreu de madrugada, depois de uma noite de chuva."
+              ]
+            ]
+          }
+        },
+        "Nos dias de chuva forte, o caminho mais simples é muitas vezes não sair de mota. O guia das [sete situações em que a mota deve ficar parada](/rotas-e-mobilidade/quando-nao-conduzir/) propõe alternativas, e a [capa de chuva e os outros acessórios](/precos/capa-de-chuva-e-acessorios/) dizem o que levar quando decide sair. Se a mota parar longe do alojamento, veja [que ajuda existe quando fica parado](/guia-de-aluguer/assistencia-na-estrada/)."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Posso andar à chuva com a mota elétrica de aluguer?",
+      "a": "A resposta que conta é a da loja, para a unidade que lhe entregarem. As fichas da VinFast usadas como exemplo indicam proteção IP67, mas as fontes consultadas não trazem instruções do fabricante para andar à chuva. Pergunte-o no levantamento e peça a resposta por escrito."
+    },
+    {
+      "q": "O IP67 da ficha quer dizer que posso atravessar uma rua alagada?",
+      "a": "As fontes consultadas não dizem isso. Para a Evo200, a VinFast descreve o IP67 como submersão a 0,5 m durante 30 minutos, e em 7 de outubro de 2025 a imprensa registou de 0,3 m a mais de 1 m de água em duas ruas de Hanói. Um valor de ficha é uma condição de teste, não uma altura segura na rua."
+    },
+    {
+      "q": "Posso carregar a mota logo depois de ela apanhar chuva?",
+      "a": "As fontes consultadas não dão instruções para isso. Pergunte à loja antes do primeiro dia de chuva e, se a mota ficou dentro de água, não a ligue à tomada sem indicação da loja."
+    },
+    {
+      "q": "Hanói alaga todos os anos?",
+      "a": "As fontes consultadas registam alagamentos em julho de 2024, no fim de setembro e a 7 de outubro de 2025 e a 17 de setembro de 2026, mas não dão uma frequência nem um calendário. O portal oficial de turismo do Vietname situa o auge da época das chuvas entre junho e agosto; os episódios de setembro e outubro mostram que não convém baixar a guarda depois."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Thông số kỹ thuật xe điện VinFast Evo200 - Mẫu xe điện mới nhiều cải tiến và tính năng thông minh",
+      "publisher": "VinFast",
+      "url": "https://vinfastauto.com/vn_vi/thong-so-ky-thuat-evo200",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "Tổng quan VinFast Evo200: động cơ, công nghệ pin và tính năng ưu việt",
+      "publisher": "VinFast",
+      "url": "https://vinfastauto.com/vn_vi/tong-quan-vinfast-evo-200",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "Thông số kỹ thuật xe máy điện VinFast Feliz S mới nhất",
+      "publisher": "VinFast",
+      "url": "https://vinfastauto.com/vn_vi/kham-pha-thong-so-ky-thuat-xe-may-dien-vinfast-feliz-s",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "Tìm hiểu hệ thống pin xe máy điện VinFast Feliz S",
+      "publisher": "VinFast",
+      "url": "https://vinfastauto.com/vn_vi/he-thong-pin-xe-may-dien-vinfast-feliz-s",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "Thông số kỹ thuật Vento S vượt trội trong phân khúc",
+      "publisher": "VinFast",
+      "url": "https://vinfastauto.com/vn_vi/thong-so-ky-thuat-vento-s",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "So sánh xe máy điện VinFast Vento và Vento S",
+      "publisher": "VinFast",
+      "url": "https://vinfastauto.com/vn_vi/so-sanh-xe-may-dien-vinfast-vento-va-vento-s",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "Notícias sobre ruas alagadas em Hanói, incluindo a chuva de 17 de setembro de 2026 (em vietnamita)",
+      "publisher": "CafeF",
+      "url": "https://cafef.vn/bien-nuoc.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Notícia sobre as ruas de Hanói transformadas em rios depois de uma chuvada prolongada (em vietnamita)",
+      "publisher": "Đại biểu Nhân dân",
+      "url": "https://daibieunhandan.vn/ha-noi-pho-thanh-song-chi-sau-con-mua-to-keo-dai-10389409.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "29 điểm ở Hà Nội ngập nặng, giao thông đình trệ, nhiều ôtô \"chết\" trong nước",
+      "publisher": "VOH",
+      "url": "https://voh.com.vn/giao-thong/29-diem-o-ha-noi-ngap-nang-giao-thong-dinh-tre-nhieu-oto-chet-trong-nuoc-624898.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Hà Nội ngập tứ bề, người dân ngã sõng soài, xe chết máy la liệt giữa phố",
+      "publisher": "Báo Mới",
+      "url": "https://baomoi.com/Tag/d%E1%BA%AFt-xe/trang16.epi",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Mưa lớn, nhiều đường phố Hà Nội ngập lút bánh xe",
+      "publisher": "Tuổi Trẻ",
+      "url": "https://tuoitre.vn/mua-lon-nhieu-duong-pho-ha-noi-ngap-lut-banh-xe-20240711185048887.htm",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Weather and climate in Vietnam",
+      "publisher": "Portal oficial de turismo do Vietname (vietnam.travel)",
+      "url": "https://vietnam.travel/things-to-do/weather-and-climate-vietnam",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    }
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "PUBLISHED",
+  "date_published": "2026-10-13",
+  "date_modified": "2026-10-13",
+  "editorial": {
+    "qa_score": 96,
+    "qa_warnings": [
+      "source code M: Especificações do fabricante (Honda Vietnam, Yamaha Motor Vietnam) para dados técnicos dos modelos.",
+      "source code W: Dados meteorológicos oficiais (Centro Nacional de Previsão Hidrometeorológica) ou climatologia reconhecida."
+    ],
+    "words": 1966,
+    "publish_mode": "review",
+    "approved_at": "2026-10-13",
+    "revisions": []
+  }
+}

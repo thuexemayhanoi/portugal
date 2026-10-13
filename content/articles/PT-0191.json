@@ -1,0 +1,351 @@
+{
+  "contract_version": 1,
+  "id": "PT-0191",
+  "slug": "manutencao-num-aluguer-longo",
+  "title": "Manutenção da mota num aluguer longo: a rotina semanal",
+  "description": "Dez minutos por semana para vigiar pneus, travões, corrente, luzes e óleo de uma mota alugada durante meses, e saber quando avisar a loja.",
+  "h1": "Dez minutos por semana: o que verificar numa mota que vai usar durante meses",
+  "summary": "Numa mota alugada durante meses, vale a pena fazer todas as semanas, pela mesma ordem, uma verificação de dez minutos: pneus, travões, corrente nas semiautomáticas, luzes e painel, óleo e fugas. Os valores técnicos e as revisões são da loja; este guia diz o que olhar, o que anotar e quando avisar.",
+  "key_points": [
+    "Nenhum fabricante consultado define uma «verificação semanal»: o ritmo é uma proposta deste guia, construída sobre a corrente a cada 500 km do manual da Wave 110 e sobre a verificação rápida antes de cada saída que a formação de motociclistas descreve.",
+    "Com 70 km por dia, 500 km chegam em cerca de uma semana; com 20 km por dia, só ao fim de 25 dias, mas o manual manda verificar mais vezes em mau piso.",
+    "Sem valores do fabricante para o seu modelo, o que conta é a variação: compare cada semana com a anterior e anote a quilometragem.",
+    "Luz da injeção acesa em andamento, travão com menos força, pneu a perder ar ou óleo leitoso depois de água: pare e avise a loja, em vez de esperar pela revisão.",
+    "Óleo, pastilhas e afinação da corrente são trabalho de oficina: peça à loja o plano do seu modelo e deixe-o por escrito."
+  ],
+  "intro": [
+    "Num fim de semana, a mota volta como saiu. Ao fim de dois ou três meses, já acumulou centenas de quilómetros de trânsito, chuva e buracos, e quem a conduz é a primeira pessoa a notar que o travão está mais mole ou que a corrente anda a ranger. Este guia propõe uma rotina curta, semanal, para esse momento.",
+    "Não substitui o plano de manutenção do modelo, que é assunto da loja {{brand}}, nem decide quem trata de cada intervenção: isso fica no acordo, como explica o guia do [aluguer de longa duração](/precos/aluguer-de-longa-duracao/). Também não repete a fronteira entre desgaste e dano, que tem guia próprio: o [desgaste normal num aluguer longo](/precos/desgaste-normal-num-aluguer-longo/). Aqui fica o que cabe a quem conduz: olhar, ouvir, anotar e avisar a tempo. Para o resto do processo, veja o [guia de aluguer](/guia-de-aluguer/).",
+    "As referências são o manual da Honda Wave 110, as perguntas frequentes da Honda Vietname, listas de inspeção usadas na formação de motociclistas e reportagens vietnamitas sobre motas que apanharam água, consultados a 13 de outubro de 2026. O que não tem fonte fica marcado como pergunta para a loja."
+  ],
+  "sections": [
+    {
+      "h2": "O que está documentado e o que é proposta deste guia",
+      "body": [
+        "Nenhum fabricante consultado define uma «verificação semanal». O que está documentado é mais modesto, e o ritmo semanal é uma proposta deste guia a partir dele.",
+        {
+          "table": {
+            "caption": "O que as fontes dizem e o que fica por perguntar à loja",
+            "head": [
+              "Ponto",
+              "O que as fontes dizem",
+              "O que perguntar à loja"
+            ],
+            "rows": [
+              [
+                "Corrente (semiautomáticas)",
+                "O manual da Honda Wave 110 manda verificar o estado e a folga e, quando necessário, afinar e lubrificar. A tabela de manutenção indica a verificação a cada 500 km, e com mais frequência em mau piso ou a alta velocidade. O da Wave RSX FI tem uma secção equivalente",
+                "A folga certa no seu modelo e quem a afina"
+              ],
+              [
+                "Pneus",
+                "As listas de inspeção de motas, como a T-CLOCS, pedem piso e pressão: medida a frio e ajustada à pressão recomendada pelo fabricante, tendo em conta a carga total",
+                "A pressão da frente e de trás, com e sem passageiro"
+              ],
+              [
+                "Luz da injeção (MIL)",
+                "Acende por instantes ao ligar a ignição, segundo os manuais da Honda. Acesa com o motor a trabalhar, indica um problema que a Honda manda ver numa loja autorizada",
+                "Onde levar a mota se acender"
+              ],
+              [
+                "Óleo",
+                "Depois de a mota apanhar água, óleo leitoso ou descolorido indica contaminação, segundo um técnico de uma loja Honda citado pela VietNamNet",
+                "A data da última mudança, o intervalo e como se lê o nível no seu modelo"
+              ]
+            ]
+          }
+        },
+        "Ficam sem valores, porque nenhuma fonte os dá para as motas de aluguer: o intervalo da mudança de óleo, as pressões dos pneus, o desgaste das pastilhas e a folga da corrente da Wave. Os valores de outros modelos Honda não se aplicam à Wave. Peça-os à loja, por escrito."
+      ]
+    },
+    {
+      "h2": "Porque semanal: a conta dos quilómetros",
+      "body": [
+        "O manual da Wave 110 fala em quilómetros, não em dias. Para quem anda todos os dias, a conta é dividir 500 pelos quilómetros que faz por dia.",
+        {
+          "table": {
+            "caption": "Dias até aos 500 km do manual da Wave 110 (cálculo deste guia)",
+            "head": [
+              "Quilómetros por dia",
+              "Dias até aos 500 km"
+            ],
+            "rows": [
+              [
+                "20 km",
+                "25 dias"
+              ],
+              [
+                "40 km",
+                "12 a 13 dias"
+              ],
+              [
+                "70 km",
+                "pouco mais de 7 dias"
+              ]
+            ]
+          }
+        },
+        "Com 70 km por dia, os 500 km chegam em cerca de uma semana; com 20 km, demoram mais de três semanas. Mas o manual também manda verificar com mais frequência em mau piso, e o trânsito de Hanói tem buracos e chuva. Daí o ritmo semanal: é curto, fixa-se num dia da semana e dá pontos de comparação. Se não souber quanto anda por dia, anote o valor do painel hoje e daqui a sete dias.",
+        "Nas scooters automáticas, como a [Honda Vision](/tipos-de-motas/honda-vision-em-hanoi/), não há corrente à vista e a rotina fica mais curta: a transmissão é assunto de oficina."
+      ]
+    },
+    {
+      "h2": "A rotina de dez minutos, pela ordem",
+      "body": [
+        "Escolha um dia fixo, por exemplo o domingo à noite. Com a mota em piso plano, o motor frio, boa luz e o telemóvel à mão para fotografar e anotar, faça os seis pontos pela mesma ordem todas as semanas. O que conta é a diferença em relação à semana anterior.",
+        {
+          "steps": [
+            {
+              "title": "Quilometragem e pneus",
+              "text": "Fotografe o painel. Olhe para o piso e para os flancos de cada pneu: cortes, bolhas, objetos cravados. Meça a pressão com o motor frio, no valor que a loja lhe deu para o modelo e para a carga que costuma levar."
+            },
+            {
+              "title": "Travões",
+              "text": "Com a mota parada, aperte cada manete e empurre a mota: a roda deve ficar presa e soltar-se ao largar. Repare se a manete chega mais perto do punho do que na semana passada ou se há um ruído novo."
+            },
+            {
+              "title": "Corrente (semiautomáticas)",
+              "text": "Veja se está seca, ferrugenta ou ruidosa. Pergunte à loja quando foi afinada pela última vez e não a regule por conta própria."
+            },
+            {
+              "title": "Luzes e painel",
+              "text": "Farol em médios e máximos, luz de travão, piscas dos dois lados e luz traseira. Ao ligar a ignição, a luz da injeção deve acender por instantes e apagar-se."
+            },
+            {
+              "title": "Óleo e fugas",
+              "text": "Olhe para o chão onde a mota esteve parada e para a parte de baixo do motor: manchas ou cheiro a gasolina. Peça à loja que lhe mostre uma vez como se lê o nível do óleo no seu modelo."
+            },
+            {
+              "title": "Volta curta",
+              "text": "Dê uma volta lenta de poucas centenas de metros e ouça a corrente, os travões e a suspensão: não devem fazer ruídos que não faziam."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "Depois de chuvas fortes ou de passar por água",
+      "body": [
+        "Segundo um técnico de uma loja Honda autorizada citado pela VietNamNet, as motas raramente sofrem um calço hidráulico tão grave como os carros, mas água no motor, na parte elétrica ou nos travões torna a mota insegura e encurta-lhe a vida útil. O óleo é o primeiro ponto a verificar: óleo leitoso ou descolorido é sinal de contaminação, e a água entra pelo escape, pelo respiro e por folgas do cárter.",
+        "Se o motor foi abaixo dentro de água, não insista no arranque. Oficinas citadas na imprensa vietnamita avisam que voltar a ligá-lo de imediato pode entortar a biela ou rachar a cambota. Leve a mota a verificar o mais cedo possível e avise a loja pelo {{phone}}. Para lavar a mota depois da chuva e da lama, veja [limpar a mota alugada](/precos/limpeza-da-mota/)."
+      ]
+    },
+    {
+      "h2": "O caderno da mota: o que anotar em dois minutos",
+      "body": [
+        "A rotina só vale se deixar rasto. Uma nota por semana, no telemóvel, chega: o que importa é poder comparar.",
+        {
+          "table": {
+            "caption": "Registo semanal de uma mota alugada",
+            "head": [
+              "Campo",
+              "O que anotar",
+              "Para quê"
+            ],
+            "rows": [
+              [
+                "Quilometragem",
+                "O número do painel, com fotografia",
+                "Saber quando chegam os 500 km da corrente e quanto anda por dia"
+              ],
+              [
+                "Pneus",
+                "A pressão da frente e de trás, a frio, e o que viu no piso",
+                "Notar um pneu que perde ar mais depressa do que o outro"
+              ],
+              [
+                "Travões",
+                "«Igual», «mais mole» ou «com ruído», para cada manete",
+                "Comparar com a semana anterior"
+              ],
+              [
+                "Corrente",
+                "«Seca», «com ruído» ou a data da última afinação",
+                "Saber quando a pedir"
+              ],
+              [
+                "Painel",
+                "Luzes que acenderam, o dia e a quilometragem",
+                "Mostrar à loja quando e quantas vezes"
+              ],
+              [
+                "Óleo e fugas",
+                "Manchas, cheiro e a data da última mudança",
+                "Ter o ponto de partida da próxima revisão"
+              ]
+            ]
+          }
+        },
+        "Se encontrar algo, a mensagem à loja pode ser curta: «Bom dia, tenho a mota com a matrícula [matrícula]. Hoje, com [quilometragem] km, notei [o quê]. Envio fotografia. Quando posso passar pela loja?» Envie-a por mensagem ou ligue para {{phone}}: a loja está aberta {{hours}}, e os restantes dados estão na página de [contactos](/contactos/)."
+      ]
+    },
+    {
+      "h2": "Parar já, avisar hoje ou falar na próxima visita",
+      "body": [
+        {
+          "table": {
+            "caption": "O que fazer consoante o sinal",
+            "head": [
+              "Quando",
+              "O que fazer",
+              "Exemplos"
+            ],
+            "rows": [
+              [
+                "Parar já",
+                "Pare em segurança e contacte a loja antes de continuar",
+                "Luz da injeção acesa com o motor a trabalhar; travão que perdeu força de repente; pneu a perder ar em andamento; fuga de óleo ou de gasolina; óleo leitoso depois de água"
+              ],
+              [
+                "Avisar hoje",
+                "Mensagem à loja com fotografia e quilometragem; pergunte se pode continuar a usar a mota até lá",
+                "Luz do painel que acende e apaga; corrente seca ou com ruído novo; pneu com corte ou bolha; arranque a falhar"
+              ],
+              [
+                "Falar na próxima visita",
+                "Anote e leve a lista",
+                "Marcas de uso sem efeito no funcionamento; dúvidas sobre o plano de revisões"
+              ]
+            ]
+          }
+        },
+        "A luz da injeção pode aparecer e desaparecer por mau contacto das fichas elétricas, mas a Honda manda verificá-la se se repetir, e só um técnico apaga o erro da memória. Quanto ao arranque, uma bateria fraca é a causa mais frequente de a mota não pegar, segundo a imprensa vietnamita: se começar a falhar, não insista no botão, anote e avise a loja.",
+        "Se a mota ficar parada longe de casa, o guia de [assistência na estrada](/guia-de-aluguer/assistencia-na-estrada/) explica a quem recorrer primeiro, e o de [avaria longe de Hanói](/guia-de-aluguer/avaria-longe-de-hanoi/) o plano a combinar antes de uma viagem."
+      ]
+    },
+    {
+      "h2": "O que é da oficina e o que perguntar à loja",
+      "body": [
+        "A rotina semanal só vigia. A mudança de óleo, as pastilhas, a substituição de peças que se gastam e a afinação da corrente são trabalho de oficina, e o manual da Honda remete os carretos gastos para uma loja autorizada. Se uma oficina lhe oferecer um arranjo rápido, ligue primeiro à loja. Junte estas perguntas às [15 perguntas a fazer antes de alugar](/guia-de-aluguer/perguntas-antes-de-alugar/) e guarde as respostas:",
+        {
+          "checklist": [
+            "Qual é o plano de manutenção do meu modelo: de quantos em quantos quilómetros ou meses se muda o óleo?",
+            "Quando foi feita a última mudança e onde fica o registo?",
+            "Onde se fazem as revisões durante o aluguer e como as marco?",
+            "Quais são as pressões dos pneus, à frente e atrás, com e sem passageiro, e onde posso calibrá-los?",
+            "Se a mota for semiautomática: quando foi afinada a corrente e qual é a folga certa?",
+            "A quem aviso e por que meio quando encontro um problema, e em que prazo me respondem?",
+            "Como ficam combinados os custos de uma peça que chegue ao fim a meio do aluguer?"
+          ]
+        },
+        "Para os custos de pequenas reparações, veja o guia sobre [furos e pequenas reparações](/precos/custo-de-furos-e-reparacoes/)."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Quantas vezes devo verificar a pressão dos pneus?",
+      "a": "As listas de inspeção pedem a pressão medida a frio e ajustada à recomendada pelo fabricante, tendo em conta a carga, e a formação da Motorcycle Safety Foundation fala numa verificação rápida antes de cada saída. Uma medição por semana é o mínimo que este guia propõe; os valores certos são os que a loja indicar para o seu modelo."
+    },
+    {
+      "q": "Posso mudar eu o óleo da mota alugada?",
+      "a": "Não sem combinar com a loja. O tipo e a quantidade de óleo dependem do modelo e este guia não os indica. Pergunte quem faz a mudança, onde e quando, e peça um comprovativo com a quilometragem."
+    },
+    {
+      "q": "A rotina serve para uma scooter automática?",
+      "a": "Quase toda: pneus, travões, luzes, painel, óleo e fugas. A corrente só existe nas semiautomáticas, como a Wave; numa scooter automática a transmissão é assunto de oficina e a rotina fica mais curta."
+    },
+    {
+      "q": "A luz do painel acendeu e apagou. Posso ignorar?",
+      "a": "Segundo a Honda Vietname, a luz da injeção pode aparecer e desaparecer por mau contacto das fichas elétricas, mas deve ser verificada se se repetir. Anote o dia e a quilometragem e avise a loja: só um técnico apaga o erro da memória."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wave 110 — Hướng dẫn sử dụng (manual do utilizador, PDF em vietnamita)",
+      "publisher": "Honda Việt Nam",
+      "url": "https://cdn.honda.com.vn/motorbike-manual/September2025/PIcp8XLSxQmsi5X5Twsy.pdf",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "Wave RSX FI — Sách hướng dẫn sử dụng (manual do utilizador, PDF em vietnamita)",
+      "publisher": "Honda Việt Nam",
+      "url": "https://cdn.honda.com.vn/motorbike-manual/September2025/EzA6x0gXYsjvv9AhkVm2.pdf",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "Air Blade — Hướng dẫn sử dụng (manual do utilizador, PDF em vietnamita)",
+      "publisher": "Honda Việt Nam",
+      "url": "https://cdn.honda.com.vn/motorbike-manual/September2025/NC8346r3AExXZtAvFuMG.pdf",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "Perguntas frequentes da Honda Việt Nam sobre o uso da mota (em vietnamita)",
+      "publisher": "Honda Việt Nam",
+      "url": "https://www.honda.com.vn/cau-hoi-thuong-gap?category=san-pham&category_child=tu-van-su-dung-xe-may",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "Cartões de curso da Motorcycle Safety Foundation (PDF em inglês)",
+      "publisher": "Cecil College (PDF com cartões de curso da MSF)",
+      "url": "https://www.cecil.edu/wp-content/uploads/abrc-course-cards.pdf",
+      "accessed": "2026-10-13",
+      "type": "reference",
+      "lang": "en"
+    },
+    {
+      "title": "Lista de verificação T-CLOCS para a inspeção de motas (PDF em inglês)",
+      "publisher": "Marine Corps Base Hawaii (Safety)",
+      "url": "https://www.mcbhawaii.marines.mil/Portals/114/WebDocuments/Safety/T-CLOCSChecklistMotorcycleInspection.pdf",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "title": "Artigo sobre a inspeção de segurança de motas (em inglês)",
+      "publisher": "Air Force Global Strike Command (EUA)",
+      "url": "https://www.afgsc.af.mil/News/Article-Display/Article/848986/motorcycle-safety-inspection/",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "title": "Artigo sobre as sete verificações urgentes depois de uma mota ficar na água (em vietnamita)",
+      "publisher": "VietNamNet",
+      "url": "https://vietnamnet.vn/7-hang-muc-song-con-can-kiem-tra-ngay-khi-xe-may-bi-ngap-nuoc-2448300.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Kinh nghiệm giữ xe máy hoạt động tốt sau mưa lớn, ngập sâu",
+      "publisher": "Báo Văn hóa",
+      "url": "https://baovanhoa.vn/xe/kinh-nghiem-giu-xe-may-hoat-dong-tot-sau-mua-lon-ngap-sau-164021.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Vì sao xe đề mãi không nổ? Cách xử lý nhanh, ai cũng nên biết",
+      "publisher": "Báo Văn hóa",
+      "url": "https://baovanhoa.vn/xe/vi-sao-xe-de-mai-khong-no-cach-xu-ly-nhanh-ai-cung-nen-biet-190877.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    }
+  ],
+  "legal_note": false,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "PUBLISHED",
+  "date_published": "2026-10-13",
+  "date_modified": "2026-10-13",
+  "editorial": {
+    "qa_score": 100,
+    "qa_warnings": [],
+    "words": 2004,
+    "publish_mode": "review",
+    "approved_at": "2026-10-13",
+    "revisions": []
+  }
+}

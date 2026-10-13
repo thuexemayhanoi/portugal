@@ -1,0 +1,367 @@
+{
+  "contract_version": 1,
+  "id": "PT-0124",
+  "slug": "custo-por-quilometro",
+  "title": "Custo por quilómetro: mota alugada e outras opções em Hanói",
+  "description": "Como calcular o custo por km de uma mota alugada em Hanói: aluguer, combustível por modelo e comparação com mota com condutor, táxi e autocarro, com datas.",
+  "h1": "Custo por km de uma mota alugada em Hanói: como fazer a conta",
+  "summary": "O custo por km de uma mota alugada é o preço do dia dividido pelos quilómetros que faz, mais o combustível, que ronda 430 a 515 VND por km com os preços de setembro e outubro de 2026. Na tabela da loja, um dia custa entre {{price.min.day}} e {{price.max.day}}, por isso o custo por km desce quanto mais andar no mesmo dia.",
+  "key_points": [
+    "Custo por km = (preço do dia + combustível + extras) ÷ km do dia: o aluguer divide-se pelos quilómetros e pesa menos nos dias em que anda mais.",
+    "Combustível: com os consumos declarados (1,65 a 1,82 l/100 km) e o litro a 25,9 mil e 28,3 mil VND (17 de setembro e 8 de outubro de 2026), são cerca de 430 a 515 VND por km.",
+    "Os consumos são valores de teste dos fabricantes. Meça o seu: litros abastecidos ÷ km percorridos × 100.",
+    "A tarifa-base do GrabBike Tiếng Anh (18 de junho de 2026) dá cerca de 6 a 7 mil VND por km em trajetos de 5 a 10 km; os autocarros subsidiados dentro do Anel Viário 1 são gratuitos até 30 de junho de 2027.",
+    "O quilómetro não conta tudo: tempo, chuva e dias parados também entram na comparação."
+  ],
+  "intro": [
+    "«Quanto custa por quilómetro?» é a pergunta de quem quer comparar uma mota alugada com um táxi, uma aplicação ou o autocarro. A resposta não é um número fixo: numa mota alugada, a maior parte do custo é o preço do dia, que se dilui com a distância, por isso o custo por km muda com o dia que fizer.",
+    "Este guia dá o método e exemplos para o fazer sozinho. Os preços da loja vêm sempre da tabela de referência; os valores de terceiros, como o combustível ou a tarifa de uma aplicação, têm data e fonte; e as contas feitas aqui são exemplos assinalados como cálculo, não preços publicados por alguém."
+  ],
+  "sections": [
+    {
+      "h2": "A fórmula: aluguer, combustível e extras a dividir pelos km",
+      "body": [
+        "O custo por quilómetro de uma mota alugada calcula-se em quatro passos:",
+        {
+          "steps": [
+            {
+              "title": "Aluguer",
+              "text": "Veja o preço do dia na tabela da loja. Num aluguer de uma semana ou de um mês, divida o total pelos dias em que conduz."
+            },
+            {
+              "title": "Combustível",
+              "text": "Multiplique o consumo (litros aos 100 km) pelo preço do litro e pelos km, e divida por 100."
+            },
+            {
+              "title": "Extras",
+              "text": "Some o que não está na tarifa e vai pagar, como uma entrega ou o estacionamento."
+            },
+            {
+              "title": "Divisão",
+              "text": "Divida o total dos três passos pelos km que fez. É o custo por km desse dia."
+            }
+          ]
+        },
+        "A tabela de referência da loja, verificada a {{pricing.verifiedAt}}, dá o primeiro passo:",
+        {
+          "component": "price-table"
+        },
+        "O valor final, a unidade disponível e o que fica fora da tarifa são confirmados pela loja antes do aluguer. O guia dos [custos além do preço](/precos/custos-alem-do-preco/) lista o que convém perguntar, e o do [combustível no aluguer](/precos/combustivel-no-aluguer/) explica como combinar o nível na entrega e na devolução."
+      ]
+    },
+    {
+      "h2": "Combustível: quantos dong por quilómetro",
+      "body": [
+        "O consumo declarado pelos fabricantes, medido em condições de teste, é de 1,72 l/100 km na Honda Wave Alpha, 1,65 na Yamaha Sirius FI e 1,82 na Honda Vision. A mota que receber pode ser de outra geração ou versão, por isso confirme com a loja o modelo e o ano da unidade. Para a Click, a Mio e a Air Blade não há aqui um valor do fabricante verificado.",
+        "Para o preço do litro, o guia parte de dois comunicados do Ministério da Indústria e Comércio do Vietname. Indicam 25,9 mil VND por litro em 17 de setembro de 2026 e 28,3 mil VND em 8 de outubro, valores que o Ministério usou na comparação com os países vizinhos. A informação consultada não especifica o tipo de gasolina nem se o valor é anterior ou posterior à revisão desse dia, por isso trate-os como ordem de grandeza.",
+        {
+          "table": {
+            "caption": "Combustível por quilómetro: consumo declarado × preço do litro (cálculo)",
+            "head": [
+              "Modelo (consumo declarado)",
+              "A 25,9 mil VND/l (17/9/2026)",
+              "A 28,3 mil VND/l (8/10/2026)",
+              "50 km, ao preço mais alto"
+            ],
+            "rows": [
+              [
+                "Honda Wave Alpha (1,72 l/100 km)",
+                "445 VND/km",
+                "486 VND/km",
+                "cerca de 24,3 mil VND"
+              ],
+              [
+                "Yamaha Sirius FI (1,65 l/100 km)",
+                "427 VND/km",
+                "466 VND/km",
+                "cerca de 23,3 mil VND"
+              ],
+              [
+                "Honda Vision (1,82 l/100 km)",
+                "471 VND/km",
+                "514 VND/km",
+                "cerca de 25,7 mil VND"
+              ]
+            ]
+          }
+        },
+        "O preço muda por revisões que, em setembro e outubro de 2026, caíram todas numa quinta-feira (10 e 17 de setembro, 1 e 8 de outubro). Antes de fazer contas, veja o valor do dia no visor da bomba ou nos comunicados do Ministério.",
+        {
+          "h3": "O consumo real"
+        },
+        "Os números acima são de teste. No trânsito, com passageiro ou muitas paragens, conte com um consumo superior. Para ter o seu valor, encha o depósito, anote o conta-quilómetros e, no abastecimento seguinte, divida os litros pelos km percorridos e multiplique por 100."
+      ]
+    },
+    {
+      "h2": "Aluguer: o preço do dia dividido pelos quilómetros",
+      "body": [
+        "A parcela do aluguer é a que mais varia, porque se divide pelos km do dia. Quanto mais anda, menos pesa em cada quilómetro:",
+        {
+          "table": {
+            "caption": "Quanto do preço do dia cai em cada quilómetro",
+            "head": [
+              "Km no dia",
+              "Parte do preço do dia em cada km",
+              "Numa Wave",
+              "Numa Vision"
+            ],
+            "rows": [
+              [
+                "20 km",
+                "1/20",
+                "{{price.wave.day}} ÷ 20",
+                "{{price.vision.day}} ÷ 20"
+              ],
+              [
+                "50 km",
+                "1/50",
+                "{{price.wave.day}} ÷ 50",
+                "{{price.vision.day}} ÷ 50"
+              ],
+              [
+                "100 km",
+                "1/100",
+                "{{price.wave.day}} ÷ 100",
+                "{{price.vision.day}} ÷ 100"
+              ]
+            ]
+          }
+        },
+        "Ao resultado de cada divisão some o combustível por km da secção anterior para obter o custo por km do dia. À data da tabela, o preço do dia é várias centenas de vezes o custo do combustível de um quilómetro: para o combustível pesar tanto como o aluguer, teria de percorrer centenas de quilómetros num só dia.",
+        {
+          "h3": "Semana e mês"
+        },
+        "Num aluguer de uma semana ou de um mês, o custo por dia de uso é o total dividido pelos dias em que realmente conduz, e não pelos dias do contrato: uma chuvada ou um passeio sem mota continuam a pagar-se. Numa Wave, a semana custa {{price.wave.week}} e o mês {{price.wave.month}}, e a semana custa o mesmo ou menos do que pagar ao dia a partir de {{price.wave.weekFrom}} dias. A comparação para cada modelo é esta:",
+        {
+          "component": "duration-compare"
+        },
+        "Os guias do [aluguer semanal](/precos/aluguer-semanal-de-mota/) e do [aluguer mensal](/precos/aluguer-mensal-de-mota/) explicam o que mais muda nesses períodos."
+      ]
+    },
+    {
+      "h2": "As outras opções, por quilómetro",
+      "body": [
+        "Nem todos os meios cobram por km, e os valores publicados são poucos. A tabela reúne o que as fontes consultadas permitem comparar, com data e limites:",
+        {
+          "table": {
+            "caption": "Custo por quilómetro das alternativas à mota alugada, com as limitações de cada valor",
+            "head": [
+              "Opção",
+              "Custo por km",
+              "Origem e limites"
+            ],
+            "rows": [
+              [
+                "Mota alugada, só combustível",
+                "Cerca de 430 a 515 VND por km",
+                "Consumos declarados × preço do litro de 17/9 e 8/10/2026 (cálculo). Não inclui o aluguer."
+              ],
+              [
+                "Mota alugada, aluguer",
+                "Preço do dia ÷ km do dia",
+                "Tabela da loja; ver a secção anterior."
+              ],
+              [
+                "Mota com condutor (GrabBike Tiếng Anh)",
+                "Cerca de 8,6 mil VND por km num trajeto de 2 km, 6,7 mil a 5 km, 6,1 mil a 10 km e 5,8 mil a 20 km",
+                "Tarifa-base de 18/6/2026: cerca de 17,2 mil VND pelos 2 primeiros km e 5,5 mil VND por km seguinte, IVA incluído (cálculo). É um serviço com condutores para clientes que falam inglês; não há tabela de 2026 do GrabBike normal nas fontes consultadas."
+              ],
+              [
+                "Táxi do aeroporto ao centro",
+                "Cerca de 7,6 mil VND por km, se o trajeto tiver os 33 km do autocarro 86",
+                "Valor de referência de cerca de 250 mil VND de uma página da companhia aérea nacional vietnamita (estimativa grosseira: o táxi pode fazer outro percurso). Não foram encontradas tarifas de táxi por km em 2026."
+              ],
+              [
+                "Autocarro 86 do aeroporto",
+                "Cerca de 0,9 a 1,4 mil VND por km",
+                "30 mil VND na inauguração da linha e 45 mil VND num guia, sobre 33 km (cálculo); as fontes divergem."
+              ],
+              [
+                "Autocarros subsidiados dentro do Anel Viário 1",
+                "Gratuitos até 30 de junho de 2027",
+                "Portal do Governo vietnamita; só as linhas subsidiadas, dentro do Anel 1. Confirme as condições na paragem."
+              ]
+            ]
+          }
+        },
+        "O metro cobra conforme as estações percorridas e os autocarros têm tarifas próprias. Sem as distâncias de cada trajeto verificadas, não há aqui um custo por km para eles.",
+        {
+          "h3": "Como se comporta a tarifa de uma aplicação"
+        },
+        "Na tarifa-base do GrabBike Tiếng Anh, cada viagem de 2 km ou mais custa cerca de 6,3 mil VND mais 5,5 mil VND por km (cálculo). Quatro viagens que somem 20 km custam, portanto, cerca de 4 × 6,3 mil + 20 × 5,5 mil. O custo por km baixa em viagens mais longas, mas nunca desce abaixo de 5,5 mil, enquanto na mota alugada o preço do dia continua a diluir-se com cada quilómetro."
+      ]
+    },
+    {
+      "h2": "Dois exemplos, com os dois lados da conta",
+      "body": [
+        "Os exemplos seguintes são ilustrativos: usam valores de terceiros com data e o preço da loja pela tabela. Não preveem o que vai pagar no seu dia.",
+        {
+          "h3": "Quatro viagens curtas, 20 km no dia"
+        },
+        "Pela aplicação, quatro viagens de 5 km custam na tarifa-base cerca de 135 mil VND no total (4 × 33,7 mil). Com a mota alugada, paga {{price.wave.day}} numa Wave mais cerca de 9 a 10 mil VND de combustível (20 km × 445 a 486 VND). Compare os dois totais: a mota só ganha quando o preço do dia mais o combustível ficar abaixo do total da aplicação.",
+        {
+          "h3": "Um dia de 60 km"
+        },
+        "Quatro viagens de 15 km somam, na mesma tarifa, cerca de 354 mil VND (4 × 88,6 mil). Com a mota, paga {{price.vision.day}} numa Vision mais cerca de 28 a 31 mil VND de combustível (60 km × 471 a 514 VND). Com mais km, a mota alugada ganha terreno: o preço do dia dilui-se e a aplicação continua a cobrar por quilómetro.",
+        "O ponto em que as duas contas se igualam sai da fórmula K ≈ (X − N × 6,3 mil) ÷ 5 mil (cálculo), em que K são os km do dia, N o número de viagens e X o preço do dia na tabela, ou o que a loja lhe confirmar. Estes valores usam a tarifa-base e o combustível a cerca de 500 VND por km; mudam com o preço do litro e com o que a aplicação mostrar na hora do pedido."
+      ]
+    },
+    {
+      "h2": "O que o custo por quilómetro não mostra",
+      "body": [
+        "Duas opções com o mesmo custo por km podem não valer o mesmo. Antes de decidir, veja o que a conta deixa de fora:",
+        {
+          "ul": [
+            "**Estacionamento e outros extras.** Pagam-se por vez, e não por km: some-os se pesarem no seu dia.",
+            "**Tempo e conforto.** Com chuva forte, noite ou bagagem, o táxi ou a mota com condutor pode ser a escolha mais sensata, mesmo a um custo por km mais alto.",
+            "**Dias em que a mota fica parada.** O guia das [sete situações em que é melhor não conduzir em Hanói](/rotas-e-mobilidade/quando-nao-conduzir/) ajuda a estimar quantos serão.",
+            "**Mota elétrica.** Não gasta gasolina, mas o custo da eletricidade e as condições de carregamento não estão verificados neste guia: pergunte à loja onde e como se carrega, e se tem custo.",
+            "**Caução.** Se existir no seu caso, não é um custo por km, mas pesa na decisão: pergunte o valor e as condições de devolução."
+          ]
+        },
+        "Para comparar orçamentos de forma mais ampla, o guia do [preço justo de aluguer](/precos/preco-justo-de-aluguer/) propõe um método em cinco passos, e a [página de preços](/precos/) reúne as tarifas de todos os modelos. Se escolher uma [Honda Vision](/tipos-de-motas/honda-vision-em-hanoi/), o guia desse modelo dá mais pormenores sobre consumo e arrumação. Quando tiver as datas, [contacte a loja](/contactos/) para confirmar o preço final."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "O combustível está incluído no preço do dia?",
+      "a": "A tabela de referência refere-se ao aluguer da mota, e o combustível combina-se à parte. Pergunte à loja com que nível recebe e devolve a mota e deixe-o por escrito, como explica o guia sobre combustível no aluguer."
+    },
+    {
+      "q": "Quanto gasta uma scooter em 100 km?",
+      "a": "Pelos consumos declarados pelos fabricantes, entre 1,65 e 1,82 litros por 100 km. Com o litro a 28,3 mil VND, valor do Ministério de 8 de outubro de 2026, são cerca de 47 a 51 mil VND em condições de teste. No trânsito real, o valor pode ser superior."
+    },
+    {
+      "q": "Alugar por semana baixa o custo por km?",
+      "a": "Baixa o custo por dia de uso, se conduzir quase todos os dias. Numa Wave, a semana custa o mesmo ou menos do que pagar ao dia a partir de {{price.wave.weekFrom}} dias. Divida o total pelos km de todos os dias do aluguer, incluindo os dias parados."
+    },
+    {
+      "q": "A tarifa da aplicação é sempre a mesma?",
+      "a": "Os valores deste guia são a tarifa-base de 18 de junho de 2026, com IVA incluído. Confirme o preço na aplicação antes de aceitar a viagem: pode ser diferente da tarifa-base, por isso use estes números como ordem de grandeza e não como preço do dia."
+    }
+  ],
+  "sources": [
+    "tabela-precos-proprietario",
+    {
+      "title": "Wave Alpha",
+      "publisher": "Honda Việt Nam",
+      "url": "https://www.honda.com.vn/xe-may/san-pham/wave-alpha-110",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "Sirius FI phiên bản phanh đĩa màu mới - Yamaha Motor Việt Nam",
+      "publisher": "Yamaha Motor Việt Nam",
+      "url": "https://yamaha-motor.com.vn/xe/sirius-fi-phien-ban-phanh-dia-mau-hoan-toan-moi-bsab/",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "Página do modelo Honda Vision no site oficial da Honda Vietname",
+      "publisher": "Honda Việt Nam",
+      "url": "https://www.honda.com.vn/xe-may/san-pham/vision",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "Informação sobre a gestão dos preços dos combustíveis em 8 de outubro de 2026 (em vietnamita)",
+      "publisher": "Bộ Công Thương (moit.gov.vn)",
+      "url": "https://moit.gov.vn/tin-tuc/thong-tin-dieu-hanh-gia-xang-dau-ngay-8-10-2026.html",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "vi"
+    },
+    {
+      "title": "Algumas informações sobre a gestão dos preços dos combustíveis em 17 de setembro (em vietnamita)",
+      "publisher": "Bộ Công Thương (moit.gov.vn)",
+      "url": "https://moit.gov.vn/tin-tuc/mot-so-thong-tin-ve-viec-dieu-hanh-gia-xang-dau-ngay-17-9.html",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "vi"
+    },
+    {
+      "title": "Algumas informações a reter sobre a gestão dos preços dos combustíveis em 1 de outubro (em vietnamita)",
+      "publisher": "Bộ Công Thương (moit.gov.vn)",
+      "url": "https://moit.gov.vn/tin-tuc/mot-so-thong-tin-dang-chu-y-ve-dieu-hanh-gia-xang-dau-ngay-1-10.html",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "vi"
+    },
+    {
+      "title": "Kỳ điều hành giá xăng dầu ngày 10/9/2026: Giá xăng dầu đồng loạt tăng, xăng E10RON95-III vượt 24.000 đồng/lít",
+      "publisher": "Tạp chí Công Thương",
+      "url": "https://tapchicongthuong.vn/ky-dieu-hanh-gia-xang-dau-ngay-10-9-2026--gia-xang-dau-dong-loat-tang--xang-e10ron95-iii-vuot-24-000-dong-lit-548847.htm",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Từ ngày 1/8, giá vé đường sắt đô thị Hà Nội tăng 30 - 40%",
+      "publisher": "Tạp chí Công Thương",
+      "url": "https://tapchicongthuong.vn/tu-ngay-1-8--gia-ve-duong-sat-do-thi-ha-noi-tang-30-40-142576.htm",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Tabela de informação sobre os serviços da aplicação Grab, atualizada a 8 de julho de 2026",
+      "publisher": "Grab Việt Nam",
+      "url": "https://www.grab.com/vn/en/blog/bang-thong-tin-cac-dich-vu-tren-ung-dung-grab/",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "en"
+    },
+    {
+      "title": "Página da companhia aérea nacional vietnamita sobre voos para Hanói, com referências de transporte do aeroporto (em vietnamita)",
+      "publisher": "Vietnam Airlines",
+      "url": "https://www.vietnamairlines.com/vi-vn/v%C3%A9-m%C3%A1y-bay-%C4%91%E1%BA%BFn-h%C3%A0-n%E1%BB%99i",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Khai trương tuyến xe buýt đến sân bay Nội Bài, giá vé 30.000 đồng",
+      "publisher": "Báo Đấu thầu",
+      "url": "https://baodauthau.vn/khai-truong-tuyen-xe-buyt-den-san-bay-noi-bai-gia-ve-30000-dong-post12927.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Lista de autocarros do aeroporto de Nội Bài, com a linha 86 (em vietnamita)",
+      "publisher": "MIA.vn (cẩm nang du lịch)",
+      "url": "https://mia.vn/cam-nang-du-lich/danh-sach-xe-buyt-san-bay-noi-bai-18948",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Ha Noi free bus travel within Ring Road 1 for one year",
+      "publisher": "Cổng Thông tin điện tử Chính phủ (chinhphu.vn)",
+      "url": "https://thanglong.chinhphu.vn/ha-noi-free-bus-travel-within-ring-road-1-for-one-year-110260702104500646.htm",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    }
+  ],
+  "legal_note": false,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "PUBLISHED",
+  "date_published": "2026-10-13",
+  "date_modified": "2026-10-13",
+  "editorial": {
+    "qa_score": 100,
+    "qa_warnings": [],
+    "words": 2007,
+    "publish_mode": "review",
+    "approved_at": "2026-10-13",
+    "revisions": []
+  }
+}

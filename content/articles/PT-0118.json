@@ -1,0 +1,295 @@
+{
+  "contract_version": 1,
+  "id": "PT-0118",
+  "slug": "mota-metro-ou-autocarro",
+  "title": "Mota, metro ou autocarro em Hanói: custo e tempo",
+  "description": "Mota, metro ou autocarro em Hanói: o que custa cada opção em 2026, os autocarros gratuitos no Anel Viário 1, onde chegam e o que entra na conta do tempo.",
+  "h1": "Metro, autocarro ou mota alugada em Hanói: o que custa cada trajeto e onde se ganha tempo",
+  "summary": "Em outubro de 2026, o metro de Hanói custa de cerca de 8,6 a 18,6 mil VND por viagem e as viagens nos autocarros subsidiados dentro do Anel Viário 1 são gratuitas até 30 de junho de 2027, enquanto a mota alugada cobra o dia. As fontes não trazem tempos de viagem: a mota tende a ganhar nos destinos fora das linhas.",
+  "key_points": [
+    "Metro, com as tarifas de 1 de agosto de 2025 e sem numerário: cerca de 8,6 a 18,6 mil VND por viagem na linha 2A e de 8,9 a 14,3 mil na linha 3.1; passe diário de 40 mil VND.",
+    "Autocarros: entre 1 de julho de 2026 e 30 de junho de 2027, as viagens nos autocarros subsidiados dentro do Anel Viário 1 são gratuitas; os autocarros turísticos ficam de fora.",
+    "Mota: paga-se o dia, de {{price.min.day}} a {{price.max.day}} na tabela de referência, mais combustível e estacionamento. Em troca, vai-se de porta a porta e sem horários.",
+    "Nenhuma das duas linhas de metro chega a Long Biên, onde fica a loja: o metro não é a forma de ir levantar a mota.",
+    "As fontes consultadas não trazem tempos de viagem verificados: compare cada trajeto no mapa do telemóvel, à hora a que o vai fazer."
+  ],
+  "intro": [
+    "Quem aluga uma mota em Hanói não tem de a usar todos os dias. A cidade tem duas linhas de metro e uma rede de autocarros, e em 2026 parte dessa rede é gratuita. A comparação com a mota alugada é, no fundo, a de pagar por trajeto, ou não pagar, contra pagar por dia.",
+    "Este guia põe os números lado a lado, com a data de cada fonte, e diz onde cada opção chega. Não detalha linhas, estações nem horários do metro: para isso, o operador é mais fiável do que qualquer resumo. Para os dias em que a mota deve ficar parada, veja [quando é melhor não conduzir em Hanói](/rotas-e-mobilidade/quando-nao-conduzir/)."
+  ],
+  "sections": [
+    {
+      "h2": "Quanto custa cada opção",
+      "body": [
+        "A tabela junta o que se paga em cada opção. Os valores do transporte público são de terceiros, com a data da fonte, e foram consultados a 13 de outubro de 2026. O da mota é o da tabela de referência da loja, verificada a {{pricing.verifiedAt}}.",
+        {
+          "table": {
+            "caption": "O que custa cada opção em Hanói, em VND",
+            "head": [
+              "Opção",
+              "Como se paga",
+              "Quanto",
+              "Cautelas"
+            ],
+            "rows": [
+              [
+                "Metro, linha 2A (Cát Linh – Hà Đông)",
+                "Por viagem, conforme as estações",
+                "8.595 a 18.625, sem numerário",
+                "Tarifas de 1 de agosto de 2025; em numerário é um pouco mais caro"
+              ],
+              [
+                "Metro, linha 3.1 (Nhổn – Cầu Giấy)",
+                "Por viagem, conforme as estações",
+                "8.935 a 14.290, sem numerário",
+                "Tarifas de 1 de agosto de 2025"
+              ],
+              [
+                "Passes do metro",
+                "Diário, semanal ou mensal",
+                "40.000, 160.000 e 280.000",
+                "Confirme na estação se valem nas duas linhas"
+              ],
+              [
+                "Autocarros subsidiados, dentro do Anel Viário 1",
+                "Gratuitos até 30 de junho de 2027",
+                "0",
+                "Só as linhas subsidiadas; os autocarros turísticos ficam de fora"
+              ],
+              [
+                "Autocarro subsidiado fora desse perímetro",
+                "Por viagem",
+                "Cerca de 9.000 na linha 17 (referência de um site turístico)",
+                "Sem tarifa oficial consultada; confirme no autocarro"
+              ],
+              [
+                "Mota alugada",
+                "Por dia",
+                "{{price.min.day}} a {{price.max.day}}",
+                "A que se somam combustível e estacionamento"
+              ]
+            ]
+          }
+        },
+        "O metro cobra por viagem, conforme o número de estações e a forma de pagamento. As tarifas são as de 1 de agosto de 2025, quando o bilhete simples subiu cerca de 30% e o passe mensal cerca de 40%. Nas notícias consultadas não aparece nenhuma alteração posterior, mas confirme o preço no cartaz da estação.",
+        "Nos autocarros, a gratuitidade vem de uma decisão da cidade. Segundo o portal do Governo, as viagens são gratuitas durante um ano dentro do Anel Viário 1, a partir de 1 de julho de 2026. A VietnamPlus acrescenta que, desde 6 de julho de 2026, se emitem cartões físicos com chip, sem custo, para quem tem direito à gratuitidade, e que os cartões antigos sem chip são aceites até 31 de dezembro de 2026. As notícias consultadas não explicam como um visitante estrangeiro prova esse direito: pergunte ao motorista ou ao alojamento.",
+        "Fora desse perímetro e nas linhas sem subsídio, paga-se por viagem. Um site turístico indica 9 mil VND na linha 17, uma das que servem o aeroporto de Nội Bài, mas não encontrámos tarifa oficial atualizada."
+      ]
+    },
+    {
+      "h2": "O que a mota cobra além do dia",
+      "body": [
+        "Na tabela de referência da loja, o dia custa entre {{price.min.day}} e {{price.max.day}} e a semana entre {{price.min.week}} e {{price.max.week}}. É só o aluguer: caução, entrega e extras confirmam-se com a loja, e o guia dos [custos para lá do preço de referência](/precos/custos-alem-do-preco/) lista o que perguntar. A [página de preços](/precos/) mostra o valor de cada modelo.",
+        "O combustível pesa pouco. Num dia de 50 km, com consumos anunciados de cerca de 2 litros aos 100 km nas scooters de 110 a 125 cm³, gasta-se cerca de um litro. Os comunicados do Ministério da Indústria e Comércio situam a gasolina em cerca de 25,9 mil VND por litro a 17 de setembro de 2026 e em 28,3 mil a 8 de outubro. Dá uma estimativa de 26 a 28 mil VND por dia de 50 km, sem contar com o tipo de gasolina, que os excertos consultados não esclarecem.",
+        "O estacionamento paga-se por vez, nos parques com funcionário: pergunte o preço antes de deixar a mota. Em troca, a mota leva-o de porta a porta e permite vários destinos no mesmo dia, sem horários. O aluguer, porém, paga-se também nos dias em que a mota fica parada."
+      ]
+    },
+    {
+      "h2": "Onde chega cada opção",
+      "body": [
+        {
+          "h3": "Metro"
+        },
+        "Em outubro de 2026 há duas linhas: a 2A, de Cát Linh a Yên Nghĩa, e a 3.1, o troço elevado da futura linha 3, de Nhổn a Cầu Giấy. Nenhuma chega a Long Biên, onde fica a loja, na margem leste do rio Vermelho. Para ir levantar a mota, o metro não ajuda. Serve sobretudo os dias em que o destino fica junto a uma das duas linhas.",
+        {
+          "h3": "Autocarros"
+        },
+        "A gratuitidade cobre as viagens dentro do Anel Viário 1 (Vành đai 1). Para ir à loja de autocarro, uma lista de 2018 indica que as linhas 03 (Giáp Bát – Gia Lâm) e 22A (terminal de Gia Lâm – Kim Mã) passavam pela rua Nguyễn Văn Cừ, onde fica a loja. Os percursos mudam: confirme a linha e a paragem no mapa antes de contar com elas, escrevendo a morada em vietnamita, {{address.vi}}. O guia da [visita à loja em Long Biên](/zonas-de-hanoi/aluguer-de-motas-em-long-bien/) ajuda a preparar a ida.",
+        {
+          "h3": "Mota"
+        },
+        "Não depende de linhas, mas de estacionamento e de trânsito. No centro, à data de 13 de outubro de 2026, a zona 1 de baixas emissões, que inclui o espaço pedonal do lago Hoàn Kiếm e as ruas do mercado noturno, fecha a motas e automóveis às sextas, sábados e domingos, das 19:00 às 24:00. O guia da [zona de baixas emissões](/tipos-de-motas/zona-de-baixas-emissoes-hanoi/) lista as ruas e o que está previsto."
+      ]
+    },
+    {
+      "h2": "Tempo: o que entra na conta, porta a porta",
+      "body": [
+        "As fontes consultadas não trazem tempos de viagem verificados para trajetos concretos, por isso este guia não dá minutos. Dá o que entra na conta, de porta a porta:",
+        {
+          "ul": [
+            "**Metro:** caminhada até à estação, espera, viagem e caminhada final. Desde 9 de fevereiro de 2026, o horário prevê um comboio a cada 6 minutos nas horas de ponta, das 6h30 às 9h00 e das 16h30 às 19h30; fora delas, não encontrámos a frequência atualizada. O comboio não depende do trânsito da rua.",
+            "**Autocarro:** além da caminhada, conta a espera. Um site turístico indica uma passagem a cada 10 a 15 minutos na linha 17, das 05:00 às 20:30, como referência. O autocarro de superfície também depende do trânsito da rua.",
+            "**Mota:** estacionar e caminhar até ao destino. Não há espera nem transbordo, mas o tempo de procurar um parque com funcionário e de atravessar o trânsito entra na conta."
+          ]
+        },
+        "Daqui saem regras gerais, que o mapa do telemóvel confirma para o seu trajeto. Perto de uma estação e do destino, ao longo da mesma linha, o metro evita o estacionamento e o trânsito. Entre dois sítios sem ligação direta, ou com transbordos, a mota tende a ganhar tempo, porque vai de porta a porta. E no centro histórico, onde as distâncias são curtas, estacionar uma vez e andar a pé compensa, como mostra o itinerário de [Hanói de mota num dia](/rotas-e-mobilidade/hanoi-de-mota-num-dia/).",
+        "Para decidir, compare no Google Maps o mesmo trajeto com «transportes públicos» e com «mota», à hora a que o vai fazer. O mapa dá uma estimativa que muda com a hora do dia."
+      ]
+    },
+    {
+      "h2": "Três tipos de dia, lado a lado",
+      "body": [
+        {
+          "table": {
+            "caption": "Transporte público e mota em três tipos de dia",
+            "head": [
+              "Dia-tipo",
+              "Transporte público",
+              "Mota alugada"
+            ],
+            "rows": [
+              [
+                "Dia no centro, dentro do Anel Viário 1",
+                "Autocarros subsidiados gratuitos nas linhas que servirem os sítios, e muito a pé",
+                "Um dia pago ({{price.min.day}} a {{price.max.day}}), mais estacionamento por vez"
+              ],
+              [
+                "Dia ao longo de uma linha de metro",
+                "Bilhetes de 8,6 a 18,6 mil por viagem na linha 2A, ou passe diário de 40 mil",
+                "Um dia pago, mais combustível e estacionamento"
+              ],
+              [
+                "Dia com vários destinos fora das linhas",
+                "Transbordos, esperas e caminhadas, sem tarifa fixa a citar",
+                "Um dia pago; cada destino é só mais uma paragem"
+              ]
+            ]
+          }
+        },
+        "A tabela não declara um vencedor, porque o resultado depende de onde fica o seu destino e de quantas vezes se desloca. Mostra apenas a forma de cada conta: no transporte público, paga-se por viagem, ou nada; na mota, paga-se o dia inteiro, use-a muito ou pouco."
+      ]
+    },
+    {
+      "h2": "Misturar a mota com o transporte público",
+      "body": [
+        "As opções não se excluem. Quem fica uma semana em Hanói pode alugar a mota para os dias fora da cidade ou com muitas paragens, e usar o autocarro gratuito ou o metro nos dias no centro. Para isso, alugue só os dias de que precisa: o guia do [aluguer por duração](/precos/aluguer-por-duracao/) mostra como a tarifa muda com o número de dias, e o de [devolver a mota mais cedo](/precos/devolver-a-mota-mais-cedo/) o que perguntar se mudar de plano.",
+        "Em casal, a conta tem uma diferença: uma mota partilhada paga uma tarifa, enquanto no metro cada pessoa paga a sua viagem. Com duas pessoas, o ponto de equilíbrio desloca-se a favor da mota; viajando sozinho, o transporte público ganha peso. O guia [uma mota ou duas para um casal](/precos/uma-mota-ou-duas-para-um-casal/) faz essa conta."
+      ]
+    },
+    {
+      "h2": "O que confirmar antes de decidir",
+      "body": [
+        {
+          "checklist": [
+            "**No autocarro:** a linha e o percurso no mapa, se a viagem fica mesmo dentro do Anel Viário 1 e se precisa de cartão ou de bilhete para viajar sem pagar.",
+            "**No metro:** a estação mais próxima do destino e o preço no cartaz da estação, porque as tarifas podem ter mudado depois de 1 de agosto de 2025.",
+            "**Na mota:** o total do aluguer para as suas datas e o preço do estacionamento no destino. Peça tudo por escrito pelos [contactos](/contactos/) da loja.",
+            "**No tempo:** o mesmo trajeto comparado no mapa, à hora a que o vai fazer, e não à hora a que está a planear."
+          ]
+        },
+        "Para comparar a proposta da loja com as de outras lojas, siga o método do guia sobre o [preço justo de aluguer](/precos/preco-justo-de-aluguer/)."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Os autocarros de Hanói são gratuitos para turistas?",
+      "a": "Entre 1 de julho de 2026 e 30 de junho de 2027, as viagens nos autocarros públicos subsidiados dentro do Anel Viário 1 são gratuitas, segundo o portal do Governo. As notícias consultadas falam de cartões para quem tem direito à gratuitidade e não dizem como se aplica aos visitantes: confirme com o motorista."
+    },
+    {
+      "q": "Qual é mais rápido em Hanói: a mota ou o metro?",
+      "a": "Depende do trajeto, e as fontes consultadas não trazem tempos de viagem. O metro não depende do trânsito da rua, mas só serve os destinos junto às suas duas linhas; a mota vai de porta a porta. Compare o seu trajeto no mapa do telemóvel, à hora a que o vai fazer."
+    },
+    {
+      "q": "Compensa alugar mota se vou usar sobretudo o transporte público?",
+      "a": "Se os seus trajetos seguem as linhas e ficam no centro, talvez precise de menos dias de mota. Alugue só os dias de que precisa e pergunte à loja o que acontece aos dias já pagos se devolver a mota mais cedo."
+    }
+  ],
+  "sources": [
+    "tabela-precos-proprietario",
+    {
+      "title": "Từ ngày 1/8, giá vé đường sắt đô thị Hà Nội tăng 30 - 40%",
+      "publisher": "Tạp chí Công Thương",
+      "url": "https://tapchicongthuong.vn/tu-ngay-1-8--gia-ve-duong-sat-do-thi-ha-noi-tang-30-40-142576.htm",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Giá vé đường sắt đô thị Hà Nội tăng tới 40%, giao thông công cộng không còn rẻ?",
+      "publisher": "VietnamFinance",
+      "url": "https://vietnamfinance.vn/gia-ve-duong-sat-do-thi-ha-noi-sap-tang-30-40-d129301.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Notícia sobre o aumento das viagens do metro de Hanói nas horas de ponta a partir de 9 de fevereiro (em vietnamita)",
+      "publisher": "Thương hiệu và Công luận",
+      "url": "https://thuonghieucongluan.com.vn/metro-ha-noi-tang-chuyen-gio-cao-diem-tu-9-2-giam-cho-doi-thuan-tien-hon-cho-nguoi-di-lam-a304247.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Ha Noi free bus travel within Ring Road 1 for one year",
+      "publisher": "Cổng Thông tin điện tử Chính phủ (chinhphu.vn)",
+      "url": "https://thanglong.chinhphu.vn/ha-noi-free-bus-travel-within-ring-road-1-for-one-year-110260702104500646.htm",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "title": "Hà Nội gia hạn sử dụng thẻ xe buýt miễn phí mẫu cũ đến hết năm 2026",
+      "publisher": "VietnamPlus",
+      "url": "https://www.vietnamplus.vn/ha-noi-gia-han-su-dung-the-xe-buyt-mien-phi-mau-cu-den-het-nam-2026-post1122106.vnp",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Resumo dos autocarros para o aeroporto de Nội Bài, com a linha 17 e a 68 (em vietnamita)",
+      "publisher": "VinWonders",
+      "url": "https://vinwonders.com/vi/bai-viet-du-lich/tong-hop-day-du-xe-bus-san-bay-noi-bai/",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Danh sách, lộ trình xe buýt Hà Nội 2018",
+      "publisher": "VietnamFinance",
+      "url": "https://vietnamfinance.vn/danh-sach-lo-trinh-xe-buyt-ha-noi-2018-d12527.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Informação sobre a gestão do preço dos combustíveis a 8 de outubro de 2026 (em vietnamita)",
+      "publisher": "Bộ Công Thương (moit.gov.vn)",
+      "url": "https://moit.gov.vn/tin-tuc/thong-tin-dieu-hanh-gia-xang-dau-ngay-8-10-2026.html",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "vi"
+    },
+    {
+      "title": "Informação sobre a gestão do preço dos combustíveis a 17 de setembro de 2026 (em vietnamita)",
+      "publisher": "Bộ Công Thương (moit.gov.vn)",
+      "url": "https://moit.gov.vn/tin-tuc/mot-so-thong-tin-ve-viec-dieu-hanh-gia-xang-dau-ngay-17-9.html",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "vi"
+    },
+    {
+      "title": "Notícia sobre o custo mensal de combustível das motas mais populares, com a gasolina a 27 mil VND por litro (em vietnamita)",
+      "publisher": "Báo Đại Đoàn Kết",
+      "url": "https://daidoanket.vn/xang-27-000-dong-lit-xe-may-pho-bien-ton-bao-nhieu-tien-moi-thang.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Ha Noi begins restricting fossil-fuel vehicles in low-emission zones",
+      "publisher": "Portal do Governo do Vietname (chinhphu.vn) — Hanoi Capital",
+      "url": "https://hanoicapital.chinhphu.vn/ha-noi-begins-restricting-fossil-fuel-vehicles-in-low-emission-zones-110260702082825273.htm",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    }
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "PUBLISHED",
+  "date_published": "2026-10-13",
+  "date_modified": "2026-10-13",
+  "editorial": {
+    "qa_score": 100,
+    "qa_warnings": [],
+    "words": 1961,
+    "publish_mode": "review",
+    "approved_at": "2026-10-13",
+    "revisions": []
+  }
+}

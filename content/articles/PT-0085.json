@@ -72,7 +72,7 @@
           ]
         },
         "Ou seja, mesmo nesses casos, uma mota nunca leva mais de dois passageiros. Numa família, a exceção permite, por exemplo, que um adulto conduza com outro adulto atrás e uma criança com menos de 12 anos. Poder fazê-lo não quer dizer que compense: com três pessoas, a mota fica mais pesada, demora mais a parar e equilibra-se pior nas manobras lentas.",
-        "O capacete é obrigatório para quem conduz e para quem vai atrás, e tem de ir bem apertado. Segundo o Decreto 168/2024/NĐ-CP, em vigor desde 1 de janeiro de 2025, quem não o usa arrisca uma coima de 400 mil a 600 mil VND. A lei de trânsito também proíbe quem conduz de usar o telemóvel ou um guarda-chuva e de largar o guiador, o que conta ainda mais quando leva uma criança atrás.",
+        "O capacete é obrigatório para quem conduz e para quem vai atrás, e tem de ir bem apertado. Segundo o Decreto 168/2024/NĐ-CP, em vigor desde 1 de janeiro de 2025, quem não o usa arrisca uma coima de 400 mil a 600 mil VND. Esse valor é o nacional: desde 1 de julho de 2026, Hanói multiplica por 1,5 ou 2 as coimas de 28 infrações de ordem pública e de trânsito. Confirme o montante em vigor. A lei de trânsito também proíbe quem conduz de usar o telemóvel ou um guarda-chuva e de largar o guiador, o que conta ainda mais quando leva uma criança atrás.",
         {
           "note": "As fontes consultadas para este guia tratam do número de passageiros e do uso obrigatório de capacete, mas não de outras condições próprias para crianças. Se viaja com crianças pequenas, informe-se antes de partir e, na dúvida, prefira o táxi para elas.",
           "tone": "info",
@@ -229,7 +229,8 @@
       "type": "official",
       "lang": "en"
     },
-    "tabela-precos-proprietario"
+    "tabela-precos-proprietario",
+    "hanoi-resolucao-56-2026"
   ],
   "legal_note": true,
   "writer": {
@@ -242,13 +243,17 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 2165,
+    "words": 2198,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
     "revisions": [
       {
         "date": "2026-10-13",
         "reason": "Ligações internas para artigos publicados depois"
+      },
+      {
+        "date": "2026-10-13",
+        "reason": "Coimas em Hanói: aviso sobre a Resolução 56/2026/NQ-HĐND"
       }
     ]
   }

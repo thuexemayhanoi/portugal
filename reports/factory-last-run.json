@@ -2,43 +2,23 @@
   "command": "approve",
   "run_on": "2026-10-13",
   "status": "ACTIVE",
-  "published_total": 85,
+  "published_total": 237,
   "in_review": [],
   "processed": [
     {
-      "id": "PT-0001",
-      "result": "UPDATE",
-      "warnings": [
-        "source code M: Especificações do fabricante (Honda Vietnam, Yamaha Motor Vietnam) para dados técnicos dos modelos."
-      ]
-    },
-    {
-      "id": "PT-0002",
-      "result": "UPDATE",
+      "id": "PT-0299",
+      "result": "PUBLISH",
       "warnings": []
     },
     {
-      "id": "PT-0007",
-      "result": "UPDATE",
-      "warnings": []
-    },
-    {
-      "id": "PT-0100",
-      "result": "UPDATE",
-      "warnings": []
-    },
-    {
-      "id": "PT-0286",
-      "result": "UPDATE",
+      "id": "PT-0300",
+      "result": "PUBLISH",
       "warnings": []
     }
   ],
   "published": [
-    "PT-0001",
-    "PT-0002",
-    "PT-0007",
-    "PT-0100",
-    "PT-0286"
+    "PT-0299",
+    "PT-0300"
   ],
   "failed": []
 }

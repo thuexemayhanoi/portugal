@@ -1,0 +1,315 @@
+{
+  "contract_version": 1,
+  "id": "PT-0160",
+  "slug": "conduzir-de-mota-a-noite",
+  "title": "Conduzir de mota à noite em Hanói: visibilidade e cuidados",
+  "description": "A que horas escurece em Hanói, como ser visto, que luzes testar, cansaço, álcool e velocidade, e quando é melhor deixar a mota e ir de táxi.",
+  "h1": "Conduzir à noite em Hanói: ser visto, gerir o cansaço e saber quando deixar a mota",
+  "summary": "À noite, em Hanói, o essencial é ser visto, ver bem e conduzir descansado e sem álcool. O sol põe-se por volta das 17:20 em dezembro e das 18:40 em junho, e as fontes consultadas não trazem regras vietnamitas específicas para a noite: as recomendações de visibilidade, cansaço e distância vêm de manuais estrangeiros, apresentadas como boa prática.",
+  "key_points": [
+    "O sol põe-se entre as 17:17 e as 17:19 em dezembro e entre as 18:39 e as 18:40 em junho; com a loja aberta {{hours}}, há sempre escuro dentro do horário.",
+    "Ser visto: o Highway Code do Reino Unido recomenda roupa ou faixas refletoras no escuro e admite capacete claro ou de cor viva. É boa prática estrangeira, não obrigação vietnamita.",
+    "Cansaço: a mesma fonte aconselha a evitar viagens longas entre a meia-noite e as 6:00 e a fazer uma pausa de 15 minutos por cada duas horas de condução.",
+    "Distância: pelo menos dois segundos para o veículo da frente em vias com trânsito mais rápido, e o dobro com piso molhado; nenhuma destas regras fixa um valor para a noite.",
+    "Álcool: no Vietname, quem conduz uma mota não pode ter qualquer concentração de álcool. Se vai beber, deixe a mota guardada."
+  ],
+  "intro": [
+    "Quem aluga uma mota em Hanói acaba quase sempre por conduzir depois de escurecer: no regresso de um jantar, de um passeio ou de um mercado. A noite muda o que se vê e o que os outros veem de si, e soma-se ao cansaço de um dia cheio. Este guia reúne o que ajuda a conduzir com mais margem e a decidir quando é melhor deixar a mota parada.",
+    "Uma nota de método: as fontes consultadas não incluem orientação oficial vietnamita específica sobre a condução noturna, como o uso das luzes ou a velocidade adequada ao escuro. Por isso, a técnica apoia-se em manuais de segurança de outros países, sobretudo o Highway Code do Reino Unido, escrito para circulação pela esquerda, e apresenta-se como boa prática estrangeira, nunca como regra do Vietname."
+  ],
+  "sections": [
+    {
+      "h2": "A que horas escurece e o que isso muda no aluguer",
+      "body": [
+        "O pôr do sol marca o início do escuro, e em Hanói chega cedo no inverno. A tabela reúne as horas aproximadas de duas páginas de referência (a Alpenglow, que usa o dia 15 de cada mês de 2026, e a Geo Countries):",
+        {
+          "table": {
+            "caption": "Pôr do sol aproximado em Hanói, em 2026",
+            "head": [
+              "Mês",
+              "Pôr do sol"
+            ],
+            "rows": [
+              [
+                "Dezembro",
+                "entre as 17:17 e as 17:19"
+              ],
+              [
+                "Janeiro",
+                "entre as 17:35 e as 17:37"
+              ],
+              [
+                "Junho",
+                "entre as 18:39 e as 18:40"
+              ]
+            ]
+          }
+        },
+        "Com a loja aberta {{hours}}, parte do horário é sempre de noite: em dezembro passam mais de três horas e meia entre o pôr do sol e as {{closes}}, e em junho mais de duas (conta feita a partir da tabela). Quem deixa o regresso para o último momento faz o último troço às escuras.",
+        "Se não se sente à vontade de noite, planeie o último percurso para o fim da tarde e devolva a mota com folga: o guia das [horas de levantamento e devolução](/precos/horas-de-levantamento-e-devolucao/) explica como se conta o dia. Uma entrega ao fim do dia obriga, aliás, a fazer o primeiro percurso às escuras, como se vê em [receber a mota alugada](/guia-de-aluguer/receber-a-mota/)."
+      ]
+    },
+    {
+      "h2": "Ser visto: o que o Highway Code recomenda",
+      "body": [
+        "O Highway Code, o código da estrada do Reino Unido, tem duas regras úteis para quem conduz à noite. A regra 86 pede que o motociclista seja o mais visível possível de frente, de lado e de trás, e admite capacete claro ou de cor viva e roupa ou faixas fluorescentes. A regra 87 acrescenta que, no escuro, a roupa ou as faixas refletoras refletem a luz dos faróis dos outros veículos e tornam o motociclista visível a grande distância.",
+        "A regra 86 pede também que se conte com a possibilidade de os outros condutores não o terem visto ou terem calculado mal a sua distância ou velocidade, sobretudo nos cruzamentos. É razoável supor que isso pesa mais depois de escurecer (leitura do site, não da regra): em cada cruzamento, abrande antes de entrar.",
+        {
+          "h3": "Como pôr isto em prática com uma mota alugada"
+        },
+        {
+          "ul": [
+            "**Roupa refletora**: pergunte à loja se tem um colete ou faixas refletoras para emprestar; se não tiver, pode ser boa ideia trazer uma faixa leve de casa.",
+            "**Capacete**: se houver escolha, prefira o de cor clara ou viva, bem apertado, com a viseira (se existir) limpa e sem riscos. O guia dos [capacetes no aluguer](/precos/capacetes-no-aluguer/) ajuda a acertar o tamanho.",
+            "**Posição na via**: a regra 88 pede que se posicione onde os outros condutores o possam ver nos espelhos. Atrás de autocarros e camiões, ficar um pouco mais atrás aumenta o que vê à frente e deixa o condutor vê-lo nos espelhos (regra 164)."
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "Ver: testar as luzes antes de precisar delas",
+      "body": [
+        "Teste as luzes ainda de dia, à porta da loja, com a mota parada e a ignição ligada, e peça que lhe mostrem cada comando:",
+        {
+          "ul": [
+            "o farol da frente e, se a mota os tiver, a passagem dos médios para os máximos, cujo interruptor muda de sítio entre modelos;",
+            "o farolim traseiro e a luz de travão, apertando cada manete enquanto alguém olha para trás;",
+            "os piscas, dos dois lados, e o painel, que tem de se ler à noite."
+          ]
+        },
+        "Se alguma luz falhar, peça a correção ou outra mota antes de sair. Se falhar a meio do aluguer, pare num sítio seguro e avise a loja; o guia da [assistência na estrada](/guia-de-aluguer/assistencia-na-estrada/) descreve os primeiros passos, incluindo o que muda à noite.",
+        "Sempre que possível, faça de dia o caminho que vai repetir de noite e defina a rota antes de arrancar: a lei proíbe usar o telemóvel enquanto se conduz, e o [guia do telemóvel e do GPS na scooter](/tipos-de-motas/telemovel-e-gps-na-scooter/) explica como preparar o percurso sem depender do ecrã."
+      ]
+    },
+    {
+      "h2": "Velocidade e distância: parar dentro do que consegue ver",
+      "body": [
+        "O manual da OMS sobre os veículos de duas e três rodas a motor destaca, entre os principais fatores de risco, a falta de capacete, a velocidade, o álcool e o trânsito misto. Três dependem de quem está ao guiador: capacete, velocidade e álcool.",
+        "As fontes consultadas não fixam uma velocidade para a noite. O critério que fica, e que é do site e não de uma fonte, é conduzir a uma velocidade que permita parar dentro do espaço que a luz da mota e da rua deixa ver.",
+        "Para a distância ao veículo da frente, o Highway Code dá três referências:",
+        {
+          "ul": [
+            "a regra 126 pede que nunca se fique mais perto do que a distância total de paragem e que se deixem pelo menos dois segundos em vias com trânsito mais rápido e em túneis com pouca visibilidade;",
+            "com piso molhado, o intervalo deve ser pelo menos o dobro; a regra 227 (versão da Irlanda do Norte) diz que, com chuva, as distâncias de paragem são pelo menos o dobro das de piso seco;",
+            "entre filas de trânsito lento, a regra 88 pede cuidado e velocidade baixa."
+          ]
+        },
+        "Nenhuma trata da noite como tal. Combinadas, dão uma leitura prudente: os dois segundos são um mínimo, e quando escurece e chove convém contar com o dobro. Se a folga não existir no trânsito denso, abrande e deixe passar quem tem pressa."
+      ]
+    },
+    {
+      "h2": "Cansaço: a janela da meia-noite às seis da manhã",
+      "body": [
+        "A regra 91 do Highway Code recomenda uma pausa de pelo menos 15 minutos por cada duas horas de condução e aconselha a evitar viagens longas entre a meia-noite e as 6:00, quando o estado de alerta natural está no mínimo. Com sono, aconselha a parar num local seguro; a versão da Irlanda do Norte sugere uma sesta curta e cafeína. É uma recomendação, não uma obrigação nem uma lei vietnamita.",
+        "Num aluguer de poucos dias, o cansaço vem também do voo e de um trânsito que pede atenção constante. O guia sobre [quando é melhor não conduzir em Hanói](/rotas-e-mobilidade/quando-nao-conduzir/) trata-o como uma das sete situações em que a mota deve ficar parada. Se o regresso cai tarde, escolha o percurso mais curto e conhecido e, se o sono já o vence, vá de táxi."
+      ]
+    },
+    {
+      "h2": "Álcool: à noite, a regra continua a ser zero",
+      "body": [
+        "No Vietname, quem conduz uma mota não pode ter qualquer concentração de álcool no sangue ou no ar expirado: a proibição consta da Lei n.º 36/2024/QH15, em vigor desde 1 de janeiro de 2025. A lei não tolera margem, e a OMS aponta o álcool como um dos principais fatores de risco para quem anda de mota.",
+        "Se a noite inclui um jantar com bebida, deixe a mota guardada e regresse de táxi. O guia sobre o [álcool zero ao volante](/guia-de-aluguer/alcool-zero-ao-volante/) explica a regra e como organizar uma saída à noite."
+      ]
+    },
+    {
+      "h2": "Ruas desertas e sacos pendurados",
+      "body": [
+        "Segundo um artigo antigo do VnExpress que reproduz conselhos da polícia, convém evitar as ruas desertas, sobretudo quando se anda sozinho e tarde da noite, e não pendurar sacos na mota nem levá-los ao ombro: o melhor é guardá-los no compartimento da mota. A imprensa vietnamita refere também que a polícia de Hanói reforça as patrulhas nos locais com roubos frequentes, pouco movimentados ou mal iluminados.",
+        "Um critério prático para o regresso, que é do site e não da polícia: prefira ruas com movimento e iluminação, mesmo que o caminho seja um pouco mais longo."
+      ]
+    },
+    {
+      "h2": "À noite no centro: buzina e ruas fechadas",
+      "body": [
+        "Duas regras mudam com a hora. Entre as 22:00 e as 05:00, a buzina é proibida em zonas densamente povoadas e junto a unidades de saúde; a [buzina no Vietname](/guia-de-aluguer/a-buzina-no-vietname/) explica como se fazer notar sem ela. E há ruas onde as motas não entram ao fim de semana à noite: o guia de [conduzir no Bairro Antigo](/zonas-de-hanoi/conduzir-no-bairro-antigo/) reúne os horários conhecidos à data de 13 de outubro de 2026."
+      ]
+    },
+    {
+      "h2": "Quando é melhor deixar a mota e ir de táxi",
+      "body": [
+        "Há noites em que a decisão mais segura é não conduzir. Deixe a mota parada quando:",
+        {
+          "ul": [
+            "já bebeu, ou vai beber, qualquer quantidade de álcool;",
+            "está cansado, depois de um voo ou de um dia longo, ou já perto da meia-noite;",
+            "chove e já escureceu: o piso molhado pelo menos duplica a distância de paragem, e vê-se menos;",
+            "o percurso é desconhecido e não o fez de dia;",
+            "o regresso é por ruas desertas, sozinho e tarde."
+          ]
+        },
+        "O guia [quando é melhor não conduzir em Hanói](/rotas-e-mobilidade/quando-nao-conduzir/) compara o táxi, a mota com condutor, o autocarro e ir a pé. Se deixar a mota para regressar de táxi, estacione-a num sítio vigiado e fotografe-a; veja a [mota danificada no estacionamento](/guia-de-aluguer/mota-danificada-estacionada/)."
+      ]
+    },
+    {
+      "h2": "Lista rápida antes de sair à noite",
+      "body": [
+        {
+          "checklist": [
+            "Luzes testadas: farol, farolim, luz de travão e piscas.",
+            "Capacete bem apertado, viseira limpa e, se tiver, roupa ou faixas refletoras.",
+            "Zero álcool, sem exceções.",
+            "Descansado: com sono, pare num local seguro ou vá de táxi.",
+            "Percurso preparado, de preferência já feito de dia, e combustível para o regresso.",
+            "Carta e documentos da mota consigo, como no guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/).",
+            "Contacto da loja guardado: {{phone}}. A loja atende {{hours}}."
+          ]
+        },
+        "As regras gerais estão no [guia de aluguer](/guia-de-aluguer/); as dúvidas sobre a mota, nos [contactos](/contactos/) da loja."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "É mais perigoso conduzir mota à noite em Hanói do que de dia?",
+      "a": "As fontes consultadas não trazem números que comparem a noite com o dia no Vietname, por isso não há uma resposta com dados. A OMS destaca a velocidade e o álcool entre os principais fatores de risco, e é razoável supor que o escuro reduz o que se vê. Daí o conselho de abrandar e de ser visto."
+    },
+    {
+      "q": "Tenho de usar colete refletor em Hanói?",
+      "a": "As fontes consultadas não referem nenhuma obrigação vietnamita de colete refletor numa mota. O Highway Code do Reino Unido recomenda roupa ou faixas refletoras no escuro: é boa prática estrangeira, não regra do Vietname. Pergunte à loja se tem alguma peça."
+    },
+    {
+      "q": "Posso devolver a mota depois de escurecer?",
+      "a": "Pode, dentro do horário da loja, {{hours}}. Levantar ou devolver fora desse horário depende sempre de acordo prévio com a loja: combine-o por mensagem e guarde a resposta."
+    }
+  ],
+  "sources": [
+    "lawnet-proibicoes-2024",
+    "tuoitre-alcool-zero",
+    {
+      "title": "Rules for motorcyclists (83 to 88)",
+      "publisher": "nidirect (Governo da Irlanda do Norte)",
+      "url": "https://nidirect.gov.uk/articles/rules-motorcyclists-83-88",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "title": "Rules for drivers and motorcyclists (89 to 102)",
+      "publisher": "GOV.UK — The Highway Code",
+      "url": "https://www.gov.uk/highway-code/rules-for-drivers-and-motorcyclists-89-to-102",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "title": "Rules for drivers and motorcyclists (89 to 102)",
+      "publisher": "nidirect (Governo da Irlanda do Norte)",
+      "url": "https://www.nidirect.gov.uk/articles/rules-drivers-and-motorcyclists-89-102",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "title": "The Official Highway Code — Rule 126",
+      "publisher": "theorytest.org.uk (reprodução do texto oficial)",
+      "url": "https://theorytest.org.uk/hwc/highway-code/rule-126.html",
+      "accessed": "2026-10-13",
+      "type": "reference",
+      "lang": "en"
+    },
+    {
+      "title": "Driving in adverse weather conditions (226 to 237)",
+      "publisher": "nidirect (Governo da Irlanda do Norte)",
+      "url": "https://nidirect.gov.uk/node/5167",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "title": "Using the road (159 to 203)",
+      "publisher": "GOV.UK — The Highway Code",
+      "url": "https://www.gov.uk/using-the-road-159-to-203",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "title": "Powered two-and three-wheeler safety: a road safety manual for decision-makers and practitioners",
+      "publisher": "GOV.UK (Research for Development Outputs)",
+      "url": "https://www.gov.uk/research-for-development-outputs/powered-two-and-three-wheeler-safety-a-road-safety-manual-for-decision-makers-and-practitioners",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "title": "Powered two-and three-wheeler safety: a road safety manual for decision-makers and practitioners, 2nd ed",
+      "publisher": "World Health Organization",
+      "url": "https://www.who.int/publications/i/item/9789240060562",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "title": "Hanoi sunrise, sunset and daylight times — Alpenglow",
+      "publisher": "Alpenglow",
+      "url": "https://www.alpenglowapp.com/times/hanoi",
+      "accessed": "2026-10-13",
+      "type": "reference",
+      "lang": "en"
+    },
+    {
+      "title": "Sunrise and sunset times in Vietnam — Geo Countries",
+      "publisher": "Geo Countries",
+      "url": "https://www.geocountries.com/sunrise-sunset/vietnam",
+      "accessed": "2026-10-13",
+      "type": "reference",
+      "lang": "en"
+    },
+    {
+      "title": "Những chiêu cướp nhằm vào phái đẹp",
+      "publisher": "VnExpress",
+      "url": "https://vnexpress.net/nhung-chieu-cuop-nham-vao-phai-dep-2172385.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Công an Hà Nội cảnh báo phòng ngừa tội phạm cướp tài sản",
+      "publisher": "Luật sư Việt Nam (lsvn.vn)",
+      "url": "https://lsvn.vn/cong-an-ha-noi-canh-bao-phong-ngua-toi-pham-cuop-tai-san-1693609743.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Quyết liệt đấu tranh với các loại tội phạm cướp, cướp giật, trộm cắp tài sản",
+      "publisher": "Báo Văn hóa",
+      "url": "https://baovanhoa.vn/phap-luat/quyet-liet-dau-tranh-voi-cac-loai-toi-pham-cuop-cuop-giat-trom-cap-tai-san-77174.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "What time is it prohibited to use honk in Vietnam from January 1, 2025?",
+      "publisher": "LawNet",
+      "url": "https://lawnet.vn/chinh-sach-thue/en/what-time-is-it-prohibited-to-use-honk-in-vietnam-from-january-1-2025-20284.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "en"
+    },
+    {
+      "title": "Ha Noi begins restricting fossil-fuel vehicles in low-emission zones",
+      "publisher": "Portal do Governo do Vietname (chinhphu.vn) — Hanoi Capital",
+      "url": "https://hanoicapital.chinhphu.vn/ha-noi-begins-restricting-fossil-fuel-vehicles-in-low-emission-zones-110260702082825273.htm",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    }
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "PUBLISHED",
+  "date_published": "2026-10-13",
+  "date_modified": "2026-10-13",
+  "editorial": {
+    "qa_score": 100,
+    "qa_warnings": [],
+    "words": 1991,
+    "publish_mode": "review",
+    "approved_at": "2026-10-13",
+    "revisions": []
+  }
+}

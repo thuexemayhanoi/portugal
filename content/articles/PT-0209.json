@@ -249,7 +249,7 @@
       "h2": "Acidentes e feridos: a primeira chamada não é a loja",
       "body": [
         "Se houver feridos, a mota passa para segundo plano. Peça ajuda médica e ponha o local em segurança antes de tudo o resto; só depois contacte a loja.",
-        "Este site não publica uma lista de números de emergência do Vietname. Antes de viajar, anote-os a partir de uma fonte oficial e guarde-os no telemóvel, ao lado do contacto da loja. Se tiver seguro de viagem, junte o número de assistência da apólice e confirme se cobre a condução de mota.",
+        "No Vietname, os números nacionais de emergência são o 113 (polícia), o 114 (bombeiros) e o 115 (emergência médica), segundo bases de dados jurídicas vietnamitas consultadas a 13 de outubro de 2026; o 112 serve para pedidos de busca e salvamento. As chamadas são gratuitas. Guarde-os no telemóvel antes de viajar, ao lado do contacto da loja. Se tiver seguro de viagem, junte o número de assistência da apólice e confirme se cobre a condução de mota.",
         "Se a polícia estiver presente, mostre os documentos que lhe pedirem; o guia sobre o [controlo da polícia](/guia-de-aluguer/controlo-da-policia/) explica como agir. O que o seguro obrigatório da mota cobre, e o que deixa de fora, está no guia sobre o [seguro obrigatório de mota](/guia-de-aluguer/seguro-obrigatorio-de-mota/)."
       ]
     },
@@ -270,7 +270,7 @@
             "a morada da loja em vietnamita, {{address.vi}};",
             "o modelo e a matrícula da mota, com uma fotografia;",
             "a captura de ecrã do que combinou sobre avarias e reparações;",
-            "os números de emergência, confirmados numa fonte oficial, e o do seu seguro de viagem, se tiver;",
+            "os números de emergência (113 polícia, 114 bombeiros, 115 emergência médica) e o do seu seguro de viagem, se tiver;",
             "a morada do alojamento, também em vietnamita."
           ]
         },
@@ -292,7 +292,24 @@
       "a": "É a ajuda mais rápida para problemas simples, como um furo ou uma lâmpada. Para uma avaria maior, ou se a proposta for trocar peças, envie fotografias à loja e espere pela resposta antes de aceitar. Peça sempre o preço antes de o trabalho começar."
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "Gọi đến các đầu số khẩn cấp như 113, 114, 115... thì có được miễn phí cước điện thoại hay không?",
+      "publisher": "Thư Viện Pháp Luật",
+      "url": "https://thuvienphapluat.vn/phap-luat/goi-den-cac-dau-so-khan-cap-nhu-113-114-115-thi-co-duoc-mien-phi-cuoc-dien-thoai-hay-khong-23081.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "Gọi đến đầu số 113, 114, 115 có được miễn phí cước điện thoại không?",
+      "publisher": "Luật Minh Khuê",
+      "url": "https://luatminhkhue.vn/goi-den-dau-so-113-114-115-co-duoc-mien-phi-cuoc-dien-thoai-khong.aspx",
+      "accessed": "2026-10-13",
+      "type": "reference",
+      "lang": "vi"
+    }
+  ],
   "legal_note": false,
   "writer": {
     "type": "claude",
@@ -304,9 +321,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 2148,
+    "words": 2176,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Indicar os números nacionais de emergência (113, 114, 115 e 112), já confirmados por fontes jurídicas, em vez de remeter o leitor para outra fonte."
+      }
+    ]
   }
 }

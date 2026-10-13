@@ -117,7 +117,7 @@
         {
           "h3": "5. «Numa 50 cc o capacete é dispensável»"
         },
-        "**Veredicto: falso.** O capacete é obrigatório para quem conduz e para o passageiro, também numa 50 cc. O Decreto 168/2024/NĐ-CP, em vigor desde 1 de janeiro de 2025, fixa em 400 mil a 600 mil VND a coima por não o usar, e a obrigação abrange até as bicicletas elétricas.",
+        "**Veredicto: falso.** O capacete é obrigatório para quem conduz e para o passageiro, também numa 50 cc. O Decreto 168/2024/NĐ-CP, em vigor desde 1 de janeiro de 2025, fixa em 400 mil a 600 mil VND a coima por não o usar, e a obrigação abrange até as bicicletas elétricas. Em Hanói, porém, esse montante pode ser mais alto: desde 1 de julho de 2026, a cidade cobra 1,5 ou 2 vezes o valor nacional em 28 infrações de ordem pública e de trânsito. As fontes consultadas não dizem quais, por isso confirme o montante em vigor.",
         "Mais do que a coima, conta a proteção. Andar devagar não torna uma queda inofensiva, sobretudo no meio de trânsito denso. Escolha um capacete do seu tamanho e aperte sempre a fivela, mesmo para três quarteirões.",
         {
           "h3": "6. «Uma cerveja não faz mal numa 50 cc»"
@@ -197,7 +197,8 @@
     "tuoitre-alcool-zero",
     "dtinews-autoestrada-2026",
     "lawnet-passageiros-2025",
-    "tabela-precos-proprietario"
+    "tabela-precos-proprietario",
+    "hanoi-resolucao-56-2026"
   ],
   "legal_note": true,
   "writer": {
@@ -210,9 +211,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1747,
+    "words": 1794,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Coimas em Hanói: aviso sobre a Resolução 56/2026/NQ-HĐND"
+      }
+    ]
   }
 }

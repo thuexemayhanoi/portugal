@@ -1,0 +1,296 @@
+{
+  "contract_version": 1,
+  "id": "PT-0277",
+  "slug": "inverno-em-hanoi",
+  "title": "Inverno em Hanói de mota: quanto frio faz e que roupa levar",
+  "description": "De novembro a março, Hanói tem médias perto dos 17–18 °C e vagas de frio com mínimas abaixo dos 10 °C. O que esperar na mota e como vestir camadas.",
+  "h1": "Andar de mota no inverno de Hanói: temperaturas, vagas de frio e roupa por camadas",
+  "summary": "O inverno em Hanói vai de novembro a março. Janeiro é o mês mais frio, com médias à volta dos 17 °C, e nas vagas de frio as mínimas podem descer abaixo dos 10 °C. Em cima da mota sente-se mais frio do que a previsão indica: vista-se por camadas, com corta-vento, luvas e proteção para o pescoço, sobretudo de manhã cedo e à noite.",
+  "key_points": [
+    "O inverno vai de novembro a março, com pouca chuva; janeiro é o mês mais frio, com uma média de cerca de 17 °C.",
+    "As vagas de frio, a que a imprensa vietnamita chama «rét đậm» e «rét hại», duram em regra três a cinco dias, e as mínimas podem descer abaixo dos 10 °C.",
+    "A temperatura oficial mede-se num abrigo a cerca de 2 m do solo: na rua pode estar 2 a 3 °C mais baixa, e na mota o vento acentua o frio.",
+    "Vista-se por camadas — base, camada intermédia e corta-vento —, com luvas, proteção para o pescoço e o capacete sempre apertado.",
+    "No fim do inverno, o nồm deixa pavimentos e superfícies molhados; na montanha, conte com mais frio e com nevoeiro ao início da manhã e ao fim do dia."
+  ],
+  "intro": [
+    "Hanói tem fama de cidade quente, mas entre novembro e março o tempo muda. Os dias podem ser amenos e agradáveis, as manhãs e as noites pedem casaco e, de vez em quando, chega uma vaga de frio que faz descer as mínimas abaixo dos 10 °C. Em cima de uma mota, sem paredes à volta, é aí que se sente a diferença.",
+    "Este guia explica que temperaturas esperar no inverno, como ler os avisos de frio da imprensa vietnamita, porque se sente mais frio em andamento e como se vestir para conduzir com conforto. Fala também do nồm, a humidade do fim do inverno, e do frio na montanha, para quem pensa sair da cidade. Outros temas de clima e de deslocação estão reunidos em [Rotas e mobilidade](/rotas-e-mobilidade/)."
+  ],
+  "sections": [
+    {
+      "h2": "Que temperaturas esperar entre novembro e março",
+      "body": [
+        "Os guias de clima de Hanói situam o inverno entre novembro e março, com uma temperatura média à volta dos 18,6 °C e pouca chuva. Janeiro é, em regra, o mês mais frio, com uma média de cerca de 17,2 °C. São números de guias turísticos e comerciais, e não séries oficiais do serviço meteorológico, mas as fontes concordam no essencial.",
+        {
+          "table": {
+            "caption": "O inverno de Hanói em números",
+            "head": [
+              "Indicador",
+              "Valor",
+              "Fonte"
+            ],
+            "rows": [
+              [
+                "Época do inverno",
+                "Novembro a março, com pouca chuva",
+                "Guias de clima (VinWonders, Mytour)"
+              ],
+              [
+                "Temperatura média do inverno",
+                "Cerca de 18,6 °C",
+                "Guias de clima (VinWonders, Mytour)"
+              ],
+              [
+                "Mês mais frio",
+                "Janeiro, com média de cerca de 17,2 °C",
+                "Guias de clima (VinWonders, Mytour)"
+              ],
+              [
+                "Janeiro: mínimas e máximas médias",
+                "Cerca de 14 °C e 20 °C",
+                "WeatherSpark"
+              ],
+              [
+                "De finais de dezembro a março",
+                "Mínimas que podem rondar os 10 °C",
+                "Portal oficial de turismo do Vietname"
+              ],
+              [
+                "Numa vaga de frio forte",
+                "12 °C no centro (Láng); 7 a 9 °C nos arredores",
+                "VnExpress"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "h2": "Vagas de frio: o que significam «rét đậm» e «rét hại»",
+      "body": [
+        "Nas previsões e nas notícias sobre o frio vai encontrar duas expressões vietnamitas. Fala-se de «rét đậm», frio intenso, quando a temperatura média diária desce abaixo dos 15 °C, e de «rét hại», frio severo, quando fica abaixo dos 13 °C. Segundo outra definição citada pela imprensa, há uma vaga de «rét đậm» quando a média diária no delta do Norte e na zona de transição para a montanha fica abaixo dos 15 °C durante três dias ou mais.",
+        "É em janeiro, habitualmente o período mais frio do ano, que estas vagas costumam surgir, incluindo as de «rét hại»; a maioria dura três a cinco dias. Em previsões sazonais publicadas pela imprensa vietnamita, as mínimas destes episódios aparecem entre os 6 e os 10 °C nas planícies e no delta do Norte.",
+        "Um exemplo dá a escala do frio. Numa vaga de ar frio forte noticiada pelo VnExpress, a estação de Láng, no centro de Hanói, registou 12 °C. Hoài Đức e Sơn Tây ficaram nos 9 °C, Hà Đông nos 8 °C e Ba Vì, já em zona de montanha, nos 7 °C.",
+        {
+          "note": "Se a previsão do dia falar de «rét đậm» ou «rét hại», conte com mínimas abaixo dos 15 °C e prepare a roupa completa descrita mais abaixo, mesmo para um trajeto curto.",
+          "tone": "info",
+          "title": "Antes de sair numa vaga de frio"
+        }
+      ]
+    },
+    {
+      "h2": "Porque se sente mais frio em cima da mota",
+      "body": [
+        "As temperaturas das previsões medem-se num abrigo meteorológico, a cerca de 2 m do solo. Segundo o VnExpress, ao ar livre a temperatura pode ficar 2 a 3 °C abaixo do valor medido. Uma previsão de 12 °C pode significar 9 ou 10 °C na rua, à hora a que sai de casa.",
+        "Em andamento junta-se o vento. Mesmo a velocidades de cidade, o ar bate de frente no peito, nas mãos, no pescoço e nos joelhos durante todo o trajeto. Uma roupa que chega para um passeio a pé pode não chegar para meia hora de mota.",
+        "Por isso, vista-se para a temperatura que vai sentir em cima da mota, e não para a que lê na aplicação. E lembre-se de que os dedos têm de sentir as manetes dos travões do princípio ao fim do caminho: com frio, as luvas não são um luxo."
+      ]
+    },
+    {
+      "h2": "O que vestir para conduzir no frio de Hanói",
+      "body": [
+        "A forma mais prática de enfrentar dias com 10 °C de manhã e 20 °C ao almoço é vestir-se por camadas, que se tiram e voltam a vestir ao longo do dia:",
+        {
+          "ul": [
+            "**Camada de base**: uma camisola de manga comprida ou térmica, junto ao corpo.",
+            "**Camada intermédia**: uma camisola de malha ou um polar, que se tira quando o dia aquece.",
+            "**Corta-vento**: um casaco que trave o ar, fechado até ao pescoço; em andamento, é a peça que mais conta.",
+            "**Pescoço**: uma gola ou um cachecol fino, bem preso e sem pontas soltas que possam esvoaçar.",
+            "**Mãos**: luvas que aqueçam sem tirar o tato nos travões e nos comandos.",
+            "**Pernas e pés**: calças compridas, com uma segunda camada nas manhãs mais frias, e calçado fechado."
+          ]
+        },
+        {
+          "table": {
+            "caption": "Roupa sugerida conforme o dia",
+            "head": [
+              "Tipo de dia",
+              "Em cima da mota",
+              "Na mochila ou debaixo do assento"
+            ],
+            "rows": [
+              [
+                "Dia ameno, com máxima perto dos 20 °C",
+                "Manga comprida e corta-vento leve",
+                "Luvas finas para o regresso ao fim do dia"
+              ],
+              [
+                "Manhã ou noite fresca",
+                "Camada de base, camisola, corta-vento e luvas",
+                "Espaço para a camada que vai tirar ao meio-dia"
+              ],
+              [
+                "Vaga de frio anunciada («rét đậm» ou «rét hại»)",
+                "Base térmica, polar, corta-vento fechado, luvas mais quentes e gola",
+                "Uma camada extra seca, se vai passar o dia fora"
+              ]
+            ]
+          }
+        },
+        "Os acessórios mais pequenos — luvas finas, óculos, máscara de tecido — estão no guia dos [acessórios para a mota alugada](/precos/capa-de-chuva-e-acessorios/), com os nomes em vietnamita para os pedir numa loja. Se faltar uma peça de roupa quente, pode comprá-la em Hanói.",
+        {
+          "h3": "E o capacete?"
+        },
+        "O capacete continua obrigatório para quem conduz e para quem vai atrás, e o Decreto 168/2024/NĐ-CP prevê uma coima de 400 mil a 600 mil VND para quem não o usa. No frio, um capacete com viseira protege a cara do vento; sem viseira, uns óculos ajudam.",
+        "Um gorro fino ou uma balaclava por baixo aquecem a cabeça e as orelhas, desde que o capacete continue justo e com a fita apertada. Experimente-o com o gorro na loja, antes de arrancar, porque o tamanho certo pode mudar; o guia sobre [capacetes no aluguer](/precos/capacetes-no-aluguer/) explica como acertar a medida."
+      ]
+    },
+    {
+      "h2": "Manhãs, noites e a hora de sair",
+      "body": [
+        "O frio aperta sobretudo de manhã cedo e à noite, quando a temperatura está perto das mínimas. A meio do dia, as máximas médias de janeiro rondam os 20 °C, e a mesma viagem faz-se com muito mais conforto.",
+        "Nos dias de vaga de frio, se puder escolher, concentre as deslocações mais longas entre o fim da manhã e o meio da tarde, e adie o que pode esperar. Os trajetos de madrugada e os regressos à noite pedem a roupa completa, mesmo quando são curtos.",
+        "Leve sempre consigo a camada que tirou: um passeio que começa ao sol pode acabar já de noite, com bastante menos graus. Nas scooters, o compartimento debaixo do assento, descrito na página das [scooters automáticas](/tipos-de-motas/scooters/), serve para isso.",
+        "À noite, ao frio junta-se a pior visibilidade e, ao fim do dia, o cansaço. Se as duas coisas se somarem, o guia sobre [quando é melhor não conduzir](/rotas-e-mobilidade/quando-nao-conduzir/) ajuda a decidir se é dia de deixar a mota parada e regressar de táxi."
+      ]
+    },
+    {
+      "h2": "Humidade e nồm no fim do inverno",
+      "body": [
+        "A humidade em Hanói é alta durante quase todo o ano: os guias de clima apontam uma média anual de cerca de 79 %. No fim do inverno, porém, o Norte do Vietname tem um fenómeno com nome próprio, o «nồm».",
+        "Entre fevereiro e abril, com o pico habitual em março, a humidade do ar ultrapassa muitas vezes os 90 % e o vapor condensa nas superfícies frias. Pavimentos, paredes e objetos ficam húmidos e escorregadios, e a humidade favorece o bolor. Cada episódio dura alguns dias e, às vezes, semanas.",
+        "Para quem anda de mota, o efeito mais imediato está nos pavimentos lisos onde se estaciona e manobra, como as entradas dos prédios e os parques cobertos: podem estar molhados sem ter chovido. Entre e saia desses sítios devagar, com os pés prontos a apoiar. As fontes sobre o nồm não falam da aderência do asfalto; se vir a estrada molhada, trate-a como piso molhado."
+      ]
+    },
+    {
+      "h2": "Sair de Hanói no inverno: mais frio e nevoeiro na montanha",
+      "body": [
+        "Se o plano inclui uma viagem de mota para as montanhas do Norte, conte com temperaturas mais baixas do que na cidade. Na vaga de frio citada acima, Ba Vì ficou 5 °C abaixo do centro de Hanói, e as previsões sazonais publicadas pela imprensa chegam a apontar 0 a 4 °C nas zonas de montanha. O portal oficial de turismo do Vietname descreve, por exemplo, uma estação fria e seca de novembro a março em Mù Cang Chải.",
+        "Há também o nevoeiro: guias de viagem sobre Mộc Châu e as montanhas do Noroeste descrevem-no denso e frequente ao início da manhã e ao fim do dia. Na prática, parta quando o dia já tiver aquecido, leve roupa para o frio da montanha mesmo que em Hanói esteja ameno e evite planear a chegada para o fim do dia.",
+        "Antes de sair da cidade com a mota alugada, combine a viagem com a loja: o guia sobre [levar a mota para fora de Hanói](/guia-de-aluguer/autorizacao-para-sair-de-hanoi/) diz o que pedir, e o da [avaria longe de Hanói](/guia-de-aluguer/avaria-longe-de-hanoi/) o que preparar para um imprevisto. Para perguntar pela mota, pelos capacetes ou pela autorização, use os [contactos](/contactos/); a loja atende {{hours}}."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Que temperatura faz em Hanói em dezembro?",
+      "a": "Dezembro já é inverno em Hanói. Os guias de clima dão uma média à volta dos 18,6 °C para o período de novembro a março, e o portal oficial de turismo do Vietname avisa que, a partir de finais de dezembro, as mínimas podem rondar os 10 °C. Janeiro costuma ser ainda mais frio. Para a semana da viagem, consulte a previsão: uma vaga de frio muda o cenário em poucos dias."
+    },
+    {
+      "q": "Preciso de trazer roupa de inverno de Portugal?",
+      "a": "Para Hanói chega roupa de meia-estação, desde que dê para fazer camadas: uma camisola de manga comprida, um polar, um casaco corta-vento, luvas e algo para o pescoço. Se vai para a montanha numa vaga de frio, as previsões mais frias apontam para 0 a 4 °C: leve mais uma camada. O que faltar pode comprar-se em Hanói."
+    },
+    {
+      "q": "Devo deixar de andar de mota numa vaga de frio?",
+      "a": "Não necessariamente. Numa vaga de «rét đậm», a média diária fica abaixo dos 15 °C: é desconfortável, mas com a roupa certa dá para conduzir. Concentre os trajetos no meio do dia, encurte as saídas de manhã cedo e à noite e, se o frio o deixar tenso ou cansado, deixe a mota parada e use um táxi nesse dia."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Weather and climate in Vietnam",
+      "publisher": "Portal oficial de turismo do Vietname (vietnam.travel)",
+      "url": "https://vietnam.travel/things-to-do/weather-and-climate-vietnam",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "title": "Clima médio em Hanói ao longo do ano (WeatherSpark)",
+      "publisher": "WeatherSpark",
+      "url": "https://weatherspark.com/y/116009/Average-Weather-in-Hanoi-Vietnam-Year-Round",
+      "accessed": "2026-10-13",
+      "type": "reference",
+      "lang": "en"
+    },
+    {
+      "title": "Artigo sobre o clima de Hanói (em vietnamita)",
+      "publisher": "VinWonders",
+      "url": "https://vinwonders.com/vi/wonderpedia/news/khi-hau-ha-noi/",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Artigo sobre a localização de Hanói (em vietnamita)",
+      "publisher": "Mytour",
+      "url": "https://mytour.vn/vi/blog/bai-viet/kham-pha-vi-tri-doc-dao-cua-ha-noi.html",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Hà Nội rét nhất 7 độ C",
+      "publisher": "VnExpress",
+      "url": "https://vnexpress.net/ha-noi-ret-nhat-7-do-c-4549820.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Mùa đông năm nay rét cao điểm vào dịp nào? Rét nhất bao nhiêu độ?",
+      "publisher": "Ngôi Sao",
+      "url": "https://ngoisao.vn/theo-dong-su-kien/kien-thuc/mua-dong-nam-nay-ret-cao-diem-vao-dip-nao-ret-nhat-bao-nhieu-do-d439888.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Rét đậm đến muộn",
+      "publisher": "VnExpress",
+      "url": "https://vnexpress.net/ret-dam-den-muon-2919372.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Rét hại diện rộng ở miền Bắc kéo dài đến khi nào?",
+      "publisher": "Tuổi Trẻ",
+      "url": "https://tuoitre.vn/ret-buot.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Nồm là gì? Trời nồm kéo dài bao lâu? Cách chống nồm ẩm trong nhà hiệu quả",
+      "publisher": "FPT Shop",
+      "url": "https://fptshop.com.vn/tin-tuc/dien-may/nom-la-gi-keo-dai-bao-lau-154416",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "O que é o nồm ẩm e o que saber sobre este fenómeno (artigo em vietnamita)",
+      "publisher": "Nhà thuốc Long Châu",
+      "url": "https://nhathuoclongchau.com.vn/bai-viet/nom-am-nghia-la-gi-va-nhung-thong-tin-can-biet-ve-hien-tuong-nay-70528.html",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Mu Cang Chai: Spectacle of the Water Pouring Season",
+      "publisher": "Vietnam Tourism (vietnam.travel)",
+      "url": "https://vietnam.travel/things-to-do/mu-cang-chai-spectacle-water-pouring-season",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "title": "Guia para quem vai de carro a Mộc Châu pela primeira vez (em vietnamita)",
+      "publisher": "MIA.vn",
+      "url": "https://mia.vn/cam-nang-du-lich/huong-dan-di-chuyen-bang-xe-o-to-cho-nguoi-di-moc-chau-lan-dau-3908",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    "lawnet-capacete-168"
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "PUBLISHED",
+  "date_published": "2026-10-13",
+  "date_modified": "2026-10-13",
+  "editorial": {
+    "qa_score": 98,
+    "qa_warnings": [
+      "source code W: Dados meteorológicos oficiais (Centro Nacional de Previsão Hidrometeorológica) ou climatologia reconhecida."
+    ],
+    "words": 1920,
+    "publish_mode": "review",
+    "approved_at": "2026-10-13",
+    "revisions": []
+  }
+}

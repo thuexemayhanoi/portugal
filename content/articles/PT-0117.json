@@ -1,0 +1,338 @@
+{
+  "contract_version": 1,
+  "id": "PT-0117",
+  "slug": "mota-alugada-ou-taxi",
+  "title": "Mota alugada ou táxi em Hanói: o custo e quando o táxi ganha",
+  "description": "Táxi ou mota alugada em Hanói: quando se paga por viagem e quando por dia, o que se sabe dos preços de táxi em 2026 e os dias em que o carro é a melhor escolha.",
+  "h1": "Táxi ou mota alugada em Hanói: grupo, bagagem, chuva e noite na balança do custo",
+  "summary": "O táxi cobra o carro por viagem; a mota alugada cobra o dia por mota. Por isso o táxi faz mais sentido com malas, em grupos de três ou quatro, com chuva forte e depois de beber, e a mota ganha em dias com muitas paragens. As fontes consultadas não trazem tarifas de táxi por quilómetro em 2026: peça na aplicação o preço dos seus trajetos.",
+  "key_points": [
+    "O táxi cobra a viagem do carro, com um ou quatro passageiros; a mota alugada cobra o dia, e a regra de um passageiro por mota obriga a duas motas a partir de três pessoas.",
+    "Referência de táxi encontrada para 2026: cerca de 250 mil VND do aeroporto de Nội Bài ao centro. Não encontrámos tarifas por quilómetro, por isso este guia não as inventa.",
+    "Com malas, depois de beber e com chuva forte, o táxi paga-se a si próprio: nesses dias a mota alugada fica parada, e o dia de aluguer paga-se na mesma.",
+    "Muitas paragens curtas no mesmo dia continuam a favorecer a mota, porque cada trajeto de táxi é uma viagem paga.",
+    "Antes de decidir, peça na aplicação o preço de dois ou três trajetos típicos: é o único número que serve para a sua conta."
+  ],
+  "intro": [
+    "Quem aluga uma mota em Hanói tem quase sempre o táxi como plano B. A questão é saber quando o plano B deve passar a plano A: em quantos dias, com quantas pessoas e com que bagagem o táxi sai mais em conta, ou pelo menos mais sensato, do que pagar um dia de mota.",
+    "Este guia compara as duas formas de pagar e mostra o que se consegue confirmar sobre os preços de táxi em 2026, que é menos do que gostaríamos. Fala de carros, de grupos e de situações do dia; as viagens de mota com condutor, por aplicação, são outra conta. Para a lista completa de dias em que convém deixar a mota parada, veja [quando é melhor não conduzir em Hanói](/rotas-e-mobilidade/quando-nao-conduzir/)."
+  ],
+  "sections": [
+    {
+      "h2": "O táxi cobra a viagem; a mota cobra o dia",
+      "body": [
+        "Num táxi, paga-se o carro e a viagem: dentro da lotação do carro, o trajeto custa o mesmo com uma pessoa ou com quatro. Na mota alugada, paga-se o dia de cada mota. Na tabela de referência da loja, custa entre {{price.min.day}} e {{price.max.day}}, conforme o modelo, valores verificados a {{pricing.verifiedAt}}.",
+        "A lei vietnamita admite, em regra, um passageiro por mota, e só em situações excecionais, como levar uma criança com menos de 12 anos ou alguém a uma urgência médica, permite dois. Cada pessoa que conduz precisa também da sua carta e da licença que a lei exige. Daqui sai a tabela seguinte, que conta veículos e não preços.",
+        {
+          "table": {
+            "caption": "Quem vai e quantos veículos são precisos",
+            "head": [
+              "Grupo",
+              "Mota alugada (um passageiro por mota)",
+              "Táxi"
+            ],
+            "rows": [
+              [
+                "1 pessoa",
+                "1 mota por dia: {{price.min.day}} a {{price.max.day}}",
+                "1 carro por trajeto"
+              ],
+              [
+                "2 pessoas",
+                "1 mota partilhada (condutor e um passageiro), ou 2 motas se os dois conduzirem",
+                "1 carro por trajeto"
+              ],
+              [
+                "3 pessoas",
+                "2 motas, com dois condutores habilitados",
+                "1 carro de 4 lugares por trajeto"
+              ],
+              [
+                "4 pessoas",
+                "2 motas, com dois condutores habilitados",
+                "1 carro de 4 lugares por trajeto"
+              ]
+            ]
+          }
+        },
+        "Isto não quer dizer que o táxi seja sempre mais barato para um grupo: cada trajeto é uma viagem paga, e um dia com muitos trajetos soma-os. Quer dizer que, num grupo de três ou quatro, o aluguer paga-se duas vezes e exige dois condutores habilitados, enquanto o táxi se paga por trajeto e não exige condutores habilitados.",
+        "Para um casal, o guia [uma mota ou duas para um casal](/precos/uma-mota-ou-duas-para-um-casal/) faz a conta do aluguer. Com crianças, o das [várias motas para a família](/precos/varias-motas-para-familias/) acrescenta o que pesa em capacetes e lugares."
+      ]
+    },
+    {
+      "h2": "O que se sabe dos preços de táxi em 2026",
+      "body": [
+        "Procurámos tarifas de táxi por quilómetro em fontes de 2026 e não as encontrámos. Por isso este guia não calcula trajetos de táxi, como se faz com as aplicações de mota, nem apresenta médias. O que se consegue citar, com a data da consulta, são três pontos de referência:",
+        {
+          "table": {
+            "caption": "Referências de preço de táxi consultadas a 13 de outubro de 2026",
+            "head": [
+              "Referência",
+              "Valor",
+              "Fonte e cautelas"
+            ],
+            "rows": [
+              [
+                "Aeroporto de Nội Bài ao centro",
+                "Cerca de 250 mil VND",
+                "Valor de referência numa página de voos da companhia aérea nacional, sem data de atualização visível"
+              ],
+              [
+                "Carro de 4 lugares, em empresas de táxi do aeroporto",
+                "Cerca de 260 mil VND",
+                "Guias de empresas de táxi, sem percurso nem data claros"
+              ],
+              [
+                "Xanh SM, táxi com carros elétricos VinFast",
+                "Saiu mais barata do que a Grab em 60% das viagens de carro comparadas",
+                "Estudo de mercado da Q&Me de setembro de 2025; os excertos consultados não detalham o método"
+              ]
+            ]
+          }
+        },
+        "Duas observações. A primeira: um guia de transportes consultado para este texto, atualizado em setembro de 2026, aponta o aeroporto de Nội Bài como um dos pontos de Hanói com mais armadilhas. Há uma praça de táxis oficial, mas angariadores à saída pedem duas a três vezes o preço, e nas aplicações o preço fica fechado antes de a viagem começar.",
+        "A segunda: nenhum destes valores diz o que custa um trajeto curto no centro. Quanto aos carros, a Xanh SM usa apenas carros elétricos VinFast, segundo as fontes consultadas, e na lista de empresas de táxi do aeroporto aparecem também a Mai Linh, a G7, a Thăng Long e a Thành Công."
+      ]
+    },
+    {
+      "h2": "Malas, bebidas e chuva: dias em que o táxi se paga a si próprio",
+      "body": [
+        {
+          "h3": "Com malas"
+        },
+        "No dia da chegada e no da partida, o táxi ou a aplicação com carro fazem bem o que a mota faz mal. Uma mala grande entre os pés desequilibra a mota, e o aluguer só serve quando tem as mãos livres. Combine o levantamento para depois de arrumar as malas e a devolução para antes de sair para o aeroporto. Os guias das [horas de levantamento e devolução](/precos/horas-de-levantamento-e-devolucao/) e da [entrega da mota no hotel](/precos/entrega-da-mota-no-hotel/) mostram o que perguntar à loja. Assim não paga um dia de aluguer só para ter a mota parada ao lado das malas.",
+        {
+          "h3": "Depois de beber"
+        },
+        "A lei vietnamita não admite qualquer concentração de álcool no sangue ou no ar expirado a quem conduz. Numa noite com bebidas, o custo da mota deixa de contar: a mota fica no alojamento ou num parque com funcionário, e o regresso faz-se de táxi. O guia sobre a [regra do álcool zero ao guiador](/guia-de-aluguer/alcool-zero-ao-volante/) explica o que a lei diz e o que se arrisca.",
+        {
+          "h3": "Com chuva forte"
+        },
+        "Segundo o portal oficial de turismo do Vietname, a época das chuvas em Hanói atinge o auge entre junho e agosto. Num dia de chuva forte, a mota alugada custa o dia na mesma, ande ou fique parada; o táxi só se paga quando anda. É aqui que a diferença entre pagar por dia e pagar por viagem pesa mais. Se for só uma chuvada, a capa de chuva pode resolver: o guia dos [acessórios para a mota alugada](/precos/capa-de-chuva-e-acessorios/) diz o que pedir.",
+        {
+          "h3": "Ao fim de um dia longo"
+        },
+        "O cansaço também conta, sobretudo se o regresso for de noite e por ruas que não conhece. Deixe a mota guardada e volte de táxi: paga a viagem e evita o risco de conduzir cansado. As outras situações em que convém deixar a mota parada, com a alternativa para cada uma, estão nas [sete situações em que é melhor não conduzir](/rotas-e-mobilidade/quando-nao-conduzir/)."
+      ]
+    },
+    {
+      "h2": "Quando a mota continua a ganhar ao táxi",
+      "body": [
+        "O táxi paga-se por viagem, e as viagens somam-se. Num dia de visitas em que se para em seis ou sete sítios, cada paragem é uma viagem nova. Na mota é só mais uma paragem, com o estacionamento por vez e o combustível. Se o plano do dia são muitos trajetos curtos, é aí que o aluguer tem mais vantagem. O itinerário de [Hanói de mota num dia](/rotas-e-mobilidade/hanoi-de-mota-num-dia/) mostra um dia assim, com seis paragens e o sítio onde deixar a mota em cada uma.",
+        "Na mota, o combustível pesa pouco. Num dia de 50 km, com consumos anunciados de cerca de 2 litros aos 100 km nas scooters de 110 a 125 cm³, gasta-se cerca de um litro. Nos comunicados do Ministério da Indústria e Comércio, a gasolina aparece em cerca de 25,9 mil VND por litro a 17 de setembro de 2026 e em cerca de 28,3 mil a 8 de outubro. Dá uma ordem de grandeza de 26 a 28 mil VND por dia de 50 km. O preço muda com frequência e o consumo real pode diferir do anunciado, por isso é uma estimativa.",
+        "A mota só é opção com a carta e a licença adequadas, e com à-vontade no trânsito. O guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/) separa o que a loja pede para alugar do que a lei exige para conduzir; se a habilitação falhar, a resposta é o táxi.",
+        {
+          "h3": "A decisão em seis perguntas"
+        },
+        {
+          "table": {
+            "caption": "Seis perguntas para escolher entre mota e táxi",
+            "head": [
+              "Pergunta",
+              "Se a resposta for sim",
+              "Aponta para"
+            ],
+            "rows": [
+              [
+                "Vai beber antes de voltar?",
+                "A lei não admite álcool a quem conduz",
+                "Táxi"
+              ],
+              [
+                "Somos três ou quatro?",
+                "São precisas duas motas e dois condutores habilitados",
+                "Táxi, ou duas motas"
+              ],
+              [
+                "Leva malas grandes?",
+                "A bagagem desequilibra a mota",
+                "Táxi"
+              ],
+              [
+                "Está a chover forte?",
+                "A visibilidade e a aderência baixam",
+                "Táxi"
+              ],
+              [
+                "Vai parar em muitos sítios no mesmo dia?",
+                "Cada trajeto de táxi é uma viagem paga",
+                "Mota"
+              ],
+              [
+                "Tem a carta e a licença certas, e à-vontade no trânsito?",
+                "Só com elas a mota é opção",
+                "Mota; se não, táxi"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "h2": "Um plano misto para a estadia",
+      "body": [
+        "A escolha não tem de ser total. Muitas estadias ganham com uma mistura: a mota nos dias de muitas paragens ou de saída da cidade, e o táxi na chegada, na partida, à noite e nos dias de chuva. Para a parte do aluguer, esta é a tabela de referência das scooters automáticas:",
+        {
+          "component": "price-table",
+          "category": "scooters-automaticas"
+        },
+        "O aluguer conta dias, e não trajetos. Se quer a mota só nos dias em que ganha ao táxi, alugue só esses dias; o guia do [aluguer de mota por um dia](/precos/aluguer-de-mota-por-um-dia/) mostra como se organiza um dia avulso. Pergunte também à loja o que acontece aos dias já pagos se devolver a mota mais cedo, como explica o guia sobre [devolver a mota mais cedo](/precos/devolver-a-mota-mais-cedo/). Para estadias longas, a [página de preços](/precos/) reúne as tarifas por semana e por mês."
+      ]
+    },
+    {
+      "h2": "Como saber o preço do táxi antes de sair",
+      "body": [
+        "Como não há tarifa por quilómetro a citar, o número que importa tem de vir dos seus trajetos. Faça assim:",
+        {
+          "steps": [
+            {
+              "title": "Escolha dois ou três trajetos típicos",
+              "text": "Por exemplo, do alojamento ao centro, o regresso à noite e, se for o caso, o trajeto do aeroporto."
+            },
+            {
+              "title": "Peça o preço na aplicação",
+              "text": "Introduza o trajeto sem confirmar e anote o valor mostrado. Nas aplicações, o preço aparece antes de a viagem começar."
+            },
+            {
+              "title": "Escreva o destino com acentos",
+              "text": "Para a loja, mostre a morada em vietnamita, {{address.vi}}, ou partilhe a localização do [Google Maps]({{maps}}). A loja fica em {{area}} e abre {{hours}}."
+            },
+            {
+              "title": "No aeroporto, evite os angariadores",
+              "text": "Use a praça de táxis oficial ou uma aplicação, onde o preço fica fechado antes de entrar no carro."
+            },
+            {
+              "title": "Compare com o dia de mota",
+              "text": "Some os trajetos de táxi do seu dia e compare o total com o preço do dia de mota, mais combustível e estacionamento. O guia sobre o [preço justo de aluguer](/precos/preco-justo-de-aluguer/) mostra como comparar com o mesmo rigor."
+            }
+          ]
+        },
+        "Para tirar dúvidas sobre datas, modelos e condições do aluguer, use os [contactos](/contactos/) da loja."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Quanto custa um táxi do aeroporto de Nội Bài ao centro de Hanói?",
+      "a": "Uma página de voos da companhia aérea nacional, consultada a 13 de outubro de 2026, dá como referência cerca de 250 mil VND, e guias de empresas de táxi falam de cerca de 260 mil VND por um carro de 4 lugares, sem percurso nem data claros. Use a praça de táxis oficial ou uma aplicação, porque à saída há angariadores que pedem duas a três vezes o preço."
+    },
+    {
+      "q": "Como digo ao taxista para me levar à loja?",
+      "a": "Mostre no telemóvel a morada em vietnamita, {{address.vi}}, ou partilhe a localização no Google Maps. A loja fica em {{area}}, do outro lado do rio, e abre {{hours}}."
+    },
+    {
+      "q": "Compensa mais um táxi ou duas motas para quatro pessoas?",
+      "a": "Não há resposta única. Duas motas pagam-se por dia e exigem dois condutores habilitados; o táxi paga-se por trajeto. Multiplique o preço que a aplicação mostrar pelos trajetos do dia e compare com duas vezes o preço do dia da mota, mais combustível e estacionamento."
+    }
+  ],
+  "sources": [
+    "tabela-precos-proprietario",
+    {
+      "title": "Página de voos para Hanói da Vietnam Airlines, com valores de referência do transporte entre o aeroporto e a cidade (em vietnamita)",
+      "publisher": "Vietnam Airlines",
+      "url": "https://www.vietnamairlines.com/vi-vn/v%C3%A9-m%C3%A1y-bay-%C4%91%E1%BA%BFn-h%C3%A0-n%E1%BB%99i",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Guia dos táxis no Vietname: Mai Linh, Vinasun, Xanh SM e como os reconhecer (em vietnamita)",
+      "publisher": "vietnamtourism.com (site turístico privado)",
+      "url": "https://www.vietnamtourism.com/vi/taxi-o-viet-nam-mai-linh-vinasun-xanh-sm-va-cach-nhan-biet-t",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Guia de transportes de Hanói (em inglês)",
+      "publisher": "Cities Insider",
+      "url": "https://citiesinsider.com/country/vietnam/hanoi/guides/hanoi-transport/en",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "en"
+    },
+    {
+      "title": "Điểm tên 10 hãng taxi Nội Bài đưa đón tại sân bay uy tín, an toàn và chuyên nghiệp",
+      "publisher": "FPT Shop",
+      "url": "https://fptshop.com.vn/tin-tuc/danh-gia/diem-ten-10-hang-taxi-noi-bai-170538",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Treze empresas de táxi de Hanói, com contactos e tarifas de referência (em vietnamita)",
+      "publisher": "MIA.vn (cẩm nang du lịch)",
+      "url": "https://mia.vn/cam-nang-du-lich/13-hang-taxi-ha-noi-12500",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Página «Táxi Hà Nội» da Xanh SM, sobre o serviço de táxi elétrico em Hanói (em vietnamita)",
+      "publisher": "Xanh SM (greensm.com)",
+      "url": "https://www.greensm.com/vn-vi/news/taxi-ha-noi",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Estudo comparativo de preços entre a Xanh SM e a Grab no Vietname (em inglês)",
+      "publisher": "Q&Me",
+      "url": "https://qandme.net/en/report/car-ride-hailing-showdown-xanh-sm-vs-grab-in-vietnam.html",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "en"
+    },
+    {
+      "title": "Weather and climate in Vietnam",
+      "publisher": "Portal oficial de turismo do Vietname (vietnam.travel)",
+      "url": "https://vietnam.travel/things-to-do/weather-and-climate-vietnam",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "title": "Informação sobre a gestão do preço dos combustíveis a 8 de outubro de 2026 (em vietnamita)",
+      "publisher": "Bộ Công Thương (moit.gov.vn)",
+      "url": "https://moit.gov.vn/tin-tuc/thong-tin-dieu-hanh-gia-xang-dau-ngay-8-10-2026.html",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "vi"
+    },
+    {
+      "title": "Informação sobre a gestão do preço dos combustíveis a 17 de setembro de 2026 (em vietnamita)",
+      "publisher": "Bộ Công Thương (moit.gov.vn)",
+      "url": "https://moit.gov.vn/tin-tuc/mot-so-thong-tin-ve-viec-dieu-hanh-gia-xang-dau-ngay-17-9.html",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "vi"
+    },
+    {
+      "title": "Notícia sobre o custo mensal de combustível das motas mais populares, com a gasolina a 27 mil VND por litro (em vietnamita)",
+      "publisher": "Báo Đại Đoàn Kết",
+      "url": "https://daidoanket.vn/xang-27-000-dong-lit-xe-may-pho-bien-ton-bao-nhieu-tien-moi-thang.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    "lawnet-passageiros-2025",
+    "tuoitre-alcool-zero",
+    "lawnet-proibicoes-2024"
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "PUBLISHED",
+  "date_published": "2026-10-13",
+  "date_modified": "2026-10-13",
+  "editorial": {
+    "qa_score": 100,
+    "qa_warnings": [],
+    "words": 2030,
+    "publish_mode": "review",
+    "approved_at": "2026-10-13",
+    "revisions": []
+  }
+}

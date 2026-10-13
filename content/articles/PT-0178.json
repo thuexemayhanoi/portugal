@@ -1,0 +1,300 @@
+{
+  "contract_version": 1,
+  "id": "PT-0178",
+  "slug": "horas-de-ponta-em-hanoi",
+  "title": "Horas de ponta em Hanói: quando evitar conduzir de mota",
+  "description": "Que horas são de ponta em Hanói, onde o trânsito apertou em 2026 e como planear as deslocações de mota. O que as fontes confirmam e o que ainda não se sabe.",
+  "h1": "Trânsito em Hanói: as horas de ponta e como planear a mota",
+  "summary": "Em Hanói, evite as avenidas principais entre as 06:30 e as 09:00 e entre as 16:30 e as 19:30: são as janelas de ponta que aparecem nas restrições a camiões previstas pela cidade e no horário do metro. Não existe um mapa oficial de pontos críticos para motas, por isso trate-as como referência e planeie com folga.",
+  "key_points": [
+    "Janelas de referência: 06:30–09:00 e 16:30–19:30, usadas nas restrições-piloto a camiões e no horário do metro em 2026.",
+    "Uma reportagem sobre Linh Đàm, sem data visível, aponta 07:00–08:00 e 17:00–19:00: as fontes não coincidem, por isso nenhuma é um horário fixo.",
+    "Em 2026, a imprensa registou filas nos Anéis Viários 2 e 3 (4 de maio) e em Phạm Hùng–Xuân Thủy e Hoàng Quốc Việt–Phạm Văn Đồng (6 de janeiro): são exemplos datados, não um mapa permanente.",
+    "Não foi encontrada uma lista oficial atual de pontos críticos, nem números sobre fins de semana, feriados ou chuva.",
+    "Combine a hora de levantamento e de devolução com a loja, aberta {{hours}}, de modo a não atravessar a cidade nas janelas de ponta."
+  ],
+  "intro": [
+    "O trânsito de Hanói não é igual ao longo do dia: há horas em que as avenidas fluem e outras em que se formam filas que prendem as motas a passo lento. Para quem aluga uma mota, saber quando isso acontece pesa na escolha da hora de saída, do percurso e até da hora de devolução, porque na ponta há mais veículos, menos espaço e menos margem para um erro.",
+    "Este guia reúne o que as fontes consultadas, a 13 de outubro de 2026, dizem sobre as horas de ponta e sobre os pontos de congestionamento, separa o que está confirmado do que não está e propõe formas de planear as deslocações. Como o trânsito muda com obras, restrições e feriados, trate estes dados como referência e confirme sempre no próprio dia."
+  ],
+  "sections": [
+    {
+      "h2": "Que horas são de ponta: as janelas que as fontes indicam",
+      "body": [
+        "Não encontrámos nenhuma fonte oficial que defina a hora de ponta de Hanói para as motas. O que existe são janelas usadas pelas autoridades e pelo transporte público, e uma reportagem. Reunidas, dão um intervalo de referência:",
+        {
+          "table": {
+            "caption": "Janelas de ponta indicadas pelas fontes consultadas (13 de outubro de 2026)",
+            "head": [
+              "Fonte",
+              "Manhã",
+              "Fim de tarde",
+              "Contexto"
+            ],
+            "rows": [
+              [
+                "Restrições-piloto a camiões pesados previstas pela cidade",
+                "06:30–09:00",
+                "16:30–19:30",
+                "Avenida Thăng Long e QL32; piloto previsto de 1 de janeiro a 31 de março de 2026, segundo uma notícia de 24 de dezembro de 2025"
+              ],
+              [
+                "Metro de Hanói, horário em vigor desde 9 de fevereiro de 2026",
+                "06:30–09:00",
+                "16:30–19:30",
+                "Mais comboios nas horas de ponta, nas duas linhas, a cada 6 minutos segundo a notícia"
+              ],
+              [
+                "Reportagem da VOV",
+                "07:00–08:00",
+                "17:00–19:00",
+                "Sobre a zona de Linh Đàm; sem data visível"
+              ]
+            ]
+          }
+        },
+        "As duas primeiras fontes usam as mesmas janelas, das 06:30 às 09:00 e das 16:30 às 19:30, e é essa a referência larga que adotamos neste guia. A VOV indica um período mais curto, que cabe dentro delas. As fontes não coincidem em tudo e nenhuma é um mapa do trânsito das motas: servem de aviso, não de horário fixo.",
+        "Duas notas de cautela. A restrição aos camiões era um piloto previsto até 31 de março de 2026 e não confirmámos o que se passou depois; e o horário do metro é do transporte público, não do trânsito rodoviário. Valem aqui como sinal de que as próprias entidades tratam estas horas como as de maior procura."
+      ]
+    },
+    {
+      "h2": "Onde apertou em 2026: dois exemplos datados",
+      "body": [
+        "A imprensa vietnamita publica boletins de trânsito logo de manhã. Dois deles, consultados para este guia, mostram onde houve filas em dois dias de 2026:",
+        {
+          "ul": [
+            "**4 de maio de 2026:** congestionamento prolongado nos Anéis Viários 2 e 3, nomeadamente no Anel 3, de Khuất Duy Tiến para Pháp Vân, e no Anel 2, em direção a Ngã Tư Sở.",
+            "**6 de janeiro de 2026:** vários pontos de congestionamento localizado, entre eles Phạm Hùng–Xuân Thủy e Hoàng Quốc Việt–Phạm Văn Đồng. Nessa manhã, as pontes Thanh Trì e Thăng Long circulavam sem problemas."
+          ]
+        },
+        "São dois dias, não um padrão. Não provam que estes eixos estejam sempre cheios, nem que os restantes estejam sempre livres; mostram o género de avenidas e de anéis viários que aparecem nos boletins da manhã.",
+        "Uma notícia sobre os planos da cidade refere ainda sete vias congestionadas que Hanói previa melhorar entre 2024 e 2027. Não damos aqui a lista: obras e mudanças de circulação alteram o trânsito de um eixo de um mês para o outro, por isso confirme o percurso no próprio dia."
+      ]
+    },
+    {
+      "h2": "O que as fontes não dizem",
+      "body": [
+        "Convém ser claro sobre os limites deste guia, para não criar uma falsa segurança:",
+        {
+          "ul": [
+            "não há, nas fontes consultadas, uma lista oficial atual de pontos críticos de trânsito em Hanói;",
+            "não há números sobre o tempo que uma deslocação demora nas horas de ponta, nem dados específicos para motas;",
+            "não há dados sobre o trânsito ao fim de semana, em feriados ou com chuva, que alteram o dia a dia;",
+            "as fontes descrevem alguns eixos em dois dias concretos, e não o trânsito da cidade inteira."
+          ]
+        },
+        "Por isso, este guia não promete horas «seguras» nem tempos de viagem. Dá referências datadas e formas de planear com folga."
+      ]
+    },
+    {
+      "h2": "Como planear as deslocações de mota",
+      "body": [
+        "Os pontos seguintes são conselhos deste guia, apoiados nas janelas acima, e não regras.",
+        {
+          "steps": [
+            {
+              "title": "Saia fora das janelas largas",
+              "text": "Se pode escolher, faça as deslocações mais longas entre as 09:00 e as 16:30. Nesse intervalo fica fora das duas janelas de referência."
+            },
+            {
+              "title": "Combine a devolução com a loja",
+              "text": "Confronte o horário da loja, aberta {{hours}}, com as janelas acima. Um levantamento à abertura pode ainda apanhar o fim da ponta da manhã, e uma devolução ao fim da tarde cai dentro da janela das 16:30 às 19:30. Peça à loja uma hora de devolução que lhe permita chegar com folga; o guia das [horas de levantamento e devolução](/precos/horas-de-levantamento-e-devolucao/) explica como se conta o dia."
+            },
+            {
+              "title": "Veja o percurso antes de sair",
+              "text": "Se o seu percurso passar por avenidas largas ou por anéis viários, procure uma alternativa mais calma, sobretudo nos primeiros dias. O mapa vê-se com a mota parada: a lei proíbe usar o telemóvel a conduzir, como explica o guia sobre [telemóvel e GPS na scooter](/tipos-de-motas/telemovel-e-gps-na-scooter/)."
+            },
+            {
+              "title": "Pergunte à loja que eixos evitar",
+              "text": "Pergunte à loja se conhece avenidas do seu percurso que costumem ficar mais cheias e se existe uma alternativa simples."
+            },
+            {
+              "title": "Deixe margem para as horas marcadas",
+              "text": "Para uma hora marcada, como um voo ou uma reserva, saia mais cedo do que o mapa sugere e evite que o trajeto caia numa das janelas de ponta."
+            }
+          ]
+        },
+        "Nos primeiros dias, o mais simples é ficar fora das horas de ponta. O guia para quem [nunca conduziu uma mota](/tipos-de-motas/nunca-conduziu-uma-mota/) e o de [quando é melhor não conduzir em Hanói](/rotas-e-mobilidade/quando-nao-conduzir/) ajudam a decidir quando deixar a mota parada, incluindo os regressos que caem na hora de ponta.",
+        {
+          "note": "À data de 13 de outubro de 2026, a zona 1 do piloto de baixas emissões, que abrange o espaço pedonal do lago Hoàn Kiếm e as ruas do mercado noturno, está fechada a motas e automóveis de sexta a domingo, das 19:00 às 24:00. Não é hora de ponta, mas muda o percurso de quem contava passar por lá ao fim da tarde: veja a [zona de baixas emissões](/tipos-de-motas/zona-de-baixas-emissoes-hanoi/).",
+          "tone": "info",
+          "title": "Noites de fim de semana no centro"
+        }
+      ]
+    },
+    {
+      "h2": "Se tiver mesmo de conduzir na ponta",
+      "body": [
+        "Às vezes não há alternativa. Nesse caso, estas boas práticas de segurança para motociclistas, que não são regras vietnamitas, ajudam:",
+        {
+          "ul": [
+            "**Avance devagar entre filas lentas** e posicione-se de modo a que os outros condutores o vejam nos espelhos, como aconselha a regra 88 do código da estrada britânico.",
+            "**Mantenha mais distância de autocarros e camiões:** vê melhor a estrada e o condutor tem mais hipóteses de o ver nos espelhos (regra 164 do mesmo código).",
+            "**Não suba ao passeio para fugir à fila.** Conduzir no passeio tem coima de 4 a 6 milhões de VND, e a polícia de Hanói tem feito operações dirigidas a este comportamento. A exceção prevista é atravessar o passeio para entrar num edifício.",
+            "**Guarde o telemóvel** e conduza com as duas mãos no guiador: numa fila, um segundo de distração chega para tocar na mota da frente.",
+            "**Não use a buzina para abrir caminho:** a lei só a admite para avisar de um perigo ou antes de uma ultrapassagem, como explica o guia sobre [a buzina no Vietname](/guia-de-aluguer/a-buzina-no-vietname/)."
+          ]
+        },
+        "O valor da coima é o nacional. Em Hanói, desde 1 de julho de 2026, a Resolução 56/2026/NQ-HĐND multiplica por 1,5 ou por 2 as coimas de 28 infrações de ordem pública e de trânsito, e não confirmámos se esta é uma delas."
+      ]
+    },
+    {
+      "h2": "Alternativas à mota nas horas de ponta",
+      "body": [
+        "Se a deslocação não é urgente e cai numa janela de ponta, outro meio pode compensar. Entre 1 de julho de 2026 e 30 de junho de 2027, as viagens nos autocarros públicos subsidiados que circulam dentro do Anel Viário 1 são gratuitas; os autocarros turísticos ficam de fora, por isso confirme a linha antes de contar com ela.",
+        "O metro de Hanói aumentou as viagens nas horas de ponta com o horário de 9 de fevereiro de 2026, mas só tinha duas linhas em funcionamento em agosto de 2026, a 2A e o troço elevado da linha 3, que podem não servir o seu percurso. Para organizar um dia sem mota, veja as alternativas em [quando é melhor não conduzir em Hanói](/rotas-e-mobilidade/quando-nao-conduzir/) e o [guia de aluguer](/guia-de-aluguer/).",
+        "Se decidir deixar a mota parada num dia de trânsito difícil, pergunte à loja, antes de alugar, o que acontece aos dias que não usar: o guia sobre [devolver a mota mais cedo](/precos/devolver-a-mota-mais-cedo/) diz o que perguntar. Os preços estão na [página de preços](/precos/) e as dúvidas sobre a reserva resolvem-se pelos [contactos](/contactos/)."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "A que horas é a hora de ponta em Hanói?",
+      "a": "Como referência, de manhã entre as 06:30 e as 09:00 e ao fim da tarde entre as 16:30 e as 19:30, que são as janelas usadas nas restrições a camiões previstas pela cidade e no horário do metro. Uma reportagem indica 07:00–08:00 e 17:00–19:00. Não há um horário oficial para as motas."
+    },
+    {
+      "q": "Posso levantar a mota de manhã sem apanhar a ponta?",
+      "a": "A janela larga da manhã termina às 09:00 e a loja está aberta {{hours}}. Se levantar logo à abertura, pode apanhar o fim dessa janela; mais tarde fica fora dela. Combine a hora com a loja e, no primeiro dia, escolha um percurso curto e calmo."
+    },
+    {
+      "q": "O trânsito é melhor ao fim de semana?",
+      "a": "As fontes consultadas não trazem dados sobre o congestionamento ao fim de semana, por isso não podemos responder. O que está confirmado é que, à data de 13 de outubro de 2026, a zona 1 do centro está fechada às motas de sexta a domingo, das 19:00 às 24:00."
+    },
+    {
+      "q": "As avenidas que a imprensa refere estão sempre cheias?",
+      "a": "Não se pode concluir isso. Os exemplos de 4 de maio e de 6 de janeiro de 2026 são boletins de dois dias, e nessa manhã de janeiro as pontes Thanh Trì e Thăng Long circulavam sem problemas. Use-os como aviso para planear com folga, e não como mapa permanente."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Notícia sobre a proposta de restringir certos veículos no anel 3 elevado de Hanói (em vietnamita)",
+      "publisher": "Tạp chí Luật sư Việt Nam (LSVN)",
+      "url": "https://lsvn.vn/ha-noi-du-kien-han-che-mot-so-loai-phuong-tien-luu-thong-vao-vanh-dai-3-tren-cao-a167515.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Notícia sobre o aumento das viagens do metro de Hanói nas horas de ponta a partir de 9 de fevereiro (em vietnamita)",
+      "publisher": "Thương hiệu và Công luận",
+      "url": "https://thuonghieucongluan.com.vn/metro-ha-noi-tang-chuyen-gio-cao-diem-tu-9-2-giam-cho-doi-thuan-tien-hon-cho-nguoi-di-lam-a304247.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Hà Nội ùn tắc giao thông ngày càng nghiêm trọng",
+      "publisher": "VOV",
+      "url": "https://vov.vn/xa-hoi/ha-noi-un-tac-giao-thong-ngay-cang-nghiem-trong-721885.vov",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Giao thông Hà Nội sáng 4.5: Vành đai 2, 3 kẹt xe kéo dài",
+      "publisher": "Báo Văn hóa",
+      "url": "https://baovanhoa.vn/doi-song/giao-thong-ha-noi-sang-45-vanh-dai-2-3-ket-xe-keo-dai-251336.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Giao thông Hà Nội sáng 6.1: Nhiều điểm ùn tắc cục bộ",
+      "publisher": "Báo Văn hóa",
+      "url": "https://baovanhoa.vn/doi-song/giao-thong-ha-noi-sang-61-nhieu-diem-un-tac-cuc-bo-195312.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Notícia sobre o plano de Hanói para melhorar sete vias congestionadas (em vietnamita)",
+      "publisher": "Tạp chí Luật sư Việt Nam (LSVN)",
+      "url": "https://lsvn.vn/ha-noi-du-kien-cai-tao-07-tuyen-duong-de-giam-un-tac-1723795210-a146265.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Rules for motorcyclists (83 to 88)",
+      "publisher": "nidirect (Governo da Irlanda do Norte)",
+      "url": "https://nidirect.gov.uk/articles/rules-motorcyclists-83-88",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "title": "Using the road (159 to 203)",
+      "publisher": "nidirect (Governo da Irlanda do Norte)",
+      "url": "https://nidirect.gov.uk/articles/highway-code-rules-159-203",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "title": "Điều khiển xe máy vượt đèn đỏ, đi trên vỉa hè bị phạt từ 4-6 triệu đồng",
+      "publisher": "Portal de divulgação jurídica da cidade de Cần Thơ (pbgdpl.cantho.gov.vn)",
+      "url": "https://pbgdpl.cantho.gov.vn/dieu-khien-xe-may-vuot-den-do-di-tren-via-he-bi-phat-tu-4-6-trieu-dong",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "vi"
+    },
+    {
+      "title": "In Hanoi, over $3,830 in sidewalk-riding fines issued in one hour",
+      "publisher": "Tuổi Trẻ News",
+      "url": "https://news.tuoitre.vn/in-hanoi-over-3830-in-sidewalk-riding-fines-issued-in-one-hour-1032506031537521.htm",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "en"
+    },
+    {
+      "title": "What time is it prohibited to use honk in Vietnam from January 1, 2025?",
+      "publisher": "LawNet",
+      "url": "https://lawnet.vn/chinh-sach-thue/en/what-time-is-it-prohibited-to-use-honk-in-vietnam-from-january-1-2025-20284.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "en"
+    },
+    "hanoi-resolucao-56-2026",
+    {
+      "title": "Ha Noi begins restricting fossil-fuel vehicles in low-emission zones",
+      "publisher": "Portal do Governo do Vietname (chinhphu.vn) — Hanoi Capital",
+      "url": "https://hanoicapital.chinhphu.vn/ha-noi-begins-restricting-fossil-fuel-vehicles-in-low-emission-zones-110260702082825273.htm",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    },
+    "vietnamnet-zbe-revisao",
+    {
+      "title": "Ha Noi free bus travel within Ring Road 1 for one year",
+      "publisher": "Cổng Thông tin điện tử Chính phủ (chinhphu.vn)",
+      "url": "https://thanglong.chinhphu.vn/ha-noi-free-bus-travel-within-ring-road-1-for-one-year-110260702104500646.htm",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "title": "Hà Nội miễn vé lượt metro trong 5 ngày nghỉ lễ 2.9",
+      "publisher": "Báo Văn hóa",
+      "url": "https://baovanhoa.vn/van-minh-do-thi/ha-noi-mien-ve-luot-metro-trong-5-ngay-nghi-le-29-260345.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    }
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "PUBLISHED",
+  "date_published": "2026-10-13",
+  "date_modified": "2026-10-13",
+  "editorial": {
+    "qa_score": 100,
+    "qa_warnings": [],
+    "words": 1872,
+    "publish_mode": "review",
+    "approved_at": "2026-10-13",
+    "revisions": []
+  }
+}

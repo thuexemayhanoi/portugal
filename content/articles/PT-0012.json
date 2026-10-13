@@ -1,0 +1,376 @@
+{
+  "contract_version": 1,
+  "id": "PT-0012",
+  "slug": "consumo-das-scooters",
+  "title": "Consumo das scooters de aluguer: quanto gasta por dia em Hanói",
+  "description": "Consumo declarado pelos fabricantes (1,56 a 1,82 l/100 km), preço da gasolina em setembro e outubro de 2026 e contas para 50 e 100 km por dia em Hanói.",
+  "h1": "Quanto gasta uma scooter por dia em Hanói: o consumo da ficha e as contas com o preço do litro",
+  "summary": "As fichas dos fabricantes dão às scooters e semiautomáticas de cerca de 110 cm³ um consumo de 1,56 a 1,82 litros aos 100 km. Com a gasolina a cerca de 26 a 28 mil VND por litro em setembro e outubro de 2026, 50 km custam entre 20 e 26 mil VND de gasolina, e o trânsito real gasta mais.",
+  "key_points": [
+    "Consumo declarado: Wave RSX FI 1,56, Yamaha Sirius FI 1,65, Wave Alpha 1,72 e Honda Vision 1,82 litros aos 100 km, medidos em condições de ensaio.",
+    "Com a gasolina a cerca de 28,3 mil VND por litro (8 de outubro de 2026), 50 km custam entre 22 e 26 mil VND nestes modelos, e 100 km o dobro.",
+    "O preço do litro muda: o do dia vê-se no visor da bomba e nos comunicados do Ministério da Indústria e Comércio.",
+    "No trânsito de Hanói, o consumo real é superior ao da ficha. Da Click, da Mio e da Air Blade não encontrámos valores fiáveis, por isso pergunte à loja.",
+    "Encher um depósito de 4 litros custa cerca de 113 mil VND ao preço de 8 de outubro e dá, em teoria, mais de 240 km."
+  ],
+  "intro": [
+    "Uma scooter de cerca de 110 cm³ gasta pouco combustível por quilómetro, mas «pouco» não é um número. A conta muda com o modelo, com os quilómetros do dia e com o preço do litro, que mudou bastante ao longo de 2026.",
+    "Este guia reúne os consumos que os fabricantes declaram, o preço do litro com data e as contas para um dia de 50 ou de 100 km, e diz onde confirmar o preço do dia. É um guia de ordens de grandeza: os números das fichas vêm de condições de ensaio, e a gasolina terá outro preço quando chegar a Hanói. O nível de combustível na entrega e na devolução tem um guia próprio, o do [combustível no aluguer](/precos/combustivel-no-aluguer/)."
+  ],
+  "sections": [
+    {
+      "h2": "O que quer dizer o consumo de uma ficha",
+      "body": [
+        "Os fabricantes indicam o consumo em litros aos 100 km (l/100 km): quanto menor o número, menos combustível a mota gasta. Os valores deste guia, entre 1,56 e 1,82, equivalem a cerca de 55 a 64 km por litro.",
+        "Estes números são medidos pelo fabricante em condições de ensaio definidas por ele. Não incluem as paragens e os arranques de um dia em Hanói, o calor, a bagagem nem um passageiro. São, por isso, um ponto de partida para estimar, e não uma previsão do que vai gastar.",
+        "Valem para as fichas atuais. Uma mota de aluguer pode ser de outra geração ou de outra versão, com valores diferentes, e a loja confirma o modelo e o ano da unidade que lhe entrega."
+      ]
+    },
+    {
+      "h2": "Consumo declarado, modelo a modelo",
+      "body": [
+        {
+          "table": {
+            "caption": "Consumo declarado e origem do valor (consulta de 13 de outubro de 2026)",
+            "head": [
+              "Modelo",
+              "Consumo (l/100 km)",
+              "Origem do valor"
+            ],
+            "rows": [
+              [
+                "Honda Wave RSX FI",
+                "1,56",
+                "Ficha da Honda Việt Nam"
+              ],
+              [
+                "Yamaha Sirius FI",
+                "1,65",
+                "Páginas da Yamaha Motor Việt Nam"
+              ],
+              [
+                "Honda Wave Alpha",
+                "1,72",
+                "Ficha da Honda Việt Nam"
+              ],
+              [
+                "Honda Vision (versão de 2026)",
+                "1,82",
+                "Imprensa vietnamita; não o confirmámos numa ficha da Honda"
+              ],
+              [
+                "Honda Air Blade",
+                "As fontes divergem",
+                "Sem valor indicado neste guia"
+              ],
+              [
+                "Honda Click e Yamaha Mio",
+                "Sem valor fiável",
+                "Não encontrámos consumo do fabricante"
+              ]
+            ]
+          }
+        },
+        "O consumo da Vision, de 1,82 l/100 km para a versão de 2026, é o mesmo que o guia da [Honda Vision](/tipos-de-motas/honda-vision-em-hanoi/) usa. Vem da imprensa e não de uma ficha da Honda que tenhamos podido confirmar, por isso trate-o como indicativo.",
+        "Para a Air Blade, as fontes que consultámos divergem entre si e entre as versões de 125 e de 160 cm³, pelo que não indicamos um valor. Da Click e da Mio, vendidas no Vietname, não encontrámos um consumo do fabricante. Nestes três casos, pergunte à loja quantos quilómetros faz a unidade com um depósito.",
+        "A mota elétrica não entra nestas contas, porque não gasta gasolina."
+      ]
+    },
+    {
+      "h2": "O preço do litro em setembro e outubro de 2026",
+      "body": [
+        "Os preços dos combustíveis no Vietname são revistos com frequência. As revisões que consultámos, de 10 e 17 de setembro e de 8 de outubro de 2026, caíram todas numa quinta-feira. Os valores citados pelas fontes foram estes:",
+        {
+          "ul": [
+            "**10 de setembro de 2026:** a gasolina E10 RON 95-III ficou acima de 24 mil VND por litro, segundo o título da Tạp chí Công Thương sobre a revisão desse dia.",
+            "**17 de setembro de 2026:** o [comunicado do Ministério da Indústria e Comércio](https://moit.gov.vn/tin-tuc/mot-so-thong-tin-ve-viec-dieu-hanh-gia-xang-dau-ngay-17-9.html) (MOIT) indica cerca de 25,9 mil VND como preço da gasolina no Vietname, na comparação com os países vizinhos.",
+            "**8 de outubro de 2026:** o [comunicado do MOIT](https://moit.gov.vn/tin-tuc/thong-tin-dieu-hanh-gia-xang-dau-ngay-8-10-2026.html) indica cerca de 28,3 mil VND na mesma comparação."
+          ]
+        },
+        "Os valores não são todos da mesma série: o que consultámos do comunicado de 8 de outubro não diz o tipo de gasolina nem se o preço é anterior ou posterior à revisão desse dia. Servem para a ordem de grandeza, entre 24 e 28 mil VND por litro nestas semanas, e para as contas que se seguem.",
+        "O preço do dia vê-se no visor da bomba. O preço oficial consulta-se nos comunicados «Thông tin điều hành giá xăng dầu» do MOIT, em moit.gov.vn. Há mais do que um tipo de gasolina nas bombas: em 8 de maio de 2026, a Thư Viện Pháp Luật listava a RON 95-III, a E10 RON 95-III e a E5 RON 92-II, com preços diferentes entre si, mas dentro de uma margem inferior a 3 %. Pergunte à loja qual deve pôr na unidade que recebe."
+      ]
+    },
+    {
+      "h2": "Quanto custa um dia: contas com 50 e 100 km",
+      "body": [
+        "A conta tem dois passos: os litros gastos são o consumo a dividir por 100 e a multiplicar pelos quilómetros, e o custo é esse número de litros a multiplicar pelo preço do litro. Um exemplo com a Vision, a 1,82 l/100 km: 50 km gastam 0,91 litros, e ao preço de 8 de outubro (cerca de 28,3 mil VND por litro) isso dá cerca de 25,7 mil VND.",
+        "A tabela faz o mesmo para os quatro modelos com consumo declarado, com os dois preços do litro que citámos.",
+        {
+          "table": {
+            "caption": "Custo da gasolina com o consumo declarado (exemplos de cálculo nossos, em VND)",
+            "head": [
+              "Modelo",
+              "Litros em 50 km",
+              "50 km a cerca de 25,9 mil/l (17 set.)",
+              "50 km a cerca de 28,3 mil/l (8 out.)",
+              "100 km a cerca de 28,3 mil/l (8 out.)"
+            ],
+            "rows": [
+              [
+                "Honda Wave RSX FI",
+                "0,78",
+                "20,2 mil",
+                "22,0 mil",
+                "44,1 mil"
+              ],
+              [
+                "Yamaha Sirius FI",
+                "0,83",
+                "21,4 mil",
+                "23,3 mil",
+                "46,6 mil"
+              ],
+              [
+                "Honda Wave Alpha",
+                "0,86",
+                "22,3 mil",
+                "24,3 mil",
+                "48,6 mil"
+              ],
+              [
+                "Honda Vision",
+                "0,91",
+                "23,6 mil",
+                "25,7 mil",
+                "51,4 mil"
+              ]
+            ]
+          }
+        },
+        "Os 50 e os 100 km são exemplos nossos, e não médias de um dia de mota: use os quilómetros que prevê fazer. Com 30 km, por exemplo, a gasolina ao preço de 8 de outubro custa entre 13 e 15 mil VND nestes modelos.",
+        "Entre os modelos da tabela, a diferença é pequena: da Wave RSX FI à Vision, são cerca de 3,7 mil VND a mais em 50 km, ao preço de 8 de outubro. Como as fontes e as condições de medição diferem de marca para marca, não tire conclusões ao pormenor."
+      ]
+    },
+    {
+      "h2": "Porque o consumo real é maior do que o da ficha",
+      "body": [
+        "Num dia normal em Hanói, a mota arranca e para muitas vezes, anda em filas, sobe pontes e leva por vezes bagagem ou um passageiro. Nenhum destes fatores faz parte das condições de ensaio. Não encontrámos números oficiais do aumento de consumo no trânsito de Hanói, por isso não aplicámos uma percentagem às contas anteriores.",
+        "Se quiser uma folga, escolha uma margem sua. Uma margem de um quarto levaria, por exemplo, os 50 km da Vision de cerca de 25,7 para cerca de 32 mil VND. É uma sugestão nossa, sem medição por trás.",
+        {
+          "note": "Segundo a Honda, o motor eSP de 110 cc da Vision integra o sistema de paragem temporária do motor (Idling Stop), que a marca apresenta como forma de poupar combustível sem alterar a forma de conduzir. Não sabemos que versões da Vision o têm. Se a mota que receber desligar o motor sozinha quando para, peça que lhe expliquem como volta a arrancar.",
+          "tone": "info",
+          "title": "Paragem automática do motor"
+        }
+      ]
+    },
+    {
+      "h2": "Depósito e autonomia: quanto custa encher",
+      "body": [
+        "A autonomia teórica é o depósito a dividir pelo consumo declarado. É um cálculo nosso, que supõe a mota a gastar o valor de ensaio até ao último litro, e é por isso um teto, e não uma promessa.",
+        {
+          "table": {
+            "caption": "Depósito, autonomia teórica e custo de um depósito cheio (cálculos nossos)",
+            "head": [
+              "Modelo",
+              "Depósito",
+              "Autonomia teórica",
+              "Depósito cheio a cerca de 28,3 mil/l (8 out.)"
+            ],
+            "rows": [
+              [
+                "Honda Wave RSX FI",
+                "4,0 l",
+                "Cerca de 256 km",
+                "Cerca de 113 mil VND"
+              ],
+              [
+                "Yamaha Sirius FI",
+                "4,0 l",
+                "Cerca de 242 km",
+                "Cerca de 113 mil VND"
+              ],
+              [
+                "Honda Wave Alpha",
+                "3,7 l",
+                "Cerca de 215 km",
+                "Cerca de 105 mil VND"
+              ],
+              [
+                "Honda Vision",
+                "4,8 l",
+                "Cerca de 264 km",
+                "Cerca de 136 mil VND"
+              ]
+            ]
+          }
+        },
+        "Os depósitos vêm das fichas dos fabricantes. Na Vision, a autonomia junta o depósito da Honda com o consumo da imprensa. Os dados que reunimos não dizem qual é o volume da reserva, por isso abasteça antes de o indicador chegar a ela, sobretudo à noite ou fora do centro.",
+        "Para uma saída fora de Hanói, o consumo e a autonomia contam, mas contam menos do que a autorização da loja: veja primeiro o guia da [autorização para sair de Hanói](/guia-de-aluguer/autorizacao-para-sair-de-hanoi/)."
+      ]
+    },
+    {
+      "h2": "O que perguntar à loja sobre a gasolina",
+      "body": [
+        "O consumo da ficha ajuda a estimar, mas quem decide é a unidade que recebe. Junte estas perguntas ao pedido de reserva e guarde as respostas por escrito:",
+        {
+          "checklist": [
+            "Qual é o modelo, a versão e o ano da unidade? Os números da ficha podem não coincidir.",
+            "Que gasolina devo pôr nesta mota?",
+            "Com que nível de combustível recebo a mota e com que nível a devolvo?",
+            "Quantos litros leva o depósito e quantos quilómetros faz, mais ou menos, com ele?",
+            "Se houver caução, uma diferença de combustível pode ser descontada? O guia dos [descontos na caução](/precos/descontos-na-caucao/) explica o que perguntar."
+          ]
+        },
+        "A gasolina compra-se na bomba, e o aluguer da mota tem a sua própria tabela. A tabela seguinte mostra os preços de referência de todos os modelos: o consumo e o aluguer são parcelas diferentes, e só a loja confirma o total para as suas datas.",
+        {
+          "component": "price-table"
+        },
+        "Se ainda não escolheu o modelo, compare as scooters na página das [scooters automáticas](/tipos-de-motas/scooters/) e veja os tipos no guia de [tipos de motas](/tipos-de-motas/). Para um só dia, o guia do [aluguer de mota por um dia](/precos/aluguer-de-mota-por-um-dia/) ajuda a planear horários. Pode enviar as perguntas por telefone ou Zalo, para o {{phone}}; a morada e o horário estão na página de [contactos](/contactos/)."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Quanto gasta uma Honda Vision por dia?",
+      "a": "Com o consumo anunciado de 1,82 l/100 km, 50 km gastam cerca de 0,91 litros, ou seja, cerca de 25,7 mil VND ao preço de 8 de outubro de 2026 (cerca de 28,3 mil por litro). No trânsito real conte com mais, e confirme o preço do dia no visor da bomba."
+    },
+    {
+      "q": "Uma scooter gasta mais do que uma semiautomática?",
+      "a": "Pelos valores que reunimos, a Vision (1,82 l/100 km) declara mais do que a Wave RSX FI (1,56). A diferença de 0,26 l/100 km equivale a cerca de 7 mil VND por 100 km ao preço de 8 de outubro de 2026. Os valores vêm de fontes diferentes e não se comparam ao pormenor."
+    },
+    {
+      "q": "Quanto custa encher o depósito de uma scooter?",
+      "a": "Ao preço de cerca de 28,3 mil VND por litro (8 de outubro de 2026), um depósito de 4,0 litros custa cerca de 113 mil VND e um de 4,8 litros cerca de 136 mil. Pergunte à loja a capacidade da unidade que vai receber."
+    },
+    {
+      "q": "A gasolina está incluída no preço do aluguer?",
+      "a": "A tabela de referência é por veículo e não menciona o combustível. Pergunte à loja com que nível recebe e devolve a mota e como se acerta uma diferença, e guarde a resposta por escrito."
+    },
+    {
+      "q": "Posso usar o consumo da ficha para planear um percurso longo?",
+      "a": "Use-o como teto: as contas deste guia dão uma autonomia teórica de 215 a 264 km com um depósito, mas no trânsito real será menor. Abasteça cedo, antes de o indicador chegar à reserva, e combine primeiro com a loja se pode sair de Hanói."
+    }
+  ],
+  "sources": [
+    "tabela-precos-proprietario",
+    {
+      "title": "Wave Alpha",
+      "publisher": "Honda Việt Nam",
+      "url": "https://www.honda.com.vn/xe-may/san-pham/wave-alpha-110",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "Wave RSX",
+      "publisher": "Honda Việt Nam",
+      "url": "https://www.honda.com.vn/xe-may/san-pham/wave-rsx",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "Sirius FI phiên bản phanh đĩa màu mới - Yamaha Motor Việt Nam",
+      "publisher": "Yamaha Motor Việt Nam",
+      "url": "https://yamaha-motor.com.vn/xe/sirius-fi-phien-ban-phanh-dia-mau-hoan-toan-moi-bsab/",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "\"NÂNG TẦM PHONG CÁCH MỚI\" CÙNG SIRIUS FI 2021",
+      "publisher": "Yamaha Motor Việt Nam",
+      "url": "https://yamaha-motor.com.vn/tin-tuc/nang-tam-phong-cach-moi-cung-sirius-fi-2021/",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "Página do modelo Honda Vision no site da Honda Việt Nam",
+      "publisher": "Honda Việt Nam",
+      "url": "https://www.honda.com.vn/xe-may/san-pham/vision?category=2",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "Vision phiên bản cổ điển",
+      "publisher": "Honda Việt Nam",
+      "url": "https://www.honda.com.vn/xe-may/san-pham/vision-phien-ban-co-dien",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "Notícia da Honda Việt Nam sobre a nova versão da Vision 2026 (em vietnamita)",
+      "publisher": "Honda Việt Nam",
+      "url": "https://www.honda.com.vn/xe-may/tin-tuc/honda-viet-nam-gioi-thieu-phien-ban-moi-mau-xe-vision-2026-bat-sac-tu-tin",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "Save Fuel just by driving normally, with Honda's Idling Stop System",
+      "publisher": "Honda Motor Co. (global.honda)",
+      "url": "https://global.honda/en/tech/Idling_Stop_System/",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "en"
+    },
+    {
+      "title": "Bảng giá xe Honda Vision mới nhất tháng 9/2026",
+      "publisher": "CafeF",
+      "url": "https://cafef.vn/bang-gia-xe-honda-vision-moi-nhat-thang-9-2026-188260909071440813.chn",
+      "accessed": "2026-10-12",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Honda Vision thế hệ mới được ra mắt tại Việt Nam, giá từ 30 triệu đồng",
+      "publisher": "Doanh Nhân — Báo Pháp luật Việt Nam",
+      "url": "https://doanhnhan.baophapluat.vn/honda-vision-the-he-moi-duoc-ra-mat-tai-viet-nam-gia-tu-30-trieu-dong-35960.html",
+      "accessed": "2026-10-12",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Informação do Ministério da Indústria e Comércio sobre a gestão do preço dos combustíveis de 8 de outubro de 2026 (em vietnamita)",
+      "publisher": "Bộ Công Thương (moit.gov.vn)",
+      "url": "https://moit.gov.vn/tin-tuc/thong-tin-dieu-hanh-gia-xang-dau-ngay-8-10-2026.html",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "vi"
+    },
+    {
+      "title": "Informações do Ministério da Indústria e Comércio sobre a gestão do preço dos combustíveis de 17 de setembro de 2026 (em vietnamita)",
+      "publisher": "Bộ Công Thương (moit.gov.vn)",
+      "url": "https://moit.gov.vn/tin-tuc/mot-so-thong-tin-ve-viec-dieu-hanh-gia-xang-dau-ngay-17-9.html",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "vi"
+    },
+    {
+      "title": "Kỳ điều hành giá xăng dầu ngày 10/9/2026: Giá xăng dầu đồng loạt tăng, xăng E10RON95-III vượt 24.000 đồng/lít",
+      "publisher": "Tạp chí Công Thương",
+      "url": "https://tapchicongthuong.vn/ky-dieu-hanh-gia-xang-dau-ngay-10-9-2026--gia-xang-dau-dong-loat-tang--xang-e10ron95-iii-vuot-24-000-dong-lit-548847.htm",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Giá xăng dầu thứ 6 ngày 8/5/2026 bao nhiêu tiền 1 lít?",
+      "publisher": "Thư Viện Pháp Luật",
+      "url": "https://thuvienphapluat.vn/hoi-dap-phap-luat/gia-xang-dau-thu-6-ngay-852026-bao-nhieu-tien-1-lit-138089652.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    }
+  ],
+  "legal_note": false,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "PUBLISHED",
+  "date_published": "2026-10-13",
+  "date_modified": "2026-10-13",
+  "editorial": {
+    "qa_score": 100,
+    "qa_warnings": [],
+    "words": 1923,
+    "publish_mode": "review",
+    "approved_at": "2026-10-13",
+    "revisions": []
+  }
+}

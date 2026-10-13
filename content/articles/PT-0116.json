@@ -1,0 +1,340 @@
+{
+  "contract_version": 1,
+  "id": "PT-0116",
+  "slug": "mota-alugada-ou-grab",
+  "title": "Mota alugada ou Grab em Hanói: qual sai mais barata?",
+  "description": "Compare um dia de mota alugada com viagens de GrabBike em Hanói: a tarifa publicada em 2026, exemplos por distância e a conta a fazer com os seus trajetos.",
+  "h1": "Grab ou mota alugada em Hanói: a conta por trajeto, por dia e por semana",
+  "summary": "Depende de quantos trajetos faz por dia: a Grab cobra cada trajeto pela distância, a mota alugada cobra o dia, faça duas ou vinte paragens. Com poucos trajetos curtos, a app tende a sair mais barata; com dias cheios de paragens, o aluguer. Este guia põe a tarifa da Grab de 2026 e o preço do dia da loja lado a lado.",
+  "key_points": [
+    "A Grab cobra por trajeto e por distância; a mota alugada cobra por dia, e o número de paragens não muda o preço do aluguer.",
+    "Tarifa publicada pela Grab para o GrabBike Tiếng Anh em Hanói (18 de junho de 2026, IVA incluído): cerca de 17,2 mil VND pelos dois primeiros quilómetros e 5,5 mil VND por cada quilómetro seguinte.",
+    "Na mota alugada, cada quilómetro a mais custa só combustível, cerca de meio milhar de VND, contra mais de cinco mil na aplicação (estimativa do guia).",
+    "O ponto de equilíbrio sai de uma conta simples: some os trajetos do dia na tarifa da Grab e compare com o preço do dia, mais combustível e estacionamento.",
+    "Há dias em que a conta nem se faz: depois de beber, com chuva forte ou sem a habilitação certa, a aplicação resolve o que a mota não pode."
+  ],
+  "intro": [
+    "A pergunta parece simples, mas compara duas maneiras de cobrar. Na aplicação, paga cada trajeto, e o preço sobe com a distância e com o número de viagens. Na mota alugada, paga o dia, e o que gasta a mais é pouco: combustível e estacionamento. Qual sai mais barata depende, por isso, de quantas vezes e quantos quilómetros se desloca.",
+    "Este guia trata só de dinheiro. Usa a tarifa que a Grab publicou para Hanói em 2026, consultada a 13 de outubro de 2026, e a tabela de referência da loja, verificada a {{pricing.verifiedAt}}. As tarifas das aplicações mudam: confirme sempre o valor que a aplicação mostrar antes de aceitar o trajeto. Os cuidados de quem vai atrás de um condutor ficam fora desta conta."
+  ],
+  "sections": [
+    {
+      "h2": "Duas maneiras de cobrar: por trajeto e por dia",
+      "body": [
+        "Na tabela de referência da loja, um dia de mota custa entre {{price.min.day}} e {{price.max.day}}, conforme o modelo, e uma semana entre {{price.min.week}} e {{price.max.week}}. O valor é o mesmo para dois trajetos ou para vinte e cobre o aluguer: combustível, estacionamento e, conforme o caso, caução e entrega confirmam-se com a loja. A [página de preços](/precos/) mostra o valor de cada modelo.",
+        "Na Grab, o preço nasce do trajeto. Um percurso curto custa pouco, um percurso longo custa mais, e um dia com muitos percursos soma-os todos. Daqui saem três consequências práticas:",
+        {
+          "ul": [
+            "**Poucos trajetos curtos favorecem a aplicação.** Não paga um dia inteiro de aluguer para usar a mota durante uma hora.",
+            "**Muitos trajetos, ou percursos longos, favorecem o aluguer.** A partir de certo ponto, cada viagem adicional na aplicação pesa mais do que o combustível e o estacionamento de uma paragem na mota.",
+            "**No aluguer, os dias parados também se pagam.** Se a chuva o prender em casa, a mota parada custa o mesmo; a aplicação só cobra quando a usa."
+          ]
+        },
+        "O ponto de equilíbrio está algures entre estas situações e depende dos seus trajetos. As secções seguintes dão os números para o encontrar."
+      ]
+    },
+    {
+      "h2": "O que a Grab cobra em Hanói em 2026",
+      "body": [
+        "A tabela de serviços da Grab, atualizada a 8 de julho de 2026, publica a tarifa do GrabBike Tiếng Anh em Hanói. É um serviço de mota com condutores destinados a clientes que falam inglês («tiếng Anh» quer dizer «inglês»), disponível na cidade desde 18 de junho de 2026. Cobra cerca de 17,2 mil VND pelos dois primeiros quilómetros e cerca de 5,5 mil VND por cada quilómetro a seguir, com IVA de 8% incluído (valores exatos: 17.232 e 5.489, em VND).",
+        {
+          "table": {
+            "caption": "GrabBike Tiếng Anh em Hanói: exemplos calculados com a tarifa de 18 de junho de 2026",
+            "head": [
+              "Distância",
+              "Preço base em VND",
+              "Como se calcula"
+            ],
+            "rows": [
+              [
+                "2 km",
+                "17.232",
+                "Valor de partida publicado pela Grab"
+              ],
+              [
+                "3 km",
+                "22.721",
+                "17.232 + 1 × 5.489"
+              ],
+              [
+                "5 km",
+                "33.699",
+                "17.232 + 3 × 5.489"
+              ],
+              [
+                "10 km",
+                "61.144",
+                "17.232 + 8 × 5.489"
+              ],
+              [
+                "20 km",
+                "116.034",
+                "17.232 + 18 × 5.489"
+              ]
+            ]
+          }
+        },
+        "São contas do guia, a partir da tarifa publicada, e não preços fechados. A distância que a aplicação mede pode diferir da que imagina, e o valor final é o que a aplicação mostra antes de confirmar. Repare também que a tarifa pesa mais nos trajetos muito curtos: dois trajetos de 2 km custam 34.464, mais do que um único trajeto de 5 km, que custa 33.699.",
+        {
+          "h3": "E o GrabBike normal?"
+        },
+        "O GrabBike Tiếng Anh é um serviço diferente do GrabBike normal. Para o normal não encontrámos tabela de 2026. Uma notícia antiga da VnExpress, sem ano visível no excerto consultado, falava de 9 mil VND pelos dois primeiros quilómetros e 3,5 mil por quilómetro seguinte, valores que já não servem para orçamentar. Guias de viagem em inglês, sem data, apontam entre 25 e 40 mil VND por um trajeto de cerca de 5 km. Se escolher o GrabBike normal, vale o preço que a aplicação mostrar.",
+        {
+          "h3": "E a Xanh SM?"
+        },
+        "Em agosto de 2023, a Xanh SM lançou em Hanói o Xanh SM Bike, um serviço de motas elétricas com condutor, anunciado com 13,8 mil VND pelos dois primeiros quilómetros e 4,8 mil por quilómetro a partir do terceiro. As fontes consultadas não confirmam se o serviço e estas tarifas se mantêm em 2026, por isso servem apenas como ordem de grandeza."
+      ]
+    },
+    {
+      "h2": "Quatro dias-tipo, lado a lado",
+      "body": [
+        "A tabela seguinte põe quatro dias-tipo, para uma só pessoa. O total da Grab sai da tarifa acima; à direita está uma estimativa do combustível que a mota gastaria nesse mesmo dia. As distâncias são exemplos, e não trajetos reais entre sítios concretos.",
+        {
+          "table": {
+            "caption": "Total na Grab e combustível da mota em quatro dias-tipo",
+            "head": [
+              "Dia-tipo",
+              "Trajetos",
+              "Total na Grab, em VND (cálculo)",
+              "Combustível da mota, em VND (estimativa)"
+            ],
+            "rows": [
+              [
+                "Meio dia tranquilo",
+                "2 trajetos de 4 km",
+                "56.420",
+                "4 a 5 mil"
+              ],
+              [
+                "Dia de passeio pela cidade",
+                "6 trajetos de 3 km",
+                "136.326",
+                "9 a 10 mil"
+              ],
+              [
+                "Dia cheio",
+                "8 trajetos de 5 km",
+                "269.592",
+                "21 a 23 mil"
+              ],
+              [
+                "Dia com um percurso longo",
+                "2 trajetos de 20 km (ida e volta)",
+                "232.068",
+                "21 a 23 mil"
+              ]
+            ]
+          }
+        },
+        "Do outro lado da conta, um dia de mota custa entre {{price.min.day}} e {{price.max.day}} na tabela de referência, e a esse valor somam-se o combustível da última coluna e o estacionamento. Leia a tabela com isto presente: o total da Grab cresce com cada trajeto, o do aluguer não."
+      ]
+    },
+    {
+      "h2": "O combustível e o estacionamento da mota",
+      "body": [
+        "A estimativa de combustível parte de cerca de 2 litros aos 100 km. É a ordem de grandeza dos consumos anunciados para scooters de 110 a 125 cm³: a Honda Vision atual anuncia 1,82 litros aos 100 km (veja [a Honda Vision em Hanói](/tipos-de-motas/honda-vision-em-hanoi/)) e a imprensa vietnamita refere cerca de 2,1 a 2,3 para outras scooters da marca. Quanto ao preço, nos comunicados do Ministério da Indústria e Comércio a gasolina aparece em cerca de 25,9 mil VND por litro a 17 de setembro de 2026 e em cerca de 28,3 mil a 8 de outubro.",
+        "Três cautelas: os excertos consultados não deixam claro o tipo de gasolina nem se o valor é anterior ou posterior à revisão desse dia; o preço é revisto com frequência; e o consumo real pode ser diferente do anunciado. Trate o número como ordem de grandeza. Com estes valores, a mota gasta cerca de 520 a 570 VND por quilómetro, enquanto a Grab cobra 5.489 por cada quilómetro depois dos dois primeiros. Cada quilómetro a mais custa, portanto, cerca de dez vezes menos na mota.",
+        "Falta o estacionamento. Nos parques com funcionário, paga-se por vez. Uma tabela municipal noticiada pelo Báo Pháp luật Việt Nam fixa, para motas nos bairros urbanos, 3 mil VND por vez de dia, 5 mil à noite e 7 mil para dia e noite, e indica valores mais altos nos locais turísticos. A notícia consultada não mostra o ano de entrada em vigor, por isso pergunte o preço antes de deixar a mota. Num dia de seis paragens, o estacionamento repete-se seis vezes. O guia dos [custos para lá do preço de referência](/precos/custos-alem-do-preco/) lista o resto, e o do [combustível no aluguer](/precos/combustivel-no-aluguer/) explica como se acerta o nível do depósito."
+      ]
+    },
+    {
+      "h2": "Como encontrar o seu ponto de equilíbrio",
+      "body": [
+        "Em vez de uma regra geral, faça a conta com os seus trajetos. Demora poucos minutos:",
+        {
+          "steps": [
+            {
+              "title": "Liste os trajetos do dia",
+              "text": "Escreva cada deslocação com a distância aproximada em quilómetros. A ida e a volta são dois trajetos."
+            },
+            {
+              "title": "Calcule cada trajeto na tarifa da Grab",
+              "text": "Até 2 km, 17.232. Acima disso, 17.232 mais 5.489 por cada quilómetro além dos dois primeiros. Some os trajetos do dia."
+            },
+            {
+              "title": "Calcule o dia de mota",
+              "text": "Parta do preço do dia do modelo que escolheria e some cerca de 520 a 570 VND por quilómetro e o estacionamento de cada paragem."
+            },
+            {
+              "title": "Compare os dois totais",
+              "text": "Se o total da Grab já passa o da mota, o aluguer sai mais barato nesse dia; se fica abaixo, a aplicação sai mais barata."
+            },
+            {
+              "title": "Confirme na aplicação",
+              "text": "Antes de decidir, introduza dois ou três dos seus trajetos na aplicação, sem confirmar, e veja o preço que mostra para cada um. Troca a estimativa por números reais."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "Uma semana: a mesma conta com sete dias",
+      "body": [
+        "Numa estadia mais longa, a conta repete-se dia a dia. Imagine dois trajetos de 8 km por dia, a ida e a volta de uma rotina fixa. Na tarifa de 2026, e em VND, cada trajeto custa 50.166, o dia 100.332 e sete dias 702.324 (cálculo do guia). Do outro lado, a tabela de referência pede {{price.min.week}} a {{price.max.week}} por uma semana de mota, conforme o modelo, a que se somam combustível e estacionamento.",
+        "Se a conta pender para o aluguer, veja a partir de quantos dias a tarifa semanal compensa em cada modelo. O cálculo é feito a partir da tabela de referência:",
+        {
+          "component": "duration-compare"
+        },
+        "Os guias do [aluguer semanal](/precos/aluguer-semanal-de-mota/) e do [aluguer por duração](/precos/aluguer-por-duracao/) aprofundam o que muda ao fim de uma semana."
+      ]
+    },
+    {
+      "h2": "Dias em que o preço não decide",
+      "body": [
+        "Há situações em que a conta nem chega a fazer-se, porque a mota alugada não é opção. A lei vietnamita não admite qualquer concentração de álcool no sangue ou no ar expirado a quem conduz. Numa noite com bebidas, regressa-se de Grab, de táxi ou de mota com condutor; o guia sobre [álcool ao volante](/guia-de-aluguer/alcool-zero-ao-volante/) explica a regra.",
+        "O mesmo vale quando falta a habilitação certa para a categoria da mota: sem ela, a aplicação é a alternativa. O guia sobre as consequências de [conduzir sem carta válida](/guia-de-aluguer/conduzir-sem-carta-valida/) explica o que se arrisca na estrada e no seguro.",
+        "A chuva forte pesa na mesma balança: a mota paga-se parada, a aplicação só quando anda. As situações em que vale mais deixar a mota em casa estão reunidas em [quando é melhor não conduzir em Hanói](/rotas-e-mobilidade/quando-nao-conduzir/)."
+      ]
+    },
+    {
+      "h2": "Antes de decidir: o que confirmar",
+      "body": [
+        "Fechar a conta com números reais evita surpresas nos dois lados:",
+        {
+          "checklist": [
+            "**Na Grab:** o preço mostrado para o seu trajeto, o serviço escolhido (GrabBike normal ou GrabBike Tiếng Anh) e o ponto de recolha.",
+            "**Na loja:** o total do aluguer para as suas datas, o que fica fora do preço de referência e o que acontece aos dias já pagos se devolver a mota mais cedo. Peça tudo por escrito pelos [contactos](/contactos/) da loja.",
+            "**Nas contas:** quantos trajetos faz por dia e se o dia inclui um percurso longo, que pesa mais na aplicação do que na mota.",
+            "**Nos documentos:** se tem a carta e a licença que a mota exige. Se não tem, a conta fica resolvida à partida."
+          ]
+        },
+        "Para comparar a proposta da loja com as de outras lojas, siga o método do guia sobre o [preço justo de aluguer](/precos/preco-justo-de-aluguer/). E se a conta mostrar que só precisa da mota em alguns dias, o guia do [aluguer de mota por um dia](/precos/aluguer-de-mota-por-um-dia/) mostra como se organiza um dia avulso."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Quanto custa uma viagem de 5 km de GrabBike em Hanói?",
+      "a": "Com a tarifa publicada em 2026 para o GrabBike Tiếng Anh, cerca de 33,7 mil VND: 17.232 pelos dois primeiros quilómetros e 5.489 por cada um dos três seguintes, IVA incluído. É um cálculo: o preço final é o que a aplicação mostrar antes de confirmar."
+    },
+    {
+      "q": "O GrabBike normal é mais barato do que o GrabBike Tiếng Anh?",
+      "a": "Não encontrámos tabela de 2026 para o GrabBike normal, por isso o guia não o afirma. Para saber, introduza o mesmo trajeto na aplicação, sem confirmar, e compare os preços que ela apresenta para cada serviço."
+    },
+    {
+      "q": "Compensa alugar uma mota só por um dia?",
+      "a": "Depende dos trajetos desse dia. Some-os na tarifa da Grab e compare com o preço do dia da loja mais combustível e estacionamento. Com poucos trajetos curtos, a aplicação pode sair mais barata; com muitas paragens ou um percurso longo, o aluguer ganha terreno."
+    },
+    {
+      "q": "A tarifa da Grab inclui impostos?",
+      "a": "A tabela da Grab para o GrabBike Tiếng Anh indica IVA de 8% incluído nos valores publicados. Outros serviços e outras épocas podem ter regras diferentes, por isso confirme o total final na aplicação antes de aceitar o trajeto."
+    }
+  ],
+  "sources": [
+    "tabela-precos-proprietario",
+    {
+      "title": "Tabela dos serviços da aplicação Grab no Vietname, atualizada a 8 de julho de 2026 (em inglês)",
+      "publisher": "Grab Việt Nam",
+      "url": "https://www.grab.com/vn/en/blog/bang-thong-tin-cac-dich-vu-tren-ung-dung-grab/",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "en"
+    },
+    {
+      "title": "GrabBike giảm giá cước",
+      "publisher": "VnExpress",
+      "url": "https://vnexpress.net/grabbike-giam-gia-cuoc-3390617.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Dịch vụ gọi xe máy điện xanh SM Bike ra mắt tại Hà Nội",
+      "publisher": "Mekong ASEAN",
+      "url": "https://mekongasean.vn/dich-vu-goi-xe-may-dien-xanh-sm-bike-ra-mat-tai-ha-noi-23769.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Dịch vụ gọi xe máy điện Xanh SM Bike ra mắt tại Hà Nội",
+      "publisher": "The Leader",
+      "url": "https://theleader.vn/dich-vu-goi-xe-may-dien-xanh-sm-bike-ra-mat-tai-ha-noi-d7625.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Guia das aplicações de transporte no Vietname (em inglês)",
+      "publisher": "Bento Travel",
+      "url": "https://bento.travel/vietnam/ride-hailing",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "en"
+    },
+    {
+      "title": "Guia de transportes de Hanói (em inglês)",
+      "publisher": "Cities Insider",
+      "url": "https://citiesinsider.com/country/vietnam/hanoi/guides/hanoi-transport/en",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "en"
+    },
+    {
+      "title": "Informação sobre a gestão do preço dos combustíveis a 8 de outubro de 2026 (em vietnamita)",
+      "publisher": "Bộ Công Thương (moit.gov.vn)",
+      "url": "https://moit.gov.vn/tin-tuc/thong-tin-dieu-hanh-gia-xang-dau-ngay-8-10-2026.html",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "vi"
+    },
+    {
+      "title": "Informação sobre a gestão do preço dos combustíveis a 17 de setembro de 2026 (em vietnamita)",
+      "publisher": "Bộ Công Thương (moit.gov.vn)",
+      "url": "https://moit.gov.vn/tin-tuc/mot-so-thong-tin-ve-viec-dieu-hanh-gia-xang-dau-ngay-17-9.html",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "vi"
+    },
+    {
+      "title": "Notícia sobre o custo mensal de combustível das motas mais populares, com a gasolina a 27 mil VND por litro (em vietnamita)",
+      "publisher": "Báo Đại Đoàn Kết",
+      "url": "https://daidoanket.vn/xang-27-000-dong-lit-xe-may-pho-bien-ton-bao-nhieu-tien-moi-thang.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Notícia sobre as motas a gasolina da Honda, a poupança de combustível e o valor a longo prazo (em vietnamita)",
+      "publisher": "Znews (Tri thức trực tuyến)",
+      "url": "https://znews.vn/xe-may-xang-honda-ghi-diem-nho-tiet-kiem-va-gia-tri-dung-lau-dai-post1637503.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Notícia sobre o lançamento de uma nova Air Blade com motor a gasolina de maior cilindrada, em plena vaga de motas elétricas (em vietnamita)",
+      "publisher": "Báo Đầu tư",
+      "url": "https://baodautu.vn/giua-trao-luu-xe-dien-honda-ra-mat-xe-may-air-blade-moi-dong-co-xang-lon-hon-d166254.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Hà Nội ban hành mức phí trông xe mới",
+      "publisher": "Báo Pháp luật Việt Nam",
+      "url": "https://baophapluat.vn/ha-noi-ban-hanh-muc-phi-trong-xe-moi-post236356.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    "tuoitre-alcool-zero",
+    "lawnet-proibicoes-2024"
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "PUBLISHED",
+  "date_published": "2026-10-13",
+  "date_modified": "2026-10-13",
+  "editorial": {
+    "qa_score": 100,
+    "qa_warnings": [],
+    "words": 2103,
+    "publish_mode": "review",
+    "approved_at": "2026-10-13",
+    "revisions": []
+  }
+}

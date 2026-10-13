@@ -1,0 +1,420 @@
+{
+  "contract_version": 1,
+  "id": "PT-0114",
+  "slug": "preco-da-gasolina-no-vietname",
+  "title": "Preço da gasolina no Vietname: como se fixa e onde ver",
+  "description": "Quem fixa o preço da gasolina no Vietname, porque muda à quinta-feira, que diferença há entre E10 e E5 e onde ver o valor em vigor antes de abastecer.",
+  "h1": "Preço da gasolina no Vietname: como é fixado e onde ver o valor do dia",
+  "summary": "O preço da gasolina no Vietname é acompanhado pelo Estado: os ministérios da Indústria e Comércio e das Finanças anunciam os valores e revêem-nos, nas fontes de 2026, à quinta-feira, a partir das 15:00. A 13 de outubro de 2026, a última revisão que encontrámos era a de 8 de outubro. O valor da semana vê-se no comunicado do ministério e no painel do posto.",
+  "key_points": [
+    "Quem: o Ministério da Indústria e Comércio e o Ministério das Finanças, em conjunto, num comunicado por cada revisão.",
+    "Quando: nas fontes de 2026, as revisões caem à quinta-feira, a partir das 15:00; o ajuste de 29 de abril foi a uma quarta-feira, por isso confirme a data no comunicado.",
+    "Quê: em 2026 vendem-se a E10RON95-III e a E5RON92, esta até 31 de dezembro de 2030, segundo a Circular n.º 50/2025/TT-BCT.",
+    "Quanto: os valores por litro que encontrámos vão de cerca de 20,5 mil VND (16 de julho) a cerca de 28,3 mil (8 de outubro), de tipos diferentes; confirme o da semana.",
+    "Onde ver: o comunicado do ministério, tabelas de portais jurídicos com data e, no fim, o painel do posto.",
+    "Estimativa do aluguer: quilómetros × consumo aos 100 km ÷ 100 × preço do litro, refeita quando o preço mudar."
+  ],
+  "intro": [
+    "Quem aluga uma mota em Hanói paga o aluguer à loja e a gasolina na bomba. O aluguer tem uma tabela de preços; a gasolina tem um valor que o Estado vietnamita acompanha de perto e que mudou muito em 2026. Saber quem o fixa, quando muda e onde se consulta evita contar com um preço desatualizado.",
+    "Este guia explica o mecanismo e dá um método para estimar a gasolina de um aluguer. Não ensina a abastecer nem diz que gasolina serve a cada modelo: isso está no guia sobre o [combustível no aluguer](/precos/combustivel-no-aluguer/) e depende do que a loja indicar. Tudo foi verificado a 13 de outubro de 2026, e cada preço citado tem a sua data."
+  ],
+  "sections": [
+    {
+      "h2": "Quem fixa o preço e quando muda",
+      "body": [
+        "Segundo os comunicados do Ministério da Indústria e Comércio (MOIT), a gestão do preço dos combustíveis é feita em conjunto por este ministério e pelo Ministério das Finanças. Cada revisão é anunciada num comunicado público; nos títulos do site do MOIT aparece a expressão «điều hành giá xăng dầu», que quer dizer «gestão do preço dos combustíveis».",
+        "O dia é quase sempre o mesmo. Nas fontes que consultámos, as revisões de 2026 caem à quinta-feira, com efeito a partir das 15:00: os anúncios de 16 de julho e de 10 de setembro falam expressamente em «a partir das 15h», e portais jurídicos dão a mesma hora como regra. A tabela junta as revisões que encontrámos; o dia da semana é um cálculo nosso.",
+        {
+          "table": {
+            "caption": "Revisões de 2026 que aparecem nas fontes consultadas (valores em VND por litro)",
+            "head": [
+              "Data",
+              "Dia da semana",
+              "O que a fonte mostra"
+            ],
+            "rows": [
+              [
+                "29 de abril",
+                "Quarta-feira",
+                "Ajuste das 15:00 comunicado pelo ministério: RON95-III a 23.751 (mais 871) e E5RON92 a 22.626 (mais 792)"
+              ],
+              [
+                "16 de julho",
+                "Quinta-feira",
+                "A partir das 15:00, a E10RON95-III sobe 547 e fica a 20.550"
+              ],
+              [
+                "10 de setembro",
+                "Quinta-feira",
+                "Subida geral a partir das 15:00; a E10RON95-III passa as 24.000"
+              ],
+              [
+                "17 de setembro",
+                "Quinta-feira",
+                "Comunicado do ministério; valor de comparação com os países vizinhos: 25.886"
+              ],
+              [
+                "1 de outubro",
+                "Quinta-feira",
+                "Comunicado do ministério; o excerto consultado não traz valores"
+              ],
+              [
+                "8 de outubro",
+                "Quinta-feira",
+                "Comunicado do ministério; valor de comparação: 28.254"
+              ]
+            ]
+          }
+        },
+        "A 13 de outubro de 2026, uma terça-feira, a última revisão que encontrámos era a de 8 de outubro, e a seguinte era esperada na quinta-feira, 15 de outubro. É uma conta nossa a partir do padrão acima, não um anúncio oficial.",
+        {
+          "note": "O ajuste de 29 de abril de 2026 caiu a uma quarta-feira, e as fontes consultadas não explicam porquê. Confirme o dia e a hora no comunicado da semana em vez de os dar como certos.",
+          "tone": "info",
+          "title": "Quinta-feira é o padrão, não uma garantia"
+        },
+        "Distinga ainda o valor anunciado do preço no posto. Uma das fontes, de 10 de abril de 2026, apresenta os valores como máximos, e nenhuma explica como se passa do valor anunciado ao preço de cada posto. O painel do posto é a referência final do que vai pagar."
+      ]
+    },
+    {
+      "h2": "E10RON95-III e E5RON92: as duas gasolinas de 2026",
+      "body": [
+        "A gasolina vendida mudou em 2026. A Circular n.º 50/2025/TT-BCT, emitida a 7 de novembro de 2025, está em vigor desde 1 de janeiro de 2026. Desde 1 de junho de 2026, toda a gasolina sem chumbo tem de ser misturada para E10 em todo o país, com uma exceção: a E5RON92 continua à venda até 31 de dezembro de 2030. Desde 1 de junho, o Estado anuncia por isso o preço-base («giá cơ sở») da E10RON95-III, que substituiu a RON95-III mineral, ao lado do da E5RON92.",
+        "Circulou a ideia de que a E10 seria obrigatória a 1 de janeiro de 2026, mas essa data vinha de um projeto: o texto final fixou 1 de junho.",
+        {
+          "h3": "A diferença de preço entre as duas não é fixa"
+        },
+        "Numa tabela de 8 de maio de 2026, ainda antes da mudança de 1 de junho, a E10RON95-III custava 23.730 por litro e a E5RON92-II 23.790, ou seja, 60 VND a menos (a tabela refere a «Zona 1»). Um título da VnBusiness, sem data legível, fala numa E10 mais cara do que a E5 em 600 VND por litro. Os dois valores são de momentos diferentes e mostram apenas que o diferencial muda de revisão para revisão.",
+        "As fontes consultadas não dizem a composição de cada produto nem qual deles serve a cada modelo. Pergunte à loja que gasolina pôr na mota que vai receber e, na bomba, mostre ao funcionário o nome que ela lhe deu, como sugere o guia do [combustível no aluguer](/precos/combustivel-no-aluguer/)."
+      ]
+    },
+    {
+      "h2": "Os valores de 2026 e o que os fez subir",
+      "body": [
+        "A tabela reúne os valores por litro que encontrámos, cada um com a sua data e o seu tipo. Não formam uma série contínua: uns são preços de um produto, outros um valor de comparação usado pelo ministério, e por isso não se devem subtrair uns aos outros.",
+        {
+          "table": {
+            "caption": "Valores vistos nas fontes em 2026 (VND por litro)",
+            "head": [
+              "Data",
+              "Valor",
+              "O que é"
+            ],
+            "rows": [
+              [
+                "10 de abril",
+                "E5RON92 até 22.344; RON95-III até 23.543",
+                "Valores máximos, segundo a Thư Viện Pháp Luật"
+              ],
+              [
+                "8 de maio",
+                "RON95-III 24.350; E10RON95-III 23.730; E5RON92-II 23.790",
+                "Tabela de preços ao público («Zona 1») da Thư Viện Pháp Luật"
+              ],
+              [
+                "16 de julho",
+                "E10RON95-III 20.550",
+                "Valor depois da subida de 547, a partir das 15:00"
+              ],
+              [
+                "10 de setembro",
+                "E10RON95-III acima de 24.000; outro excerto indica 24.239",
+                "Notícias sobre a revisão desse dia"
+              ],
+              [
+                "17 de setembro",
+                "25.886",
+                "«Preço da gasolina no Vietname» usado pelo MOIT na comparação com os países vizinhos"
+              ],
+              [
+                "8 de outubro",
+                "28.254",
+                "O mesmo tipo de valor de comparação; o excerto não diz o tipo de gasolina nem se é anterior ou posterior à revisão"
+              ]
+            ]
+          }
+        },
+        "Mesmo sem comparação rigorosa, a direção é clara: pouco mais de 20 mil VND por litro em julho e cerca de 28 mil no valor de comparação de outubro. Na comparação de 17 de setembro, o MOIT aponta a escalada do conflito entre os Estados Unidos e o Irão como o fator principal das subidas.",
+        "O comunicado de 8 de outubro cita ainda os preços mundiais médios do período: a RON92 a 147,668 USD por barril (mais 6,770) e a RON95 a 154,018 USD (mais 6,770). É uma ilustração do que entra numa revisão, não a fórmula completa, que as fontes não detalham."
+      ]
+    },
+    {
+      "h2": "Onde ver o valor do dia",
+      "body": [
+        "Para saber quanto custa o litro nesta semana, consulte, por esta ordem:",
+        {
+          "ol": [
+            "**O comunicado do ministério.** O MOIT publica um por revisão em moit.gov.vn. O de [8 de outubro de 2026](https://moit.gov.vn/tin-tuc/thong-tin-dieu-hanh-gia-xang-dau-ngay-8-10-2026.html) é um exemplo do formato.",
+            "**Portais jurídicos e de notícias.** Depois de cada revisão, portais como a Thư Viện Pháp Luật publicam a tabela do dia, com títulos do tipo «Giá xăng dầu hôm nay». Confira a data e o produto.",
+            "**O painel do posto.** É o que conta no momento de abastecer: confirme o valor aí antes de começar e, se for diferente do que leu, pergunte a que produto se refere."
+          ]
+        },
+        "As pesquisas em vietnamita funcionam melhor com as palavras dos títulos consultados.",
+        {
+          "table": {
+            "caption": "Palavras para pesquisar e ler os preços",
+            "head": [
+              "Em vietnamita",
+              "Em português"
+            ],
+            "rows": [
+              [
+                "giá xăng",
+                "Preço da gasolina"
+              ],
+              [
+                "giá xăng dầu hôm nay",
+                "Preço dos combustíveis hoje"
+              ],
+              [
+                "điều hành giá xăng dầu",
+                "Gestão do preço dos combustíveis"
+              ],
+              [
+                "xăng E10RON95-III, xăng E5RON92",
+                "Os nomes das duas gasolinas, como aparecem nos comunicados"
+              ],
+              [
+                "20.550 đồng/lít",
+                "Preço por litro em dong; o ponto separa os milhares"
+              ]
+            ]
+          }
+        },
+        "Desconfie de páginas sem data: numa das que consultámos, os valores não correspondiam a nenhum período identificável, e deixámo-los de fora."
+      ]
+    },
+    {
+      "h2": "Estimar a gasolina de um aluguer: o método",
+      "body": [
+        "A conta usa três dados: os quilómetros, o consumo e o preço do litro. O consumo anunciado pelos fabricantes vem de condições de teste e pode não coincidir com o do trânsito, por isso convém somar uma folga.",
+        "**Custo = quilómetros × consumo (litros aos 100 km) ÷ 100 × preço do litro.**",
+        "A tabela usa um consumo de exemplo de 2,0 litros aos 100 km, que não é o de nenhum modelo, e três preços do litro de exemplo dentro do intervalo de 2026. São contas nossas, para mostrar o método.",
+        {
+          "table": {
+            "caption": "Exemplo de cálculo com 2,0 litros aos 100 km (custo em VND)",
+            "head": [
+              "Percurso",
+              "Litro a 20 mil",
+              "Litro a 24 mil",
+              "Litro a 28 mil"
+            ],
+            "rows": [
+              [
+                "30 km",
+                "12.000",
+                "14.400",
+                "16.800"
+              ],
+              [
+                "60 km",
+                "24.000",
+                "28.800",
+                "33.600"
+              ],
+              [
+                "120 km",
+                "48.000",
+                "57.600",
+                "67.200"
+              ]
+            ]
+          }
+        },
+        "Duas regras de bolso, com este consumo de exemplo: cada mil VND de variação no preço do litro altera em 2 mil o custo de 100 km, e um consumo de 2,5 litros aos 100 km, em vez de 2,0, multiplica a conta por 1,25.",
+        {
+          "steps": [
+            {
+              "title": "Estime os quilómetros",
+              "text": "Some os percursos de todos os dias do aluguer, incluindo regressos e desvios."
+            },
+            {
+              "title": "Procure o consumo",
+              "text": "Use o anunciado pelo fabricante ou peça à loja os quilómetros que a unidade faz com um depósito."
+            },
+            {
+              "title": "Escolha o preço do litro",
+              "text": "Use o do último comunicado ou o do painel do posto e anote a data em que o leu."
+            },
+            {
+              "title": "Some uma folga e refaça a conta",
+              "text": "Acrescente uma margem para o trânsito e, num aluguer longo, repita o cálculo depois de cada revisão."
+            }
+          ]
+        },
+        "O aluguer em si tem tabela própria: {{price.min.day}} a {{price.max.day}} por dia, conforme o modelo, com preços verificados a {{pricing.verifiedAt}}. A gasolina é uma parcela à parte; os outros custos a prever estão em [custos além do preço](/precos/custos-alem-do-preco/), e a [tabela de preços](/precos/) mostra os valores de cada modelo."
+      ]
+    },
+    {
+      "h2": "O que as fontes não dizem: confirme antes de abastecer",
+      "body": [
+        "Há pontos que não conseguimos confirmar e que convém esclarecer antes de contar com um valor:",
+        {
+          "checklist": [
+            "Que gasolina leva a mota que vai receber e se a loja prefere um produto ou um posto.",
+            "Se o valor que leu é do produto, da data e da zona certos.",
+            "Como se passa do valor anunciado pelo Estado ao preço do painel do posto.",
+            "Qual é o consumo real da unidade que recebe e quantos quilómetros faz com um depósito.",
+            "Se o preço mudou na quinta-feira anterior ao dia em que vai abastecer."
+          ]
+        },
+        "Estas perguntas somam-se às de [perguntas a fazer antes de alugar](/guia-de-aluguer/perguntas-antes-de-alugar/); para dúvidas sobre o seu aluguer, use os [contactos da loja](/contactos/)."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "O preço da gasolina muda todos os dias?",
+      "a": "Não. Nas fontes consultadas, o valor é revisto de forma periódica, em regra à quinta-feira, com revisões consecutivas a 10 e 17 de setembro e a 1 e 8 de outubro de 2026. Houve exceções, como o ajuste de 29 de abril, numa quarta-feira. Confirme a data e a hora no comunicado da semana."
+    },
+    {
+      "q": "Quanto custa um litro de gasolina no Vietname?",
+      "a": "Em 2026, os valores por litro que encontrámos vão de cerca de 20,5 mil VND (E10RON95-III, a 16 de julho) a cerca de 28,3 mil (valor de comparação do ministério, a 8 de outubro). Não são preços de posto nem de hoje: veja o comunicado da semana."
+    },
+    {
+      "q": "Preciso de pedir E10 ou E5 na bomba?",
+      "a": "Depende da mota e do que a loja indicar. As fontes consultadas só confirmam que ambas se vendem em 2026 e que a E5RON92 se mantém até 31 de dezembro de 2030; não dizem qual serve cada modelo. Pergunte à loja e mostre ao funcionário a indicação dada."
+    },
+    {
+      "q": "O preço é igual em todo o país?",
+      "a": "As fontes consultadas não o confirmam. Uma tabela de 8 de maio de 2026 refere a «Zona 1», o que sugere valores por zona, mas não confirmámos que zona corresponde a Hanói. Confirme o valor no painel do posto."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Informação do Ministério da Indústria e Comércio sobre a gestão do preço dos combustíveis de 8 de outubro de 2026 (em vietnamita)",
+      "publisher": "Bộ Công Thương (moit.gov.vn)",
+      "url": "https://moit.gov.vn/tin-tuc/thong-tin-dieu-hanh-gia-xang-dau-ngay-8-10-2026.html",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "vi"
+    },
+    {
+      "title": "Informações do Ministério da Indústria e Comércio sobre a gestão do preço dos combustíveis de 17 de setembro de 2026 (em vietnamita)",
+      "publisher": "Bộ Công Thương (moit.gov.vn)",
+      "url": "https://moit.gov.vn/tin-tuc/mot-so-thong-tin-ve-viec-dieu-hanh-gia-xang-dau-ngay-17-9.html",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "vi"
+    },
+    {
+      "title": "Informações do Ministério da Indústria e Comércio sobre a gestão do preço dos combustíveis de 1 de outubro de 2026 (em vietnamita)",
+      "publisher": "Bộ Công Thương (moit.gov.vn)",
+      "url": "https://moit.gov.vn/tin-tuc/mot-so-thong-tin-dang-chu-y-ve-dieu-hanh-gia-xang-dau-ngay-1-10.html",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "vi"
+    },
+    {
+      "title": "Kỳ điều hành giá xăng dầu ngày 10/9/2026: Giá xăng dầu đồng loạt tăng, xăng E10RON95-III vượt 24.000 đồng/lít",
+      "publisher": "Tạp chí Công Thương",
+      "url": "https://tapchicongthuong.vn/ky-dieu-hanh-gia-xang-dau-ngay-10-9-2026--gia-xang-dau-dong-loat-tang--xang-e10ron95-iii-vuot-24-000-dong-lit-548847.htm",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Gasoline and oil prices fluctuate from 3 PM on September 10th",
+      "publisher": "Lao Động (news.laodong.vn)",
+      "url": "https://news.laodong.vn/thi-truong/gia-xang-dau-bien-dong-tu-15h-ngay-109-1764499.ldo",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "en"
+    },
+    {
+      "title": "Notícia sobre a continuação do ajuste dos preços dos combustíveis (em vietnamita)",
+      "publisher": "Doanh nhân – Báo Pháp luật Việt Nam",
+      "url": "https://doanhnhan.baophapluat.vn/gia-xang-dau-tiep-tuc-duoc-dieu-chinh-0ab90ae5.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Página de etiquetas «xăng E5» do portal Thị trường Tài chính Tiền tệ (em vietnamita)",
+      "publisher": "Thị trường Tài chính Tiền tệ",
+      "url": "https://thitruongtaichinhtiente.vn/xang-e5-ptag.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Giá xăng hôm nay ngày 10/4/2026 bao nhiêu tiền một lít?",
+      "publisher": "Thư Viện Pháp Luật",
+      "url": "https://thuvienphapluat.vn/ma-so-thue/phap-luat-thue/gia-xang-hom-nay-ngay-1042026-bao-nhieu-tien-mot-lit-223165.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "Giá xăng dầu thứ 6 ngày 8/5/2026 bao nhiêu tiền 1 lít?",
+      "publisher": "Thư Viện Pháp Luật",
+      "url": "https://thuvienphapluat.vn/hoi-dap-phap-luat/gia-xang-dau-thu-6-ngay-852026-bao-nhieu-tien-1-lit-138089652.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "MỚI NHẤT bảng giá xăng dầu 10/5/2026 RON95, E5, dầu diesel bao nhiêu tiền 1 lít?",
+      "publisher": "Thư Viện Pháp Luật",
+      "url": "https://thuvienphapluat.vn/hoi-dap-phap-luat/moi-nhat-bang-gia-xang-dau-1052026-ron95-e5-dau-diesel-bao-nhieu-tien-1-lit-138090070.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "Giá xăng dầu hôm nay 23/5/2026 E10, E5, RON95, dầu diesel bao nhiêu tiền 1 lít?",
+      "publisher": "Thư Viện Pháp Luật",
+      "url": "https://thuvienphapluat.vn/hoi-dap-phap-luat/gia-xang-dau-hom-nay-2352026-e10-e5-ron95-dau-diesel-bao-nhieu-tien-1-lit-138091588.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "Thực hư tất cả ôtô, xe máy từ 01/01/2026 bắt buộc phải sử dụng xăng E10? Xăng E10 là xăng gì?",
+      "publisher": "Thư Viện Pháp Luật",
+      "url": "https://thuvienphapluat.vn/phap-luat/ho-tro-phap-luat/thuc-hu-tat-ca-oto-xe-may-tu-01012026-bat-buoc-phai-su-dung-xang-e10-xang-e10-la-xang-gi-226732.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "Lần đầu tiên công bố giá cơ sở đối với mặt hàng xăng E10",
+      "publisher": "VnEconomy",
+      "url": "https://vneconomy.vn/lan-dau-tien-cong-bo-gia-co-so-doi-voi-mat-hang-xang-e10.htm",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Đề xuất phương tiện cơ giới trên toàn quốc sử dụng xăng E10 từ 1/1/2026",
+      "publisher": "Báo Lào Cai",
+      "url": "https://baolaocai.vn/de-xuat-phuong-tien-co-gioi-tren-toan-quoc-su-dung-xang-e10-tu-112026-post880368.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Giá xăng E10 cao hơn xăng E5 600 đồng/lít",
+      "publisher": "VnBusiness",
+      "url": "https://vnbusiness.vn/gia-xang-e10-cao-hon-xang-e5-600-donglit.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    }
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "PUBLISHED",
+  "date_published": "2026-10-13",
+  "date_modified": "2026-10-13",
+  "editorial": {
+    "qa_score": 100,
+    "qa_warnings": [],
+    "words": 1986,
+    "publish_mode": "review",
+    "approved_at": "2026-10-13",
+    "revisions": []
+  }
+}

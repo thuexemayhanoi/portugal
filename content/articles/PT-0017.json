@@ -1,0 +1,308 @@
+{
+  "contract_version": 1,
+  "id": "PT-0017",
+  "slug": "luzes-de-aviso-do-painel",
+  "title": "Luzes de aviso no painel da scooter: o que significam",
+  "description": "Que luzes pode ver no painel de uma scooter alugada em Hanói, o que quer dizer a luz da injeção acesa e quando deve parar a mota e contactar a loja.",
+  "h1": "As luzes do painel da scooter: o que verificar antes de sair e quando parar",
+  "summary": "No painel de uma scooter Honda, a luz de aviso que mais conta é a da injeção (PGM-FI): segundo os manuais da marca, acende por instantes quando se liga a ignição, o que é normal, mas não deve ficar acesa com o motor a trabalhar. Se ficar, encoste em segurança e contacte a loja. Os avisos de reserva, óleo e ABS variam de modelo para modelo: peça que lhos mostrem na entrega.",
+  "key_points": [
+    "Ao ligar a ignição, a luz da injeção acende por instantes: faz parte do funcionamento normal.",
+    "Acesa com o motor a trabalhar, indica um problema na injeção: encoste em segurança e contacte a loja.",
+    "Uma luz que acende e apaga pode ser mau contacto numa ficha elétrica, mas deve ser verificada se se repetir.",
+    "Segundo a Honda, só um técnico do concessionário apaga o erro: numa mota alugada, quem decide onde a mota é vista é a loja.",
+    "O «A» com uma seta circular é o Idling Stop, uma função, e não uma avaria.",
+    "Reserva, óleo e ABS mudam com o modelo: ligue a ignição na entrega e peça que lhe expliquem cada símbolo."
+  ],
+  "intro": [
+    "O painel de uma scooter tem pouco espaço e vários símbolos, e quase todos passam despercebidos até ao dia em que um deles fica aceso. Numa mota alugada, esse momento traz logo duas dúvidas: posso continuar ou tenho de parar já? E quem decide o que se faz a seguir?",
+    "Este guia junta o que a Honda explica sobre as luzes do painel, a partir de documentação da Honda Vietname consultada em outubro de 2026: os manuais da Vario, da Air Blade e da Vision, o da Wave RSX FI (uma semiautomática) e as perguntas frequentes da marca. Cada modelo e cada ano têm o seu painel, e a unidade que lhe entregam pode ter símbolos diferentes. Use este guia para saber o que perguntar e confirme sempre na sua mota, com quem lha entrega."
+  ],
+  "sections": [
+    {
+      "h2": "Ao ligar a ignição: o que é normal ver",
+      "body": [
+        "O primeiro momento para olhar para o painel é antes de arrancar. Segundo os manuais da Vario, da Air Blade e da Wave RSX FI, a luz de aviso da injeção acende por instantes quando se liga a ignição. É o comportamento normal, e não uma avaria.",
+        "O que conta é o que acontece a seguir. Com o motor a trabalhar, essa luz não deve ficar acesa: se ficar, os mesmos manuais indicam que há um problema a tratar.",
+        "Faça este teste quando receber a mota e repita-o nos primeiros dias:",
+        {
+          "steps": [
+            {
+              "title": "Ignição ligada, motor parado",
+              "text": "Ligue a ignição e olhe para o painel durante uns segundos. Repare nas luzes que acendem."
+            },
+            {
+              "title": "Arranque",
+              "text": "Recolha o descanso lateral e dê o arranque: nos modelos com interruptor do descanso, a mota não arranca com ele em baixo. Espere que o motor estabilize."
+            },
+            {
+              "title": "Painel com o motor a trabalhar",
+              "text": "Confirme que a luz da injeção se apagou. Se alguma luz continuar acesa, pergunte o que significa antes de sair."
+            },
+            {
+              "title": "Fotografia",
+              "text": "Fotografe o painel ligado, com a quilometragem e o combustível visíveis, como se explica no guia para [fotografar a mota alugada](/guia-de-aluguer/fotografar-a-mota/)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "A luz da injeção (PGM-FI): a mais importante",
+      "body": [
+        "PGM-FI é o nome que a Honda dá à sua injeção eletrónica de combustível. O sistema tem uma luz de aviso própria, a que os manuais chamam MIL (luz indicadora de avaria), e é essa a luz que mais importa conhecer.",
+        "Segundo as perguntas frequentes da Honda Vietname:",
+        {
+          "ul": [
+            "a luz acende quando o sistema de injeção tem um problema;",
+            "há falhas temporárias em que a mota continua a funcionar normalmente;",
+            "a luz pode aparecer e depois desaparecer por mau contacto das fichas elétricas e, se isso se repetir, a mota deve ser verificada;",
+            "a luz só se apaga de vez quando a avaria é resolvida e a memória de erros é limpa por um técnico do concessionário."
+          ]
+        },
+        "Para estes casos, a Honda recomenda levar a mota à loja Honda autorizada (HEAD) mais próxima, para verificar, reparar e apagar o erro. Numa mota alugada, o primeiro contacto é a loja de aluguer: é ela que decide se a mota segue até lá, se alguém a vem ver ou para onde vai.",
+        {
+          "note": "O facto de a mota continuar a andar bem não prova que a luz é inofensiva. A Honda admite falhas temporárias, mas manda verificar. Diga sempre à loja que a luz acendeu, mesmo que se tenha apagado entretanto.",
+          "tone": "warn",
+          "title": "Mota a andar bem não é luz sem importância"
+        }
+      ]
+    },
+    {
+      "h2": "Se a luz da injeção acender em andamento",
+      "body": [
+        "Uma luz que acende a meio do trânsito assusta, mas a pressa é má conselheira. Siga esta ordem:",
+        {
+          "steps": [
+            {
+              "title": "Sinalize e encoste",
+              "text": "Não trave a fundo nem pare no meio da faixa. Ligue o pisca, procure um sítio seguro fora do trânsito e pare lá."
+            },
+            {
+              "title": "Observe a mota",
+              "text": "O motor continua a trabalhar de forma regular? Há ruídos, cheiros, fumo ou perda de força? Anote o que notar."
+            },
+            {
+              "title": "Registe",
+              "text": "Fotografe o painel com a luz acesa e, se possível, grave um vídeo curto com o motor a trabalhar. Guarde a localização."
+            },
+            {
+              "title": "Contacte a loja",
+              "text": "Ligue ou escreva para o {{phone}} com as imagens, a localização e o que notou, e espere por instruções."
+            },
+            {
+              "title": "Não improvise",
+              "text": "Não leve a mota a uma oficina, não desligue fichas e não tente apagar o erro sem o acordo da loja."
+            }
+          ]
+        },
+        "A loja funciona {{hours}}. Fora desse horário, envie a mensagem na mesma, para ficar registada, e ponha-se em segurança. O guia de [assistência na estrada](/guia-de-aluguer/assistencia-na-estrada/) ajuda a organizar a espera, e o guia para [comunicar sem falar vietnamita](/guia-de-aluguer/comunicar-sem-falar-vietnamita/) mostra como descrever o problema por escrito.",
+        "Longe da cidade, a mesma luz complica mais a resposta. O guia sobre uma [avaria fora de Hanói](/guia-de-aluguer/avaria-longe-de-hanoi/) explica o que combinar com a loja antes de partir."
+      ]
+    },
+    {
+      "h2": "Indicadores que não são avarias",
+      "body": [
+        "Nem todas as luzes do painel são avisos. Algumas só dizem que uma função está ligada:",
+        {
+          "ul": [
+            "**Idling Stop**: o manual da Vision refere uma luz indicadora desta função, e a imprensa vietnamita descreve o símbolo como a letra «A» rodeada por uma seta circular. Com ela acesa, é normal o motor desligar-se nas paragens e voltar a pegar quando roda o acelerador.",
+            "**Chave inteligente**: no procedimento de emergência da Smart Key, a Honda refere uma luz da chave inteligente. Se a sua unidade tiver este sistema, pergunte onde fica essa luz e o que indica."
+          ]
+        },
+        "Na dúvida entre um indicador e um aviso, a regra é a mesma: fotografe o painel e pergunte à loja."
+      ]
+    },
+    {
+      "h2": "Combustível, óleo e ABS: o que varia de modelo para modelo",
+      "body": [
+        {
+          "h3": "Reserva de combustível"
+        },
+        "O indicador de combustível não é igual em todas as motas, e a forma de mostrar a reserva também pode variar. As fontes da Honda citadas neste guia não descrevem o aviso de reserva, por isso peça que lho mostrem na entrega. Na prática, não espere por ele para abastecer, sobretudo antes de um trajeto à noite ou fora do centro. O guia sobre o [combustível no aluguer](/precos/combustivel-no-aluguer/) explica como ler o indicador sem enganos e com que nível devolver a mota.",
+        {
+          "h3": "Mudança de óleo"
+        },
+        "Os manuais de alguns modelos Honda distinguem a luz da injeção de um aviso de mudança de óleo. São coisas diferentes: uma assinala uma avaria na injeção, a outra diz respeito à manutenção. Como e quando esse aviso acende não está descrito nas fontes consultadas. Se acender durante o aluguer, diga-o à loja e combine com ela a mudança de óleo. Num [aluguer mensal](/precos/aluguer-mensal-de-mota/), vale a pena perguntar logo no início quem trata dela e onde.",
+        {
+          "h3": "ABS"
+        },
+        "Algumas scooters têm ABS. Na Air Blade, por exemplo, a Honda equipou a versão de 160 cm³ com ABS na roda da frente e, no modelo de 2026, também a versão desportiva da 125, como explica o guia sobre a [Air Blade 125 ou 160](/tipos-de-motas/honda-air-blade-125-ou-160/). Se a sua unidade tiver ABS, pergunte se há uma luz de aviso própria e como se deve comportar ao ligar a mota e em andamento: as fontes consultadas não o descrevem."
+      ]
+    },
+    {
+      "h2": "Resumo: luz, significado e o que fazer",
+      "body": [
+        "Guarde esta tabela no telemóvel. Não substitui a explicação da loja sobre a sua unidade, mas ajuda a decidir depressa:",
+        {
+          "table": {
+            "caption": "Luzes do painel: o essencial para decidir",
+            "head": [
+              "O que vê",
+              "O que significa",
+              "O que fazer"
+            ],
+            "rows": [
+              [
+                "Luz da injeção acende ao ligar a ignição e apaga-se",
+                "Funcionamento normal",
+                "Nada"
+              ],
+              [
+                "Luz da injeção acesa com o motor a trabalhar",
+                "Problema no sistema de injeção",
+                "Encostar em segurança e contactar a loja"
+              ],
+              [
+                "Luz da injeção que acende e apaga",
+                "Pode ser mau contacto numa ficha elétrica",
+                "Avisar a loja; se se repetir, a mota deve ser verificada"
+              ],
+              [
+                "«A» com uma seta circular",
+                "Idling Stop ativo",
+                "Nada: o motor desliga-se nas paragens e volta a pegar ao acelerar"
+              ],
+              [
+                "Aviso de mudança de óleo (alguns modelos)",
+                "Manutenção, e não avaria da injeção",
+                "Avisar a loja e combinar a mudança"
+              ],
+              [
+                "Indicador de combustível na reserva",
+                "Pouca gasolina no depósito",
+                "Abastecer na primeira bomba"
+              ],
+              [
+                "Luz do ABS (se existir)",
+                "Varia com o modelo",
+                "Pedir a explicação na entrega"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "h2": "Antes de sair da loja: dois minutos com o painel",
+      "body": [
+        "A entrega é o melhor momento para conhecer o painel, com quem conhece a mota ao lado. Peça:",
+        {
+          "checklist": [
+            "que liguem a ignição à sua frente e lhe mostrem que luzes acendem e quais se devem apagar;",
+            "a explicação de cada símbolo que fique aceso com o motor a trabalhar;",
+            "onde está o indicador de combustível e como aparece a reserva;",
+            "se a unidade tem Idling Stop, chave inteligente, ABS ou aviso de mudança de óleo;",
+            "o que fazer, e a quem ligar, se uma luz acender a meio do caminho."
+          ]
+        },
+        "Se uma luz de aviso ficar acesa com o motor a trabalhar ainda na loja, não saia com a mota: peça que vejam o problema ou que lhe deem outra unidade. Se o problema surgir a meio do aluguer, o guia sobre [trocar de mota](/guia-de-aluguer/trocar-de-mota/) explica como pedir outra.",
+        "As restantes verificações da entrega estão no guia sobre [receber a mota alugada](/guia-de-aluguer/receber-a-mota/), e a página das [scooters automáticas](/tipos-de-motas/scooters/) resume os modelos para alugar. Para perguntar pelo painel da unidade que lhe propõem, use os [contactos da loja](/contactos/)."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Posso continuar a conduzir com a luz da injeção acesa?",
+      "a": "Não decida sozinho. A Honda admite falhas temporárias em que a mota continua a funcionar normalmente, mas recomenda que seja verificada num concessionário. Encoste, fotografe o painel e pergunte à loja se pode seguir até ela, devagar, ou se deve esperar onde está."
+    },
+    {
+      "q": "A luz da injeção apagou-se sozinha. Ainda tenho de avisar a loja?",
+      "a": "Sim. Segundo a Honda, a luz pode aparecer e desaparecer por mau contacto nas fichas elétricas, e um aviso que se repete deve ser verificado. Diga à loja quando acendeu, quanto tempo ficou acesa e o que estava a fazer nesse momento."
+    },
+    {
+      "q": "Uma oficina de rua pode apagar a luz da injeção?",
+      "a": "Segundo a Honda, a luz só se apaga de vez quando a avaria é resolvida e um técnico do concessionário limpa a memória de erros. Numa mota alugada, quem decide onde e por quem a mota é vista é a loja: não a leve a uma oficina, nem só para «apagar a luz», sem o acordo dela."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Perguntas frequentes da Honda Việt Nam sobre o uso da mota (em vietnamita)",
+      "publisher": "Honda Việt Nam",
+      "url": "https://www.honda.com.vn/cau-hoi-thuong-gap?category=san-pham&category_child=tu-van-su-dung-xe-may",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "VARIO HƯỚNG DẪN SỬ DỤNG",
+      "publisher": "Honda Việt Nam",
+      "url": "https://cdn.honda.com.vn/motorbike-manual/September2025/tOFNiq8LS4zGqR8zVg7f.pdf",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "Air Blade — Hướng dẫn sử dụng (manual do utilizador, PDF em vietnamita)",
+      "publisher": "Honda Việt Nam",
+      "url": "https://cdn.honda.com.vn/motorbike-manual/September2025/NC8346r3AExXZtAvFuMG.pdf",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "SÁCH HƯỚNG DẪN SỬ DỤNG Wave RSX FI",
+      "publisher": "Honda Việt Nam",
+      "url": "https://cdn.honda.com.vn/motorbike-manual/September2025/EzA6x0gXYsjvv9AhkVm2.pdf",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "4FK44A20 00X4F-K44-A200 SÁCH HƯỚNG DẪN SỬ DỤNG Vision Vision",
+      "publisher": "Honda Việt Nam",
+      "url": "https://cdn.honda.com.vn/motorbike-manual/September2025/vax6VIxISbzWmEpEfkZX.pdf",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "Xe máy Honda gặp lỗi Idling Stop khiến người dùng bất an",
+      "publisher": "VietnamFinance",
+      "url": "https://vietnamfinance.vn/xe-may-honda-gap-loi-idling-stop-khien-nguoi-dung-bat-an-d94272.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Perguntas frequentes da Honda Việt Nam: informações gerais (em vietnamita)",
+      "publisher": "Honda Việt Nam",
+      "url": "https://honda.com.vn/cau-hoi-thuong-gap?category=&category_child=&category_tab=thong-tin-chung",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "Air Blade 160",
+      "publisher": "Honda Việt Nam",
+      "url": "https://www.honda.com.vn/xe-may/san-pham/air-blade-160125?category=2",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "Apresentação dos modelos de 2026 da SH160i/125i, da Air Blade 160/125 e da LEAD ABS (notícia em vietnamita)",
+      "publisher": "Honda Việt Nam",
+      "url": "https://www.honda.com.vn/xe-may/tin-tuc/honda-viet-nam-chinh-thuc-gioi-thieu-sh160i125i-air-blade-160125-va-lead-abs-moi-2026-tai-su-kien-khai-pha-dau-an-doc-ban",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    }
+  ],
+  "legal_note": false,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "PUBLISHED",
+  "date_published": "2026-10-13",
+  "date_modified": "2026-10-13",
+  "editorial": {
+    "qa_score": 100,
+    "qa_warnings": [],
+    "words": 1775,
+    "publish_mode": "review",
+    "approved_at": "2026-10-13",
+    "revisions": []
+  }
+}

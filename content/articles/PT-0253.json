@@ -1,0 +1,305 @@
+{
+  "contract_version": 1,
+  "id": "PT-0253",
+  "slug": "aeroporto-noi-bai-de-mota",
+  "title": "Do aeroporto de Nội Bài para Hanói: de mota ou não?",
+  "description": "O trajeto de Nội Bài para Hanói segue por vias rápidas com restrições a motas. O que dizem as regras e como chegar de autocarro, táxi ou aplicação.",
+  "h1": "Do aeroporto de Nội Bài ao centro de Hanói: porque é melhor não fazer este trajeto de mota",
+  "summary": "Não é boa ideia fazer de mota o trajeto entre o aeroporto de Nội Bài e Hanói. O eixo mais direto, a avenida Võ Nguyên Giáp, tem sinais que restringem as motas, as autoestradas estão-lhes vedadas e são cerca de 33 km até à Estação de Hanói, feitos logo a seguir a um voo longo. Chegue de autocarro, táxi ou aplicação e levante a mota já na cidade.",
+  "key_points": [
+    "O percurso do autocarro 86 entre o aeroporto e a Estação de Hanói tem 33 km e passa pela avenida Võ Nguyên Giáp e pela ponte Nhật Tân.",
+    "Na Võ Nguyên Giáp, as fontes divergem: umas descrevem uma proibição de motas em toda a via, outras só nas faixas dos automóveis. Nenhuma confirma um percurso alternativo.",
+    "Entrar de mota numa autoestrada dá coima de 4 a 6 milhões de VND e perda de 6 pontos, segundo as regras consultadas em outubro de 2026.",
+    "Cinco linhas de autocarro (07, 17, 86, 90 e 109), o táxi e as aplicações de transporte resolvem a chegada sem conduzir.",
+    "Levante a mota na cidade, depois de descansar e com luz do dia: na loja, em Long Biên, ou no alojamento, se a loja o confirmar."
+  ],
+  "intro": [
+    "O aeroporto de Nội Bài fica a norte do centro de Hanói, do outro lado do rio Vermelho. A ligação mais direta à cidade, a avenida Võ Nguyên Giáp e a ponte Nhật Tân, foi inaugurada ao mesmo tempo que o terminal moderno do aeroporto e funciona hoje como via rápida.",
+    "Para quem vai alugar mota em Hanói, é natural perguntar se não seria prático sair do aeroporto já ao guiador. Este guia reúne o que se sabe sobre a estrada e as regras, explica porque é que o cansaço da viagem pesa tanto na decisão e mostra como fazer a chegada de autocarro, táxi ou aplicação, deixando a mota para a cidade."
+  ],
+  "sections": [
+    {
+      "h2": "O trajeto entre Nội Bài e o centro",
+      "body": [
+        "Para ter uma ordem de grandeza: o percurso do autocarro 86, que liga o aeroporto à Estação de Hanói (Ga Hà Nội), tem 33 km, segundo a notícia da inauguração da linha. De acordo com guias de viagem locais, o autocarro sai dos terminais T1 e T2 e segue pela avenida Võ Nguyên Giáp. Depois atravessa o rio Vermelho pela ponte Nhật Tân e entra na cidade pela rua Âu Cơ, junto ao Lago Oeste, antes de seguir para o centro e para a estação.",
+        "Para quem pensa ir de mota, é neste eixo que começam as dúvidas. A avenida, a ponte e o terminal foram inaugurados em conjunto, como ligação rápida ao aeroporto. Em setembro de 2025, foi proposto subir para 100 km/h a velocidade máxima na via que liga o aeroporto ao centro, e a Polícia de Trânsito sugeriu sinais de «faixa reservada a automóveis». À data de consulta deste guia, não estava confirmado o que foi aprovado.",
+        "As fontes consultadas também não dão um tempo de viagem fiável: depende da hora, do trânsito e do ponto da cidade onde vai ficar. Conte, em qualquer caso, com um trajeto longo para fazer logo depois de aterrar."
+      ]
+    },
+    {
+      "h2": "Motas na avenida Võ Nguyên Giáp: o que dizem as fontes",
+      "body": [
+        "No dia em que a avenida abriu ao trânsito, a VTC News noticiou sinais de proibição para motas no eixo que liga a Võ Nguyên Giáp ao aeroporto. Sobre o alcance dessa proibição, as fontes consultadas em outubro de 2026 não coincidem:",
+        {
+          "ul": [
+            "**Proibição em toda a via**: sinais que vedam o eixo Võ Nguyên Giáp–aeroporto a motociclos, ciclomotores, bicicletas elétricas e veículos não motorizados, sem que o excerto disponível diga a que troço exato se aplicam.",
+            "**Proibição nas faixas dos automóveis**: outras descrições falam de motas e veículos não motorizados impedidos de circular nas mesmas faixas que os carros, sem que se confirme a existência de vias laterais para motas ao longo da avenida."
+          ]
+        },
+        "Também não foi possível confirmar um percurso alternativo autorizado para motas entre o aeroporto e a cidade, por isso este guia não sugere nenhum. Para quem chega de avião com uma mota alugada à espera, a conclusão prática é a mesma em qualquer das leituras: não é um trajeto a planear de mota.",
+        {
+          "note": "Uma aplicação de navegação configurada para automóvel pode propor precisamente a via com restrições. Se circular de mota nesta zona, a sinalização no local é que conta, e não o percurso sugerido pelo telemóvel.",
+          "tone": "warn",
+          "title": "Mapas e sinalização"
+        }
+      ]
+    },
+    {
+      "h2": "Autoestradas e faixas: as regras e as coimas",
+      "body": [
+        "Duas regras nacionais completam o quadro. Os valores abaixo são os que estavam em vigor em outubro de 2026, segundo as fontes consultadas:",
+        {
+          "table": {
+            "caption": "Regras que pesam num trajeto de mota até ao aeroporto (valores nacionais)",
+            "head": [
+              "Situação",
+              "Regra",
+              "Coima para quem conduz"
+            ],
+            "rows": [
+              [
+                "Entrar numa autoestrada (cao tốc)",
+                "Motociclos e ciclomotores não podem circular em autoestradas",
+                "4 a 6 milhões de VND e perda de 6 pontos, pelo Decreto 168/2024/NĐ-CP"
+              ],
+              [
+                "Circular fora da faixa própria",
+                "A mota segue na faixa que lhe cabe, e não na dos automóveis",
+                "600 mil a 800 mil VND"
+              ]
+            ]
+          }
+        },
+        "A proibição das autoestradas não fica no papel: em fevereiro de 2026, motociclistas estrangeiros foram multados na autoestrada Tuyên Quang–Phú Thọ. Em Hanói, uma resolução municipal agravou várias coimas a partir de 1 de julho de 2026. As fontes consultadas não confirmam se estas duas infrações estão abrangidas, por isso a tabela mostra os valores nacionais.",
+        "A estas regras soma-se a da habilitação: para conduzir uma mota no Vietname, um visitante precisa da carta de condução da categoria adequada e de uma licença internacional reconhecida no país. O guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/) separa o que a loja pede para alugar do que a lei exige para conduzir, e o guia [como evitar multas de trânsito em Hanói](/guia-de-aluguer/como-evitar-multas/) reúne os erros que mais vezes dão coima."
+      ]
+    },
+    {
+      "h2": "Depois de um voo longo: cansaço, bagagem e escuridão",
+      "body": [
+        "Mesmo que a estrada fosse simples, a chegada seria o pior momento para estrear uma mota. Ao fim de muitas horas de viagem, e com a diferença horária, a atenção falha mais depressa num trânsito que pede reflexos a cada segundo. O Vietname está mais 7 horas do que Portugal continental no inverno e mais 6 no verão.",
+        {
+          "ul": [
+            "**Bagagem**: uma mala grande não viaja em segurança numa scooter. Desequilibra a mota nas travagens e nas curvas e, com a regra geral de um passageiro por mota, não há onde a acomodar se viajar acompanhado.",
+            "**Escuridão**: numa chegada à noite, os sinais leem-se pior, e uma saída falhada numa via rápida obriga a manobras perigosas.",
+            "**Mota e trânsito desconhecidos**: cada mota tem o seu peso e a sua travagem, e a forma de entrar nos cruzamentos de Hanói aprende-se a observar, não numa via rápida logo à saída do aeroporto."
+          ]
+        },
+        "Por isso, mesmo para quem conduz bem, o mais prudente é deixar a primeira volta para o dia seguinte. O guia [quando é melhor não conduzir em Hanói](/rotas-e-mobilidade/quando-nao-conduzir/) inclui o dia da chegada entre as situações em que a mota deve ficar parada."
+      ]
+    },
+    {
+      "h2": "Como chegar à cidade sem mota: autocarros, táxi e aplicações",
+      "body": [
+        "Há alternativas para todos os orçamentos. O autocarro é a mais barata; o táxi e as aplicações de transporte são as mais diretas, sobretudo com bagagem ou à noite.",
+        {
+          "h3": "Autocarros"
+        },
+        "Segundo guias de viagem locais e o site da companhia aérea nacional vietnamita, cinco linhas de autocarro ligam o aeroporto à cidade. Quatro são linhas subsidiadas (07, 17, 90 e 109); a 86 é uma linha de qualidade superior, sem subsídio.",
+        {
+          "table": {
+            "caption": "Autocarros entre o aeroporto de Nội Bài e a cidade (valores de referência, a confirmar)",
+            "head": [
+              "Linha",
+              "Extremo na cidade",
+              "Horário e preço indicados"
+            ],
+            "rows": [
+              [
+                "86",
+                "Estação de Hanói (Ga Hà Nội), passando pelo centro",
+                "Das 05:15 às 22:10, a cada 25–30 minutos, segundo um guia; outra fonte indica das 07:00 às 22:05. Bilhete de 30 mil VND na inauguração e de 45 mil VND num guia de viagem"
+              ],
+              [
+                "17",
+                "Terminal com o nome «Long Biên»",
+                "Das 05:00 às 20:30, a cada 10–15 minutos; bilhete de 9 mil VND"
+              ],
+              [
+                "07",
+                "Cầu Giấy",
+                "Horário e preço a confirmar na paragem"
+              ],
+              [
+                "90",
+                "Kim Mã",
+                "Horário e preço a confirmar na paragem"
+              ],
+              [
+                "109",
+                "Terminal de autocarros de Mỹ Đình",
+                "Horário e preço a confirmar na paragem"
+              ]
+            ]
+          }
+        },
+        "Para as linhas 07, 17, 90 e 86, o site da companhia aérea indica bilhetes entre 9 mil e 30 mil VND. Como os valores mudam de fonte para fonte, sobretudo na linha 86, confirme o preço ao embarcar.",
+        {
+          "note": "O terminal da linha 17 chama-se «Long Biên», e a linha 86 passa por um ponto de correspondência com o mesmo nome, na rua Yên Phụ. Nenhum dos dois indica a zona da loja, em Bồ Đề: veja no mapa onde fica a paragem antes de contar com o autocarro para chegar perto dela.",
+          "tone": "info",
+          "title": "«Long Biên» no letreiro não é a morada da loja"
+        },
+        {
+          "h3": "Táxi e aplicações de transporte"
+        },
+        "A mesma página da companhia aérea dá um valor de referência de cerca de 250 mil VND para um táxi do aeroporto ao centro. Entre as empresas de táxi que servem Nội Bài, os guias locais citam a Mai Linh, a G7, a Thăng Long e a Thành Công. Nas aplicações de transporte, como a Grab, o preço aparece antes de confirmar a viagem.",
+        "Recuse ofertas de transporte de quem o aborde à saída do terminal. Prefira um táxi de uma empresa identificada ou uma viagem pedida na aplicação e mostre ao condutor a morada do alojamento escrita em vietnamita.",
+        {
+          "h3": "Antes de sair do terminal"
+        },
+        {
+          "checklist": [
+            "A morada do alojamento em vietnamita, com acentos e número do beco (ngõ), numa captura de ecrã.",
+            "Algum dinheiro vietnamita em notas pequenas: as notas de polímero vão de 10 mil a 500 mil VND, segundo o Banco do Estado do Vietname, e um bilhete de autocarro vale uma pequena fração da nota mais alta.",
+            "Dados móveis ou Wi-Fi, para pedir a viagem na aplicação e avisar o alojamento de que vai a caminho.",
+            "Se já tiver mota reservada, o contacto da loja guardado no telemóvel: {{phone}}."
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "Levantar a mota já na cidade",
+      "body": [
+        "Com a chegada resolvida, a mota entra quando faz sentido: na cidade, depois de descansar e com luz do dia. Há duas formas de a receber:",
+        {
+          "ul": [
+            "**Na loja**, em {{area}}: mostre ao taxista a morada {{address.vi}}. O guia do [aluguer de motas em Long Biên](/zonas-de-hanoi/aluguer-de-motas-em-long-bien/) explica o que levar e como fazer os primeiros quilómetros deste lado do rio.",
+            "**No alojamento**, se a loja confirmar a entrega para a sua morada, data e hora: o guia da [entrega da mota no hotel](/precos/entrega-da-mota-no-hotel/) diz que informação enviar e o que verificar à porta."
+          ]
+        },
+        "A loja está aberta {{hours}}. Se aterrar perto do fecho ou depois dele, siga diretamente para o alojamento e combine o levantamento para a manhã seguinte.",
+        "Outros guias sobre bairros, pontes e pontos de interesse estão reunidos em [Zonas de Hanói](/zonas-de-hanoi/), incluindo a travessia da [ponte Long Biên de mota](/zonas-de-hanoi/ponte-long-bien/), útil para os primeiros dias."
+      ]
+    },
+    {
+      "h2": "No regresso: devolver a mota antes de seguir para o aeroporto",
+      "body": [
+        "O mesmo raciocínio vale no fim da viagem. Devolva a mota na loja e faça o trajeto até Nội Bài de táxi ou de autocarro, com a bagagem. Se o voo partir de manhã cedo, antes da abertura às {{opens}}, o mais simples é devolver a mota na véspera; o guia das [horas de levantamento e devolução](/precos/horas-de-levantamento-e-devolucao/) ajuda a encaixar a devolução no horário do voo.",
+        "Deixar a mota noutro sítio, como o aeroporto, não é algo a presumir. Se lhe interessar, pergunte à loja com antecedência e veja o que combinar no guia sobre [devolver a mota noutro local](/guia-de-aluguer/devolver-noutro-local/)."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Posso usar a mota alugada para ir buscar alguém ao aeroporto?",
+      "a": "Não é aconselhável. O caminho mais direto, a avenida Võ Nguyên Giáp, tem restrições a motas que as fontes descrevem de formas diferentes, e nenhuma confirma um percurso alternativo. Além disso, a regra geral é um passageiro por mota, e as malas de quem chega não viajam bem numa scooter. Para ir buscar alguém, um táxi ou uma aplicação de transporte resolvem melhor."
+    },
+    {
+      "q": "Quanto custa um táxi de Nội Bài para o centro de Hanói?",
+      "a": "O site da companhia aérea nacional vietnamita indica um valor de referência de cerca de 250 mil VND (consultado em outubro de 2026). O preço final depende da empresa, do destino exato e do trânsito. Nas aplicações de transporte, o valor aparece antes de confirmar a viagem."
+    },
+    {
+      "q": "O autocarro 17 deixa-me perto da loja, em Long Biên?",
+      "a": "Não conte com isso. «Long Biên» é o nome do terminal da linha, e as fontes consultadas não confirmam onde fica em relação à loja, em Bồ Đề. Veja a paragem no mapa antes de embarcar ou faça o trajeto de táxi, mostrando a morada {{address.vi}}."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Mức xử phạt năm 2026 đối với hành vi đi xe máy trên cao tốc?",
+      "publisher": "Thư Viện Pháp Luật",
+      "url": "https://thuvienphapluat.vn/ma-so-thue/phap-luat-thue/muc-xu-phat-nam-2026-doi-voi-hanh-vi-di-xe-may-tren-cao-toc-936922-220346.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    "dtinews-autoestrada-2026",
+    {
+      "title": "Xe máy đi vào làn ô tô phạt bao nhiêu theo luật mới nhất?",
+      "publisher": "Báo Văn hóa",
+      "url": "https://baovanhoa.vn/xe/xe-may-di-vao-lan-o-to-phat-bao-nhieu-theo-luat-moi-nhat-186848.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Hình ảnh không đẹp trên đường Võ Nguyên Giáp ngày thông xe",
+      "publisher": "VTC News",
+      "url": "https://vtcnews.vn/hinh-anh-khong-dep-tren-duong-vo-nguyen-giap-ngay-thong-xe-ar188421.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Đề xuất nâng tốc độ tối đa 100km/h trên đường nối sân bay Nội Bài với trung tâm Hà Nội",
+      "publisher": "Tuổi Trẻ",
+      "url": "https://tuoitre.vn/de-xuat-nang-toc-do-toi-da-100km-h-tren-duong-noi-san-bay-noi-bai-voi-trung-tam-ha-noi-2025090417301394.htm",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Khánh thành cầu Nhật Tân, đường Võ Nguyên Giáp và nhà ga hiện đại",
+      "publisher": "Tuổi Trẻ",
+      "url": "https://tuoitre.vn/khanh-thanh-cau-nhat-tan-duong-vo-nguyen-giap-va-nha-ga-hien-da-694647.htm",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Khai trương tuyến xe buýt đến sân bay Nội Bài, giá vé 30.000 đồng",
+      "publisher": "Báo Đấu thầu",
+      "url": "https://baodauthau.vn/khai-truong-tuyen-xe-buyt-den-san-bay-noi-bai-gia-ve-30000-dong-post12927.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "1.1 Tuyến 86: Nội Bài - Ga Hà Nội",
+      "publisher": "MIA.vn (cẩm nang du lịch)",
+      "url": "https://mia.vn/cam-nang-du-lich/danh-sach-xe-buyt-san-bay-noi-bai-18948",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "- 1. Tuyến xe bus 68 sân bay Nội Bài Hà Đông",
+      "publisher": "VinWonders",
+      "url": "https://vinwonders.com/vi/bai-viet-du-lich/tong-hop-day-du-xe-bus-san-bay-noi-bai/",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Vé Máy Bay Đi Hà Nội Chỉ Từ 847.181 VND*",
+      "publisher": "Vietnam Airlines",
+      "url": "https://www.vietnamairlines.com/vi-vn/v%C3%A9-m%C3%A1y-bay-%C4%91%E1%BA%BFn-h%C3%A0-n%E1%BB%99i",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Điểm tên 10 hãng taxi Nội Bài đưa đón tại sân bay uy tín, an toàn và chuyên nghiệp",
+      "publisher": "FPT Shop",
+      "url": "https://fptshop.com.vn/tin-tuc/danh-gia/diem-ten-10-hang-taxi-noi-bai-170538",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "money issuance",
+      "publisher": "State Bank of Vietnam (sbv.gov.vn)",
+      "url": "https://sbv.gov.vn/en/money-issuance",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    },
+    "lawnet-passageiros-2025",
+    "mfat-conduzir-vietname"
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "PUBLISHED",
+  "date_published": "2026-10-13",
+  "date_modified": "2026-10-13",
+  "editorial": {
+    "qa_score": 100,
+    "qa_warnings": [],
+    "words": 2042,
+    "publish_mode": "review",
+    "approved_at": "2026-10-13",
+    "revisions": []
+  }
+}

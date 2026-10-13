@@ -20,3 +20,21 @@ test('a real gap is allowed', () => {
   const r = judgeTopic(topic({ primary_keyword: 'museu de etnologia hanói', working_title: 'Museu de Etnologia do Vietname de mota', content_brief: 'horário estacionamento Cầu Giấy' }), index);
   assert.equal(r.decision, 'ALLOW_CREATE');
 });
+
+test('a draft parked in the hold folder keeps its topic out of the writer queue', async (t) => {
+  const fs = await import('node:fs');
+  const os = await import('node:os');
+  const path = await import('node:path');
+  const { ROOT } = await import('../lib/util.mjs');
+  const { loadModel } = await import('../lib/model.mjs');
+  const { runGuard } = await import('../lib/guard.mjs');
+  const model = loadModel();
+  const open = model.plan.topics.find((x) => x.editorial_qa_status !== 'PUBLISHED');
+  if (!open) return t.skip('no open topic in the plan');
+  const dir = fs.mkdtempSync(path.join(os.tmpdir(), 'hold-'));
+  fs.writeFileSync(path.join(dir, `${open.id}.json`), JSON.stringify({ id: open.id, title: open.working_title, h1: open.working_title, summary: open.content_brief || '' }));
+  const [r] = runGuard(model, { ids: [open.id], draftDirs: [], holdDir: path.relative(ROOT, dir) });
+  fs.rmSync(dir, { recursive: true, force: true });
+  assert.equal(r.decision, 'REVIEW_COLLISION');
+  assert.ok(r.reasons.some((x) => /held for human review/.test(x)));
+});

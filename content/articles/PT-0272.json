@@ -1,0 +1,400 @@
+{
+  "contract_version": 1,
+  "id": "PT-0272",
+  "slug": "roteiro-fotografico",
+  "title": "Roteiro de fotografia em Hanói de mota: horas de luz e locais",
+  "description": "Quando e onde fotografar Hanói de mota: nascer e pôr do sol face ao trânsito e à loja, cinco cenários e as regras de quem pára para fotografar.",
+  "h1": "Hanói para fotógrafos de mota: a luz, o trânsito e onde se pode parar",
+  "summary": "Para fotografar Hanói de mota, o fim da tarde é a janela mais prática: o pôr do sol cai entre cerca das 17:17 e as 18:40, dentro da ponta do trânsito, e a loja só abre às {{opens}}, muito depois do nascer do sol. Estacione, fotografe a pé e nunca fotografe a conduzir.",
+  "key_points": [
+    "O sol nasce por volta das 5:13 em junho e das 6:34–6:37 em janeiro, e a loja abre às {{opens}}: para fotografar o amanhecer, combine um levantamento mais cedo com antecedência ou vá a pé, de táxi ou de aplicação.",
+    "O pôr do sol cai entre as 17:17 e as 18:40, conforme a estação, sempre dentro da ponta da tarde (16:30–19:30 numa notícia da cidade): cabe no horário da loja, mas obriga a planear o regresso.",
+    "Não fotografe a conduzir, não pare no tabuleiro das pontes e não pose na linha do comboio: em 2024, um café foi multado por deixar um turista posar na via com um comboio a aproximar-se.",
+    "Nas noites de sexta a domingo, das 19:00 às 24:00, o lago Hoàn Kiếm e as ruas do mercado noturno fecham às motas: estacione fora e fotografe a pé.",
+    "Antes do Meio do Outono e do Tết, a rua Hàng Mã e as aldeias de flores enchem-se de gente a fotografar; não confirmámos estacionamento nem taxas."
+  ],
+  "intro": [
+    "Quem fotografa Hanói de mota tem duas vantagens e um problema. As vantagens: chegar a bairros afastados sem depender de táxis e levar o equipamento consigo. O problema: a luz baixa do início da manhã e do fim da tarde pode coincidir com o trânsito mais pesado e, numa mota alugada, nem sempre coincide com o horário da loja.",
+    "Este roteiro de fotografia cruza o que as fontes permitem verificar: as horas de luz, as janelas de trânsito, o horário da loja e as regras para parar. Não é uma lista de «melhores pontos de vista», que dependem do gosto e da estação: diz quando e como chegar a cinco cenários sem complicações. Os dados foram consultados a 13 de outubro de 2026."
+  ],
+  "sections": [
+    {
+      "h2": "A luz de Hanói: nascer e pôr do sol face à ponta",
+      "body": [
+        "As tabelas de 2026 consultadas dão o nascer e o pôr do sol de Hanói no dia 15 de cada mês. Os extremos que interessam a quem fotografa são estes:",
+        {
+          "table": {
+            "caption": "Nascer e pôr do sol em Hanói (tabelas de 2026, dia 15 de cada mês) face às janelas de ponta",
+            "head": [
+              "Mês",
+              "Nascer do sol",
+              "Pôr do sol",
+              "Face à ponta (6:30–9:00 e 16:30–19:30)"
+            ],
+            "rows": [
+              [
+                "Junho",
+                "cerca de 5:13–5:14",
+                "cerca de 18:39–18:40",
+                "O sol nasce mais de uma hora antes da ponta da manhã; o pôr do sol cai dentro da ponta da tarde"
+              ],
+              [
+                "Dezembro",
+                "não indicado",
+                "cerca de 17:17–17:19",
+                "Pôr do sol logo no início da ponta da tarde"
+              ],
+              [
+                "Janeiro",
+                "cerca de 6:34–6:37",
+                "cerca de 17:35–17:37",
+                "O sol nasce quando a ponta da manhã começa; o pôr do sol cai dentro da ponta da tarde"
+              ]
+            ]
+          }
+        },
+        "Os meses intermédios ficam entre estes valores. As janelas de ponta da tabela são as de uma notícia da cidade sobre restrições a camiões; a VOV dá janelas mais curtas, das 7:00 às 8:00 e das 17:00 às 19:00. O que se retira é isto:",
+        {
+          "ul": [
+            "**À tarde**, o pôr do sol cai dentro da ponta em qualquer estação e com qualquer das duas janelas.",
+            "**De manhã**, em junho o sol nasce mais de uma hora antes da ponta; em janeiro nasce quando a janela mais larga começa e pouco antes da mais curta."
+          ]
+        },
+        "Por isso, o que mais pesa não é a hora do disparo, mas o plano de antes e de depois: chegar com tempo, estacionar uma vez, fotografar a pé e regressar com margem. Quem não se sentir à vontade a conduzir ao anoitecer ou na ponta pode esperar num café, sem álcool, e ler antes o guia sobre [quando não conduzir](/rotas-e-mobilidade/quando-nao-conduzir/)."
+      ]
+    },
+    {
+      "h2": "O horário da loja e o nascer do sol",
+      "body": [
+        "A loja abre {{hours}}. O sol nasce entre cerca das 5:13 e as 6:37, ou seja, mais de duas horas e, no verão, quase quatro horas antes da abertura. Não conte levantar a mota ao amanhecer sem ter combinado nada. Há três caminhos:",
+        {
+          "ul": [
+            "**Pedir um levantamento mais cedo.** Pergunte à loja, por escrito e com antecedência, se é possível, e não parta do princípio de que sim. A página sobre a [hora de levantamento e devolução](/precos/horas-de-levantamento-e-devolucao/) explica como se conta o dia de aluguer.",
+            "**Fotografar o amanhecer sem a mota**, a pé, de táxi ou de aplicação, e levantá-la às {{opens}}.",
+            "**Escolher o fim da tarde**, que cabe no horário: levante às {{opens}} e devolva até às {{closes}}. Em dezembro, com o pôr do sol por volta das 17:17, a noite cai cedo: planeie o regresso com margem."
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "Regras para quem pára a fotografar",
+      "body": [
+        {
+          "h3": "Nada de fotografar a conduzir"
+        },
+        "A lei do trânsito vietnamita, em vigor desde 1 de janeiro de 2025, proíbe quem conduz uma mota de usar o telemóvel. As fontes consultadas não tratam das câmaras, pelo que a leitura prudente é a mesma: em andamento não se fotografa, com telemóvel ou com câmara. Pare num parque, desligue o motor e fotografe a pé. Veja o guia sobre [telemóvel e GPS na scooter](/tipos-de-motas/telemovel-e-gps-na-scooter/).",
+        {
+          "h3": "Onde parar"
+        },
+        "Estacionar sem autorização no passeio ou na faixa de rodagem dá coima de 400 mil a 600 mil VND, e circular no passeio custa de 4 a 6 milhões de VND, segundo o Decreto 168/2024. Um parque com funcionário (procure «gửi xe») é a forma mais simples de não estacionar onde não deve. Sobre pontes, não encontrámos uma regra escrita específica; no tabuleiro da Long Biên, uma paragem obriga quem vem atrás a desviar-se numa faixa estreita, e o guia da ponte aconselha a fotografar a pé. Aplique o mesmo critério a qualquer ponte: atravesse, estacione antes ou depois e volte a pé.",
+        {
+          "h3": "A linha do comboio"
+        },
+        "Em setembro de 2022, as autoridades de Hoàn Kiếm mandaram fechar os cafés junto à linha, e em junho de 2024 um dono de café foi multado por deixar um turista posar na via com um comboio a aproximar-se. Não encontrámos informação sobre 2025 e 2026, por isso não propomos fotografias na linha: é uma via ferroviária ativa.",
+        {
+          "h3": "Becos, jardins e propriedade privada"
+        },
+        "Nos becos e nos jardins de flores, não entre sem autorização nem bloqueie a passagem. Não confirmámos se há taxas para fotografar nos jardins de Nhật Tân: pergunte antes. Este guia não cobre drones nem fotografia profissional, cujas regras devem ser confirmadas com as autoridades locais."
+      ]
+    },
+    {
+      "h2": "Cinco cenários e o que as fontes dizem de cada um",
+      "body": [
+        {
+          "h3": "Ponte Long Biên"
+        },
+        "A ponte de ferro tem faixas laterais para motas e bicicletas, passeios para peões e a linha do comboio ao centro. Reabriu a 28 de maio de 2026, depois de dois meses de obras, e não encontrámos novo fecho anunciado até 13 de outubro. Estacione do lado do Bairro Antigo e fotografe do passeio dos peões, longe da linha. O guia da [ponte Long Biên de mota](/zonas-de-hanoi/ponte-long-bien/) explica como atravessar e o que fazer se estiver fechada.",
+        {
+          "h3": "Lago Hoàn Kiếm e Bairro Antigo"
+        },
+        "O espaço pedonal do lago funciona de sexta às 19:00 a domingo às 24:00, segundo uma notícia de 2021 e a retoma de março de 2026. As ruas noturnas do Bairro Antigo fecham a veículos com motor de sexta a domingo, das 19:00 às 24:00 no verão e das 18:00 às 24:00 no inverno. Nessas noites, a zona 1 está fechada às motas: estacione fora do perímetro e vá a pé. Os horários mudam em feriados e eventos. Veja o guia para [conduzir no Bairro Antigo](/zonas-de-hanoi/conduzir-no-bairro-antigo/) e o da [zona de baixas emissões](/tipos-de-motas/zona-de-baixas-emissoes-hanoi/).",
+        {
+          "h3": "Rua Hàng Mã antes do Meio do Outono"
+        },
+        "Semanas antes da festa, a rua Hàng Mã já está cheia de visitantes a fotografar, segundo a imprensa vietnamita. O festival do Meio do Outono do Bairro Antigo decorreu de 11 a 25 de setembro de 2026, e o mercado ocupa a rua entre os cruzamentos com Hàng Đường e Hàng Cót. A data de 2027 não está confirmada. Estacione fora da rua e vá a pé.",
+        {
+          "h3": "Aldeias de flores de Nhật Tân e Tứ Liên"
+        },
+        "Antes do Tết, os jardins de pessegueiros de Nhật Tân atraem jovens para fotografias, e o mercado de flores de Tứ Liên, no beco 200 da rua Âu Cơ, abre das 5:00 às 12:00, pelo que ainda dá para o visitar depois de levantar a mota. Em 2026, os jardins estiveram no período mais movimentado do ano logo antes do Tết, e uma notícia sem data descreve a Âu Cơ congestionada todo o dia nas vésperas da festa. O Tết de 2027 cai a 6 de fevereiro, segundo os calendários consultados. Não confirmámos estacionamento nem taxas.",
+        {
+          "h3": "Os lagos do norte ao pôr do sol"
+        },
+        "O Trúc Bạch e o Lago Oeste ficam lado a lado, e o itinerário de [Hanói de mota num dia](/rotas-e-mobilidade/hanoi-de-mota-num-dia/) termina no Lago Oeste ao fim da tarde. A estrada Thanh Niên, entre o Trúc Bạch e o Lago Oeste, tem muito trânsito a essa hora: estacione num parque ou num café que guarde motas e fotografe a pé, nunca da berma."
+      ]
+    },
+    {
+      "h2": "Dois planos para um dia de fotografia",
+      "body": [
+        "Os dois planos juntam luz, trânsito e horário da loja. Escolha conforme a estação e a vontade de conduzir ao fim do dia.",
+        {
+          "table": {
+            "caption": "Plano do fim de tarde e plano do amanhecer",
+            "head": [
+              "Etapa",
+              "Plano do fim de tarde",
+              "Plano do amanhecer"
+            ],
+            "rows": [
+              [
+                "Levantar a mota",
+                "Às {{opens}}, sem combinar nada de especial",
+                "Só se a loja aceitar, por escrito e com antecedência; senão, às {{opens}}"
+              ],
+              [
+                "Fotografar",
+                "Ao pôr do sol, a pé, a partir de um parque",
+                "Ao nascer do sol, a pé ou de táxi, sem a mota, salvo acordo com a loja"
+              ],
+              [
+                "Trânsito",
+                "O pôr do sol cai dentro da ponta: chegue cedo ao parque",
+                "Em junho, antes da ponta; em janeiro, quando a ponta começa"
+              ],
+              [
+                "Regressar",
+                "Esperar que a ponta acalme, depois das 19:30, e devolver até às {{closes}}",
+                "Resto do dia livre, com devolução dentro do horário da loja"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "h2": "Antes de sair da loja",
+      "body": [
+        {
+          "checklist": [
+            "Leve a carta de condução e a licença internacional exigidas; o guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/) explica o que conta para alugar e para conduzir.",
+            "Guarde no telemóvel o contacto da loja, {{phone}}, e a morada em vietnamita, {{address.vi}}, para pedir indicações no regresso.",
+            "Se quiser um levantamento mais cedo, peça-o antes e confirme por escrito a hora de levantamento e a de devolução.",
+            "Descarregue o mapa da zona e marque o parque onde vai deixar a mota, para fotografar a pé.",
+            "Leve o equipamento consigo ao estacionar e não o deixe à vista na mota."
+          ]
+        },
+        "Este roteiro faz parte da secção [rotas e mobilidade](/rotas-e-mobilidade/). Se for a sua primeira vez a conduzir, veja primeiro o guia para quem [nunca conduziu uma mota](/tipos-de-motas/nunca-conduziu-uma-mota/)."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Posso levantar a mota mais cedo para fotografar o nascer do sol?",
+      "a": "A loja abre {{hours}}, e o sol nasce entre cerca das 5:13 e as 6:37. Um levantamento mais cedo depende de acordo prévio com a loja: peça-o por escrito e não parta do princípio de que é possível."
+    },
+    {
+      "q": "Posso parar na ponte Long Biên para fotografar?",
+      "a": "Não no tabuleiro: a faixa das motas é estreita e uma paragem obriga quem vem atrás a desviar-se. Estacione do lado do Bairro Antigo e fotografe do passeio dos peões. Não encontrámos uma regra escrita específica sobre parar em pontes."
+    },
+    {
+      "q": "Dá para fotografar o lago Hoàn Kiếm à noite de mota?",
+      "a": "Às sextas, sábados e domingos, das 19:00 às 24:00, a zona 1 do lago e do mercado noturno está fechada às motas. Estacione fora do perímetro e vá a pé, e não conduza depois de beber."
+    },
+    {
+      "q": "É seguro fotografar na linha do comboio?",
+      "a": "Não o aconselhamos. Em junho de 2024, um café foi multado por deixar um turista posar na via com um comboio a aproximar-se, e a autoridade ferroviária disse que os problemas continuavam apesar dos pontos de controlo da polícia."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Horas de nascer e pôr do sol em Hanói em 2026 (Alpenglow, em inglês)",
+      "publisher": "Alpenglow",
+      "url": "https://www.alpenglowapp.com/times/hanoi",
+      "accessed": "2026-10-13",
+      "type": "reference",
+      "lang": "en"
+    },
+    {
+      "title": "Horas de nascer e pôr do sol no Vietname (Geo Countries, em inglês)",
+      "publisher": "Geo Countries",
+      "url": "https://www.geocountries.com/sunrise-sunset/vietnam",
+      "accessed": "2026-10-13",
+      "type": "reference",
+      "lang": "en"
+    },
+    {
+      "title": "Hanoi First Light, Sunrise & Sunset Times",
+      "publisher": "sunrisesunsettime.org",
+      "url": "https://www.sunrisesunsettime.org/asia/vietnam/hanoi.htm",
+      "accessed": "2026-10-13",
+      "type": "reference",
+      "lang": "en"
+    },
+    {
+      "title": "Notícia de 24 de dezembro de 2025 sobre restrições a camiões na avenida Thăng Long e na QL32, no sentido da Circular 3 (em vietnamita)",
+      "publisher": "Tạp chí Luật sư Việt Nam (LSVN)",
+      "url": "https://lsvn.vn/ha-noi-du-kien-han-che-mot-so-loai-phuong-tien-luu-thong-vao-vanh-dai-3-tren-cao-a167515.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Hà Nội ùn tắc giao thông ngày càng nghiêm trọng",
+      "publisher": "VOV",
+      "url": "https://vov.vn/xa-hoi/ha-noi-un-tac-giao-thong-ngay-cang-nghiem-trong-721885.vov",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Phố đi bộ hoạt động trở lại",
+      "publisher": "VnExpress",
+      "url": "https://vnexpress.net/pho-di-bo-hoat-dong-tro-lai-4440696.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Lịch tạm dừng phố đi bộ hồ Hoàn Kiếm từ ngày 13.3 đến 20.3",
+      "publisher": "Báo Văn hóa",
+      "url": "https://baovanhoa.vn/doi-song/lich-tam-dung-pho-di-bo-ho-hoan-kiem-tu-ngay-133-den-203-249310.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Thêm 6 tuyến phố đi bộ vào cuối tuần",
+      "publisher": "An ninh Thủ đô",
+      "url": "https://www.anninhthudo.vn/them-6-tuyen-pho-di-bo-vao-cuoi-tuan-post217701.antd",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Ha Noi begins restricting fossil-fuel vehicles in low-emission zones",
+      "publisher": "Portal do Governo do Vietname (chinhphu.vn) — Hanoi Capital",
+      "url": "https://hanoicapital.chinhphu.vn/ha-noi-begins-restricting-fossil-fuel-vehicles-in-low-emission-zones-110260702082825273.htm",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "title": "Khôi phục phương án tổ chức giao thông trên cầu Long Biên từ ngày 28/5",
+      "publisher": "Báo Nhân Dân",
+      "url": "https://nhandan.vn/khoi-phuc-phuong-an-to-chuc-giao-thong-tren-cau-long-bien-tu-285-post964788.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Hà Nội cấm xe đi qua cầu Long Biên trong 2 tháng để sửa chữa",
+      "publisher": "Tuổi Trẻ",
+      "url": "https://tuoitre.vn/ha-noi-cam-xe-di-qua-cau-long-bien-trong-2-thang-de-sua-chua-20260326083632435.htm",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Hà Nội's authorities begin enforcing closure of train track coffee shops",
+      "publisher": "Viet Nam News",
+      "url": "https://vietnamnews.vn/society/1315534/ha-no-i-s-authorities-begin-enforcing-closure-of-train-track-coffee-shops.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "en"
+    },
+    {
+      "title": "Notícia sobre a coima aplicada a um café da rua do comboio (versão para impressão, 19/06/2024)",
+      "publisher": "DTiNews (Dân trí)",
+      "url": "https://dtinews.dantri.com.vn/print/20240619170835173.htm",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "en"
+    },
+    {
+      "title": "Hàng Mã lên đèn, nàng thơ chen chân chụp ảnh Trung thu sớm",
+      "publisher": "Tiền Phong",
+      "url": "https://tienphong.vn/hang-ma-len-den-nang-tho-chen-chan-chup-anh-trung-thu-som-post1875849.tpo",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Not yet Mid-Autumn Festival, Hang Ma is already bustling with people and tourists checking in",
+      "publisher": "Lao Động",
+      "url": "https://news.laodong.vn/xa-hoi/chua-den-trung-thu-hang-ma-da-nhon-nhip-nguoi-dan-du-khach-check-in-1759947.ldo",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "en"
+    },
+    {
+      "title": "Phố cổ Hà Nội rộn ràng “Lưu trăng” mùa Trung Thu năm 2026",
+      "publisher": "VietnamPlus",
+      "url": "https://www.vietnamplus.vn/pho-co-ha-noi-ron-rang-luu-trang-mua-trung-thu-nam-2026-post1135660.vnp",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Lễ hội Trung thu Phố cổ 2026: Sắc màu truyền thống giữa lòng Hà Nội",
+      "publisher": "Tiền Phong",
+      "url": "https://tienphong.vn/le-hoi-trung-thu-pho-co-2026-sac-mau-truyen-thong-giua-long-ha-noi-post1875594.tpo",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Đường phố Hà Nội kẹt cứng ngày giáp Tết",
+      "publisher": "Báo Mới",
+      "url": "https://baomoi.com/duong-pho-ha-noi-ket-cung-ngay-giap-tet-c41618164.epi",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Giữ nhịp mùa Xuân giữa lòng đô thị",
+      "publisher": "Báo Pháp luật Việt Nam",
+      "url": "https://baophapluat.vn/giu-nhip-mua-xuan-giua-long-do-thi.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Ficha dos mercados de flores do Tết em Hanói (MIA.vn, em vietnamita)",
+      "publisher": "MIA.vn",
+      "url": "https://mia.vn/cam-nang-du-lich/cho-hoa-tet-ha-noi-13239",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Tết âm lịch 2027 là ngày mấy dương lịch?",
+      "publisher": "Thư Viện Pháp Luật",
+      "url": "https://thuvienphapluat.vn/hoi-dap-phap-luat/tet-am-lich-2027-la-ngay-may-duong-lich-138050948.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    "lawnet-proibicoes-2024",
+    {
+      "title": "Mức phạt đỗ xe máy, đi xe máy trên vỉa hè năm 2026 là bao nhiêu?",
+      "publisher": "THƯ VIỆN PHÁP LUẬT",
+      "url": "https://thuvienphapluat.vn/phap-luat-nha-dat/muc-phat-do-xe-may-di-xe-may-tren-via-he-nam-2026-la-bao-nhieu-14552.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "Điều khiển xe máy vượt đèn đỏ, đi trên vỉa hè bị phạt từ 4-6 triệu đồng",
+      "publisher": "Cổng phổ biến, giáo dục pháp luật TP. Cần Thơ",
+      "url": "https://pbgdpl.cantho.gov.vn/dieu-khien-xe-may-vuot-den-do-di-tren-via-he-bi-phat-tu-4-6-trieu-dong",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "vi"
+    }
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "PUBLISHED",
+  "date_published": "2026-10-13",
+  "date_modified": "2026-10-13",
+  "editorial": {
+    "qa_score": 100,
+    "qa_warnings": [],
+    "words": 1973,
+    "publish_mode": "review",
+    "approved_at": "2026-10-13",
+    "revisions": []
+  }
+}

@@ -10,39 +10,15 @@
     "pending_review": 0.6
   },
   "counts": {
-    "ALLOW_CREATE": 211,
-    "REVIEW_COLLISION": 4
+    "REVIEW_COLLISION": 9,
+    "ALLOW_CREATE": 53
   },
   "results": [
-    {
-      "id": "PT-0004",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "/",
-          "url": "/",
-          "intent": 0.1
-        },
-        "semantic": {
-          "id": "PT-0003",
-          "url": "/tipos-de-motas/honda-click-em-hanoi/",
-          "semantic": 0.28
-        }
-      },
-      "pending": {
-        "id": "PT-0006",
-        "url": "/tipos-de-motas/honda-click-ou-yamaha-mio/",
-        "intent": 0.27
-      },
-      "working_title": "Yamaha Mio em Hanói: uma scooter leve para trajetos urbanos",
-      "has_draft": false
-    },
     {
       "id": "PT-0006",
       "decision": "REVIEW_COLLISION",
       "reasons": [
-        "semantic 0.5 with live /tipos-de-motas/honda-click-em-hanoi/"
+        "semantic 0.54 with live /tipos-de-motas/yamaha-mio-em-hanoi/"
       ],
       "live": {
         "intent": {
@@ -51,209 +27,17 @@
           "intent": 0.33
         },
         "semantic": {
-          "id": "PT-0003",
-          "url": "/tipos-de-motas/honda-click-em-hanoi/",
-          "semantic": 0.5
+          "id": "PT-0004",
+          "url": "/tipos-de-motas/yamaha-mio-em-hanoi/",
+          "semantic": 0.54
         }
       },
       "pending": {
-        "id": "PT-0004",
-        "url": "/tipos-de-motas/yamaha-mio-em-hanoi/",
-        "intent": 0.27
+        "id": "PT-0039",
+        "url": "/tipos-de-motas/honda-wave-ou-honda-click/",
+        "intent": 0.13
       },
       "working_title": "Honda Click ou Yamaha Mio: duas scooters económicas comparadas",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0011",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0007",
-          "url": "/tipos-de-motas/scooter-ou-semiautomatica/",
-          "intent": 0.15
-        },
-        "semantic": {
-          "id": "/tipos-de-motas/scooters/",
-          "url": "/tipos-de-motas/scooters/",
-          "semantic": 0.22
-        }
-      },
-      "pending": {
-        "id": "PT-0018",
-        "url": "/tipos-de-motas/bagagem-numa-scooter/",
-        "intent": 0.15
-      },
-      "working_title": "Altura do assento e peso: como escolher uma scooter à sua medida",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0012",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0041",
-          "url": "/tipos-de-motas/scooter-50cc-ou-110cc/",
-          "intent": 0.22
-        },
-        "semantic": {
-          "id": "PT-0019",
-          "url": "/tipos-de-motas/scooter-para-o-dia-a-dia/",
-          "semantic": 0.18
-        }
-      },
-      "pending": {
-        "id": "PT-0060",
-        "url": "/tipos-de-motas/mota-eletrica-ou-gasolina/",
-        "intent": 0.14
-      },
-      "working_title": "Consumo das scooters de aluguer: quanto gasta por dia em Hanói",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0013",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0020",
-          "url": "/tipos-de-motas/melhor-scooter-para-alugar/",
-          "intent": 0.17
-        },
-        "semantic": {
-          "id": "PT-0002",
-          "url": "/tipos-de-motas/honda-air-blade-125-ou-160/",
-          "semantic": 0.23
-        }
-      },
-      "pending": {
-        "id": "PT-0012",
-        "url": "/tipos-de-motas/consumo-das-scooters/",
-        "intent": 0.1
-      },
-      "working_title": "Travões CBS e ABS nas scooters: o que são e como travar melhor",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0014",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0204",
-          "url": "/guia-de-aluguer/perdi-a-chave/",
-          "intent": 0.19
-        },
-        "semantic": {
-          "id": "PT-0204",
-          "url": "/guia-de-aluguer/perdi-a-chave/",
-          "semantic": 0.35
-        }
-      },
-      "pending": {
-        "id": "PT-0016",
-        "url": "/tipos-de-motas/como-ligar-uma-scooter/",
-        "intent": 0.15
-      },
-      "working_title": "Smart Key nas scooters Honda: como ligar, trancar e o que fazer se falhar",
-      "has_draft": true
-    },
-    {
-      "id": "PT-0015",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0001",
-          "url": "/tipos-de-motas/honda-vision-em-hanoi/",
-          "intent": 0.18
-        },
-        "semantic": {
-          "id": "/tipos-de-motas/scooters/",
-          "url": "/tipos-de-motas/scooters/",
-          "semantic": 0.13
-        }
-      },
-      "pending": {
-        "id": "PT-0006",
-        "url": "/tipos-de-motas/honda-click-ou-yamaha-mio/",
-        "intent": 0.15
-      },
-      "working_title": "Idling Stop: porque é que a scooter se desliga sozinha nos semáforos",
-      "has_draft": true
-    },
-    {
-      "id": "PT-0016",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0019",
-          "url": "/tipos-de-motas/scooter-para-o-dia-a-dia/",
-          "intent": 0.14
-        },
-        "semantic": {
-          "id": "PT-0135",
-          "url": "/guia-de-aluguer/fotografar-a-mota/",
-          "semantic": 0.08
-        }
-      },
-      "pending": {
-        "id": "PT-0014",
-        "url": "/tipos-de-motas/smart-key-scooters-honda/",
-        "intent": 0.11
-      },
-      "working_title": "Como pôr uma scooter a trabalhar: descanso lateral, travão e arranque",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0017",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0008",
-          "url": "/tipos-de-motas/nunca-conduziu-uma-mota/",
-          "intent": 0.17
-        },
-        "semantic": {
-          "id": "PT-0080",
-          "url": "/precos/reservar-com-antecedencia/",
-          "semantic": 0.2
-        }
-      },
-      "pending": {
-        "id": "PT-0036",
-        "url": "/tipos-de-motas/testar-mudancas-da-semiautomatica/",
-        "intent": 0.18
-      },
-      "working_title": "Painel da scooter: as luzes de aviso que deve conhecer antes de sair",
-      "has_draft": true
-    },
-    {
-      "id": "PT-0018",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0045",
-          "url": "/tipos-de-motas/50cc-com-passageiro/",
-          "intent": 0.14
-        },
-        "semantic": {
-          "id": "/tipos-de-motas/scooters/",
-          "url": "/tipos-de-motas/scooters/",
-          "semantic": 0.13
-        }
-      },
-      "pending": {
-        "id": "PT-0040",
-        "url": "/tipos-de-motas/bagagem-numa-semiautomatica/",
-        "intent": 0.23
-      },
-      "working_title": "Bagagem numa scooter: o que cabe debaixo do assento e como levar uma mochila",
       "has_draft": false
     },
     {
@@ -262,20 +46,20 @@
       "reasons": [],
       "live": {
         "intent": {
-          "id": "PT-0007",
-          "url": "/tipos-de-motas/scooter-ou-semiautomatica/",
-          "intent": 0.14
+          "id": "PT-0178",
+          "url": "/guia-de-aluguer/horas-de-ponta-em-hanoi/",
+          "intent": 0.17
         },
         "semantic": {
           "id": "/tipos-de-motas/scooters/",
           "url": "/tipos-de-motas/scooters/",
-          "semantic": 0.09
+          "semantic": 0.11
         }
       },
       "pending": {
-        "id": "PT-0178",
-        "url": "/guia-de-aluguer/horas-de-ponta-em-hanoi/",
-        "intent": 0.2
+        "id": "PT-0029",
+        "url": "/tipos-de-motas/como-conduzir-uma-semiautomatica/",
+        "intent": 0.18
       },
       "working_title": "Postura e conforto: conduzir uma scooter durante horas sem dores",
       "has_draft": false
@@ -297,9 +81,9 @@
         }
       },
       "pending": {
-        "id": "PT-0012",
-        "url": "/tipos-de-motas/consumo-das-scooters/",
-        "intent": 0.13
+        "id": "PT-0024",
+        "url": "/tipos-de-motas/scooters-no-vietname-e-em-portugal/",
+        "intent": 0.11
       },
       "working_title": "Onde deixar o capacete quando estaciona a scooter",
       "has_draft": false
@@ -317,13 +101,13 @@
         "semantic": {
           "id": "PT-0007",
           "url": "/tipos-de-motas/scooter-ou-semiautomatica/",
-          "semantic": 0.14
+          "semantic": 0.15
         }
       },
       "pending": {
-        "id": "PT-0012",
-        "url": "/tipos-de-motas/consumo-das-scooters/",
-        "intent": 0.13
+        "id": "PT-0022",
+        "url": "/tipos-de-motas/onde-deixar-o-capacete/",
+        "intent": 0.11
       },
       "working_title": "Scooters no Vietname e em Portugal: diferenças que vai notar",
       "has_draft": false
@@ -339,90 +123,18 @@
           "intent": 0.11
         },
         "semantic": {
-          "id": "PT-0196",
-          "url": "/guia-de-aluguer/receber-a-mota/",
-          "semantic": 0.13
+          "id": "PT-0007",
+          "url": "/tipos-de-motas/scooter-ou-semiautomatica/",
+          "semantic": 0.14
         }
       },
       "pending": {
-        "id": "PT-0012",
-        "url": "/tipos-de-motas/consumo-das-scooters/",
-        "intent": 0.13
+        "id": "PT-0022",
+        "url": "/tipos-de-motas/onde-deixar-o-capacete/",
+        "intent": 0.11
       },
       "working_title": "Scooter alugada com muitos quilómetros: deve preocupar-se?",
       "has_draft": false
-    },
-    {
-      "id": "PT-0026",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0001",
-          "url": "/tipos-de-motas/honda-vision-em-hanoi/",
-          "intent": 0.11
-        },
-        "semantic": {
-          "id": "PT-0007",
-          "url": "/tipos-de-motas/scooter-ou-semiautomatica/",
-          "semantic": 0.27
-        }
-      },
-      "pending": {
-        "id": "PT-0038",
-        "url": "/tipos-de-motas/autonomia-de-um-deposito/",
-        "intent": 0.38
-      },
-      "working_title": "Honda Wave em Hanói: a semiautomática mais comum para alugar",
-      "has_draft": true
-    },
-    {
-      "id": "PT-0027",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0150",
-          "url": "/guia-de-aluguer/loja-de-aluguer-fiavel/",
-          "intent": 0.1
-        },
-        "semantic": {
-          "id": "PT-0007",
-          "url": "/tipos-de-motas/scooter-ou-semiautomatica/",
-          "semantic": 0.16
-        }
-      },
-      "pending": {
-        "id": "PT-0028",
-        "url": "/tipos-de-motas/honda-wave-ou-yamaha-sirius/",
-        "intent": 0.14
-      },
-      "working_title": "Yamaha Sirius em Hanói: alugar uma semiautomática fiável",
-      "has_draft": true
-    },
-    {
-      "id": "PT-0028",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0120",
-          "url": "/precos/vision-ou-click-no-aluguer-mensal/",
-          "intent": 0.15
-        },
-        "semantic": {
-          "id": "PT-0007",
-          "url": "/tipos-de-motas/scooter-ou-semiautomatica/",
-          "semantic": 0.26
-        }
-      },
-      "pending": {
-        "id": "PT-0026",
-        "url": "/tipos-de-motas/honda-wave-em-hanoi/",
-        "intent": 0.21
-      },
-      "working_title": "Honda Wave ou Yamaha Sirius: diferenças para quem aluga",
-      "has_draft": true
     },
     {
       "id": "PT-0029",
@@ -437,7 +149,7 @@
         "semantic": {
           "id": "PT-0007",
           "url": "/tipos-de-motas/scooter-ou-semiautomatica/",
-          "semantic": 0.27
+          "semantic": 0.28
         }
       },
       "pending": {
@@ -459,9 +171,9 @@
           "intent": 0.17
         },
         "semantic": {
-          "id": "PT-0007",
-          "url": "/tipos-de-motas/scooter-ou-semiautomatica/",
-          "semantic": 0.15
+          "id": "PT-0032",
+          "url": "/tipos-de-motas/semiautomatica-nao-pega/",
+          "semantic": 0.19
         }
       },
       "pending": {
@@ -483,9 +195,9 @@
           "intent": 0.15
         },
         "semantic": {
-          "id": "PT-0007",
-          "url": "/tipos-de-motas/scooter-ou-semiautomatica/",
-          "semantic": 0.11
+          "id": "PT-0171",
+          "url": "/guia-de-aluguer/piso-molhado-e-chuva/",
+          "semantic": 0.17
         }
       },
       "pending": {
@@ -494,30 +206,6 @@
         "intent": 0.3
       },
       "working_title": "Travagem com o motor numa semiautomática: reduzir mudanças com segurança",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0032",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0210",
-          "url": "/guia-de-aluguer/mota-danificada-estacionada/",
-          "intent": 0.12
-        },
-        "semantic": {
-          "id": "/tipos-de-motas/",
-          "url": "/tipos-de-motas/",
-          "semantic": 0.09
-        }
-      },
-      "pending": {
-        "id": "PT-0253",
-        "url": "/zonas-de-hanoi/aeroporto-noi-bai-de-mota/",
-        "intent": 0.14
-      },
-      "working_title": "Arranque a pedal e elétrico: o que fazer se a semiautomática não pega",
       "has_draft": false
     },
     {
@@ -533,7 +221,7 @@
         "semantic": {
           "id": "PT-0007",
           "url": "/tipos-de-motas/scooter-ou-semiautomatica/",
-          "semantic": 0.24
+          "semantic": 0.26
         }
       },
       "pending": {
@@ -542,30 +230,6 @@
         "intent": 0.38
       },
       "working_title": "Semiautomática no pára-arranca de Hanói: mudanças e embraiagem automática",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0034",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0068",
-          "url": "/precos/aluguer-mensal-de-mota/",
-          "intent": 0.08
-        },
-        "semantic": {
-          "id": "PT-0007",
-          "url": "/tipos-de-motas/scooter-ou-semiautomatica/",
-          "semantic": 0.15
-        }
-      },
-      "pending": {
-        "id": "PT-0116",
-        "url": "/precos/mota-alugada-ou-grab/",
-        "intent": 0.13
-      },
-      "working_title": "Semiautomática para viagens: porque é escolhida por quem sai de Hanói",
       "has_draft": false
     },
     {
@@ -581,7 +245,7 @@
         "semantic": {
           "id": "PT-0007",
           "url": "/tipos-de-motas/scooter-ou-semiautomatica/",
-          "semantic": 0.2
+          "semantic": 0.21
         }
       },
       "pending": {
@@ -617,124 +281,28 @@
       "has_draft": false
     },
     {
-      "id": "PT-0037",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0082",
-          "url": "/precos/desgaste-normal-num-aluguer-longo/",
-          "intent": 0.13
-        },
-        "semantic": {
-          "id": "PT-0097",
-          "url": "/precos/pagar-no-inicio-ou-no-fim/",
-          "semantic": 0.09
-        }
-      },
-      "pending": {
-        "id": "PT-0191",
-        "url": "/guia-de-aluguer/manutencao-num-aluguer-longo/",
-        "intent": 0.33
-      },
-      "working_title": "Corrente da mota: verificar folga e lubrificação num aluguer longo",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0038",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0001",
-          "url": "/tipos-de-motas/honda-vision-em-hanoi/",
-          "intent": 0.08
-        },
-        "semantic": {
-          "id": "PT-0007",
-          "url": "/tipos-de-motas/scooter-ou-semiautomatica/",
-          "semantic": 0.15
-        }
-      },
-      "pending": {
-        "id": "PT-0039",
-        "url": "/tipos-de-motas/honda-wave-ou-honda-click/",
-        "intent": 0.15
-      },
-      "working_title": "Autonomia de uma semiautomática: planear abastecimentos com um depósito",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0039",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0003",
-          "url": "/tipos-de-motas/honda-click-em-hanoi/",
-          "intent": 0.23
-        },
-        "semantic": {
-          "id": "PT-0003",
-          "url": "/tipos-de-motas/honda-click-em-hanoi/",
-          "semantic": 0.37
-        }
-      },
-      "pending": {
-        "id": "PT-0006",
-        "url": "/tipos-de-motas/honda-click-ou-yamaha-mio/",
-        "intent": 0.23
-      },
-      "working_title": "Honda Wave ou Honda Click: o mesmo preço, duas formas de conduzir",
-      "has_draft": false
-    },
-    {
       "id": "PT-0040",
       "decision": "ALLOW_CREATE",
       "reasons": [],
       "live": {
         "intent": {
-          "id": "PT-0001",
-          "url": "/tipos-de-motas/honda-vision-em-hanoi/",
-          "intent": 0.08
+          "id": "PT-0018",
+          "url": "/tipos-de-motas/bagagem-numa-scooter/",
+          "intent": 0.21
         },
         "semantic": {
-          "id": "PT-0003",
-          "url": "/tipos-de-motas/honda-click-em-hanoi/",
-          "semantic": 0.1
+          "id": "PT-0018",
+          "url": "/tipos-de-motas/bagagem-numa-scooter/",
+          "semantic": 0.25
         }
       },
       "pending": {
-        "id": "PT-0018",
-        "url": "/tipos-de-motas/bagagem-numa-scooter/",
-        "intent": 0.23
+        "id": "PT-0039",
+        "url": "/tipos-de-motas/honda-wave-ou-honda-click/",
+        "intent": 0.13
       },
       "working_title": "Bagagem numa Honda Wave: bagageiro, mochilas e cintas elásticas",
       "has_draft": false
-    },
-    {
-      "id": "PT-0042",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0041",
-          "url": "/tipos-de-motas/scooter-50cc-ou-110cc/",
-          "intent": 0.18
-        },
-        "semantic": {
-          "id": "PT-0053",
-          "url": "/tipos-de-motas/confirmar-que-a-mota-e-50cc/",
-          "semantic": 0.36
-        }
-      },
-      "pending": {
-        "id": "PT-0046",
-        "url": "/tipos-de-motas/50cc-nas-pontes-de-hanoi/",
-        "intent": 0.2
-      },
-      "working_title": "Velocidade de uma 50 cc: limites legais e o que significa no trânsito",
-      "has_draft": true
     },
     {
       "id": "PT-0046",
@@ -749,63 +317,15 @@
         "semantic": {
           "id": "PT-0233",
           "url": "/zonas-de-hanoi/ponte-long-bien/",
-          "semantic": 0.37
+          "semantic": 0.38
         }
       },
       "pending": {
-        "id": "PT-0042",
-        "url": "/tipos-de-motas/velocidade-de-uma-50cc/",
-        "intent": 0.13
+        "id": "PT-0033",
+        "url": "/tipos-de-motas/semiautomatica-no-transito/",
+        "intent": 0.09
       },
       "working_title": "Uma 50 cc nas pontes de Hanói: rampas, vento e trânsito rápido",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0047",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "/",
-          "url": "/",
-          "intent": 0.14
-        },
-        "semantic": {
-          "id": "/tipos-de-motas/",
-          "url": "/tipos-de-motas/",
-          "semantic": 0.29
-        }
-      },
-      "pending": {
-        "id": "PT-0060",
-        "url": "/tipos-de-motas/mota-eletrica-ou-gasolina/",
-        "intent": 0.4
-      },
-      "working_title": "50 cc a gasolina ou mota elétrica: qual alugar para a cidade?",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0049",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0041",
-          "url": "/tipos-de-motas/scooter-50cc-ou-110cc/",
-          "intent": 0.18
-        },
-        "semantic": {
-          "id": "PT-0127",
-          "url": "/guia-de-aluguer/licenca-internacional-de-conducao/",
-          "semantic": 0.22
-        }
-      },
-      "pending": {
-        "id": "PT-0128",
-        "url": "/guia-de-aluguer/carta-brasileira-no-vietname/",
-        "intent": 0.17
-      },
-      "working_title": "Carta de ciclomotor (AM): serve para conduzir uma 50 cc no Vietname?",
       "has_draft": false
     },
     {
@@ -814,46 +334,22 @@
       "reasons": [],
       "live": {
         "intent": {
-          "id": "/",
-          "url": "/",
-          "intent": 0.09
+          "id": "PT-0047",
+          "url": "/tipos-de-motas/50cc-ou-mota-eletrica/",
+          "intent": 0.1
         },
         "semantic": {
-          "id": "/tipos-de-motas/motas-50cc/",
-          "url": "/tipos-de-motas/motas-50cc/",
-          "semantic": 0.18
+          "id": "PT-0011",
+          "url": "/tipos-de-motas/altura-do-assento-e-peso/",
+          "semantic": 0.25
         }
       },
       "pending": {
-        "id": "PT-0047",
-        "url": "/tipos-de-motas/50cc-ou-mota-eletrica/",
-        "intent": 0.11
+        "id": "PT-0046",
+        "url": "/tipos-de-motas/50cc-nas-pontes-de-hanoi/",
+        "intent": 0.08
       },
       "working_title": "Uma 50 cc para quem tem pouca estatura: leveza e manobra",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0052",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "/",
-          "url": "/",
-          "intent": 0.13
-        },
-        "semantic": {
-          "id": "PT-0041",
-          "url": "/tipos-de-motas/scooter-50cc-ou-110cc/",
-          "semantic": 0.31
-        }
-      },
-      "pending": {
-        "id": "PT-0201",
-        "url": "/guia-de-aluguer/acidente-com-mota-alugada/",
-        "intent": 0.2
-      },
-      "working_title": "Que trajetos fazer de 50 cc em Hanói — e quais evitar",
       "has_draft": false
     },
     {
@@ -869,207 +365,41 @@
         "semantic": {
           "id": "PT-0041",
           "url": "/tipos-de-motas/scooter-50cc-ou-110cc/",
-          "semantic": 0.18
+          "semantic": 0.21
         }
       },
       "pending": {
-        "id": "PT-0047",
-        "url": "/tipos-de-motas/50cc-ou-mota-eletrica/",
-        "intent": 0.1
+        "id": "PT-0029",
+        "url": "/tipos-de-motas/como-conduzir-uma-semiautomatica/",
+        "intent": 0.08
       },
       "working_title": "Uma 50 cc a perder força: causas comuns e quando ligar à loja",
       "has_draft": false
     },
     {
-      "id": "PT-0055",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
+      "id": "PT-0057",
+      "decision": "REVIEW_COLLISION",
+      "reasons": [
+        "semantic 0.56 with live /tipos-de-motas/regras-bicicleta-eletrica-vietname/"
+      ],
       "live": {
         "intent": {
-          "id": "PT-0045",
-          "url": "/tipos-de-motas/50cc-com-passageiro/",
-          "intent": 0.13
+          "id": "PT-0062",
+          "url": "/tipos-de-motas/regras-bicicleta-eletrica-vietname/",
+          "intent": 0.2
         },
         "semantic": {
-          "id": "PT-0041",
-          "url": "/tipos-de-motas/scooter-50cc-ou-110cc/",
-          "semantic": 0.14
+          "id": "PT-0062",
+          "url": "/tipos-de-motas/regras-bicicleta-eletrica-vietname/",
+          "semantic": 0.56
         }
       },
       "pending": {
-        "id": "PT-0173",
-        "url": "/guia-de-aluguer/espelhos-e-angulos-mortos/",
-        "intent": 0.14
-      },
-      "working_title": "Ser visto numa 50 cc: luzes, posição e espelhos quando é o mais lento na estrada",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0056",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "/precos/",
-          "url": "/precos/",
-          "intent": 0.14
-        },
-        "semantic": {
-          "id": "/tipos-de-motas/",
-          "url": "/tipos-de-motas/",
-          "semantic": 0.26
-        }
-      },
-      "pending": {
-        "id": "PT-0058",
-        "url": "/tipos-de-motas/autonomia-real-mota-eletrica/",
+        "id": "PT-0291",
+        "url": "/rotas-e-mobilidade/bicicleta-em-hanoi/",
         "intent": 0.17
       },
-      "working_title": "Alugar uma mota elétrica em Hanói: preço, autonomia e carregamento",
-      "has_draft": true
-    },
-    {
-      "id": "PT-0057",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0063",
-          "url": "/tipos-de-motas/carta-para-mota-eletrica/",
-          "intent": 0.1
-        },
-        "semantic": {
-          "id": "/tipos-de-motas/",
-          "url": "/tipos-de-motas/",
-          "semantic": 0.2
-        }
-      },
-      "pending": {
-        "id": "PT-0062",
-        "url": "/tipos-de-motas/regras-bicicleta-eletrica-vietname/",
-        "intent": 0.25
-      },
       "working_title": "Bicicleta elétrica em Hanói: quando é uma boa alternativa à mota",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0058",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0063",
-          "url": "/tipos-de-motas/carta-para-mota-eletrica/",
-          "intent": 0.09
-        },
-        "semantic": {
-          "id": "PT-0063",
-          "url": "/tipos-de-motas/carta-para-mota-eletrica/",
-          "semantic": 0.13
-        }
-      },
-      "pending": {
-        "id": "PT-0056",
-        "url": "/tipos-de-motas/aluguer-de-mota-eletrica-em-hanoi/",
-        "intent": 0.2
-      },
-      "working_title": "Autonomia real de uma mota elétrica: o que a reduz e como planear",
-      "has_draft": true
-    },
-    {
-      "id": "PT-0059",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0063",
-          "url": "/tipos-de-motas/carta-para-mota-eletrica/",
-          "intent": 0.09
-        },
-        "semantic": {
-          "id": "/tipos-de-motas/",
-          "url": "/tipos-de-motas/",
-          "semantic": 0.18
-        }
-      },
-      "pending": {
-        "id": "PT-0061",
-        "url": "/tipos-de-motas/mota-eletrica-e-chuva/",
-        "intent": 0.22
-      },
-      "working_title": "Como carregar uma mota elétrica alugada: tomadas, tempo e cuidados",
-      "has_draft": true
-    },
-    {
-      "id": "PT-0060",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "/",
-          "url": "/",
-          "intent": 0.13
-        },
-        "semantic": {
-          "id": "PT-0065",
-          "url": "/tipos-de-motas/zona-de-baixas-emissoes-hanoi/",
-          "semantic": 0.31
-        }
-      },
-      "pending": {
-        "id": "PT-0047",
-        "url": "/tipos-de-motas/50cc-ou-mota-eletrica/",
-        "intent": 0.4
-      },
-      "working_title": "Mota elétrica ou scooter a gasolina: comparação para Hanói",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0061",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0063",
-          "url": "/tipos-de-motas/carta-para-mota-eletrica/",
-          "intent": 0.08
-        },
-        "semantic": {
-          "id": "PT-0109",
-          "url": "/precos/limpeza-da-mota/",
-          "semantic": 0.15
-        }
-      },
-      "pending": {
-        "id": "PT-0206",
-        "url": "/guia-de-aluguer/bateria-descarregada/",
-        "intent": 0.22
-      },
-      "working_title": "Motas elétricas e chuva: ruas inundadas e cuidados com a bateria",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0062",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0009",
-          "url": "/tipos-de-motas/scooter-para-duas-pessoas/",
-          "intent": 0.13
-        },
-        "semantic": {
-          "id": "/tipos-de-motas/",
-          "url": "/tipos-de-motas/",
-          "semantic": 0.19
-        }
-      },
-      "pending": {
-        "id": "PT-0155",
-        "url": "/guia-de-aluguer/criancas-na-mota/",
-        "intent": 0.25
-      },
-      "working_title": "Regras para bicicletas elétricas no Vietname: capacete, idade e onde circular",
       "has_draft": false
     },
     {
@@ -1078,70 +408,22 @@
       "reasons": [],
       "live": {
         "intent": {
-          "id": "PT-0063",
-          "url": "/tipos-de-motas/carta-para-mota-eletrica/",
-          "intent": 0.08
+          "id": "PT-0162",
+          "url": "/guia-de-aluguer/distancia-e-posicao-na-faixa/",
+          "intent": 0.18
         },
         "semantic": {
           "id": "PT-0216",
           "url": "/zonas-de-hanoi/conduzir-no-bairro-antigo/",
-          "semantic": 0.21
+          "semantic": 0.22
         }
       },
       "pending": {
-        "id": "PT-0162",
-        "url": "/guia-de-aluguer/distancia-e-posicao-na-faixa/",
-        "intent": 0.2
+        "id": "PT-0057",
+        "url": "/tipos-de-motas/bicicleta-eletrica-em-hanoi/",
+        "intent": 0.11
       },
       "working_title": "Uma mota silenciosa entre peões distraídos: segurança na elétrica",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0070",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0087",
-          "url": "/precos/devolucao-da-caucao/",
-          "intent": 0.15
-        },
-        "semantic": {
-          "id": "PT-0065",
-          "url": "/tipos-de-motas/zona-de-baixas-emissoes-hanoi/",
-          "semantic": 0.18
-        }
-      },
-      "pending": {
-        "id": "PT-0218",
-        "url": "/zonas-de-hanoi/zona-pedonal-do-lago-hoan-kiem/",
-        "intent": 0.15
-      },
-      "working_title": "Mota para o fim de semana em Hanói: levantar à sexta, devolver ao domingo",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0071",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0019",
-          "url": "/tipos-de-motas/scooter-para-o-dia-a-dia/",
-          "intent": 0.13
-        },
-        "semantic": {
-          "id": "PT-0286",
-          "url": "/rotas-e-mobilidade/quando-nao-conduzir/",
-          "semantic": 0.15
-        }
-      },
-      "pending": {
-        "id": "PT-0012",
-        "url": "/tipos-de-motas/consumo-das-scooters/",
-        "intent": 0.09
-      },
-      "working_title": "Alugar a mota logo à chegada ou esperar uns dias? Escolher o dia de início",
       "has_draft": false
     },
     {
@@ -1155,113 +437,17 @@
           "intent": 0.09
         },
         "semantic": {
-          "id": "PT-0105",
-          "url": "/precos/capa-de-chuva-e-acessorios/",
-          "semantic": 0.13
+          "id": "PT-0102",
+          "url": "/precos/comprar-capacete-em-hanoi/",
+          "semantic": 0.18
         }
       },
       "pending": {
-        "id": "PT-0144",
-        "url": "/guia-de-aluguer/passaporte-e-registo-de-estadia/",
-        "intent": 0.08
+        "id": "PT-0039",
+        "url": "/tipos-de-motas/honda-wave-ou-honda-click/",
+        "intent": 0
       },
       "working_title": "Alugar ou comprar uma mota em Hanói para uma estadia longa?",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0078",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0075",
-          "url": "/precos/horas-de-levantamento-e-devolucao/",
-          "intent": 0.1
-        },
-        "semantic": {
-          "id": "PT-0075",
-          "url": "/precos/horas-de-levantamento-e-devolucao/",
-          "semantic": 0.16
-        }
-      },
-      "pending": {
-        "id": "PT-0160",
-        "url": "/guia-de-aluguer/conduzir-de-mota-a-noite/",
-        "intent": 0.11
-      },
-      "working_title": "Chego a Hanói à noite: como planear o levantamento da mota",
-      "has_draft": true
-    },
-    {
-      "id": "PT-0079",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0208",
-          "url": "/guia-de-aluguer/devolver-noutro-local/",
-          "intent": 0.07
-        },
-        "semantic": {
-          "id": "/contactos/",
-          "url": "/contactos/",
-          "semantic": 0.12
-        }
-      },
-      "pending": {
-        "id": "PT-0282",
-        "url": "/rotas-e-mobilidade/feriados-nacionais-e-transito/",
-        "intent": 0.08
-      },
-      "working_title": "Alugar mota no Tết e noutros feriados: disponibilidade e prazos",
-      "has_draft": true
-    },
-    {
-      "id": "PT-0081",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0075",
-          "url": "/precos/horas-de-levantamento-e-devolucao/",
-          "intent": 0.13
-        },
-        "semantic": {
-          "id": "PT-0075",
-          "url": "/precos/horas-de-levantamento-e-devolucao/",
-          "semantic": 0.14
-        }
-      },
-      "pending": {
-        "id": "PT-0178",
-        "url": "/guia-de-aluguer/horas-de-ponta-em-hanoi/",
-        "intent": 0.14
-      },
-      "working_title": "Escala em Hanói: compensa alugar uma mota por umas horas?",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0088",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0096",
-          "url": "/precos/existe-aluguer-sem-caucao/",
-          "intent": 0.2
-        },
-        "semantic": {
-          "id": "PT-0096",
-          "url": "/precos/existe-aluguer-sem-caucao/",
-          "semantic": 0.25
-        }
-      },
-      "pending": {
-        "id": "PT-0057",
-        "url": "/tipos-de-motas/bicicleta-eletrica-em-hanoi/",
-        "intent": 0.11
-      },
-      "working_title": "Deixar o passaporte como garantia: riscos e alternativas a perguntar",
       "has_draft": false
     },
     {
@@ -1270,46 +456,22 @@
       "reasons": [],
       "live": {
         "intent": {
-          "id": "PT-0150",
-          "url": "/guia-de-aluguer/loja-de-aluguer-fiavel/",
+          "id": "PT-0123",
+          "url": "/precos/autocarro-turistico-ou-mota/",
           "intent": 0.09
         },
         "semantic": {
           "id": "PT-0089",
           "url": "/precos/caucao-em-dinheiro/",
-          "semantic": 0.23
+          "semantic": 0.26
         }
       },
       "pending": {
-        "id": "PT-0091",
-        "url": "/precos/pagamentos-qr-no-vietname/",
-        "intent": 0.1
+        "id": "PT-0267",
+        "url": "/rotas-e-mobilidade/roteiro-dos-mercados/",
+        "intent": 0.09
       },
       "working_title": "Pagar o aluguer em dong vietnamita: câmbio e notas a conhecer",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0091",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0097",
-          "url": "/precos/pagar-no-inicio-ou-no-fim/",
-          "intent": 0.15
-        },
-        "semantic": {
-          "id": "PT-0097",
-          "url": "/precos/pagar-no-inicio-ou-no-fim/",
-          "semantic": 0.11
-        }
-      },
-      "pending": {
-        "id": "PT-0180",
-        "url": "/guia-de-aluguer/abastecer-no-vietname/",
-        "intent": 0.11
-      },
-      "working_title": "Pagar com QR ou transferência no Vietname: o que um turista deve saber",
       "has_draft": false
     },
     {
@@ -1323,90 +485,18 @@
           "intent": 0.1
         },
         "semantic": {
-          "id": "PT-0089",
-          "url": "/precos/caucao-em-dinheiro/",
-          "semantic": 0.1
+          "id": "PT-0214",
+          "url": "/guia-de-aluguer/perdeu-o-telemovel-durante-o-aluguer/",
+          "semantic": 0.16
         }
       },
       "pending": {
-        "id": "PT-0288",
-        "url": "/rotas-e-mobilidade/autocarros-de-hanoi/",
-        "intent": 0.1
+        "id": "PT-0259",
+        "url": "/zonas-de-hanoi/centros-comerciais-de-mota/",
+        "intent": 0.09
       },
       "working_title": "Cartões estrangeiros no Vietname: onde funcionam e o que preparar",
       "has_draft": false
-    },
-    {
-      "id": "PT-0095",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "/precos/",
-          "url": "/precos/",
-          "intent": 0.09
-        },
-        "semantic": {
-          "id": "/precos/",
-          "url": "/precos/",
-          "semantic": 0.12
-        }
-      },
-      "pending": {
-        "id": "PT-0106",
-        "url": "/precos/estacionamento-em-hanoi-preco/",
-        "intent": 0.09
-      },
-      "working_title": "Ler preços em dong: o que significam «k», «tr» e tantos zeros",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0098",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0131",
-          "url": "/guia-de-aluguer/documentos-da-mota-alugada/",
-          "intent": 0.11
-        },
-        "semantic": {
-          "id": "PT-0125",
-          "url": "/precos/preco-justo-de-aluguer/",
-          "semantic": 0.17
-        }
-      },
-      "pending": {
-        "id": "PT-0255",
-        "url": "/zonas-de-hanoi/levar-a-mota-no-comboio/",
-        "intent": 0.17
-      },
-      "working_title": "Quanto dinheiro levar para alugar e usar uma mota em Hanói",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0102",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0067",
-          "url": "/precos/aluguer-semanal-de-mota/",
-          "intent": 0.1
-        },
-        "semantic": {
-          "id": "PT-0104",
-          "url": "/precos/capacetes-no-aluguer/",
-          "semantic": 0.31
-        }
-      },
-      "pending": {
-        "id": "PT-0076",
-        "url": "/precos/alugar-ou-comprar-mota/",
-        "intent": 0.14
-      },
-      "working_title": "Comprar um capacete em Hanói: quando compensa e que certificação procurar",
-      "has_draft": true
     },
     {
       "id": "PT-0106",
@@ -1419,15 +509,15 @@
           "intent": 0.25
         },
         "semantic": {
-          "id": "PT-0099",
-          "url": "/precos/burlas-no-aluguer-de-motas/",
-          "semantic": 0.15
+          "id": "PT-0179",
+          "url": "/guia-de-aluguer/onde-estacionar-em-hanoi/",
+          "semantic": 0.37
         }
       },
       "pending": {
-        "id": "PT-0179",
-        "url": "/guia-de-aluguer/onde-estacionar-em-hanoi/",
-        "intent": 0.25
+        "id": "PT-0186",
+        "url": "/guia-de-aluguer/ir-as-compras-de-mota/",
+        "intent": 0.13
       },
       "working_title": "Quanto custa estacionar uma mota em Hanói",
       "has_draft": false
@@ -1438,190 +528,22 @@
       "reasons": [],
       "live": {
         "intent": {
-          "id": "PT-0120",
-          "url": "/precos/vision-ou-click-no-aluguer-mensal/",
+          "id": "PT-0032",
+          "url": "/tipos-de-motas/semiautomatica-nao-pega/",
           "intent": 0.1
         },
         "semantic": {
-          "id": "PT-0108",
-          "url": "/precos/custo-de-furos-e-reparacoes/",
-          "semantic": 0.1
+          "id": "PT-0194",
+          "url": "/guia-de-aluguer/vias-proibidas-a-motas-em-hanoi/",
+          "semantic": 0.07
         }
       },
       "pending": {
-        "id": "PT-0032",
-        "url": "/tipos-de-motas/semiautomatica-nao-pega/",
-        "intent": 0.11
+        "id": "PT-0039",
+        "url": "/tipos-de-motas/honda-wave-ou-honda-click/",
+        "intent": 0
       },
       "working_title": "Portagens e motas no Vietname: o que se paga e o que não se paga",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0111",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0073",
-          "url": "/precos/prolongar-o-aluguer/",
-          "intent": 0.11
-        },
-        "semantic": {
-          "id": "PT-0105",
-          "url": "/precos/capa-de-chuva-e-acessorios/",
-          "semantic": 0.11
-        }
-      },
-      "pending": {
-        "id": "PT-0179",
-        "url": "/guia-de-aluguer/onde-estacionar-em-hanoi/",
-        "intent": 0.2
-      },
-      "working_title": "Cadeado e segurança antifurto: o que pedir e como estacionar",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0112",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0196",
-          "url": "/guia-de-aluguer/receber-a-mota/",
-          "intent": 0.18
-        },
-        "semantic": {
-          "id": "PT-0208",
-          "url": "/guia-de-aluguer/devolver-noutro-local/",
-          "semantic": 0.2
-        }
-      },
-      "pending": {
-        "id": "PT-0253",
-        "url": "/zonas-de-hanoi/aeroporto-noi-bai-de-mota/",
-        "intent": 0.23
-      },
-      "working_title": "Receber a mota no aeroporto de Nội Bài: faz sentido?",
-      "has_draft": true
-    },
-    {
-      "id": "PT-0113",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0065",
-          "url": "/tipos-de-motas/zona-de-baixas-emissoes-hanoi/",
-          "intent": 0.08
-        },
-        "semantic": {
-          "id": "PT-0131",
-          "url": "/guia-de-aluguer/documentos-da-mota-alugada/",
-          "semantic": 0.09
-        }
-      },
-      "pending": {
-        "id": "PT-0106",
-        "url": "/precos/estacionamento-em-hanoi-preco/",
-        "intent": 0.14
-      },
-      "working_title": "Mota rebocada por estacionamento proibido em Hanói: como a recuperar",
-      "has_draft": true
-    },
-    {
-      "id": "PT-0114",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "/precos/",
-          "url": "/precos/",
-          "intent": 0.25
-        },
-        "semantic": {
-          "id": "PT-0103",
-          "url": "/precos/combustivel-no-aluguer/",
-          "semantic": 0.13
-        }
-      },
-      "pending": {
-        "id": "PT-0047",
-        "url": "/tipos-de-motas/50cc-ou-mota-eletrica/",
-        "intent": 0.13
-      },
-      "working_title": "Preço da gasolina no Vietname: como é fixado e onde ver o valor do dia",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0116",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "/contactos/",
-          "url": "/contactos/",
-          "intent": 0
-        },
-        "semantic": {
-          "id": "/tipos-de-motas/motas-50cc/",
-          "url": "/tipos-de-motas/motas-50cc/",
-          "semantic": 0.07
-        }
-      },
-      "pending": {
-        "id": "PT-0034",
-        "url": "/tipos-de-motas/semiautomatica-para-viagens/",
-        "intent": 0.13
-      },
-      "working_title": "Mota alugada ou Grab: o que sai mais barato em Hanói?",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0117",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0119",
-          "url": "/precos/uma-mota-ou-duas-para-um-casal/",
-          "intent": 0.11
-        },
-        "semantic": {
-          "id": "PT-0286",
-          "url": "/rotas-e-mobilidade/quando-nao-conduzir/",
-          "semantic": 0.16
-        }
-      },
-      "pending": {
-        "id": "PT-0118",
-        "url": "/precos/mota-metro-ou-autocarro/",
-        "intent": 0.14
-      },
-      "working_title": "Mota alugada ou táxi: custos e conforto em Hanói",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0118",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0119",
-          "url": "/precos/uma-mota-ou-duas-para-um-casal/",
-          "intent": 0.09
-        },
-        "semantic": {
-          "id": "PT-0110",
-          "url": "/precos/custos-alem-do-preco/",
-          "semantic": 0.07
-        }
-      },
-      "pending": {
-        "id": "PT-0117",
-        "url": "/precos/mota-alugada-ou-taxi/",
-        "intent": 0.14
-      },
-      "working_title": "Mota, metro ou autocarro: comparação de custo e tempo em Hanói",
       "has_draft": false
     },
     {
@@ -1630,553 +552,22 @@
       "reasons": [],
       "live": {
         "intent": {
-          "id": "PT-0041",
-          "url": "/tipos-de-motas/scooter-50cc-ou-110cc/",
-          "intent": 0.09
+          "id": "PT-0245",
+          "url": "/zonas-de-hanoi/mausoleu-e-praca-ba-dinh/",
+          "intent": 0.2
         },
         "semantic": {
-          "id": "PT-0208",
-          "url": "/guia-de-aluguer/devolver-noutro-local/",
-          "semantic": 0.14
+          "id": "PT-0245",
+          "url": "/zonas-de-hanoi/mausoleu-e-praca-ba-dinh/",
+          "semantic": 0.22
         }
       },
       "pending": {
-        "id": "PT-0245",
-        "url": "/zonas-de-hanoi/mausoleu-e-praca-ba-dinh/",
-        "intent": 0.27
+        "id": "PT-0187",
+        "url": "/guia-de-aluguer/da-tailandia-ao-vietname-de-mota/",
+        "intent": 0.1
       },
       "working_title": "Alugar mota em Hanói ou noutra cidade do Vietname: o que muda",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0122",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "/contactos/",
-          "url": "/contactos/",
-          "intent": 0
-        },
-        "semantic": {
-          "id": "PT-0139",
-          "url": "/guia-de-aluguer/alugar-para-outra-pessoa/",
-          "semantic": 0.06
-        }
-      },
-      "pending": {
-        "id": "PT-0289",
-        "url": "/rotas-e-mobilidade/mota-com-condutor/",
-        "intent": 0.09
-      },
-      "working_title": "Alugar uma mota ou viajar com condutor (easy rider)?",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0123",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0067",
-          "url": "/precos/aluguer-semanal-de-mota/",
-          "intent": 0.18
-        },
-        "semantic": {
-          "id": "/",
-          "url": "/",
-          "semantic": 0.1
-        }
-      },
-      "pending": {
-        "id": "PT-0106",
-        "url": "/precos/estacionamento-em-hanoi-preco/",
-        "intent": 0.22
-      },
-      "working_title": "Autocarro turístico, carrinho elétrico ou mota: quanto custa conhecer Hanói",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0124",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0119",
-          "url": "/precos/uma-mota-ou-duas-para-um-casal/",
-          "intent": 0.09
-        },
-        "semantic": {
-          "id": "PT-0125",
-          "url": "/precos/preco-justo-de-aluguer/",
-          "semantic": 0.15
-        }
-      },
-      "pending": {
-        "id": "PT-0117",
-        "url": "/precos/mota-alugada-ou-taxi/",
-        "intent": 0.14
-      },
-      "working_title": "Custo por quilómetro: mota alugada e outras opções em Hanói",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0128",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0063",
-          "url": "/tipos-de-motas/carta-para-mota-eletrica/",
-          "intent": 0.1
-        },
-        "semantic": {
-          "id": "PT-0127",
-          "url": "/guia-de-aluguer/licenca-internacional-de-conducao/",
-          "semantic": 0.15
-        }
-      },
-      "pending": {
-        "id": "PT-0138",
-        "url": "/guia-de-aluguer/perdeu-a-carta-de-conducao/",
-        "intent": 0.22
-      },
-      "working_title": "Carta de condução brasileira no Vietname: o que é preciso",
-      "has_draft": true
-    },
-    {
-      "id": "PT-0129",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0063",
-          "url": "/tipos-de-motas/carta-para-mota-eletrica/",
-          "intent": 0.1
-        },
-        "semantic": {
-          "id": "PT-0146",
-          "url": "/guia-de-aluguer/trocar-de-mota/",
-          "semantic": 0.17
-        }
-      },
-      "pending": {
-        "id": "PT-0138",
-        "url": "/guia-de-aluguer/perdeu-a-carta-de-conducao/",
-        "intent": 0.22
-      },
-      "working_title": "Converter a carta para vietnamita: quando é necessário",
-      "has_draft": true
-    },
-    {
-      "id": "PT-0133",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0131",
-          "url": "/guia-de-aluguer/documentos-da-mota-alugada/",
-          "intent": 0.11
-        },
-        "semantic": {
-          "id": "PT-0132",
-          "url": "/guia-de-aluguer/seguro-obrigatorio-de-mota/",
-          "semantic": 0.35
-        }
-      },
-      "pending": {
-        "id": "PT-0152",
-        "url": "/guia-de-aluguer/verificar-os-travoes/",
-        "intent": 0.14
-      },
-      "working_title": "Seguro de viagem e aluguer de mota: o que verificar na apólice",
-      "has_draft": true
-    },
-    {
-      "id": "PT-0136",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0137",
-          "url": "/guia-de-aluguer/comunicar-sem-falar-vietnamita/",
-          "intent": 0.14
-        },
-        "semantic": {
-          "id": "/contactos/",
-          "url": "/contactos/",
-          "semantic": 0.25
-        }
-      },
-      "pending": {
-        "id": "PT-0098",
-        "url": "/precos/quanto-dinheiro-levar/",
-        "intent": 0.08
-      },
-      "working_title": "Como falar com a loja pelo Zalo: instalar, escrever e confirmar",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0138",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0127",
-          "url": "/guia-de-aluguer/licenca-internacional-de-conducao/",
-          "intent": 0.23
-        },
-        "semantic": {
-          "id": "PT-0127",
-          "url": "/guia-de-aluguer/licenca-internacional-de-conducao/",
-          "semantic": 0.29
-        }
-      },
-      "pending": {
-        "id": "PT-0192",
-        "url": "/guia-de-aluguer/conducao-defensiva/",
-        "intent": 0.18
-      },
-      "working_title": "Perdeu a carta de condução ou a licença internacional no Vietname: o que fazer",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0140",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0043",
-          "url": "/tipos-de-motas/idade-minima-50cc/",
-          "intent": 0.07
-        },
-        "semantic": {
-          "id": "PT-0131",
-          "url": "/guia-de-aluguer/documentos-da-mota-alugada/",
-          "semantic": 0.07
-        }
-      },
-      "pending": {
-        "id": "PT-0160",
-        "url": "/guia-de-aluguer/conduzir-de-mota-a-noite/",
-        "intent": 0.1
-      },
-      "working_title": "Cartão SIM ou eSIM no Vietname: dados e número para alugar e conduzir",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0142",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0063",
-          "url": "/tipos-de-motas/carta-para-mota-eletrica/",
-          "intent": 0.1
-        },
-        "semantic": {
-          "id": "PT-0159",
-          "url": "/guia-de-aluguer/alcool-zero-ao-volante/",
-          "semantic": 0.14
-        }
-      },
-      "pending": {
-        "id": "PT-0138",
-        "url": "/guia-de-aluguer/perdeu-a-carta-de-conducao/",
-        "intent": 0.22
-      },
-      "working_title": "Pontos na carta de condução no Vietname: como funcionam",
-      "has_draft": true
-    },
-    {
-      "id": "PT-0143",
-      "decision": "ALLOW_CREATE",
-      "reasons": [
-        "semantic 0.5 with live /precos/multas-de-transito-no-aluguer/",
-        "collision reviewed: distinct intent (guard_reviewed)"
-      ],
-      "live": {
-        "intent": {
-          "id": "PT-0100",
-          "url": "/precos/multas-de-transito-no-aluguer/",
-          "intent": 0.06
-        },
-        "semantic": {
-          "id": "PT-0100",
-          "url": "/precos/multas-de-transito-no-aluguer/",
-          "semantic": 0.5
-        }
-      },
-      "pending": {
-        "id": "PT-0268",
-        "url": "/rotas-e-mobilidade/hanoi-a-noite-de-mota/",
-        "intent": 0.09
-      },
-      "working_title": "Como consultar multas por câmara (phạt nguội) pela matrícula da mota",
-      "has_draft": true
-    },
-    {
-      "id": "PT-0144",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0131",
-          "url": "/guia-de-aluguer/documentos-da-mota-alugada/",
-          "intent": 0.33
-        },
-        "semantic": {
-          "id": "PT-0131",
-          "url": "/guia-de-aluguer/documentos-da-mota-alugada/",
-          "semantic": 0.2
-        }
-      },
-      "pending": {
-        "id": "PT-0076",
-        "url": "/precos/alugar-ou-comprar-mota/",
-        "intent": 0.13
-      },
-      "working_title": "Passaporte e registo de estadia em Hanói: que documentos levar consigo",
-      "has_draft": true
-    },
-    {
-      "id": "PT-0148",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0063",
-          "url": "/tipos-de-motas/carta-para-mota-eletrica/",
-          "intent": 0.07
-        },
-        "semantic": {
-          "id": "PT-0010",
-          "url": "/tipos-de-motas/cilindrada-e-carta-a1/",
-          "semantic": 0.31
-        }
-      },
-      "pending": {
-        "id": "PT-0107",
-        "url": "/precos/portagens-e-motas/",
-        "intent": 0.1
-      },
-      "working_title": "Só tem carta B? Porque a equivalência às motas de 125 cc não vale no Vietname",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0151",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0197",
-          "url": "/guia-de-aluguer/devolver-a-mota/",
-          "intent": 0.14
-        },
-        "semantic": {
-          "id": "PT-0196",
-          "url": "/guia-de-aluguer/receber-a-mota/",
-          "semantic": 0.11
-        }
-      },
-      "pending": {
-        "id": "PT-0036",
-        "url": "/tipos-de-motas/testar-mudancas-da-semiautomatica/",
-        "intent": 0.2
-      },
-      "working_title": "Checklist de inspeção da mota alugada: 12 pontos antes de sair",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0152",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0087",
-          "url": "/precos/devolucao-da-caucao/",
-          "intent": 0.08
-        },
-        "semantic": {
-          "id": "PT-0082",
-          "url": "/precos/desgaste-normal-num-aluguer-longo/",
-          "semantic": 0.12
-        }
-      },
-      "pending": {
-        "id": "PT-0037",
-        "url": "/tipos-de-motas/corrente-da-mota/",
-        "intent": 0.11
-      },
-      "working_title": "Como verificar os travões de uma mota em dois minutos",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0153",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0082",
-          "url": "/precos/desgaste-normal-num-aluguer-longo/",
-          "intent": 0.14
-        },
-        "semantic": {
-          "id": "PT-0082",
-          "url": "/precos/desgaste-normal-num-aluguer-longo/",
-          "semantic": 0.16
-        }
-      },
-      "pending": {
-        "id": "PT-0161",
-        "url": "/guia-de-aluguer/sinais-de-avaria-em-andamento/",
-        "intent": 0.11
-      },
-      "working_title": "Pneus da mota: pressão, desgaste e sinais de alerta",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0154",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0104",
-          "url": "/precos/capacetes-no-aluguer/",
-          "intent": 0.22
-        },
-        "semantic": {
-          "id": "PT-0104",
-          "url": "/precos/capacetes-no-aluguer/",
-          "semantic": 0.38
-        }
-      },
-      "pending": {
-        "id": "PT-0022",
-        "url": "/tipos-de-motas/onde-deixar-o-capacete/",
-        "intent": 0.14
-      },
-      "working_title": "Como escolher e ajustar um capacete de mota no Vietname",
-      "has_draft": true
-    },
-    {
-      "id": "PT-0155",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0009",
-          "url": "/tipos-de-motas/scooter-para-duas-pessoas/",
-          "intent": 0.14
-        },
-        "semantic": {
-          "id": "PT-0085",
-          "url": "/precos/varias-motas-para-familias/",
-          "semantic": 0.35
-        }
-      },
-      "pending": {
-        "id": "PT-0062",
-        "url": "/tipos-de-motas/regras-bicicleta-eletrica-vietname/",
-        "intent": 0.22
-      },
-      "working_title": "Crianças numa mota no Vietname: regras, capacetes e alternativas",
-      "has_draft": true
-    },
-    {
-      "id": "PT-0156",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0009",
-          "url": "/tipos-de-motas/scooter-para-duas-pessoas/",
-          "intent": 0.07
-        },
-        "semantic": {
-          "id": "PT-0126",
-          "url": "/guia-de-aluguer/perguntas-antes-de-alugar/",
-          "semantic": 0.09
-        }
-      },
-      "pending": {
-        "id": "PT-0174",
-        "url": "/guia-de-aluguer/limites-de-velocidade/",
-        "intent": 0.1
-      },
-      "working_title": "Equipamento de proteção: o que vestir para andar de mota em Hanói",
-      "has_draft": true
-    },
-    {
-      "id": "PT-0157",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0131",
-          "url": "/guia-de-aluguer/documentos-da-mota-alugada/",
-          "intent": 0.09
-        },
-        "semantic": {
-          "id": "PT-0132",
-          "url": "/guia-de-aluguer/seguro-obrigatorio-de-mota/",
-          "semantic": 0.15
-        }
-      },
-      "pending": {
-        "id": "PT-0278",
-        "url": "/rotas-e-mobilidade/verao-e-calor-em-hanoi/",
-        "intent": 0.13
-      },
-      "working_title": "É seguro andar de mota em Hanói? Riscos reais e como reduzi-los",
-      "has_draft": true
-    },
-    {
-      "id": "PT-0158",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "/tipos-de-motas/motas-50cc/",
-          "url": "/tipos-de-motas/motas-50cc/",
-          "intent": 0.11
-        },
-        "semantic": {
-          "id": "PT-0159",
-          "url": "/guia-de-aluguer/alcool-zero-ao-volante/",
-          "semantic": 0.21
-        }
-      },
-      "pending": {
-        "id": "PT-0090",
-        "url": "/precos/pagar-em-dong-vietnamita/",
-        "intent": 0.11
-      },
-      "working_title": "Regras de trânsito no Vietname que todo o motociclista deve conhecer",
-      "has_draft": true
-    },
-    {
-      "id": "PT-0160",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0043",
-          "url": "/tipos-de-motas/idade-minima-50cc/",
-          "intent": 0.09
-        },
-        "semantic": {
-          "id": "PT-0286",
-          "url": "/rotas-e-mobilidade/quando-nao-conduzir/",
-          "semantic": 0.13
-        }
-      },
-      "pending": {
-        "id": "PT-0172",
-        "url": "/guia-de-aluguer/peoes-e-zonas-pedonais/",
-        "intent": 0.22
-      },
-      "working_title": "Conduzir de mota à noite em Hanói: visibilidade e cuidados",
       "has_draft": false
     },
     {
@@ -2192,88 +583,16 @@
         "semantic": {
           "id": "PT-0215",
           "url": "/guia-de-aluguer/avaria-longe-de-hanoi/",
-          "semantic": 0.16
+          "semantic": 0.15
         }
       },
       "pending": {
-        "id": "PT-0153",
-        "url": "/guia-de-aluguer/pneus-e-pressao/",
+        "id": "PT-0170",
+        "url": "/guia-de-aluguer/fadiga-e-pausas/",
         "intent": 0.11
       },
       "working_title": "Sinais de avaria em andamento: quando parar imediatamente",
       "has_draft": false
-    },
-    {
-      "id": "PT-0162",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0007",
-          "url": "/tipos-de-motas/scooter-ou-semiautomatica/",
-          "intent": 0.08
-        },
-        "semantic": {
-          "id": "PT-0072",
-          "url": "/precos/sair-de-hanoi-a-meio-do-aluguer/",
-          "semantic": 0.12
-        }
-      },
-      "pending": {
-        "id": "PT-0064",
-        "url": "/tipos-de-motas/seguranca-numa-mota-silenciosa/",
-        "intent": 0.2
-      },
-      "working_title": "Distância de segurança e posição na faixa entre milhares de motas",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0164",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0126",
-          "url": "/guia-de-aluguer/perguntas-antes-de-alugar/",
-          "intent": 0.11
-        },
-        "semantic": {
-          "id": "PT-0045",
-          "url": "/tipos-de-motas/50cc-com-passageiro/",
-          "semantic": 0.06
-        }
-      },
-      "pending": {
-        "id": "PT-0052",
-        "url": "/tipos-de-motas/trajetos-para-uma-50cc/",
-        "intent": 0.33
-      },
-      "working_title": "Queimaduras no escape da mota: como evitar e o que fazer",
-      "has_draft": true
-    },
-    {
-      "id": "PT-0165",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0068",
-          "url": "/precos/aluguer-mensal-de-mota/",
-          "intent": 0.08
-        },
-        "semantic": {
-          "id": "PT-0159",
-          "url": "/guia-de-aluguer/alcool-zero-ao-volante/",
-          "semantic": 0.09
-        }
-      },
-      "pending": {
-        "id": "PT-0158",
-        "url": "/guia-de-aluguer/regras-de-transito-essenciais/",
-        "intent": 0.13
-      },
-      "working_title": "Poluição do ar em Hanói: máscara e cuidados para quem anda de mota",
-      "has_draft": true
     },
     {
       "id": "PT-0166",
@@ -2281,95 +600,23 @@
       "reasons": [],
       "live": {
         "intent": {
-          "id": "PT-0101",
-          "url": "/precos/entrega-da-mota-no-hotel/",
-          "intent": 0.13
+          "id": "PT-0133",
+          "url": "/guia-de-aluguer/seguro-de-viagem-e-mota/",
+          "intent": 0.2
         },
         "semantic": {
-          "id": "PT-0072",
-          "url": "/precos/sair-de-hanoi-a-meio-do-aluguer/",
-          "semantic": 0.12
+          "id": "PT-0152",
+          "url": "/guia-de-aluguer/verificar-os-travoes/",
+          "semantic": 0.11
         }
       },
       "pending": {
-        "id": "PT-0133",
-        "url": "/guia-de-aluguer/seguro-de-viagem-e-mota/",
-        "intent": 0.2
+        "id": "PT-0029",
+        "url": "/tipos-de-motas/como-conduzir-uma-semiautomatica/",
+        "intent": 0.08
       },
       "working_title": "A mota caiu: como levantá-la e o que verificar antes de voltar a conduzir",
       "has_draft": false
-    },
-    {
-      "id": "PT-0167",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0105",
-          "url": "/precos/capa-de-chuva-e-acessorios/",
-          "intent": 0.07
-        },
-        "semantic": {
-          "id": "PT-0023",
-          "url": "/tipos-de-motas/telemovel-e-gps-na-scooter/",
-          "semantic": 0.16
-        }
-      },
-      "pending": {
-        "id": "PT-0285",
-        "url": "/rotas-e-mobilidade/trovoadas-de-mota/",
-        "intent": 0.1
-      },
-      "working_title": "Roubo por esticão em Hanói: proteger o telemóvel e a mala quando anda de mota",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0168",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0209",
-          "url": "/guia-de-aluguer/assistencia-na-estrada/",
-          "intent": 0.14
-        },
-        "semantic": {
-          "id": "PT-0209",
-          "url": "/guia-de-aluguer/assistencia-na-estrada/",
-          "semantic": 0.09
-        }
-      },
-      "pending": {
-        "id": "PT-0158",
-        "url": "/guia-de-aluguer/regras-de-transito-essenciais/",
-        "intent": 0.13
-      },
-      "working_title": "Kit básico e primeiros socorros para quem anda de mota",
-      "has_draft": true
-    },
-    {
-      "id": "PT-0169",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0147",
-          "url": "/guia-de-aluguer/autorizacao-para-sair-de-hanoi/",
-          "intent": 0.14
-        },
-        "semantic": {
-          "id": "PT-0209",
-          "url": "/guia-de-aluguer/assistencia-na-estrada/",
-          "semantic": 0.14
-        }
-      },
-      "pending": {
-        "id": "PT-0111",
-        "url": "/precos/cadeado-e-antifurto/",
-        "intent": 0.09
-      },
-      "working_title": "Pedir ajuda no Vietname: números de emergência, o que dizer e como indicar onde está",
-      "has_draft": true
     },
     {
       "id": "PT-0170",
@@ -2377,14 +624,14 @@
       "reasons": [],
       "live": {
         "intent": {
-          "id": "PT-0099",
-          "url": "/precos/burlas-no-aluguer-de-motas/",
-          "intent": 0.09
+          "id": "PT-0034",
+          "url": "/tipos-de-motas/semiautomatica-para-viagens/",
+          "intent": 0.12
         },
         "semantic": {
-          "id": "PT-0008",
-          "url": "/tipos-de-motas/nunca-conduziu-uma-mota/",
-          "semantic": 0.09
+          "id": "PT-0160",
+          "url": "/guia-de-aluguer/conduzir-de-mota-a-noite/",
+          "semantic": 0.11
         }
       },
       "pending": {
@@ -2393,30 +640,6 @@
         "intent": 0.11
       },
       "working_title": "Fadiga numa viagem de mota: quando parar e descansar",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0171",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0127",
-          "url": "/guia-de-aluguer/licenca-internacional-de-conducao/",
-          "intent": 0.13
-        },
-        "semantic": {
-          "id": "PT-0105",
-          "url": "/precos/capa-de-chuva-e-acessorios/",
-          "semantic": 0.09
-        }
-      },
-      "pending": {
-        "id": "PT-0128",
-        "url": "/guia-de-aluguer/carta-brasileira-no-vietname/",
-        "intent": 0.14
-      },
-      "working_title": "Piso molhado: técnica de condução de mota para não cair",
       "has_draft": false
     },
     {
@@ -2432,231 +655,15 @@
         "semantic": {
           "id": "PT-0216",
           "url": "/zonas-de-hanoi/conduzir-no-bairro-antigo/",
-          "semantic": 0.27
-        }
-      },
-      "pending": {
-        "id": "PT-0160",
-        "url": "/guia-de-aluguer/conduzir-de-mota-a-noite/",
-        "intent": 0.22
-      },
-      "working_title": "Peões e zonas pedonais: conduzir com cuidado nas ruas mais movimentadas",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0173",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0041",
-          "url": "/tipos-de-motas/scooter-50cc-ou-110cc/",
-          "intent": 0.08
-        },
-        "semantic": {
-          "id": "PT-0210",
-          "url": "/guia-de-aluguer/mota-danificada-estacionada/",
-          "semantic": 0.05
-        }
-      },
-      "pending": {
-        "id": "PT-0030",
-        "url": "/tipos-de-motas/ponto-morto-e-mudancas/",
-        "intent": 0.2
-      },
-      "working_title": "Espelhos e ângulos mortos: o que muda numa cidade cheia de motas",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0174",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0003",
-          "url": "/tipos-de-motas/honda-click-em-hanoi/",
-          "intent": 0.11
-        },
-        "semantic": {
-          "id": "PT-0130",
-          "url": "/guia-de-aluguer/categorias-a1-e-a/",
           "semantic": 0.28
         }
       },
       "pending": {
-        "id": "PT-0042",
-        "url": "/tipos-de-motas/velocidade-de-uma-50cc/",
-        "intent": 0.18
+        "id": "PT-0029",
+        "url": "/tipos-de-motas/como-conduzir-uma-semiautomatica/",
+        "intent": 0.09
       },
-      "working_title": "Limites de velocidade para motas no Vietname",
-      "has_draft": true
-    },
-    {
-      "id": "PT-0175",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0215",
-          "url": "/guia-de-aluguer/avaria-longe-de-hanoi/",
-          "intent": 0.13
-        },
-        "semantic": {
-          "id": "PT-0216",
-          "url": "/zonas-de-hanoi/conduzir-no-bairro-antigo/",
-          "semantic": 0.08
-        }
-      },
-      "pending": {
-        "id": "PT-0274",
-        "url": "/rotas-e-mobilidade/hanoi-ao-amanhecer/",
-        "intent": 0.15
-      },
-      "working_title": "Treinar antes de entrar no trânsito: um plano de 30 minutos",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0176",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0286",
-          "url": "/rotas-e-mobilidade/quando-nao-conduzir/",
-          "intent": 0.14
-        },
-        "semantic": {
-          "id": "PT-0075",
-          "url": "/precos/horas-de-levantamento-e-devolucao/",
-          "semantic": 0.12
-        }
-      },
-      "pending": {
-        "id": "PT-0160",
-        "url": "/guia-de-aluguer/conduzir-de-mota-a-noite/",
-        "intent": 0.13
-      },
-      "working_title": "Os primeiros dias a conduzir em Hanói: como ganhar confiança",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0177",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0233",
-          "url": "/zonas-de-hanoi/ponte-long-bien/",
-          "intent": 0.08
-        },
-        "semantic": {
-          "id": "PT-0233",
-          "url": "/zonas-de-hanoi/ponte-long-bien/",
-          "semantic": 0.1
-        }
-      },
-      "pending": {
-        "id": "PT-0190",
-        "url": "/guia-de-aluguer/atravessar-a-rua-a-pe/",
-        "intent": 0.14
-      },
-      "working_title": "Cruzamentos e rotundas em Hanói: como atravessar de mota",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0178",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0075",
-          "url": "/precos/horas-de-levantamento-e-devolucao/",
-          "intent": 0.13
-        },
-        "semantic": {
-          "id": "PT-0075",
-          "url": "/precos/horas-de-levantamento-e-devolucao/",
-          "semantic": 0.17
-        }
-      },
-      "pending": {
-        "id": "PT-0021",
-        "url": "/tipos-de-motas/postura-e-conforto/",
-        "intent": 0.2
-      },
-      "working_title": "Horas de ponta em Hanói: quando evitar conduzir",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0179",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "/contactos/",
-          "url": "/contactos/",
-          "intent": 0
-        },
-        "semantic": {
-          "id": "PT-0210",
-          "url": "/guia-de-aluguer/mota-danificada-estacionada/",
-          "semantic": 0.16
-        }
-      },
-      "pending": {
-        "id": "PT-0106",
-        "url": "/precos/estacionamento-em-hanoi-preco/",
-        "intent": 0.25
-      },
-      "working_title": "Onde e como estacionar a mota em Hanói",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0180",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "/tipos-de-motas/",
-          "url": "/tipos-de-motas/",
-          "intent": 0.2
-        },
-        "semantic": {
-          "id": "PT-0103",
-          "url": "/precos/combustivel-no-aluguer/",
-          "semantic": 0.24
-        }
-      },
-      "pending": {
-        "id": "PT-0047",
-        "url": "/tipos-de-motas/50cc-ou-mota-eletrica/",
-        "intent": 0.17
-      },
-      "working_title": "Como abastecer no Vietname: tipos de gasolina e pagamento",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0181",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0080",
-          "url": "/precos/reservar-com-antecedencia/",
-          "intent": 0.07
-        },
-        "semantic": {
-          "id": "PT-0150",
-          "url": "/guia-de-aluguer/loja-de-aluguer-fiavel/",
-          "semantic": 0.09
-        }
-      },
-      "pending": {
-        "id": "PT-0140",
-        "url": "/guia-de-aluguer/cartao-sim-no-vietname/",
-        "intent": 0.08
-      },
-      "working_title": "Moradas em Hanói: como ler ngõ, ngách e número para chegar de mota",
+      "working_title": "Peões e zonas pedonais: conduzir com cuidado nas ruas mais movimentadas",
       "has_draft": false
     },
     {
@@ -2670,66 +677,18 @@
           "intent": 0.15
         },
         "semantic": {
-          "id": "PT-0216",
-          "url": "/zonas-de-hanoi/conduzir-no-bairro-antigo/",
-          "semantic": 0.2
+          "id": "PT-0189",
+          "url": "/guia-de-aluguer/virar-a-esquerda/",
+          "semantic": 0.32
         }
       },
       "pending": {
-        "id": "PT-0061",
-        "url": "/tipos-de-motas/mota-eletrica-e-chuva/",
+        "id": "PT-0259",
+        "url": "/zonas-de-hanoi/centros-comerciais-de-mota/",
         "intent": 0.09
       },
       "working_title": "Ruas de sentido único e proibições de viragem no centro",
       "has_draft": false
-    },
-    {
-      "id": "PT-0183",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0100",
-          "url": "/precos/multas-de-transito-no-aluguer/",
-          "intent": 0.14
-        },
-        "semantic": {
-          "id": "PT-0085",
-          "url": "/precos/varias-motas-para-familias/",
-          "semantic": 0.04
-        }
-      },
-      "pending": {
-        "id": "PT-0282",
-        "url": "/rotas-e-mobilidade/feriados-nacionais-e-transito/",
-        "intent": 0.15
-      },
-      "working_title": "Sinais de trânsito no Vietname que confundem quem vem da Europa",
-      "has_draft": true
-    },
-    {
-      "id": "PT-0184",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "/contactos/",
-          "url": "/contactos/",
-          "intent": 0
-        },
-        "semantic": {
-          "id": "PT-0193",
-          "url": "/guia-de-aluguer/como-evitar-multas/",
-          "semantic": 0.1
-        }
-      },
-      "pending": {
-        "id": "PT-0182",
-        "url": "/guia-de-aluguer/sentidos-unicos-e-viragens/",
-        "intent": 0.09
-      },
-      "working_title": "Semáforos em Hanói: viragem à direita, contagem decrescente e setas",
-      "has_draft": true
     },
     {
       "id": "PT-0185",
@@ -2761,20 +720,20 @@
       "reasons": [],
       "live": {
         "intent": {
-          "id": "PT-0065",
-          "url": "/tipos-de-motas/zona-de-baixas-emissoes-hanoi/",
-          "intent": 0.08
+          "id": "PT-0225",
+          "url": "/zonas-de-hanoi/mercado-dong-xuan-de-mota/",
+          "intent": 0.17
         },
         "semantic": {
-          "id": "PT-0041",
-          "url": "/tipos-de-motas/scooter-50cc-ou-110cc/",
-          "semantic": 0.08
+          "id": "PT-0225",
+          "url": "/zonas-de-hanoi/mercado-dong-xuan-de-mota/",
+          "semantic": 0.28
         }
       },
       "pending": {
-        "id": "PT-0225",
-        "url": "/zonas-de-hanoi/mercado-dong-xuan-de-mota/",
-        "intent": 0.22
+        "id": "PT-0247",
+        "url": "/zonas-de-hanoi/mercado-de-flores-quang-an/",
+        "intent": 0.2
       },
       "working_title": "Ir às compras de mota: mercados, supermercados e estacionamento",
       "has_draft": false
@@ -2785,71 +744,23 @@
       "reasons": [],
       "live": {
         "intent": {
-          "id": "PT-0008",
-          "url": "/tipos-de-motas/nunca-conduziu-uma-mota/",
-          "intent": 0.08
+          "id": "PT-0047",
+          "url": "/tipos-de-motas/50cc-ou-mota-eletrica/",
+          "intent": 0.11
         },
         "semantic": {
-          "id": "PT-0008",
-          "url": "/tipos-de-motas/nunca-conduziu-uma-mota/",
+          "id": "/guia-de-aluguer/documentacao-e-caucao/",
+          "url": "/guia-de-aluguer/documentacao-e-caucao/",
           "semantic": 0.11
         }
       },
       "pending": {
-        "id": "PT-0160",
-        "url": "/guia-de-aluguer/conduzir-de-mota-a-noite/",
-        "intent": 0.11
+        "id": "PT-0029",
+        "url": "/tipos-de-motas/como-conduzir-uma-semiautomatica/",
+        "intent": 0.1
       },
       "working_title": "Já conduziu mota na Tailândia ou em Bali? O que muda no Vietname",
       "has_draft": false
-    },
-    {
-      "id": "PT-0188",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0099",
-          "url": "/precos/burlas-no-aluguer-de-motas/",
-          "intent": 0.11
-        },
-        "semantic": {
-          "id": "PT-0193",
-          "url": "/guia-de-aluguer/como-evitar-multas/",
-          "semantic": 0.22
-        }
-      },
-      "pending": {
-        "id": "PT-0262",
-        "url": "/rotas-e-mobilidade/primeiro-passeio-de-mota/",
-        "intent": 0.14
-      },
-      "working_title": "Motas em contramão e no passeio: como reagir",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0189",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "/contactos/",
-          "url": "/contactos/",
-          "intent": 0
-        },
-        "semantic": {
-          "id": "PT-0053",
-          "url": "/tipos-de-motas/confirmar-que-a-mota-e-50cc/",
-          "semantic": 0.03
-        }
-      },
-      "pending": {
-        "id": "PT-0051",
-        "url": "/tipos-de-motas/50cc-para-pouca-estatura/",
-        "intent": 0.1
-      },
-      "working_title": "Virar à esquerda em Hanói: a manobra que mais assusta",
-      "has_draft": true
     },
     {
       "id": "PT-0190",
@@ -2857,94 +768,22 @@
       "reasons": [],
       "live": {
         "intent": {
-          "id": "PT-0109",
-          "url": "/precos/limpeza-da-mota/",
-          "intent": 0.08
+          "id": "PT-0220",
+          "url": "/zonas-de-hanoi/bairro-antigo-a-pe-ou-de-mota/",
+          "intent": 0.15
         },
         "semantic": {
           "id": "PT-0233",
           "url": "/zonas-de-hanoi/ponte-long-bien/",
-          "semantic": 0.2
+          "semantic": 0.22
         }
       },
       "pending": {
-        "id": "PT-0179",
-        "url": "/guia-de-aluguer/onde-estacionar-em-hanoi/",
-        "intent": 0.2
+        "id": "PT-0106",
+        "url": "/precos/estacionamento-em-hanoi-preco/",
+        "intent": 0.13
       },
       "working_title": "Atravessar a rua a pé em Hanói depois de estacionar",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0191",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0082",
-          "url": "/precos/desgaste-normal-num-aluguer-longo/",
-          "intent": 0.13
-        },
-        "semantic": {
-          "id": "PT-0068",
-          "url": "/precos/aluguer-mensal-de-mota/",
-          "semantic": 0.18
-        }
-      },
-      "pending": {
-        "id": "PT-0037",
-        "url": "/tipos-de-motas/corrente-da-mota/",
-        "intent": 0.33
-      },
-      "working_title": "Manutenção num aluguer longo: o que verificar todas as semanas",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0192",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0126",
-          "url": "/guia-de-aluguer/perguntas-antes-de-alugar/",
-          "intent": 0.09
-        },
-        "semantic": {
-          "id": "PT-0193",
-          "url": "/guia-de-aluguer/como-evitar-multas/",
-          "semantic": 0.06
-        }
-      },
-      "pending": {
-        "id": "PT-0138",
-        "url": "/guia-de-aluguer/perdeu-a-carta-de-conducao/",
-        "intent": 0.18
-      },
-      "working_title": "Condução defensiva em Hanói: antecipar o que os outros vão fazer",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0194",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0146",
-          "url": "/guia-de-aluguer/trocar-de-mota/",
-          "intent": 0.07
-        },
-        "semantic": {
-          "id": "PT-0147",
-          "url": "/guia-de-aluguer/autorizacao-para-sair-de-hanoi/",
-          "semantic": 0.1
-        }
-      },
-      "pending": {
-        "id": "PT-0124",
-        "url": "/precos/custo-por-quilometro/",
-        "intent": 0.09
-      },
-      "working_title": "Vias proibidas a motas em Hanói: anéis elevados, autoestradas e outras restrições",
       "has_draft": false
     },
     {
@@ -2960,135 +799,15 @@
         "semantic": {
           "id": "PT-0233",
           "url": "/zonas-de-hanoi/ponte-long-bien/",
-          "semantic": 0.09
+          "semantic": 0.1
         }
       },
       "pending": {
-        "id": "PT-0188",
-        "url": "/guia-de-aluguer/motas-em-contramao/",
-        "intent": 0.11
+        "id": "PT-0039",
+        "url": "/tipos-de-motas/honda-wave-ou-honda-click/",
+        "intent": 0
       },
       "working_title": "Animais, obras e buracos: imprevistos na estrada e como reagir",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0199",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "/guia-de-aluguer/",
-          "url": "/guia-de-aluguer/",
-          "intent": 0.33
-        },
-        "semantic": {
-          "id": "PT-0210",
-          "url": "/guia-de-aluguer/mota-danificada-estacionada/",
-          "semantic": 0.24
-        }
-      },
-      "pending": {
-        "id": "PT-0201",
-        "url": "/guia-de-aluguer/acidente-com-mota-alugada/",
-        "intent": 0.25
-      },
-      "working_title": "Furo na mota alugada: o que fazer passo a passo",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0200",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0147",
-          "url": "/guia-de-aluguer/autorizacao-para-sair-de-hanoi/",
-          "intent": 0.17
-        },
-        "semantic": {
-          "id": "PT-0108",
-          "url": "/precos/custo-de-furos-e-reparacoes/",
-          "semantic": 0.15
-        }
-      },
-      "pending": {
-        "id": "PT-0036",
-        "url": "/tipos-de-motas/testar-mudancas-da-semiautomatica/",
-        "intent": 0.1
-      },
-      "working_title": "A mota avariou: como agir e o que dizer à loja",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0201",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0126",
-          "url": "/guia-de-aluguer/perguntas-antes-de-alugar/",
-          "intent": 0.14
-        },
-        "semantic": {
-          "id": "PT-0149",
-          "url": "/guia-de-aluguer/conduzir-sem-carta-valida/",
-          "semantic": 0.19
-        }
-      },
-      "pending": {
-        "id": "PT-0199",
-        "url": "/guia-de-aluguer/furo-na-mota-alugada/",
-        "intent": 0.25
-      },
-      "working_title": "Acidente com mota alugada no Vietname: o que fazer",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0202",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0073",
-          "url": "/precos/prolongar-o-aluguer/",
-          "intent": 0.07
-        },
-        "semantic": {
-          "id": "PT-0150",
-          "url": "/guia-de-aluguer/loja-de-aluguer-fiavel/",
-          "semantic": 0.12
-        }
-      },
-      "pending": {
-        "id": "PT-0029",
-        "url": "/tipos-de-motas/como-conduzir-uma-semiautomatica/",
-        "intent": 0.07
-      },
-      "working_title": "Pequeno toque sem feridos: resolver no local sem ser pressionado a pagar",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0203",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "/guia-de-aluguer/",
-          "url": "/guia-de-aluguer/",
-          "intent": 0.2
-        },
-        "semantic": {
-          "id": "PT-0132",
-          "url": "/guia-de-aluguer/seguro-obrigatorio-de-mota/",
-          "semantic": 0.15
-        }
-      },
-      "pending": {
-        "id": "PT-0199",
-        "url": "/guia-de-aluguer/furo-na-mota-alugada/",
-        "intent": 0.14
-      },
-      "working_title": "A mota foi roubada: passos imediatos e responsabilidade",
       "has_draft": false
     },
     {
@@ -3108,75 +827,29 @@
         }
       },
       "pending": {
-        "id": "PT-0201",
-        "url": "/guia-de-aluguer/acidente-com-mota-alugada/",
-        "intent": 0.14
+        "id": "PT-0029",
+        "url": "/tipos-de-motas/como-conduzir-uma-semiautomatica/",
+        "intent": 0.1
       },
       "working_title": "Fiquei sem combustível: onde encontrar gasolina e o que fazer",
       "has_draft": false
     },
     {
-      "id": "PT-0206",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0023",
-          "url": "/tipos-de-motas/telemovel-e-gps-na-scooter/",
-          "intent": 0.15
-        },
-        "semantic": {
-          "id": "PT-0023",
-          "url": "/tipos-de-motas/telemovel-e-gps-na-scooter/",
-          "semantic": 0.12
-        }
-      },
-      "pending": {
-        "id": "PT-0060",
-        "url": "/tipos-de-motas/mota-eletrica-ou-gasolina/",
-        "intent": 0.29
-      },
-      "working_title": "Bateria descarregada numa scooter ou mota elétrica",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0207",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0126",
-          "url": "/guia-de-aluguer/perguntas-antes-de-alugar/",
-          "intent": 0.09
-        },
-        "semantic": {
-          "id": "PT-0109",
-          "url": "/precos/limpeza-da-mota/",
-          "semantic": 0.11
-        }
-      },
-      "pending": {
-        "id": "PT-0061",
-        "url": "/tipos-de-motas/mota-eletrica-e-chuva/",
-        "intent": 0.2
-      },
-      "working_title": "Ruas inundadas: o que fazer se a mota apanhou água",
-      "has_draft": false
-    },
-    {
       "id": "PT-0211",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
+      "decision": "REVIEW_COLLISION",
+      "reasons": [
+        "semantic 0.42 with live /guia-de-aluguer/onde-estacionar-em-hanoi/"
+      ],
       "live": {
         "intent": {
-          "id": "PT-0196",
-          "url": "/guia-de-aluguer/receber-a-mota/",
-          "intent": 0.09
+          "id": "PT-0179",
+          "url": "/guia-de-aluguer/onde-estacionar-em-hanoi/",
+          "intent": 0.2
         },
         "semantic": {
-          "id": "PT-0210",
-          "url": "/guia-de-aluguer/mota-danificada-estacionada/",
-          "semantic": 0.11
+          "id": "PT-0179",
+          "url": "/guia-de-aluguer/onde-estacionar-em-hanoi/",
+          "semantic": 0.42
         }
       },
       "pending": {
@@ -3188,293 +861,29 @@
       "has_draft": false
     },
     {
-      "id": "PT-0212",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0068",
-          "url": "/precos/aluguer-mensal-de-mota/",
-          "intent": 0.07
-        },
-        "semantic": {
-          "id": "/sobre-nos/",
-          "url": "/sobre-nos/",
-          "semantic": 0.14
-        }
-      },
-      "pending": {
-        "id": "PT-0024",
-        "url": "/tipos-de-motas/scooters-no-vietname-e-em-portugal/",
-        "intent": 0.08
-      },
-      "working_title": "Apoio consular português no Vietname: quem contactar em caso de problema",
-      "has_draft": true
-    },
-    {
-      "id": "PT-0213",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "/contactos/",
-          "url": "/contactos/",
-          "intent": 0
-        },
-        "semantic": {
-          "id": "PT-0149",
-          "url": "/guia-de-aluguer/conduzir-sem-carta-valida/",
-          "semantic": 0.07
-        }
-      },
-      "pending": {
-        "id": "PT-0201",
-        "url": "/guia-de-aluguer/acidente-com-mota-alugada/",
-        "intent": 0.14
-      },
-      "working_title": "Hospitais e clínicas em Hanói para estrangeiros após um acidente",
-      "has_draft": true
-    },
-    {
-      "id": "PT-0214",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0105",
-          "url": "/precos/capa-de-chuva-e-acessorios/",
-          "intent": 0.13
-        },
-        "semantic": {
-          "id": "PT-0023",
-          "url": "/tipos-de-motas/telemovel-e-gps-na-scooter/",
-          "semantic": 0.23
-        }
-      },
-      "pending": {
-        "id": "PT-0211",
-        "url": "/guia-de-aluguer/perdeu-a-senha-do-parque/",
-        "intent": 0.17
-      },
-      "working_title": "Perdeu o telemóvel durante o aluguer: contactar a loja e continuar a viagem",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0217",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0065",
-          "url": "/tipos-de-motas/zona-de-baixas-emissoes-hanoi/",
-          "intent": 0.14
-        },
-        "semantic": {
-          "id": "PT-0216",
-          "url": "/zonas-de-hanoi/conduzir-no-bairro-antigo/",
-          "semantic": 0.24
-        }
-      },
-      "pending": {
-        "id": "PT-0218",
-        "url": "/zonas-de-hanoi/zona-pedonal-do-lago-hoan-kiem/",
-        "intent": 0.23
-      },
-      "working_title": "Onde estacionar a mota no Bairro Antigo e à volta do lago Hoàn Kiếm",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0218",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0065",
-          "url": "/tipos-de-motas/zona-de-baixas-emissoes-hanoi/",
-          "intent": 0.29
-        },
-        "semantic": {
-          "id": "PT-0065",
-          "url": "/tipos-de-motas/zona-de-baixas-emissoes-hanoi/",
-          "semantic": 0.23
-        }
-      },
-      "pending": {
-        "id": "PT-0217",
-        "url": "/zonas-de-hanoi/estacionar-no-bairro-antigo/",
-        "intent": 0.23
-      },
-      "working_title": "Zona pedonal do lago Hoàn Kiếm ao fim de semana: horários e desvios de mota",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0219",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0096",
-          "url": "/precos/existe-aluguer-sem-caucao/",
-          "intent": 0.08
-        },
-        "semantic": {
-          "id": "PT-0072",
-          "url": "/precos/sair-de-hanoi-a-meio-do-aluguer/",
-          "semantic": 0.05
-        }
-      },
-      "pending": {
-        "id": "PT-0224",
-        "url": "/zonas-de-hanoi/rua-ta-hien-a-noite/",
-        "intent": 0.14
-      },
-      "working_title": "Festival do Meio do Outono na rua Hàng Mã: multidões e onde deixar a mota",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0220",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0216",
-          "url": "/zonas-de-hanoi/conduzir-no-bairro-antigo/",
-          "intent": 0.15
-        },
-        "semantic": {
-          "id": "PT-0216",
-          "url": "/zonas-de-hanoi/conduzir-no-bairro-antigo/",
-          "semantic": 0.31
-        }
-      },
-      "pending": {
-        "id": "PT-0230",
-        "url": "/zonas-de-hanoi/quando-circular-no-bairro-antigo/",
-        "intent": 0.22
-      },
-      "working_title": "Bairro Antigo a pé ou de mota? Como combinar as duas formas",
-      "has_draft": false
-    },
-    {
       "id": "PT-0221",
       "decision": "REVIEW_COLLISION",
       "reasons": [
-        "semantic 0.53 with live /zonas-de-hanoi/ponte-long-bien/"
+        "semantic 0.54 with live /zonas-de-hanoi/ponte-long-bien/"
       ],
       "live": {
         "intent": {
-          "id": "PT-0261",
-          "url": "/rotas-e-mobilidade/hanoi-de-mota-num-dia/",
-          "intent": 0.23
+          "id": "PT-0229",
+          "url": "/zonas-de-hanoi/fica-no-bairro-antigo-e-quer-alugar/",
+          "intent": 0.36
         },
         "semantic": {
           "id": "PT-0233",
           "url": "/zonas-de-hanoi/ponte-long-bien/",
-          "semantic": 0.53
+          "semantic": 0.54
         }
       },
       "pending": {
-        "id": "PT-0229",
-        "url": "/zonas-de-hanoi/fica-no-bairro-antigo-e-quer-alugar/",
-        "intent": 0.44
+        "id": "PT-0267",
+        "url": "/rotas-e-mobilidade/roteiro-dos-mercados/",
+        "intent": 0.3
       },
       "working_title": "De Long Biên ao Bairro Antigo de mota: pontes e percurso",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0222",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0233",
-          "url": "/zonas-de-hanoi/ponte-long-bien/",
-          "intent": 0.13
-        },
-        "semantic": {
-          "id": "PT-0233",
-          "url": "/zonas-de-hanoi/ponte-long-bien/",
-          "semantic": 0.06
-        }
-      },
-      "pending": {
-        "id": "PT-0254",
-        "url": "/zonas-de-hanoi/estacao-ferroviaria-de-hanoi/",
-        "intent": 0.2
-      },
-      "working_title": "Rua do comboio (Train Street): regras de acesso e alternativas",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0223",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0216",
-          "url": "/zonas-de-hanoi/conduzir-no-bairro-antigo/",
-          "intent": 0.08
-        },
-        "semantic": {
-          "id": "PT-0216",
-          "url": "/zonas-de-hanoi/conduzir-no-bairro-antigo/",
-          "semantic": 0.1
-        }
-      },
-      "pending": {
-        "id": "PT-0230",
-        "url": "/zonas-de-hanoi/quando-circular-no-bairro-antigo/",
-        "intent": 0.25
-      },
-      "working_title": "Bairro francês e Ópera de Hanói: circular e estacionar de mota",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0224",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0096",
-          "url": "/precos/existe-aluguer-sem-caucao/",
-          "intent": 0.17
-        },
-        "semantic": {
-          "id": "PT-0159",
-          "url": "/guia-de-aluguer/alcool-zero-ao-volante/",
-          "semantic": 0.11
-        }
-      },
-      "pending": {
-        "id": "PT-0292",
-        "url": "/rotas-e-mobilidade/voltar-a-noite-sem-conduzir/",
-        "intent": 0.33
-      },
-      "working_title": "Rua Tạ Hiện à noite: onde deixar a mota e como regressar sem conduzir",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0225",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0065",
-          "url": "/tipos-de-motas/zona-de-baixas-emissoes-hanoi/",
-          "intent": 0.15
-        },
-        "semantic": {
-          "id": "PT-0065",
-          "url": "/tipos-de-motas/zona-de-baixas-emissoes-hanoi/",
-          "semantic": 0.05
-        }
-      },
-      "pending": {
-        "id": "PT-0260",
-        "url": "/zonas-de-hanoi/museu-de-etnologia/",
-        "intent": 0.38
-      },
-      "working_title": "Mercado Đồng Xuân de mota: acesso, estacionamento e horários",
       "has_draft": false
     },
     {
@@ -3483,118 +892,22 @@
       "reasons": [],
       "live": {
         "intent": {
-          "id": "PT-0216",
-          "url": "/zonas-de-hanoi/conduzir-no-bairro-antigo/",
-          "intent": 0.14
+          "id": "PT-0230",
+          "url": "/zonas-de-hanoi/quando-circular-no-bairro-antigo/",
+          "intent": 0.2
         },
         "semantic": {
           "id": "PT-0101",
           "url": "/precos/entrega-da-mota-no-hotel/",
-          "semantic": 0.24
-        }
-      },
-      "pending": {
-        "id": "PT-0230",
-        "url": "/zonas-de-hanoi/quando-circular-no-bairro-antigo/",
-        "intent": 0.2
-      },
-      "working_title": "Hotel no Bairro Antigo: onde guardar a mota durante a noite",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0227",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "/contactos/",
-          "url": "/contactos/",
-          "intent": 0
-        },
-        "semantic": {
-          "id": "PT-0008",
-          "url": "/tipos-de-motas/nunca-conduziu-uma-mota/",
-          "semantic": 0.03
-        }
-      },
-      "pending": {
-        "id": "PT-0190",
-        "url": "/guia-de-aluguer/atravessar-a-rua-a-pe/",
-        "intent": 0.09
-      },
-      "working_title": "Catedral de São José e rua Nhà Thờ: visitar de mota",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0228",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0041",
-          "url": "/tipos-de-motas/scooter-50cc-ou-110cc/",
-          "intent": 0.08
-        },
-        "semantic": {
-          "id": "PT-0135",
-          "url": "/guia-de-aluguer/fotografar-a-mota/",
-          "semantic": 0.11
-        }
-      },
-      "pending": {
-        "id": "PT-0033",
-        "url": "/tipos-de-motas/semiautomatica-no-transito/",
-        "intent": 0.09
-      },
-      "working_title": "Eventos e festivais no centro de Hanói: cortes de trânsito a prever",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0229",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0231",
-          "url": "/zonas-de-hanoi/aluguer-de-motas-em-long-bien/",
-          "intent": 0.23
-        },
-        "semantic": {
-          "id": "PT-0231",
-          "url": "/zonas-de-hanoi/aluguer-de-motas-em-long-bien/",
-          "semantic": 0.23
+          "semantic": 0.25
         }
       },
       "pending": {
         "id": "PT-0221",
         "url": "/zonas-de-hanoi/de-long-bien-ao-bairro-antigo/",
-        "intent": 0.44
+        "intent": 0.18
       },
-      "working_title": "Fica no Bairro Antigo? Como levantar a mota na loja em Long Biên",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0230",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0216",
-          "url": "/zonas-de-hanoi/conduzir-no-bairro-antigo/",
-          "intent": 0.17
-        },
-        "semantic": {
-          "id": "PT-0216",
-          "url": "/zonas-de-hanoi/conduzir-no-bairro-antigo/",
-          "semantic": 0.28
-        }
-      },
-      "pending": {
-        "id": "PT-0223",
-        "url": "/zonas-de-hanoi/bairro-frances-e-opera/",
-        "intent": 0.25
-      },
-      "working_title": "Melhores horas para circular de mota no Bairro Antigo",
+      "working_title": "Hotel no Bairro Antigo: onde guardar a mota durante a noite",
       "has_draft": false
     },
     {
@@ -3605,9 +918,9 @@
       ],
       "live": {
         "intent": {
-          "id": "/sobre-nos/",
-          "url": "/sobre-nos/",
-          "intent": 0.25
+          "id": "PT-0229",
+          "url": "/zonas-de-hanoi/fica-no-bairro-antigo-e-quer-alugar/",
+          "intent": 0.27
         },
         "semantic": {
           "id": "PT-0231",
@@ -3616,35 +929,11 @@
         }
       },
       "pending": {
-        "id": "PT-0234",
-        "url": "/zonas-de-hanoi/cidadela-de-co-loa/",
-        "intent": 0.23
+        "id": "PT-0239",
+        "url": "/zonas-de-hanoi/ecopark-de-mota/",
+        "intent": 0.21
       },
       "working_title": "Como chegar à loja no 112 Nguyễn Văn Cừ a partir do centro",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0234",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0261",
-          "url": "/rotas-e-mobilidade/hanoi-de-mota-num-dia/",
-          "intent": 0.23
-        },
-        "semantic": {
-          "id": "PT-0231",
-          "url": "/zonas-de-hanoi/aluguer-de-motas-em-long-bien/",
-          "semantic": 0.11
-        }
-      },
-      "pending": {
-        "id": "PT-0237",
-        "url": "/zonas-de-hanoi/bat-trang-de-mota/",
-        "intent": 0.3
-      },
-      "working_title": "Cidadela de Cổ Loa de mota a partir de Long Biên",
       "has_draft": false
     },
     {
@@ -3658,15 +947,15 @@
           "intent": 0.23
         },
         "semantic": {
-          "id": "PT-0231",
-          "url": "/zonas-de-hanoi/aluguer-de-motas-em-long-bien/",
-          "semantic": 0.26
+          "id": "PT-0269",
+          "url": "/rotas-e-mobilidade/roteiro-para-um-dia-de-chuva/",
+          "semantic": 0.33
         }
       },
       "pending": {
-        "id": "PT-0258",
-        "url": "/zonas-de-hanoi/cidadela-imperial-de-thang-long/",
-        "intent": 0.33
+        "id": "PT-0239",
+        "url": "/zonas-de-hanoi/ecopark-de-mota/",
+        "intent": 0.3
       },
       "working_title": "AEON Mall Long Biên de mota: acesso e estacionamento",
       "has_draft": false
@@ -3684,7 +973,7 @@
         "semantic": {
           "id": "PT-0231",
           "url": "/zonas-de-hanoi/aluguer-de-motas-em-long-bien/",
-          "semantic": 0.25
+          "semantic": 0.21
         }
       },
       "pending": {
@@ -3693,54 +982,6 @@
         "intent": 0.3
       },
       "working_title": "Viver em Long Biên com mota: condomínios, regras e deslocações",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0237",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0261",
-          "url": "/rotas-e-mobilidade/hanoi-de-mota-num-dia/",
-          "intent": 0.21
-        },
-        "semantic": {
-          "id": "PT-0231",
-          "url": "/zonas-de-hanoi/aluguer-de-motas-em-long-bien/",
-          "semantic": 0.07
-        }
-      },
-      "pending": {
-        "id": "PT-0234",
-        "url": "/zonas-de-hanoi/cidadela-de-co-loa/",
-        "intent": 0.3
-      },
-      "working_title": "Aldeia de cerâmica de Bát Tràng de mota a partir de Long Biên",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0238",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0261",
-          "url": "/rotas-e-mobilidade/hanoi-de-mota-num-dia/",
-          "intent": 0.2
-        },
-        "semantic": {
-          "id": "PT-0261",
-          "url": "/rotas-e-mobilidade/hanoi-de-mota-num-dia/",
-          "semantic": 0.1
-        }
-      },
-      "pending": {
-        "id": "PT-0234",
-        "url": "/zonas-de-hanoi/cidadela-de-co-loa/",
-        "intent": 0.27
-      },
-      "working_title": "Templo de Gióng em Phù Đổng: visitar de mota a partir de Long Biên",
       "has_draft": false
     },
     {
@@ -3754,41 +995,17 @@
           "intent": 0.21
         },
         "semantic": {
-          "id": "PT-0231",
-          "url": "/zonas-de-hanoi/aluguer-de-motas-em-long-bien/",
-          "semantic": 0.09
+          "id": "PT-0240",
+          "url": "/zonas-de-hanoi/estrada-do-dique-do-rio-vermelho/",
+          "semantic": 0.2
         }
       },
       "pending": {
-        "id": "PT-0234",
-        "url": "/zonas-de-hanoi/cidadela-de-co-loa/",
+        "id": "PT-0235",
+        "url": "/zonas-de-hanoi/aeon-mall-long-bien/",
         "intent": 0.3
       },
       "working_title": "Ecopark de mota: acesso a partir de Long Biên e regras internas",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0240",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0041",
-          "url": "/tipos-de-motas/scooter-50cc-ou-110cc/",
-          "intent": 0.08
-        },
-        "semantic": {
-          "id": "PT-0231",
-          "url": "/zonas-de-hanoi/aluguer-de-motas-em-long-bien/",
-          "semantic": 0.09
-        }
-      },
-      "pending": {
-        "id": "PT-0158",
-        "url": "/guia-de-aluguer/regras-de-transito-essenciais/",
-        "intent": 0.13
-      },
-      "working_title": "Estrada do dique do rio Vermelho: trânsito, camiões e cuidados",
       "has_draft": false
     },
     {
@@ -3797,20 +1014,20 @@
       "reasons": [],
       "live": {
         "intent": {
-          "id": "/tipos-de-motas/motas-50cc/",
-          "url": "/tipos-de-motas/motas-50cc/",
-          "intent": 0.08
+          "id": "PT-0257",
+          "url": "/zonas-de-hanoi/templo-da-literatura/",
+          "intent": 0.13
         },
         "semantic": {
-          "id": "PT-0231",
-          "url": "/zonas-de-hanoi/aluguer-de-motas-em-long-bien/",
-          "semantic": 0.04
+          "id": "PT-0238",
+          "url": "/zonas-de-hanoi/templo-de-giong-phu-dong/",
+          "semantic": 0.05
         }
       },
       "pending": {
-        "id": "PT-0257",
-        "url": "/zonas-de-hanoi/templo-da-literatura/",
-        "intent": 0.18
+        "id": "PT-0254",
+        "url": "/zonas-de-hanoi/estacao-ferroviaria-de-hanoi/",
+        "intent": 0.17
       },
       "working_title": "Lagoa do Vinhomes Ocean Park de mota: acesso, estacionamento e regras",
       "has_draft": false
@@ -3826,9 +1043,9 @@
           "intent": 0.19
         },
         "semantic": {
-          "id": "PT-0231",
-          "url": "/zonas-de-hanoi/aluguer-de-motas-em-long-bien/",
-          "semantic": 0.31
+          "id": "PT-0229",
+          "url": "/zonas-de-hanoi/fica-no-bairro-antigo-e-quer-alugar/",
+          "semantic": 0.3
         }
       },
       "pending": {
@@ -3837,30 +1054,6 @@
         "intent": 0.17
       },
       "working_title": "Ficar alojado em Long Biên: vantagens para quem aluga mota",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0243",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0261",
-          "url": "/rotas-e-mobilidade/hanoi-de-mota-num-dia/",
-          "intent": 0.13
-        },
-        "semantic": {
-          "id": "PT-0261",
-          "url": "/rotas-e-mobilidade/hanoi-de-mota-num-dia/",
-          "semantic": 0.21
-        }
-      },
-      "pending": {
-        "id": "PT-0249",
-        "url": "/zonas-de-hanoi/lago-truc-bach/",
-        "intent": 0.18
-      },
-      "working_title": "Volta ao Lago Oeste (Hồ Tây) de mota: percurso e paragens",
       "has_draft": false
     },
     {
@@ -3874,63 +1067,41 @@
           "intent": 0.14
         },
         "semantic": {
-          "id": "PT-0019",
-          "url": "/tipos-de-motas/scooter-para-o-dia-a-dia/",
-          "semantic": 0.08
+          "id": "PT-0243",
+          "url": "/zonas-de-hanoi/volta-ao-lago-oeste/",
+          "semantic": 0.27
         }
       },
       "pending": {
-        "id": "PT-0252",
-        "url": "/zonas-de-hanoi/templo-phu-tay-ho/",
-        "intent": 0.25
+        "id": "PT-0106",
+        "url": "/precos/estacionamento-em-hanoi-preco/",
+        "intent": 0.1
       },
       "working_title": "Tây Hồ para quem vive em Hanói: deslocações e estacionamento de mota",
       "has_draft": false
     },
     {
-      "id": "PT-0245",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "/tipos-de-motas/motas-50cc/",
-          "url": "/tipos-de-motas/motas-50cc/",
-          "intent": 0.08
-        },
-        "semantic": {
-          "id": "PT-0261",
-          "url": "/rotas-e-mobilidade/hanoi-de-mota-num-dia/",
-          "semantic": 0.27
-        }
-      },
-      "pending": {
-        "id": "PT-0121",
-        "url": "/precos/hanoi-ou-outras-cidades/",
-        "intent": 0.27
-      },
-      "working_title": "Mausoléu de Hồ Chí Minh e praça Ba Đình: regras de acesso de mota",
-      "has_draft": false
-    },
-    {
       "id": "PT-0246",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
+      "decision": "REVIEW_COLLISION",
+      "reasons": [
+        "semantic 0.43 with live /rotas-e-mobilidade/roteiro-de-pagodes-e-templos/"
+      ],
       "live": {
         "intent": {
-          "id": "PT-0065",
-          "url": "/tipos-de-motas/zona-de-baixas-emissoes-hanoi/",
-          "intent": 0.06
+          "id": "PT-0257",
+          "url": "/zonas-de-hanoi/templo-da-literatura/",
+          "intent": 0.13
         },
         "semantic": {
-          "id": "PT-0261",
-          "url": "/rotas-e-mobilidade/hanoi-de-mota-num-dia/",
-          "semantic": 0.16
+          "id": "PT-0264",
+          "url": "/rotas-e-mobilidade/roteiro-de-pagodes-e-templos/",
+          "semantic": 0.43
         }
       },
       "pending": {
-        "id": "PT-0252",
-        "url": "/zonas-de-hanoi/templo-phu-tay-ho/",
-        "intent": 0.23
+        "id": "PT-0254",
+        "url": "/zonas-de-hanoi/estacao-ferroviaria-de-hanoi/",
+        "intent": 0.18
       },
       "working_title": "Pagode Trấn Quốc de mota: acesso pela Thanh Niên e estacionamento",
       "has_draft": false
@@ -3941,14 +1112,14 @@
       "reasons": [],
       "live": {
         "intent": {
-          "id": "PT-0231",
-          "url": "/zonas-de-hanoi/aluguer-de-motas-em-long-bien/",
-          "intent": 0.07
+          "id": "PT-0225",
+          "url": "/zonas-de-hanoi/mercado-dong-xuan-de-mota/",
+          "intent": 0.23
         },
         "semantic": {
-          "id": "PT-0216",
-          "url": "/zonas-de-hanoi/conduzir-no-bairro-antigo/",
-          "semantic": 0.04
+          "id": "PT-0225",
+          "url": "/zonas-de-hanoi/mercado-dong-xuan-de-mota/",
+          "semantic": 0.23
         }
       },
       "pending": {
@@ -3960,75 +1131,27 @@
       "has_draft": false
     },
     {
-      "id": "PT-0248",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "/contactos/",
-          "url": "/contactos/",
-          "intent": 0.09
-        },
-        "semantic": {
-          "id": "PT-0233",
-          "url": "/zonas-de-hanoi/ponte-long-bien/",
-          "semantic": 0.18
-        }
-      },
-      "pending": {
-        "id": "PT-0250",
-        "url": "/zonas-de-hanoi/aldeias-de-flores-nhat-tan/",
-        "intent": 0.13
-      },
-      "working_title": "Ponte Nhật Tân e avenida Võ Nguyên Giáp: o caminho de mota para norte",
-      "has_draft": false
-    },
-    {
       "id": "PT-0249",
       "decision": "ALLOW_CREATE",
       "reasons": [],
       "live": {
         "intent": {
-          "id": "PT-0065",
-          "url": "/tipos-de-motas/zona-de-baixas-emissoes-hanoi/",
-          "intent": 0.15
+          "id": "PT-0243",
+          "url": "/zonas-de-hanoi/volta-ao-lago-oeste/",
+          "intent": 0.25
         },
         "semantic": {
           "id": "PT-0261",
           "url": "/rotas-e-mobilidade/hanoi-de-mota-num-dia/",
-          "semantic": 0.34
+          "semantic": 0.37
         }
       },
       "pending": {
-        "id": "PT-0243",
-        "url": "/zonas-de-hanoi/volta-ao-lago-oeste/",
-        "intent": 0.18
-      },
-      "working_title": "Lago Trúc Bạch de mota: percurso curto e estacionamento",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0250",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "/contactos/",
-          "url": "/contactos/",
-          "intent": 0.09
-        },
-        "semantic": {
-          "id": "/sobre-nos/",
-          "url": "/sobre-nos/",
-          "semantic": 0.04
-        }
-      },
-      "pending": {
-        "id": "PT-0248",
-        "url": "/zonas-de-hanoi/ponte-nhat-tan-para-norte/",
+        "id": "PT-0291",
+        "url": "/rotas-e-mobilidade/bicicleta-em-hanoi/",
         "intent": 0.13
       },
-      "working_title": "Aldeias de flores de Nhật Tân e Tứ Liên: visitar de mota na época certa",
+      "working_title": "Lago Trúc Bạch de mota: percurso curto e estacionamento",
       "has_draft": false
     },
     {
@@ -4037,71 +1160,23 @@
       "reasons": [],
       "live": {
         "intent": {
-          "id": "PT-0080",
-          "url": "/precos/reservar-com-antecedencia/",
-          "intent": 0.05
+          "id": "PT-0271",
+          "url": "/rotas-e-mobilidade/roteiro-da-guerra-do-vietname/",
+          "intent": 0.18
         },
         "semantic": {
-          "id": "PT-0261",
-          "url": "/rotas-e-mobilidade/hanoi-de-mota-num-dia/",
-          "semantic": 0.13
+          "id": "PT-0271",
+          "url": "/rotas-e-mobilidade/roteiro-da-guerra-do-vietname/",
+          "semantic": 0.36
         }
       },
       "pending": {
-        "id": "PT-0245",
-        "url": "/zonas-de-hanoi/mausoleu-e-praca-ba-dinh/",
-        "intent": 0.11
+        "id": "PT-0249",
+        "url": "/zonas-de-hanoi/lago-truc-bach/",
+        "intent": 0.06
       },
       "working_title": "Destroços do B-52 no lago Hữu Tiệp: chegar de mota pelos becos de Ba Đình",
       "has_draft": false
-    },
-    {
-      "id": "PT-0252",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0065",
-          "url": "/tipos-de-motas/zona-de-baixas-emissoes-hanoi/",
-          "intent": 0.06
-        },
-        "semantic": {
-          "id": "PT-0261",
-          "url": "/rotas-e-mobilidade/hanoi-de-mota-num-dia/",
-          "semantic": 0.16
-        }
-      },
-      "pending": {
-        "id": "PT-0257",
-        "url": "/zonas-de-hanoi/templo-da-literatura/",
-        "intent": 0.33
-      },
-      "working_title": "Templo Phủ Tây Hồ de mota: acesso pela península e estacionamento",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0253",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0084",
-          "url": "/precos/aluguer-com-datas-em-aberto/",
-          "intent": 0.08
-        },
-        "semantic": {
-          "id": "PT-0208",
-          "url": "/guia-de-aluguer/devolver-noutro-local/",
-          "semantic": 0.13
-        }
-      },
-      "pending": {
-        "id": "PT-0112",
-        "url": "/precos/entrega-no-aeroporto-noi-bai/",
-        "intent": 0.25
-      },
-      "working_title": "Do aeroporto de Nội Bài para Hanói: de mota ou não?",
-      "has_draft": true
     },
     {
       "id": "PT-0254",
@@ -4109,20 +1184,20 @@
       "reasons": [],
       "live": {
         "intent": {
-          "id": "PT-0065",
-          "url": "/tipos-de-motas/zona-de-baixas-emissoes-hanoi/",
-          "intent": 0.08
+          "id": "PT-0257",
+          "url": "/zonas-de-hanoi/templo-da-literatura/",
+          "intent": 0.17
         },
         "semantic": {
-          "id": "PT-0065",
-          "url": "/tipos-de-motas/zona-de-baixas-emissoes-hanoi/",
-          "semantic": 0.03
+          "id": "PT-0287",
+          "url": "/rotas-e-mobilidade/metro-de-hanoi/",
+          "semantic": 0.2
         }
       },
       "pending": {
-        "id": "PT-0257",
-        "url": "/zonas-de-hanoi/templo-da-literatura/",
-        "intent": 0.29
+        "id": "PT-0235",
+        "url": "/zonas-de-hanoi/aeon-mall-long-bien/",
+        "intent": 0.22
       },
       "working_title": "Estação ferroviária de Hanói de mota: acesso e estacionamento",
       "has_draft": false
@@ -4138,15 +1213,15 @@
           "intent": 0.2
         },
         "semantic": {
-          "id": "PT-0147",
-          "url": "/guia-de-aluguer/autorizacao-para-sair-de-hanoi/",
-          "semantic": 0.12
+          "id": "PT-0222",
+          "url": "/zonas-de-hanoi/rua-do-comboio/",
+          "semantic": 0.23
         }
       },
       "pending": {
-        "id": "PT-0098",
-        "url": "/precos/quanto-dinheiro-levar/",
-        "intent": 0.17
+        "id": "PT-0254",
+        "url": "/zonas-de-hanoi/estacao-ferroviaria-de-hanoi/",
+        "intent": 0.14
       },
       "working_title": "Levar a mota no comboio no Vietname: como funciona",
       "has_draft": false
@@ -4157,14 +1232,14 @@
       "reasons": [],
       "live": {
         "intent": {
-          "id": "/contactos/",
-          "url": "/contactos/",
-          "intent": 0
+          "id": "PT-0123",
+          "url": "/precos/autocarro-turistico-ou-mota/",
+          "intent": 0.07
         },
         "semantic": {
-          "id": "PT-0261",
-          "url": "/rotas-e-mobilidade/hanoi-de-mota-num-dia/",
-          "semantic": 0.05
+          "id": "PT-0293",
+          "url": "/rotas-e-mobilidade/ha-long-sem-conduzir/",
+          "semantic": 0.14
         }
       },
       "pending": {
@@ -4176,67 +1251,19 @@
       "has_draft": false
     },
     {
-      "id": "PT-0257",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0065",
-          "url": "/tipos-de-motas/zona-de-baixas-emissoes-hanoi/",
-          "intent": 0.08
-        },
-        "semantic": {
-          "id": "PT-0261",
-          "url": "/rotas-e-mobilidade/hanoi-de-mota-num-dia/",
-          "semantic": 0.19
-        }
-      },
-      "pending": {
-        "id": "PT-0252",
-        "url": "/zonas-de-hanoi/templo-phu-tay-ho/",
-        "intent": 0.33
-      },
-      "working_title": "Templo da Literatura de mota: acesso e estacionamento",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0258",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0261",
-          "url": "/rotas-e-mobilidade/hanoi-de-mota-num-dia/",
-          "intent": 0.14
-        },
-        "semantic": {
-          "id": "PT-0261",
-          "url": "/rotas-e-mobilidade/hanoi-de-mota-num-dia/",
-          "semantic": 0.1
-        }
-      },
-      "pending": {
-        "id": "PT-0235",
-        "url": "/zonas-de-hanoi/aeon-mall-long-bien/",
-        "intent": 0.33
-      },
-      "working_title": "Cidadela Imperial de Thăng Long de mota: acesso e estacionamento",
-      "has_draft": false
-    },
-    {
       "id": "PT-0259",
       "decision": "ALLOW_CREATE",
       "reasons": [],
       "live": {
         "intent": {
-          "id": "PT-0065",
-          "url": "/tipos-de-motas/zona-de-baixas-emissoes-hanoi/",
-          "intent": 0.07
+          "id": "PT-0179",
+          "url": "/guia-de-aluguer/onde-estacionar-em-hanoi/",
+          "intent": 0.09
         },
         "semantic": {
-          "id": "PT-0210",
-          "url": "/guia-de-aluguer/mota-danificada-estacionada/",
-          "semantic": 0.13
+          "id": "PT-0179",
+          "url": "/guia-de-aluguer/onde-estacionar-em-hanoi/",
+          "semantic": 0.23
         }
       },
       "pending": {
@@ -4248,163 +1275,45 @@
       "has_draft": false
     },
     {
-      "id": "PT-0260",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0065",
-          "url": "/tipos-de-motas/zona-de-baixas-emissoes-hanoi/",
-          "intent": 0.17
-        },
-        "semantic": {
-          "id": "PT-0231",
-          "url": "/zonas-de-hanoi/aluguer-de-motas-em-long-bien/",
-          "semantic": 0.03
-        }
-      },
-      "pending": {
-        "id": "PT-0225",
-        "url": "/zonas-de-hanoi/mercado-dong-xuan-de-mota/",
-        "intent": 0.38
-      },
-      "working_title": "Museu de Etnologia do Vietname de mota: acesso, estacionamento e horário",
-      "has_draft": false
-    },
-    {
       "id": "PT-0262",
       "decision": "ALLOW_CREATE",
       "reasons": [],
       "live": {
         "intent": {
-          "id": "PT-0065",
-          "url": "/tipos-de-motas/zona-de-baixas-emissoes-hanoi/",
-          "intent": 0.08
+          "id": "PT-0179",
+          "url": "/guia-de-aluguer/onde-estacionar-em-hanoi/",
+          "intent": 0.1
         },
         "semantic": {
-          "id": "PT-0193",
-          "url": "/guia-de-aluguer/como-evitar-multas/",
-          "semantic": 0.08
+          "id": "PT-0176",
+          "url": "/guia-de-aluguer/primeiros-dias-a-conduzir/",
+          "semantic": 0.28
         }
       },
       "pending": {
-        "id": "PT-0188",
-        "url": "/guia-de-aluguer/motas-em-contramao/",
+        "id": "PT-0291",
+        "url": "/rotas-e-mobilidade/bicicleta-em-hanoi/",
         "intent": 0.14
       },
       "working_title": "Primeiro passeio de mota em Hanói: um percurso calmo para começar",
       "has_draft": false
     },
     {
-      "id": "PT-0263",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "/contactos/",
-          "url": "/contactos/",
-          "intent": 0
-        },
-        "semantic": {
-          "id": "PT-0077",
-          "url": "/precos/mota-para-nomadas-digitais/",
-          "semantic": 0.07
-        }
-      },
-      "pending": {
-        "id": "PT-0271",
-        "url": "/rotas-e-mobilidade/roteiro-da-guerra-do-vietname/",
-        "intent": 0.13
-      },
-      "working_title": "Roteiro dos cafés de Hanói de mota: café com ovo e esplanadas",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0264",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0261",
-          "url": "/rotas-e-mobilidade/hanoi-de-mota-num-dia/",
-          "intent": 0.14
-        },
-        "semantic": {
-          "id": "PT-0261",
-          "url": "/rotas-e-mobilidade/hanoi-de-mota-num-dia/",
-          "semantic": 0.17
-        }
-      },
-      "pending": {
-        "id": "PT-0271",
-        "url": "/rotas-e-mobilidade/roteiro-da-guerra-do-vietname/",
-        "intent": 0.22
-      },
-      "working_title": "Pagodes e templos de Hanói de mota: um percurso de meio dia",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0265",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0065",
-          "url": "/tipos-de-motas/zona-de-baixas-emissoes-hanoi/",
-          "intent": 0.07
-        },
-        "semantic": {
-          "id": "PT-0159",
-          "url": "/guia-de-aluguer/alcool-zero-ao-volante/",
-          "semantic": 0.09
-        }
-      },
-      "pending": {
-        "id": "PT-0271",
-        "url": "/rotas-e-mobilidade/roteiro-da-guerra-do-vietname/",
-        "intent": 0.22
-      },
-      "working_title": "Comida de rua de mota em Hanói: um percurso pelos bairros",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0266",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "/contactos/",
-          "url": "/contactos/",
-          "intent": 0
-        },
-        "semantic": {
-          "id": "PT-0261",
-          "url": "/rotas-e-mobilidade/hanoi-de-mota-num-dia/",
-          "semantic": 0.1
-        }
-      },
-      "pending": {
-        "id": "PT-0248",
-        "url": "/zonas-de-hanoi/ponte-nhat-tan-para-norte/",
-        "intent": 0.08
-      },
-      "working_title": "Arquitetura colonial francesa de mota: avenidas e edifícios",
-      "has_draft": false
-    },
-    {
       "id": "PT-0267",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
+      "decision": "REVIEW_COLLISION",
+      "reasons": [
+        "semantic 0.48 with live /zonas-de-hanoi/mercado-dong-xuan-de-mota/"
+      ],
       "live": {
         "intent": {
-          "id": "/sobre-nos/",
-          "url": "/sobre-nos/",
-          "intent": 0.2
+          "id": "PT-0225",
+          "url": "/zonas-de-hanoi/mercado-dong-xuan-de-mota/",
+          "intent": 0.23
         },
         "semantic": {
-          "id": "PT-0231",
-          "url": "/zonas-de-hanoi/aluguer-de-motas-em-long-bien/",
-          "semantic": 0.08
+          "id": "PT-0225",
+          "url": "/zonas-de-hanoi/mercado-dong-xuan-de-mota/",
+          "semantic": 0.48
         }
       },
       "pending": {
@@ -4416,123 +1325,29 @@
       "has_draft": false
     },
     {
-      "id": "PT-0268",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
+      "id": "PT-0270",
+      "decision": "REVIEW_COLLISION",
+      "reasons": [
+        "semantic 0.48 with live /guia-de-aluguer/criancas-na-mota/"
+      ],
       "live": {
         "intent": {
-          "id": "PT-0159",
-          "url": "/guia-de-aluguer/alcool-zero-ao-volante/",
-          "intent": 0.07
+          "id": "PT-0098",
+          "url": "/precos/quanto-dinheiro-levar/",
+          "intent": 0.22
         },
         "semantic": {
-          "id": "PT-0261",
-          "url": "/rotas-e-mobilidade/hanoi-de-mota-num-dia/",
-          "semantic": 0.28
+          "id": "PT-0155",
+          "url": "/guia-de-aluguer/criancas-na-mota/",
+          "semantic": 0.48
         }
       },
       "pending": {
-        "id": "PT-0188",
-        "url": "/guia-de-aluguer/motas-em-contramao/",
-        "intent": 0.14
-      },
-      "working_title": "Hanói à noite de mota: um passeio pelas luzes da cidade",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0269",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0261",
-          "url": "/rotas-e-mobilidade/hanoi-de-mota-num-dia/",
-          "intent": 0.14
-        },
-        "semantic": {
-          "id": "PT-0105",
-          "url": "/precos/capa-de-chuva-e-acessorios/",
-          "semantic": 0.15
-        }
-      },
-      "pending": {
-        "id": "PT-0276",
-        "url": "/rotas-e-mobilidade/epoca-das-chuvas-em-hanoi/",
+        "id": "PT-0255",
+        "url": "/zonas-de-hanoi/levar-a-mota-no-comboio/",
         "intent": 0.13
       },
-      "working_title": "Itinerário para um dia de chuva em Hanói: menos estrada, mais abrigo",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0270",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "/precos/",
-          "url": "/precos/",
-          "intent": 0.11
-        },
-        "semantic": {
-          "id": "PT-0085",
-          "url": "/precos/varias-motas-para-familias/",
-          "semantic": 0.32
-        }
-      },
-      "pending": {
-        "id": "PT-0264",
-        "url": "/rotas-e-mobilidade/roteiro-de-pagodes-e-templos/",
-        "intent": 0.2
-      },
       "working_title": "Hanói com crianças: um dia de passeios sem as levar de mota",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0271",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0065",
-          "url": "/tipos-de-motas/zona-de-baixas-emissoes-hanoi/",
-          "intent": 0.08
-        },
-        "semantic": {
-          "id": "PT-0261",
-          "url": "/rotas-e-mobilidade/hanoi-de-mota-num-dia/",
-          "semantic": 0.09
-        }
-      },
-      "pending": {
-        "id": "PT-0275",
-        "url": "/rotas-e-mobilidade/roteiro-dos-museus/",
-        "intent": 0.25
-      },
-      "working_title": "Hanói e a guerra do Vietname: um percurso de mota por museus e vestígios",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0272",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0075",
-          "url": "/precos/horas-de-levantamento-e-devolucao/",
-          "intent": 0.1
-        },
-        "semantic": {
-          "id": "PT-0233",
-          "url": "/zonas-de-hanoi/ponte-long-bien/",
-          "semantic": 0.09
-        }
-      },
-      "pending": {
-        "id": "PT-0081",
-        "url": "/precos/escala-em-hanoi-e-aluguer-de-mota/",
-        "intent": 0.11
-      },
-      "working_title": "Hanói para fotógrafos de mota: locais e horas de luz",
       "has_draft": false
     },
     {
@@ -4541,20 +1356,20 @@
       "reasons": [],
       "live": {
         "intent": {
-          "id": "/contactos/",
-          "url": "/contactos/",
-          "intent": 0
+          "id": "PT-0263",
+          "url": "/rotas-e-mobilidade/roteiro-dos-cafes/",
+          "intent": 0.08
         },
         "semantic": {
-          "id": "PT-0041",
-          "url": "/tipos-de-motas/scooter-50cc-ou-110cc/",
-          "semantic": 0.06
+          "id": "PT-0102",
+          "url": "/precos/comprar-capacete-em-hanoi/",
+          "semantic": 0.08
         }
       },
       "pending": {
-        "id": "PT-0263",
-        "url": "/rotas-e-mobilidade/roteiro-dos-cafes/",
-        "intent": 0.11
+        "id": "PT-0186",
+        "url": "/guia-de-aluguer/ir-as-compras-de-mota/",
+        "intent": 0.1
       },
       "working_title": "Compras de artesanato em Hanói de mota: seda, cerâmica e lacas",
       "has_draft": false
@@ -4565,262 +1380,22 @@
       "reasons": [],
       "live": {
         "intent": {
-          "id": "/guia-de-aluguer/documentacao-e-caucao/",
-          "url": "/guia-de-aluguer/documentacao-e-caucao/",
-          "intent": 0.09
-        },
-        "semantic": {
-          "id": "PT-0261",
-          "url": "/rotas-e-mobilidade/hanoi-de-mota-num-dia/",
-          "semantic": 0.14
-        }
-      },
-      "pending": {
-        "id": "PT-0175",
-        "url": "/guia-de-aluguer/treinar-antes-do-transito/",
-        "intent": 0.15
-      },
-      "working_title": "Hanói ao amanhecer de mota: mercados, lagos e pequeno-almoço antes do trânsito",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0275",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0020",
-          "url": "/tipos-de-motas/melhor-scooter-para-alugar/",
-          "intent": 0.09
-        },
-        "semantic": {
-          "id": "PT-0065",
-          "url": "/tipos-de-motas/zona-de-baixas-emissoes-hanoi/",
-          "semantic": 0.04
-        }
-      },
-      "pending": {
-        "id": "PT-0260",
-        "url": "/zonas-de-hanoi/museu-de-etnologia/",
-        "intent": 0.25
-      },
-      "working_title": "Museus de Hanói de mota: ordem de visita e estacionamento",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0276",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0007",
-          "url": "/tipos-de-motas/scooter-ou-semiautomatica/",
-          "intent": 0.08
-        },
-        "semantic": {
-          "id": "PT-0109",
-          "url": "/precos/limpeza-da-mota/",
-          "semantic": 0.16
-        }
-      },
-      "pending": {
-        "id": "PT-0278",
-        "url": "/rotas-e-mobilidade/verao-e-calor-em-hanoi/",
-        "intent": 0.21
-      },
-      "working_title": "Época das chuvas em Hanói: conduzir de mota entre maio e setembro",
-      "has_draft": true
-    },
-    {
-      "id": "PT-0277",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0009",
-          "url": "/tipos-de-motas/scooter-para-duas-pessoas/",
-          "intent": 0.06
-        },
-        "semantic": {
-          "id": "PT-0126",
-          "url": "/guia-de-aluguer/perguntas-antes-de-alugar/",
-          "semantic": 0.04
-        }
-      },
-      "pending": {
-        "id": "PT-0156",
-        "url": "/guia-de-aluguer/equipamento-de-protecao/",
-        "intent": 0.17
-      },
-      "working_title": "Inverno em Hanói: frio húmido, nevoeiro e roupa para andar de mota",
-      "has_draft": true
-    },
-    {
-      "id": "PT-0278",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0073",
-          "url": "/precos/prolongar-o-aluguer/",
-          "intent": 0.1
-        },
-        "semantic": {
-          "id": "PT-0077",
-          "url": "/precos/mota-para-nomadas-digitais/",
-          "semantic": 0.05
-        }
-      },
-      "pending": {
-        "id": "PT-0156",
-        "url": "/guia-de-aluguer/equipamento-de-protecao/",
-        "intent": 0.17
-      },
-      "working_title": "Verão em Hanói: calor intenso e como andar de mota sem riscos",
-      "has_draft": true
-    },
-    {
-      "id": "PT-0279",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0020",
-          "url": "/tipos-de-motas/melhor-scooter-para-alugar/",
-          "intent": 0.1
-        },
-        "semantic": {
-          "id": "PT-0068",
-          "url": "/precos/aluguer-mensal-de-mota/",
-          "semantic": 0.16
-        }
-      },
-      "pending": {
-        "id": "PT-0276",
-        "url": "/rotas-e-mobilidade/epoca-das-chuvas-em-hanoi/",
-        "intent": 0.15
-      },
-      "working_title": "Melhor época para andar de mota em Hanói e no Norte do Vietname",
-      "has_draft": true
-    },
-    {
-      "id": "PT-0280",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0084",
-          "url": "/precos/aluguer-com-datas-em-aberto/",
-          "intent": 0.07
-        },
-        "semantic": {
-          "id": "PT-0126",
-          "url": "/guia-de-aluguer/perguntas-antes-de-alugar/",
-          "semantic": 0.09
-        }
-      },
-      "pending": {
-        "id": "PT-0107",
-        "url": "/precos/portagens-e-motas/",
-        "intent": 0.13
-      },
-      "working_title": "Tufões e alertas meteorológicos: quando não sair de mota",
-      "has_draft": true
-    },
-    {
-      "id": "PT-0281",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0216",
-          "url": "/zonas-de-hanoi/conduzir-no-bairro-antigo/",
+          "id": "PT-0175",
+          "url": "/guia-de-aluguer/treinar-antes-do-transito/",
           "intent": 0.13
         },
         "semantic": {
-          "id": "PT-0233",
-          "url": "/zonas-de-hanoi/ponte-long-bien/",
-          "semantic": 0.07
+          "id": "PT-0272",
+          "url": "/rotas-e-mobilidade/roteiro-fotografico/",
+          "semantic": 0.29
         }
       },
       "pending": {
-        "id": "PT-0175",
-        "url": "/guia-de-aluguer/treinar-antes-do-transito/",
-        "intent": 0.14
+        "id": "PT-0186",
+        "url": "/guia-de-aluguer/ir-as-compras-de-mota/",
+        "intent": 0.09
       },
-      "working_title": "Tết em Hanói: trânsito, lojas fechadas e conduzir no Ano Novo Lunar",
-      "has_draft": true
-    },
-    {
-      "id": "PT-0282",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0041",
-          "url": "/tipos-de-motas/scooter-50cc-ou-110cc/",
-          "intent": 0.09
-        },
-        "semantic": {
-          "id": "PT-0215",
-          "url": "/guia-de-aluguer/avaria-longe-de-hanoi/",
-          "semantic": 0.05
-        }
-      },
-      "pending": {
-        "id": "PT-0240",
-        "url": "/zonas-de-hanoi/estrada-do-dique-do-rio-vermelho/",
-        "intent": 0.2
-      },
-      "working_title": "Feriados nacionais no Vietname: impacto no trânsito e nas estradas",
-      "has_draft": true
-    },
-    {
-      "id": "PT-0283",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0084",
-          "url": "/precos/aluguer-com-datas-em-aberto/",
-          "intent": 0.07
-        },
-        "semantic": {
-          "id": "PT-0069",
-          "url": "/precos/aluguer-de-longa-duracao/",
-          "semantic": 0.05
-        }
-      },
-      "pending": {
-        "id": "PT-0297",
-        "url": "/rotas-e-mobilidade/ninh-binh-de-mota/",
-        "intent": 0.2
-      },
-      "working_title": "Nevoeiro nas estradas de montanha do Norte: quando não partir de mota",
-      "has_draft": true
-    },
-    {
-      "id": "PT-0284",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "/contactos/",
-          "url": "/contactos/",
-          "intent": 0
-        },
-        "semantic": {
-          "id": "PT-0126",
-          "url": "/guia-de-aluguer/perguntas-antes-de-alugar/",
-          "semantic": 0.03
-        }
-      },
-      "pending": {
-        "id": "PT-0171",
-        "url": "/guia-de-aluguer/piso-molhado-e-chuva/",
-        "intent": 0.08
-      },
-      "working_title": "Humidade extrema (nồm) na primavera: efeitos na mota e no piso",
+      "working_title": "Hanói ao amanhecer de mota: mercados, lagos e pequeno-almoço antes do trânsito",
       "has_draft": false
     },
     {
@@ -4829,118 +1404,22 @@
       "reasons": [],
       "live": {
         "intent": {
-          "id": "PT-0126",
-          "url": "/guia-de-aluguer/perguntas-antes-de-alugar/",
-          "intent": 0.1
+          "id": "PT-0214",
+          "url": "/guia-de-aluguer/perdeu-o-telemovel-durante-o-aluguer/",
+          "intent": 0.15
         },
         "semantic": {
-          "id": "PT-0126",
-          "url": "/guia-de-aluguer/perguntas-antes-de-alugar/",
-          "semantic": 0.04
+          "id": "PT-0269",
+          "url": "/rotas-e-mobilidade/roteiro-para-um-dia-de-chuva/",
+          "semantic": 0.13
         }
       },
       "pending": {
-        "id": "PT-0201",
-        "url": "/guia-de-aluguer/acidente-com-mota-alugada/",
-        "intent": 0.17
+        "id": "PT-0205",
+        "url": "/guia-de-aluguer/fiquei-sem-combustivel/",
+        "intent": 0.1
       },
       "working_title": "Trovoada a meio do caminho: o que fazer quando anda de mota em Hanói",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0287",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0067",
-          "url": "/precos/aluguer-semanal-de-mota/",
-          "intent": 0.11
-        },
-        "semantic": {
-          "id": "PT-0048",
-          "url": "/tipos-de-motas/50cc-automatica-ou-com-mudancas/",
-          "semantic": 0.08
-        }
-      },
-      "pending": {
-        "id": "PT-0118",
-        "url": "/precos/mota-metro-ou-autocarro/",
-        "intent": 0.13
-      },
-      "working_title": "Metro de Hanói: linhas, bilhetes e como combinar com a mota",
-      "has_draft": true
-    },
-    {
-      "id": "PT-0288",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "/contactos/",
-          "url": "/contactos/",
-          "intent": 0
-        },
-        "semantic": {
-          "id": "PT-0208",
-          "url": "/guia-de-aluguer/devolver-noutro-local/",
-          "semantic": 0.11
-        }
-      },
-      "pending": {
-        "id": "PT-0118",
-        "url": "/precos/mota-metro-ou-autocarro/",
-        "intent": 0.11
-      },
-      "working_title": "Autocarros de Hanói para estrangeiros: rotas, bilhetes e aplicações",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0289",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0086",
-          "url": "/precos/como-funciona-a-caucao/",
-          "intent": 0.17
-        },
-        "semantic": {
-          "id": "PT-0139",
-          "url": "/guia-de-aluguer/alugar-para-outra-pessoa/",
-          "semantic": 0.08
-        }
-      },
-      "pending": {
-        "id": "PT-0255",
-        "url": "/zonas-de-hanoi/levar-a-mota-no-comboio/",
-        "intent": 0.17
-      },
-      "working_title": "Mota com condutor (xe ôm) em Hanói: como funciona",
-      "has_draft": true
-    },
-    {
-      "id": "PT-0290",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0099",
-          "url": "/precos/burlas-no-aluguer-de-motas/",
-          "intent": 0.08
-        },
-        "semantic": {
-          "id": "PT-0008",
-          "url": "/tipos-de-motas/nunca-conduziu-uma-mota/",
-          "semantic": 0.06
-        }
-      },
-      "pending": {
-        "id": "PT-0117",
-        "url": "/precos/mota-alugada-ou-taxi/",
-        "intent": 0.13
-      },
-      "working_title": "Táxis em Hanói: aplicações, taxímetro e como evitar abusos",
       "has_draft": false
     },
     {
@@ -4949,14 +1428,14 @@
       "reasons": [],
       "live": {
         "intent": {
-          "id": "PT-0065",
-          "url": "/tipos-de-motas/zona-de-baixas-emissoes-hanoi/",
-          "intent": 0.09
+          "id": "PT-0062",
+          "url": "/tipos-de-motas/regras-bicicleta-eletrica-vietname/",
+          "intent": 0.1
         },
         "semantic": {
-          "id": "PT-0119",
-          "url": "/precos/uma-mota-ou-duas-para-um-casal/",
-          "semantic": 0.14
+          "id": "PT-0062",
+          "url": "/tipos-de-motas/regras-bicicleta-eletrica-vietname/",
+          "semantic": 0.42
         }
       },
       "pending": {
@@ -4965,54 +1444,6 @@
         "intent": 0.17
       },
       "working_title": "Bicicleta em Hanói: bicicletas partilhadas e percursos",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0292",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0149",
-          "url": "/guia-de-aluguer/conduzir-sem-carta-valida/",
-          "intent": 0.12
-        },
-        "semantic": {
-          "id": "PT-0159",
-          "url": "/guia-de-aluguer/alcool-zero-ao-volante/",
-          "semantic": 0.27
-        }
-      },
-      "pending": {
-        "id": "PT-0224",
-        "url": "/zonas-de-hanoi/rua-ta-hien-a-noite/",
-        "intent": 0.33
-      },
-      "working_title": "Saídas à noite sem conduzir: como regressar ao alojamento em segurança",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0293",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0072",
-          "url": "/precos/sair-de-hanoi-a-meio-do-aluguer/",
-          "intent": 0.14
-        },
-        "semantic": {
-          "id": "PT-0231",
-          "url": "/zonas-de-hanoi/aluguer-de-motas-em-long-bien/",
-          "semantic": 0.23
-        }
-      },
-      "pending": {
-        "id": "PT-0029",
-        "url": "/tipos-de-motas/como-conduzir-uma-semiautomatica/",
-        "intent": 0.18
-      },
-      "working_title": "Ir de Hanói à baía de Ha Long sem conduzir: opções",
       "has_draft": false
     },
     {
@@ -5026,15 +1457,15 @@
           "intent": 0.14
         },
         "semantic": {
-          "id": "PT-0072",
-          "url": "/precos/sair-de-hanoi-a-meio-do-aluguer/",
-          "semantic": 0.05
+          "id": "PT-0222",
+          "url": "/zonas-de-hanoi/rua-do-comboio/",
+          "semantic": 0.22
         }
       },
       "pending": {
-        "id": "PT-0222",
-        "url": "/zonas-de-hanoi/rua-do-comboio/",
-        "intent": 0.14
+        "id": "PT-0255",
+        "url": "/zonas-de-hanoi/levar-a-mota-no-comboio/",
+        "intent": 0.09
       },
       "working_title": "Comboio noturno Hanói–Lào Cai: alternativa à viagem de mota para Sa Pa",
       "has_draft": false
@@ -5050,15 +1481,15 @@
           "intent": 0.18
         },
         "semantic": {
-          "id": "PT-0216",
-          "url": "/zonas-de-hanoi/conduzir-no-bairro-antigo/",
-          "semantic": 0.08
+          "id": "PT-0271",
+          "url": "/rotas-e-mobilidade/roteiro-da-guerra-do-vietname/",
+          "semantic": 0.09
         }
       },
       "pending": {
-        "id": "PT-0287",
-        "url": "/rotas-e-mobilidade/metro-de-hanoi/",
-        "intent": 0.13
+        "id": "PT-0255",
+        "url": "/zonas-de-hanoi/levar-a-mota-no-comboio/",
+        "intent": 0.11
       },
       "working_title": "Xích lô em Hanói: como funciona um passeio de ciclo e como combinar o preço",
       "has_draft": false
@@ -5078,111 +1509,15 @@
         "semantic": {
           "id": "PT-0147",
           "url": "/guia-de-aluguer/autorizacao-para-sair-de-hanoi/",
-          "semantic": 0.22
+          "semantic": 0.2
         }
       },
       "pending": {
-        "id": "PT-0133",
-        "url": "/guia-de-aluguer/seguro-de-viagem-e-mota/",
-        "intent": 0.25
+        "id": "PT-0036",
+        "url": "/tipos-de-motas/testar-mudancas-da-semiautomatica/",
+        "intent": 0.2
       },
       "working_title": "Sair de Hanói de mota: o que preparar antes de partir",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0297",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0077",
-          "url": "/precos/mota-para-nomadas-digitais/",
-          "intent": 0.13
-        },
-        "semantic": {
-          "id": "PT-0072",
-          "url": "/precos/sair-de-hanoi-a-meio-do-aluguer/",
-          "semantic": 0.11
-        }
-      },
-      "pending": {
-        "id": "PT-0300",
-        "url": "/rotas-e-mobilidade/mai-chau-de-mota/",
-        "intent": 0.15
-      },
-      "working_title": "Ninh Bình de mota a partir de Hanói: estradas, distância e riscos",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0298",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0134",
-          "url": "/guia-de-aluguer/acordo-de-aluguer/",
-          "intent": 0.08
-        },
-        "semantic": {
-          "id": "PT-0020",
-          "url": "/tipos-de-motas/melhor-scooter-para-alugar/",
-          "semantic": 0.08
-        }
-      },
-      "pending": {
-        "id": "PT-0295",
-        "url": "/rotas-e-mobilidade/xich-lo-em-hanoi/",
-        "intent": 0.09
-      },
-      "working_title": "Loop de Hà Giang: deve fazê-lo com uma mota alugada em Hanói?",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0299",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "/precos/",
-          "url": "/precos/",
-          "intent": 0.11
-        },
-        "semantic": {
-          "id": "PT-0261",
-          "url": "/rotas-e-mobilidade/hanoi-de-mota-num-dia/",
-          "semantic": 0.1
-        }
-      },
-      "pending": {
-        "id": "PT-0012",
-        "url": "/tipos-de-motas/consumo-das-scooters/",
-        "intent": 0.11
-      },
-      "working_title": "Parque Nacional de Ba Vì de mota: uma saída de um dia",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0300",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "/guia-de-aluguer/",
-          "url": "/guia-de-aluguer/",
-          "intent": 0.11
-        },
-        "semantic": {
-          "id": "PT-0147",
-          "url": "/guia-de-aluguer/autorizacao-para-sair-de-hanoi/",
-          "semantic": 0.08
-        }
-      },
-      "pending": {
-        "id": "PT-0297",
-        "url": "/rotas-e-mobilidade/ninh-binh-de-mota/",
-        "intent": 0.15
-      },
-      "working_title": "Mai Châu de mota a partir de Hanói: estrada nacional 6 e passo de Thung Khe",
       "has_draft": false
     }
   ]

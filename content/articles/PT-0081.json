@@ -1,0 +1,311 @@
+{
+  "contract_version": 1,
+  "id": "PT-0081",
+  "slug": "escala-em-hanoi-e-aluguer-de-mota",
+  "title": "Escala em Hanói: vale a pena alugar uma mota por umas horas?",
+  "description": "Escala em Hanói: a conta do tempo entre o aeroporto, a loja em Long Biên e o voo seguinte, quanto custa e quando o táxi ou o autocarro compensam mais.",
+  "h1": "Uma escala em Hanói: a conta do tempo antes de pensar em alugar mota",
+  "summary": "Numa escala curta, não compensa. Entre a fronteira, o caminho até à loja, em Long Biên, os 30 a 45 minutos do levantamento e a devolução antes das {{closes}}, sobra pouco tempo de mota, e a tabela publica preços por dia, não por hora. Só uma escala longa, com carta, licença internacional e resposta escrita da loja, pode justificar o aluguer.",
+  "key_points": [
+    "A tabela da loja publica preços por dia, semana e mês: para umas horas, pergunte se há uma tarifa mais curta.",
+    "A loja abre {{hours}}, na hora de Hanói; o levantamento demora 30 a 45 minutos e a devolução tem de ser antes das {{closes}}.",
+    "A mota não serve para ir ou voltar do aeroporto: o autocarro 86 faz 33 km e as vias rápidas restringem as motas. Use autocarro, táxi ou aplicação.",
+    "Sem a carta da categoria certa e a licença internacional, a escala não é para a mota. As regras de entrada no Vietname não são tratadas aqui.",
+    "Se sobrar pouco mais do que o tempo do levantamento, deixe a mota para outra viagem."
+  ],
+  "intro": [
+    "Uma escala longa em Hanói traz uma tentação: em vez de esperar no aeroporto, sair, alugar uma mota e aproveitar as horas livres. A ideia tem lógica, mas a mota só conta depois de várias etapas que consomem tempo: a fronteira, o caminho até à loja, o levantamento e, no fim, a devolução e o regresso ao aeroporto.",
+    "Este guia faz a conta do tempo, etapa a etapa, separa o que as fontes confirmam do que tem de verificar e diz quando o táxi, o autocarro ou uma viagem de mota com condutor fazem mais sentido. Não trata de vistos nem de regras de entrada no Vietname: dependem da sua nacionalidade e do seu bilhete, e devem ser confirmadas junto das fontes oficiais e da companhia aérea."
+  ],
+  "sections": [
+    {
+      "h2": "A resposta curta: três condições para a mota compensar",
+      "body": [
+        "A mota só compensa quando se cumprem as três condições seguintes. Se falhar uma, as horas livres aproveitam-se melhor de outra forma.",
+        {
+          "ol": [
+            "**Tempo de sobra.** Depois de descontar tudo o que vem antes e depois da mota, tem de restar bastante mais do que os 30 a 45 minutos de um levantamento.",
+            "**Documentos em ordem.** Carta de condução da categoria certa e licença internacional válida, além do passaporte, na bagagem de mão.",
+            "**Resposta escrita da loja.** Para as suas horas exatas, com o valor total e o que fica fora da tarifa."
+          ]
+        },
+        "Numa escala curta, o tempo é a condição que mais depressa falha. A loja {{brand}} fica em {{area}} e está aberta {{hours}}, na hora de Hanói."
+      ]
+    },
+    {
+      "h2": "A conta do tempo, etapa a etapa",
+      "body": [
+        "A forma mais honesta de decidir é somar as etapas entre a aterragem e a hora-limite para voltar ao aeroporto. Algumas têm valores publicados; outras não, e não vale a pena inventá-los.",
+        {
+          "table": {
+            "caption": "As etapas de uma escala com mota e de onde vem o tempo de cada uma",
+            "head": [
+              "Etapa",
+              "O que se sabe",
+              "O que tem de confirmar"
+            ],
+            "rows": [
+              [
+                "Da aterragem à saída do aeroporto",
+                "Sair do aeroporto implica passar o controlo de fronteira do Vietname. As fontes consultadas não dão tempos de espera.",
+                "As regras de entrada da sua nacionalidade e se a bagagem segue até ao destino final."
+              ],
+              [
+                "Do aeroporto à loja",
+                "O percurso do autocarro 86 até à Estação de Hanói tem 33 km. A loja fica em Long Biên, do outro lado do rio Vermelho, e o tempo de viagem até lá não está verificado.",
+                "A hora do dia, que alonga o trajeto nas horas de ponta, e o meio de transporte."
+              ],
+              [
+                "Levantamento da mota",
+                "O guia sobre [receber a mota](/guia-de-aluguer/receber-a-mota/) conta com 30 a 45 minutos entre chegar à loja e sair para a estrada.",
+                "Os documentos pedidos, a caução, se existir no seu caso, e o pagamento."
+              ],
+              [
+                "Devolução na loja",
+                "A loja está aberta {{hours}}. Devolver depois das {{closes}} só com acordo prévio.",
+                "O tempo da verificação, o abastecimento e a margem para atrasos."
+              ],
+              [
+                "Da loja ao aeroporto",
+                "É o caminho da segunda etapa em sentido inverso, agora com a bagagem e a hora do voo por cima.",
+                "A hora-limite de apresentação da companhia aérea e o trânsito do momento."
+              ]
+            ]
+          }
+        },
+        {
+          "h3": "Como somar"
+        },
+        "Comece pelo fim: parta da hora do voo seguinte e retire a antecedência exigida pela companhia aérea e o trajeto da loja ao aeroporto. Depois avance a partir da aterragem: fronteira, bagagem, trajeto até à loja e levantamento. O intervalo entre as duas pontas é o tempo de mota.",
+        "Duas regras simplificam a decisão. O levantamento e a devolução têm de caber entre as {{opens}} e as {{closes}}: uma aterragem de madrugada não traz a mota mais cedo. E se o tempo que sobra não for claramente maior do que o do levantamento, vai gastar mais tempo em trajetos e papéis do que a conduzir.",
+        {
+          "note": "O horário da loja segue a hora local do Vietname (UTC+7). Se tem as horas do voo noutro fuso, converta tudo para a hora de Hanói antes de as comparar.",
+          "tone": "info",
+          "title": "Converta tudo para a hora de Hanói"
+        }
+      ]
+    },
+    {
+      "h2": "Os trajetos de e para o aeroporto não se fazem de mota",
+      "body": [
+        "A mota não é o meio de ir e voltar do aeroporto. O eixo mais direto entre Nội Bài e a cidade, a avenida Võ Nguyên Giáp, tem sinais que restringem as motas, e as fontes divergem quanto ao alcance: umas falam de uma proibição em toda a via, outras só nas faixas dos automóveis. As autoestradas estão vedadas às motas em todo o país, como mostrou a multa a motociclistas estrangeiros em fevereiro de 2026.",
+        "Por isso a mota só serve para a parte do meio da escala. Os valores de referência consultados em outubro de 2026 para os trajetos sem mota são estes:",
+        {
+          "table": {
+            "caption": "Do aeroporto de Nội Bài à cidade sem mota: valores de referência",
+            "head": [
+              "Opção",
+              "Valor de referência",
+              "O que ter em conta"
+            ],
+            "rows": [
+              [
+                "Autocarro 17",
+                "Cerca de 9 mil VND, das 05:00 às 20:30, a cada 10 a 15 minutos, segundo um site turístico.",
+                "Termina num terminal chamado «Long Biên», que não está necessariamente perto da loja: confirme a paragem no mapa."
+              ],
+              [
+                "Autocarro 86",
+                "30 mil VND na inauguração da linha e 45 mil VND num guia de viagem; das 05:15 às 22:10 ou das 07:00 às 22:05, conforme a fonte.",
+                "Segue até à Estação de Hanói. Preços e horários divergem: confirme ao embarcar."
+              ],
+              [
+                "Táxi",
+                "Cerca de 250 mil VND até ao centro, valor de referência de uma página da companhia aérea nacional vietnamita.",
+                "É a solução com bagagem ou fora do horário dos autocarros. Combine o preço antes."
+              ]
+            ]
+          }
+        },
+        "Ao táxi, mostre a morada da loja em vietnamita, {{address.vi}}, em vez de a dizer em voz alta. O guia sobre o [aluguer de motas em Long Biên](/zonas-de-hanoi/aluguer-de-motas-em-long-bien/) descreve como preparar a visita. O site não publica entrega da mota no aeroporto, nem preço nem horário: só conte com ela se a loja a confirmar por escrito."
+      ]
+    },
+    {
+      "h2": "Quanto custa, e o que paga mesmo que use a mota poucas horas",
+      "body": [
+        "A tabela de referência da loja, verificada a {{pricing.verifiedAt}}, mostra preços por dia, por semana e por mês. Um dia de mota custa entre {{price.min.day}} e {{price.max.day}}, conforme o modelo:",
+        {
+          "component": "price-table"
+        },
+        "Não há preço por hora. Para umas horas, pergunte se a loja tem uma tarifa mais curta e como conta o tempo: se contar um dia inteiro, três horas custam o mesmo que dez. O guia do [aluguer de mota por um dia](/precos/aluguer-de-mota-por-um-dia/) e o das [horas de levantamento e devolução](/precos/horas-de-levantamento-e-devolucao/) explicam as duas formas habituais de contar.",
+        "Ao preço da mota somam-se os dois trajetos com o aeroporto e o que a tabela deixa de fora, como a caução, se existir no seu caso, e o combustível. Como ordem de grandeza (cálculo a partir dos valores acima): um táxi nos dois sentidos soma cerca de 500 mil VND, se o valor valer para ambos, e o autocarro custa uma fração disso. A [página de preços](/precos/) reúne as tarifas de todos os modelos, e o guia dos [custos além do preço](/precos/custos-alem-do-preco/) lista o que convém confirmar."
+      ]
+    },
+    {
+      "h2": "Documentos: sem carta e licença certas, a escala não é para a mota",
+      "body": [
+        "Para conduzir uma mota no Vietname, um visitante precisa da carta do seu país, com a categoria adequada, e de uma licença internacional reconhecida no país. Na lei em vigor desde 2025, a categoria A1 cobre motociclos até 125 cm³ ou elétricos até 11 kW; acima disso, é exigida a categoria A. A duração do aluguer não muda a regra: vale para três horas como para três semanas.",
+        "A licença pede-se em Portugal, antes de viajar, num balcão do IMT: o guia da [licença internacional de condução](/guia-de-aluguer/licenca-internacional-de-conducao/) explica como. Numa escala, o risco é maior porque falta margem: se faltar um documento no levantamento, não sobra tempo para outra solução. O guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/) separa o que a loja pede para alugar do que a lei exige para conduzir. Confirme também se o seu seguro de viagem cobre acidentes de mota, como recomenda o Governo da Nova Zelândia a quem conduz no país.",
+        {
+          "note": "Carta, licença e passaporte devem ir na bagagem de mão: numa mala de porão, só os terá depois de a levantar. Sair do aeroporto é também entrar no Vietname, e as condições de entrada dependem da nacionalidade e do bilhete. Consulte as fontes oficiais do seu país e a companhia aérea.",
+          "tone": "warn",
+          "title": "Documentos à mão e regras de entrada"
+        }
+      ]
+    },
+    {
+      "h2": "Quando o táxi, o autocarro ou a mota com condutor fazem mais sentido",
+      "body": [
+        "Há quase sempre uma alternativa mais simples do que alugar:",
+        {
+          "table": {
+            "caption": "Escolher o transporte conforme o tipo de escala",
+            "head": [
+              "Situação",
+              "O que faz mais sentido",
+              "Porquê"
+            ],
+            "rows": [
+              [
+                "Escala curta, de poucas horas",
+                "Ficar no aeroporto ou, se a fronteira e o voo o permitirem, ir de táxi ao centro e voltar",
+                "A soma das etapas deixa pouco para visitar, e a hora do voo manda."
+              ],
+              [
+                "Meio dia livre e bagagem consigo",
+                "Táxi ou aplicação até ao centro e visita a pé",
+                "Sem levantamento nem devolução, e sem conduzir cansado."
+              ],
+              [
+                "Meio dia livre, sem bagagem, e quer ver mais do que a pé",
+                "Autocarro dentro do Anel Viário 1 ou mota com condutor pela aplicação",
+                "Evita o tempo do levantamento e da devolução."
+              ],
+              [
+                "Escala longa, com pernoita",
+                "Descansar primeiro e levantar a mota no dia seguinte",
+                "É aqui que um dia de aluguer passa a fazer sentido, sem o cansaço da chegada."
+              ]
+            ]
+          }
+        },
+        "Entre 1 de julho de 2026 e 30 de junho de 2027, as viagens nos autocarros públicos subsidiados dentro do Anel Viário 1 são gratuitas, segundo o portal do Governo vietnamita. Os autocarros turísticos ficam de fora: confirme a linha na paragem.",
+        "Na mota com condutor, a tarifa-base do GrabBike Tiếng Anh, serviço da aplicação Grab com condutores para clientes que falam inglês, é de cerca de 17 mil VND pelos dois primeiros quilómetros e 5,5 mil VND por quilómetro seguinte (tabela de 18 de junho de 2026). Não está confirmado que atenda no aeroporto nem que aceite malas: use-o dentro da cidade, com capacete, obrigatório também para o passageiro.",
+        "À data de 13 de outubro de 2026, a zona 1 de baixas emissões, que inclui o espaço pedonal do lago Hoàn Kiếm e as ruas do mercado noturno, fecha a motas e automóveis de sexta a domingo, das 19:00 às 24:00. O guia da [zona de baixas emissões](/tipos-de-motas/zona-de-baixas-emissoes-hanoi/) tem o pormenor, e o de [quando é melhor não conduzir](/rotas-e-mobilidade/quando-nao-conduzir/) propõe uma alternativa para cada caso."
+      ]
+    },
+    {
+      "h2": "Se mesmo assim quiser a mota: o que perguntar à loja",
+      "body": [
+        "Se a conta do tempo der folga e os documentos estiverem em ordem, peça à loja respostas concretas, de preferência antes de embarcar:",
+        {
+          "checklist": [
+            "Existe tarifa por menos de um dia? Se não, quanto custa um dia e como se conta: por 24 horas ou até ao fecho da loja?",
+            "Posso levantar a mota à hora a que chego à loja e devolvê-la antes das {{closes}}? O que acontece se me atrasar?",
+            "Que documentos tenho de levar, existe caução no meu caso, de que forma, e quando é devolvida?",
+            "Quanto tempo demoram o levantamento e a devolução, com a verificação da mota?",
+            "Posso deixar a bagagem na loja durante a escala, e em que condições?",
+            "Se o voo atrasar, como altero ou cancelo a reserva? O guia sobre [voo atrasado e reserva da mota](/precos/alterar-ou-cancelar-a-reserva/) explica como avisar a tempo."
+          ]
+        },
+        "Junte tudo numa só mensagem, com o número do voo, a hora de aterragem em hora de Hanói e a hora-limite para estar de volta ao aeroporto, e envie-a por telefone ou Zalo para o {{phone}}. Só conte com a mota quando tiver a resposta por escrito; os restantes canais estão em [contactos](/contactos/). Para um dia inteiro, o itinerário de [Hanói de mota num dia](/rotas-e-mobilidade/hanoi-de-mota-num-dia/) mostra como aproveitar as horas."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Posso alugar a mota só por três ou quatro horas?",
+      "a": "A tabela da loja publica preços por dia, semana e mês, e não por hora. Pergunte se existe um período mais curto e como é cobrado, e peça a resposta por escrito antes de sair do aeroporto."
+    },
+    {
+      "q": "Preciso de licença internacional numa escala de poucas horas?",
+      "a": "Sim, para conduzir: a duração do aluguer não muda a regra. É preciso a carta da categoria certa e a licença internacional, que se pede em Portugal antes de partir. Leve-as na bagagem de mão."
+    },
+    {
+      "q": "A que horas devo estar de volta ao aeroporto?",
+      "a": "A companhia aérea fixa a hora-limite de apresentação do seu voo: consulte o bilhete. Retire-a da hora do voo e subtraia o trajeto da loja ao aeroporto e a devolução da mota. Na dúvida, devolva a mota mais cedo e siga de táxi."
+    }
+  ],
+  "sources": [
+    "tabela-precos-proprietario",
+    "lei-36-2024-a1",
+    "lawnet-categorias-2025",
+    "imt-lic",
+    "mfat-conduzir-vietname",
+    "dtinews-autoestrada-2026",
+    "lawnet-capacete-168",
+    "vietnamnet-zbe-revisao",
+    {
+      "title": "Hình ảnh không đẹp trên đường Võ Nguyên Giáp ngày thông xe",
+      "publisher": "VTC News",
+      "url": "https://vtcnews.vn/hinh-anh-khong-dep-tren-duong-vo-nguyen-giap-ngay-thong-xe-ar188421.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Khai trương tuyến xe buýt đến sân bay Nội Bài, giá vé 30.000 đồng",
+      "publisher": "Báo Đấu thầu",
+      "url": "https://baodauthau.vn/khai-truong-tuyen-xe-buyt-den-san-bay-noi-bai-gia-ve-30000-dong-post12927.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Lista de autocarros do aeroporto de Nội Bài, com a linha 86 (em vietnamita)",
+      "publisher": "MIA.vn (cẩm nang du lịch)",
+      "url": "https://mia.vn/cam-nang-du-lich/danh-sach-xe-buyt-san-bay-noi-bai-18948",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Resumo dos autocarros do aeroporto de Nội Bài, incluindo a linha 17 (em vietnamita)",
+      "publisher": "VinWonders",
+      "url": "https://vinwonders.com/vi/bai-viet-du-lich/tong-hop-day-du-xe-bus-san-bay-noi-bai/",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Página da companhia aérea nacional vietnamita sobre voos para Hanói, com referências de transporte do aeroporto (em vietnamita)",
+      "publisher": "Vietnam Airlines",
+      "url": "https://www.vietnamairlines.com/vi-vn/v%C3%A9-m%C3%A1y-bay-%C4%91%E1%BA%BFn-h%C3%A0-n%E1%BB%99i",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Tabela de informação sobre os serviços da aplicação Grab, atualizada a 8 de julho de 2026",
+      "publisher": "Grab Việt Nam",
+      "url": "https://www.grab.com/vn/en/blog/bang-thong-tin-cac-dich-vu-tren-ung-dung-grab/",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "en"
+    },
+    {
+      "title": "Ha Noi free bus travel within Ring Road 1 for one year",
+      "publisher": "Cổng Thông tin điện tử Chính phủ (chinhphu.vn)",
+      "url": "https://thanglong.chinhphu.vn/ha-noi-free-bus-travel-within-ring-road-1-for-one-year-110260702104500646.htm",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "title": "Ha Noi begins restricting fossil-fuel vehicles in low-emission zones",
+      "publisher": "Portal do Governo do Vietname (chinhphu.vn) — Hanoi Capital",
+      "url": "https://hanoicapital.chinhphu.vn/ha-noi-begins-restricting-fossil-fuel-vehicles-in-low-emission-zones-110260702082825273.htm",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    }
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "PUBLISHED",
+  "date_published": "2026-10-13",
+  "date_modified": "2026-10-13",
+  "editorial": {
+    "qa_score": 98,
+    "qa_warnings": [
+      "source code X: Entidade ou operador oficial (metro, autocarros, ferrovia, aeroporto, preços oficiais de combustível, bancos)."
+    ],
+    "words": 2187,
+    "publish_mode": "review",
+    "approved_at": "2026-10-13",
+    "revisions": []
+  }
+}

@@ -1,0 +1,357 @@
+{
+  "contract_version": 1,
+  "id": "PT-0039",
+  "slug": "honda-wave-ou-honda-click",
+  "title": "Honda Wave ou Honda Click: como escolher em Hanói",
+  "description": "Honda Wave ou Honda Click para alugar em Hanói: o que muda entre mudanças de pé e transmissão automática, o que as fichas dizem e como desempatar.",
+  "h1": "Wave ou Click: mudanças ou transmissão automática, qual lhe serve?",
+  "summary": "Ao dia, a Honda Click custa {{cmp.click.wave.day}} a Wave na tabela da loja; enquanto os preços coincidirem, a escolha faz-se pelo modo de conduzir. Escolha a Wave se já domina as mudanças de pé e a Click se prefere só acelerar e travar no trânsito de Hanói. Peça sempre o ano e a cilindrada da unidade, porque os dois nomes cobrem várias gerações.",
+  "key_points": [
+    "Preço de referência: Wave {{price.wave.day}} e Click {{price.click.day}} por dia; {{price.wave.week}} e {{price.click.week}} por semana; {{price.wave.month}} e {{price.click.month}} por mês (tabela verificada a {{pricing.verifiedAt}}).",
+    "A diferença está no que a mota pede: a Wave tem quatro mudanças engrenadas com o pé; a Click é automática.",
+    "Só a Wave tem depósito (3,7 a 4,0 litros) e consumo declarado (1,56 a 1,72 l/100 km) verificados neste guia; para a Click, os dados consultados não os indicam.",
+    "Os dois nomes cobrem várias gerações, e acima de 125 cm³ a carta exigida passa a ser a categoria A: confirme a cilindrada no registo.",
+    "Antes de decidir, experimente as duas junto à loja e peça por escrito o ano e a cilindrada de cada unidade."
+  ],
+  "intro": [
+    "Quem olha para a tabela da loja repara que, ao dia, a Honda Click custa {{cmp.click.wave.day}} a Wave. Se os valores coincidem, o dinheiro deixa de desempatar e fica a pergunta que conta: quer engrenar mudanças com o pé ou prefere uma mota que só pede acelerador e travões?",
+    "Este guia compara as duas como motas para alugar em Hanói. Diz o que a Honda publica sobre a Wave, o que se sabe e o que não se sabe sobre a Click, porque o nome de cada uma esconde várias gerações e como desempatar em dez minutos na loja. A decisão geral entre scooter e semiautomática está no guia de [scooter ou semiautomática](/tipos-de-motas/scooter-ou-semiautomatica/); aqui a pergunta é mais estreita: estas duas, para si."
+  ],
+  "sections": [
+    {
+      "h2": "O que o preço diz e o que deixa por dizer",
+      "body": [
+        "A tabela de referência da loja, verificada a {{pricing.verifiedAt}}, dá estes valores para as duas motas:",
+        {
+          "table": {
+            "caption": "Honda Wave e Honda Click: preços de referência da loja",
+            "head": [
+              "Período",
+              "Honda Wave",
+              "Honda Click",
+              "Comparação"
+            ],
+            "rows": [
+              [
+                "Dia",
+                "{{price.wave.day}}",
+                "{{price.click.day}}",
+                "A Click custa {{cmp.click.wave.day}} a Wave"
+              ],
+              [
+                "Semana",
+                "{{price.wave.week}}",
+                "{{price.click.week}}",
+                "A Click custa {{cmp.click.wave.week}} a Wave"
+              ],
+              [
+                "Mês",
+                "{{price.wave.month}}",
+                "{{price.click.month}}",
+                "A Click custa {{cmp.click.wave.month}} a Wave"
+              ]
+            ]
+          }
+        },
+        "Os valores dizem respeito só à mota: a caução, o combustível, uma eventual entrega e os extras combinam-se à parte, e a loja confirma o total para as suas datas. Enquanto os valores coincidirem, o dinheiro não desempata e a escolha passa a depender do que cada mota lhe pede ao conduzir.",
+        "Se a ideia é poupar, ponha as duas ao lado das restantes motas da tabela, e não apenas uma da outra. Ao dia, a Wave custa {{cmp.wave.mio.day}} a Yamaha Mio e {{cmp.wave.vision.day}} a Honda Vision; a Click custa {{cmp.click.mio.day}} a Mio e {{cmp.click.vision.day}} a Vision.",
+        "Numa estadia mais longa, a tarifa semanal sai igual ou abaixo da soma dos dias a partir de {{price.wave.weekFrom}} dias na Wave e de {{price.click.weekFrom}} dias na Click; veja o [aluguer semanal](/precos/aluguer-semanal-de-mota/) e o [aluguer mensal](/precos/aluguer-mensal-de-mota/)."
+      ]
+    },
+    {
+      "h2": "Duas formas de conduzir: o que muda a cada arranque e a cada paragem",
+      "body": [
+        "Na tabela da loja, a Wave é uma semiautomática: as mudanças engrenam-se com o pé e não há manete de embraiagem para apertar. A Honda descreve a caixa da Wave Alpha como mecânica, de quatro velocidades e de padrão rotativo («4 số tròn», em vietnamita). A ficha não explica a sequência nem o comportamento da caixa em andamento, por isso, na entrega, peça que lhe mostrem com a mota parada onde fica o ponto morto e por que ordem entram as mudanças.",
+        "Na Click não há mudanças. Roda-se o punho do acelerador para avançar e usam-se as duas manetes do guiador para travar; a transmissão trata do resto.",
+        {
+          "h3": "No pára-arranca"
+        },
+        "A cada semáforo e a cada arranque, a Wave pede um gesto a mais: escolher a mudança com o pé enquanto se doseia o acelerador. Em Hanói, onde se pára a cada cruzamento, esse gesto repete-se e soma-se à atenção que o trânsito já exige. Na Click, desaparece.",
+        "Quem já conduz com mudanças dá pouco por isso; quem nunca o fez ganha uma tarefa a mais exatamente onde menos convém.",
+        {
+          "h3": "Quando a estrada abre"
+        },
+        "Fora das horas de ponta a diferença encolhe, sobretudo para quem domina as mudanças. Para quem não as domina, continua a ser uma tarefa a mais: o guia para [quem nunca conduziu uma mota](/tipos-de-motas/nunca-conduziu-uma-mota/) explica porque o trânsito de Hanói não é sítio para a aprender."
+      ]
+    },
+    {
+      "h2": "As fichas lado a lado: o que se sabe da Wave e da Click",
+      "body": [
+        "Os números da Wave vêm das páginas e do manual da Honda Vietname, consultados a 13 de outubro de 2026. São valores de fabricante, medidos em condições de teste; a mota alugada pode ser de uma geração anterior.",
+        {
+          "table": {
+            "caption": "Wave e Click: o que os dados consultados permitem comparar",
+            "head": [
+              "Característica",
+              "Honda Wave (Alpha / RSX FI)",
+              "Honda Click"
+            ],
+            "rows": [
+              [
+                "Transmissão",
+                "Mecânica de 4 velocidades, em padrão rotativo (Alpha)",
+                "Automática"
+              ],
+              [
+                "Motor",
+                "109,2 cm³ (Alpha) ou 110 cc com injeção PGM-FI (RSX FI)",
+                "Cerca de 108 cm³, arrefecido por líquido, na versão vendida no Vietname até 2011; 125 cm³ na Click 125i e cerca de 157 cm³ na Click 160, versões tailandesas"
+              ],
+              [
+                "Depósito",
+                "3,7 litros (Alpha) ou 4,0 litros (RSX FI)",
+                "Não consta dos dados consultados"
+              ],
+              [
+                "Consumo declarado",
+                "1,72 l/100 km (Alpha) ou 1,56 l/100 km (RSX FI)",
+                "Não consta dos dados consultados"
+              ],
+              [
+                "Altura do assento",
+                "770 mm (Alpha) ou 760 mm (RSX FI)",
+                "Não consta dos dados consultados"
+              ]
+            ]
+          }
+        },
+        "Por isso, este guia não diz qual das duas gasta menos nem qual leva mais bagagem: não há dados verificados do lado da Click. Peça-os à loja, para a unidade concreta, e confirme-os com os seus olhos: abra o assento da Click com o capacete na mão e pergunte onde o leva na Wave.",
+        {
+          "h3": "Uma conta que só a Wave permite"
+        },
+        "Dividir o depósito pelo consumo declarado dá, para a Wave, cerca de 215 km na Alpha e 256 km na RSX FI. A conta é nossa, a partir dos dados da Honda, e é um limite teórico: na cidade, com passageiro ou carga, gasta-se mais, e convém abastecer muito antes da reserva.",
+        "Na Wave há ainda a corrente: o manual da Wave 110 manda verificar o estado e a folga a cada 500 km. É tarefa da loja, mas num aluguer de semanas convém saber quem a trata."
+      ]
+    },
+    {
+      "h2": "Mesmo nome, várias motas: o que a unidade pode ser",
+      "body": [
+        "A tabela da loja anuncia «Honda Wave» e «Honda Click», sem ano nem versão. Os dois nomes cobrem gerações diferentes, com motores diferentes:",
+        {
+          "table": {
+            "caption": "Versões que os nomes Wave e Click podem cobrir",
+            "head": [
+              "Nome",
+              "Versão",
+              "Cilindrada",
+              "Categoria de carta no Vietname"
+            ],
+            "rows": [
+              [
+                "Wave",
+                "Geração anterior da Wave Alpha",
+                "Cerca de 97 cm³",
+                "A1"
+              ],
+              [
+                "Wave",
+                "Wave Alpha atual",
+                "109,2 cm³",
+                "A1"
+              ],
+              [
+                "Wave",
+                "Wave RSX FI",
+                "110 cc",
+                "A1"
+              ],
+              [
+                "Click",
+                "Produzida no Vietname (2006 a 2011)",
+                "Cerca de 108 cm³",
+                "A1"
+              ],
+              [
+                "Click",
+                "Click 125i (Tailândia)",
+                "125 cm³",
+                "A1"
+              ],
+              [
+                "Click",
+                "Click 160 (Tailândia)",
+                "Cerca de 157 cm³",
+                "A"
+              ]
+            ]
+          }
+        },
+        "Do lado da Wave, a Honda Vietname vende hoje a Wave Alpha e a Wave RSX FI, mas uma mota de aluguer pode ser de uma geração anterior: a VnExpress apresentou uma versão antiga da Wave Alpha com 97,1 cm³ e depósito de 3,5 litros.",
+        "Do lado da Click, a Honda lançou-a no Vietname em 2006 e, segundo uma notícia de 2018, deixou de a vender no país em 2011; as versões tailandesas chegaram depois por importadores independentes. Uma Click de aluguer pode ser, por isso, uma unidade com vários anos ou uma versão tailandesa: vale a pena perguntar qual.",
+        {
+          "h3": "A carta depende da cilindrada"
+        },
+        "No Vietname, a categoria A1, em vigor desde 1 de janeiro de 2025, abrange motociclos de duas rodas até 125 cm³; acima disso, é exigida a categoria A. Todas as Wave da tabela ficam dentro da A1; na Click, só a 160 ultrapassa o limite. O documento que conta é o registo do veículo, não o nome da mota, e o guia sobre [cilindrada e carta A1](/tipos-de-motas/cilindrada-e-carta-a1/) explica como verificar se a sua carta inclui a categoria da unidade."
+      ]
+    },
+    {
+      "h2": "Cinco perguntas para desempatar",
+      "body": [
+        "Quando o preço não desempata, cinco perguntas, por esta ordem, quase sempre apontam para uma das duas.",
+        {
+          "h3": "1. Que experiência traz?"
+        },
+        "Se nunca usou mudanças, escolha a Click. Coordenar o pé e o acelerador pela primeira vez no trânsito de Hanói é um risco escusado. Se já conduziu motas com mudanças e se sente à vontade, qualquer das duas serve e as perguntas seguintes decidem.",
+        {
+          "h3": "2. Por onde vai andar?"
+        },
+        "Nas ruas estreitas e nas filas do centro, a Click poupa-lhe o gesto das mudanças a cada paragem. Em percursos mais soltos, pergunte o depósito de cada uma e planeie os abastecimentos: só a Wave tem aqui números verificados. Uma saída de Hanói combina-se primeiro com a loja: veja como pedir [autorização para sair da cidade](/guia-de-aluguer/autorizacao-para-sair-de-hanoi/).",
+        {
+          "h3": "3. O que vai levar consigo?"
+        },
+        "Não parta do princípio de que as duas têm o mesmo espaço para o capacete, a capa de chuva e uma mochila. Na loja, abra o assento da Click, veja onde a Wave leva o capacete e decida com o seu equipamento à frente.",
+        {
+          "h3": "4. Vai levar passageiro?"
+        },
+        "A regra geral no Vietname é um passageiro por mota, com capacete apertado para ambos, e só situações excecionais previstas na lei permitem levar mais alguém. As fichas consultadas não falam do conforto de quem vai atrás, por isso sentem-se os dois na mota antes de a levarem. Para andar a dois com frequência, veja o guia da [scooter para duas pessoas](/tipos-de-motas/scooter-para-duas-pessoas/).",
+        {
+          "h3": "5. Quanto tempo fica com a mota?"
+        },
+        "Num só dia, escolha a mota que já conduz com mais à-vontade: não há tempo para se habituar a outra. Numa estadia de semanas, a Wave traz a corrente para vigiar e as mudanças repetem-se todos os dias."
+      ]
+    },
+    {
+      "h2": "Dez minutos na loja: decidir com as duas à frente",
+      "body": [
+        "Nenhuma ficha substitui experimentar. Se as duas estiverem livres nas suas datas, peça à loja para as ver lado a lado e siga estes passos:",
+        {
+          "steps": [
+            {
+              "title": "Sente-se em cada uma",
+              "text": "Apoie os pés no chão com a mota direita, levante-a do descanso e volte a pô-la. Se não se sente seguro nesta manobra, a mota não é para si."
+            },
+            {
+              "title": "Abra o assento da Click e procure onde a Wave leva o capacete",
+              "text": "Experimente com o seu capacete e a sua mochila: é a forma de comparar o que as fichas não dizem."
+            },
+            {
+              "title": "Peça uma demonstração dos comandos",
+              "text": "Na Wave, o ponto morto e a ordem das mudanças com a mota parada; na Click, como se liga e se desliga, onde fica o descanso e como se trava."
+            },
+            {
+              "title": "Dê uma volta curta junto à loja, se a loja deixar",
+              "text": "Num espaço calmo, sem trânsito. Cinco minutos chegam para saber se prefere engrenar as mudanças ou só acelerar."
+            },
+            {
+              "title": "Decida e peça tudo por escrito",
+              "text": "Anote o modelo, o ano, a cilindrada do registo e o total para as suas datas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "O que perguntar à loja antes de reservar",
+      "body": [
+        "Junte as perguntas numa só mensagem e guarde as respostas:",
+        {
+          "checklist": [
+            "Que Wave e que Click estão livres nas minhas datas, de que ano e com que cilindrada no registo?",
+            "Qual é o total para o período exato e o que fica de fora, como a caução, o combustível e a entrega?",
+            "Qual é a capacidade do depósito e o que cabe debaixo do assento da unidade?",
+            "Posso experimentar as duas junto à loja antes de levar uma?",
+            "Se não me adaptar, posso trocar de mota? Como se acerta a diferença de preço?",
+            "Num aluguer longo, quem trata da corrente da Wave e com que frequência?"
+          ]
+        },
+        "Pode enviar tudo por telefone ou Zalo, para o {{phone}}; a loja está aberta {{hours}}. Veja também a [troca de mota](/guia-de-aluguer/trocar-de-mota/), as [perguntas a fazer antes de alugar](/guia-de-aluguer/perguntas-antes-de-alugar/) e a página de [contactos](/contactos/).",
+        "Veja também a [tabela de preços](/precos/), os [tipos de motas](/tipos-de-motas/) e a [Honda Click em Hanói](/tipos-de-motas/honda-click-em-hanoi/)."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "A Wave é mais barata do que a Click?",
+      "a": "Na tabela verificada a {{pricing.verifiedAt}}, a Wave custa {{cmp.wave.click.day}} a Click ao dia ({{price.wave.day}} e {{price.click.day}}) e {{cmp.wave.click.week}} a Click à semana ({{price.wave.week}} e {{price.click.week}}). O total para as suas datas é sempre confirmado pela loja, porque a caução, o combustível e a entrega ficam fora da tarifa."
+    },
+    {
+      "q": "Qual gasta menos combustível, a Wave ou a Click?",
+      "a": "Só a Wave tem consumo declarado nos dados consultados: 1,72 l/100 km na Alpha e 1,56 l/100 km na RSX FI, em condições de teste. Para a Click não há valor verificado, por isso não é possível dizer qual gasta menos. No trânsito de Hanói, o consumo real é superior ao de teste."
+    },
+    {
+      "q": "A Click precisa de uma carta diferente da da Wave?",
+      "a": "Pode precisar. A categoria A1 vai até 125 cm³: as Wave da tabela e as Click de cerca de 108 e de 125 cm³ cabem nela, mas a Click 160, com cerca de 157 cm³, exige a categoria A. Confirme a cilindrada no registo da unidade, e não pelo nome da mota."
+    },
+    {
+      "q": "Qual das duas é melhor para quem nunca conduziu?",
+      "a": "Nenhuma é um sítio para aprender no trânsito de Hanói. Se a sua experiência é de scooters, a Click poupa-lhe as mudanças; a Wave só faz sentido para quem já domina as mudanças de pé. Sem experiência de mota, o mais prudente é mesmo não conduzir."
+    }
+  ],
+  "sources": [
+    "tabela-precos-proprietario",
+    "lei-36-2024-a1",
+    "lawnet-categorias-2025",
+    "lawnet-passageiros-2025",
+    "lawnet-capacete-168",
+    {
+      "title": "Wave Alpha",
+      "publisher": "Honda Việt Nam",
+      "url": "https://www.honda.com.vn/xe-may/san-pham/wave-alpha-110",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "Wave RSX",
+      "publisher": "Honda Việt Nam",
+      "url": "https://www.honda.com.vn/xe-may/san-pham/wave-rsx",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "WAVE 110 HƯỚNG DẪN SỬ DỤNG",
+      "publisher": "Honda Việt Nam",
+      "url": "https://cdn.honda.com.vn/motorbike-manual/September2025/PIcp8XLSxQmsi5X5Twsy.pdf",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "Wave Alpha đã có mặt trên thị trường",
+      "publisher": "VnExpress",
+      "url": "https://vnexpress.net/wave-alpha-da-co-mat-tren-thi-truong-2054284.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Honda Click",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Honda_Click",
+      "accessed": "2026-10-13",
+      "type": "reference",
+      "lang": "en"
+    },
+    {
+      "title": "A.P. Honda Co., Ltd. to Release New Click 125i (125-cc scooter) in Thailand",
+      "publisher": "Honda Motor Co., Ltd.",
+      "url": "https://global.honda/en/newsroom/worldnews/2012/2120110New-Click-125i-Thailand.html",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "en"
+    },
+    {
+      "title": "Notícia sobre o regresso da Honda Click ao Vietname por importação não oficial e o fim da venda do modelo no país em 2011 (28 de junho de 2018)",
+      "publisher": "VTC News",
+      "url": "https://vtcnews.vn/honda-click-2018-quay-lai-viet-nam-theo-duong-khong-chinh-hang-ar409624.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Comparação entre a Honda Click 160 e a Yamaha Aerox 155 (em tailandês)",
+      "publisher": "Autospinn",
+      "url": "https://www.autospinn.com/2023/05/bike-compare-honda-click-160-vs-yamaha-aero-155-94895",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "th"
+    }
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "READY_FOR_QA"
+}

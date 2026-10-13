@@ -1,0 +1,263 @@
+{
+  "contract_version": 1,
+  "id": "PT-0174",
+  "slug": "limites-de-velocidade",
+  "title": "Limites de velocidade para motas no Vietname: tabela e coimas",
+  "description": "Até 50 ou 60 km/h na cidade, 70 km/h fora dela e 40 km/h numa 50 cc: os limites da Circular 38/2024 para motas e as coimas por excesso no Vietname.",
+  "h1": "Velocidade máxima de mota no Vietname: quanto pode andar na cidade e na estrada",
+  "summary": "Em outubro de 2026, os limites de velocidade para motas no Vietname são os da Circular 38/2024/TT-BGTVT, em vigor desde 1 de janeiro de 2025. Numa zona povoada, um motociclo pode andar a 60 km/h em estradas com separador central ou de sentido único com duas ou mais vias de trânsito, e a 50 km/h nas restantes; fora das zonas povoadas, até 70 km/h. Numa 50 cc, o limite é de 40 km/h.",
+  "key_points": [
+    "Zona povoada: 60 km/h nas estradas com separador central ou de sentido único com duas ou mais vias de trânsito; 50 km/h nas de dois sentidos sem separador ou com uma só via.",
+    "Fora das zonas povoadas: 70 km/h nas estradas com separador central e 60 km/h nas restantes, segundo a tabela publicada pela imprensa vietnamita.",
+    "Motas de 50 cc («xe gắn máy»): 40 km/h, sem distinção de zona nas fontes consultadas.",
+    "Coimas nacionais por excesso: 400 mil a 600 mil VND a partir de 5 km/h acima do limite, até 6 a 8 milhões de VND e perda de 4 pontos acima de 20 km/h.",
+    "Na estrada, mandam os sinais e os agentes: um sinal temporário prevalece sobre o fixo, e as ordens do agente vêm antes de tudo."
+  ],
+  "intro": [
+    "Numa mota alugada, com estradas e sinais que não conhece, é fácil passar o limite de velocidade sem dar por isso. No Vietname, a velocidade máxima depende de três fatores: o tipo de veículo, o tipo de estrada e o facto de estar ou não numa zona povoada. A coima, por sua vez, depende de quantos quilómetros por hora passou.",
+    "Este guia reúne os limites da norma em vigor, a Circular 38/2024/TT-BGTVT, e as coimas do Decreto 168/2024/NĐ-CP, com os dados verificados a 13 de outubro de 2026. Os montantes indicados são os nacionais: em Hanói, desde 1 de julho de 2026, algumas infrações têm coimas mais altas. A preparação geral para conduzir na cidade está no [guia de aluguer](/guia-de-aluguer/)."
+  ],
+  "sections": [
+    {
+      "h2": "A norma em vigor: a Circular 38/2024",
+      "body": [
+        "Desde 1 de janeiro de 2025, a velocidade nas estradas vietnamitas rege-se pela Circular 38/2024/TT-BGTVT, de 15 de novembro de 2024, do Ministério dos Transportes. É ela que fixa as velocidades máximas e as distâncias de segurança dos veículos a motor.",
+        "Para ler a tabela, convém conhecer os dois critérios que a Circular usa, além do tipo de veículo:",
+        {
+          "ul": [
+            "**Dentro ou fora de uma zona povoada** («khu vực đông dân cư»): dentro, os limites são mais baixos.",
+            "**O tipo de estrada**: as estradas com separador central («đường đôi») e as de sentido único com duas ou mais vias de trânsito para veículos a motor têm limites mais altos do que as de dois sentidos sem separador e as de sentido único com uma só via."
+          ]
+        },
+        "As autoestradas («cao tốc») ficam fora desta conversa: as motas não podem entrar nelas, seja qual for a velocidade, como se explica mais abaixo."
+      ]
+    },
+    {
+      "h2": "Os limites para motas, numa tabela",
+      "body": [
+        {
+          "table": {
+            "caption": "Velocidade máxima das motas no Vietname segundo a Circular 38/2024/TT-BGTVT (consulta de 13 de outubro de 2026)",
+            "head": [
+              "Veículo e tipo de estrada",
+              "Zona povoada",
+              "Fora da zona povoada"
+            ],
+            "rows": [
+              [
+                "Motociclo, em estrada com separador central ou de sentido único com 2 ou mais vias de trânsito",
+                "60 km/h",
+                "70 km/h"
+              ],
+              [
+                "Motociclo, em estrada de dois sentidos sem separador ou de sentido único com 1 via de trânsito",
+                "50 km/h",
+                "60 km/h (ver nota)"
+              ],
+              [
+                "Mota de 50 cc («xe gắn máy»), em qualquer estrada",
+                "40 km/h",
+                "40 km/h"
+              ]
+            ]
+          }
+        },
+        "Duas notas sobre os números. O valor de 60 km/h fora das zonas povoadas, nas estradas sem separador, vem da tabela publicada pelo jornal Báo Quốc tế e não foi confirmado numa segunda fonte. Para as 50 cc, as fontes não indicam valores diferentes dentro e fora das zonas povoadas: o limite é de 40 km/h em ambas.",
+        "As fontes consultadas também não descrevem os sinais que marcam a entrada e a saída de uma zona povoada. Numa cidade como Hanói, a regra prática é usar a coluna da zona povoada: 50 km/h nas ruas sem separador central e 60 km/h nas avenidas com separador. Na dúvida entre duas linhas, fique pela mais baixa."
+      ]
+    },
+    {
+      "h2": "Motociclo ou 50 cc: que limite se aplica à sua mota",
+      "body": [
+        "Para saber que linha da tabela se aplica, é preciso conhecer a categoria da mota. A Lei n.º 36/2024/QH15 chama «xe gắn máy» aos veículos de duas ou três rodas com motor até 50 cm³, ou elétrico até 4 kW, e com velocidade de projeto até 50 km/h: são as chamadas 50 cc. Acima destes valores, o veículo é um motociclo («xe mô tô»).",
+        "Uma scooter de 110 ou de 125 cm³ é, portanto, um motociclo, e segue as duas primeiras linhas da tabela. Uma 50 cc fica nos 40 km/h, mesmo que tenha sido projetada para chegar aos 50 km/h: a velocidade de projeto serve para classificar o veículo, não para circular. Se está a pensar numa, leia antes a página das [motas de 50 cc](/tipos-de-motas/motas-50cc/).",
+        "Numa mota elétrica, tudo depende da potência e da velocidade de projeto da unidade concreta. Até 4 kW e 50 km/h, fica no grupo das 50 cc e, com ele, no limite de 40 km/h; acima disso, é um motociclo. O guia da [carta para mota elétrica](/tipos-de-motas/carta-para-mota-eletrica/) explica onde passa a fronteira, e o guia sobre [como confirmar que a mota é de 50 cc](/tipos-de-motas/confirmar-que-a-mota-e-50cc/) mostra onde ler a cilindrada no certificado de registo."
+      ]
+    },
+    {
+      "h2": "Quanto custa passar o limite",
+      "body": [
+        "As coimas por excesso de velocidade estão no Decreto 168/2024/NĐ-CP, em vigor desde 1 de janeiro de 2025, e são iguais para motociclos e para 50 cc. Contam os quilómetros por hora acima do limite, e não o limite em si:",
+        {
+          "table": {
+            "caption": "Coimas por excesso de velocidade numa mota, Decreto 168/2024/NĐ-CP (nível nacional, outubro de 2026)",
+            "head": [
+              "Excesso sobre o limite",
+              "Coima (VND)",
+              "Pontos na carta"
+            ],
+            "rows": [
+              [
+                "De 5 a menos de 10 km/h",
+                "400 mil a 600 mil",
+                "Sem perda de pontos"
+              ],
+              [
+                "De 10 a 20 km/h",
+                "800 mil a 1 milhão",
+                "Sem perda de pontos"
+              ],
+              [
+                "Mais de 20 km/h",
+                "6 a 8 milhões",
+                "Menos 4 pontos"
+              ]
+            ]
+          }
+        },
+        "Numa rua urbana com limite de 50 km/h, isto quer dizer que a coima começa nos 55 km/h e sobe de escalão aos 60 km/h. Acima de 70 km/h, passa para 6 a 8 milhões de VND, e a carta perde 4 dos seus 12 pontos.",
+        "Há ainda dois casos com coimas mais pesadas. Se o excesso de velocidade causar um acidente, a coima sobe para 10 a 14 milhões de VND, com perda de 10 pontos, segundo uma das fontes consultadas. E andar em grupo de duas ou mais motas acima do limite tem uma coima própria, de 8 a 10 milhões de VND, também segundo uma das fontes: um aviso para quem sai com amigos, cada um na sua mota.",
+        {
+          "note": "Os montantes acima são os do Decreto 168/2024/NĐ-CP, a nível nacional. Desde 1 de julho de 2026, a Resolução 56/2026/NQ-HĐND de Hanói multiplica por 1,5 ou por 2 as coimas de 28 infrações cometidas na cidade. As fontes consultadas não permitiram confirmar se o excesso de velocidade está nessa lista: conte com essa possibilidade.",
+          "tone": "warn",
+          "title": "Em Hanói, as coimas podem ser mais altas"
+        }
+      ]
+    },
+    {
+      "h2": "Sinais, agentes e obras: o limite numa rua concreta",
+      "body": [
+        "A tabela dá os valores gerais; na estrada, siga a sinalização. Os sinais de trânsito obedecem, desde 1 de janeiro de 2025, à norma QCVN 41:2024/BGTVT. Quando as indicações não coincidem, a lei põe as ordens do agente à frente dos semáforos, e estes à frente dos sinais e das marcas no pavimento. Se um agente lhe fizer sinal para abrandar ou parar, é isso que conta.",
+        "Nas zonas de obras, um sinal temporário prevalece sobre o sinal fixo com outro significado no mesmo local. Se vir um limite mais baixo do que o da tabela, cumpra o do sinal.",
+        "Os limites são máximos, não metas. Com chuva, à noite ou num trânsito denso, a velocidade adequada fica muitas vezes bem abaixo do valor da tabela."
+      ]
+    },
+    {
+      "h2": "Autoestradas: proibidas a qualquer mota",
+      "body": [
+        "As autoestradas vietnamitas («cao tốc») estão vedadas às motas, seja qual for a cilindrada. Entrar numa custa 4 a 6 milhões de VND e a perda de 6 pontos. A proibição é fiscalizada: em fevereiro de 2026, a imprensa noticiou coimas a motociclistas estrangeiros na autoestrada Tuyên Quang–Phú Thọ.",
+        "Antes de uma saída longa, veja no mapa o percurso completo e confirme que segue por estradas nacionais, sem troços de «cao tốc». Com uma mota alugada, confirme também com a loja se a pode levar para fora da cidade, como se explica no guia da [autorização para sair de Hanói](/guia-de-aluguer/autorizacao-para-sair-de-hanoi/)."
+      ]
+    },
+    {
+      "h2": "Antes de arrancar: lista rápida",
+      "body": [
+        {
+          "checklist": [
+            "Saiba a categoria da mota (motociclo ou 50 cc) e, com ela, o seu limite.",
+            "Ao receber a mota, confirme que o velocímetro funciona: sem ele, não tem como saber se está dentro do limite.",
+            "Na cidade, conte com 50 km/h nas ruas sem separador central e 60 km/h nas avenidas com separador.",
+            "Em grupo, cada mota respeita o limite: andar em grupo acima da velocidade permitida tem coima própria.",
+            "Fora de Hanói, planeie o percurso sem autoestradas."
+          ]
+        },
+        "A forma de conferir a mota no levantamento está no guia para [receber a mota](/guia-de-aluguer/receber-a-mota/). Se for mandado parar, siga os passos do guia sobre o [controlo da polícia](/guia-de-aluguer/controlo-da-policia/); para saber como se tratam as multas durante o aluguer, veja o guia das [multas de trânsito numa mota alugada](/precos/multas-de-transito-no-aluguer/)."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Uma mota elétrica tem os mesmos limites de uma scooter a gasolina?",
+      "a": "Depende da categoria. Uma elétrica com mais de 4 kW, ou com velocidade de projeto acima de 50 km/h, é um motociclo e tem os mesmos limites de uma scooter a gasolina. Até 4 kW e 50 km/h, pertence ao grupo das 50 cc e fica pelos 40 km/h. Peça à loja a potência da unidade antes de sair."
+    },
+    {
+      "q": "Como funcionam os pontos da carta no Vietname?",
+      "a": "Desde 1 de janeiro de 2025, cada carta vietnamita tem 12 pontos. Um excesso de mais de 20 km/h retira 4; os excessos menores só dão coima. Se a carta não chegar a zero e passarem 12 meses sem novas perdas, volta aos 12 pontos. As fontes consultadas não esclarecem como o sistema se aplica a cartas estrangeiras ou à licença internacional."
+    },
+    {
+      "q": "Se uma câmara registar o excesso, quem recebe a multa?",
+      "a": "As infrações registadas por câmara («phạt nguội») são notificadas a quem consta no registo da mota — num aluguer, a loja —, e o aviso pode chegar depois da devolução. Antes de levantar a mota, combine com a loja, por escrito, como se trata uma multa destas."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Thông tư 38/2024/TT-BGTVT quy định về tốc độ và khoảng cách an toàn của xe cơ giới, xe máy chuyên dùng tham gia giao thông trên đường bộ",
+      "publisher": "Caselaw Việt Nam",
+      "url": "https://caselaw.vn/van-ban-phap-luat/412364-thong-tu-so-38-2024-tt-bgtvt-ngay-15-11-2024-cua-bo-truong-bo-giao-thong-van-tai-ve-toc-do-va-khoang-cach-an-toan-cua-xe-co-gioi-xe-may-chuyen-dung-tham-gia-giao-thong-tren-duong-bo",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "Tốc độ tối đa của các loại xe từ năm 2025",
+      "publisher": "Báo Quốc tế",
+      "url": "https://baoquocte.vn/toc-do-toi-da-cua-cac-loai-xe-tu-nam-2025-296022.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Mức phạt lỗi chạy quá tốc độ 10-20km xe máy theo Nghị định 168 là bao nhiêu?",
+      "publisher": "Thư Viện Pháp Luật",
+      "url": "https://thuvienphapluat.vn/banan/tin-tuc/muc-phat-loi-chay-qua-toc-do-10-20km-xe-may-theo-nghi-dinh-168-la-bao-nhieu-13222.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "Xe máy chạy quá tốc độ: Bị phạt tới 8 triệu đồng, trừ 4 điểm GPLX",
+      "publisher": "VOV",
+      "url": "https://vov.vn/xa-hoi/xe-may-chay-qua-toc-do-bi-phat-toi-8-trieu-dong-tru-4-diem-gplx-post1188423.vov",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Quy định xử phạt lỗi vượt quá tốc độ từ 1/1/2025",
+      "publisher": "HoaTieu.vn",
+      "url": "https://hoatieu.vn/phap-luat/quy-dinh-xu-phat-loi-vuot-qua-toc-do-182145",
+      "accessed": "2026-10-13",
+      "type": "reference",
+      "lang": "vi"
+    },
+    "luatvietnam-16-anos",
+    {
+      "title": "Điểm bằng lái: Trừ ra sao, phục hồi thế nào?",
+      "publisher": "Cổng Thông tin điện tử tỉnh Hà Tĩnh",
+      "url": "https://hatinh.gov.vn/vi/bai-viet/diem-bang-lai-tru-ra-sao-phuc-hoi-the-nao",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "vi"
+    },
+    {
+      "title": "Cập nhật QCVN 41:2024/BGTVT về báo hiệu đường bộ",
+      "publisher": "Thư viện Nhà đất",
+      "url": "https://thuviennhadat.vn/phap-luat/cap-nhat-qcvn-412024bgtvt-ve-bao-hieu-duong-bo-641069.html",
+      "accessed": "2026-10-13",
+      "type": "reference",
+      "lang": "vi"
+    },
+    {
+      "title": "Đèn đỏ được rẽ phải không?",
+      "publisher": "Thư Viện Pháp Luật",
+      "url": "https://thuvienphapluat.vn/hoi-dap-phap-luat/den-do-duoc-re-phai-khong-138071946.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "Mức xử phạt năm 2026 đối với hành vi đi xe máy trên cao tốc?",
+      "publisher": "Thư Viện Pháp Luật",
+      "url": "https://thuvienphapluat.vn/ma-so-thue/phap-luat-thue/muc-xu-phat-nam-2026-doi-voi-hanh-vi-di-xe-may-tren-cao-toc-936922-220346.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    "dtinews-autoestrada-2026",
+    "hanoi-resolucao-56-2026",
+    {
+      "title": "Quy trình 'phạt nguội' mới nhất 2025: Những thay đổi quan trọng người lái xe cần biết",
+      "publisher": "Hệ thống pháp luật Việt Nam",
+      "url": "https://hethongphapluat.com/phap-luat/huong-dan/quy-trinh-phat-nguoi-moi-nhat-2025-nhung-thay-doi-quan-trong-nguoi-lai-xe-can-biet.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    }
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "PUBLISHED",
+  "date_published": "2026-10-13",
+  "date_modified": "2026-10-13",
+  "editorial": {
+    "qa_score": 100,
+    "qa_warnings": [],
+    "words": 1681,
+    "publish_mode": "review",
+    "approved_at": "2026-10-13",
+    "revisions": []
+  }
+}

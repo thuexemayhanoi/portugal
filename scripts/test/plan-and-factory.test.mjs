@@ -103,6 +103,8 @@ test('a draft that answers the same query as a live page is rejected', (t) => {
   // Any topic that is still open for writing; once the whole plan is published there is none left.
   const queued = model.plan.topics.find((x) => !['PUBLISHED', 'HOLD_FOR_INTENT_REVIEW'].includes(x.editorial_qa_status));
   if (!queued) return t.skip('every topic is published');
+  // Same query as PT-0066 (in memory only), whatever topic happens to be open.
+  queued.primary_keyword = model.plan.topics.find((x) => x.id === 'PT-0066').primary_keyword;
   const draft = { ...published, id: queued.id, slug: queued.slug, status: 'READY_FOR_QA' };
   delete draft.date_published;
   delete draft.date_modified;

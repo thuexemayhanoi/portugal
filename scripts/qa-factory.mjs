@@ -263,7 +263,7 @@ export function createValidator() {
       if (seen.has(s.url)) E(`duplicate source ${s.url}`);
       seen.add(s.url);
       // Titles are shown on the page: no editor notes, no titles rebuilt from a URL slug.
-      if (/\[(?:página|notícia|perguntas|segundo|título|nota|fonte|ficha|url|pdf)|segundo o url|^slide image\b|^untitled\b|^\d+\.\s+\S+\.(?:com|net|org|vn|info)\b|^xuất bản ngày|^(?:home|trang chủ)$/i.test(s.title)) E(`source title looks like a note or placeholder, use the real title: "${s.title}"`);
+      if (/\[(?:página|notícia|perguntas|segundo|título|nota|fonte|ficha|url|pdf)|segundo o url|^slide image\b|^untitled\b|^\d+\.\s+\S+\.(?:com|net|org|vn|info)\b|^xuất bản ngày|^(?:home|trang chủ|thông tin văn bản|tieng anh)$|^\d+ vbhn\b/i.test(s.title)) E(`source title looks like a note or placeholder, use the real title: "${s.title}"`);
       else if (/^vi/i.test(s.lang || '') && /^[a-z0-9 ,.:;'"?!/-]+$/.test(s.title) && s.title.trim().split(/\s+/).length >= 5) E(`Vietnamese source title without diacritics (rebuilt from the URL?): "${s.title}"`);
       valid++;
     }
