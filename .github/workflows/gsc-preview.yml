@@ -1,0 +1,42 @@
+name: Portugal GSC Verification Preview (temporary)
+on:
+  push:
+    branches: [seo/pt-google-site-verification]
+    paths: [site/data.json]
+permissions:
+  contents: write
+concurrency:
+  group: portugal-gsc-preview
+  cancel-in-progress: false
+jobs:
+  build:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Regenerate site with the verified GSC token
+        run: |
+          node scripts/build.mjs
+          node scripts/build.mjs --check
+          node scripts/plan.mjs --check
+          node scripts/qa-site.mjs
+          node scripts/qa-factory.mjs --published
+          node --test "scripts/test/*.test.mjs"
+          node -e "const fs=require('fs');const k='HwLeUnxn5y1nBbGQD-54b3hR_dw10qMQ12wfmuDPfBg';const s=fs.readFileSync('index.html','utf8');if(!s.includes('<meta name=\"google-site-verification\" content=\"'+k+'\">'))process.exit(1);console.log('PT_GSC_TAG_PASS')"
+      - name: Commit generated pages to feature branch only
+        run: |
+          set -euo pipefail
+          git config user.name "pt-gsc-preview"
+          git config user.email "pt-gsc-preview@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then echo "No generated changes"; exit 0; fi
+          git commit -m "build(portugal): add GSC verification across static pages"
+          git fetch origin seo/pt-google-site-verification
+          if [ "$(git rev-parse origin/seo/pt-google-site-verification)" != "$(git rev-parse HEAD^)" ]; then echo "SAFE_STOP branch changed"; exit 1; fi
+          git push origin HEAD:seo/pt-google-site-verification
