@@ -1,0 +1,222 @@
+{
+  "contract_version": 1,
+  "id": "PT-0026",
+  "slug": "honda-wave-em-hanoi",
+  "title": "Honda Wave em Hanói: versões, preço e para quem compensa",
+  "description": "Que Honda Wave pode receber em Hanói (Alpha ou RSX FI), o que diz a ficha da Honda, quanto custa por dia, semana e mês e a quem compensa alugá-la.",
+  "h1": "Alugar uma Honda Wave 110 em Hanói: que versão recebe e quanto paga",
+  "summary": "A Honda Wave é uma semiautomática de cerca de 110 cm³: as mudanças engrenam-se com o pé e não há manete de embraiagem. Na tabela da loja custa {{price.wave.day}} por dia, {{price.wave.week}} por semana e {{price.wave.month}} por mês. Compensa a quem já conduz com mudanças; como a loja anuncia só «Honda Wave», confirme a versão e o ano da unidade.",
+  "key_points": [
+    "A Honda Vietname vende hoje a Wave Alpha (109,2 cm³) e a Wave RSX FI (110 cc, com injeção PGM-FI); a unidade alugada pode ser de qualquer delas ou de uma geração anterior.",
+    "Entre as duas versões atuais, as diferenças são pequenas: 10 mm na altura do assento, 0,3 litros no depósito e um consumo declarado mais baixo na RSX FI.",
+    "Preço de referência: {{price.wave.day}} por dia, {{price.wave.week}} por semana e {{price.wave.month}} por mês; a partir de {{price.wave.weekFrom}} dias, a tarifa semanal sai igual ou abaixo da soma dos dias.",
+    "Mais do que o modelo, conta o estado da unidade: corrente, travões, pneus e, nas versões com injeção, a luz de avaria.",
+    "Com 109,2 a 110 cm³, a Wave cabe na categoria A1 vietnamita, que vai até 125 cm³."
+  ],
+  "intro": [
+    "Alugar uma Honda Wave em Hanói levanta duas perguntas práticas: que mota vai receber e quanto vai pagar por ela. A segunda tem resposta direta na tabela da loja. A primeira não, porque a Wave é uma família de semiautomáticas que a Honda Vietname vende em gerações sucessivas, e a loja anuncia apenas «Honda Wave».",
+    "Este guia junta os dados que a Honda publica para as versões à venda em outubro de 2026, explica o que significam na estrada e mostra a quem compensa este aluguer. Parte do princípio de que já escolheu uma mota com mudanças; se ainda hesita, a comparação entre [scooter e semiautomática](/tipos-de-motas/scooter-ou-semiautomatica/) ajuda a decidir primeiro."
+  ],
+  "sections": [
+    {
+      "h2": "Que Wave pode receber: Alpha, RSX FI ou uma geração anterior",
+      "body": [
+        "Na gama atual da Honda Vietname, a Wave aparece em dois modelos. A **Wave Alpha** tem motor de 109,2 cm³ e caixa mecânica de quatro velocidades; a **Wave RSX FI** tem 110 cc e injeção eletrónica PGM-FI. As páginas de produto das duas, consultadas a 13 de outubro de 2026, são a base dos números deste artigo.",
+        {
+          "table": {
+            "caption": "Os dois modelos Wave à venda em outubro de 2026, segundo a Honda Vietname",
+            "head": ["Característica", "Wave Alpha", "Wave RSX FI"],
+            "rows": [
+              ["Motor", "109,2 cm³, taxa de compressão de 9,0:1", "110 cc, injeção PGM-FI"],
+              ["Caixa", "Mecânica, 4 velocidades, padrão rotativo", "Não consta dos dados consultados"],
+              ["Arranque", "Elétrico", "Não consta dos dados consultados"],
+              ["Depósito de combustível", "3,7 litros", "4,0 litros"],
+              ["Consumo declarado", "1,72 l/100 km", "1,56 l/100 km"],
+              ["Altura do assento", "770 mm", "760 mm"],
+              ["Distância ao solo", "134 mm", "135 mm"],
+              ["Comprimento × largura × altura", "1.913 × 689 × 1.076 mm", "1.922 × 709 × 1.082 mm"]
+            ]
+          }
+        },
+        "Uma mota de aluguer, porém, pode ter vários anos. Quando uma geração anterior da Wave Alpha chegou às lojas, a VnExpress apresentou-a com motor de 97,1 cm³, depósito de 3,5 litros e 96 kg de peso a seco. Uma unidade antiga pode estar mais perto destes números do que dos atuais.",
+        {
+          "note": "Se um pormenor pesa na sua escolha — a injeção, o assento mais baixo da RSX FI, o ano da mota —, pergunte que versão está livre nas suas datas antes de reservar. Ao receber a mota, confira a cilindrada no [registo do veículo](/guia-de-aluguer/documentos-da-mota-alugada/), que é o documento que conta.",
+          "tone": "info",
+          "title": "Confirme a versão antes de reservar"
+        }
+      ]
+    },
+    {
+      "h2": "O que os números mudam na estrada",
+      "body": [
+        "Entre as duas versões atuais, as diferenças cabem numa linha: 10 mm no assento, 0,3 litros no depósito e 0,16 litros aos 100 km no consumo declarado. Nenhuma pesa tanto como o estado da unidade, mas três pormenores merecem atenção antes de sair.",
+        { "h3": "Altura do assento" },
+        "Com 760 mm na RSX FI e 770 mm na Alpha, o assento da Wave é o ponto de partida para saber se apoia bem os pés no chão. Em Hanói, isso conta mais do que parece: para-se a cada cruzamento e arruma-se a mota à mão entre outras quando se estaciona. Sente-se na unidade antes de a levar e confirme que chega ao chão com os dois pés.",
+        { "h3": "Depósito e consumo" },
+        "O consumo declarado pela Honda é medido em condições de teste. No trânsito lento da cidade, com paragens constantes, passageiro ou carga, a Wave gasta mais do que isso. Com 3,7 ou 4,0 litros no depósito, abasteça com margem, sobretudo à noite ou quando sai do centro.",
+        { "h3": "Mudanças" },
+        "A Honda descreve a caixa da Wave Alpha como de padrão rotativo («4 số tròn», em vietnamita). A ficha não explica a sequência nem o comportamento da caixa em andamento e, para a RSX FI, os dados consultados nem descrevem a caixa. Por isso, na entrega, peça que lhe mostrem com a mota parada onde fica o ponto morto e por que ordem entram as mudanças na unidade que vai levar."
+      ]
+    },
+    {
+      "h2": "Quanto custa: dia, semana e mês",
+      "body": [
+        {
+          "table": {
+            "caption": "Honda Wave: preços de referência da loja",
+            "head": ["Período", "Preço de referência", "O que ter em conta"],
+            "rows": [
+              ["Dia", "{{price.wave.day}}", "Passeios e dias soltos; combine a hora de devolução"],
+              ["Semana", "{{price.wave.week}}", "Igual ou abaixo da soma dos dias a partir de {{price.wave.weekFrom}} dias"],
+              ["Mês", "{{price.wave.month}}", "Intervalo de referência: a loja confirma o valor final"]
+            ]
+          }
+        },
+        "A tabela foi verificada a {{pricing.verifiedAt}} e diz respeito apenas à mota. A caução, o combustível, uma eventual entrega e os acessórios combinam-se à parte, e o total para as suas datas é confirmado pela loja. A comparação entre pagar ao dia e pagar à semana, para as duas semiautomáticas, fica assim:",
+        { "component": "duration-compare", "category": "motas-semiautomaticas" },
+        "Face às scooters da loja, a Wave custa ao dia {{cmp.wave.vision.day}} a Honda Vision, {{cmp.wave.airblade.day}} a Air Blade, {{cmp.wave.click.day}} a Honda Click e {{cmp.wave.mio.day}} a Yamaha Mio. Antes de escolher a Wave pelo preço, ponha-a ao lado da scooter que alugaria em alternativa.",
+        "Para um só dia, veja como se conta o período e que horários combinar no guia do [aluguer por um dia](/precos/aluguer-de-mota-por-um-dia/). Para estadias maiores, o [aluguer semanal](/precos/aluguer-semanal-de-mota/) e o [aluguer mensal](/precos/aluguer-mensal-de-mota/) explicam o que acertar antes de levantar a mota."
+      ]
+    },
+    {
+      "h2": "Para quem compensa alugar uma Wave",
+      "body": [
+        "A Wave compensa quando três coisas se juntam: já conduz motas com mudanças, sabe para que a quer e aceita uma mota sem os confortos de uma scooter. Três perfis concretos:",
+        {
+          "ul": [
+            "**Motociclista habituado a mudanças, sozinho na cidade.** Engrenar com o pé já lhe sai sem pensar, e a Wave cumpre os trajetos urbanos sem pedir mais nada.",
+            "**Estadia de várias semanas.** Ao mês, a Wave custa {{cmp.wave.vision.month}} uma Honda Vision e {{cmp.wave.click.month}} uma Honda Click. Combine desde o início quem verifica e lubrifica a corrente.",
+            "**Quem quer conhecer os arredores.** Uma saída de Hanói combina-se primeiro com a loja: veja como pedir [autorização para sair da cidade](/guia-de-aluguer/autorizacao-para-sair-de-hanoi/). Em estrada, o manual da Wave 110 manda verificar a corrente a cada 500 km."
+          ]
+        },
+        "Não compensa se nunca usou mudanças: o trânsito de Hanói não é sítio para aprender, e o guia para [quem nunca conduziu uma mota](/tipos-de-motas/nunca-conduziu-uma-mota/) explica porquê. Também não é a escolha certa se precisa de um compartimento fechado para o capacete e a capa de chuva: não conte com a arrumação de uma scooter e confirme o que a unidade tem.",
+        "Se prefere uma mota sem mudanças, compare com a [Honda Click](/tipos-de-motas/honda-click-em-hanoi/), que custa {{cmp.click.wave.day}} a Wave ao dia."
+      ]
+    },
+    {
+      "h2": "Robustez: o que depende do modelo e o que depende da unidade",
+      "body": [
+        "Num aluguer, a pergunta útil não é se a Wave é resistente em geral, mas se a unidade que recebe foi bem mantida. A ficha técnica não responde a isso; os manuais da Honda dizem o que vigiar:",
+        {
+          "ul": [
+            "**Corrente**: o manual da Wave 110 manda verificar o estado e a folga a cada 500 km, ajustá-la e lubrificá-la quando necessário e fazer essa verificação com mais frequência em estradas em mau estado ou a velocidades altas. O manual da Wave RSX FI tem uma secção equivalente.",
+            "**Carretos**: com os dentes gastos ou danificados, a substituição é feita numa oficina autorizada da Honda (HEAD), segundo o mesmo manual.",
+            "**Luz de avaria da injeção (MIL)**: nas versões com injeção, como a RSX FI, acende por instantes quando se liga a ignição; se ficar acesa com o motor a trabalhar, há um problema a tratar."
+          ]
+        },
+        "Estes cuidados cabem à loja, não a quem aluga. Num aluguer de semanas, pergunte quem trata da corrente e com que frequência; se notar ruídos estranhos ou a luz de avaria acesa, pare em segurança e contacte a loja. O que conta como desgaste normal ao fim de semanas está explicado no guia sobre [desgaste num aluguer longo](/precos/desgaste-normal-num-aluguer-longo/)."
+      ]
+    },
+    {
+      "h2": "Carta de condução para uma Wave",
+      "body": [
+        "Com 109,2 cm³ na Alpha e 110 cc na RSX FI, a Wave fica dentro da categoria A1 vietnamita, que desde 1 de janeiro de 2025 abrange motociclos de duas rodas até 125 cm³. A pergunta que conta é se a sua carta, com a licença internacional que a acompanha, inclui essa categoria: o guia sobre [cilindrada e carta A1](/tipos-de-motas/cilindrada-e-carta-a1/) explica como o verificar.",
+        "Para os restantes documentos que a loja pode pedir, veja o guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/)."
+      ]
+    },
+    {
+      "h2": "O que confirmar quando recebe a Wave",
+      "body": [
+        "A entrega é o momento de comprovar o que combinou. Além da inspeção habitual, numa Wave confirme:",
+        {
+          "checklist": [
+            "**Versão e ano**, e a cilindrada que consta do registo.",
+            "**Ponto morto e mudanças**: que lhe mostrem a sequência com a mota parada e o motor ligado.",
+            "**Arranque**: o botão funciona à primeira; pergunte se a unidade tem também pedal de arranque.",
+            "**Luz de avaria**, nas versões com injeção: acende por instantes ao ligar a ignição e não fica acesa com o motor a trabalhar.",
+            "**Corrente**: quando foi verificada e lubrificada pela última vez.",
+            "**Travões, pneus e luzes**: travagem firme nas duas rodas, piso dos pneus visível, piscas e luz de travão a funcionar.",
+            "**Combustível**: o nível com que recebe a mota, registado numa fotografia."
+          ]
+        },
+        "O resto do processo — acordo, fotografias, explicação dos comandos — está descrito no guia [receber a mota alugada](/guia-de-aluguer/receber-a-mota/)."
+      ]
+    },
+    {
+      "h2": "Como pedir uma Wave à loja",
+      "body": [
+        "Junte tudo numa só mensagem: datas de levantamento e de devolução, se leva passageiro e se pensa sair de Hanói. Depois, peça à loja:",
+        {
+          "ul": [
+            "que versão e que ano tem a Wave livre nas suas datas;",
+            "o total para o período exato e o que fica fora dele (caução, combustível, entrega);",
+            "quem trata da corrente, se o aluguer passar de uma semana;",
+            "se pode dar uma volta curta junto à loja antes de sair;",
+            "se, não se adaptando às mudanças, pode [trocar de mota](/guia-de-aluguer/trocar-de-mota/) por uma scooter, e em que condições."
+          ]
+        },
+        "Os dados para falar com a loja estão na página de [contactos](/contactos/), e a lista de [perguntas a fazer antes de alugar](/guia-de-aluguer/perguntas-antes-de-alugar/) cobre a caução e os documentos. Para comparar a Wave com os outros veículos da loja, das scooters às elétricas, veja o guia de [tipos de motas](/tipos-de-motas/)."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "A Honda Wave é uma mota automática?",
+      "a": "Não. É uma semiautomática: escolhe a mudança com o pé, mas não há manete de embraiagem para apertar. Se prefere não ter mudanças, as scooters da loja têm transmissão automática; a Honda Click, por exemplo, custa {{cmp.click.wave.day}} a Wave por dia."
+    },
+    {
+      "q": "Posso escolher entre a Wave Alpha e a Wave RSX FI?",
+      "a": "Pode pedir, mas depende das unidades livres nas suas datas, porque a loja anuncia o modelo apenas como «Honda Wave». Se a versão for importante, peça a confirmação por escrito, com o ano. Para alugar, as diferenças são pequenas: a RSX FI tem injeção eletrónica, depósito de 4,0 litros e assento 10 mm mais baixo."
+    },
+    {
+      "q": "Quanta gasolina gasta uma Honda Wave em Hanói?",
+      "a": "Depende dos quilómetros que fizer. A Honda declara 1,72 l/100 km na Wave Alpha e 1,56 l/100 km na RSX FI, em condições de teste; no trânsito da cidade, conte com mais. A gasolina não entra no preço de referência: o guia do [combustível no aluguer](/precos/combustivel-no-aluguer/) explica como se combina o nível na entrega e na devolução."
+    },
+    {
+      "q": "Posso levar passageiro numa Wave?",
+      "a": "A regra geral no Vietname é um passageiro por mota, e os dois usam capacete. As fichas da Honda não falam do conforto de quem vai atrás, por isso, se vão andar a dois, sentem-se ambos na mota antes de a levarem e confirme que continua a chegar bem ao chão com o peso extra."
+    }
+  ],
+  "sources": [
+    "tabela-precos-proprietario",
+    {
+      "title": "Wave Alpha",
+      "publisher": "Honda Việt Nam",
+      "url": "https://www.honda.com.vn/xe-may/san-pham/wave-alpha-110",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "Wave RSX",
+      "publisher": "Honda Việt Nam",
+      "url": "https://www.honda.com.vn/xe-may/san-pham/wave-rsx",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "SÁCH HƯỚNG DẪN SỬ DỤNG Wave RSX FI",
+      "publisher": "Honda Việt Nam",
+      "url": "https://cdn.honda.com.vn/motorbike-manual/September2025/EzA6x0gXYsjvv9AhkVm2.pdf",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "WAVE 110 HƯỚNG DẪN SỬ DỤNG",
+      "publisher": "Honda Việt Nam",
+      "url": "https://cdn.honda.com.vn/motorbike-manual/September2025/PIcp8XLSxQmsi5X5Twsy.pdf",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "Wave Alpha đã có mặt trên thị trường",
+      "publisher": "VnExpress",
+      "url": "https://vnexpress.net/wave-alpha-da-co-mat-tren-thi-truong-2054284.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    "lei-36-2024-a1",
+    "lawnet-passageiros-2025",
+    "lawnet-capacete-168"
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "READY_FOR_QA"
+}

@@ -1,0 +1,268 @@
+{
+  "contract_version": 1,
+  "id": "PT-0189",
+  "slug": "virar-a-esquerda",
+  "title": "Virar à esquerda de mota em Hanói: técnica e alternativas",
+  "description": "Virar à esquerda de mota em Hanói: o que a lei confirma, como preparar a manobra, quando é melhor não a fazer e como contornar o quarteirão em segurança.",
+  "h1": "A viragem à esquerda em Hanói: como prepará-la, quando a evitar e como dar a volta ao quarteirão",
+  "summary": "Para virar à esquerda de mota em Hanói, prepare a manobra antes do cruzamento: abrande, ligue o pisca cedo, respeite o agente e o semáforo e entre só num intervalo seguro do trânsito que vem de frente. Se uma placa proibir a viragem ou o cruzamento o intimidar, siga em frente e contorne o quarteirão com três viragens à direita.",
+  "key_points": [
+    "Quando as instruções não coincidem, o agente prevalece sobre o semáforo, e este sobre as placas e as marcas no chão; com o vermelho, ninguém vira.",
+    "Prepare a viragem antes do cruzamento: pisca cedo, velocidade baixa e trajetória previsível, sem cortar a curva.",
+    "Entre só num intervalo seguro do trânsito que vem de frente e conte com a hipótese de não o terem visto.",
+    "Se uma placa proibir a viragem ou o cruzamento o intimidar, siga em frente e dê a volta ao quarteirão.",
+    "Uma viragem falhada nunca se corrige em contramão: num sentido único, a coima é de 4 a 6 milhões de VND e perda de 2 pontos."
+  ],
+  "intro": [
+    "Virar à esquerda é a manobra que mais assusta quem começa a conduzir em Hanói. Obriga a atravessar o fluxo de motas que vem de frente, enquanto outras o ultrapassam pelos dois lados e há peões a atravessar a rua onde vai entrar. Num cruzamento movimentado, tudo isto acontece em poucos segundos.",
+    "Este guia separa o que a lei confirma do que é conselho prático. As fontes consultadas a 13 de outubro de 2026 confirmam a ordem de prioridade entre agente, semáforo e placas e as coimas, mas não o texto das regras de cedência de passagem, onde se posicionar para virar à esquerda ou a prioridade nas rotundas. A técnica que se segue é, por isso, prudência e não lei, e há sempre uma alternativa: não virar e dar a volta."
+  ],
+  "sections": [
+    {
+      "h2": "Porque é que a viragem à esquerda é tão exigente",
+      "body": [
+        "Quem vira à esquerda cruza a trajetória de quem vem em sentido contrário e, à saída, a de quem atravessa a pé. Ao mesmo tempo, as motas que vêm atrás continuam a passar-lhe rente, pela esquerda e pela direita. Tem de olhar para mais sítios do que em qualquer outra manobra, e com menos tempo.",
+        "Junta-se um risco que vale para qualquer motociclista: os outros condutores podem não o ter visto. As regras para motociclistas do código da estrada britânico, na versão oficial publicada pelo governo da Irlanda do Norte, lembram que os outros condutores podem não ver uma mota, ou calcular mal a sua velocidade e distância, sobretudo nos cruzamentos. É uma boa prática, não uma regra vietnamita, mas descreve bem o perigo.",
+        "Daí as três ideias deste guia: ser visto, ser previsível e ter sempre uma saída. A saída mais simples é seguir em frente."
+      ]
+    },
+    {
+      "h2": "O que a lei confirma num cruzamento",
+      "body": [
+        "A Lei n.º 36/2024/QH15, em vigor desde 1 de janeiro de 2025, tem um artigo próprio sobre a cedência de passagem nos cruzamentos, o 27.º. Não conseguimos confirmar o texto completo desse artigo, por isso este guia não resume quem cede a passagem a quem. Na dúvida, abrande e deixe passar.",
+        "Quando há várias instruções ao mesmo tempo, vale a ordem de prioridade da lei e da norma de sinalização QCVN 41:2024/BGTVT: primeiro o agente, depois o semáforo, a seguir as placas e, por fim, as marcas no chão. Um gesto do agente conta mais do que a luz, e uma placa conta mais do que uma seta pintada no pavimento.",
+        "Estas são as coimas que podem estar em jogo numa viragem mal feita:",
+        {
+          "table": {
+            "caption": "Coimas ligadas à viragem à esquerda numa mota (Decreto 168/2024/NĐ-CP, valores nacionais)",
+            "head": [
+              "Situação",
+              "Coima",
+              "Pontos"
+            ],
+            "rows": [
+              [
+                "Virar com o semáforo vermelho",
+                "4 a 6 milhões de VND",
+                "Perda de 4 pontos"
+              ],
+              [
+                "Entrar ao contrário numa rua de sentido único (contramão)",
+                "4 a 6 milhões de VND",
+                "Perda de 2 pontos"
+              ],
+              [
+                "Qualquer destas infrações, se causar um acidente",
+                "10 a 14 milhões de VND",
+                "Perda de pontos agravada"
+              ]
+            ]
+          }
+        },
+        "A perda de pontos refere-se ao sistema de 12 pontos das cartas vietnamitas; não está confirmado como se aplica a uma carta estrangeira.",
+        {
+          "note": "Desde 1 de julho de 2026, a Resolução 56/2026/NQ-HĐND de Hanói multiplica por 1,5 ou por 2 as coimas nacionais de 28 infrações de ordem pública e de trânsito. Não está confirmado se passar o vermelho ou circular em contramão estão entre elas; em Hanói, o valor pode ser superior ao da tabela.",
+          "tone": "warn",
+          "title": "Em Hanói, a coima pode ser maior"
+        },
+        {
+          "note": "As fontes consultadas não confirmam o texto das regras de cedência de passagem nos cruzamentos, onde se deve posicionar para virar à esquerda, se há coima própria para uma viragem proibida por placa, nem a regra de prioridade nas rotundas. O que este guia diz sobre esses pontos é conselho prático.",
+          "tone": "info",
+          "title": "O que fica por confirmar"
+        }
+      ]
+    },
+    {
+      "h2": "Preparar a viragem: posição, pisca e velocidade",
+      "body": [
+        "Os passos seguintes são conselhos práticos de condução defensiva. Onde houver um agente, setas no chão ou faixas marcadas, são eles que mandam.",
+        {
+          "steps": [
+            {
+              "title": "Escolha o cruzamento antes de arrancar",
+              "text": "Veja no mapa onde vai virar, com a mota parada. Em andamento, o telemóvel fica guardado: a lei proíbe usá-lo durante a condução."
+            },
+            {
+              "title": "Anuncie a intenção cedo",
+              "text": "Ligue o pisca da esquerda bem antes do cruzamento e confirme nos espelhos quem vem atrás e ao lado."
+            },
+            {
+              "title": "Aproxime-se aos poucos do lado esquerdo da sua metade da via",
+              "text": "Sem mudanças bruscas e sem passar para o lado de quem vem em sentido contrário. Se o trânsito à sua esquerda for denso, abrande e deixe-o passar antes de se deslocar."
+            },
+            {
+              "title": "Abrande e observe",
+              "text": "Olhe para a frente, para os lados e para a rua onde vai entrar: peões, motas a sair de becos e veículos que viram ao mesmo tempo."
+            },
+            {
+              "title": "Entre num intervalo seguro",
+              "text": "Atravesse quando o trânsito que vem de frente deixar espaço, a velocidade baixa e constante. Não force a passagem nem conte com que o deixem passar."
+            },
+            {
+              "title": "Faça a curva completa",
+              "text": "Entre na nova rua do lado direito, sem cortar a curva por dentro, e endireite a mota antes de acelerar."
+            }
+          ]
+        },
+        "Uma trajetória previsível vale mais do que a rapidez. Mudanças de direção à última hora, travagens a meio do cruzamento e ziguezagues entre motas apanham de surpresa quem vem atrás."
+      ]
+    },
+    {
+      "h2": "Com semáforo, sem semáforo ou com um agente",
+      "body": [
+        {
+          "h3": "Com semáforo"
+        },
+        "Com o vermelho, não avance, mesmo que outras motas o façam. Com o verde, lembre-se de que o trânsito de frente pode estar a avançar ao mesmo tempo: o verde dá-lhe passagem, não um caminho livre. Espere pelo intervalo antes de cruzar. As outras infrações que mais dão multa estão no guia sobre [como evitar multas](/guia-de-aluguer/como-evitar-multas/).",
+        {
+          "h3": "Sem semáforo"
+        },
+        "No [Bairro Antigo](/zonas-de-hanoi/conduzir-no-bairro-antigo/), muitos cruzamentos não têm semáforo. Aí, abrande ainda mais, olhe para todas as direções e só entre quando tiver a certeza de que o viram. A buzina não lhe dá prioridade: a lei só a admite para avisar de um perigo ou antes de uma ultrapassagem, como explica o guia sobre [a buzina no Vietname](/guia-de-aluguer/a-buzina-no-vietname/).",
+        {
+          "h3": "Com um agente"
+        },
+        "Se um agente estiver a regular o trânsito, os gestos dele contam mais do que o semáforo. Espere pelo sinal para avançar e, se não o perceber, fique parado até ter uma indicação clara.",
+        {
+          "h3": "Rotundas"
+        },
+        "As fontes consultadas não confirmam a regra de prioridade nas rotundas da lei de 2024, por isso não a indicamos aqui. Na prática, abrande antes de entrar, siga as placas e os agentes e não force a entrada. Nos primeiros dias, se a rotunda for grande e movimentada, procure um percurso que a evite."
+      ]
+    },
+    {
+      "h2": "Quando é melhor não virar: a volta ao quarteirão",
+      "body": [
+        "Muitas vezes, não virar à esquerda é a decisão mais segura. Em vez de virar, siga em frente no cruzamento e faça três viragens à direita. Depois de contornar o quarteirão, volta ao mesmo cruzamento pela rua onde queria entrar e atravessa-o a direito, sem ter de cortar o trânsito que vem de frente.",
+        "Esta volta tem condições:",
+        {
+          "ul": [
+            "**Confirme o sentido de cada rua.** Num bairro com sentidos únicos, a volta pode não fechar no primeiro quarteirão e obrigar a seguir mais à frente.",
+            "**Respeite o vermelho também nas viragens à direita.** Nos cruzamentos com semáforo, só pode virar à direita no vermelho com placa complementar, luz verde para a direita ou ordem de um agente.",
+            "**Nunca a encurte em contramão.** Num sentido único, circular ao contrário dá coima de 4 a 6 milhões de VND, mesmo que seja só um quarteirão.",
+            "**Se uma placa proibir a viragem à esquerda, esta é a solução.** Não vire, mesmo que veja outras motas a fazê-lo."
+          ]
+        },
+        "Há outras saídas práticas. Pode seguir até um cruzamento maior com semáforo, onde a luz organiza a passagem, ou, se o destino estiver perto, estacionar num parque e fazer o resto a pé. Quanto à inversão de marcha, as regras e as placas que a proíbem não foram confirmadas nas fontes consultadas: prefira a volta ao quarteirão."
+      ]
+    },
+    {
+      "h2": "Erros a evitar na viragem à esquerda",
+      "body": [
+        {
+          "checklist": [
+            "**Entrar no cruzamento sem saber se vai conseguir virar.** Espere antes da linha; parado a meio, fica exposto aos dois sentidos.",
+            "**Seguir a mota da frente sem olhar.** Quem vai à frente pode passar num intervalo que já não existe para si.",
+            "**Cortar a curva por dentro.** Entrar na nova rua pelo lado esquerdo põe-no de frente para quem sai dela.",
+            "**Virar a partir do lado direito da via**, cortando à frente das motas que seguem em frente à sua esquerda.",
+            "**Corrigir uma viragem falhada em contramão.** Siga até à rua seguinte e dê a volta ao quarteirão.",
+            "**Buzinar para abrir caminho.** Não lhe dá prioridade, e a lei não prevê esse uso.",
+            "**Consultar o mapa durante a manobra.** O percurso prepara-se com a mota parada."
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "Ganhar confiança nos primeiros dias",
+      "body": [
+        "Nos primeiros dias, escolha percursos com poucas viragens à esquerda, mesmo que sejam mais longos, e evite as horas de ponta. A loja fica em {{area}}. Começar desse lado do rio permite treinar antes de entrar nas ruas estreitas do centro histórico, e o guia sobre o [aluguer de motas em Long Biên](/zonas-de-hanoi/aluguer-de-motas-em-long-bien/) mostra como preparar essa primeira saída.",
+        "Ao levantar a mota, pergunte à loja que cruzamentos do seu percurso são mais difíceis e se há uma alternativa simples. A loja está aberta {{hours}}, e o contacto está em [Contactos](/contactos/).",
+        "Se, mesmo com treino, a viragem o deixar inseguro, adapte o percurso. E há dias em que é melhor deixar a mota parada: o guia [quando não conduzir em Hanói](/rotas-e-mobilidade/quando-nao-conduzir/) enumera-os. O resto da preparação está no [guia de aluguer](/guia-de-aluguer/)."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Posso virar à esquerda com o vermelho se não vier ninguém?",
+      "a": "Não. O vermelho proíbe avançar, haja ou não trânsito à vista. A coima é de 4 a 6 milhões de VND, com perda de 4 pontos, no valor nacional. Espere pela luz que lhe dá passagem ou pela ordem de um agente."
+    },
+    {
+      "q": "E se falhar a rua onde queria virar?",
+      "a": "Não trave a meio do cruzamento nem volte para trás em contramão. Siga até à rua seguinte, confirme o sentido e dê a volta ao quarteirão. Num sentido único, circular ao contrário custa 4 a 6 milhões de VND e perda de 2 pontos, mesmo que seja só um quarteirão."
+    },
+    {
+      "q": "Uma scooter automática facilita a viragem à esquerda?",
+      "a": "Ajuda, porque não tem de pensar nas mudanças a meio do cruzamento; numa semiautomática, convém chegar já na mudança certa. A técnica é a mesma: abrandar, sinalizar e esperar pelo intervalo. Compare os modelos na página das [scooters automáticas](/tipos-de-motas/scooters/)."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Luật Trật tự, an toàn giao thông đường bộ 2024 số 36/2024/QH15",
+      "publisher": "Thư Viện Pháp Luật",
+      "url": "https://thuvienphapluat.vn/van-ban/Giao-thong-Van-tai/Luat-trat-tu-an-toan-giao-thong-duong-bo-444251.aspx",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "Đèn đỏ được rẽ phải không?",
+      "publisher": "Thư Viện Pháp Luật",
+      "url": "https://thuvienphapluat.vn/hoi-dap-phap-luat/den-do-duoc-re-phai-khong-138071946.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "Cập nhật QCVN 41:2024/BGTVT về báo hiệu đường bộ",
+      "publisher": "Thư viện Nhà đất",
+      "url": "https://thuviennhadat.vn/phap-luat/cap-nhat-qcvn-412024bgtvt-ve-bao-hieu-duong-bo-641069.html",
+      "accessed": "2026-10-13",
+      "type": "reference",
+      "lang": "vi"
+    },
+    {
+      "title": "Tải Nghị định 168 NĐ CP 2024 pdf: Xử phạt hành chính về giao thông",
+      "publisher": "LuatVietnam",
+      "url": "https://luatvietnam.vn/giao-thong/tai-nghi-dinh-168-nd-cp-2024-pdf-xu-phat-hanh-chinh-ve-giao-thong-863-103957-article.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "Điều khiển xe máy vượt đèn đỏ, đi trên vỉa hè bị phạt từ 4-6 triệu đồng",
+      "publisher": "Portal de divulgação jurídica da cidade de Cần Thơ (pbgdpl.cantho.gov.vn)",
+      "url": "https://pbgdpl.cantho.gov.vn/dieu-khien-xe-may-vuot-den-do-di-tren-via-he-bi-phat-tu-4-6-trieu-dong",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "vi"
+    },
+    {
+      "title": "Nhiều lỗi vi phạm giao thông tăng mạnh mức phạt từ ngày 1.1.2025",
+      "publisher": "Báo Văn hóa",
+      "url": "https://baovanhoa.vn/giao-thong/nhieu-loi-vi-pham-giao-thong-tang-manh-muc-phat-tu-ngay-112025-117360.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Điểm bằng lái: Trừ ra sao, phục hồi thế nào?",
+      "publisher": "Cổng Thông tin điện tử tỉnh Hà Tĩnh",
+      "url": "https://hatinh.gov.vn/vi/bai-viet/diem-bang-lai-tru-ra-sao-phuc-hoi-the-nao",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "vi"
+    },
+    {
+      "title": "Rules for motorcyclists (83 to 88)",
+      "publisher": "nidirect (Governo da Irlanda do Norte)",
+      "url": "https://nidirect.gov.uk/articles/rules-motorcyclists-83-88",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "title": "What time is it prohibited to use honk in Vietnam from January 1, 2025?",
+      "publisher": "LawNet",
+      "url": "https://lawnet.vn/chinh-sach-thue/en/what-time-is-it-prohibited-to-use-honk-in-vietnam-from-january-1-2025-20284.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "en"
+    },
+    "lawnet-passageiros-2025",
+    "hanoi-resolucao-56-2026"
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "READY_FOR_QA"
+}

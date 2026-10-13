@@ -1,0 +1,180 @@
+{
+  "contract_version": 1,
+  "id": "PT-0280",
+  "slug": "tufoes-e-alertas-meteorologicos",
+  "title": "Tufões e alertas meteorológicos: quando não sair de mota",
+  "description": "Onde acompanhar os avisos de tempestade no Vietname, que alertas devem cancelar uma saída de mota em Hanói e o que fazer se o mau tempo o apanhar na estrada.",
+  "h1": "Tufão, chuva forte ou inundações em Hanói: onde ver os alertas e quando deixar a mota parada",
+  "summary": "Não saia de mota quando houver aviso de tufão ou de chuva muito forte para Hanói ou para o seu percurso, nem enquanto as ruas estiverem alagadas. Os avisos vêm do Centro Nacional de Previsão Hidrometeorológica e chegam pela imprensa vietnamita; a época das tempestades tem o pico em julho, e as mais fortes podem surgir no fim da época.",
+  "key_points": [
+    "Julho é apresentado como o pico da época das tempestades, mas as tempestades fortes podem chegar no fim da época.",
+    "Os avisos oficiais são do Centro Nacional de Previsão Hidrometeorológica (Trung tâm Dự báo Khí tượng Thủy văn Quốc gia), que a imprensa vietnamita cita.",
+    "Com aviso para Hanói ou para o percurso, a mota fica no parque e as viagens para fora da cidade adiam-se.",
+    "Os restos de uma tempestade bastam para inundar a cidade: a 7 de outubro de 2025, houve ruas com mais de 1 m de água.",
+    "Em perigo, ligue para o 112, número nacional de busca e salvamento que recebe também comunicações de catástrofes naturais; a chamada é gratuita."
+  ],
+  "intro": [
+    "No Vietname, as tempestades tropicais fazem parte do calendário do verão e do início do outono. E uma tempestade não precisa de passar por cima de Hanói para mudar o trânsito da cidade: a 7 de outubro de 2025, a chuva associada aos restos da tempestade Matmo inundou muitas ruas e deixou centenas de veículos parados na água.",
+    "Este guia mostra onde acompanhar os avisos oficiais, que sinais devem levar a cancelar ou adiar uma saída de mota e o que fazer se o mau tempo o apanhar a meio do caminho. Para as restantes situações em que a mota deve ficar parada, incluindo a chuva forte do dia a dia, veja o guia [quando é melhor não conduzir em Hanói](/rotas-e-mobilidade/quando-nao-conduzir/)."
+  ],
+  "sections": [
+    {
+      "h2": "Quando é maior o risco de tempestades",
+      "body": [
+        "A imprensa vietnamita apresenta julho como o pico da época das tempestades, com avisos do serviço meteorológico para vários fenómenos perigosos. O risco não acaba aí: tempestades fortes e muito fortes podem surgir no fim da época, e as cheias nos rios do Norte são possíveis de junho a outubro.",
+        "Na previsão para 2026, o Centro Nacional de Previsão Hidrometeorológica contava com 8 a 10 tempestades no Mar do Sul da China (Biển Đông), 3 a 5 delas com possível impacto direto no território. Segundo a imprensa, o El Niño reduziria o número de tempestades, mas não o perigo: o diretor do centro, Mai Văn Khiêm, alertou para o risco de tempestades fortes e de comportamento anómalo, com o mar mais quente.",
+        {
+          "note": "Estes números são da previsão para a época de 2026 e mostram uma tendência, não o tempo de um dia concreto. Para a sua viagem, o que conta é o aviso em vigor nos dias em que vai conduzir.",
+          "tone": "info",
+          "title": "Previsão da época e aviso do dia"
+        }
+      ]
+    },
+    {
+      "h2": "Onde consultar os alertas oficiais",
+      "body": [
+        "Os avisos de tempestade, chuva forte e cheias no Vietname vêm do Centro Nacional de Previsão Hidrometeorológica, em vietnamita Trung tâm Dự báo Khí tượng Thủy văn Quốc gia. Quando há uma tempestade a caminho, os jornais vietnamitas, como a VietnamPlus ou o Sài Gòn Giải Phóng, citam as suas previsões e os seus avisos.",
+        "Para quem está de passagem e não lê vietnamita, o mais prático é combinar três fontes:",
+        {
+          "ul": [
+            "**A imprensa vietnamita**, com a ajuda de um tradutor no telemóvel: pesquise o nome do centro ou as palavras da tabela abaixo.",
+            "**A receção do alojamento**: pergunte se há aviso para esse dia e se a rua costuma alagar com chuva forte.",
+            "**A loja**: antes de uma saída longa, pergunte o que prefere que faça com a mota se o tempo piorar."
+          ]
+        },
+        {
+          "table": {
+            "caption": "Palavras que aparecem nos avisos e nas notícias em vietnamita",
+            "head": ["Em vietnamita", "Significado"],
+            "rows": [
+              ["bão", "tempestade; as tempestades tropicais mais fortes são os tufões"],
+              ["bão số 1, bão số 2…", "tempestade n.º 1, n.º 2…, pela ordem em que surgem na época"],
+              ["mưa lớn", "chuva forte"],
+              ["mưa dông, sét", "trovoada, raio"],
+              ["ngập", "inundação, rua alagada"],
+              ["lũ", "cheia de um rio"],
+              ["cảnh báo", "aviso, alerta"],
+              ["thiên tai", "catástrofe natural"]
+            ]
+          }
+        },
+        "Em caso de perigo, ligue para os números de emergência. O 112 é o número nacional de busca e salvamento e, segundo uma decisão do Primeiro-Ministro de 2025, também a linha para comunicar incidentes e catástrofes naturais. Está ligado às linhas da polícia (113), dos bombeiros (114) e da emergência médica (115), e as chamadas de emergência são gratuitas."
+      ]
+    },
+    {
+      "h2": "Quando cancelar ou adiar uma saída",
+      "body": [
+        "Um aviso oficial para a sua zona é razão suficiente para mudar o plano do dia. A tabela resume as decisões mais comuns:",
+        {
+          "table": {
+            "caption": "Avisos meteorológicos e o que fazer com a mota",
+            "head": ["Situação", "Em Hanói", "Viagem para fora da cidade"],
+            "rows": [
+              ["Aviso de tempestade (bão) para o Norte", "Mota no parque enquanto durar o aviso; deslocações essenciais de táxi", "Adiar a partida e avisar a loja"],
+              ["Aviso de chuva forte (mưa lớn) ou de trovoada", "Só trajetos curtos, com abrigo à vista", "Não partir nesse dia"],
+              ["Ruas alagadas (ngập) no caminho", "Outro caminho, ou esperar que a água baixe", "Confirmar o estado das estradas antes de sair"],
+              ["Cheias (lũ) na região de destino", "—", "Adiar: as estradas locais podem ficar afetadas"],
+              ["A tempestade já passou", "Esperar que as ruas escoem antes de sair", "Confirmar nas notícias se as estradas estão transitáveis"]
+            ]
+          }
+        },
+        "Depois de uma noite de chuva forte, não conte com a cidade seca de manhã: a 17 de setembro de 2026, foi de madrugada que a água cobriu o pavimento de muitas ruas de Hanói e muitos veículos foram abaixo.",
+        {
+          "note": "As fontes consultadas não indicam até que altura uma scooter pode entrar na água sem avariar, e a água esconde buracos e tampas soltas. Se não vê o fundo, não passe.",
+          "tone": "warn",
+          "title": "Nenhuma altura de água é «segura»"
+        }
+      ]
+    },
+    {
+      "h2": "Se o mau tempo o apanhar a meio do caminho",
+      "body": [
+        "Mesmo com a previsão vista de manhã, uma trovoada ou uma chuvada podem chegar antes do esperado. O que fazer depende do que encontrar.",
+        { "h3": "Trovoada" },
+        "Nuvens escuras, ar mais frio de repente e vento forte indicam que a trovoada está perto. Depois de duas pessoas terem morrido atingidas por raios em Gia Lâm, em Hanói, especialistas citados pela imprensa vietnamita deixaram conselhos gerais que também se aplicam a quem vai de mota:",
+        {
+          "ul": [
+            "abrigar-se dentro de um edifício, como uma casa, um escritório ou um centro comercial, ou num veículo fechado;",
+            "afastar-se de árvores altas, postes, linhas elétricas e terrenos abertos, sem ficar junto deles, de pé ou sentado;",
+            "afastar-se de objetos condutores, incluindo a própria mota, e tirar do corpo relógio, telemóvel e cinto com fivela metálica;",
+            "manter-se longe de lagos, tanques e outras massas de água."
+          ]
+        },
+        "Quanto menor o intervalo entre o relâmpago e o trovão, mais perto está o raio. Espere abrigado até a trovoada passar e só depois volte à mota.",
+        { "h3": "Rua alagada ou mota parada na água" },
+        "Volte para trás ou espere, num sítio seco, que a água baixe. Se a mota parar dentro de água, não insista em ligá-la: empurre-a para um sítio seguro, fotografe-a e envie a fotografia e a localização à loja. O guia sobre [assistência na estrada](/guia-de-aluguer/assistencia-na-estrada/) mostra que ajuda procurar quando a mota não pode andar.",
+        { "h3": "Feridos ou perigo imediato" },
+        "Com feridos ou em perigo, a primeira chamada é para a emergência, não para a loja: 115 para a emergência médica, 113 para a polícia e 112 para salvamento e catástrofes naturais. Avise a loja e o alojamento quando estiver em segurança."
+      ]
+    },
+    {
+      "h2": "Viagens fora de Hanói na época das tempestades",
+      "body": [
+        "Fora da cidade, o mau tempo tem outras consequências. As cheias nos rios do Norte são possíveis de junho a outubro. Em Mai Châu, o portal oficial de turismo do Vietname avisa que as cheias da monção podem afetar as estradas locais de junho a agosto e, em Hà Giang, as estradas ficam molhadas e escorregadias de maio a agosto.",
+        "Nestes meses, prefira saídas que possa adiar e deixe pelo menos um dia de folga antes da devolução. Antes de partir, confirme o aviso desse dia e diga à loja para onde vai: o guia sobre [levar a mota para fora de Hanói](/guia-de-aluguer/autorizacao-para-sair-de-hanoi/) explica o que combinar.",
+        "Se o aviso chegar com a viagem em curso, não arrisque a estrada para cumprir a hora de devolução. Avise a loja antes da hora combinada, diga quando conta regressar e peça a confirmação por escrito, como explica o guia sobre [atrasos na devolução](/guia-de-aluguer/atraso-na-devolucao/). Se tiver de mudar as datas antes de levantar a mota, o guia sobre [alterar ou cancelar a reserva](/precos/alterar-ou-cancelar-a-reserva/) mostra como pedir a alteração por escrito."
+      ]
+    },
+    {
+      "h2": "A mota alugada antes e depois da tempestade",
+      "body": [
+        "Enquanto durar o aviso, deixe a mota num sítio coberto e longe dos pontos que alagam com facilidade; pergunte no alojamento qual é o melhor lugar. Se tiver de seguir de táxi, leve consigo os documentos da mota em vez de os deixar no compartimento do assento. O guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/) lista os papéis que a acompanham.",
+        "Passada a tempestade, dê uma volta à mota antes de a usar: pneus, travões, luzes e qualquer dano novo. Se esteve dentro de água ou ficou danificada no estacionamento, fotografe-a e fale com a loja antes de conduzir; o guia sobre a [mota danificada no estacionamento](/guia-de-aluguer/mota-danificada-estacionada/) explica como registar o que encontrou.",
+        "Num aluguer entre junho e outubro, vale a pena deixar combinado com a loja, logo na reserva:",
+        {
+          "checklist": [
+            "o que fazer com a mota se houver aviso de tempestade durante o aluguer;",
+            "como se resolve um atraso na devolução causado por mau tempo;",
+            "a quem ligar se a mota parar numa rua alagada, dentro e fora do horário da loja."
+          ]
+        },
+        "Pode tratar destes pontos por telefone ou Zalo, para o {{phone}}, {{hours}}; os restantes contactos estão na página de [contactos](/contactos/). Outros guias para circular na cidade estão reunidos em [Rotas e mobilidade](/rotas-e-mobilidade/)."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Uma tempestade longe de Hanói pode afetar a cidade?",
+      "a": "Pode. A 7 de outubro de 2025, a circulação residual da tempestade Matmo trouxe a Hanói uma chuva intensa, concentrada em pouco tempo, que inundou muitas ruas e deixou centenas de veículos parados na água. Um aviso para o Norte merece atenção, mesmo que a trajetória da tempestade não passe pela cidade."
+    },
+    {
+      "q": "Posso devolver a mota mais tarde por causa do mau tempo?",
+      "a": "Depende do que combinar com a loja. Avise antes da hora de devolução, diga quando consegue chegar e peça que o novo horário e o eventual custo fiquem por escrito; não presuma que há tolerância. O guia sobre [atrasos na devolução](/guia-de-aluguer/atraso-na-devolucao/) mostra o que dizer na mensagem."
+    },
+    {
+      "q": "Que número devo ligar se ficar retido por uma inundação?",
+      "a": "Se estiver em perigo, ligue para o 112, o número nacional de busca e salvamento, que recebe também comunicações de catástrofes naturais; se houver feridos, para o 115. As chamadas de emergência são gratuitas. Quando estiver em segurança, avise a loja e o alojamento."
+    }
+  ],
+  "sources": [
+    { "title": "Mùa bão năm 2026 trên Biển Đông có thể xuất hiện từ tháng 6", "publisher": "Sài Gòn Giải Phóng (SGGP)", "url": "https://www.sggp.org.vn/mua-bao-nam-2026-tren-bien-dong-co-the-xuat-hien-tu-thang-6-post852810.html", "accessed": "2026-10-13", "type": "news", "lang": "vi" },
+    { "title": "Năm 2026 dự báo số cơn bão giảm nhưng nắng nóng khốc liệt hơn", "publisher": "Mekong ASEAN", "url": "https://mekongasean.vn/nam-2026-du-bao-so-con-bao-giam-nhung-nang-nong-khoc-liet-hon-51600.html", "accessed": "2026-10-13", "type": "news", "lang": "vi" },
+    { "title": "Năm nay bão ít nhưng có thể rất mạnh, bất thường", "publisher": "Báo Mới", "url": "https://baomoi.com/nam-nay-bao-it-nhung-co-the-rat-manh-bat-thuong-c54713962.epi", "accessed": "2026-10-13", "type": "news", "lang": "vi" },
+    { "title": "Tháng 7 là cao điểm mùa bão, cơ quan khí tượng phát cảnh báo về nhiều hình thái thiên tai nguy hiểm", "publisher": "Ngôi Sao", "url": "https://ngoisao.vn/theo-dong-su-kien/tin-nong-trong-ngay/thang-7-la-cao-diem-mua-bao-co-quan-khi-tuong-phat-canh-bao-ve-nhieu-hinh-thai-thien-tai-nguy-hiem-d487153.html", "accessed": "2026-10-13", "type": "news", "lang": "vi" },
+    { "title": "Những nơi được dự báo mưa lớn trong tháng 7/2026", "publisher": "Báo Mới", "url": "https://baomoi.com/nhung-noi-duoc-du-bao-mua-lon-trong-thang-7-2026-c55465054.epi", "accessed": "2026-10-13", "type": "news", "lang": "vi" },
+    { "title": "Những cơn bão mạnh, rất mạnh có khả năng xuất hiện ở cuối mùa bão", "publisher": "VietnamPlus", "url": "https://www.vietnamplus.vn/nhung-con-bao-manh-rat-manh-co-kha-nang-xuat-hien-o-cuoi-mua-bao-post1122636.vnp", "accessed": "2026-10-13", "type": "news", "lang": "vi" },
+    { "title": "Notícias sobre ruas alagadas em Hanói, incluindo a chuva de 17 de setembro de 2026 (em vietnamita)", "publisher": "CafeF", "url": "https://cafef.vn/bien-nuoc.html", "accessed": "2026-10-13", "type": "news", "lang": "vi" },
+    { "title": "Notícia sobre ruas de Hanói transformadas em rios depois de uma chuvada prolongada (em vietnamita)", "publisher": "Đại biểu Nhân dân", "url": "https://daibieunhandan.vn/ha-noi-pho-thanh-song-chi-sau-con-mua-to-keo-dai-10389409.html", "accessed": "2026-10-13", "type": "news", "lang": "vi" },
+    { "title": "29 điểm ở Hà Nội ngập nặng, giao thông đình trệ, nhiều ôtô \"chết\" trong nước", "publisher": "VOH", "url": "https://voh.com.vn/giao-thong/29-diem-o-ha-noi-ngap-nang-giao-thong-dinh-tre-nhieu-oto-chet-trong-nuoc-624898.html", "accessed": "2026-10-13", "type": "news", "lang": "vi" },
+    { "title": "Hà Nội ngập tứ bề, người dân ngã sõng soài, xe chết máy la liệt giữa phố", "publisher": "Báo Mới", "url": "https://baomoi.com/Tag/d%E1%BA%AFt-xe/trang16.epi", "accessed": "2026-10-13", "type": "news", "lang": "vi" },
+    { "title": "Đang đi đường Hà Nội gặp mưa dông, người dân cần làm gì để tránh sét đánh?", "publisher": "Báo Pháp Luật Việt Nam", "url": "https://baophapluat.vn/dang-di-duong-ha-noi-gap-mua-dong-nguoi-dan-can-lam-gi-de-tranh-set-danh-post413187.html", "accessed": "2026-10-13", "type": "news", "lang": "vi" },
+    { "title": "2 người tử vong do sét đánh, tránh điện phóng từ trên trời xuống cách nào?", "publisher": "Báo Pháp Luật Việt Nam", "url": "https://baophapluat.vn/2-nguoi-tu-vong-do-set-danh-tranh-dien-phong-tu-tren-troi-xuong-cach-nao-post476852.html", "accessed": "2026-10-13", "type": "news", "lang": "vi" },
+    { "title": "Tự phòng tránh sét mùa mưa", "publisher": "VnExpress", "url": "https://vnexpress.net/tu-phong-tranh-set-mua-mua-2827876.html", "accessed": "2026-10-13", "type": "news", "lang": "vi" },
+    { "title": "Mưa dông kèm lốc sét: Những kỹ năng phòng tránh cần biết", "publisher": "Báo Quốc tế", "url": "https://baoquocte.vn/mua-dong-kem-loc-set-nhung-ky-nang-phong-tranh-can-biet-427693.html", "accessed": "2026-10-13", "type": "news", "lang": "vi" },
+    { "title": "Notícia sobre como se proteger de trovoadas e raios (em vietnamita)", "publisher": "VietNamNet", "url": "https://vietnamnet.vn/nam-vung-ky-nang-ve-phong-tranh-dong-set-de-bao-ve-nguoi-tai-san-2243796.html", "accessed": "2026-10-13", "type": "news", "lang": "vi" },
+    { "title": "Tuyen Quang", "publisher": "Vietnam Tourism (vietnam.travel)", "url": "https://vietnam.travel/places-to-go/northern-vietnam/ha-giang", "accessed": "2026-10-13", "type": "official", "lang": "en" },
+    { "title": "The Ha Giang Loop", "publisher": "Vietnam Tourism (vietnam.travel)", "url": "https://vietnam.travel/node/1641", "accessed": "2026-10-13", "type": "official", "lang": "en" },
+    { "title": "Ha Giang Loop: Where nature and culture come in one", "publisher": "Vietnam Tourism (vietnam.travel)", "url": "https://vietnam.travel/things-to-do/ha-giang-loop-where-nature-and-culture-come-one", "accessed": "2026-10-13", "type": "official", "lang": "en" },
+    { "title": "Ha Giang", "publisher": "Vietnam Tourism (vietnam.travel)", "url": "https://vietnam.travel/node/199", "accessed": "2026-10-13", "type": "official", "lang": "en" },
+    { "title": "Mai Chau", "publisher": "Vietnam Tourism (vietnam.travel)", "url": "https://vietnam.travel/index.php/places-to-go/northern-vietnam/mai-chau", "accessed": "2026-10-13", "type": "official", "lang": "en" },
+    { "title": "7 essential things to do in Mai Chau", "publisher": "Vietnam Tourism (vietnam.travel)", "url": "https://vietnam.travel/things-to-do/7-essential-things-do-mai-chau", "accessed": "2026-10-13", "type": "official", "lang": "en" },
+    { "title": "Gọi đến các đầu số khẩn cấp như 113, 114, 115... thì có được miễn phí cước điện thoại hay không?", "publisher": "Thư Viện Pháp Luật", "url": "https://thuvienphapluat.vn/phap-luat/goi-den-cac-dau-so-khan-cap-nhu-113-114-115-thi-co-duoc-mien-phi-cuoc-dien-thoai-hay-khong-23081.html", "accessed": "2026-10-13", "type": "legal-database", "lang": "vi" },
+    { "title": "Quyết định 2024/QĐ-TTg 2025 Quy chế sử dụng số điện thoại 112 tiếp nhận thông tin sự cố, thiên tai", "publisher": "LuatVietnam", "url": "https://luatvietnam.vn/tai-nguyen/quyet-dinh-2024-qd-ttg-2025-quy-che-su-dung-so-dien-thoai-112-tiep-nhan-thong-tin-su-co-thien-tai-411548-d1.html", "accessed": "2026-10-13", "type": "legal-database", "lang": "vi" },
+    { "title": "112 trở thành số điện thoại khẩn cấp quốc gia", "publisher": "VOH", "url": "https://voh.com.vn/xa-hoi/112-tro-thanh-so-dien-thoai-khan-cap-quoc-gia-619717.html", "accessed": "2026-10-13", "type": "news", "lang": "vi" },
+    { "title": "Tổng đài 112 - số điện thoại tiếp nhận thông tin về sự cố, thảm họa", "publisher": "Sài Gòn Giải Phóng (SGGP)", "url": "https://www.sggp.org.vn/tong-dai-112-so-dien-thoai-tiep-nhan-thong-tin-ve-su-co-tham-hoa-post803914.html", "accessed": "2026-10-13", "type": "news", "lang": "vi" },
+    { "title": "Gọi đến đầu số 113, 114, 115 có được miễn phí cước điện thoại không?", "publisher": "Luật Minh Khuê", "url": "https://luatminhkhue.vn/goi-den-dau-so-113-114-115-co-duoc-mien-phi-cuoc-dien-thoai-khong.aspx", "accessed": "2026-10-13", "type": "reference", "lang": "vi" }
+  ],
+  "legal_note": true,
+  "writer": { "type": "claude", "name": "Claude (Claude Code)" },
+  "status": "READY_FOR_QA"
+}

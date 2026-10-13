@@ -1,0 +1,245 @@
+{
+  "contract_version": 1,
+  "id": "PT-0014",
+  "slug": "smart-key-scooters-honda",
+  "title": "Smart Key da Honda: como ligar, trancar e o que fazer se falhar",
+  "description": "Como usar a chave inteligente (Smart Key) de uma scooter Honda alugada: ligar, bloquear o guiador, abrir o assento e o que fazer se a mota não responder.",
+  "h1": "Chave inteligente nas scooters Honda: o comando no dia a dia e quando a mota não o reconhece",
+  "summary": "Numa scooter Honda com Smart Key, a mota só obedece com o comando por perto: com ele no bolso, o botão rotativo da ignição liga a mota, bloqueia o guiador e abre o assento. Se a mota deixar de reconhecer o comando, aproxime-o e afaste-o de outros aparelhos; se nada mudar, contacte a loja em vez de tentar o desbloqueio de emergência.",
+  "key_points": [
+    "O comando não entra na ignição: basta estar perto da mota para o botão rotativo funcionar.",
+    "Ao deixar a mota, rode o botão para OFF ou LOCK: na posição SEAT, o assento ainda pode ser aberto.",
+    "Uma pilha fraca no comando ou aparelhos com interferência por perto podem impedir a mota de o reconhecer.",
+    "O desbloqueio de emergência descrito pela Honda exige um código e mexe em fichas elétricas: numa mota alugada, fica para a loja.",
+    "Os gestos mudam com o modelo e o ano: peça que lhos mostrem na unidade que vai levar."
+  ],
+  "intro": [
+    "A chave inteligente, a que a Honda chama Smart Key, troca a chave tradicional por um comando que anda no bolso. Em vez de meter uma chave na ignição, roda-se um botão no guiador, e a mota só obedece se reconhecer o comando por perto. É prática no dia a dia, mas confunde quem a usa pela primeira vez: o botão não responde, o assento não abre ou a mota não volta a ligar depois de uma paragem.",
+    "Este guia trata do uso diário do comando numa scooter Honda e do que fazer quando o sistema falha com o comando na sua mão. Apoia-se em documentação da Honda Vietname consultada em outubro de 2026: a página da Vision, a apresentação da Vision 2026, o manual da SH Mode e as perguntas frequentes da marca. A unidade que lhe entregam pode ser de outro modelo ou de outro ano e ter outros pormenores, por isso peça que lhe mostrem tudo na entrega. Se o comando desapareceu, o caso é outro e tem guia próprio: [perdi a chave da mota alugada](/guia-de-aluguer/perdi-a-chave/)."
+  ],
+  "sections": [
+    {
+      "h2": "Como funciona a chave inteligente da Honda",
+      "body": [
+        "Segundo a Honda Vietname, a Vision tem chave inteligente: o sistema elétrico da mota liga-se e desliga-se através de uma ligação sem fios ao comando, a que a marca chama FOB. A Vision 2026 mantém a função. Há também versões da [Honda Air Blade](/tipos-de-motas/honda-air-blade-125-ou-160/) com este sistema.",
+        "Para quem vem de uma chave convencional, mudam três hábitos:",
+        {
+          "ul": [
+            "**Não há chave para rodar.** O comando fica no bolso, e o que se roda é o botão da ignição, no guiador.",
+            "**O comando tem de estar perto.** Fora da zona de funcionamento, o botão não liga a mota.",
+            "**O mesmo botão faz quase tudo.** Liga e desliga o sistema elétrico, bloqueia o guiador e abre o assento, conforme a posição em que o deixa."
+          ]
+        },
+        {
+          "note": "Na Vision, a chave inteligente depende da versão, e as mais simples usam chave convencional, como explica o guia da [Honda Vision em Hanói](/tipos-de-motas/honda-vision-em-hanoi/). Se este equipamento for importante para si, pergunte à loja, antes de reservar, que versão lhe vai entregar.",
+          "tone": "info",
+          "title": "Nem todas as unidades têm Smart Key"
+        }
+      ]
+    },
+    {
+      "h2": "Ligar e desligar a mota com o comando",
+      "body": [
+        "A sequência exata muda de modelo para modelo. Na prática, ligar uma scooter com chave inteligente passa por estes passos:",
+        {
+          "steps": [
+            {
+              "title": "Comando consigo",
+              "text": "Guarde-o no bolso de quem conduz, e não no do passageiro, que se pode afastar numa paragem."
+            },
+            {
+              "title": "Botão da ignição",
+              "text": "Com o comando por perto, o botão rotativo passa a responder: rode-o para ligar o sistema elétrico, com o gesto que lhe mostrarem na entrega."
+            },
+            {
+              "title": "Descanso recolhido",
+              "text": "Recolha o descanso lateral. Segundo a Honda Vietname, o interruptor do descanso corta o motor quando o descanso desce, e o motor só arranca com ele levantado."
+            },
+            {
+              "title": "Arranque",
+              "text": "Carregue no botão de arranque com o acelerador fechado e um travão apertado, como em qualquer scooter."
+            },
+            {
+              "title": "Desligar",
+              "text": "No fim, rode o botão para OFF. Antes de se afastar, confirme que o comando continua consigo: sem ele por perto, a mota não volta a ligar."
+            }
+          ]
+        },
+        "Se alugou [duas motas para um casal](/precos/uma-mota-ou-duas-para-um-casal/), há um cuidado extra: dois comandos parecidos trocam-se com facilidade, e cada um só serve a sua mota. Marque-os com porta-chaves diferentes ou guarde cada um sempre no mesmo bolso de quem conduz a mota respetiva."
+      ]
+    },
+    {
+      "h2": "Bloquear o guiador e abrir o assento",
+      "body": [
+        "O botão rotativo faz também de fechadura da mota. É com ele que se bloqueia o guiador ao estacionar e que se abre o assento, onde costumam ficar a capa de chuva e os objetos pequenos.",
+        "O manual da SH Mode, outra scooter Honda com chave inteligente, deixa um aviso a reter: ao sair da mota, deixe o botão em OFF ou em LOCK, porque na posição SEAT o assento ainda pode ser aberto. Um botão esquecido em SEAT deixa o compartimento ao alcance de quem passar. Pergunte se a sua unidade tem as mesmas posições e qual delas bloqueia o guiador.",
+        "Ao estacionar, crie uma rotina e repita-a sempre pela mesma ordem:",
+        {
+          "checklist": [
+            "botão na posição que bloqueia o guiador (LOCK, no manual da SH Mode) ou, pelo menos, em OFF;",
+            "comando no bolso, e não no porta-objetos nem debaixo do assento;",
+            "nada de valor no compartimento do assento;",
+            "assento bem fechado: empurre-o e confirme que não levanta."
+          ]
+        },
+        "Como a mota reconhece o comando pela proximidade, deixá-lo no porta-objetos ou no compartimento do assento pode equivaler a deixar a chave na ignição. O comando anda consigo, mesmo numa paragem de cinco minutos."
+      ]
+    },
+    {
+      "h2": "Quando a mota não reconhece o comando",
+      "body": [
+        "Se o botão não responde e o comando está consigo, não perdeu a chave: falta perceber porque é que a mota não o reconhece. O manual da SH Mode aponta causas possíveis. A zona de funcionamento pode ficar maior ou menor do que o normal, e o sistema pode falhar com a pilha do comando fraca ou com aparelhos que causem interferências por perto.",
+        "Com a mota parada num sítio seguro, tente por esta ordem:",
+        {
+          "ol": [
+            "**Confirme que é o comando certo.** Com duas motas alugadas, é fácil trocá-los.",
+            "**Aproxime o comando da mota** e volte a rodar o botão, sem forçar.",
+            "**Afaste-o de outros aparelhos.** Tire-o do bolso onde leva o telemóvel, um carregador ou outro comando e tente de novo.",
+            "**Repita os gestos da entrega**, devagar e pela ordem que lhe ensinaram.",
+            "**Se nada mudar, pare de tentar.** Não force o botão, não abra o comando e não mexa em fichas ou fusíveis: ligue para a loja pelo {{phone}}."
+          ]
+        },
+        "Diga logo que o comando está consigo e que a mota não o reconhece, e envie a localização e uma fotografia do painel. Se a mota ficou parada no meio da rua, empurre-a primeiro para fora da via: o guia de [assistência na estrada](/guia-de-aluguer/assistencia-na-estrada/) mostra a ordem a seguir nos primeiros minutos."
+      ]
+    },
+    {
+      "h2": "O desbloqueio de emergência: o que é e porque fica com a loja",
+      "body": [
+        "Nas suas perguntas frequentes, a Honda Vietname descreve um procedimento de emergência para quando a chave inteligente não funciona, pensado para os comandos de três botões. Em resumo, envolve:",
+        {
+          "ul": [
+            "abrir o assento com a chave de emergência;",
+            "retirar a tampa da bateria e introduzir um código de identificação (ID);",
+            "confirmar que a luz da chave inteligente pisca depois do último dígito;",
+            "desligar a ficha do modo EM e voltar a ligar a ficha de teste verde, até a buzina tocar duas vezes e a ignição ficar desbloqueada."
+          ]
+        },
+        "A página não diz a que modelos e anos se aplica, nem onde se obtém o código. Numa mota alugada, há ainda outras razões para não tentar sozinho: a mota e o comando são da loja, o procedimento mexe na parte elétrica e um passo mal feito transforma uma falha do comando numa avaria. Peça à loja que lhe diga o que fazer, ou que trate ela do assunto.",
+        {
+          "note": "Fichas, fusíveis e a tampa da bateria não são para mexer numa mota alugada sem instruções da loja. Se lhe pedirem que faça algum passo, peça as instruções por escrito, de preferência com fotografias, e siga-as à letra.",
+          "tone": "warn",
+          "title": "Não improvise na parte elétrica"
+        },
+        "Na entrega, vale a pena perguntar se a unidade tem chave de emergência e quem a guarda durante o aluguer."
+      ]
+    },
+    {
+      "h2": "Pilha do comando: sinais e o que combinar",
+      "body": [
+        "O manual da SH Mode avisa que uma pilha fraca no comando pode impedir o sistema de funcionar. O tipo de pilha e a forma de a trocar variam de comando para comando, e não estão descritos nas fontes da Honda citadas neste guia.",
+        "Num aluguer, o mais sensato é avisar a loja ao primeiro sinal de falha, em vez de esperar que o comando deixe de funcionar de vez. Na mesma conversa, pergunte:",
+        {
+          "checklist": [
+            "se pode trocar a pilha por si e qual deve comprar, ou se a loja prefere tratar disso;",
+            "o que fazer se o comando falhar fora do horário da loja, que funciona {{hours}};",
+            "se há um segundo comando ou uma chave de emergência para esta mota."
+          ]
+        },
+        "Num [aluguer mensal](/precos/aluguer-mensal-de-mota/), esta conversa compensa ainda mais: combine logo no início o que acontece se a pilha acabar a meio, e guarde a resposta por escrito."
+      ]
+    },
+    {
+      "h2": "O que pedir que lhe mostrem na entrega",
+      "body": [
+        "Cinco minutos com a chave na loja poupam muito tempo na rua. Peça para fazer cada gesto pelas suas mãos, com quem lhe entrega a mota ao lado:",
+        {
+          "checklist": [
+            "ligar e desligar a mota, com o comando no seu bolso;",
+            "as posições do botão rotativo e a que bloqueia o guiador;",
+            "abrir e fechar o assento;",
+            "para que serve cada botão do comando, se o comando tiver botões;",
+            "o que fazer se a mota não reconhecer o comando, e se existe chave de emergência;",
+            "a quem ligar e como enviar a localização se isso acontecer na rua."
+          ]
+        },
+        "As restantes verificações da entrega, dos travões aos documentos, estão no guia sobre [receber a mota alugada](/guia-de-aluguer/receber-a-mota/). Para comparar modelos antes de reservar, veja as [scooters automáticas para alugar em Hanói](/tipos-de-motas/scooters/). Para confirmar se a unidade que lhe propõem tem chave inteligente, use os [contactos da loja](/contactos/)."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "O motor desligou-se e o comando está comigo. A culpa é da chave?",
+      "a": "Nem sempre. Se a mota tem Idling Stop, o motor desliga-se sozinho poucos segundos depois de parar e volta a pegar quando roda o acelerador. Se baixou o descanso lateral, o interruptor do descanso corta o motor. Fora destes casos, se a mota não voltar a ligar, encoste num sítio seguro e contacte a loja."
+    },
+    {
+      "q": "Posso deixar o comando com o passageiro?",
+      "a": "Não é boa ideia. A mota só volta a ligar com o comando por perto, e um passageiro afasta-se com facilidade numa paragem: entra numa loja, vai tirar uma fotografia, atravessa a rua. O comando anda com quem conduz e muda de bolso quando trocarem de condutor."
+    },
+    {
+      "q": "Posso trocar a pilha do comando sozinho?",
+      "a": "Só com o acordo da loja. A Honda indica que uma pilha fraca pode impedir o sistema de funcionar, mas o comando pertence à loja, e o tipo de pilha e a forma de a trocar dependem do modelo. Pergunte se a loja prefere tratar do assunto ou que pilha deve comprar."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Página do modelo Honda Vision no site da Honda Việt Nam",
+      "publisher": "Honda Việt Nam",
+      "url": "https://www.honda.com.vn/xe-may/san-pham/vision?category=2",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "Notícia da Honda Việt Nam sobre a nova versão da Vision 2026 (em vietnamita)",
+      "publisher": "Honda Việt Nam",
+      "url": "https://www.honda.com.vn/xe-may/tin-tuc/honda-viet-nam-gioi-thieu-phien-ban-moi-mau-xe-vision-2026-bat-sac-tu-tin",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "SH MODE HƯỚNG DẪN SỬ DỤNG",
+      "publisher": "Honda Việt Nam",
+      "url": "https://cdn.honda.com.vn/motorbike-manual/September2025/LqBycQConAOw1xIB2JDJ.pdf",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "Perguntas frequentes da Honda Việt Nam sobre o uso da mota (em vietnamita)",
+      "publisher": "Honda Việt Nam",
+      "url": "https://www.honda.com.vn/cau-hoi-thuong-gap?category=san-pham&category_child=tu-van-su-dung-xe-may",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "Perguntas frequentes da Honda Việt Nam: informações gerais (em vietnamita)",
+      "publisher": "Honda Việt Nam",
+      "url": "https://honda.com.vn/cau-hoi-thuong-gap?category=&category_child=&category_tab=thong-tin-chung",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "Air Blade — Hướng dẫn sử dụng (manual do utilizador, PDF em vietnamita)",
+      "publisher": "Honda Việt Nam",
+      "url": "https://cdn.honda.com.vn/motorbike-manual/September2025/NC8346r3AExXZtAvFuMG.pdf",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "Honda Vision thế hệ mới được ra mắt tại Việt Nam, giá từ 30 triệu đồng",
+      "publisher": "Doanh Nhân — Báo Pháp luật Việt Nam",
+      "url": "https://doanhnhan.baophapluat.vn/honda-vision-the-he-moi-duoc-ra-mat-tai-viet-nam-gia-tu-30-trieu-dong-35960.html",
+      "accessed": "2026-10-12",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Xe máy Honda gặp lỗi Idling Stop khiến người dùng bất an",
+      "publisher": "VietnamFinance",
+      "url": "https://vietnamfinance.vn/xe-may-honda-gap-loi-idling-stop-khien-nguoi-dung-bat-an-d94272.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    }
+  ],
+  "legal_note": false,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "READY_FOR_QA"
+}

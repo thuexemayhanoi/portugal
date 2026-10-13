@@ -1,0 +1,257 @@
+{
+  "contract_version": 1,
+  "id": "PT-0213",
+  "slug": "hospitais-para-estrangeiros",
+  "title": "Hospital em Hanói para estrangeiros: onde ir após um acidente",
+  "description": "Que hospitais e clínicas de Hanói os guias indicam a estrangeiros, quando ligar para o 115, o que levar e o que tratar com o seguro antes de ir.",
+  "h1": "Depois de uma queda de mota em Hanói: que hospital ou clínica procurar sendo estrangeiro",
+  "summary": "Com feridos graves, ligue para o 115, o número de emergência médica do Vietname. Para estrangeiros, os guias de viagem e de expatriados consultados referem o Hospital Francês de Hanói, o Vinmec Times City, a clínica Family Medical Practice e o hospital público Bạch Mai. Não encontrámos uma lista oficial portuguesa: confirme a unidade e a morada com o seu seguro antes de ir.",
+  "key_points": [
+    "Com feridos graves, a primeira chamada é o 115, o número nacional de emergência médica; a chamada é gratuita.",
+    "Os guias consultados referem para estrangeiros o Hospital Francês de Hanói, o Vinmec Times City, a clínica Family Medical Practice e o hospital público Bạch Mai.",
+    "A Family Medical Practice é uma clínica, e não um hospital completo: para um traumatismo grave, procure uma urgência hospitalar.",
+    "Se a situação o permitir, ligue para a assistência do seguro antes de escolher: o pagamento direto depende da unidade e da apólice.",
+    "As moradas não coincidem entre guias: confirme-as no mapa antes de se deslocar.",
+    "O apoio consular pode facilitar o contacto com o hospital, mas não paga as despesas."
+  ],
+  "intro": [
+    "Uma queda de mota raramente acontece perto do alojamento e nunca à hora certa. Nesse momento, a escolha do sítio para onde ir depende da gravidade, da língua, do seguro e da distância, e é mais fácil decidir se já conhecer as opções.",
+    "Este guia reúne as unidades de saúde de Hanói que os guias de viagem e de expatriados consultados em outubro de 2026 referem para estrangeiros, o que cada uma é e o que deve confirmar antes de se deslocar. Não encontrámos uma lista oficial portuguesa ou de uma embaixada. Por isso, os nomes vêm com as cautelas devidas, e sem moradas quando as fontes não coincidem."
+  ],
+  "sections": [
+    {
+      "h2": "Primeiro a gravidade: quando ligar para o 115",
+      "body": [
+        "Se alguém ficou ferido com gravidade, não procure um hospital por conta própria: ligue para o 115, o número nacional de emergência médica no Vietname. A chamada é gratuita. A polícia atende pelo 113 e os bombeiros pelo 114. Quem vem de Portugal está habituado ao 112, por isso guarde estes números no telemóvel antes de sair com a mota.",
+        "Enquanto a ajuda não chega, os conselhos de um folheto da Proteção Civil de Vila Franca de Xira sobre acidentes rodoviários também servem em Hanói:",
+        {
+          "ul": [
+            "pare em segurança antes de telefonar e desligue o motor das motas acidentadas;",
+            "sinalize o local, para que os outros condutores o vejam a tempo;",
+            "não tire o capacete a um motociclista ferido;",
+            "aja depressa, mas, sem formação, não mexa nos feridos."
+          ]
+        },
+        "Não desvalorize uma pancada na cabeça. Segundo a OMS, o traumatismo craniano é a principal causa de morte dos motociclistas. Mesmo que se sinta bem depois da queda, procure uma avaliação médica."
+      ]
+    },
+    {
+      "h2": "Hospital ou clínica: escolher pela gravidade",
+      "body": [
+        "Fora dos casos de urgência, a escolha depende do que aconteceu. Esta tabela ajuda a decidir; em caso de dúvida, trate a situação como grave.",
+        {
+          "table": {
+            "caption": "Para onde ir depois de uma queda de mota",
+            "head": ["Situação", "Onde procurar ajuda", "Atenção"],
+            "rows": [
+              ["Ferimentos graves, suspeita de fratura ou pancada forte na cabeça", "Urgência hospitalar, de preferência chamando o 115", "Não conduza nem deixe o ferido conduzir"],
+              ["Escoriações e dores depois de uma queda ligeira", "Uma clínica ou a urgência de um hospital, depois de falar com o seguro", "Confirme o horário e a morada antes de ir"],
+              ["Queimadura no escape", "Uma unidade de saúde, para avaliar a lesão", "Arrefeça logo com água limpa; não aplique pasta de dentes nem remédios caseiros"]
+            ]
+          }
+        },
+        "A queimadura no escape parece um mal menor, mas não deve esperar. O Hospital Tâm Anh descreve um caso em que atrasar a consulta levou a infeção e a sinais de necrose. Nas crianças, uma queimadura de segundo grau ou superior deve ser vista de imediato.",
+        "O primeiro gesto, segundo médicos do Hospital Chợ Rẫy citados pelo VnExpress, é arrefecer a zona com água limpa durante 15 a 30 minutos, de preferência nos primeiros 30 minutos. Não use álcool, iodopovidona nem água oxigenada, e não rebente as bolhas."
+      ]
+    },
+    {
+      "h2": "As unidades mais referidas para estrangeiros",
+      "body": [
+        "Os quatro nomes seguintes aparecem nos guias de viagem e de expatriados consultados. São guias comerciais, não oficiais, e nem sempre coincidem: indicamos o que dizem e o que deve confirmar. O nome em vietnamita ajuda a encontrar a unidade no mapa e a mostrá-la ao taxista.",
+        {
+          "table": {
+            "caption": "Hospitais e clínicas referidos para estrangeiros em Hanói (guias consultados em outubro de 2026)",
+            "head": ["Unidade", "O que dizem os guias", "O que confirmar"],
+            "rows": [
+              ["Hospital Francês de Hanói (Bệnh viện Việt Pháp)", "Urgência 24 horas, médicos que falam inglês e faturação direta com grandes seguradoras", "A morada: os guias situam-no em zonas diferentes da cidade"],
+              ["Vinmec Times City", "Referido como opção para estrangeiros", "A morada: os guias indicam moradas diferentes"],
+              ["Family Medical Practice", "Clínica, e não um hospital completo, na zona de Ba Đình, segundo um dos guias", "Se trata o seu caso e a que horas atende"],
+              ["Hospital Bạch Mai (Bệnh viện Bạch Mai)", "Um dos principais hospitais públicos do país, que trata emergências complexas; os guias aconselham ir com alguém que fale vietnamita", "Como vai comunicar e como vai pagar"]
+            ]
+          }
+        },
+        {
+          "note": "Os guias dão moradas diferentes para o Hospital Francês e para o Vinmec Times City, por isso não as publicamos. Procure o nome em vietnamita no mapa, confirme a morada com a linha de assistência do seguro ou com a própria unidade e mostre o nome escrito ao taxista.",
+          "tone": "warn",
+          "title": "Moradas: confirme sempre"
+        },
+        "Em vietnamita, hospital diz-se «bệnh viện»: é a palavra a procurar nas placas e no mapa. Outras unidades podem servir; esta lista limita-se ao que as fontes consultadas referem."
+      ]
+    },
+    {
+      "h2": "Antes de ir: falar com o seguro",
+      "body": [
+        "Se a situação não for de vida ou de morte, ligue primeiro para a linha de assistência do seu seguro de viagem. Pergunte para onde deve ir e se a seguradora paga diretamente à unidade ou se terá de adiantar o pagamento e pedir o reembolso depois. Os guias dizem que o Hospital Francês tem faturação direta com grandes seguradoras, mas confirme se a sua é uma delas.",
+        "Guarde os relatórios médicos, as faturas e os recibos, e fotografe-os logo que os receber. São estes papéis que vai apresentar à seguradora.",
+        "Se a apólice não cobrir acidentes de mota, as despesas ficam a seu cargo. O seguro obrigatório da mota destina-se a terceiros e não paga os seus ferimentos, como explica o guia do [seguro obrigatório de mota](/guia-de-aluguer/seguro-obrigatorio-de-mota/).",
+        { "h3": "O apoio consular" },
+        "O apoio consular português pode facilitar o contacto com hospitais em caso de acidente ou doença, mas não paga contas médicas. Se precisar dessa ajuda, contacte o Gabinete de Emergência Consular: +351 217 929 714, +351 961 706 472 ou [gec@mne.pt](mailto:gec@mne.pt)."
+      ]
+    },
+    {
+      "h2": "O que levar e como comunicar",
+      "body": [
+        "Se puder preparar a ida, leve consigo:",
+        {
+          "checklist": [
+            "o passaporte ou, se o original não estiver consigo, uma cópia;",
+            "a apólice do seguro de viagem e o número de assistência;",
+            "um cartão bancário e algum dinheiro;",
+            "o telemóvel carregado e o carregador;",
+            "o nome da unidade escrito em vietnamita e a morada do alojamento, também em vietnamita;",
+            "a lista dos medicamentos que toma e das alergias que tem."
+          ]
+        },
+        "Para o Bạch Mai, os guias aconselham ir acompanhado de alguém que fale vietnamita. Se estiver sozinho, peça ajuda ao alojamento e escreva em vez de falar: frases curtas, mostradas no ecrã do telemóvel, funcionam melhor do que a pronúncia. Duas frases úteis, retiradas do guia sobre [comunicar sem falar vietnamita](/guia-de-aluguer/comunicar-sem-falar-vietnamita/):",
+        {
+          "table": {
+            "caption": "Frases para mostrar escritas no telemóvel",
+            "head": ["Em português", "Em vietnamita"],
+            "rows": [
+              ["Não falo vietnamita.", "Tôi không nói được tiếng Việt."],
+              ["Pode escrever, por favor?", "Bạn có thể viết ra giúp tôi không?"]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "h2": "Depois do hospital: a mota, a loja e a polícia",
+      "body": [
+        "Logo que a situação médica o permita, avise a loja pelo {{phone}}, mesmo que a mota pareça intacta. Diga onde ficou a mota, em que estado está e se a polícia esteve no local.",
+        "Não volte a conduzir enquanto o médico o desaconselhar ou se estiver a tomar medicação que afete a atenção. Se não puder devolver a mota na data combinada, avise a loja com antecedência; o guia sobre [atraso na devolução](/guia-de-aluguer/atraso-na-devolucao/) explica como.",
+        "Fotografe a mota, guarde os papéis que a polícia lhe entregar e trate os danos com a loja, segundo o que foi combinado. Os guias sobre [danos na mota alugada](/precos/danos-na-mota-alugada/) e sobre o [controlo da polícia](/guia-de-aluguer/controlo-da-policia/) ajudam nos passos seguintes, e o [guia de aluguer](/guia-de-aluguer/) reúne o resto."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Qual é o número da ambulância no Vietname?",
+      "a": "É o 115, o número nacional de emergência médica. A polícia é o 113 e os bombeiros o 114. Segundo a lei vietnamita das telecomunicações, as chamadas para os números de emergência são gratuitas."
+    },
+    {
+      "q": "Os hospitais de Hanói aceitam diretamente o meu seguro de viagem?",
+      "a": "Depende da unidade e da apólice. Os guias consultados dizem que o Hospital Francês de Hanói tem faturação direta com grandes seguradoras, mas isso não quer dizer que a sua esteja entre elas. Ligue para a linha de assistência antes de ir e pergunte."
+    },
+    {
+      "q": "O consulado português paga o hospital?",
+      "a": "Não. O apoio consular pode facilitar o contacto com hospitais em caso de acidente ou doença, mas não paga contas médicas. Essas despesas ficam a seu cargo ou da sua seguradora, conforme a apólice."
+    },
+    {
+      "q": "Uma queimadura no escape justifica ir a uma clínica?",
+      "a": "Sim, para avaliar a lesão. Arrefeça primeiro a zona com água limpa e não aplique pasta de dentes nem outros remédios caseiros. Um hospital vietnamita descreve um caso em que atrasar a consulta levou a infeção, e as crianças com queimaduras de segundo grau ou superior devem ser vistas de imediato."
+    }
+  ],
+  "sources": [
+    {
+      "title": "New WHO guide aims to boost the use of life-saving helmets for motorcycle riders",
+      "publisher": "World Health Organization",
+      "url": "https://www.who.int/news/item/05-04-2023-new-who-guide-aims-to-boost-the-use-of-life-saving-helmets-for-motorcycle-riders",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "title": "Gọi đến các đầu số khẩn cấp như 113, 114, 115... thì có được miễn phí cước điện thoại hay không?",
+      "publisher": "Thư Viện Pháp Luật",
+      "url": "https://thuvienphapluat.vn/phap-luat/goi-den-cac-dau-so-khan-cap-nhu-113-114-115-thi-co-duoc-mien-phi-cuoc-dien-thoai-hay-khong-23081.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "Acidentes Rodoviários",
+      "publisher": "Câmara Municipal de Vila Franca de Xira (Proteção Civil)",
+      "url": "https://www.cm-vfxira.pt/uploads/document/file/345/Acidentes_Rodovi_rios.pdf",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "pt"
+    },
+    {
+      "title": "Bỏng bô xe và sơ cứu đúng cách",
+      "publisher": "VnExpress",
+      "url": "https://vnexpress.net/bong-bo-xe-va-so-cuu-dung-cach-2926578.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Sơ cứu đúng khi bị bỏng bô, bỏng nhiệt",
+      "publisher": "Vinmec",
+      "url": "https://www.vinmec.com/vi/tin-tuc/thong-tin-suc-khoe/so-cuu-dung-khi-bi-bong-bo-bong-nhiet",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Sơ cứu trẻ bị phỏng ống bô xe máy",
+      "publisher": "Vinmec",
+      "url": "https://www.vinmec.com/vie/bai-viet/so-cuu-tre-bi-phong-ong-bo-xe-may-vi",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Nguy cơ hoại tử da do bỏng bô xe máy",
+      "publisher": "Bệnh viện Đa khoa Tâm Anh",
+      "url": "https://tamanhhospital.vn/tin-tuc/nguy-co-hoai-tu-da-do-bong-bo-xe-may/",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Hospitals and clinics in Vietnam: a tourist's guide to medical care in Hanoi, HCMC and Da Nang",
+      "publisher": "vietnamtourism.com (site comercial, não oficial)",
+      "url": "https://www.vietnamtourism.com/en/hospitals-and-clinics-in-vietnam-a-tourist-s-guide-to-medical-care-in-hanoi-hcmc-and-da-nang",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "en"
+    },
+    {
+      "title": "Medical emergencies in Vietnam's big cities: what travelers need to know",
+      "publisher": "vietnamtourism.com (site comercial, não oficial)",
+      "url": "https://www.vietnamtourism.com/en/medical-emergencies-in-vietnam-s-big-cities-what-travelers-need-to-know",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "en"
+    },
+    {
+      "title": "Health Care in Hanoi",
+      "publisher": "Expat Exchange",
+      "url": "https://expatexchange.com/article/6739/Health-Care-in-Hanoi-Health-Care-in-Hanoi",
+      "accessed": "2026-10-13",
+      "type": "reference",
+      "lang": "en"
+    },
+    {
+      "title": "Vietnam hospitals & pharmacies",
+      "publisher": "vietnamspot.ru",
+      "url": "https://vietnamspot.ru/en/blog/vietnam-hospitals-pharmacies",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "en"
+    },
+    {
+      "title": "Contactos de emergência consular",
+      "publisher": "gov.pt",
+      "url": "https://www2.gov.pt/-/contactos-de-emerg%C3%AAncia-consular-1",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "pt"
+    },
+    {
+      "title": "Flyer Viagens ao estrangeiro versão 01.06.2020 final",
+      "publisher": "Câmara Municipal de Mêda",
+      "url": "https://cdn.cm-meda.pt/Documentos/Avisos-e-Editais/2020/Flyer_Viagens_ao_estrangeiro_versão_01.06.2020_final.pdf",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "pt"
+    }
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "READY_FOR_QA"
+}

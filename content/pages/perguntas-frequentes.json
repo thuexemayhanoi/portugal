@@ -9,7 +9,7 @@
   "primaryKeyword": "perguntas frequentes aluguer de motas hanói",
   "eyebrow": "Dúvidas antes de alugar",
   "lead": "Vinte respostas curtas sobre reservas, preços, documentos, regras de trânsito e utilização da mota. Quando a resposta depende do seu caso, dizemos o que confirmar.",
-  "updated": "2026-10-12",
+  "updated": "2026-10-13",
   "toc": true,
   "groups": [
     {
@@ -91,7 +91,7 @@
         {
           "id": "capacete",
           "q": "O capacete é obrigatório?",
-          "a": "Sim, para quem conduz e para o passageiro. A coima por não usar capacete é de 400.000 a 600.000 VND (Decreto 168/2024/NĐ-CP). Pergunte à loja que capacetes estão disponíveis e verifique se o seu fica bem ajustado."
+          "a": "Sim, para quem conduz e para o passageiro. A coima por não usar capacete é de 400.000 a 600.000 VND (Decreto 168/2024/NĐ-CP). Esse é o valor nacional: desde 1 de julho de 2026, Hanói multiplica por 1,5 ou 2 as coimas de 28 infrações de ordem pública e de trânsito, pelo que o montante cobrado na cidade pode ser mais alto. Pergunte à loja que capacetes estão disponíveis e verifique se o seu fica bem ajustado."
         },
         {
           "id": "alcool",
@@ -146,6 +146,7 @@
     "tuoitre-alcool-zero",
     "lei-36-2024-artigo-56",
     "dtinews-autoestrada-2026",
-    "tabela-precos-proprietario"
+    "tabela-precos-proprietario",
+    "hanoi-resolucao-56-2026"
   ]
 }

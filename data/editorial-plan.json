@@ -8655,6 +8655,7 @@
       "cannibalization_with": [],
       "hold_reason": null,
       "intent_reviewed": true,
+      "guard_reviewed": true,
       "editorial_qa_status": "PLANNED",
       "metrics": {
         "search_volume": null,

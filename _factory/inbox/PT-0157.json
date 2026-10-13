@@ -1,0 +1,405 @@
+{
+  "contract_version": 1,
+  "id": "PT-0157",
+  "slug": "e-seguro-andar-de-mota-em-hanoi",
+  "title": "É seguro andar de mota em Hanói? Riscos reais e como reduzi-los",
+  "description": "Quantas pessoas morrem nas estradas do Vietname, que peso têm as motas nesses números e que medidas reduzem de facto o risco de quem conduz em Hanói.",
+  "h1": "Andar de mota em Hanói: o que dizem os números e o que reduz o risco",
+  "summary": "Andar de mota em Hanói tem um risco real, que não convém esconder nem exagerar. O Vietname contou 9.549 mortos na estrada em 11 meses de 2025 e, segundo dados de 2024, 57% das vítimas mortais seguiam em veículos de duas rodas. Mas várias das medidas que mais protegem dependem de si: capacete apertado, zero álcool, carta válida, prática e prudência com chuva e à noite.",
+  "key_points": [
+    "Entre 15 de dezembro de 2024 e 14 de novembro de 2025, o Vietname registou 9.549 mortos na estrada, menos 18,03% do que no mesmo período anterior.",
+    "Segundo dados citados em 2024, os veículos de duas rodas representam 57% das mortes nas estradas vietnamitas.",
+    "As fontes consultadas não têm números próprios de Hanói: os totais conhecidos são nacionais.",
+    "Segundo a OMS, um capacete seguro e de qualidade reduz o risco de morte em mais de seis vezes.",
+    "Carta e licença válidas, zero álcool, mota verificada, visibilidade e prudência com chuva e à noite completam as medidas que dependem de si.",
+    "Num acidente com feridos, ligue para o 115 (emergência médica) ou para o 113 (polícia); as chamadas são gratuitas."
+  ],
+  "intro": [
+    "Quem chega a Hanói e vê o trânsito pela primeira vez — motas lado a lado, quase a tocar-se, cruzamentos onde ninguém parece parar — faz quase sempre a mesma pergunta: é seguro conduzir aqui? A resposta honesta não cabe num sim ou num não. Depende de números que convém conhecer e, sobretudo, do que cada condutor faz para não entrar neles.",
+    "Este guia reúne os dados de sinistralidade disponíveis, explica o que dizem e o que não dizem e traduz-os em medidas concretas, pela ordem em que se tomam: antes de alugar, antes de cada saída, na estrada e se algo correr mal. Se nunca conduziu uma mota, a resposta é mais direta e está no guia [antes de alugar uma scooter sem experiência](/tipos-de-motas/nunca-conduziu-uma-mota/)."
+  ],
+  "sections": [
+    {
+      "h2": "O que dizem os números do Vietname",
+      "body": [
+        "O balanço mais recente nas fontes consultadas é o da Comissão Nacional de Segurança Rodoviária do Vietname (Ủy ban An toàn giao thông Quốc gia). Cobre os primeiros 11 meses de 2025, contados de 15 de dezembro de 2024 a 14 de novembro de 2025:",
+        {
+          "table": {
+            "caption": "Sinistralidade rodoviária no Vietname, de 15 de dezembro de 2024 a 14 de novembro de 2025",
+            "head": [
+              "Indicador",
+              "Total",
+              "Face ao mesmo período anterior"
+            ],
+            "rows": [
+              [
+                "Acidentes",
+                "16.938",
+                "−23,42%"
+              ],
+              [
+                "Mortos",
+                "9.549",
+                "−18,03%"
+              ],
+              [
+                "Feridos",
+                "11.224",
+                "−24,21%"
+              ]
+            ]
+          }
+        },
+        "A tendência é de descida, e não é pequena. Mas os valores continuam altos: segundo a imprensa vietnamita, o balanço de 2025 aponta para uma média de mais de 28 mortos por dia nas estradas do país, e o Governo pediu um modelo de gestão mais exigente a partir de 2026.",
+        "As motas pesam muito nestes números. Um documento de 2024 da organização Vital Strategies, que cita a mesma comissão nacional, indica que os veículos de duas rodas representam 57% de todas as mortes na estrada. O padrão vem de trás: num estudo publicado no boletim da Organização Mundial da Saúde (OMS), os dados oficiais de 2008 registavam 11.243 mortos e 7.771 feridos graves, e estimava-se que 60% dos mortos fossem condutores ou passageiros de motas."
+      ]
+    },
+    {
+      "h2": "Como ler estes números sem alarmismo",
+      "body": [
+        "Os números são sérios, mas é fácil tirar deles conclusões erradas. Três cuidados ajudam a lê-los:",
+        {
+          "ul": [
+            "**São totais nacionais.** Juntam as cidades, as estradas nacionais e as de montanha. As fontes consultadas não dão números próprios de Hanói, por isso não é possível dizer, com dados, se a capital é mais ou menos perigosa do que o resto do país.",
+            "**Não medem o risco de cada viagem.** Um total de mortos não diz quantas pessoas andaram de mota nem quantos quilómetros fizeram. Sozinho, não permite calcular a probabilidade de um acidente num passeio de um dia.",
+            "**Não separam os visitantes.** Nenhuma das fontes indica quantas vítimas eram estrangeiras. Um visitante, porém, junta fatores que pesam: uma mota que não conhece, um trânsito novo, o cansaço da viagem e, às vezes, pouca prática."
+          ]
+        },
+        "Para ter uma referência mais familiar: em Portugal, entre 2022 e 2024, houve mais de 32 mil acidentes com vítimas envolvendo veículos de duas rodas a motor, com 573 mortos e mais de 2.600 feridos graves. Os números foram divulgados em março de 2026 pela ANSR, pela GNR e pela PSP, na campanha «Duas Rodas: Agarre-se à Vida».",
+        "Populações, frotas e períodos diferentes não permitem comparar os dois países à letra. A lição, essa, é a mesma: em duas rodas, não há carroçaria entre o corpo e o asfalto."
+      ]
+    },
+    {
+      "h2": "Os riscos que mais pesam para quem chega de fora",
+      "body": [
+        "As estatísticas não detalham a causa de cada acidente. Ainda assim, há fatores de risco bem identificados pela OMS, pelas regras de trânsito vietnamitas e pelas autoridades de segurança rodoviária, e um visitante consegue controlar a maior parte deles:",
+        {
+          "table": {
+            "caption": "Principais riscos para quem aluga uma mota em Hanói e como os reduzir",
+            "head": [
+              "Risco",
+              "Porque pesa",
+              "O que fazer"
+            ],
+            "rows": [
+              [
+                "Lesão na cabeça",
+                "Segundo a OMS, o traumatismo craniano é a principal causa de morte dos motociclistas",
+                "Capacete de qualidade, do tamanho certo e apertado, também para o passageiro"
+              ],
+              [
+                "Pouca prática ou mota desconhecida",
+                "Num trânsito denso, não há tempo para hesitar",
+                "Primeiros quilómetros em percursos calmos; sem experiência, não conduzir"
+              ],
+              [
+                "Álcool",
+                "A lei vietnamita não admite nenhum álcool a quem conduz",
+                "Decidir antes de sair: se há bebida, não há mota"
+              ],
+              [
+                "Carta ou licença em falta",
+                "Coima num controlo e um seguro que pode recusar pagar",
+                "Carta com categoria de motociclos e licença internacional"
+              ],
+              [
+                "Chuva forte, ruas alagadas e noite",
+                "Menos aderência e menos visibilidade",
+                "Esperar abrigado, adiar ou trocar de transporte"
+              ],
+              [
+                "Não ser visto",
+                "Os outros condutores podem calcular mal a sua distância ou velocidade",
+                "Roupa clara ou refletora, luzes a funcionar, movimentos previsíveis"
+              ],
+              [
+                "Roubo por esticão",
+                "Uma mala ao ombro ou pendurada na mota chama a atenção",
+                "Malas no compartimento e telemóvel guardado em andamento"
+              ]
+            ]
+          }
+        },
+        "As secções seguintes explicam as medidas com mais efeito, começando pela que tem os números mais claros."
+      ]
+    },
+    {
+      "h2": "O capacete e o que os estudos dizem dele",
+      "body": [
+        "Segundo a OMS, o traumatismo craniano é a principal causa de morte de quem anda de mota. Um capacete seguro e de qualidade reduz o risco de morte em mais de seis vezes e o de lesão cerebral até 74%.",
+        "Outras fontes chegam a valores diferentes, porque usam métodos e dados de outros anos. Em 2006, a mesma organização falava em quase 40% menos mortes e cerca de 70% menos lesões. A campanha portuguesa de 2024 da ANSR, da GNR e da PSP fala em 40% menos risco de morte com um capacete homologado e bem apertado. Todas apontam no mesmo sentido.",
+        "No Vietname, o capacete é obrigatório para quem conduz e para quem vai atrás, e tem de ir apertado; sem ele, arrisca uma coima. O uso generalizou-se: segundo uma análise da The New Humanitarian, passou de cerca de 40% dos adultos em 2007 para mais de 90% em fevereiro de 2011. Nas crianças, um estudo de 2011 apontava cerca de 30%, um lembrete para quem viaja em família.",
+        "O capacete só protege se servir e estiver em bom estado. Um capacete largo pode sair da cabeça numa queda, e uma fivela por fechar deixa-o soltar-se. O guia sobre [quantos capacetes pedir e que tamanho escolher](/precos/capacetes-no-aluguer/) mostra como medir a cabeça, testar o ajuste e recusar um capacete gasto.",
+        "O resto do corpo também conta. A ANSR recomenda luvas, casaco com proteções nos ombros, cotovelos e costas, calças com certificação CE e botas, mesmo nos percursos curtos ou de rotina. Com o calor de Hanói, é tentador dispensá-los; numa queda, a pele exposta é a primeira a pagar."
+      ]
+    },
+    {
+      "h2": "Antes de alugar: o que se resolve em casa",
+      "body": [
+        "Parte da segurança decide-se antes da viagem, longe do trânsito:",
+        {
+          "checklist": [
+            "**Carta com a categoria certa e licença internacional.** Desde 1 de janeiro de 2025, a lei vietnamita exige a categoria A1 para motociclos até 125 cm³ e a categoria A acima disso. Segundo o IMT, a licença internacional acompanha a carta portuguesa, mas não lhe acrescenta categorias. A lista do que levar está no guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/).",
+            "**Um seguro de viagem que cubra a mota.** Confirme na apólice se cobre acidentes a conduzir, até que cilindrada e com que habilitação. A seguradora World Nomads, por exemplo, avisa que sem licença internacional válida ou carta vietnamita o seguro de viagem não vale, mesmo com carta de mota no país de origem. O [seguro obrigatório da mota](/guia-de-aluguer/seguro-obrigatorio-de-mota/) cobre danos a terceiros, não os seus ferimentos.",
+            "**Prática real.** Se nunca conduziu uma mota, Hanói não é sítio para aprender. Com pouca prática, prefira uma scooter automática e reserve os primeiros dias para percursos calmos.",
+            "**Equipamento pessoal.** Luvas, óculos e roupa que cubra braços e pernas não dependem da loja: cabem na mala."
+          ]
+        },
+        "O que arrisca quem conduz sem a habilitação certa, da coima num controlo ao seguro que recusa pagar, está no guia sobre [conduzir sem carta válida](/guia-de-aluguer/conduzir-sem-carta-valida/)."
+      ]
+    },
+    {
+      "h2": "Antes de cada saída: quatro verificações",
+      "body": [
+        {
+          "steps": [
+            {
+              "title": "A mota",
+              "text": "Travões, pneus, luzes e espelhos verificam-se com cuidado na entrega e, depois, com um olhar rápido antes de cada saída. O guia sobre como [receber a mota alugada](/guia-de-aluguer/receber-a-mota/) mostra o que observar."
+            },
+            {
+              "title": "O capacete",
+              "text": "Fivela fechada e justa, para si e para quem vai atrás, antes de ligar o motor."
+            },
+            {
+              "title": "O álcool",
+              "text": "Se a saída inclui bebida, a mota fica no alojamento. Desde 1 de janeiro de 2025, a lei vietnamita não admite nenhuma concentração de álcool a quem conduz; o guia do [álcool zero ao volante](/guia-de-aluguer/alcool-zero-ao-volante/) explica a regra."
+            },
+            {
+              "title": "O tempo e o percurso",
+              "text": "Chuva forte, ruas alagadas, cansaço ou um regresso de noite por estradas desconhecidas são razões para mudar de plano. Confirme também que o caminho não passa por uma autoestrada, onde as motas são proibidas. O guia [quando é melhor não conduzir](/rotas-e-mobilidade/quando-nao-conduzir/) reúne estas situações e as alternativas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "Na estrada: os hábitos que mais protegem",
+      "body": [
+        "Uma ideia resume quase tudo: conte com a possibilidade de não ter sido visto. O código da estrada britânico (Highway Code), aqui citado como boa prática e não como lei vietnamita, pede ao motociclista que se torne o mais visível possível, de lado, de frente e de trás. E pede-lhe que admita que os outros condutores o podem não ter visto ou ter calculado mal a sua distância ou velocidade, sobretudo nos cruzamentos.",
+        {
+          "ul": [
+            "**Visibilidade.** Capacete claro ou de cor viva, roupa fluorescente de dia e refletora à noite, como sugerem as mesmas regras.",
+            "**Previsibilidade.** Sinalize as mudanças de direção com tempo e evite movimentos bruscos; nos cruzamentos, abrande e olhe antes de avançar.",
+            "**Mãos livres.** A lei vietnamita proíbe usar o telemóvel e segurar um guarda-chuva enquanto conduz. Escolha o percurso com a mota parada.",
+            "**Margem com chuva.** Com piso molhado, os travões respondem pior: abrande e deixe mais distância para a mota da frente.",
+            "**Malas seguras.** A polícia aconselha a não pendurar sacos na mota nem os levar ao ombro e a guardá-los no compartimento debaixo do assento. Tarde da noite, evite ruas desertas, sobretudo se anda sozinho."
+          ]
+        },
+        "Nos primeiros dias, junte a isto um ritmo mais lento: trajetos curtos, de dia e fora das horas de ponta. No centro histórico, ruas estreitas e muitos peões pedem cuidado redobrado; o guia para [conduzir no Bairro Antigo](/zonas-de-hanoi/conduzir-no-bairro-antigo/) explica o que muda. E para não juntar uma coima ao susto, reveja os [erros que mais dão multa em Hanói](/guia-de-aluguer/como-evitar-multas/)."
+      ]
+    },
+    {
+      "h2": "Se acontecer um acidente",
+      "body": [
+        "Num acidente com feridos, a primeira chamada é para os serviços de emergência. No Vietname, os números nacionais são o 115, para emergência médica, o 113, para a polícia, e o 114, para os bombeiros. As chamadas para estes números são gratuitas.",
+        "Um folheto de proteção civil de um município português, pensado para as estradas de Portugal, resume os primeiros cuidados, que valem em qualquer lado:",
+        {
+          "ul": [
+            "pare num local seguro antes de telefonar;",
+            "desligue o motor dos veículos acidentados;",
+            "sinalize o local a quem vem atrás, se o puder fazer sem correr riscos;",
+            "não tire o capacete a um motociclista ferido;",
+            "se não tem formação em primeiros socorros, não mexa nos feridos."
+          ]
+        },
+        "Depois, avise a loja e a seguradora. O guia de [assistência na estrada](/guia-de-aluguer/assistencia-na-estrada/) explica o que esperar da loja e que informação ter à mão. Guarde também no telemóvel o contacto do Gabinete de Emergência Consular, que o portal gov.pt publica para os cidadãos portugueses em dificuldades no estrangeiro."
+      ]
+    },
+    {
+      "h2": "Quando a resposta certa é não conduzir",
+      "body": [
+        "Para muitos visitantes, a mota é a forma mais livre de conhecer Hanói. Para outros, não é a escolha certa, pelo menos nesta viagem. Quem nunca conduziu, quem não tem a categoria certa na carta, quem vai beber ou quem chega cansado de um voo longo faz melhor em usar táxi, mota com condutor, autocarro ou ir a pé, e não há nada de errado nisso.",
+        "Se decidir conduzir, trate a mota com a mesma seriedade que teria em casa: equipamento, documentos, sobriedade e margem para o imprevisto. O [guia de aluguer](/guia-de-aluguer/) mostra o processo do princípio ao fim, e as dúvidas sobre a mota e o capacete resolvem-se pelos [contactos](/contactos/) da loja."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Hanói é mais perigosa do que o resto do Vietname?",
+      "a": "As fontes consultadas não dão números próprios de Hanói, por isso não é possível responder com dados. Os totais conhecidos são nacionais e juntam cidades, estradas nacionais e de montanha. O que se pode dizer é que os fatores que mais pesam — capacete, álcool, prática, tempo e visibilidade — contam tanto na capital como fora dela."
+    },
+    {
+      "q": "Ir de passageiro, numa mota com condutor, elimina o risco?",
+      "a": "Não o elimina, mas tira-lhe a responsabilidade do guiador. O capacete continua obrigatório e tem de ir apertado também para quem vai atrás, e o seguro de viagem deve cobrir os acidentes como passageiro: confirme-o na apólice. Combine o preço antes de partir e, se o condutor não lhe inspirar confiança, não suba."
+    },
+    {
+      "q": "É seguro conduzir de noite em Hanói?",
+      "a": "Exige mais cuidado. À noite vê-se pior e é-se visto pior: use roupa ou faixas refletoras, como recomenda o código da estrada britânico, e prefira percursos que já fez de dia. A polícia aconselha ainda a evitar ruas desertas tarde da noite, sobretudo a quem anda sozinho."
+    }
+  ],
+  "sources": [
+    {
+      "title": "New WHO guide aims to boost the use of life-saving helmets for motorcycle riders",
+      "publisher": "World Health Organization",
+      "url": "https://www.who.int/news/item/05-04-2023-new-who-guide-aims-to-boost-the-use-of-life-saving-helmets-for-motorcycle-riders",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "title": "As deaths of motorcyclists rise, UN health agency steps up efforts to promote helmet use",
+      "publisher": "UN News",
+      "url": "https://news.un.org/en/story/2006/08/189962",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "en"
+    },
+    {
+      "title": "11 tháng năm 2025, TNGT đường bộ giảm hơn 23%",
+      "publisher": "Luật sư Việt Nam (lsvn.vn)",
+      "url": "https://lsvn.vn/11-thang-nam-2025-tngt-duong-bo-giam-hon-23-a166350.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Tai nạn giao thông giảm nhưng vẫn “đáng lo”, Chính phủ yêu cầu mô hình quản lý mạnh hơn từ năm 2026",
+      "publisher": "VnEconomy",
+      "url": "https://vneconomy.vn/tai-nan-giao-thong-giam-nhung-van-dang-lo-chinh-phu-yeu-cau-mo-hinh-quan-ly-manh-hon-tu-nam-2026.htm",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Đồng bộ giải pháp kéo giảm tai nạn giao thông",
+      "publisher": "Đại biểu Nhân dân",
+      "url": "https://daibieunhandan.vn/dong-bo-giai-phap-keo-giam-tai-nan-giao-thong-10357791.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Bulletin of the World Health Organization (estudo de caso sobre o Vietname)",
+      "publisher": "World Health Organization (registo DOAJ)",
+      "url": "https://doaj.org/article/05faff8cfc3a48ddad8d0319a83b0c55",
+      "accessed": "2026-10-13",
+      "type": "reference",
+      "lang": "en"
+    },
+    {
+      "title": "Understanding Motorcyclists Risk Perceptions Vietnam Brief",
+      "publisher": "Vital Strategies",
+      "url": "https://www.vitalstrategies.org/wp-content/uploads/Understanding-Motorcyclists-Risk-Perceptions-Vietnam-Brief.pdf",
+      "accessed": "2026-10-13",
+      "type": "reference",
+      "lang": "en"
+    },
+    {
+      "title": "Analysis: Vietnam's tale of two helmets",
+      "publisher": "The New Humanitarian",
+      "url": "https://www.thenewhumanitarian.org/report/96848/analysis-vietnam%E2%80%99s-tale-two-helmets",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "en"
+    },
+    {
+      "title": "Campanha «2 Rodas, Agarre-se à Vida» arranca esta terça-feira",
+      "publisher": "Renascença (rr.pt)",
+      "url": "https://rr.pt/noticia/amp/pais/2024/03/18/campanha-2-rodas-agarre-se-a-vida-arranca-esta-terca-feira/371180/",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "pt"
+    },
+    {
+      "title": "Adeus acidentes: a regra de ouro que pode salvar a sua vida em duas rodas",
+      "publisher": "Postal (postal.pt)",
+      "url": "https://postal.pt/auto/adeus-acidentes-a-regra-de-ouro-que-pode-salvar-a-sua-vida-em-duas-rodas/",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "pt"
+    },
+    {
+      "title": "Segurança rodoviária: campanha alerta para riscos dos motociclistas",
+      "publisher": "Postal (postal.pt)",
+      "url": "https://postal.pt/nacional/seguranca-rodoviaria-campanha-alerta-para-riscos-dos-motociclistas/",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "pt"
+    },
+    {
+      "title": "Faro integra campanha nacional para reduzir acidentes com motociclistas",
+      "publisher": "Postal (postal.pt)",
+      "url": "https://postal.pt/algarve/faro-integra-campanha-nacional-para-reduzir-acidentes-com-motociclistas/",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "pt"
+    },
+    {
+      "title": "Rules for motorcyclists (83 to 88)",
+      "publisher": "nidirect (Governo da Irlanda do Norte)",
+      "url": "https://nidirect.gov.uk/articles/rules-motorcyclists-83-88",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "title": "Gọi đến các đầu số khẩn cấp như 113, 114, 115... thì có được miễn phí cước điện thoại hay không?",
+      "publisher": "Thư Viện Pháp Luật",
+      "url": "https://thuvienphapluat.vn/phap-luat/goi-den-cac-dau-so-khan-cap-nhu-113-114-115-thi-co-duoc-mien-phi-cuoc-dien-thoai-hay-khong-23081.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "Gọi đến đầu số 113, 114, 115 có được miễn phí cước điện thoại không?",
+      "publisher": "Luật Minh Khuê",
+      "url": "https://luatminhkhue.vn/goi-den-dau-so-113-114-115-co-duoc-mien-phi-cuoc-dien-thoai-khong.aspx",
+      "accessed": "2026-10-13",
+      "type": "reference",
+      "lang": "vi"
+    },
+    {
+      "title": "Acidentes Rodoviários",
+      "publisher": "Câmara Municipal de Vila Franca de Xira (Proteção Civil)",
+      "url": "https://www.cm-vfxira.pt/uploads/document/file/345/Acidentes_Rodovi_rios.pdf",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "pt"
+    },
+    {
+      "title": "Những chiêu cướp nhằm vào phái đẹp",
+      "publisher": "VnExpress",
+      "url": "https://vnexpress.net/nhung-chieu-cuop-nham-vao-phai-dep-2172385.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Motorbike safety (Vietnam)",
+      "publisher": "World Nomads",
+      "url": "https://www.worldnomads.com/travel-safety/southeast-asia/vietnam/motorbike-safety",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "en"
+    },
+    {
+      "title": "Contactos de emergência consular",
+      "publisher": "gov.pt",
+      "url": "https://www2.gov.pt/-/contactos-de-emerg%C3%AAncia-consular-1",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "pt"
+    },
+    "lawnet-capacete-168",
+    "lawnet-proibicoes-2024",
+    "tuoitre-alcool-zero",
+    "lei-36-2024-a1",
+    "imt-lic",
+    "dtinews-autoestrada-2026",
+    {
+      "title": "Đã có Nghị định 67/2023/NĐ-CP về bảo hiểm bắt buộc của chủ xe cơ giới",
+      "publisher": "LuatVietnam",
+      "url": "https://luatvietnam.vn/tin-van-ban-moi/da-co-nghi-dinh-67-2023-nd-cp-ve-bao-hiem-bat-buoc-cua-chu-xe-co-gioi-186-95475-article.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    }
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "READY_FOR_QA"
+}

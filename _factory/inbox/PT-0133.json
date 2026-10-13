@@ -1,0 +1,262 @@
+{
+  "contract_version": 1,
+  "id": "PT-0133",
+  "slug": "seguro-de-viagem-e-mota",
+  "title": "Seguro de viagem e mota no Vietname: o que verificar na apólice",
+  "description": "Cilindrada coberta, carta exigida, capacete e álcool: o que ler na apólice de viagem antes de alugar mota no Vietname e o que perguntar à seguradora.",
+  "h1": "Vai conduzir uma mota no Vietname? Como ler a apólice do seguro de viagem antes de partir",
+  "summary": "Um seguro de viagem só o protege numa mota se a apólice cobrir a condução de motociclos, até à cilindrada da mota que vai alugar, e se cumprir as condições que ela impõe, como ter carta com categoria de motociclos e Licença Internacional de Condução. Procure também as cláusulas sobre capacete e álcool e, se o texto for vago, peça à seguradora uma resposta escrita.",
+  "key_points": [
+    "O seguro obrigatório da mota protege terceiros: os seus ferimentos dependem do seguro de viagem.",
+    "Confirme se a apólice cobre a condução de motociclos e até que cilindrada; algumas só a cobrem com um complemento.",
+    "Veja que habilitação exige: uma seguradora de viagens internacional afirma que, sem licença internacional válida ou carta vietnamita, o seguro não é válido.",
+    "Leia as cláusulas sobre capacete e álcool: no Vietname, o capacete é obrigatório e o limite de álcool para conduzir é zero.",
+    "Peça a confirmação por escrito, com a cilindrada exata e os dados da carta, e guarde-a com a apólice."
+  ],
+  "intro": [
+    "Antes de alugar uma mota em Hanói, há um documento que pesa tanto como a carta de condução: a apólice do seu seguro de viagem. Se tiver um acidente, é ela que decide se as despesas médicas ficam a cargo da seguradora ou a seu cargo.",
+    "Muitos viajantes partem com a ideia de que «têm seguro». A pergunta útil é outra: a apólice cobre a condução de uma mota, de que cilindrada, com que habilitação e em que condições? Este guia mostra onde procurar as respostas e o que perguntar à seguradora antes de viajar. Não recomendamos seguradoras nem produtos: o objetivo é que saiba ler a sua apólice."
+  ],
+  "sections": [
+    {
+      "h2": "Três proteções diferentes numa mota alugada",
+      "body": [
+        "Numa mota alugada no Vietname, há três proteções que convém não confundir. Só uma delas pode pagar os seus ferimentos:",
+        {
+          "table": {
+            "caption": "Quem protege o quê num acidente de mota",
+            "head": ["Proteção", "Para que serve", "Paga os seus ferimentos?"],
+            "rows": [
+              ["Seguro obrigatório da mota", "Indemniza terceiros pelos danos que a mota lhes cause; está em nome do proprietário", "Não"],
+              ["Apoio consular português", "Pode facilitar o contacto com hospitais, mas não paga contas de médico, hotel ou viagens", "Não"],
+              ["Seguro de viagem", "Cobre o que a apólice disser, nas condições que impuser", "Só se a apólice cobrir a condução de mota"]
+            ]
+          }
+        },
+        "O guia do [seguro obrigatório de mota](/guia-de-aluguer/seguro-obrigatorio-de-mota/) explica a primeira linha em detalhe. A conclusão prática é simples: se a apólice de viagem excluir o acidente, as despesas médicas ficam a seu cargo.",
+        "É também o conselho da embaixada da Nova Zelândia em Hanói aos seus cidadãos: confirmar se o seguro cobre acidentes de mota antes de conduzir no Vietname."
+      ]
+    },
+    {
+      "h2": "Como ler a apólice sem se perder",
+      "body": [
+        "As respostas raramente estão no folheto comercial ou num resumo de uma página. Estão no texto completo da apólice: nas definições, nas coberturas, nas exclusões e nas obrigações de quem está seguro. Peça esse documento antes de pagar e guarde-o em PDF no telemóvel.",
+        "Depois, use a pesquisa do leitor de PDF com as palavras da tabela. Em poucos minutos, fica a saber se a apólice fala de motas e o que diz delas.",
+        {
+          "table": {
+            "caption": "Palavras a procurar na apólice e o que confirmar",
+            "head": ["Procure por", "O que confirmar"],
+            "rows": [
+              ["«motociclo», «ciclomotor», «duas rodas»", "Se a condução está coberta ou excluída, e se a regra muda entre condutor e passageiro"],
+              ["«cilindrada», «cm³», «potência»", "Até que limite a cobertura vale"],
+              ["«habilitação», «carta», «licença»", "Que documentos tem de ter para a cobertura valer"],
+              ["«capacete», «equipamento»", "Se a falta de capacete exclui ou reduz o pagamento"],
+              ["«álcool», «estupefacientes»", "Como são tratados os acidentes com álcool"],
+              ["«lei local», «ilegal», «infração»", "Se uma infração às regras do país exclui o acidente"],
+              ["«atividades», «desportos», «complemento»", "Se a mota exige uma cobertura adicional"],
+              ["«limite», «capital», «franquia»", "Quanto paga a seguradora no máximo e que parte fica a seu cargo"]
+            ]
+          }
+        },
+        {
+          "note": "A página que anuncia a cobertura de despesas médicas pode não dizer nada sobre motas, e a exclusão aparecer muito mais à frente, numa lista de atividades ou de veículos. Só conclua que está coberto depois de ler as duas partes.",
+          "tone": "warn",
+          "title": "A exclusão pode estar noutra página"
+        }
+      ]
+    },
+    {
+      "h2": "Cilindrada e tipo de mota: o limite que mais se esquece",
+      "body": [
+        "Segundo páginas de seguradoras e guias de viagem consultados, muitas apólices-padrão excluem os veículos de duas rodas a motor ou só os cobrem até uma cilindrada indicada. Acima desse limite, pode ser preciso contratar um complemento. Não há um número comum a todas: conta o que estiver escrito na sua.",
+        "Do outro lado está a mota. No Vietname, a categoria A1 abrange motociclos até 125 cm³ ou elétricos até 11 kW, e há scooters de aluguer comuns acima disso: a Honda Air Blade, por exemplo, vende-se em versões de 125 e de 160 cm³. Uma diferença de cilindrada pode pôr a mota fora da apólice e fora da sua categoria ao mesmo tempo.",
+        "Antes de reservar, peça à loja a cilindrada exata da unidade que lhe vão entregar e compare-a com dois números: o limite da apólice e o da sua carta. O guia sobre [cilindrada e carta A1](/tipos-de-motas/cilindrada-e-carta-a1/) mostra como escolher a mota a partir da categoria.",
+        "Há dois casos que pedem uma pergunta específica à seguradora:",
+        {
+          "ul": [
+            "**Mota elétrica**: a cilindrada não se aplica. Indique a potência que a loja lhe der e pergunte como a apólice classifica um motociclo elétrico.",
+            "**Mota de 50 cc**: pergunte se a apólice a trata como ciclomotor e em que condições. O artigo sobre [mitos das motas de 50 cc](/tipos-de-motas/mitos-sobre-motas-50cc/) desfaz alguns equívocos sobre estas motas."
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "Carta e licença internacional: a condição mais citada",
+      "body": [
+        "Nas fontes consultadas, a habilitação aparece como condição decisiva. Uma seguradora de viagens internacional escreve, na sua página sobre motas no Vietname, que sem uma Licença Internacional de Condução válida ou uma carta vietnamita o seguro de viagem não é válido, mesmo que tenha carta de mota no seu país. É a posição de uma seguradora, não uma regra geral, mas mostra o tipo de condição a procurar na sua apólice.",
+        "A lei vietnamita aponta no mesmo sentido. O Vietname aderiu à Convenção de Viena de 1968, e a Lei n.º 36/2024/QH15, em vigor desde 1 de janeiro de 2025, pede a um visitante a carta do seu país, com a categoria adequada, acompanhada de uma licença internacional. Em Portugal, essa licença é emitida pelo IMT, vale no máximo um ano e só é válida acompanhada da carta portuguesa.",
+        "Confronte as datas e as categorias antes de reservar:",
+        {
+          "checklist": [
+            "A carta inclui a categoria de motociclos que a mota exige?",
+            "A licença internacional está válida em todos os dias em que vai conduzir?",
+            "A apólice aceita a carta portuguesa com licença internacional, ou pede outro documento?",
+            "Se a sua carta é só de categoria B, a apólice diz alguma coisa sobre isso?"
+          ]
+        },
+        "Se a resposta a algum destes pontos for «não» ou «não sei», não conte com a cobertura. O guia sobre [conduzir sem carta válida](/guia-de-aluguer/conduzir-sem-carta-valida/) mostra o que arrisca na estrada, e o da [Licença Internacional de Condução](/guia-de-aluguer/licenca-internacional-de-conducao/) explica como a pedir no IMT."
+      ]
+    },
+    {
+      "h2": "Capacete e álcool: duas cláusulas a ler com atenção",
+      "body": [
+        { "h3": "Capacete" },
+        "No Vietname, o capacete é obrigatório para quem conduz e para quem vai atrás, e não o usar dá coima segundo o Decreto 168/2024/NĐ-CP, em vigor desde 1 de janeiro de 2025.",
+        "No seguro, a falta de capacete pode pesar ainda mais. Segundo as fontes comerciais consultadas, os pedidos de indemnização por lesões na cabeça de quem não usava capacete são muitas vezes recusados. Procure na apólice se a falta de capacete aparece como exclusão ou como motivo para reduzir o pagamento.",
+        "A razão é conhecida. Segundo a OMS, o traumatismo craniano é a principal causa de morte dos motociclistas, e um capacete de qualidade reduz o risco de morte em mais de seis vezes e o de lesão cerebral até 74%. O guia sobre [capacetes no aluguer](/precos/capacetes-no-aluguer/) mostra como acertar o tamanho.",
+        { "h3": "Álcool" },
+        "A lei vietnamita proíbe conduzir com qualquer concentração de álcool no sangue ou no ar expirado. Não há, portanto, uma quantidade tolerada antes de pegar na mota.",
+        "As fontes consultadas para este guia não mostram como as apólices tratam os acidentes com álcool. Procure a cláusula na sua e veja se a exclusão depende de uma taxa fixada na apólice ou do limite legal do país onde está: no Vietname, esse limite é zero. A regra está explicada no guia sobre [álcool zero ao volante](/guia-de-aluguer/alcool-zero-ao-volante/)."
+      ]
+    },
+    {
+      "h2": "Passageiro, telemóvel e danos na mota",
+      "body": [
+        "Há perguntas que só surgem quando alguma coisa corre mal. Vale a pena fazê-las antes:",
+        {
+          "ul": [
+            "**Passageiro**: a cobertura de quem conduz não se estende automaticamente a quem vai atrás. Cada pessoa deve confirmar na sua apólice se está coberta como passageira de mota.",
+            "**Telemóvel e outros aparelhos**: segundo as fontes comerciais consultadas, algumas seguradoras limitam a eletrónica a cerca de 500 a 1000 dólares. Se usa o telemóvel como GPS, veja esse limite e as condições em caso de roubo.",
+            "**Danos na mota alugada**: o seguro obrigatório não cobre a própria mota. Pergunte à seguradora se a apólice tem alguma cobertura para veículos alugados ou para a sua responsabilidade civil.",
+            "**Linha de assistência**: anote o número e pergunte em que casos deve ligar antes de pagar uma despesa médica."
+          ]
+        },
+        "O que a loja lhe pode pedir em caso de dano, furto ou acidente depende do [acordo de aluguer](/guia-de-aluguer/acordo-de-aluguer/). Leia-o antes de assinar, juntamente com as regras da [caução](/precos/como-funciona-a-caucao/)."
+      ]
+    },
+    {
+      "h2": "Perguntas a fazer à seguradora antes de viajar",
+      "body": [
+        "Se a apólice for vaga, não a interprete a seu favor: pergunte. As fontes consultadas recomendam pedir a confirmação por escrito, indicando a cilindrada exata e os dados da carta, e guardar a resposta. Estas perguntas cobrem o essencial:",
+        {
+          "ol": [
+            "A apólice cobre acidentes a conduzir uma mota no Vietname? E como passageiro?",
+            "Até que cilindrada ou potência?",
+            "Que habilitação exigem: carta com categoria de motociclos, Licença Internacional de Condução ou as duas?",
+            "Que exclusões se aplicam ao capacete, ao álcool e às infrações às regras locais?",
+            "É preciso um complemento para conduzir mota? A partir de quando vale?",
+            "Qual é o limite para despesas médicas e há franquia?",
+            "Que documentos pedem num sinistro e em que prazo os devo enviar?"
+          ]
+        },
+        {
+          "note": "«Vou estar no Vietname de [data] a [data] e tenciono conduzir em Hanói uma scooter alugada de [cilindrada] cm³. Tenho carta de condução portuguesa com a categoria [categoria] e Licença Internacional de Condução emitida pelo IMT, válida até [data]. Podem confirmar por escrito se a apólice [número] cobre acidentes nestas condições, como condutor e como passageiro, e que exclusões se aplicam?»",
+          "tone": "info",
+          "title": "Um exemplo de mensagem para a seguradora"
+        },
+        "Guarde a resposta em PDF ou numa captura de ecrã, junto da apólice e do número de assistência. Se o fizer antes de reservar a mota, ainda vai a tempo de mudar de apólice, de contratar um complemento ou de escolher outra mota."
+      ]
+    },
+    {
+      "h2": "Se a resposta for «não»: as alternativas",
+      "body": [
+        "Uma resposta negativa da seguradora não estraga a viagem, mas obriga a escolher:",
+        {
+          "ul": [
+            "**Ajustar a cobertura**: contratar o complemento para motas que a seguradora propuser, ou outra apólice que cubra a condução, depois de a ler com o mesmo método.",
+            "**Ajustar a mota**: escolher um modelo dentro do limite de cilindrada da apólice e da sua carta.",
+            "**Não conduzir**: deslocar-se de táxi, por aplicação de transporte ou de mota com condutor."
+          ]
+        },
+        "O guia sobre [quando é melhor não conduzir](/rotas-e-mobilidade/quando-nao-conduzir/) compara estas alternativas. Para o resto da preparação, siga o [guia de aluguer passo a passo](/guia-de-aluguer/) e a lista de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/). Se tiver dúvidas sobre a cilindrada ou os documentos da mota, use os [contactos](/contactos/) da loja."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "O seguro associado ao cartão de crédito serve para andar de mota no Vietname?",
+      "a": "Só se as condições o disserem. Trate-o como qualquer outra apólice: procure «motociclo», «cilindrada» e «habilitação», leia as exclusões e, se o texto for vago, peça a confirmação por escrito à entidade que gere o seguro."
+    },
+    {
+      "q": "Tenho carta de mota em Portugal. A apólice pode exigir também a licença internacional?",
+      "a": "Pode, e não convém contar com o contrário. Uma seguradora de viagens internacional afirma que, sem licença internacional válida ou carta vietnamita, o seguro não é válido, mesmo com carta de mota no país de origem. A lei vietnamita também pede a licença internacional a quem conduz como visitante."
+    },
+    {
+      "q": "Se a seguradora recusar o pedido, quem paga o hospital?",
+      "a": "Paga quem recebeu o tratamento. O apoio consular português pode facilitar o contacto com hospitais, mas não paga contas médicas, e o seguro obrigatório da mota destina-se a terceiros. É por isso que vale a pena confirmar a cobertura antes de partir, e não depois do acidente."
+    },
+    {
+      "q": "Vou como passageiro numa mota conduzida por outra pessoa. Estou coberto?",
+      "a": "Depende da sua apólice, e não da de quem conduz. Procure na sua as regras para passageiros de motociclos e peça a confirmação por escrito. E lembre-se de que, no Vietname, o capacete também é obrigatório para quem vai atrás."
+    }
+  ],
+  "sources": [
+    "imt-lic",
+    "mfat-conduzir-vietname",
+    "uncrd-vietname-1968",
+    "lei-36-2024-a1",
+    "chotot-air-blade-125-160",
+    "lawnet-capacete-168",
+    "lawnet-proibicoes-2024",
+    {
+      "title": "Luật Trật tự, an toàn giao thông đường bộ 2024 số 36/2024/QH15",
+      "publisher": "Thư Viện Pháp Luật",
+      "url": "https://thuvienphapluat.vn/van-ban/Giao-thong-Van-tai/Luat-trat-tu-an-toan-giao-thong-duong-bo-444251.aspx",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "Đã có Nghị định 67/2023/NĐ-CP về bảo hiểm bắt buộc của chủ xe cơ giới",
+      "publisher": "LuatVietnam",
+      "url": "https://luatvietnam.vn/tin-van-ban-moi/da-co-nghi-dinh-67-2023-nd-cp-ve-bao-hiem-bat-buoc-cua-chu-xe-co-gioi-186-95475-article.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "New WHO guide aims to boost the use of life-saving helmets for motorcycle riders",
+      "publisher": "World Health Organization",
+      "url": "https://www.who.int/news/item/05-04-2023-new-who-guide-aims-to-boost-the-use-of-life-saving-helmets-for-motorcycle-riders",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "title": "Flyer Viagens ao estrangeiro versão 01.06.2020 final",
+      "publisher": "Câmara Municipal de Mêda",
+      "url": "https://cdn.cm-meda.pt/Documentos/Avisos-e-Editais/2020/Flyer_Viagens_ao_estrangeiro_versão_01.06.2020_final.pdf",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "pt"
+    },
+    {
+      "title": "Motorbike safety (Vietnam)",
+      "publisher": "World Nomads",
+      "url": "https://www.worldnomads.com/travel-safety/southeast-asia/vietnam/motorbike-safety",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "en"
+    },
+    {
+      "title": "Is Vietnam Safe to Travel? An Honest Answer for Indian Travellers",
+      "publisher": "Zurich Kotak",
+      "url": "https://www.zurichkotak.com/knowledge-center/travel-insurance/is-vietnam-safe-to-travel",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "en"
+    },
+    {
+      "title": "Travel insurance for motorbiking in Vietnam: are you actually covered?",
+      "publisher": "vietnamtourism.com (site comercial, não oficial)",
+      "url": "https://www.vietnamtourism.com/en/travel-insurance-for-motorbiking-in-vietnam-are-you-actually-covered",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "en"
+    },
+    {
+      "title": "Is Vietnam Safe to Travel? Real Risks for Tourists 2026",
+      "publisher": "Jungle Boss Tours",
+      "url": "https://junglebosstours.com/explorer/tourism-blog/is-vietnam-safe",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "en"
+    }
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "READY_FOR_QA"
+}

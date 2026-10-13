@@ -1,0 +1,291 @@
+{
+  "contract_version": 1,
+  "id": "PT-0216",
+  "slug": "conduzir-no-bairro-antigo",
+  "title": "Conduzir de mota no Bairro Antigo de Hanói: o que deve saber",
+  "description": "Ruas estreitas, sentidos únicos, peões na estrada e zonas fechadas às motas ao fim de semana: como conduzir no Bairro Antigo de Hanói e quando seguir a pé.",
+  "h1": "Bairro Antigo de Hanói de mota: sentidos únicos, peões e zonas fechadas",
+  "summary": "Pode conduzir uma mota no Bairro Antigo de Hanói, mas devagar e com atenção redobrada: as ruas são estreitas, várias têm sentido único e os peões caminham muitas vezes na faixa de rodagem. À data de 13 de outubro de 2026, a zona pedonal do lago Hoàn Kiếm e do mercado noturno fecha às motas de sexta a domingo, das 19:00 às 24:00; nessas horas, estacione fora e siga a pé.",
+  "key_points": [
+    "Conte com velocidades muito baixas: ruas estreitas, passeios ocupados e peões a caminhar na estrada.",
+    "Respeite os sentidos únicos: a contramão e a circulação no passeio dão coima de 4 a 6 milhões de VND.",
+    "À data de 13 de outubro de 2026, a zona 1 de baixas emissões fecha a todos os veículos a motor das 19:00 às 24:00, de sexta a domingo.",
+    "A buzina só serve para avisar de um perigo e é proibida entre as 22:00 e as 05:00 em zonas densamente povoadas.",
+    "Para passear, comer ou beber, deixe a mota num parque vigiado e continue a pé."
+  ],
+  "intro": [
+    "O Bairro Antigo de Hanói — Phố cổ em vietnamita, Old Quarter nos guias em inglês — é a malha de ruas a norte do lago Hoàn Kiếm onde, durante séculos, cada rua se dedicou a um ofício: Hàng Bạc era a rua da prata, Hàng Đường a do açúcar. É também a zona onde o trânsito da cidade se mostra mais apertado.",
+    "A dificuldade não está na velocidade, que é baixa, mas na densidade: em poucos metros cruzam-se motas, bicicletas, vendedores ambulantes, turistas a fotografar e estafetas de entregas. Este guia explica como funcionam os sentidos únicos, como partilhar a rua com os peões, que zonas fecham ao trânsito e em que situações compensa deixar a mota e continuar a pé.",
+    "Se alugar a mota na loja {{brand}}, em {{area}}, o Bairro Antigo fica do outro lado do rio Vermelho, a poucos quilómetros. É provável que seja um dos primeiros sítios onde vai conduzir, por isso vale a pena chegar lá com as regras na cabeça."
+  ],
+  "sections": [
+    {
+      "h2": "Como é o trânsito nas ruas do Bairro Antigo",
+      "body": [
+        "As ruas do Bairro Antigo foram traçadas muito antes das motas. A faixa de rodagem é estreita, os cruzamentos sucedem-se a curta distância, muitos sem semáforos, e os passeios estão ocupados por motas estacionadas, bancas e mesas baixas de restaurantes. Por isso, os peões caminham muitas vezes pela estrada — e é com eles que vai partilhar o espaço.",
+        {
+          "h3": "O que pode encontrar numa só rua"
+        },
+        {
+          "ul": [
+            "motas a sair de garagens e de lojas, por vezes em marcha-atrás;",
+            "vendedores ambulantes com bicicletas carregadas ou varas de carga ao ombro;",
+            "triciclos de pedais (xích lô) e carrinhos elétricos de visitas turísticas, mais lentos do que o resto do trânsito;",
+            "turistas parados a meio da rua para fotografar uma fachada;",
+            "motas e carrinhas de entregas que param sem aviso."
+          ]
+        },
+        "Neste ambiente, a velocidade útil é a de uma bicicleta. Circule com os dedos pousados nas manetes dos travões, mantenha distância de quem segue à frente e esteja preparado para ver alguém surgir de uma porta ou de entre duas motas estacionadas. Olhe para os espelhos antes de cada viragem: há quase sempre alguém a passar-lhe rente, pela esquerda ou pela direita.",
+        {
+          "h3": "Que mota escolher para o centro"
+        },
+        "No para-arranca do Bairro Antigo, uma scooter automática é a opção mais simples, porque não obriga a trocar de mudança a cada poucos metros. Compare os modelos na página de [scooters automáticas](/tipos-de-motas/scooters/): a [Honda Vision](/tipos-de-motas/honda-vision-em-hanoi/), leve e baixa, manobra-se bem em ruas apertadas e custa {{price.vision.day}} por dia na tabela de referência da loja. Uma [mota de 50 cc](/tipos-de-motas/motas-50cc/) chega para trajetos curtos no centro, mas confirme antes as regras que se lhe aplicam."
+      ]
+    },
+    {
+      "h2": "Sentidos únicos: siga os sinais, não as outras motas",
+      "body": [
+        "Várias ruas do Bairro Antigo têm sentido único. Como o nome da rua muda muitas vezes de um quarteirão para o seguinte, não assuma que o sentido se mantém: confirme-o em cada cruzamento, antes de virar.",
+        {
+          "table": {
+            "caption": "Sinais a reconhecer antes de entrar numa rua",
+            "head": [
+              "Sinal",
+              "Aspeto",
+              "O que significa"
+            ],
+            "rows": [
+              [
+                "Sentido proibido",
+                "Disco vermelho com uma barra branca horizontal",
+                "Não pode entrar na rua por esse lado com nenhum veículo"
+              ],
+              [
+                "Sentido único",
+                "Placa azul com uma seta branca",
+                "A rua só pode ser percorrida no sentido indicado pela seta"
+              ],
+              [
+                "Barreiras ou agentes no cruzamento",
+                "Grades, cones ou polícia a orientar o trânsito",
+                "Encerramento temporário: siga as indicações, mesmo que o mapa diga o contrário"
+              ]
+            ]
+          }
+        },
+        "Verá motas a circular em contramão, sobretudo em trajetos de poucos metros. Não as imite. Segundo o Decreto 168/2024/NĐ-CP, em vigor desde 1 de janeiro de 2025, quem conduz uma mota em contramão arrisca uma coima de 4 a 6 milhões de VND — o mesmo valor aplicável a quem circula no passeio ou não respeita o semáforo vermelho. Atenção: são valores nacionais e, desde 1 de julho de 2026, Hanói agrava (×1,5 ou ×2) as coimas de 28 infrações de ordem pública e de trânsito cometidas na cidade. Confirme o montante em vigor.",
+        {
+          "h3": "Se falhar a rua certa"
+        },
+        {
+          "steps": [
+            {
+              "title": "Não volte para trás em contramão",
+              "text": "Nada de inversões de marcha numa rua de sentido único, mesmo que o destino fique a poucos metros."
+            },
+            {
+              "title": "Siga até ao cruzamento seguinte",
+              "text": "Dê a volta ao quarteirão: no Bairro Antigo os quarteirões são pequenos e o desvio costuma ser curto."
+            },
+            {
+              "title": "Pare antes de consultar o mapa",
+              "text": "Encoste num sítio onde não bloqueie a passagem. A lei proíbe usar o telemóvel enquanto conduz."
+            }
+          ]
+        },
+        "As aplicações de navegação ajudam a planear o percurso, mas não substituem os sinais: encerramentos temporários, como os da zona pedonal ou de um festival, nem sempre aparecem a tempo no mapa. Veja o caminho antes de arrancar e, na dúvida, siga o que está na rua."
+      ]
+    },
+    {
+      "h2": "Peões, passeios e buzina",
+      "body": [
+        "No Bairro Antigo, o peão está no seu terreno. Muitos atravessam a ritmo constante, sem correr, à espera de que as motas os contornem; outros param de repente a meio da rua. Abrande sempre que vir alguém a atravessar e não acelere para lhe passar à frente. Nas passadeiras e junto às entradas de templos e mercados, pare para deixar passar quem vai a pé.",
+        "Subir ao passeio para fugir a um engarrafamento não é solução. Conduzir no passeio dá a mesma coima que a contramão — 4 a 6 milhões de VND — e a polícia de Hanói tem feito operações dirigidas a este comportamento. A exceção prevista é atravessar o passeio para entrar numa casa ou num edifício: faça-o a passo, com cuidado redobrado com quem vai a pé.",
+        "A buzina serve para avisar, não para abrir caminho. A Lei n.º 36/2024/QH15, em vigor desde 1 de janeiro de 2025, só admite o seu uso para alertar de um perigo ou antes de uma ultrapassagem. Proíbe-a também entre as 22:00 e as 05:00 em zonas densamente povoadas, como o Bairro Antigo, e junto a unidades de saúde, salvo veículos prioritários em serviço.",
+        {
+          "note": "Mesmo para percorrer três quarteirões, o capacete apertado é obrigatório para quem conduz e para o passageiro, com coima de 400 mil a 600 mil VND para quem não o usa. A lei também não admite qualquer concentração de álcool no sangue ou no ar expirado: se vai jantar ou beber uma cerveja nas esplanadas da rua Tạ Hiện, deixe a mota no alojamento e vá de táxi.",
+          "tone": "warn",
+          "title": "Regras que valem também nos trajetos curtos"
+        }
+      ]
+    },
+    {
+      "h2": "Zonas fechadas ao trânsito e zona de baixas emissões",
+      "body": [
+        "O centro histórico tem regras que mudam com o dia da semana e com o calendário. A informação desta secção foi verificada à data de 13 de outubro de 2026, em fontes oficiais e na imprensa de referência. Como já foi alterada várias vezes, confirme-a antes de ir e respeite sempre a sinalização no local.",
+        {
+          "h3": "Zona 1: fechada às motas nas noites de fim de semana"
+        },
+        "Hanói iniciou a 1 de julho de 2026 a primeira fase do piloto da zona de baixas emissões, prevista até 31 de dezembro de 2026, no bairro administrativo (phường) de Hoàn Kiếm. Na zona 1 — que abrange o espaço pedonal do lago Hoàn Kiếm e as ruas do mercado noturno do Bairro Antigo — motas, ciclomotores e automóveis estão proibidos de entrar entre as 19:00 e as 24:00 de sexta-feira, sábado e domingo. Ficam de fora apenas os veículos prioritários e alguns veículos oficiais.",
+        "A lista oficial inclui ruas como Hàng Đào, Hàng Ngang, Hàng Buồm, Mã Mây, Hàng Bạc, Lê Thái Tổ e Tràng Tiền. A proibição abrange as motas em geral, e não apenas as que andam a gasolina: com uma mota elétrica também não pode entrar nessas horas.",
+        "Durante o dia, ao fim de semana, algumas ruas junto ao lago podem estar fechadas por causa do espaço pedonal. Barreiras, sinais e agentes no local prevalecem sempre sobre qualquer horário publicado.",
+        {
+          "h3": "Motas a gasolina fora dessas horas"
+        },
+        "A proposta inicial de proibir as motas a gasolina à volta do lago foi abandonada a favor de uma aplicação faseada. Na primeira fase, as motas a gasolina — particulares ou de serviço — não estão proibidas na área piloto fora daquelas noites; as autoridades limitam-se a incentivar um uso menor. A zona 2, mais ampla, restringe sobretudo autocarros com mais de 16 lugares nas horas de ponta.",
+        "Para 2027 está prevista uma segunda fase, alargada a todo o Hoàn Kiếm e a Cửa Nam. As regras dessa fase ainda podem mudar: se a sua viagem for no próximo ano, volte a confirmar.",
+        {
+          "h3": "Feriados, eleições e eventos"
+        },
+        "Os horários do espaço pedonal também mudam com o calendário. Em 2026, por exemplo, o espaço pedonal do lago e as ruas pedonais do Bairro Antigo estiveram suspensos de 13 de março até às 19:00 de 20 de março, por causa das eleições. Em feriados e festivais, a alteração pode ir no sentido contrário, com mais horas de ruas fechadas ao trânsito.",
+        {
+          "table": {
+            "caption": "Resumo das restrições no centro histórico (verificado a 13 de outubro de 2026)",
+            "head": [
+              "Onde",
+              "Quando",
+              "O que significa para quem vai de mota"
+            ],
+            "rows": [
+              [
+                "Zona 1: espaço pedonal do lago e mercado noturno",
+                "Sexta, sábado e domingo, das 19:00 às 24:00",
+                "Nenhuma mota pode entrar, seja a gasolina ou elétrica"
+              ],
+              [
+                "Zona 2: área envolvente, em Hoàn Kiếm",
+                "Horas de ponta, todos os dias",
+                "Restrições a autocarros com mais de 16 lugares; as motas continuam a circular"
+              ],
+              [
+                "Feriados, eleições e eventos",
+                "Conforme os avisos das autoridades",
+                "Horários alargados, encurtados ou suspensos: siga a sinalização"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "h2": "Quando deixar a mota e seguir a pé",
+      "body": [
+        "O Bairro Antigo descobre-se melhor a pé. A mota é útil para lá chegar e para ligar o centro a outras zonas da cidade; para explorar as ruas, quase sempre compensa estacioná-la uma vez e caminhar.",
+        {
+          "checklist": [
+            "**Sexta, sábado e domingo ao fim da tarde**: estacione fora da zona 1 antes das 19:00 e entre a pé.",
+            "**Quando quer parar a cada esquina** para ver lojas, templos ou comer na rua: estacionar e arrancar repetidas vezes demora mais do que caminhar.",
+            "**Se vai beber álcool**, mesmo pouco: deixe a mota no alojamento e use táxi ou mota com condutor.",
+            "**Nos primeiros dias de aluguer**, se ainda não está à vontade com os travões e as manobras lentas.",
+            "**Com chuva forte**: piso escorregadio, pouca visibilidade e peões a correr para se abrigarem."
+          ]
+        },
+        {
+          "h3": "Estacionar sem complicações"
+        },
+        "Prefira um parque vigiado (bãi giữ xe), o parque do seu alojamento ou o de um café ou restaurante que guarde as motas dos clientes. Pergunte o preço antes de deixar a mota e guarde o talão (vé xe), que lhe será pedido à saída. Não deixe a mota em cima do passeio fora de um parque autorizado.",
+        "Antes de se afastar, fotografe o local e o talão e anote o nome da rua: ao fim de um dia a caminhar, muitas ruas do Bairro Antigo parecem iguais."
+      ]
+    },
+    {
+      "h2": "Lista rápida antes de entrar no Bairro Antigo",
+      "body": [
+        "Guarde esta lista no telemóvel e reveja-a antes de atravessar o rio:",
+        {
+          "checklist": [
+            "Capacete apertado para si e para o passageiro — e, regra geral, um só passageiro.",
+            "Carta de condução, licença internacional e documentos da mota consigo — veja o que levar em [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/).",
+            "Percurso visto antes de arrancar e telemóvel guardado durante a condução.",
+            "Dia e hora confirmados: se for sexta, sábado ou domingo depois das 19:00, a zona 1 está fechada às motas.",
+            "Parque de estacionamento escolhido perto do destino e dinheiro trocado para o pagar.",
+            "Luzes acesas ao fim da tarde e à noite.",
+            "Número da loja guardado no telemóvel: {{phone}}."
+          ]
+        },
+        "Se ainda tem dúvidas sobre a mota ou sobre os documentos que seguem consigo, consulte as [perguntas a fazer antes de alugar](/guia-de-aluguer/perguntas-antes-de-alugar/) ou fale com a loja através dos [contactos](/contactos/). As regras gerais de condução estão resumidas no [guia de aluguer](/guia-de-aluguer/). Os guias de outros bairros vão sendo reunidos em [Zonas de Hanói](/zonas-de-hanoi/) e, se quiser juntar o Bairro Antigo a outras paragens, o itinerário de [Hanói de mota num dia](/rotas-e-mobilidade/hanoi-de-mota-num-dia/) mostra onde estacionar em cada uma."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Posso entrar de mota no Bairro Antigo ao fim de semana?",
+      "a": "Durante o dia, em geral, sim, mas respeite as barreiras junto ao lago. À data de 13 de outubro de 2026, a zona 1 do piloto de baixas emissões — o espaço pedonal do lago e as ruas do mercado noturno — está fechada a todos os veículos a motor de sexta a domingo, das 19:00 às 24:00. Nessas horas, estacione fora e entre a pé."
+    },
+    {
+      "q": "Com uma mota elétrica posso circular na zona 1 à noite?",
+      "a": "Não. Segundo a informação oficial publicada a 1 de julho de 2026, a restrição das noites de sexta a domingo abrange motas, ciclomotores e automóveis em geral, e não apenas os modelos a gasolina. Só os veículos prioritários e alguns veículos oficiais podem entrar."
+    },
+    {
+      "q": "O GPS do telemóvel respeita os sentidos únicos?",
+      "a": "As aplicações de navegação ajudam a planear, mas os dados podem estar desatualizados e os encerramentos temporários — zona pedonal, festivais, obras — nem sempre aparecem. Os sinais na rua prevalecem sempre. Veja o percurso antes de arrancar e, se precisar de o rever, pare num local seguro."
+    },
+    {
+      "q": "Onde deixo a mota para visitar o Bairro Antigo a pé?",
+      "a": "Num parque vigiado (bãi giữ xe), no parque do alojamento ou num café ou restaurante que guarde as motas dos clientes. Pergunte o preço antes, guarde o talão e anote o nome da rua. Ao fim de semana à noite, escolha um parque fora da zona 1."
+    },
+    {
+      "q": "Devo conduzir no Bairro Antigo logo no primeiro dia de aluguer?",
+      "a": "Pode fazê-lo, mas não é o melhor sítio para se habituar à mota. Se é a primeira vez que conduz em Hanói, ganhe confiança em ruas mais largas e calmas e entre no centro quando já domina os travões e as manobras lentas. Se tiver dúvidas sobre o modelo mais fácil, pergunte à loja antes de alugar."
+    },
+    {
+      "q": "Compensa alugar uma mota se vou ficar sobretudo no Bairro Antigo?",
+      "a": "Se a visita se concentra no Bairro Antigo e à volta do lago, a pé chega a quase tudo. A mota compensa quando quer ligar o centro a zonas mais afastadas, como o lago Oeste (Hồ Tây), ou fazer passeios para lá do centro. Para essas saídas, veja como organizar um [aluguer de mota por um dia](/precos/aluguer-de-mota-por-um-dia/)."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Ha Noi begins restricting fossil-fuel vehicles in low-emission zones",
+      "publisher": "Portal do Governo do Vietname (chinhphu.vn) — Hanoi Capital",
+      "url": "https://hanoicapital.chinhphu.vn/ha-noi-begins-restricting-fossil-fuel-vehicles-in-low-emission-zones-110260702082825273.htm",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "title": "Hà Nội today launches low-emission zone within Ring Road 1",
+      "publisher": "Việt Nam News",
+      "url": "https://vietnamnews.vn/society/1784486/ha-noi-today-launches-low-emission-zone-within-ring-road-1.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "en"
+    },
+    "vietnamnet-zbe-revisao",
+    {
+      "title": "Lịch tạm dừng phố đi bộ hồ Hoàn Kiếm từ ngày 13.3 đến 20.3",
+      "publisher": "Báo Văn Hóa",
+      "url": "https://baovanhoa.vn/doi-song/lich-tam-dung-pho-di-bo-ho-hoan-kiem-tu-ngay-133-den-203-249310.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Điều khiển xe máy vượt đèn đỏ, đi trên vỉa hè bị phạt từ 4-6 triệu đồng",
+      "publisher": "Portal de divulgação jurídica da cidade de Cần Thơ (pbgdpl.cantho.gov.vn)",
+      "url": "https://pbgdpl.cantho.gov.vn/dieu-khien-xe-may-vuot-den-do-di-tren-via-he-bi-phat-tu-4-6-trieu-dong",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "vi"
+    },
+    {
+      "title": "In Hanoi, over $3,830 in sidewalk-riding fines issued in one hour",
+      "publisher": "Tuổi Trẻ News",
+      "url": "https://news.tuoitre.vn/in-hanoi-over-3830-in-sidewalk-riding-fines-issued-in-one-hour-1032506031537521.htm",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "en"
+    },
+    {
+      "title": "What time is it prohibited to use honk in Vietnam from January 1, 2025?",
+      "publisher": "LawNet",
+      "url": "https://lawnet.vn/chinh-sach-thue/en/what-time-is-it-prohibited-to-use-honk-in-vietnam-from-january-1-2025-20284.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "en"
+    },
+    "lawnet-capacete-168",
+    "lawnet-proibicoes-2024",
+    "tuoitre-alcool-zero",
+    "lawnet-passageiros-2025",
+    "tabela-precos-proprietario",
+    "hanoi-resolucao-56-2026"
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "READY_FOR_QA",
+  "revision": {
+    "reason": "Coimas em Hanói: aviso sobre a Resolução 56/2026/NQ-HĐND"
+  }
+}

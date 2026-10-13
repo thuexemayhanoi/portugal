@@ -1,0 +1,279 @@
+{
+  "contract_version": 1,
+  "id": "PT-0066",
+  "slug": "aluguer-de-mota-por-um-dia",
+  "title": "Alugar uma mota por um dia em Hanói: preço e horários",
+  "description": "Quanto custa alugar uma mota por um dia em Hanói, a que horas levantar e devolver, o que confirmar com a loja e como aproveitar bem um aluguer curto.",
+  "h1": "Aluguer de mota por um dia em Hanói: como organizar",
+  "summary": "Na tabela de referência da loja, alugar uma mota por um dia custa entre {{price.min.day}} e {{price.max.day}}, conforme o modelo. Para aproveitar o dia, combine antes a hora de levantamento e de devolução — a loja funciona {{hours}} — e confirme a caução, os documentos e o combustível.",
+  "key_points": [
+    "Preço diário de referência: {{price.wave.day}} para Wave, Sirius, Click e Mio; {{price.vision.day}} para Vision, Air Blade, 50 cc e mota elétrica.",
+    "Pergunte se o «dia» conta por 24 horas ou até ao fecho da loja, às {{closes}}.",
+    "Caução, documentos e entrega no alojamento são combinados caso a caso, antes de se deslocar.",
+    "Num aluguer de um só dia, escolha um tipo de mota que já saiba conduzir e um percurso sem pressa."
+  ],
+  "intro": [
+    "Um dia de mota é muitas vezes a primeira experiência de quem visita Hanói: dá para atravessar o rio, visitar bairros afastados do centro e parar onde apetece, sem depender de transportes. Mas um aluguer curto também deixa pouca margem para imprevistos — uma hora perdida no levantamento ou uma dúvida sobre a devolução pesam muito num único dia.",
+    "Este guia reúne o que precisa de saber para alugar uma mota por um dia na loja Nguyễn Tú, em Long Biên: quanto custa cada modelo, como se conta o dia, o que confirmar antes de sair e como devolver a mota sem pressas no fim da tarde."
+  ],
+  "sections": [
+    {
+      "h2": "Quanto custa um dia de mota",
+      "body": [
+        {
+          "table": {
+            "caption": "Preço diário de referência por modelo",
+            "head": [
+              "Modelo",
+              "Tipo",
+              "Preço por dia"
+            ],
+            "rows": [
+              [
+                "Honda Wave",
+                "Semiautomática",
+                "{{price.wave.day}}"
+              ],
+              [
+                "Yamaha Sirius",
+                "Semiautomática",
+                "{{price.sirius.day}}"
+              ],
+              [
+                "Honda Click",
+                "Scooter automática",
+                "{{price.click.day}}"
+              ],
+              [
+                "Yamaha Mio",
+                "Scooter automática",
+                "{{price.mio.day}}"
+              ],
+              [
+                "Honda Vision",
+                "Scooter automática",
+                "{{price.vision.day}}"
+              ],
+              [
+                "Honda Air Blade",
+                "Scooter automática",
+                "{{price.airblade.day}}"
+              ],
+              [
+                "Mota ou scooter de 50 cc",
+                "50 cc",
+                "{{price.cc50.day}}"
+              ],
+              [
+                "Mota elétrica",
+                "Elétrica",
+                "{{price.eletrica.day}}"
+              ],
+              [
+                "Bicicleta elétrica",
+                "Bicicleta elétrica",
+                "{{price.bicicleta.day}}"
+              ]
+            ]
+          }
+        },
+        "Estes valores são de referência e dizem respeito ao aluguer do veículo. A caução, uma eventual entrega no alojamento, o combustível e os acessórios não constam da tabela e são confirmados pela loja. Na página de [preços](/precos/) encontra também as tarifas por semana e por mês.",
+        "Para obter o valor final, envie as datas, a hora prevista de levantamento e de devolução e o modelo pretendido. A loja confirma a disponibilidade e o total antes de se deslocar."
+      ]
+    },
+    {
+      "h2": "Como se conta um dia de aluguer",
+      "body": [
+        {
+          "h3": "Dia de calendário ou 24 horas?"
+        },
+        "Há duas formas habituais de contar um dia: até ao fecho da loja no mesmo dia ou 24 horas a partir do levantamento. A diferença conta se pretende ir buscar a mota ao fim da tarde. Pergunte qual se aplica ao seu aluguer e peça que a hora de devolução fique escrita na mensagem de confirmação.",
+        {
+          "h3": "Levantar de manhã e devolver ao fim da tarde"
+        },
+        "A loja está aberta {{hours}}. Para um dia completo, o mais prático é levantar a mota a meio da manhã, depois da hora de ponta, e devolvê-la com folga antes das {{closes}}. Contar com uma margem de meia hora evita chegar à pressa, com trânsito e pouca luz.",
+        {
+          "h3": "E se quiser ficar com a mota mais tempo?"
+        },
+        "Se a meio do dia decidir prolongar o aluguer, avise a loja antes da hora combinada e confirme o novo valor. Se já sabe que vai precisar da mota três, quatro ou mais dias, compare logo com a [tarifa do aluguer semanal](/precos/aluguer-semanal-de-mota/): em vários modelos, a semana custa menos do que somar dias avulsos."
+      ]
+    },
+    {
+      "h2": "O que confirmar antes de ir buscar a mota",
+      "body": [
+        "Uma troca de mensagens bem feita poupa tempo no dia. Antes de sair do alojamento, confirme com a loja:",
+        {
+          "checklist": [
+            "o modelo reservado e uma alternativa, caso o primeiro não esteja disponível;",
+            "o preço total do aluguer e o que está incluído;",
+            "se há caução no seu caso, o montante, a forma e quando é devolvida;",
+            "os documentos que deve levar para o aluguer;",
+            "quantos capacetes estão incluídos e de que tamanho;",
+            "o nível de combustível com que recebe e devolve a mota;",
+            "o que fazer em caso de furo ou avaria durante o dia."
+          ]
+        },
+        "O guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/) explica a diferença entre o que a loja pede para alugar e o que a lei exige para conduzir. Guarde o número {{phone}} no telemóvel antes de sair."
+      ]
+    },
+    {
+      "h2": "Que mota escolher para um só dia",
+      "body": [
+        "Um aluguer de um dia não é o momento para aprender um tipo de mota novo. Escolha o que já sabe conduzir:",
+        {
+          "ul": [
+            "**Scooter automática** (Click, Mio, Vision, Air Blade): a opção mais simples para a cidade, sem mudanças.",
+            "**Semiautomática** (Wave, Sirius): mais económica, mas só para quem já conhece o funcionamento das mudanças de pé.",
+            "**50 cc**: para trajetos curtos e lentos; não acompanha bem as avenidas rápidas.",
+            "**Mota elétrica**: silenciosa e sem combustível, desde que a autonomia chegue para o percurso do dia."
+          ]
+        },
+        "Compare as diferenças com mais detalhe no guia de [tipos de motas](/tipos-de-motas/) ou na página das [scooters automáticas](/tipos-de-motas/scooters/). Se está a pensar numa Vision, veja [o que esperar da Honda Vision](/tipos-de-motas/honda-vision-em-hanoi/) em condução, consumo e arrumação."
+      ]
+    },
+    {
+      "h2": "Planear o dia: percurso, combustível e estacionamento",
+      "body": [
+        {
+          "h3": "Percurso"
+        },
+        "A loja fica em {{area}}, na margem leste do rio Vermelho. O primeiro troço do dia inclui normalmente uma ponte até ao centro, por isso vale a pena estudar o caminho no mapa antes de arrancar. Evite as horas de ponta da manhã e do fim da tarde e prefira percursos com poucas mudanças de direção nos primeiros quilómetros.",
+        {
+          "h3": "Combustível"
+        },
+        "Fotografe o painel quando recebe a mota e abasteça antes de a devolver, de acordo com o nível combinado. Não deixe chegar à reserva longe de um posto, sobretudo ao fim do dia.",
+        {
+          "h3": "Estacionamento"
+        },
+        "Nos parques de motas, o funcionário entrega uma senha ou talão: guarde-o até voltar. Bloqueie o guiador, não deixe objetos de valor debaixo do assento e leve o capacete consigo se não houver forma de o prender.",
+        {
+          "h3": "Tempo"
+        },
+        "Consulte a previsão antes de sair. Com chuva forte, a visibilidade e a aderência baixam muito; leve uma capa de chuva e esteja preparado para esperar num local abrigado."
+      ]
+    },
+    {
+      "h2": "Um exemplo de horário para o dia",
+      "body": [
+        "Cada pessoa faz o seu percurso, mas a gestão do tempo é parecida. Um dia sem pressa pode organizar-se assim:",
+        {
+          "table": {
+            "caption": "Exemplo de organização de um dia de aluguer",
+            "head": [
+              "Momento",
+              "O que fazer"
+            ],
+            "rows": [
+              [
+                "Manhã, depois da hora de ponta",
+                "Levantar a mota, fazer a inspeção e as fotografias, ajustar espelhos e capacete."
+              ],
+              [
+                "Primeira hora",
+                "Percurso curto e calmo para se habituar aos travões e ao trânsito antes de atravessar o rio."
+              ],
+              [
+                "Meio do dia",
+                "Estacionar num parque de motas e visitar a pé as zonas de ruas estreitas."
+              ],
+              [
+                "Tarde",
+                "Deslocações mais longas, com pausas para beber água e descansar."
+              ],
+              [
+                "Fim da tarde",
+                "Abastecer, regressar a {{area}} antes da hora de ponta e devolver a mota com margem antes das {{closes}}."
+              ]
+            ]
+          }
+        },
+        "O ponto essencial é não deixar a devolução para o último minuto: o trânsito do fim da tarde é o mais denso do dia e a luz começa a faltar."
+      ]
+    },
+    {
+      "h2": "Segurança em poucas regras",
+      "body": [
+        "Um dia de mota corre bem quando as regras básicas são cumpridas desde o primeiro minuto:",
+        {
+          "ol": [
+            "Capacete apertado para quem conduz e para o passageiro — a coima por não o usar é de 400.000 a 600.000 VND.",
+            "Zero álcool: desde 2025, a lei vietnamita não admite qualquer concentração de álcool a quem conduz.",
+            "Telemóvel guardado durante a condução; consulte o mapa apenas com a mota parada.",
+            "Um passageiro por mota, salvo as exceções previstas na lei.",
+            "Carta válida para a categoria do veículo e, para visitantes, a licença internacional reconhecida no Vietname."
+          ]
+        },
+        "A coima do primeiro ponto é o valor nacional do Decreto 168/2024. Desde 1 de julho de 2026, a Resolução 56/2026/NQ-HĐND multiplica por 1,5 ou 2 as coimas de 28 infrações de ordem pública e de trânsito cometidas em Hanói: confirme o montante em vigor.",
+        "Se não tem habilitação ou experiência suficientes, o mais sensato é não conduzir: um dia de passeio pode fazer-se com táxi ou mota com condutor."
+      ]
+    },
+    {
+      "h2": "Devolver a mota ao fim do dia",
+      "body": [
+        {
+          "steps": [
+            {
+              "title": "Chegue com margem",
+              "text": "Planeie chegar à loja algum tempo antes das {{closes}}, com o percurso de regresso já estudado."
+            },
+            {
+              "title": "Abasteça e retire os seus objetos",
+              "text": "Confirme o nível de combustível combinado e verifique o compartimento debaixo do assento."
+            },
+            {
+              "title": "Verificação conjunta",
+              "text": "Percorram a mota juntos, comparando com as fotografias da entrega."
+            },
+            {
+              "title": "Feche o acordo",
+              "text": "Se houve caução, a devolução segue o que foi combinado; peça o comprovativo do pagamento."
+            }
+          ]
+        },
+        "Se algo aconteceu durante o dia — um furo, um risco, uma multa —, diga-o logo no início da devolução. Explicar com calma e mostrar as fotografias resolve a maioria das situações."
+      ]
+    },
+    {
+      "h2": "Quando um dia de mota não compensa",
+      "body": [
+        "Há dias em que alugar uma mota não é a melhor opção. Se vai fazer apenas duas ou três deslocações curtas, um táxi ou uma mota com condutor pode sair mais simples. O mesmo vale para dias de chuva intensa, para planos que incluem bebidas alcoólicas ou para quem nunca conduziu uma mota.",
+        "Se, pelo contrário, quer liberdade para explorar a cidade ao seu ritmo e tem a documentação em ordem, um dia de mota é uma excelente forma de conhecer Hanói. Quando tiver as datas, [contacte a loja](/contactos/) para confirmar o modelo e o preço final."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Posso alugar uma mota só por algumas horas?",
+      "a": "A tabela da loja publica preços por dia, semana e mês. Para um período mais curto, pergunte diretamente à loja; não assuma que existe uma tarifa por hora."
+    },
+    {
+      "q": "A que horas posso levantar e devolver a mota?",
+      "a": "Dentro do horário de funcionamento da loja, {{hours}}. Levantamentos ou devoluções fora deste horário só com confirmação prévia da loja."
+    },
+    {
+      "q": "O preço diário inclui gasolina?",
+      "a": "A tabela refere-se ao aluguer do veículo. Combine o nível de combustível na entrega e na devolução e fotografe o painel quando receber a mota."
+    },
+    {
+      "q": "Preciso de carta de condução para alugar só por um dia?",
+      "a": "A duração do aluguer não muda as regras de trânsito: para conduzir, precisa de habilitação válida para a categoria da mota e, sendo visitante, da licença internacional reconhecida no Vietname."
+    }
+  ],
+  "sources": [
+    "tabela-precos-proprietario",
+    "lawnet-capacete-168",
+    "tuoitre-alcool-zero",
+    "lawnet-passageiros-2025",
+    "lei-36-2024-a1",
+    "hanoi-resolucao-56-2026"
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "READY_FOR_QA",
+  "revision": {
+    "reason": "Coimas em Hanói: aviso sobre a Resolução 56/2026/NQ-HĐND"
+  }
+}

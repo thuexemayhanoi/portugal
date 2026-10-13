@@ -1,0 +1,263 @@
+{
+  "contract_version": 1,
+  "id": "PT-0015",
+  "slug": "sistema-idling-stop",
+  "title": "Idling Stop da Honda: porque a scooter se desliga no semáforo",
+  "description": "Porque é que a scooter Honda desliga o motor sozinha nos semáforos, como voltar a arrancar, como desligar o Idling Stop e quando se trata mesmo de avaria.",
+  "h1": "Motor desligado no semáforo: como funciona o Idling Stop e como voltar a arrancar",
+  "summary": "Se a sua scooter Honda desliga o motor sozinha quando para num semáforo e mostra no painel um «A» rodeado por uma seta circular, é o Idling Stop a funcionar: com a função ativa, o motor para cerca de três segundos depois de a mota ficar imóvel e volta a pegar assim que roda o acelerador. Avaria é o motor não voltar a pegar.",
+  "key_points": [
+    "Com a função ativa, o motor desliga-se cerca de três segundos depois de a mota parar, para poupar combustível.",
+    "Para seguir, basta rodar o acelerador: o motor volta a pegar sem o botão de arranque.",
+    "Um «A» rodeado por uma seta circular no painel indica que o Idling Stop está ativo.",
+    "Há um interruptor para ligar e desligar a função: peça que lhe mostrem onde fica na sua unidade.",
+    "Se o motor não voltar a pegar com o acelerador, encoste em segurança e contacte a loja."
+  ],
+  "intro": [
+    "O semáforo fica vermelho, a mota para e, passados uns segundos, o motor cala-se. Para quem nunca conduziu uma scooter Honda recente, é natural pensar numa avaria e carregar logo no botão de arranque ou rodar a ignição. Se a mota tem Idling Stop, está apenas a fazer aquilo para que foi concebida: desligar o motor nas paragens e voltar a ligá-lo quando é preciso seguir.",
+    "Este guia explica como o sistema funciona, como voltar a arrancar, como o desligar e como distinguir uma paragem normal de uma avaria. A descrição apoia-se em documentação da Honda Vietname consultada em outubro de 2026 (a página da Vision, a apresentação da Vision 2026 e o manual da Vision), na explicação da Honda para o mercado indiano e em notícias vietnamitas de 2023. A unidade que lhe entregam pode ser de outra versão ou de outro ano e comportar-se de outra forma: peça que lhe mostrem a função antes de sair."
+  ],
+  "sections": [
+    {
+      "h2": "O que é o Idling Stop e em que scooters o encontra",
+      "body": [
+        "O Idling Stop é o sistema com que a Honda desliga automaticamente o motor nas paragens. A marca apresenta-o como uma forma de poupar combustível «conduzindo normalmente»: quando a mota fica parada, por exemplo num semáforo, o motor desliga-se em vez de ficar a trabalhar ao ralenti, e volta a ligar-se quando o condutor quer seguir.",
+        "Segundo a Honda Vietname, o motor eSP de 110 cc da Vision integra este sistema, também referido na apresentação da Vision 2026. O guia sobre a [Honda Air Blade 125 ou 160](/tipos-de-motas/honda-air-blade-125-ou-160/) refere que algumas unidades desse modelo também têm a função.",
+        "As fontes consultadas não dizem se todas as versões da Vision a trazem, e uma scooter de outra marca ou mais antiga pode não a ter. Antes de sair, confirme com a loja se a sua unidade tem Idling Stop e se está ligado. O resto da mota, do consumo à arrumação, está descrito no guia da [Honda Vision em Hanói](/tipos-de-motas/honda-vision-em-hanoi/)."
+      ]
+    },
+    {
+      "h2": "Quando é que o motor se desliga",
+      "body": [
+        "O Idling Stop não atua em qualquer paragem. Há condições prévias, que as fontes da Honda e a imprensa vietnamita descrevem assim:",
+        {
+          "table": {
+            "caption": "Quando o Idling Stop desliga o motor, e quando não",
+            "head": [
+              "Situação",
+              "O que acontece",
+              "Fonte"
+            ],
+            "rows": [
+              [
+                "Mota acabada de ligar, ainda sem andar",
+                "A função ainda não atua: só funciona depois de cumpridas certas condições, como ter passado dos 10 km/h",
+                "Manual da Vision"
+              ],
+              [
+                "Motor frio",
+                "O motor tem de estar suficientemente quente para o sistema atuar",
+                "Honda Índia"
+              ],
+              [
+                "Motor ligado sem o botão de arranque",
+                "O sistema pressupõe que o motor foi ligado com o botão de arranque",
+                "Honda Índia"
+              ],
+              [
+                "Mota imóvel, sem acelerar, durante três segundos ou mais",
+                "O motor desliga-se",
+                "Imprensa vietnamita (2023) e Honda Índia"
+              ],
+              [
+                "Rodar o acelerador com o motor parado pelo sistema",
+                "O motor volta a pegar e a mota arranca",
+                "Imprensa vietnamita (2023) e Honda Índia"
+              ]
+            ]
+          }
+        },
+        {
+          "note": "Os três segundos vêm da imprensa vietnamita e da Honda Índia; os 10 km/h, do manual da Vision. Outras versões e outros anos podem ter condições diferentes, e a sua unidade pode não seguir exatamente esta tabela.",
+          "tone": "info",
+          "title": "Números de fontes diferentes"
+        },
+        "Daqui resulta um comportamento que surpreende ao início. No para-arranca, quando a fila avança de poucos em poucos metros, o motor pode nem chegar a desligar-se, porque a mota não fica imóvel os três segundos necessários. É num semáforo demorado, com a função ativa e o motor quente, que mais o vai notar."
+      ]
+    },
+    {
+      "h2": "Voltar a arrancar: acelerador, e não botão",
+      "body": [
+        "Com o motor parado pelo Idling Stop, não precisa do botão de arranque nem da ignição: basta rodar o acelerador. Segundo a Honda Índia, ao abrir o acelerador o motor volta a pegar e a mota arranca de forma suave.",
+        "Isto tem uma consequência que convém interiorizar: nestas condições, a mota não está desligada. Está à espera do acelerador. Alguns cuidados ajudam:",
+        {
+          "ul": [
+            "**Mão relaxada no punho.** Enquanto espera, não rode o acelerador «para ver se pega»: a mota avança.",
+            "**Travão apertado nas paragens**, sobretudo nas rampas das pontes, para a mota não descair antes de acelerar.",
+            "**Não desça da mota com o motor parado pelo sistema.** O Idling Stop é uma pausa, e não um desligar: se vai sair da mota, desligue a ignição como faria normalmente.",
+            "**Nada de botão de arranque.** Não é preciso carregar nele nem rodar a ignição para «acordar» o motor: o acelerador basta."
+          ]
+        },
+        "Se rodar o acelerador e o motor não pegar, já não se trata do funcionamento normal. A secção sobre avarias, mais abaixo, diz o que fazer."
+      ]
+    },
+    {
+      "h2": "Desligar o Idling Stop: como e quando",
+      "body": [
+        "O manual da Vision indica que a mota tem um interruptor para ligar e desligar o Idling Stop, além de uma luz indicadora. Com a função ativa, a imprensa vietnamita descreve o símbolo no painel como a letra «A» rodeada por uma seta circular.",
+        "As fontes citadas aqui não descrevem onde fica o interruptor, e a posição pode variar entre modelos e anos. Peça que lho mostrem na entrega e experimente-o com a mota parada: ligue, desligue e veja o que muda no painel.",
+        "Desligar a função pode fazer sentido nestes casos:",
+        {
+          "ul": [
+            "nos primeiros dias em Hanói, se o motor a calar-se em cada semáforo o distrai ou o deixa inseguro;",
+            "se notar que o motor hesita ou demora a voltar a pegar: nesse caso, desligue a função e avise a loja;",
+            "antes de uma rampa longa com trânsito parado, se preferir arrancar sempre com o motor já a trabalhar."
+          ]
+        },
+        "Com a função desligada, a mota comporta-se como uma scooter sem Idling Stop: o motor fica a trabalhar nas paragens e perde-se a poupança de combustível que a Honda anuncia. Pergunte à loja se a função volta a ativar-se sozinha quando liga a mota, para não ser apanhado de surpresa no dia seguinte. As contas do combustível durante o aluguer estão no guia sobre o [combustível no aluguer](/precos/combustivel-no-aluguer/)."
+      ]
+    },
+    {
+      "h2": "Desligou-se sozinha: funcionamento normal ou avaria?",
+      "body": [
+        "Nem todos os motores que se calam são obra do Idling Stop. Esta tabela ajuda a separar os casos:",
+        {
+          "table": {
+            "caption": "O motor desligou-se: o que pode ser",
+            "head": [
+              "O que aconteceu",
+              "Causa provável",
+              "O que fazer"
+            ],
+            "rows": [
+              [
+                "Parou num semáforo, o motor calou-se ao fim de uns segundos e o «A» com a seta está no painel",
+                "Idling Stop a funcionar",
+                "Nada: rode o acelerador quando quiser seguir"
+              ],
+              [
+                "O motor parou quando baixou o descanso lateral",
+                "Interruptor do descanso lateral, que corta o motor para a mota não arrancar com o descanso em baixo",
+                "Recolha o descanso antes de voltar a ligar"
+              ],
+              [
+                "O motor parou com a mota em andamento",
+                "Não é o Idling Stop, que só atua com a mota parada",
+                "Encoste num sítio seguro e contacte a loja"
+              ],
+              [
+                "Rodou o acelerador e o motor não pegou",
+                "Possível falha do sistema ou outra avaria",
+                "Encoste em segurança e contacte a loja"
+              ],
+              [
+                "Uma luz de aviso ficou acesa no painel",
+                "Depende da luz",
+                "Fotografe o painel e contacte a loja"
+              ]
+            ]
+          }
+        },
+        "As avarias existem: em 2023, a imprensa vietnamita noticiou falhas do Idling Stop em motas Honda que deixaram os utilizadores preocupados. Se o motor não voltar a pegar com o acelerador, não insista no meio da faixa. Empurre a mota para fora da via, fotografe o painel e ligue para o {{phone}}. O guia de [assistência na estrada](/guia-de-aluguer/assistencia-na-estrada/) mostra a ordem a seguir nos primeiros minutos."
+      ]
+    },
+    {
+      "h2": "O Idling Stop no trânsito de Hanói",
+      "body": [
+        "Numa cidade com tantos semáforos e cruzamentos, o Idling Stop trabalha muito. Alguns hábitos ajudam a conviver com ele:",
+        {
+          "ul": [
+            "**Conte com o silêncio.** No primeiro semáforo, o motor vai calar-se: é normal, e não precisa de fazer nada até querer seguir.",
+            "**Arranque com calma quando abrir o verde.** O motor volta a pegar ao rodar o acelerador; dose-o como num arranque normal, sem puxões.",
+            "**Olhe à volta antes de acelerar.** Em Hanói, há motas a passar pelos dois lados mesmo enquanto a sua está parada.",
+            "**Desligue a função se ela o distrai.** Mais vale perder alguma poupança de combustível do que hesitar num cruzamento."
+          ]
+        },
+        "Se é a primeira vez que conduz uma mota, o Idling Stop é o menor dos desafios no trânsito de Hanói. Antes de alugar, leia a avaliação sobre [conduzir uma scooter sem experiência](/tipos-de-motas/nunca-conduziu-uma-mota/)."
+      ]
+    },
+    {
+      "h2": "O que perguntar quando levanta a mota",
+      "body": [
+        "Na entrega, junte estas perguntas às restantes verificações descritas no guia sobre [receber a mota alugada](/guia-de-aluguer/receber-a-mota/):",
+        {
+          "checklist": [
+            "Esta unidade tem Idling Stop? Está ligado neste momento?",
+            "Onde fica o interruptor, e que símbolo aparece no painel quando a função está ativa?",
+            "A função volta a ligar-se sozinha sempre que ligo a mota?",
+            "O que devo fazer se o motor não voltar a pegar com o acelerador?"
+          ]
+        },
+        "Para comparar modelos antes de reservar, a página das [scooters automáticas](/tipos-de-motas/scooters/) resume as diferenças entre eles. Para confirmar o equipamento da unidade que lhe vão entregar, use os [contactos da loja](/contactos/)."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Porque é que o motor às vezes não se desliga no semáforo?",
+      "a": "Porque as condições não estão todas reunidas. A função pode estar desligada no interruptor, o motor pode ainda estar frio, a mota pode ainda não ter passado dos 10 km/h, ou não ficou imóvel os três segundos necessários. Também pode acontecer que a unidade não tenha Idling Stop."
+    },
+    {
+      "q": "Não vejo o «A» com a seta no painel. A minha scooter tem Idling Stop?",
+      "a": "Pode não ter, ou pode ter a função desligada. Com o motor quente, dê uma volta acima dos 10 km/h e pare sem acelerar: se o motor não se desligar e o símbolo nunca aparecer, pergunte à loja. Uma fotografia do painel ajuda a esclarecer a dúvida à distância."
+    },
+    {
+      "q": "E se o motor se desligar numa subida, como na rampa de uma ponte?",
+      "a": "Com a mota parada, o comportamento é o mesmo: o motor desliga-se ao fim de uns segundos e volta a pegar quando roda o acelerador. Numa rampa, segure a mota com os travões enquanto espera e solte-os à medida que acelera. Se não se sentir à vontade, desligue a função antes de atravessar a ponte."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Página do modelo Honda Vision no site da Honda Việt Nam",
+      "publisher": "Honda Việt Nam",
+      "url": "https://www.honda.com.vn/xe-may/san-pham/vision?category=2",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "Notícia da Honda Việt Nam sobre a nova versão da Vision 2026 (em vietnamita)",
+      "publisher": "Honda Việt Nam",
+      "url": "https://www.honda.com.vn/xe-may/tin-tuc/honda-viet-nam-gioi-thieu-phien-ban-moi-mau-xe-vision-2026-bat-sac-tu-tin",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "4FK44A20 00X4F-K44-A200 SÁCH HƯỚNG DẪN SỬ DỤNG Vision Vision",
+      "publisher": "Honda Việt Nam",
+      "url": "https://cdn.honda.com.vn/motorbike-manual/September2025/vax6VIxISbzWmEpEfkZX.pdf",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "Save Fuel just by driving normally, with Honda's Idling Stop System",
+      "publisher": "Honda Motor Co. (global.honda)",
+      "url": "https://global.honda/en/tech/Idling_Stop_System/",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "en"
+    },
+    {
+      "title": "Página da Honda sobre o sistema Idling Stop (Índia)",
+      "publisher": "Honda Motorcycle & Scooter India (honda2wheelersindia.com)",
+      "url": "https://www.honda2wheelersindia.com/about/technology/idling-stop-system",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "en"
+    },
+    {
+      "title": "Xe máy Honda gặp lỗi Idling Stop khiến người dùng bất an",
+      "publisher": "VietnamFinance",
+      "url": "https://vietnamfinance.vn/xe-may-honda-gap-loi-idling-stop-khien-nguoi-dung-bat-an-d94272.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Perguntas frequentes da Honda Việt Nam: informações gerais (em vietnamita)",
+      "publisher": "Honda Việt Nam",
+      "url": "https://honda.com.vn/cau-hoi-thuong-gap?category=&category_child=&category_tab=thong-tin-chung",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    }
+  ],
+  "legal_note": false,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "READY_FOR_QA"
+}

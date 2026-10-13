@@ -1,0 +1,349 @@
+{
+  "contract_version": 1,
+  "id": "PT-0058",
+  "slug": "autonomia-real-mota-eletrica",
+  "title": "Autonomia real de uma mota elétrica: o que a reduz e como planear",
+  "description": "A autonomia anunciada de uma mota elétrica é medida a 30 km/h com uma pessoa de 65 kg. Veja o que a reduz e como planear um dia sem ficar sem bateria.",
+  "h1": "Quantos quilómetros faz, na prática, uma mota elétrica e como planear o dia",
+  "summary": "A autonomia real de uma mota elétrica fica abaixo do valor anunciado, que a VinFast mede a 30 km/h com uma pessoa de 65 kg. Nos números da própria marca, a Evo200 Lite passa de 205 km para 149 km a 45 km/h com 70 kg e para 146 km em condições mistas. Planeie o dia com a distância que a loja considera realista para a unidade, contando a ida e o regresso.",
+  "key_points": [
+    "A autonomia da ficha técnica é um valor de teste: 30 km/h e uma pessoa de 65 kg, nos modelos VinFast citados.",
+    "Mais velocidade e mais peso custam quilómetros: a Evo200 Lite perde cerca de 27 % a 45 km/h com 70 kg (cálculo a partir dos valores da marca).",
+    "Para passageiro, calor e subidas, as fontes consultadas não dão números: reserve margem em vez de fazer contas otimistas.",
+    "Num passeio de ida e volta, comece a regressar antes de gastar metade da bateria.",
+    "Uma carga completa demora horas: um dia mal calculado não se corrige com uma pausa curta."
+  ],
+  "intro": [
+    "«Mais de 200 km com uma carga» é o tipo de número que se lê nas fichas das motas elétricas, e é verdadeiro nas condições em que foi medido. Num dia em Hanói, com semáforos, calor, um passageiro ou uma avenida mais rápida, as condições são outras, e a distância que a bateria aguenta também.",
+    "Este guia explica como se mede a autonomia anunciada, o que a faz baixar e como planear um dia de mota elétrica com margem. Os valores citados são da VinFast e servem de exemplo: a loja {{brand}} não publica o modelo da sua mota elétrica, por isso a autonomia da unidade que vai conduzir confirma-se com ela."
+  ],
+  "sections": [
+    {
+      "h2": "Como se mede a autonomia anunciada",
+      "body": [
+        "A VinFast indica a autonomia dos seus modelos em condições-padrão: a 30 km/h e com uma pessoa de 65 kg. É uma forma de comparar modelos entre si, e não uma previsão do seu dia. Em quatro dos seus modelos, os valores são estes:",
+        {
+          "table": {
+            "caption": "Autonomia anunciada pela VinFast (exemplos; não é a ficha da mota da loja)",
+            "head": [
+              "Modelo",
+              "Em condições-padrão",
+              "Noutras condições, segundo a marca"
+            ],
+            "rows": [
+              [
+                "Evo200",
+                "203 km",
+                "sem valores nas fontes consultadas"
+              ],
+              [
+                "Evo200 Lite",
+                "205 km",
+                "149 km a 45 km/h com 70 kg; 146 km em condições mistas"
+              ],
+              [
+                "Feliz S",
+                "cerca de 198 km",
+                "sem valores nas fontes consultadas"
+              ],
+              [
+                "Vento S",
+                "160 km",
+                "sem valores nas fontes consultadas"
+              ]
+            ]
+          }
+        },
+        "Só para um dos exemplos as fontes consultadas trazem valores fora das condições-padrão, e são esses os mais úteis para planear. Repare também na diferença entre modelos da mesma marca: segundo a VinFast, o Vento faz 110 km e o Vento S 160 km. Dizer «mota elétrica», sem mais, não diz nada sobre a autonomia.",
+        "Por isso, a primeira pergunta à loja é o modelo, a versão e o ano da unidade. A unidade de aluguer pode até ser de outra marca, ou de uma geração anterior à das fichas atuais."
+      ]
+    },
+    {
+      "h2": "O que faz a autonomia baixar",
+      "body": [
+        "Há efeitos com números publicados e outros que as fontes consultadas não quantificam. Vale a pena separá-los, para não somar descontos inventados nem esquecer as incógnitas.",
+        {
+          "h3": "Velocidade e peso"
+        },
+        "É o único efeito com números da própria marca. A Evo200 Lite, anunciada com 205 km a 30 km/h com 65 kg, faz 149 km a 45 km/h com uma pessoa de 70 kg: cerca de 27 % menos (cálculo a partir dos valores da VinFast). A marca não separa o efeito da velocidade do efeito do peso, mas o sentido é claro: quanto mais longe das condições de teste, menos quilómetros.",
+        {
+          "h3": "Percurso misto"
+        },
+        "Para a mesma Evo200 Lite, a VinFast indica 146 km em condições mistas, cerca de 29 % abaixo do valor-padrão (cálculo). A fonte não detalha o que entra nessas condições. Ainda assim, o trânsito de uma cidade raramente se parece com 30 km/h constantes, por isso um valor deste tipo é melhor ponto de partida para um dia em Hanói do que o da ficha.",
+        {
+          "h3": "Passageiro e bagagem"
+        },
+        "Os valores-padrão contam com uma só pessoa de 65 kg. Com passageiro, o peso de quem vai a bordo duplica ou mais, e as fontes consultadas não dizem quantos quilómetros isso custa. Se vai andar a dois, peça à loja a distância realista com duas pessoas e não use o número da ficha.",
+        {
+          "h3": "Calor, subidas e idade da bateria"
+        },
+        "As fontes consultadas não indicam quanto pesam o calor, as subidas ou a idade da bateria nos modelos citados. Não há, portanto, um desconto fiável a aplicar. Trate-os como incógnitas: em dias quentes, em percursos com pontes e rampas ou numa mota com alguns anos, olhe para o indicador mais cedo e mais vezes, e guarde mais margem."
+      ]
+    },
+    {
+      "h2": "Planear o dia com margem",
+      "body": [
+        "Planear um dia de mota elétrica é fazer uma conta simples com números honestos. Siga esta ordem:",
+        {
+          "steps": [
+            {
+              "title": "Peça o número realista",
+              "text": "Pergunte à loja que distância faz a unidade com uma carga, nas condições em que a vai usar: sozinho ou a dois, na cidade ou em estrada."
+            },
+            {
+              "title": "Meça o dia no mapa",
+              "text": "Some todas as etapas, incluindo o regresso ao alojamento ou à loja. Num passeio de ida e volta, o regresso gasta tanto como a ida."
+            },
+            {
+              "title": "Deixe margem",
+              "text": "O total do dia deve ficar bem abaixo do número realista, para cobrir desvios, ruas fechadas, trânsito ou um engano no caminho."
+            },
+            {
+              "title": "Decida onde carrega",
+              "text": "Se o plano não couber numa carga com folga, encurte-o ou garanta pelo meio uma carga num sítio confirmado, sabendo que demora horas."
+            }
+          ]
+        },
+        "Para dar escala a estas contas, eis as distâncias de três passeios conhecidos, segundo guias de viagem e o portal oficial de turismo do Vietname:",
+        {
+          "table": {
+            "caption": "Distâncias aproximadas e o que significam para a bateria",
+            "head": [
+              "Passeio",
+              "Distância indicada",
+              "Na conta da bateria"
+            ],
+            "rows": [
+              [
+                "Volta ao Lago Oeste (Hồ Tây)",
+                "cerca de 15 a 20 km, conforme o traçado",
+                "Uma parte pequena de uma carga; some o caminho de ida e volta até ao lago."
+              ],
+              [
+                "Aldeia de cerâmica de Bát Tràng",
+                "cerca de 14 km do centro, por sentido",
+                "Cerca de 28 km ida e volta (cálculo), mais as deslocações na cidade."
+              ],
+              [
+                "Ninh Bình",
+                "cerca de 90 a 100 km de Hanói, por sentido",
+                "180 a 200 km ida e volta (cálculo): acima dos 146 km da Evo200 Lite em condições mistas."
+              ]
+            ]
+          }
+        },
+        "Os dois primeiros passeios cabem numa carga com folga, desde que a unidade fique perto dos valores dos exemplos. Uma ida e volta a Ninh Bình não cabe com margem, nem sequer nas condições-padrão de alguns modelos, como os 160 km do Vento S. Além disso, levar a mota alugada para fora de Hanói exige acordo prévio da loja, como explica o guia sobre [sair de Hanói com a mota alugada](/guia-de-aluguer/autorizacao-para-sair-de-hanoi/).",
+        "Para um dia inteiro dentro da cidade, o [itinerário de um dia de mota a partir de Long Biên](/rotas-e-mobilidade/hanoi-de-mota-num-dia/) dá uma boa base para medir o percurso no mapa antes de sair."
+      ]
+    },
+    {
+      "h2": "Durante o dia: quando voltar para trás",
+      "body": [
+        "Na entrega, pergunte como o painel da unidade mostra a carga restante e a partir de que nível a loja recomenda voltar ou carregar. Se o painel mostrar a carga em barras, pergunte também quantos quilómetros a unidade faz, aproximadamente, com cada uma. Depois, use estas regras ao longo do dia:",
+        {
+          "ul": [
+            "**A regra da metade**: num passeio de ida e volta, comece o regresso antes de ter gasto metade da bateria. O caminho de volta tem o mesmo comprimento, e ao fim do dia sobra menos tempo para imprevistos.",
+            "**Uma verificação a meio da manhã**: se a bateria está a descer mais depressa do que os quilómetros feitos fariam prever, encurte o plano logo aí, e não ao fim da tarde.",
+            "**Abrandar quando a margem aperta**: nos números da VinFast, andar mais depressa, e com mais peso, custou à Evo200 Lite mais de um quarto da autonomia.",
+            "**Nada de contar com uma carga rápida**: nos exemplos da VinFast, uma carga completa demora cerca de 6 a 10 horas, por isso uma pausa para almoço recupera pouco."
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "Se a bateria estiver a acabar",
+      "body": [
+        "Se perceber que não chega ao destino, decida cedo, enquanto ainda tem por onde escolher:",
+        {
+          "steps": [
+            {
+              "title": "Encoste em segurança",
+              "text": "Pare num local afastado do trânsito antes de consultar o telemóvel ou de fazer contas."
+            },
+            {
+              "title": "Contacte a loja",
+              "text": "Diga onde está e quanta bateria resta. É a loja que sabe se a unidade pode carregar ou trocar a bateria por perto; o número é o {{phone}}."
+            },
+            {
+              "title": "Procure onde carregar",
+              "text": "Só conte com um ponto de carregamento ou de troca de bateria se a loja confirmar que a unidade é compatível com essa rede."
+            },
+            {
+              "title": "Não espere pelo zero",
+              "text": "Combine a solução com a loja antes de a bateria acabar de vez, enquanto a mota ainda se desloca pelos próprios meios."
+            }
+          ]
+        },
+        "Em Hanói, as redes públicas estão a crescer, mas servem marcas concretas. Para as motas VinFast, a V-Green fechou em junho de 2026 com a empresa de eletricidade de Hanói (EVNHANOI) um plano de milhares de armários de troca de baterias; quantos estão já em serviço, as notícias não dizem. A Honda Vietname anunciou uma rede própria para os seus modelos elétricos. Num aperto, só lhe servem se a unidade for compatível: esclareça isso com a loja antes de sair.",
+        "O que esperar da loja quando a mota fica parada, e o que perguntar antes, está no guia sobre [assistência na estrada](/guia-de-aluguer/assistencia-na-estrada/)."
+      ]
+    },
+    {
+      "h2": "Perguntas sobre autonomia para fazer à loja",
+      "body": [
+        "Peça as respostas por escrito, com as datas do aluguer, através dos [contactos da loja](/contactos/):",
+        {
+          "checklist": [
+            "Que marca, modelo, versão e ano tem a unidade?",
+            "Que distância faz com uma carga, sozinho e com passageiro?",
+            "Como mostra o painel a carga restante, e a partir de que nível devo voltar?",
+            "Quanto tempo demora uma carga completa com o carregador que segue com a mota?",
+            "A unidade pode usar alguma rede pública de carregamento ou de troca de bateria?",
+            "O que faço se a bateria acabar longe da loja?"
+          ]
+        },
+        "Com estas respostas, a escolha entre a elétrica e uma scooter a gasolina fica mais clara. O guia de [tipos de motas](/tipos-de-motas/) resume para quem serve cada tipo."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Se a loja não souber dizer a autonomia, como a posso medir?",
+      "a": "Faça um primeiro dia curto e perto do alojamento. Anote a distância percorrida, no conta-quilómetros ou na aplicação de mapas, e quanto baixou a bateria. Com essa proporção, estime a distância que faria com a carga completa e use-a, com margem, para planear os dias seguintes."
+    },
+    {
+      "q": "Se andar sempre devagar, posso contar com a autonomia da ficha?",
+      "a": "Não convém. O valor-padrão pressupõe 30 km/h e uma pessoa de 65 kg, e o trânsito não deixa manter uma velocidade certa durante o dia todo. Use o número da ficha como teto, e não como objetivo, e planeie com a distância realista que a loja indicar para a unidade."
+    },
+    {
+      "q": "Quanto tempo demora a recarregar depois de um dia longo?",
+      "a": "Nos exemplos da VinFast, uma carga de 0 a 100 % demora cerca de 6 horas com carregador de 1000 W e cerca de 10 horas com o de 400 W. Depois de um dia que gastou quase toda a bateria, conte com uma noite inteira ligada à corrente e confirme o tempo da sua unidade com a loja."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Thông số kỹ thuật xe điện VinFast Evo200 - Mẫu xe điện mới nhiều cải tiến và tính năng thông minh",
+      "publisher": "VinFast",
+      "url": "https://vinfastauto.com/vn_vi/thong-so-ky-thuat-evo200",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "Đánh giá pin xe máy điện VinFast Evo200 sạc 1 lần đi được 203km",
+      "publisher": "VinFast",
+      "url": "https://vinfastauto.com/vn_vi/danh-gia-pin-xe-may-dien-vinfast-evo200",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "Hệ thống pin xe máy điện VinFast Evo200 Lite có gì đặc biệt?",
+      "publisher": "VinFast",
+      "url": "https://vinfastauto.com/vn_vi/he-thong-pin-xe-may-dien-vinfast-evo200-lite",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "Hướng dẫn sạc xe VinFast Evo200 đúng chuẩn",
+      "publisher": "VinFast",
+      "url": "https://vinfastauto.com/vn_vi/huong-dan-sac-xe-vinfast-evo-200",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "Thông số kỹ thuật xe máy điện VinFast Feliz S mới nhất",
+      "publisher": "VinFast",
+      "url": "https://vinfastauto.com/vn_vi/kham-pha-thong-so-ky-thuat-xe-may-dien-vinfast-feliz-s",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "Tìm hiểu hệ thống pin xe máy điện VinFast Feliz S",
+      "publisher": "VinFast",
+      "url": "https://vinfastauto.com/vn_vi/he-thong-pin-xe-may-dien-vinfast-feliz-s",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "Thông số kỹ thuật Vento S vượt trội trong phân khúc",
+      "publisher": "VinFast",
+      "url": "https://vinfastauto.com/vn_vi/thong-so-ky-thuat-vento-s",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "So sánh xe máy điện VinFast Vento và Vento S",
+      "publisher": "VinFast",
+      "url": "https://vinfastauto.com/vn_vi/so-sanh-xe-may-dien-vinfast-vento-va-vento-s",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "V-Green hợp tác với EVNHANOI triển khai 10.000 tủ đổi pin xe máy điện",
+      "publisher": "Mekong ASEAN",
+      "url": "https://mekongasean.vn/v-green-hop-tac-voi-evnhanoi-trien-khai-10000-tu-doi-pin-xe-may-dien-56440.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "V-Green hợp tác EVNHANOI triển khai 10.000 tủ đổi pin xe máy điện",
+      "publisher": "The Leader",
+      "url": "https://theleader.vn/v-green-hop-tac-evnhanoi-trien-khai-10000-tu-doi-pin-xe-may-dien-d46517.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Abertura da venda das motas elétricas Honda CUV e: e UC3 e instalação de estações de troca e de carregamento de baterias nas grandes cidades (notícia em vietnamita)",
+      "publisher": "Honda Việt Nam",
+      "url": "https://www.honda.com.vn/xe-may/tin-tuc/honda-viet-nam-mo-ban-hai-mau-xe-may-dien-honda-cuv-e-va-honda-uc3-trien-khai-he-thong-tram-doi-pin-va-tram-sac-pin-tai-cac-thanh-pho-lon",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "Guia do Lago Oeste (Hồ Tây) de Hanói (artigo em vietnamita)",
+      "publisher": "Vinpearl",
+      "url": "https://vinpearl.com/vi/ho-tay-ha-noi",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Quantos quilómetros tem uma volta ao Lago Oeste (artigo em vietnamita)",
+      "publisher": "Xanh SM (GSM)",
+      "url": "https://www.greensm.com/vn-vi/news/1-vong-ho-tay-bao-nhieu-km",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Chuyến đi trong ngày đến Làng gốm Bát Tràng",
+      "publisher": "Vietnam Tourism (vietnam.travel)",
+      "url": "https://vietnam.travel/jp/node/1654",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "vi"
+    },
+    {
+      "title": "Guia de uma viagem independente a Ninh Bình (artigo em vietnamita)",
+      "publisher": "Mytour",
+      "url": "https://mytour.vn/vi/blog/bai-viet/danh-gia-toan-dien-ve-chuyen-du-lich-tu-tuc-ninh-binh.html",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Reportagem sobre uma visita a Ninh Bình e à antiga capital Hoa Lư (em vietnamita)",
+      "publisher": "Znews",
+      "url": "https://znews.vn/ve-ninh-binh-tham-co-do-hoa-lu-post271223.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    }
+  ],
+  "legal_note": false,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "READY_FOR_QA"
+}

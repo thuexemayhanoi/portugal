@@ -1,0 +1,295 @@
+{
+  "contract_version": 1,
+  "id": "PT-0079",
+  "slug": "alugar-mota-no-tet",
+  "title": "Alugar mota no Tết e noutros feriados: disponibilidade e prazos",
+  "description": "Como organizar o aluguer de mota em Hanói quando as datas apanham o Tết ou outro feriado: perguntas para a loja, prazos e o plano para a devolução.",
+  "h1": "Uma mota alugada nos dias do Tết: levantamento, devolução e imprevistos combinados a tempo",
+  "summary": "Se o aluguer apanhar o Tết ou outro feriado, pergunte à loja, antes de fechar as datas, se abre nos dias que lhe interessam, a que horas e como se fazem o levantamento, a devolução e um prolongamento. O horário habitual é {{hours}}, mas o site não indica o horário nos feriados. Em 2027, o Tết é a 6 de fevereiro, e as férias oficiais propostas vão de 4 a 10 de fevereiro.",
+  "key_points": [
+    "O site não publica o horário da loja no Tết nem noutros feriados: o horário habitual é {{hours}}, e qualquer exceção confirma-se com a loja.",
+    "Em 2027, o Tết é a 6 de fevereiro; as férias oficiais propostas vão de 4 a 10 de fevereiro, mas a 2 de setembro de 2026 eram ainda uma proposta.",
+    "Pergunte cedo e por escrito: abertura nos dias de festa, horas de levantamento e devolução, prolongamento e o que fazer se a mota avariar.",
+    "Se um feriado empurrar a devolução para depois das férias, a mota pode ficar consigo mais dias: compare o total com a tarifa semanal.",
+    "A tabela de referência não tem preços próprios para feriados; o valor final é o que a loja confirmar para as suas datas."
+  ],
+  "intro": [
+    "Um aluguer de mota que apanha o Tết, o Ano Novo Lunar, ou outro feriado nacional levanta perguntas que não surgem noutras alturas. A loja abre no dia em que quer levantar ou devolver a mota? Pode prolongar o aluguer a meio das férias? E a quem recorre se a mota tiver um problema quando muitos serviços trabalham com horários diferentes?",
+    "Este guia ajuda a organizar o aluguer na loja {{brand}}, em {{area}}, à volta dessas datas. Não diz se a loja abre ou fecha nos feriados, porque o site não publica essa informação: indica o que perguntar, quando perguntar e como deixar tudo escrito. As tarifas de referência estão na [página de preços](/precos/)."
+  ],
+  "sections": [
+    {
+      "h2": "O que está publicado e o que tem de perguntar",
+      "body": [
+        "Três informações publicadas servem de ponto de partida:",
+        {
+          "ul": [
+            "**Horário habitual**: {{hours.display}} Levantar ou devolver fora deste horário depende sempre de acordo prévio com a loja.",
+            "**Preços**: a tabela de referência indica valores por dia, semana e mês, sem distinguir datas de feriado.",
+            "**Condições**: a nota da tabela lembra que a loja confirma o valor final, a disponibilidade e as condições antes de cada aluguer."
+          ]
+        },
+        "O que o site não publica é precisamente o que pode mudar nos feriados: se a loja abre nos dias de festa, com que horário, que modelos tem livres nessas datas e se alguma condição muda. Só a loja pode responder, e convém ter as respostas por escrito antes de fechar as datas.",
+        {
+          "note": "O horário publicado não distingue feriados. Antes de marcar um levantamento ou uma devolução no Tết ou noutro feriado nacional, pergunte se a loja abre nesse dia e a que horas, sem partir do princípio de que a resposta é a de um dia normal.",
+          "tone": "warn",
+          "title": "Horário nos feriados: confirme sempre"
+        }
+      ]
+    },
+    {
+      "h2": "As datas a ter em conta",
+      "body": [
+        "O Tết pede mais planeamento do que os outros feriados: as férias duram pelo menos cinco dias e a data muda todos os anos, porque segue o calendário lunar. Para o Tết de 2027, as datas são estas:",
+        {
+          "table": {
+            "caption": "O Tết de 2027 e o estado das férias oficiais",
+            "head": [
+              "Data",
+              "O que é",
+              "Estado"
+            ],
+            "rows": [
+              [
+                "Sexta-feira, 5 de fevereiro de 2027",
+                "Véspera do Ano Novo Lunar",
+                "Data já conhecida (calendário lunar)"
+              ],
+              [
+                "Sábado, 6 de fevereiro de 2027",
+                "1.º dia do Ano Novo Lunar",
+                "Data já conhecida (calendário lunar)"
+              ],
+              [
+                "De 4 a 10 de fevereiro de 2027",
+                "Férias da função pública, 7 dias",
+                "Proposta do Ministério do Interior; a 2 de setembro de 2026, a decisão do Primeiro-Ministro ainda não era conhecida"
+              ]
+            ]
+          }
+        },
+        "As férias da função pública não são as de toda a gente: nas empresas privadas, os dias de Tết são escolhidos pelo empregador, com um mínimo de cinco. Uma loja pode, por isso, ter o seu próprio calendário, o que é mais uma razão para perguntar diretamente em vez de deduzir a partir das férias oficiais.",
+        "Os outros feriados nacionais — o Dia dos Reis Hùng, o 30 de Abril, o 1.º de Maio e o Dia Nacional, a 2 de setembro — são mais curtos, mas podem formar fins de semana prolongados. As mesmas perguntas aplicam-se quando o levantamento ou a devolução calham num deles."
+      ]
+    },
+    {
+      "h2": "Levantamento e devolução quando o feriado se mete pelo meio",
+      "body": [
+        "O ponto mais delicado de um aluguer nos feriados é o dia da devolução. Se a data combinada calhar num dia em que a loja não atende, ou atende com outro horário, a devolução tem de mudar, e isso pode alterar o número de dias pagos. A tabela seguinte resume cinco cenários e o que combinar em cada um:",
+        {
+          "table": {
+            "caption": "Cenários de aluguer com feriados e o que combinar",
+            "head": [
+              "Situação",
+              "O que perguntar",
+              "O que deve ficar escrito"
+            ],
+            "rows": [
+              [
+                "Quer levantar a mota já durante as férias",
+                "Se a loja entrega motas nesse dia e a que horas",
+                "Data, hora e modelo do levantamento"
+              ],
+              [
+                "A devolução calha num dia de festa",
+                "Se pode devolver nesse dia ou se deve antecipar ou adiar",
+                "Nova data e hora, e número de dias a pagar"
+              ],
+              [
+                "O aluguer atravessa as férias inteiras",
+                "O total para o período completo",
+                "Preço total e data de devolução depois das férias"
+              ],
+              [
+                "Quer prolongar a meio das férias",
+                "Até quando pode pedir e quem responde nesses dias",
+                "Pedido feito antes da véspera e confirmação da loja"
+              ],
+              [
+                "Tem um voo pouco depois das férias",
+                "Se a loja abre no dia da devolução e a que horas",
+                "Devolução com margem, de preferência na véspera do voo"
+              ]
+            ]
+          }
+        },
+        "Se tiver de devolver a mota antes ou depois do previsto por causa do feriado, pergunte como se conta o último dia. O guia das [horas de levantamento e devolução](/precos/horas-de-levantamento-e-devolucao/) explica as duas formas habituais de contar um dia de aluguer.",
+        {
+          "h3": "Prolongar ou encurtar durante as férias"
+        },
+        "Um prolongamento pedido em cima da hora, num dia de festa, pode não ter resposta a tempo. Se há hipótese de querer a mota mais uns dias, decida antes da véspera e siga os passos do guia sobre [prolongar o aluguer](/precos/prolongar-o-aluguer/). Se, pelo contrário, vai passar as férias fora de Hanói sem a mota, pergunte antes como funciona a [devolução antecipada](/precos/devolver-a-mota-mais-cedo/) e se compensa terminar o aluguer mais cedo."
+      ]
+    },
+    {
+      "h2": "Dias avulsos ou semana: quando o feriado alonga o aluguer",
+      "body": [
+        "Quando um feriado empurra a devolução para depois das férias, a mota pode ficar consigo mais dias do que precisava. Nesse caso, compare o total ao dia com a tarifa semanal. Numa [Honda Vision](/tipos-de-motas/honda-vision-em-hanoi/), por exemplo, a semana custa {{price.vision.week}}; a {{price.vision.day}} por dia, a partir de {{price.vision.weekFrom}} dias de aluguer a semana já sai igual ou mais em conta.",
+        {
+          "component": "duration-compare"
+        },
+        "A comparação é calculada a partir da tabela em vigor e acompanha qualquer atualização de preços. O total que conta é sempre o que a loja confirmar por escrito para as suas datas. O guia do [aluguer semanal](/precos/aluguer-semanal-de-mota/) mostra o que combinar quando opta pela semana."
+      ]
+    },
+    {
+      "h2": "Os prazos: o que tratar e quando",
+      "body": [
+        "Para saber, em geral, com quanta antecedência contactar a loja, veja o guia sobre [reservar com antecedência](/precos/reservar-com-antecedencia/). Num aluguer que apanha o Tết de 2027, este calendário ajuda a não deixar nada para a última semana:",
+        {
+          "steps": [
+            {
+              "title": "Assim que souber as datas da viagem",
+              "text": "Envie à loja as datas, o modelo e uma alternativa, e acrescente as perguntas sobre os dias de festa: abertura, horário, levantamento, devolução e prolongamento."
+            },
+            {
+              "title": "Quando o calendário oficial for decidido",
+              "text": "Se as férias definitivas forem diferentes da proposta de 4 a 10 de fevereiro, reconfirme com a loja tudo o que dependia dessas datas."
+            },
+            {
+              "title": "Até 29 de janeiro, uma semana antes da véspera",
+              "text": "Resolva o que precisar de uma oficina, porque muitas fecham alguns dias no Tết, e confirme o levantamento, se ainda não tiver a mota."
+            },
+            {
+              "title": "Antes de 4 de fevereiro",
+              "text": "Confirme por escrito a data e a hora de devolução, o contacto a usar durante as férias e o que fazer em caso de avaria. Abasteça a mota."
+            },
+            {
+              "title": "No fim das férias",
+              "text": "Reconfirme a devolução um ou dois dias antes e conte com margem no trajeto até {{area}}."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "Se a mota avariar durante as férias",
+      "body": [
+        "Durante o Tết, muitos serviços mudam de horário e muitas oficinas fecham alguns dias. Um furo ou uma bateria descarregada, que noutro dia se resolvem numa oficina de rua, podem demorar mais. Combine antes das férias:",
+        {
+          "checklist": [
+            "quem atende da parte da loja durante os dias de festa, e por que meio: chamada ou Zalo, para o {{phone}};",
+            "se pode mandar reparar um furo numa oficina aberta e como se acerta esse custo depois;",
+            "o que fazer se a mota não puder andar: onde a deixar e se a loja a vai buscar;",
+            "se há mota de substituição nesses dias e em que condições."
+          ]
+        },
+        "Os guias sobre [assistência na estrada](/guia-de-aluguer/assistencia-na-estrada/) e sobre o [custo de furos e reparações](/precos/custo-de-furos-e-reparacoes/) ajudam a preparar estas perguntas."
+      ]
+    },
+    {
+      "h2": "A mensagem a enviar à loja",
+      "body": [
+        "Pode juntar tudo numa só mensagem, por telefone ou Zalo, para o {{phone}}. Para um aluguer que apanha o Tết, estas perguntas cobrem o essencial:",
+        {
+          "checklist": [
+            "A loja abre nos dias de festa? Em que dias e com que horário?",
+            "Posso levantar a mota na data que proponho e devolvê-la na data prevista? Se não, que datas sugerem?",
+            "Como se conta o aluguer se a devolução passar para depois das férias?",
+            "O total para estas datas segue a tabela de referência?",
+            "Até quando posso pedir um prolongamento, e quem responde durante as férias?",
+            "Se a mota avariar nesses dias, a quem ligo e o que posso mandar reparar por minha conta?"
+          ]
+        },
+        "Guarde a resposta na mesma conversa da reserva. Se as datas mudarem, por causa do calendário oficial ou da viagem, o guia sobre [alterar ou cancelar a reserva](/precos/alterar-ou-cancelar-a-reserva/) mostra como o fazer. A morada e o horário habitual estão na página de [contactos](/contactos/)."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "A loja abre durante o Tết?",
+      "a": "Este site não publica o horário da loja nos dias do Tết. O horário habitual é {{hours}}; para as datas da festa, pergunte diretamente à loja, pelo {{phone}}, e peça a resposta por escrito antes de fechar as datas do aluguer."
+    },
+    {
+      "q": "O aluguer fica mais caro nos feriados?",
+      "a": "A tabela de referência não tem preços próprios para feriados: indica valores por dia, semana e mês. O que conta é o total que a loja confirmar para as suas datas, por isso peça-o por escrito e pergunte se os dias de festa entram na conta como os outros."
+    },
+    {
+      "q": "Posso reservar já a mota para o Tết de 2027?",
+      "a": "Pode contactar a loja assim que souber as datas da viagem. A reserva só conta depois de confirmada por escrito, com o modelo, as datas, as horas e o preço total. Como as férias oficiais de 2027 eram ainda uma proposta em setembro de 2026, volte a confirmar as datas quando o calendário for decidido."
+    },
+    {
+      "q": "O que faço se a loja estiver fechada no dia da devolução?",
+      "a": "Combine antes uma alternativa: devolver a mota antes das férias ou no primeiro dia de abertura depois delas. Pergunte quantos dias paga em cada caso e deixe a nova data escrita. Não deixe a mota à porta da loja nem com terceiros sem acordo prévio."
+    }
+  ],
+  "sources": [
+    "tabela-precos-proprietario",
+    {
+      "title": "Tết âm lịch 2027 là ngày mấy dương lịch?",
+      "publisher": "Thư Viện Pháp Luật",
+      "url": "https://thuvienphapluat.vn/hoi-dap-phap-luat/tet-am-lich-2027-la-ngay-may-duong-lich-138050948.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "Tết 2027 vào ngày nào? Tết 2027 năm con gì?",
+      "publisher": "Thư Viện Pháp Luật",
+      "url": "https://thuvienphapluat.vn/hoi-dap-phap-luat/tet-2027-vao-ngay-nao-tet-2027-nam-con-gi-138079418.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "Lịch nghỉ Tết 2027: Mùng 1 vào thứ mấy, dự kiến nghỉ bao lâu?",
+      "publisher": "FPT Shop",
+      "url": "https://fptshop.com.vn/tin-tuc/for-gamers/lich-nghi-tet-2027-210548",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Lịch nghỉ tết 2027: Người lao động được nghỉ bao nhiêu ngày?",
+      "publisher": "MISA AMIS",
+      "url": "https://amis.misa.vn/?p=224679",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Nghỉ Tết Nguyên đán 2027: Đề xuất 2 phương án, dài nhất lên tới 10 ngày liên tiếp",
+      "publisher": "VietnamPlus",
+      "url": "https://www.vietnamplus.vn/nghi-tet-nguyen-dan-2027-de-xuat-2-phuong-an-dai-nhat-len-toi-10-ngay-lien-tiep-post1128199.vnp",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Lịch nghỉ Tết Nguyên đán 2027: Đề xuất 2 phương án nghỉ 7 ngày và 10 ngày liên tục",
+      "publisher": "LuatVietnam",
+      "url": "https://luatvietnam.vn/tin-van-ban-moi/lich-nghi-tet-nguyen-dan-2027-de-xuat-2-phuong-an-nghi-7-ngay-va-10-ngay-lien-tuc-186-111175-article.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "Dự kiến các ngày nghỉ lễ, Tết năm 2027",
+      "publisher": "CafeF",
+      "url": "https://cafef.vn/du-kien-cac-ngay-nghi-le-tet-nam-2027-188260902065411698.chn",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Notícia sobre os dias de feriado previstos para o Tết de 2027 (em vietnamita)",
+      "publisher": "VTC News",
+      "url": "https://vtcnews.vn/du-kien-cac-ngay-nghi-le-tet-nam-2027-ar1035970.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Lịch nghỉ lễ Giỗ Tổ Hùng Vương, 30/4-1/5, Quốc khánh 2/9 năm 2026",
+      "publisher": "Cổng thông tin điện tử tỉnh Hà Tĩnh (hatinh.gov.vn)",
+      "url": "https://hatinh.gov.vn/vi/bai-viet/lich-nghi-le-gio-to-hung-vuong-304-15-quoc-khanh-29-nam-2026",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "vi"
+    }
+  ],
+  "legal_note": false,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "READY_FOR_QA"
+}

@@ -1,0 +1,327 @@
+{
+  "contract_version": 1,
+  "id": "PT-0142",
+  "slug": "pontos-na-carta",
+  "title": "Pontos na carta de condução no Vietname: como funcionam",
+  "description": "Desde 2025, cada carta vietnamita tem 12 pontos. Que infrações de mota os retiram, como se recuperam e o que se sabe sobre cartas estrangeiras.",
+  "h1": "Os 12 pontos da carta no Vietname: infrações que os retiram, recuperação e o caso das cartas estrangeiras",
+  "summary": "No Vietname, cada carta de condução tem 12 pontos desde 1 de janeiro de 2025, segundo o artigo 58.º da Lei n.º 36/2024/QH15. Numa mota, infrações como o vermelho, a contramão ou o álcool retiram de 2 a 10 pontos; 12 meses sem novas perdas repõem o saldo e, com a carta a zero, só um exame o recupera. As fontes consultadas não esclarecem se o sistema se aplica a cartas estrangeiras.",
+  "key_points": [
+    "A Lei n.º 36/2024/QH15 dá 12 pontos a cada carta desde 1 de janeiro de 2025; o Decreto 168/2024/NĐ-CP fixa quantos retira cada infração.",
+    "Numa mota, retiram pontos o vermelho (4), a contramão e o passeio (2), a autoestrada (6), o excesso de mais de 20 km/h (4) e o álcool (4 ou 10).",
+    "Excessos de velocidade até 20 km/h dão coima, mas não tiram pontos.",
+    "Doze meses sem novas perdas repõem os 12 pontos; com a carta a zero, é preciso esperar pelo menos seis meses e passar num exame da Polícia de Trânsito.",
+    "As fontes não confirmam se os pontos se aplicam a cartas estrangeiras ou à licença internacional; a coima aplica-se sempre a quem conduz."
+  ],
+  "intro": [
+    "O Vietname passou a ter carta por pontos com a lei de trânsito que entrou em vigor a 1 de janeiro de 2025. Para quem vai conduzir uma mota em Hanói, a novidade levanta duas perguntas: que infrações custam pontos e se isso tem alguma consequência para uma carta emitida fora do país.",
+    "Este guia explica o mecanismo tal como o descrevem a lei, o decreto das coimas e os portais oficiais vietnamitas consultados a 13 de outubro de 2026, e separa o que está confirmado do que fica em aberto. O que deve levar consigo para conduzir dentro da lei está no guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/)."
+  ],
+  "sections": [
+    {
+      "h2": "Como funciona o sistema: 12 pontos por carta",
+      "body": [
+        "A Lei n.º 36/2024/QH15, sobre a ordem e a segurança do trânsito rodoviário, atribui 12 pontos a cada carta de condução. A regra está no artigo 58.º e aplica-se desde 1 de janeiro de 2025, data em que a lei entrou em vigor.",
+        "O saldo começa no máximo, e são as infrações que o fazem descer. Cada infração associada a pontos retira um número que depende da sua natureza e da sua gravidade. A lista dessas infrações, com os pontos de cada uma, está no Decreto 168/2024/NĐ-CP, o diploma que fixa as coimas de trânsito e que vigora desde a mesma data.",
+        "Os pontos também não substituem a coima: somam-se a ela. Quem passa no vermelho paga a coima prevista e, além disso, vê a carta perder pontos.",
+        "Ao longo do tempo, uma carta pode estar numa de três situações:",
+        {
+          "ul": [
+            "**Com os 12 pontos**: sem perdas, ou com o saldo já reposto.",
+            "**Abaixo de 12, mas acima de zero**: o titular continua a poder conduzir, e os pontos voltam se não houver novas perdas durante 12 meses.",
+            "**A zero**: a carta deixa de servir para conduzir até o titular recuperar os pontos através de um exame."
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "Que infrações retiram pontos numa mota",
+      "body": [
+        "No Decreto 168/2024/NĐ-CP, as infrações de quem conduz uma mota estão reunidas no artigo 7.º. A tabela junta as que mais interessam a quem circula em Hanói, com os pontos retirados e a coima prevista a nível nacional:",
+        {
+          "table": {
+            "caption": "Infrações de mota com perda de pontos (Decreto 168/2024/NĐ-CP, valores nacionais consultados a 13 de outubro de 2026)",
+            "head": [
+              "Infração",
+              "Pontos retirados",
+              "Coima a nível nacional"
+            ],
+            "rows": [
+              [
+                "Passar no vermelho",
+                "4",
+                "4 a 6 milhões de VND"
+              ],
+              [
+                "Circular em contramão",
+                "2",
+                "4 a 6 milhões de VND"
+              ],
+              [
+                "Circular pelo passeio",
+                "2",
+                "4 a 6 milhões de VND"
+              ],
+              [
+                "Entrar numa autoestrada",
+                "6",
+                "4 a 6 milhões de VND"
+              ],
+              [
+                "Exceder o limite de velocidade em mais de 20 km/h",
+                "4",
+                "6 a 8 milhões de VND"
+              ],
+              [
+                "Álcool até 0,25 mg/l de ar expirado ou 50 mg/100 ml de sangue",
+                "4",
+                "2 a 3 milhões de VND"
+              ],
+              [
+                "Álcool acima de 0,25 e até 0,4 mg/l de ar expirado",
+                "10",
+                "6 a 8 milhões de VND"
+              ],
+              [
+                "Álcool acima de 0,4 mg/l de ar expirado",
+                "Inibição de conduzir de 22 a 24 meses",
+                "8 a 10 milhões de VND"
+              ]
+            ]
+          }
+        },
+        "O primeiro escalão do álcool começa em qualquer concentração, por pequena que seja: não há uma margem tolerada. E, quando o excesso de velocidade, o vermelho ou a contramão causam um acidente, a coima sobe para 10 a 14 milhões de VND e a perda de pontos é maior.",
+        "Repare também que nenhuma infração da tabela custa menos de 2 milhões de VND. A perda de pontos acompanha os comportamentos que a lei trata como mais graves, e são esses os que mais pesam no orçamento de uma viagem. Os deslizes que mais vezes acabam em coima estão reunidos no guia [como evitar multas em Hanói](/guia-de-aluguer/como-evitar-multas/).",
+        {
+          "note": "Desde 1 de julho de 2026, a Resolução 56/2026/NQ-HĐND multiplica por 1,5 ou por 2, em Hanói, as coimas nacionais de 28 infrações de ordem pública e de trânsito. As fontes consultadas não indicam quais das infrações desta tabela estão abrangidas, por isso alguns valores podem ser mais altos na capital. As notícias sobre a resolução falam de coimas, e não de pontos.",
+          "tone": "warn",
+          "title": "Em Hanói, algumas coimas são mais altas"
+        }
+      ]
+    },
+    {
+      "h2": "Infrações que ficam pela coima, e as que estão por confirmar",
+      "body": [
+        "Nem todas as infrações mexem no saldo da carta. Nas fontes consultadas, há um caso claro e dois por confirmar:",
+        {
+          "ul": [
+            "**Excesso de velocidade até 20 km/h**: de 5 a menos de 10 km/h acima do limite, a coima é de 400 mil a 600 mil VND; de 10 a 20 km/h, de 800 mil a 1 milhão de VND. Em nenhum dos casos há perda de pontos.",
+            "**Capacete**: circular sem capacete, ou com ele mal apertado, custa 400 mil a 600 mil VND. Uma das fontes indica que esta infração não retira pontos, mas não o confirmámos no texto do decreto.",
+            "**Telemóvel na mão com a mota em andamento**: a coima é de 800 mil a 1 milhão de VND. Se também retira pontos, as fontes consultadas não o confirmam."
+          ]
+        },
+        "Não ter pontos em jogo não torna estas infrações inofensivas. O capacete e o telemóvel são, antes de mais, uma questão de segurança. E o excesso de velocidade muda de patamar logo acima dos 20 km/h: a coima passa para 6 a 8 milhões de VND e a carta perde quatro pontos."
+      ]
+    },
+    {
+      "h2": "Como se recuperam os pontos perdidos",
+      "body": [
+        "A lei prevê dois caminhos, conforme a carta tenha ou não chegado a zero:",
+        {
+          "table": {
+            "caption": "Recuperação dos pontos (Lei n.º 36/2024/QH15)",
+            "head": [
+              "Situação da carta",
+              "Como recupera os 12 pontos"
+            ],
+            "rows": [
+              [
+                "Perdeu pontos, mas não chegou a zero",
+                "Volta aos 12 se o titular não perder mais nenhum durante 12 meses, contados desde a última dedução"
+              ],
+              [
+                "Chegou a zero",
+                "O titular deixa de poder conduzir com ela; passados pelo menos 6 meses, pode fazer um exame de conhecimentos sobre a lei de trânsito, organizado pela Polícia de Trânsito, e recupera os 12 pontos se for aprovado"
+              ]
+            ]
+          }
+        },
+        "O prazo de 12 meses conta sempre a partir da última perda. Um exemplo: quem passa no vermelho em março fica com 8 pontos e, sem outra infração com pontos, volta aos 12 em março do ano seguinte. Se em junho entrar numa autoestrada, desce para 2 pontos, e a contagem dos 12 meses recomeça em junho.",
+        "Para quem vive no Vietname e conduz todos os dias, esta contagem pesa muito. Numa estadia curta, as consequências imediatas de uma infração são outras, como se explica nas secções seguintes."
+      ]
+    },
+    {
+      "h2": "Carta estrangeira e licença internacional: o que está por confirmar",
+      "body": [
+        "É aqui que as fontes deixam a questão em aberto. A lei e os portais oficiais consultados descrevem os pontos a partir da carta de condução, mas nenhum esclarece se, e como, o sistema se aplica a uma carta emitida noutro país ou a uma licença internacional. Por isso, este guia não afirma que uma infração no Vietname tira pontos à sua carta, nem que não tira.",
+        "O que está confirmado chega para perceber o que conta na prática:",
+        {
+          "ul": [
+            "**A coima aplica-se a quem conduz**, seja qual for a carta, também numa mota alugada que está registada em nome da loja.",
+            "**A licença internacional pode ser retirada temporariamente** por uma infração, segundo as bases jurídicas vietnamitas consultadas, mas não para lá da data em que o condutor sai do Vietname.",
+            "**No escalão mais alto de álcool, a sanção vai além da coima**: o decreto prevê uma inibição de conduzir de 22 a 24 meses."
+          ]
+        },
+        {
+          "note": "Se vai viver no Vietname, ou se recebeu uma decisão que menciona pontos, peça a confirmação para o seu caso à Polícia de Trânsito ou a um advogado vietnamita. Desconfie de respostas em fóruns e de tabelas sem data: a lei e o decreto atuais só se aplicam desde 2025.",
+          "tone": "info",
+          "title": "Precisa de uma resposta para o seu caso?"
+        },
+        "Lembre-se também de que a licença internacional só vale acompanhada da carta do seu país, e com a categoria certa para a mota. O guia da [Licença Internacional de Condução](/guia-de-aluguer/licenca-internacional-de-conducao/) explica como a pedir antes de viajar."
+      ]
+    },
+    {
+      "h2": "O que isto significa ao alugar uma mota em Hanói",
+      "body": [
+        "Para um visitante, a dúvida sobre os pontos pesa menos do que as consequências já confirmadas. Uma infração que retira pontos sai cara de qualquer forma e pode deixá-lo temporariamente sem a licença internacional. No caso do excesso de velocidade, do vermelho ou da contramão, um acidente faz subir a coima para 10 a 14 milhões de VND. A conclusão é a mesma, haja ou não pontos em jogo: as infrações da tabela são as que mais vale a pena evitar.",
+        "Na prática, três hábitos afastam quase todas:",
+        {
+          "ul": [
+            "**Vermelho e sentidos únicos**: pare na linha mesmo que as motas à volta arranquem e, se falhar uma rua, dê a volta ao quarteirão. No centro histórico, o guia para [conduzir no Bairro Antigo](/zonas-de-hanoi/conduzir-no-bairro-antigo/) ajuda a ler os sentidos únicos.",
+            "**Passeio só a pé**: num engarrafamento, espere na faixa de rodagem, mesmo que outros subam ao passeio.",
+            "**Álcool zero e percursos sem autoestrada**: deixe a mota no alojamento nas noites com bebidas, como se explica no guia sobre [álcool e condução](/guia-de-aluguer/alcool-zero-ao-volante/), e confirme que o percurso para fora de Hanói não passa por uma «cao tốc», as autoestradas proibidas às motas."
+          ]
+        },
+        "Se a polícia o mandar parar, a forma de agir e os documentos a mostrar estão no guia do [controlo da polícia](/guia-de-aluguer/controlo-da-policia/). As multas registadas por câmara seguem outro caminho, porque são notificadas ao proprietário da mota: veja [quem paga as multas de trânsito numa mota alugada](/precos/multas-de-transito-no-aluguer/). E, antes de partir, confirme que a sua habilitação cobre a mota que vai alugar: o guia sobre [conduzir sem carta válida](/guia-de-aluguer/conduzir-sem-carta-valida/) mostra as falhas mais comuns. As restantes regras de base estão no [guia de aluguer](/guia-de-aluguer/)."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Uma infração no Vietname tira pontos à minha carta portuguesa?",
+      "a": "As fontes consultadas para este guia não tratam esta questão, nem do lado vietnamita nem do lado português, por isso não lhe damos uma resposta. Está confirmado que a coima se aplica a quem conduz e que a licença internacional pode ser retirada temporariamente por uma infração, sem ir além da sua saída do Vietname."
+    },
+    {
+      "q": "Quanto tempo demoram os pontos perdidos a voltar?",
+      "a": "Doze meses sem perder pontos, contados desde a última dedução, desde que a carta não tenha chegado a zero: nessa altura, o saldo volta aos 12. Se chegar a zero, é preciso esperar pelo menos seis meses e passar num exame sobre a lei de trânsito, organizado pela Polícia de Trânsito."
+    },
+    {
+      "q": "Em Hanói, as infrações retiram mais pontos do que no resto do país?",
+      "a": "As fontes consultadas não o indicam. Desde 1 de julho de 2026, a Resolução 56/2026/NQ-HĐND aumenta em Hanói as coimas de 28 infrações, multiplicando-as por 1,5 ou por 2, mas as notícias sobre a resolução referem os montantes, e não os pontos. Também não confirmam quais das infrações de mota estão abrangidas."
+    },
+    {
+      "q": "Andar sem capacete tira pontos?",
+      "a": "Uma das fontes consultadas indica que não, mas não o confirmámos no texto do Decreto 168/2024/NĐ-CP. A coima, essa, está confirmada: 400 mil a 600 mil VND a nível nacional, para quem circula sem capacete ou com ele mal apertado, seja a conduzir, seja como passageiro."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Luật Trật tự, an toàn giao thông đường bộ 2024 số 36/2024/QH15",
+      "publisher": "Thư Viện Pháp Luật",
+      "url": "https://thuvienphapluat.vn/van-ban/Giao-thong-Van-tai/Luat-trat-tu-an-toan-giao-thong-duong-bo-444251.aspx",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "Điểm bằng lái: Trừ ra sao, phục hồi thế nào?",
+      "publisher": "Cổng Thông tin điện tử tỉnh Hà Tĩnh",
+      "url": "https://hatinh.gov.vn/vi/bai-viet/diem-bang-lai-tru-ra-sao-phuc-hoi-the-nao",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "vi"
+    },
+    {
+      "title": "Quy định điểm của giấy phép lái xe",
+      "publisher": "Cổng Phổ biến, giáo dục pháp luật TP. Cần Thơ",
+      "url": "https://pbgdpl.cantho.gov.vn/quy-dinh-diem-cua-giay-phep-lai-xe",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "vi"
+    },
+    {
+      "title": "Tải Nghị định 168 NĐ CP 2024 pdf: Xử phạt hành chính về giao thông",
+      "publisher": "LuatVietnam",
+      "url": "https://luatvietnam.vn/giao-thong/tai-nghi-dinh-168-nd-cp-2024-pdf-xu-phat-hanh-chinh-ve-giao-thong-863-103957-article.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "Xe máy chạy quá tốc độ: Bị phạt tới 8 triệu đồng, trừ 4 điểm GPLX",
+      "publisher": "VOV",
+      "url": "https://vov.vn/xa-hoi/xe-may-chay-qua-toc-do-bi-phat-toi-8-trieu-dong-tru-4-diem-gplx-post1188423.vov",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Mức phạt lỗi chạy quá tốc độ 10-20km xe máy theo Nghị định 168 là bao nhiêu?",
+      "publisher": "Thư Viện Pháp Luật",
+      "url": "https://thuvienphapluat.vn/banan/tin-tuc/muc-phat-loi-chay-qua-toc-do-10-20km-xe-may-theo-nghi-dinh-168-la-bao-nhieu-13222.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "Mức phạt nồng độ cồn 2026 đối với người lái ô tô, xe máy (mới nhất)",
+      "publisher": "LuatVietnam",
+      "url": "https://luatvietnam.vn/giao-thong/muc-phat-nong-do-con-2025-doi-voi-nguoi-lai-o-to-xe-may-moi-nhat-863-100533-article.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "Mức phạt nồng độ cồn xe máy năm 2026 là bao nhiêu?",
+      "publisher": "Thư Viện Pháp Luật",
+      "url": "https://thuvienphapluat.vn/ma-so-thue/phap-luat-thue/muc-phat-nong-do-con-xe-may-nam-2026-la-bao-nhieu-859631-219577.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "Điều khiển xe máy vượt đèn đỏ, đi trên vỉa hè bị phạt từ 4-6 triệu đồng",
+      "publisher": "Portal de divulgação jurídica da cidade de Cần Thơ (pbgdpl.cantho.gov.vn)",
+      "url": "https://pbgdpl.cantho.gov.vn/dieu-khien-xe-may-vuot-den-do-di-tren-via-he-bi-phat-tu-4-6-trieu-dong",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "vi"
+    },
+    {
+      "title": "Xe máy vượt đèn đỏ bị trừ bao nhiêu điểm?",
+      "publisher": "Thư viện Nhà đất",
+      "url": "https://thuviennhadat.vn/phap-luat/xe-may-vuot-den-do-bi-tru-bao-nhieu-diem-642147.html",
+      "accessed": "2026-10-13",
+      "type": "reference",
+      "lang": "vi"
+    },
+    {
+      "title": "Nhiều lỗi vi phạm giao thông tăng mạnh mức phạt từ ngày 1.1.2025",
+      "publisher": "Báo Văn hóa",
+      "url": "https://baovanhoa.vn/giao-thong/nhieu-loi-vi-pham-giao-thong-tang-manh-muc-phat-tu-ngay-112025-117360.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Mức xử phạt năm 2026 đối với hành vi đi xe máy trên cao tốc?",
+      "publisher": "Thư Viện Pháp Luật",
+      "url": "https://thuvienphapluat.vn/ma-so-thue/phap-luat-thue/muc-xu-phat-nam-2026-doi-voi-hanh-vi-di-xe-may-tren-cao-toc-936922-220346.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "Mức phạt hành vi sử dụng điện thoại khi điều khiển ô tô, xe máy, xe đạp tham gia giao thông",
+      "publisher": "Trung tâm Phục vụ hành chính công tỉnh Nghệ An",
+      "url": "https://hcc.nghean.gov.vn/tin-tong-hop/muc-phat-hanh-vi-su-dung-dien-thoai-khi-dieu-khien-o-to-xe-may-xe-dap-tham-gia-giao-thong-1952.html",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "vi"
+    },
+    "lawnet-capacete-168",
+    {
+      "title": "Mức Phạt Lỗi Không Mũ Bảo Hiểm 2026 - Hướng Dẫn Chi Tiết Theo Nghị Định 168",
+      "publisher": "MoMo",
+      "url": "https://www.momo.vn/phat-nguoi/blog/muc-phat-loi-khong-mu-bao-hiem-80",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Đối tượng được cấp giấy phép lái xe quốc tế?",
+      "publisher": "Thư Viện Pháp Luật",
+      "url": "https://thuvienphapluat.vn/hoi-dap-phap-luat/doi-tuong-duoc-cap-giay-phep-lai-xe-quoc-te-233339.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    "hanoi-resolucao-56-2026"
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "READY_FOR_QA"
+}

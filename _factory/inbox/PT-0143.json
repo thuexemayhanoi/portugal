@@ -1,0 +1,329 @@
+{
+  "contract_version": 1,
+  "id": "PT-0143",
+  "slug": "consultar-multas-por-camara",
+  "title": "Consultar multas por câmara pela matrícula da mota no Vietname",
+  "description": "Como consultar pela matrícula as multas por câmara (phạt nguội) na aplicação VNeTraffic ou no site da polícia, quando o fazer e como detetar avisos falsos.",
+  "h1": "Phạt nguội: como verificar pela matrícula se a mota alugada tem multas registadas por câmara",
+  "summary": "Para saber se a mota tem multas por câmara («phạt nguội»), consulte a matrícula nos canais da Polícia de Trânsito vietnamita: a aplicação VNeTraffic ou o site csgt.vn. Na aplicação, abra «Tra cứu phạt nguội», escolha o tipo de veículo, escreva a matrícula e toque em «Kiểm tra». Desconfie de SMS com links para pagar: a Polícia de Hanói não notifica multas por SMS nem por telefone.",
+  "key_points": [
+    "Os canais oficiais são a aplicação VNeTraffic e o site da Polícia de Trânsito, csgt.vn, que deve escrever à mão no navegador.",
+    "Na VNeTraffic, a consulta faz-se em quatro passos: «Tra cứu phạt nguội», tipo de veículo, matrícula e «Kiểm tra».",
+    "Consulte ao levantar a mota, depois de um trajeto que o deixe na dúvida e antes de a devolver, guardando sempre uma captura de ecrã com a data.",
+    "Um resultado sem infrações não encerra o assunto: o aviso de uma infração pode surgir depois da devolução.",
+    "A Polícia de Hanói não notifica multas por SMS nem por telefone: não abra links nem dê dados bancários ou códigos OTP."
+  ],
+  "intro": [
+    "As câmaras de trânsito registam infrações que ninguém lhe aponta na hora. A sanção chega mais tarde a quem consta do registo da mota, e é por isso que no Vietname se fala de «phạt nguội», a multa «a frio». Numa mota alugada, quem consta do registo é a loja. Mesmo assim, pode consultar as infrações: os passos descritos pela imprensa vietnamita pedem apenas o tipo de veículo e a matrícula.",
+    "Este guia mostra onde fazer a consulta, em que momentos do aluguer compensa, como ler o resultado e como distinguir um aviso verdadeiro das mensagens falsas que circulam em nome da polícia. Quem paga uma multa e o que combinar com a loja ficam para o guia sobre [multas de trânsito no aluguer](/precos/multas-de-transito-no-aluguer/)."
+  ],
+  "sections": [
+    {
+      "h2": "Porque vale a pena consultar a matrícula",
+      "body": [
+        "Uma infração registada por câmara não deixa rasto no momento: não há agente, não há papel, e quem conduzia pode nem dar por ela. O aviso segue para o titular do registo da mota. Se o titular tiver conta VNeID de nível 2, recebe uma notificação na aplicação VNeTraffic cerca de duas horas depois de a infração ser registada, na secção «Vi phạm và xử phạt». Num aluguer, essa notificação vai para a loja, e não para si.",
+        "Consultar a matrícula por conta própria serve três fins:",
+        {
+          "ul": [
+            "**Saber a tempo**: se aparecer uma infração do seu período, fica a sabê-lo antes da devolução, com a data e a hora à vista.",
+            "**Separar períodos**: uma infração registada antes do levantamento não é sua, e uma consulta feita nesse dia ajuda a mostrá-lo.",
+            "**Desmontar burlas**: perante uma mensagem que fala de uma multa, a consulta oficial diz-lhe em minutos se há alguma coisa registada para aquela matrícula."
+          ]
+        },
+        "As câmaras não são uma hipótese teórica. Em Hanói e na Cidade de Ho Chi Minh, as infrações cometidas no passeio já são processadas a partir de imagens de câmara. Em setembro de 2025, por exemplo, uma notícia publicava a lista de 201 motas apanhadas a circular no passeio, cujos proprietários deviam pagar a multa por câmara ao abrigo do Decreto 168/2024/NĐ-CP.",
+        "Circular pelo passeio custa 4 a 6 milhões de VND a nível nacional. Desde 1 de julho de 2026, Hanói multiplica por 1,5 ou por 2 as coimas de 28 infrações de ordem pública e de trânsito; as fontes consultadas não dizem quais das infrações de mota estão abrangidas, por isso alguns valores podem ser mais altos na capital."
+      ]
+    },
+    {
+      "h2": "Onde consultar: os dois canais oficiais",
+      "body": [
+        "Os avisos das autoridades e as notícias vietnamitas apontam dois canais, ambos da Direção da Polícia de Trânsito (Cục Cảnh sát giao thông), do Ministério da Segurança Pública:",
+        {
+          "table": {
+            "caption": "Canais oficiais para consultar multas por câmara",
+            "head": [
+              "Canal",
+              "O que é",
+              "Como lá chegar"
+            ],
+            "rows": [
+              [
+                "VNeTraffic",
+                "Aplicação da Polícia de Trânsito, com consulta pela matrícula e notificações para o titular do registo",
+                "Procure-a pelo nome na loja de aplicações do telemóvel; se não a encontrar, use o site ou peça à loja que faça a consulta"
+              ],
+              [
+                "csgt.vn",
+                "Site da Direção da Polícia de Trânsito",
+                "Escreva o endereço à mão no navegador, sem seguir links recebidos por mensagem"
+              ]
+            ]
+          }
+        },
+        "Desconfie de qualquer outro endereço que prometa o mesmo serviço. A Polícia de Hanói já alertou para sites falsos que imitam os serviços públicos para cobrar «multas por câmara» e ficar com os dados dos cartões de quem paga."
+      ]
+    },
+    {
+      "h2": "Passo a passo na aplicação VNeTraffic",
+      "body": [
+        "Antes de começar, tenha a matrícula à mão. Está na chapa da mota e no certificado de registo, o «cà vẹt», como se explica no guia dos [documentos da mota alugada](/guia-de-aluguer/documentos-da-mota-alugada/). Fotografe a chapa no dia do levantamento e terá sempre a matrícula exata no telemóvel.",
+        {
+          "steps": [
+            {
+              "title": "Abra a consulta",
+              "text": "Na aplicação, escolha a função «Tra cứu phạt nguội», a consulta das multas por câmara."
+            },
+            {
+              "title": "Escolha o tipo de veículo",
+              "text": "Selecione a categoria que corresponde à mota. Se tiver dúvidas, pergunte à loja qual é a opção certa."
+            },
+            {
+              "title": "Escreva a matrícula",
+              "text": "Copie-a tal como aparece na chapa e no certificado de registo, letra a letra e número a número."
+            },
+            {
+              "title": "Toque em «Kiểm tra»",
+              "text": "A aplicação procura as infrações registadas para essa matrícula. Se houver alguma, mostra o tipo de infração, a hora, o local e o estado do processo."
+            }
+          ]
+        },
+        {
+          "note": "Os passos seguem a descrição publicada pela imprensa vietnamita, e os nomes dos menus podem mudar com as atualizações da aplicação. Se o ecrã estiver em vietnamita, uma aplicação de tradução com câmara ajuda a reconhecer as opções. Se lhe for pedida uma conta ou dados que não tem, peça à loja que faça a consulta e lhe envie o resultado.",
+          "tone": "info",
+          "title": "Menus em vietnamita"
+        },
+        "As fontes consultadas descrevem os passos na aplicação, e não no site. Se preferir o computador, siga as indicações da própria página do csgt.vn, com a matrícula à mão."
+      ]
+    },
+    {
+      "h2": "Quando fazer a consulta durante o aluguer",
+      "body": [
+        "Uma consulta isolada diz pouco. Repetida em quatro momentos, acompanha o aluguer do princípio ao fim:",
+        {
+          "table": {
+            "caption": "Os momentos certos para consultar a matrícula",
+            "head": [
+              "Momento",
+              "Porquê"
+            ],
+            "rows": [
+              [
+                "No levantamento",
+                "Mostra se já havia infrações registadas antes do seu período; envie a captura de ecrã à loja, para ficar com data"
+              ],
+              [
+                "Depois de um trajeto que o deixou na dúvida",
+                "Um semáforo que mudou quando passava ou um troço pelo passeio: consulte nesse dia e repita a consulta nos dias seguintes"
+              ],
+              [
+                "Antes da devolução",
+                "Chega à loja a saber se há alguma infração no seu período, com a hora e o local à vista"
+              ],
+              [
+                "Depois da devolução",
+                "O aviso pode aparecer mais tarde: guarde a matrícula e as horas do aluguer para conferir qualquer pedido que lhe façam"
+              ]
+            ]
+          }
+        },
+        "Guarde as capturas de ecrã junto do acordo e das fotografias da mota: se surgir uma dúvida, são elas que mostram o que estava registado em cada momento. O guia sobre [receber a mota](/guia-de-aluguer/receber-a-mota/) e a [checklist da devolução](/guia-de-aluguer/devolver-a-mota/) ajudam a encaixar estes minutos no início e no fim do aluguer."
+      ]
+    },
+    {
+      "h2": "Como ler o resultado",
+      "body": [
+        "Se a consulta não encontrar infrações, guarde uma captura de ecrã com a data e a hora. Se encontrar alguma, confira cada campo com os registos do seu aluguer antes de tirar conclusões:",
+        {
+          "table": {
+            "caption": "O que verificar num resultado com infrações",
+            "head": [
+              "Campo",
+              "O que confirmar"
+            ],
+            "rows": [
+              [
+                "Matrícula",
+                "Que é exatamente a da mota que tem consigo: um carácter trocado pode mostrar os dados de outro veículo"
+              ],
+              [
+                "Tipo de infração",
+                "Se descreve algo que possa ter acontecido consigo, como passar no vermelho ou circular pelo passeio"
+              ],
+              [
+                "Hora",
+                "Se cabe entre o levantamento e a devolução que ficaram registados no acordo ou nas mensagens"
+              ],
+              [
+                "Local",
+                "Se passou por aquela rua ou cruzamento nesse dia; as fotografias e as mensagens ajudam a lembrar"
+              ],
+              [
+                "Estado do processo",
+                "Se a infração ainda está por resolver ou já foi tratada; em caso de dúvida, peça à loja que lho explique"
+              ]
+            ]
+          }
+        },
+        "Uma infração cuja hora cai fora do seu aluguer não é sua, e a captura do levantamento, com o acordo e as horas, resolve a questão. Uma infração dentro do seu período, sobretudo num sítio por onde passou, pede uma conversa com a loja, como se explica no fim deste guia."
+      ]
+    },
+    {
+      "h2": "Avisos falsos: como reconhecer a burla",
+      "body": [
+        "A mesma consulta protege-o de uma burla contra a qual as autoridades vietnamitas têm alertado: mensagens e chamadas que se fazem passar pela polícia ou pelos serviços públicos para cobrar uma «multa por câmara» que não existe.",
+        {
+          "table": {
+            "caption": "Sinais de alerta e o que fazer",
+            "head": [
+              "Sinal de alerta",
+              "O que fazer"
+            ],
+            "rows": [
+              [
+                "SMS com um link para «pagar a multa por câmara», a imitar o Portal Nacional de Serviços Públicos",
+                "Não abra o link; consulte a matrícula na VNeTraffic ou no csgt.vn"
+              ],
+              [
+                "Página que pede o número do cartão ou o código OTP para concluir o pagamento",
+                "Feche-a: são exatamente os dados que os burlões procuram"
+              ],
+              [
+                "Chamada de alguém que diz ser agente e pede uma transferência ou um código",
+                "Desligue sem dar dados e conte à loja o que aconteceu"
+              ],
+              [
+                "Estafeta que lhe vem entregar um «auto de multa»",
+                "Não pague nada a quem o entrega; fale com a loja, que é quem recebe os avisos da mota"
+              ]
+            ]
+          }
+        },
+        "Há uma referência simples para separar o verdadeiro do falso: a Polícia de Hanói afirma que não notifica infrações de trânsito por SMS nem por telefone. As infrações são comunicadas por escrito, com uma convocatória do proprietário do veículo à polícia.",
+        "As recomendações das autoridades resumem-se a três gestos:",
+        {
+          "checklist": [
+            "não clicar em links estranhos;",
+            "não fornecer dados bancários, palavras-passe nem códigos OTP;",
+            "comunicar qualquer suspeita à polícia mais próxima."
+          ]
+        },
+        "Junte-lhes um quarto: confirmar qualquer aviso pela consulta oficial da matrícula, e nunca a partir do link que veio na mensagem.",
+        "Se já introduziu os dados do cartão numa página suspeita, contacte de imediato o seu banco. Depois, conte à loja o que recebeu, pelo {{phone}}: é ela que recebe os avisos verdadeiros da mota e pode confirmar se existe alguma coisa. O guia sobre [cobranças indevidas no aluguer de motas](/precos/burlas-no-aluguer-de-motas/) mostra como reagir a outros pedidos de pagamento que não reconhece."
+      ]
+    },
+    {
+      "h2": "Se a consulta mostrar uma multa no seu período",
+      "body": [
+        "Encontrar uma infração dentro do seu aluguer não pede pressa, pede ordem:",
+        {
+          "steps": [
+            {
+              "title": "Guarde a prova",
+              "text": "Faça uma captura de ecrã do resultado, com a matrícula, a hora, o local e o estado do processo."
+            },
+            {
+              "title": "Compare com o aluguer",
+              "text": "Confirme a hora com o levantamento e a devolução que ficaram registados no acordo ou nas mensagens."
+            },
+            {
+              "title": "Fale com a loja",
+              "text": "Envie a captura pelo contacto habitual, {{phone}}. Como proprietária da mota, é a loja que recebe a notificação oficial."
+            },
+            {
+              "title": "Siga o que ficou combinado",
+              "text": "A forma de pagar depende do acordo de aluguer. Não pague por links nem a terceiros que lhe liguem."
+            }
+          ]
+        },
+        "O que deve ficar escrito antes do levantamento, incluindo as condições da caução, está no guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/). E, para que a matrícula não volte a aparecer no resultado, o guia [como evitar multas em Hanói](/guia-de-aluguer/como-evitar-multas/) reúne os erros que mais vezes acabam em coima."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Preciso de uma conta VNeID para consultar as multas da mota?",
+      "a": "Para receber as notificações automáticas, sim: são enviadas ao titular do registo com conta VNeID de nível 2, que num aluguer é a loja. Para a consulta pela matrícula, os passos descritos pela imprensa vietnamita pedem apenas o tipo de veículo e a matrícula. Se a aplicação lhe pedir uma conta que não tem, peça à loja que faça a consulta."
+    },
+    {
+      "q": "A consulta não mostrou nada. Posso dar o assunto por encerrado?",
+      "a": "Não totalmente. Um resultado vazio mostra o que estava registado no momento da consulta, e o aviso de uma infração pode surgir depois da devolução. Guarde a captura de ecrã, a matrícula e as horas do aluguer, e confira com esses registos qualquer pedido que lhe chegue mais tarde."
+    },
+    {
+      "q": "Recebi um SMS sobre uma multa por câmara com um link para pagar. O que faço?",
+      "a": "Não abra o link nem responda. A Polícia de Hanói afirma que não notifica infrações por SMS nem por telefone. Consulte a matrícula na VNeTraffic ou no csgt.vn, escrevendo o endereço à mão, e conte à loja o que recebeu. Se suspeitar de burla, comunique-a à polícia."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Cảnh giác với tin nhắn “Bộ Công an yêu cầu nộp phạt nguội”",
+      "publisher": "Cổng Thông tin điện tử tỉnh Hà Tĩnh",
+      "url": "https://hatinh.gov.vn/vi/bai-viet/canh-giac-voi-tin-nhan-bo-cong-an-yeu-cau-nop-phat-nguoi",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "vi"
+    },
+    {
+      "title": "Aviso da polícia de Hanói sobre burlas com falsas multas por câmara em sites falsos (em vietnamita)",
+      "publisher": "Doanh nhân – Báo Pháp luật Việt Nam",
+      "url": "https://doanhnhan.baophapluat.vn/cong-an-tp-ha-noi-canh-bao-chieu-tro-lua-dao-phat-nguoi-qua-website-gia-mao-dich-vu-cong.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Cảnh báo bẫy lừa đảo từ tin nhắn vi phạm giao thông",
+      "publisher": "Tiền Phong",
+      "url": "https://tienphong.vn/canh-bao-bay-lua-dao-tu-tin-nhan-vi-pham-giao-thong-post1852571.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Cảnh báo thủ đoạn giả danh CSGT lừa đảo phạt nguội",
+      "publisher": "VOH",
+      "url": "https://voh.com.vn/xa-hoi/canh-bao-thu-doan-gia-danh-csgt-lua-dao-phat-nguoi-592161.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Artigo sobre multas por câmara para quem estaciona a mota no passeio (em vietnamita)",
+      "publisher": "LSVN (Luật sư Việt Nam)",
+      "url": "https://lsvn.vn/do-xe-may-tren-via-he-vao-quan-mua-hang-lieu-co-bi-phat-nguoi-qua-camera-ai-a169199.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "201 chủ xe máy đi trên vỉa hè có biển số sau nhanh chóng nộp phạt nguội theo Nghị định 168",
+      "publisher": "CafeF",
+      "url": "https://cafef.vn/201-chu-xe-may-di-tren-via-he-co-bien-so-sau-nhanh-chong-nop-phat-nguoi-theo-nghi-dinh-168-188250926090620822.chn",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Quy trình 'phạt nguội' mới nhất 2025: Những thay đổi quan trọng người lái xe cần biết",
+      "publisher": "Hệ thống pháp luật Việt Nam",
+      "url": "https://hethongphapluat.com/phap-luat/huong-dan/quy-trinh-phat-nguoi-moi-nhat-2025-nhung-thay-doi-quan-trong-nguoi-lai-xe-can-biet.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "Điều khiển xe máy vượt đèn đỏ, đi trên vỉa hè bị phạt từ 4-6 triệu đồng",
+      "publisher": "Portal de divulgação jurídica da cidade de Cần Thơ (pbgdpl.cantho.gov.vn)",
+      "url": "https://pbgdpl.cantho.gov.vn/dieu-khien-xe-may-vuot-den-do-di-tren-via-he-bi-phat-tu-4-6-trieu-dong",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "vi"
+    },
+    "hanoi-resolucao-56-2026"
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "READY_FOR_QA"
+}

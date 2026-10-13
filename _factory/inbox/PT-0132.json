@@ -1,0 +1,194 @@
+{
+  "contract_version": 1,
+  "id": "PT-0132",
+  "slug": "seguro-obrigatorio-de-mota",
+  "title": "Seguro obrigatório de mota no Vietname: o que cobre e não cobre",
+  "description": "O seguro obrigatório da mota no Vietname protege terceiros, não a mota nem quem conduz. Quem o faz, o que confirmar e porque precisa de seguro de viagem.",
+  "h1": "Seguro obrigatório de responsabilidade civil: o que protege numa mota alugada e o que fica de fora",
+  "summary": "No Vietname, o proprietário de cada mota tem de ter um seguro obrigatório de responsabilidade civil, regulado pelo Decreto 67/2023/NĐ-CP; numa mota alugada, está em nome do dono do veículo e não de quem a aluga. Serve para indemnizar terceiros por danos pessoais e materiais causados pela mota. Não cobre a própria mota nem os ferimentos de quem conduz, e não substitui o seguro de viagem.",
+  "key_points": [
+    "É obrigatório para o proprietário de qualquer veículo motorizado, mota incluída, e regula-se pelo Decreto 67/2023/NĐ-CP.",
+    "Protege terceiros: destina-se a indemnizar os danos pessoais e materiais que a mota lhes cause.",
+    "Não é um seguro da própria mota nem um seguro de acidentes para quem conduz: os danos na mota alugada e os seus ferimentos ficam de fora.",
+    "Quem conduz tem de levar o certificado; não o ter ou não o levar dá coima de 200 mil a 300 mil VND.",
+    "O seguro de viagem continua a ser a sua proteção pessoal: confirme na apólice se cobre acidentes de mota."
+  ],
+  "intro": [
+    "Ao alugar uma mota em Hanói, é natural perguntar se ela tem seguro. A lei vietnamita responde a metade da pergunta: o proprietário de cada veículo motorizado tem de ter um seguro obrigatório de responsabilidade civil, e quem conduz tem de levar o certificado. A outra metade, saber o que esse seguro cobre, é onde nascem os mal-entendidos.",
+    "Este guia explica o que é o seguro obrigatório de mota no Vietname, quem o faz, o que protege, o que deixa de fora e porque não substitui o seguro de viagem. A forma de conferir o certificado com a mota à frente está no guia dos [documentos da mota alugada](/guia-de-aluguer/documentos-da-mota-alugada/); aqui, o foco é a cobertura."
+  ],
+  "sections": [
+    {
+      "h2": "O que é o seguro obrigatório de responsabilidade civil",
+      "body": [
+        "Em vietnamita, chama-se «bảo hiểm bắt buộc trách nhiệm dân sự của chủ xe cơ giới»: seguro obrigatório de responsabilidade civil do proprietário de veículo motorizado. É regulado pelo Decreto 67/2023/NĐ-CP. A forma abreviada «bảo hiểm TNDS» vem das iniciais de «trách nhiệm dân sự», responsabilidade civil. No caso das motas, na linguagem corrente, diz-se simplesmente «bảo hiểm xe máy».",
+        "Responsabilidade civil é a obrigação de reparar os danos que se causam a outra pessoa. Este seguro existe para que esses danos sejam indemnizados. Quem recebe a indemnização é o terceiro lesado, e não o dono da mota nem quem a conduz.",
+        "É também um seguro por veículo. O certificado é emitido pela seguradora para uma mota concreta, identificada pela matrícula e pelos números de quadro e de motor. Se trocar de mota a meio do aluguer, o certificado que conta passa a ser o da mota nova."
+      ]
+    },
+    {
+      "h2": "Quem o faz: o proprietário, não quem aluga",
+      "body": [
+        "A obrigação de ter este seguro é do proprietário do veículo. Numa mota alugada, o certificado está em nome do dono da mota, e não no seu, o que é a situação normal num aluguer. Contratar o seguro não é tarefa sua. O que lhe cabe é confirmar que existe, que corresponde à mota e que está válido durante todo o aluguer.",
+        "Ao mesmo tempo, é a quem conduz que a lei pede o certificado. O artigo 56.º da Lei n.º 36/2024/QH15 inclui o certificado do seguro obrigatório do proprietário entre os documentos que o condutor tem de levar consigo, a par do registo do veículo e da carta adequada à categoria.",
+        "Esta divisão tem uma consequência prática. Como o seguro está em nome do proprietário, se alguma coisa correr mal com terceiros é com a loja que vai combinar os passos seguintes. Ao levantar a mota, pergunte o que fazer nesse caso e guarde o número da loja, {{phone}}."
+      ]
+    },
+    {
+      "h2": "O que o seguro obrigatório cobre",
+      "body": [
+        "Segundo o Decreto 67/2023/NĐ-CP, este seguro serve para indemnizar terceiros pelos danos que o veículo lhes cause. Abrange dois tipos de danos:",
+        {
+          "ul": [
+            "**danos pessoais** causados a outras pessoas, como um peão ou quem segue noutro veículo;",
+            "**danos materiais** causados a bens de outras pessoas, como outra mota, um carro ou uma montra."
+          ]
+        },
+        "As fontes consultadas para este guia não indicam os montantes máximos de indemnização nem a lista de exclusões. Se precisar dessa informação, peça à loja que lhe mostre o certificado e identifique a seguradora: é ela quem pode responder.",
+        "Há uma condição fácil de verificar, a validade. O certificado indica as datas de início e de fim do seguro. Se essa data de fim passar a meio do aluguer, os danos que causar a terceiros deixam de estar cobertos por esse certificado."
+      ]
+    },
+    {
+      "h2": "O que fica de fora",
+      "body": [
+        "O seguro obrigatório não é um seguro da própria mota nem um seguro de acidentes para quem a conduz. Esta tabela resume onde procurar resposta para cada situação:",
+        {
+          "table": {
+            "caption": "Seguro obrigatório: o que protege e onde procurar resposta para o resto",
+            "head": [
+              "Situação",
+              "Seguro obrigatório?",
+              "Onde procurar resposta"
+            ],
+            "rows": [
+              [
+                "Ferir um peão ou danificar outro veículo",
+                "Sim: é a função deste seguro, nas condições da apólice",
+                "Certificado e seguradora, através da loja"
+              ],
+              [
+                "Riscos, peças partidas ou outros danos na mota alugada",
+                "Não: não é um seguro da própria mota",
+                "Acordo de aluguer e condições combinadas com a loja"
+              ],
+              [
+                "Furto da mota alugada",
+                "Não: não é um seguro da própria mota",
+                "Acordo de aluguer e condições combinadas com a loja"
+              ],
+              [
+                "Os seus ferimentos e despesas médicas",
+                "Não: não é um seguro de acidentes para quem conduz",
+                "O seu seguro de viagem"
+              ]
+            ]
+          }
+        },
+        "Os danos na mota e o furto ficam, portanto, fora do seguro obrigatório. O que acontece nesses casos depende do que combinar com a loja, e é aqui que entram o acordo de aluguer e a caução, cujas regras de restituição o guia sobre [como funciona a caução no aluguer](/precos/como-funciona-a-caucao/) ajuda a confirmar. Antes de assinar, pergunte o que acontece se a mota for danificada ou furtada e como se calcula o valor a pagar. O guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/) mostra o que confirmar.",
+        {
+          "note": "Se perguntar apenas se a mota tem seguro, a resposta pode ser verdadeira e, ainda assim, deixá-lo sem proteção para o que mais lhe importa. Pergunte o que acontece em cada caso: danos a terceiros, danos na mota, furto e ferimentos seus.",
+          "tone": "warn",
+          "title": "«Tem seguro?» não chega"
+        }
+      ]
+    },
+    {
+      "h2": "Seguro obrigatório e seguro de viagem: dois seguros diferentes",
+      "body": [
+        "Os seus ferimentos, as despesas médicas e os outros custos pessoais de um acidente não são assunto do seguro obrigatório. Para isso existe o seguro de viagem, desde que a apólice cubra a condução de motas.",
+        "Vale a pena confirmá-lo antes de partir. O Governo da Nova Zelândia, por exemplo, recomenda verificar se o seguro cobre acidentes de mota antes de conduzir no Vietname. Muitas apólices excluem acidentes ocorridos sem habilitação válida, por isso a carta com a categoria certa e a licença internacional também contam para o seguro. O que levar está no guia da [Licença Internacional de Condução](/guia-de-aluguer/licenca-internacional-de-conducao/).",
+        "Ao rever a apólice, procure resposta para estas perguntas:",
+        {
+          "checklist": [
+            "Cobre acidentes enquanto conduz uma mota, e com que cilindrada?",
+            "Que habilitação exige: carta com categoria de motociclos, licença internacional ou as duas?",
+            "Cobre também o passageiro, se levar alguém?"
+          ]
+        },
+        "Os dois seguros completam-se: o obrigatório protege os outros dos danos que a mota cause, o de viagem protege-o a si. Nenhum substitui o outro, e o seguro de viagem também não dispensa o certificado que a lei pede a quem conduz."
+      ]
+    },
+    {
+      "h2": "O certificado e a coima por não o ter",
+      "body": [
+        "Num controlo, o seguro prova-se com o certificado. Segundo a regulamentação, o certificado indica, entre outros dados, o nome e a morada do proprietário, a matrícula e os números de quadro e de motor, a seguradora e o período de validade. Pode ser em papel ou eletrónico; o eletrónico tem de cumprir a lei vietnamita das transações eletrónicas.",
+        "Desde 1 de janeiro de 2025, o Decreto 168/2024/NĐ-CP prevê para quem conduz uma mota uma coima de 200 mil a 300 mil VND por não ter, ou não levar consigo, o certificado do seguro obrigatório válido. É o valor nacional. Desde 1 de julho de 2026, as coimas de 28 infrações de ordem pública e de trânsito cometidas em Hanói são multiplicadas por 1,5 ou 2 (Resolução 56/2026/NQ-HĐND), e o valor cobrado na cidade pode ser mais alto. Os montantes podem ser revistos, por isso confirme os que estiverem em vigor quando viajar.",
+        "A coima é a parte menor do problema. Sem seguro válido, os danos causados a terceiros ficam sem esta cobertura. Se a data de fim já passou ou vai passar durante o aluguer, não continue a conduzir: avise a loja e combine a renovação ou a troca de mota.",
+        "O mesmo vale se perder o certificado. A segunda via é pedida pelo proprietário à seguradora, por isso avise a loja logo que der pela falta. Antes de sair, guarde uma fotografia do certificado ou, se for eletrónico, o próprio ficheiro no telemóvel."
+      ]
+    },
+    {
+      "h2": "Perguntas a fazer à loja sobre o seguro",
+      "body": [
+        "O que segue com cada mota depende do veículo e do aluguer. Confirme estes pontos com a loja, de preferência por escrito:",
+        {
+          "checklist": [
+            "O certificado do seguro obrigatório é em papel ou eletrónico, e até quando é válido?",
+            "Que seguradora emitiu o certificado?",
+            "Se eu causar danos a outra pessoa ou a outro veículo, o que devo fazer e a quem ligo?",
+            "Se a mota for danificada ou furtada, o que acontece e como se calcula o valor?",
+            "A mota tem algum seguro além do obrigatório e, se tiver, o que cobre?",
+            "Se o seguro caducar durante o aluguer, como se faz a renovação ou a troca de mota?"
+          ]
+        },
+        "Junte estas perguntas às da lista de [perguntas a fazer antes de alugar](/guia-de-aluguer/perguntas-antes-de-alugar/) e envie-as numa só mensagem, através dos [contactos](/contactos/). Para o resto do processo, do orçamento à devolução, siga o [guia de aluguer passo a passo](/guia-de-aluguer/)."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "O seguro obrigatório cobre o meu passageiro?",
+      "a": "As fontes consultadas para este guia não esclarecem se quem segue na mota conta como terceiro para este seguro. Não conte com isso: pergunte à loja o que diz a apólice e confirme se o seu seguro de viagem, e o do passageiro, cobre acidentes de mota."
+    },
+    {
+      "q": "O meu seguro de viagem dispensa o certificado do seguro obrigatório?",
+      "a": "Não. A lei pede a quem conduz o certificado do seguro obrigatório do proprietário da mota, que é um documento diferente. O seguro de viagem protege-o a si; o obrigatório destina-se aos danos causados a terceiros. Convém ter os dois: o certificado para circular, a apólice de viagem para os seus próprios riscos."
+    },
+    {
+      "q": "Posso fazer eu o seguro obrigatório da mota que aluguei?",
+      "a": "A obrigação é do proprietário, e o certificado é emitido em nome dele para aquela mota. Num aluguer, o que lhe cabe é confirmar que o certificado existe, corresponde à mota e cobre todas as datas. Se não houver um certificado válido, peça outra mota em vez de tentar resolver por conta própria."
+    },
+    {
+      "q": "Se a culpa de um acidente for minha, o seguro obrigatório paga os danos na mota alugada?",
+      "a": "Não. O seguro obrigatório destina-se aos danos causados a terceiros e não é um seguro da própria mota. Os danos na mota alugada resolvem-se segundo o que combinou com a loja, por isso confirme essas condições antes de assinar o acordo."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Đã có Nghị định 67/2023/NĐ-CP về bảo hiểm bắt buộc của chủ xe cơ giới",
+      "publisher": "LuatVietnam",
+      "url": "https://luatvietnam.vn/tin-van-ban-moi/da-co-nghi-dinh-67-2023-nd-cp-ve-bao-hiem-bat-buoc-cua-chu-xe-co-gioi-186-95475-article.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "What are the contents of compulsory civil liability insurance certificates of motor vehicle owners?",
+      "publisher": "LawNet",
+      "url": "https://lawnet.vn/en/laws/what-are-the-contents-of-compulsory-civil-liability-insurance-certificates-of-motor-vehicle-owners--145244.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "en"
+    },
+    {
+      "title": "Tăng mức phạt đối với hành vi không có bảo hiểm xe máy bắt buộc từ 01/01/2025",
+      "publisher": "LuatVietnam",
+      "url": "https://luatvietnam.vn/tin-van-ban-moi/tang-muc-phat-doi-voi-hanh-vi-khong-co-bao-hiem-xe-may-bat-buoc-tu-01-01-2025-186-100606-article.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    "lei-36-2024-artigo-56",
+    "mfat-conduzir-vietname",
+    "hanoi-resolucao-56-2026"
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "READY_FOR_QA",
+  "revision": {
+    "reason": "Coimas em Hanói: aviso sobre a Resolução 56/2026/NQ-HĐND"
+  }
+}
