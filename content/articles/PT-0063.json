@@ -123,7 +123,7 @@
     {
       "h2": "A mota elétrica da loja: preço e perguntas antes de reservar",
       "body": [
-        "Na tabela de referência, verificada a {{pricing.verifiedAt}}, a mota elétrica custa {{price.eletrica.day}} por dia, {{price.eletrica.week}} por semana e {{price.eletrica.month}} por mês. Ao dia, custa {{cmp.eletrica.vision.day}} a Honda Vision, uma scooter a gasolina de cerca de 110 cm³ da categoria A1.",
+        "Na tabela de referência, verificada a {{pricing.verifiedAt}}, a mota elétrica tem preço sob consulta: confirme o modelo, a potência e o orçamento diretamente com a loja. A Honda Vision, scooter a gasolina, tem tarifas de referência publicadas na [página de preços](/precos/).",
         {
           "component": "model-cards",
           "category": "motas-eletricas"
