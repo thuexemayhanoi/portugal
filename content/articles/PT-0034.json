@@ -1,0 +1,262 @@
+{
+  "contract_version": 1,
+  "id": "PT-0034",
+  "slug": "semiautomatica-para-viagens",
+  "title": "Semiautomática em viagem fora de Hanói: vantagens e limites",
+  "description": "Autonomia por depósito, corrente, pedal e distância ao solo: o que a Honda Wave e a Yamaha Sirius oferecem numa saída fora de Hanói e o que pedir à loja.",
+  "h1": "Levar uma Wave ou uma Sirius numa saída de vários dias: autonomia, corrente e limites",
+  "summary": "Numa saída fora de Hanói, as semiautomáticas da loja têm depósitos de 3,7 a 4,0 litros e consumos declarados de 1,56 a 1,72 l/100 km, o que dá, em teoria, 215 a 256 km por depósito; na prática, planeie com margem. Pedem ainda a corrente verificada a cada 500 km e mudanças de pé em subidas. A saída depende da autorização da loja.",
+  "key_points": [
+    "Em teoria, um depósito dá cerca de 215 km (Wave Alpha), 256 km (Wave RSX FI) ou 242 km (Sirius FI): é o consumo declarado em condições de teste, por isso abasteça bem antes do fim.",
+    "O manual da Wave 110 manda verificar a corrente a cada 500 km, e mais vezes em estradas em mau estado: numa viagem, peça à loja que a verifique antes de partir.",
+    "A Sirius FI tem pedal de arranque além do elétrico e 155 mm de distância ao solo, contra 134 e 135 mm nas Wave; na Wave Alpha, o pedal não está confirmado.",
+    "As fontes consultadas não medem o conforto, a carga do bagageiro nem a disponibilidade de peças fora de Hanói: experimente a mota antes e não conte com o que ninguém publicou.",
+    "As motas não podem usar autoestradas e a saída só se faz com autorização da loja. Na tabela, a Wave custa {{price.wave.day}} por dia e {{price.wave.week}} por semana."
+  ],
+  "intro": [
+    "Quem aluga uma mota em Hanói e pensa numa saída, seja de um dia aos arredores ou de vários dias para norte, tem de escolher entre uma scooter automática e uma semiautomática. Para a cidade, o guia [scooter ou semiautomática](/tipos-de-motas/scooter-ou-semiautomatica/) já faz essa escolha. Fora dela, entram outras contas: quantos quilómetros dá um depósito, o que a mota pede à corrente, que recurso há se a bateria falhar e até onde chega o conforto.",
+    "Este guia reúne o que os fabricantes publicam sobre a Honda Wave e a Yamaha Sirius, mostra o que essas fichas permitem concluir (e o que não permitem) e termina com o que pedir à loja. Não é um guia de percursos nem de autorização: esse tema tem página própria, em [pedir autorização para sair de Hanói](/guia-de-aluguer/autorizacao-para-sair-de-hanoi/)."
+  ],
+  "sections": [
+    {
+      "h2": "O que uma saída muda para uma semiautomática",
+      "body": [
+        "Numa viagem, a mota deixa de fazer trajetos curtos entre uma bomba de gasolina e outra e passa a fazer etapas mais longas por estradas que o condutor não conhece. Três coisas pesam mais do que na cidade:",
+        {
+          "ul": [
+            "**Combustível**: o depósito é pequeno e as etapas são mais longas, por isso a conta dos quilómetros passa a contar.",
+            "**Manutenção**: a corrente, por exemplo, tem um intervalo de verificação medido em quilómetros, e uma viagem gasta-os depressa.",
+            "**Estrada**: as motas não podem circular nas autoestradas (cao tốc), pelo que a viagem se faz por estradas nacionais, onde há camiões e subidas."
+          ]
+        },
+        "A autorização da loja para sair da cidade é outra condição. Este site não publica uma lista de destinos aceites: a loja responde caso a caso, como explica o guia sobre [levar a mota alugada para fora de Hanói](/guia-de-aluguer/autorizacao-para-sair-de-hanoi/).",
+        "Para perceber o que pode ser uma estrada de montanha, vale a pena olhar para a Quốc lộ 6 (QL6), a estrada para Mai Châu. Uma notícia do Ministério da Construção sobre uma inspeção da Administração das Estradas do Vietname descreve 14 troços de passos e curvas perigosas, num total de mais de 110 km. A mesma notícia refere nevoeiro e chuva forte frequentes e risco de queda de pedras na época das chuvas. Não é o percurso de todas as viagens, mas mostra que sair de Hanói pode significar troços longos de curvas, e não apenas estrada plana."
+      ]
+    },
+    {
+      "h2": "Autonomia: quanto dá um depósito",
+      "body": [
+        "A conta é simples: o depósito dividido pelo consumo declarado e multiplicado por 100. A tabela aplica-a às fichas atuais da Honda e da Yamaha.",
+        {
+          "table": {
+            "caption": "Autonomia teórica de uma semiautomática: depósito ÷ consumo declarado",
+            "head": [
+              "Modelo (ficha atual)",
+              "Depósito",
+              "Consumo declarado",
+              "Autonomia teórica",
+              "Com margem de 30 %"
+            ],
+            "rows": [
+              [
+                "Honda Wave Alpha",
+                "3,7 l",
+                "1,72 l/100 km",
+                "≈ 215 km",
+                "≈ 150 km"
+              ],
+              [
+                "Honda Wave RSX FI",
+                "4,0 l",
+                "1,56 l/100 km",
+                "≈ 256 km",
+                "≈ 180 km"
+              ],
+              [
+                "Yamaha Sirius FI",
+                "4,0 l",
+                "1,65 l/100 km",
+                "≈ 242 km",
+                "≈ 170 km"
+              ]
+            ]
+          }
+        },
+        "Os números são teóricos. Os fabricantes medem o consumo em condições de teste, e a unidade que levar pode ser de outra versão ou de outro ano: uma geração antiga da Wave Alpha, descrita pelo VnExpress, tinha depósito de 3,5 litros, e a loja anuncia apenas «Honda Wave» e «Yamaha Sirius». Confirme a versão e o depósito da sua unidade antes de planear.",
+        "Para planear, este guia sugere abastecer quando já gastou cerca de 70 % do depósito: é a última coluna da tabela, que dá etapas da ordem dos 150 a 180 km. Se a etapa seguinte for mais longa, abasteça antes de entrar nela. As fichas consultadas não dizem se a unidade tem indicador de nível ou torneira de combustível, por isso pergunte à loja como saber o que resta no depósito. O que fica combinado sobre o combustível no aluguer está em [combustível no aluguer](/precos/combustivel-no-aluguer/)."
+      ]
+    },
+    {
+      "h2": "Corrente, pedal e distância ao solo: o que as fichas dizem",
+      "body": [
+        {
+          "h3": "A corrente: um intervalo em quilómetros"
+        },
+        "O manual da Honda para a Wave 110 manda verificar o estado e a folga da corrente e ajustá-la e lubrificá-la quando necessário. Na tabela de manutenção, a verificação é de 500 em 500 km, e com mais frequência em estradas em mau estado ou a alta velocidade. O manual da Wave RSX FI tem uma secção equivalente. Se os dentes dos carretos estiverem gastos ou danificados, a substituição faz-se num concessionário Honda autorizado.",
+        "Numa viagem de vários dias, o intervalo de 500 km pode chegar a meio do percurso, sobretudo se a mota já traz quilómetros acumulados. Pergunte à loja quando a corrente foi verificada e lubrificada pela última vez e peça que o faça antes de partir. O valor da folga não é reproduzido aqui: não foi confirmado para a Wave nem para a Sirius, e os valores de outras motas não se aplicam. Os cuidados a ter num aluguer longo estão no guia sobre o [desgaste normal num aluguer longo](/precos/desgaste-normal-num-aluguer-longo/).",
+        {
+          "h3": "O pedal de arranque: um recurso longe de Hanói"
+        },
+        "A ficha da Yamaha indica, para a Sirius FI, arranque elétrico e a pedal. A ficha da Honda para a Wave Alpha indica o elétrico e, nos dados consultados, não menciona o pedal. Longe de Hanói, o pedal é o recurso para uma bateria fraca: segundo o Báo Văn hóa, nas motas de mudanças pode usar-se temporariamente até a bateria ser carregada ou substituída. Se esse recurso conta para si, pergunte à loja se a unidade o tem e peça uma demonstração antes de partir.",
+        {
+          "h3": "Distância ao solo"
+        },
+        "As fichas indicam 134 mm para a Wave Alpha, 135 mm para a Wave RSX FI e 155 mm para a Sirius FI. A Sirius FI tem, portanto, cerca de 20 mm a mais do que as duas Wave: uma margem pequena, que ajuda em lombas e em pisos degradados, sem mudar o tipo de estrada a que cada mota se destina."
+      ]
+    },
+    {
+      "h2": "Conforto e bagagem: o que ninguém mediu",
+      "body": [
+        "As fichas dos fabricantes e os artigos consultados não medem o conforto de uma semiautomática em etapas longas, não dizem que carga aguenta o bagageiro da Wave ou da Sirius e não indicam se há peças à venda fora de Hanói. Este guia não faz promessas nessas matérias. O que se pode fazer é reduzir a incerteza:",
+        {
+          "ul": [
+            "**Experimente a unidade** numa volta calma junto à loja, se for possível, para sentir o assento e a posição dos pés. Uma volta curta não prova o conforto em etapas longas, mas evita surpresas.",
+            "**Divida o percurso em etapas** com paragens. O Highway Code britânico recomenda uma pausa de pelo menos 15 minutos por cada duas horas de condução (regra 91). É uma recomendação do Reino Unido, não uma regra vietnamita, mas serve de referência.",
+            "**Não conte com arrumação fechada**: confirme com a loja o espaço da unidade e a forma de prender a bagagem.",
+            "**Avalie o regresso**: uma etapa de ida que cansa também cansa na volta; deixe margem para chegar de dia."
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "Quando outra mota serve melhor",
+      "body": [
+        "A semiautomática não é a melhor escolha para todas as saídas. Algumas orientações:",
+        {
+          "ul": [
+            "**Se não domina as mudanças de pé**: uma saída com subidas e camiões não é o sítio para aprender. Fique com uma scooter automática; o guia das [scooters automáticas](/tipos-de-motas/scooters/) compara as da loja.",
+            "**Se vai a dois ou leva bagagem**: uma scooter com mais potência e compartimento pode servir melhor. O guia [Honda Vision ou Air Blade](/tipos-de-motas/honda-vision-ou-air-blade/) explica a diferença.",
+            "**Se pensava numa 50 cc**: foi pensada para percursos curtos e a baixa velocidade, não para viagens fora de Hanói. Veja a página das [motas de 50 cc](/tipos-de-motas/motas-50cc/).",
+            "**Se pensava numa elétrica**: pergunte à loja qual é a autonomia real e onde pode carregar a mota durante a viagem."
+          ]
+        },
+        "O guia geral de [tipos de motas](/tipos-de-motas/) reúne as famílias de veículos da loja."
+      ]
+    },
+    {
+      "h2": "Quanto custa uma semiautomática para vários dias",
+      "body": [
+        "A tabela mostra os preços de referência das duas semiautomáticas, verificados a {{pricing.verifiedAt}}. Cobrem só o aluguer da mota: a caução, o combustível, a entrega e eventuais extras combinam-se à parte.",
+        {
+          "component": "price-table",
+          "category": "motas-semiautomaticas"
+        },
+        "Ao dia, a Wave custa {{price.wave.day}}; à semana, {{price.wave.week}}. A tarifa semanal custa o mesmo ou menos do que pagar ao dia a partir de {{price.wave.weekFrom}} dias. À semana, a Wave custa {{cmp.wave.vision.week}} a Honda Vision ({{price.vision.week}}). Para um aluguer de uma semana, veja o guia do [aluguer semanal](/precos/aluguer-semanal-de-mota/).",
+        "Se a saída é só uma parte de um aluguer mais longo, pergunte se compensa manter a mota durante a viagem ou devolvê-la: o guia sobre [manter a mota alugada ou devolvê-la a meio da estadia](/precos/sair-de-hanoi-a-meio-do-aluguer/) ajuda a fazer essa conta."
+      ]
+    },
+    {
+      "h2": "O que pedir à loja antes de partir",
+      "body": [
+        "A resposta da loja à autorização trata do destino, das datas e do que fazer em caso de avaria. As perguntas seguintes são sobre a mota concreta que vai levar:",
+        {
+          "checklist": [
+            "Que versão e que ano é a unidade, e que cilindrada consta do registo?",
+            "Qual é a capacidade do depósito e como sei o que resta?",
+            "Quando foi verificada e lubrificada a corrente? Pode fazê-lo antes de eu partir?",
+            "A unidade tem pedal de arranque? Pode mostrar-me como se usa?",
+            "Em que estado estão os pneus e os travões?",
+            "Que espaço há para bagagem e como a posso prender?"
+          ]
+        },
+        "Junte as respostas ao pedido de autorização, por mensagem, para o {{phone}}, e guarde-as com as fotografias da entrega. O que preparar para o caso de a mota parar longe da cidade está em [avaria longe de Hanói](/guia-de-aluguer/avaria-longe-de-hanoi/), e a ajuda que se pode esperar na estrada em [assistência na estrada](/guia-de-aluguer/assistencia-na-estrada/). Para falar com a loja, use a página de [contactos](/contactos/)."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Uma semiautomática aguenta uma viagem de vários dias?",
+      "a": "As fichas dos fabricantes não respondem a isso: indicam depósito, consumo e dimensões, não a resistência em viagens longas. O que se pode fazer é planear a autonomia com margem, pedir que a corrente seja verificada antes de partir e obter a confirmação da loja para a sua unidade e para o seu percurso."
+    },
+    {
+      "q": "Wave ou Sirius para uma saída fora de Hanói?",
+      "a": "As fichas apontam diferenças pequenas: a Wave RSX FI declara o consumo mais baixo (1,56 l/100 km) e a Sirius FI tem mais distância ao solo (155 mm) e pedal de arranque. Nenhuma fonte consultada mede o conforto ou a fiabilidade em viagem. Se a loja tiver as duas livres, experimente-as e confirme a versão."
+    },
+    {
+      "q": "Compensa levar a semiautomática só para uma saída de um dia?",
+      "a": "Depende do resto do aluguer. Para um dia avulso, compare o preço ao dia da Wave ({{price.wave.day}}) com o da scooter que usaria em alternativa. Se a saída for parte de um aluguer mais longo, veja se compensa manter a mota durante a viagem ou devolvê-la."
+    }
+  ],
+  "sources": [
+    "tabela-precos-proprietario",
+    "dtinews-autoestrada-2026",
+    {
+      "title": "Cục Đường bộ Việt Nam kiểm tra công tác bảo vệ kết cấu hạ tầng giao thông trên Quốc lộ 6",
+      "publisher": "Bộ Xây dựng (moc.gov.vn)",
+      "url": "https://moc.gov.vn/vn/tin-tuc/1232/93987/cuc-duong-bo-viet-nam-kiem-tra-cong-tac-bao-ve-ket-cau-ha-tang-giao-thong-tren-quoc-lo-6.aspx",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "vi"
+    },
+    {
+      "title": "WAVE 110 HƯỚNG DẪN SỬ DỤNG",
+      "publisher": "Honda Việt Nam",
+      "url": "https://cdn.honda.com.vn/motorbike-manual/September2025/PIcp8XLSxQmsi5X5Twsy.pdf",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "SÁCH HƯỚNG DẪN SỬ DỤNG Wave RSX FI",
+      "publisher": "Honda Việt Nam",
+      "url": "https://cdn.honda.com.vn/motorbike-manual/September2025/EzA6x0gXYsjvv9AhkVm2.pdf",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "Wave Alpha",
+      "publisher": "Honda Việt Nam",
+      "url": "https://www.honda.com.vn/xe-may/san-pham/wave-alpha-110",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "Wave RSX",
+      "publisher": "Honda Việt Nam",
+      "url": "https://www.honda.com.vn/xe-may/san-pham/wave-rsx",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "Sirius FI phiên bản phanh đĩa màu mới - Yamaha Motor Việt Nam",
+      "publisher": "Yamaha Motor Việt Nam",
+      "url": "https://yamaha-motor.com.vn/xe/sirius-fi-phien-ban-phanh-dia-mau-hoan-toan-moi-bsab/",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "Wave Alpha đã có mặt trên thị trường",
+      "publisher": "VnExpress",
+      "url": "https://vnexpress.net/wave-alpha-da-co-mat-tren-thi-truong-2054284.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Vì sao xe đề mãi không nổ? Cách xử lý nhanh, ai cũng nên biết",
+      "publisher": "Báo Văn hóa",
+      "url": "https://baovanhoa.vn/xe/vi-sao-xe-de-mai-khong-no-cach-xu-ly-nhanh-ai-cung-nen-biet-190877.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Rules for drivers and motorcyclists (89 to 102)",
+      "publisher": "GOV.UK — The Highway Code",
+      "url": "https://www.gov.uk/highway-code/rules-for-drivers-and-motorcyclists-89-to-102",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    }
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "PUBLISHED",
+  "date_published": "2026-10-13",
+  "date_modified": "2026-10-13",
+  "editorial": {
+    "qa_score": 100,
+    "qa_warnings": [],
+    "words": 1906,
+    "publish_mode": "review",
+    "approved_at": "2026-10-13",
+    "revisions": []
+  }
+}

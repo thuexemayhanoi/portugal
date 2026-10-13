@@ -123,7 +123,7 @@
     {
       "h2": "A mota elétrica da loja: preço e perguntas antes de reservar",
       "body": [
-        "Na tabela de referência, verificada a {{pricing.verifiedAt}}, a mota elétrica custa {{price.eletrica.day}} por dia, {{price.eletrica.week}} por semana e {{price.eletrica.month}} por mês. Ao dia, custa {{cmp.eletrica.vision.day}} a Honda Vision, uma scooter a gasolina de cerca de 110 cm³ da categoria A1.",
+        "Na tabela de referência, verificada a {{pricing.verifiedAt}}, a mota elétrica tem preço sob consulta: confirme o modelo, a potência e o orçamento diretamente com a loja. A Honda Vision, scooter a gasolina, tem tarifas de referência publicadas na [página de preços](/precos/).",
         {
           "component": "model-cards",
           "category": "motas-eletricas"
@@ -155,6 +155,7 @@
             "**Uma mota silenciosa pede mais atenção**: os peões e os outros condutores podem não dar pela sua chegada, por isso conte com isso nos cruzamentos e nas ruas estreitas."
           ]
         },
+        "O valor indicado para o capacete é o nacional, do Decreto 168/2024. Desde 1 de julho de 2026, Hanói agrava (×1,5 ou ×2) as coimas de 28 infrações de ordem pública e de trânsito, e na cidade o montante pode ser mais alto: confirme o que estiver em vigor.",
         "A regra prática é a mesma que vale para qualquer mota: escolha a partir da categoria da sua carta, e não o contrário. Se a única elétrica disponível ultrapassar o seu limite, mude de modelo ou de datas."
       ]
     }
@@ -212,7 +213,8 @@
       "type": "news",
       "lang": "vi"
     },
-    "tabela-precos-proprietario"
+    "tabela-precos-proprietario",
+    "hanoi-resolucao-56-2026"
   ],
   "legal_note": true,
   "writer": {
@@ -225,9 +227,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1849,
+    "words": 1899,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Coimas em Hanói: aviso sobre a Resolução 56/2026/NQ-HĐND"
+      }
+    ]
   }
 }

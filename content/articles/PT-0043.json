@@ -106,6 +106,7 @@
             "**Nada de autoestradas**: nenhuma mota pode circular nas autoestradas vietnamitas (cao tốc), seja qual for a cilindrada."
           ]
         },
+        "A coima do capacete indicada acima é o valor nacional. Desde 1 de julho de 2026, Hanói multiplica por 1,5 ou por 2 as coimas de 28 infrações de ordem pública e de trânsito cometidas na cidade: confirme o montante em vigor antes de conduzir.",
         "Para um condutor jovem, pesa ainda a experiência. O trânsito de Hanói é denso e muda de ritmo de minuto para minuto: se nunca conduziu uma mota, não é aqui que deve aprender. Uma 50 cc também não facilita as coisas, porque a velocidade de projeto limitada pode ser pouca em vias com trânsito rápido. Se vem fazer um intercâmbio, o guia sobre a [50 cc para estudantes de intercâmbio](/tipos-de-motas/50cc-para-estudantes-de-intercambio/) ajuda a avaliar o trajeto, o seguro e o orçamento de um semestre."
       ]
     },
@@ -165,7 +166,8 @@
     "tuoitre-alcool-zero",
     "dtinews-autoestrada-2026",
     "lawnet-passageiros-2025",
-    "tabela-precos-proprietario"
+    "tabela-precos-proprietario",
+    "hanoi-resolucao-56-2026"
   ],
   "legal_note": true,
   "writer": {
@@ -178,13 +180,17 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1833,
+    "words": 1878,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
     "revisions": [
       {
         "date": "2026-10-13",
         "reason": "Ligações internas para artigos publicados depois"
+      },
+      {
+        "date": "2026-10-13",
+        "reason": "Coimas em Hanói: aviso sobre a Resolução 56/2026/NQ-HĐND"
       }
     ]
   }

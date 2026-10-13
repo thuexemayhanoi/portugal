@@ -1,0 +1,186 @@
+{
+  "contract_version": 1,
+  "id": "PT-0136",
+  "slug": "como-usar-o-zalo",
+  "title": "Como usar o Zalo para falar com a loja de aluguer de motas",
+  "description": "Instalar o Zalo, registar a conta, encontrar a loja certa, escrever a primeira mensagem com os dados do aluguer e guardar cada confirmação, passo a passo.",
+  "h1": "Zalo para turistas: instalar a app, encontrar a loja e guardar as confirmações",
+  "summary": "Para falar com a loja pelo Zalo, instale a aplicação, registe-a com o seu número de telemóvel, abra a conversa pelo link da loja e escreva uma primeira mensagem com as datas e o modelo. Um guia de viagem diz que o Zalo funciona com número estrangeiro, mas as fontes divergem: se falhar, ligue para {{phone}}. Guarde cada confirmação com uma captura de ecrã.",
+  "key_points": [
+    "O Zalo é uma aplicação de mensagens e chamadas muito usada por motoristas, alojamentos e pequenos negócios do Vietname; o número da loja serve para Zalo e para chamadas: {{phone}}.",
+    "Instalação: Google Play ou App Store, registo com o número de telemóvel, criação do perfil e contactos adicionados pelo número ou pelo código QR.",
+    "Com número estrangeiro: um guia de viagem e utilizadores de um fórum dizem que funciona; uma fonte comercial diz que exige número vietnamita. As fontes divergem, por isso instale antes de viajar.",
+    "A primeira mensagem apresenta-o e junta o modelo, as datas e a categoria da carta; a forma de a escrever está no guia sobre como comunicar sem falar vietnamita.",
+    "Guarde as confirmações com capturas de ecrã e mantenha a conversa até o aluguer estar fechado."
+  ],
+  "intro": [
+    "O Zalo é uma aplicação de mensagens e de chamadas que um guia de viagem descreve como muito usada por motoristas, donos de alojamentos e pequenos negócios do Vietname; as chamadas são gratuitas por Wi-Fi ou dados móveis, segundo o mesmo guia. A loja {{brand}} usa o mesmo número para chamadas e para o Zalo, {{phone}}, e é um dos canais em que pode combinar e confirmar o aluguer.",
+    "Este guia é o lado prático: instalar, registar, encontrar a conta certa, escrever a primeira mensagem e guardar as confirmações. Como escrever mensagens que a tradução não estraga está no guia sobre [comunicar sem falar vietnamita](/guia-de-aluguer/comunicar-sem-falar-vietnamita/), que aqui não repetimos."
+  ],
+  "sections": [
+    {
+      "h2": "Precisa mesmo do Zalo?",
+      "body": [
+        "Nem sempre. Segundo um guia de viagem publicado por uma empresa de turismo, a maioria dos turistas de curta duração não precisa do Zalo, porque no turismo se usam outras aplicações de mensagens; é útil para falar com motoristas, donos de alojamentos e pequenos negócios, muitos dos quais o preferem. Para alugar uma mota, o que conta é o canal da loja, e a loja está disponível por telefone e por Zalo, {{hours}}.",
+        "A escolha depende do que quer da conversa:",
+        {
+          "ul": [
+            "**Uma pergunta rápida:** ligue para {{phone}}; não precisa de instalar nada.",
+            "**Tudo por escrito, com fotografias e localização:** o Zalo serve, e a conversa fica guardada no seu telemóvel.",
+            "**Chamadas gratuitas:** o guia indica que as chamadas pelo Zalo são gratuitas por Wi-Fi ou dados móveis. Os dados móveis no estrangeiro podem ter custos no seu plano, por isso confirme-os com o operador."
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "Instalar e registar a conta",
+      "body": [
+        "Os passos são os que o guia de viagem descreve. As aplicações mudam com as atualizações, por isso aqui não se descreve cada ecrã: siga as indicações que a própria aplicação mostrar.",
+        {
+          "steps": [
+            {
+              "title": "Descarregue a aplicação",
+              "text": "Procure «Zalo» na Google Play ou na App Store e confirme, antes de instalar, que a aplicação é a que procura."
+            },
+            {
+              "title": "Registe-se com o número de telemóvel",
+              "text": "A aplicação pede o seu número de telemóvel. Siga as indicações do ecrã para o confirmar."
+            },
+            {
+              "title": "Crie o perfil",
+              "text": "Escolha um nome que a loja reconheça, de preferência o mesmo que usou ao combinar o aluguer: um nome reconhecível ajuda a loja a associar a conversa ao seu pedido."
+            },
+            {
+              "title": "Adicione contactos",
+              "text": "Pode adicionar contactos pelo número de telemóvel ou lendo o código QR do Zalo de outra pessoa."
+            }
+          ]
+        },
+        "Faça isto antes de partir, com a rede e o número que usa habitualmente: é mais fácil resolver um problema de registo em casa do que à chegada, com pouca bateria e sem tempo."
+      ]
+    },
+    {
+      "h2": "Número estrangeiro: o que as fontes dizem e não dizem",
+      "body": [
+        "Esta é a dúvida que mais atrapalha, e as fontes não concordam. Um guia de viagem diz que o Zalo funciona com um número estrangeiro, mas que um cartão SIM vietnamita facilita o contacto com os locais. Utilizadores de um fórum dizem que mantiveram a conta depois de sair do Vietname e um deles passou-a para um telemóvel novo, nos Estados Unidos. Em sentido contrário, um blogue de uma empresa que vende números virtuais afirma que o registo exige um número vietnamita verificado. Como é uma fonte comercial, trate-a com cautela.",
+        "Não conseguimos confirmar se, em 2026, há um passo de verificação extra para números estrangeiros. O que pode fazer é pouco e simples: instale a aplicação em casa e, se o registo falhar, não perca tempo, ligue para {{phone}} e combine por chamada, pedindo depois a confirmação por escrito.",
+        {
+          "h3": "E um cartão SIM vietnamita?"
+        },
+        "Se preferir ter um número local, o registo de um cartão SIM vietnamita exige, para estrangeiros, um passaporte válido para uso no Vietname ou uma conta de identificação eletrónica, e uma fotografia do rosto. Desde 15 de abril de 2026, o registo de um número móvel exige também verificação facial. As fontes consultadas não indicam prazos nem preços do processo, por isso não os apresentamos; veja-os no ponto de venda antes de decidir."
+      ]
+    },
+    {
+      "h2": "Encontrar a conta certa da loja",
+      "body": [
+        "O caminho mais simples é abrir [a conversa com a loja no Zalo]({{zalo}}) no telemóvel onde instalou a aplicação. Também pode pesquisar o número {{phone}} na aplicação, seguindo as indicações do ecrã. Os restantes contactos da loja estão em [contactos](/contactos/).",
+        "Confirme que a conta que abriu é a do número {{phone}} e não outra parecida. Se alguém que diz ser da loja lhe escrever de uma conta diferente, ou lhe pedir dinheiro ou dados que não esperava, ligue primeiro para {{phone}}. O guia sobre [burlas no aluguer de motas](/precos/burlas-no-aluguer-de-motas/) explica que sinais de cautela observar."
+      ]
+    },
+    {
+      "h2": "A primeira mensagem: o que incluir",
+      "body": [
+        "Quem recebe uma mensagem de um número desconhecido não sabe, antes de a ler, quem é nem o que quer. Por isso a primeira mensagem faz de apresentação e de pedido. Junte tudo numa só mensagem, por esta ordem:",
+        {
+          "ol": [
+            "**Quem é:** o nome que usará no aluguer e que viu a loja neste site.",
+            "**O que quer:** o modelo e, se houver, uma alternativa, com o número de pessoas e se vai conduzir sozinho.",
+            "**Quando:** a data e a hora de levantamento e de devolução, em formato de 24 horas.",
+            "**A categoria da sua carta:** a que consta da carta e da licença internacional, para a loja lhe propor uma mota dentro dela. O guia das [categorias A1 e A](/guia-de-aluguer/categorias-a1-e-a/) explica o que cada uma cobre.",
+            "**Duas perguntas fechadas:** o preço total para essas datas e os documentos a levar."
+          ]
+        },
+        "Um exemplo de mensagem escrita para sobreviver à tradução está no guia sobre [comunicar sem falar vietnamita](/guia-de-aluguer/comunicar-sem-falar-vietnamita/), que também explica quando juntar uma fotografia. Para o estado da mota no levantamento, veja como [fotografar a mota](/guia-de-aluguer/fotografar-a-mota/).",
+        {
+          "note": "Não precisa de enviar fotografias do passaporte ou da carta na primeira mensagem. Se a loja as pedir, pergunte para que servem. Os documentos a levar ao levantamento estão no guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/).",
+          "tone": "info",
+          "title": "Documentos numa conversa"
+        }
+      ]
+    },
+    {
+      "h2": "Guardar as confirmações",
+      "body": [
+        "Quando a loja responder com o modelo, as datas e o preço, repita-os numa só mensagem e espere pelo «sim». Depois faça uma captura de ecrã do resumo e da resposta, de modo que se vejam o nome da conversa e, se a aplicação os mostrar, a data e a hora. Guarde-a numa pasta do telemóvel e envie uma cópia para o seu correio eletrónico: a rotina completa está no guia dos [recibos e comprovativos](/precos/recibos-e-comprovativos/).",
+        "Não apague a conversa enquanto o aluguer não estiver fechado. Se perder o telemóvel ou tiver de o trocar, lembre-se de que utilizadores de um fórum dizem ter passado a conta para um aparelho novo, mas não confirmámos o processo nem se o histórico das conversas acompanha a conta. Por isso, a captura de ecrã com cópia fora do telemóvel é a prova em que pode contar.",
+        "Se se pergunta até que ponto uma conversa pode valer como acordo, leia o guia sobre o [acordo de aluguer](/guia-de-aluguer/acordo-de-aluguer/)."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Preciso de um cartão SIM vietnamita para usar o Zalo?",
+      "a": "Segundo um guia de viagem e relatos num fórum, o Zalo funciona com número estrangeiro, mas uma fonte comercial diz que o registo exige um número vietnamita. As fontes divergem e não confirmámos a regra em 2026. Instale a aplicação antes de viajar e, se falhar, ligue para {{phone}}."
+    },
+    {
+      "q": "O Zalo é obrigatório para combinar o aluguer?",
+      "a": "A loja atende por Zalo e por telefone, no mesmo número, {{phone}}. Pergunte-lhe qual prefere para cada passo; o importante é que o que for combinado por chamada fique depois confirmado por escrito."
+    },
+    {
+      "q": "Posso continuar a usar o Zalo depois de sair do Vietname?",
+      "a": "Utilizadores de um fórum dizem que mantiveram a conta depois de sair do Vietname. Não encontrámos confirmação oficial, por isso, se precisar de falar com a loja depois do regresso, guarde também o telefone {{phone}} e as capturas de ecrã das confirmações."
+    },
+    {
+      "q": "E se a loja não responder no Zalo?",
+      "a": "A loja funciona {{hours}}, hora do Vietname, e uma mensagem fora desse horário pode ficar à espera. Envie uma só mensagem completa em vez de várias e, se for urgente, ligue para {{phone}}. Se alguém lhe responder de outra conta, confirme por telefone antes de continuar."
+    }
+  ],
+  "sources": [
+    {
+      "title": "What is Zalo in Vietnam – A Guide for Travelers",
+      "publisher": "Local Vietnam",
+      "url": "https://localvietnam.com/vietnam-tips/what-is-zalo/",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "en"
+    },
+    {
+      "title": "Fórum do Expat.com: usar o Zalo fora do Vietname (em inglês)",
+      "publisher": "Expat.com (fórum)",
+      "url": "https://www.expat.com/en/forum/asia/vietnam/939594-using-zalo-app-outside-vietnam.html",
+      "accessed": "2026-10-13",
+      "type": "reference",
+      "lang": "en"
+    },
+    {
+      "title": "Blogue da Calilio sobre criar uma conta Zalo sem número de telefone (em inglês)",
+      "publisher": "Calilio (vende números virtuais)",
+      "url": "https://www.calilio.com/blogs/create-zalo-account-without-phone-number",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "en"
+    },
+    {
+      "title": "Giấy tờ sử dụng để đăng ký thông tin thuê bao di động mặt đất",
+      "publisher": "Portal de divulgação jurídica de Cần Thơ (pbgdpl.cantho.gov.vn)",
+      "url": "https://pbgdpl.cantho.gov.vn/giay-to-su-dung-de-dang-ky-thong-tin-thue-bao-di-dong-mat-dat",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "vi"
+    },
+    {
+      "title": "Từ hôm nay, 15/4/2026, đăng ký thuê bao di động phải xác thực khuôn mặt",
+      "publisher": "LuatVietnam",
+      "url": "https://luatvietnam.vn/tin-van-ban-moi/moi-dang-ky-thue-bao-di-dong-phai-xac-thuc-khuon-mat-tu-15-4-2026-186-108072-article.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    }
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "PUBLISHED",
+  "date_published": "2026-10-13",
+  "date_modified": "2026-10-13",
+  "editorial": {
+    "qa_score": 100,
+    "qa_warnings": [],
+    "words": 1525,
+    "publish_mode": "review",
+    "approved_at": "2026-10-13",
+    "revisions": []
+  }
+}

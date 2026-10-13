@@ -1,0 +1,311 @@
+{
+  "contract_version": 1,
+  "id": "PT-0152",
+  "slug": "verificar-os-travoes",
+  "title": "Como verificar os travões de uma mota em dois minutos",
+  "description": "Teste os travões de uma mota alugada em dois minutos: com a mota parada e a passo de caminhada, o que sentir, os sinais de alerta e o que pedir à loja.",
+  "h1": "Travões da mota alugada: o teste de dois minutos, os sinais de alerta e o que pedir à loja",
+  "summary": "Para verificar os travões de uma mota em dois minutos, aperte cada comando com a mota parada, empurre-a para ver se a roda fica presa e, num troço plano e livre, trave de leve a passo de caminhada: primeiro com um travão, depois com o outro e por fim com os dois. Se a resposta for fraca, esponjosa, desigual ou ruidosa, não aceite a mota sem a loja a ver.",
+  "key_points": [
+    "O travão da frente faz a maior parte do trabalho (cerca de 70% da força de travagem, segundo manuais da Honda): testam-se os dois, um de cada vez e depois juntos.",
+    "Com a mota parada, a roda deve ficar presa quando aperta o comando e rodar livremente quando o solta.",
+    "O teste em andamento faz-se a passo de caminhada, num troço plano, seco e livre, nunca com travagens a fundo no trânsito.",
+    "Não tente descobrir a causa: com travões fracos, esponjosos, desiguais ou ruidosos, peça à loja que verifique ou lhe dê outra mota.",
+    "Com chuva, as distâncias de paragem são pelo menos o dobro, segundo o Highway Code britânico: deixe o teste para o seco."
+  ],
+  "intro": [
+    "Os travões são das poucas peças de uma mota alugada que consegue pôr à prova sozinho, em poucos minutos e antes de entrar no trânsito. Não vale a pena descobrir na primeira travagem a sério que um dos comandos responde mal.",
+    "Este guia descreve o teste, explica os sinais de alerta e lista o que pedir à loja. É uma verificação de utilizador: mostra se os travões respondem como deve ser, mas não o desgaste das pastilhas, o estado do fluido ou dos cabos, que só a loja pode avaliar. A inspeção da mota inteira, do levantamento ao primeiro percurso, está no guia sobre [receber a mota alugada](/guia-de-aluguer/receber-a-mota/), e o processo completo no [guia de aluguer passo a passo](/guia-de-aluguer/)."
+  ],
+  "sections": [
+    {
+      "h2": "O que dois minutos mostram e o que não mostram",
+      "body": [
+        "Não encontrámos uma norma oficial de inspeção de travões pensada para quem aluga uma mota. O teste deste guia junta o que os manuais de condução citados explicam sobre travagem com o bom senso de quem verifica uma mota antes de a levar. Serve para detetar o óbvio: um comando que não trava, que trava de mais ou que trava de forma desigual.",
+        "O que o teste **não** mostra: a espessura das pastilhas ou das maxilas, o estado do disco ou do tambor, a idade do fluido e a condição dos cabos ou dos tubos. Só a loja os pode examinar. Se a dúvida for o desgaste, o guia sobre [desgaste normal ou dano](/precos/desgaste-normal-num-aluguer-longo/) mostra como o registar e o que combinar.",
+        {
+          "note": "Cada modelo sente-se de maneira diferente: não compare com a mota que conduz em casa. Se algo lhe parecer estranho, pergunte à loja «isto é normal neste modelo?».",
+          "tone": "info",
+          "title": "Compare com o modelo, não com outra mota"
+        }
+      ]
+    },
+    {
+      "h2": "Porque se testam os dois travões, um de cada vez",
+      "body": [
+        "Como regra geral, o travão da frente fornece cerca de 70% da força total de travagem, segundo manuais de proprietário da Honda. O manual do motociclista do estado norte-americano da Geórgia fala em 70% ou mais e diz que é preciso usá-lo para abrandar com eficácia. Para a travagem mais eficaz, os mesmos manuais Honda mandam acionar o comando da frente e o de trás ao mesmo tempo: a mota para mais depressa e com mais estabilidade.",
+        "O quadro de distâncias do manual da Geórgia mostra o que se perde quando só se usa um travão:",
+        {
+          "table": {
+            "caption": "Distâncias de paragem num quadro do manual do motociclista da Geórgia (EUA), na mesma situação de ensaio",
+            "head": [
+              "Travões usados",
+              "Distância no quadro",
+              "Em metros (aproximado)"
+            ],
+            "rows": [
+              [
+                "Os dois travões",
+                "95 pés",
+                "29 m"
+              ],
+              [
+                "Só o da frente",
+                "130 pés",
+                "40 m"
+              ],
+              [
+                "Só o de trás",
+                "180 pés",
+                "55 m"
+              ]
+            ]
+          }
+        },
+        "Leia a tabela como ordem de grandeza: a velocidade do ensaio não consta da informação que consultámos e as conversões para metros são nossas. Mostra que um travão sozinho, sobretudo o de trás, para muito pior do que os dois juntos, e é por isso que o teste verifica cada comando e depois os dois. Os manuais Honda citados são de motas de maior cilindrada (VT750 e VT1300) e o da Geórgia é norte-americano: são boa prática de travagem, não regra vietnamita nem manual da mota que vai levar."
+      ]
+    },
+    {
+      "h2": "Antes de ligar o motor: o teste com a mota parada",
+      "body": [
+        "Faça o primeiro teste ainda à porta da loja, com a mota no chão, direita e segura por si, e o motor desligado. Cada passo demora segundos.",
+        {
+          "steps": [
+            {
+              "title": "Saber o que cada comando trava",
+              "text": "Peça a alguém da loja que lhe mostre, nessa mota, qual comando trava a roda da frente e qual trava a de trás. Algumas scooters têm travagem combinada (CBS), em que, segundo fontes vietnamitas sobre motas, uma só manete pode travar as duas rodas. Não encontrámos fonte que diga qual manete a aciona na Vision ou na Air Blade: confirme na mota que vai levar."
+            },
+            {
+              "title": "Olhar para os comandos",
+              "text": "As manetes e o pedal, se existir, não devem estar partidos nem dobrados, devem mover-se sem prender e voltar sozinhos à posição de repouso quando os solta."
+            },
+            {
+              "title": "Apertar cada manete",
+              "text": "Aperte devagar. A resistência deve aumentar de forma progressiva até um ponto firme. Se o comando afundar sem resistência, parecer esponjoso ou chegar quase ao punho antes de travar, tome nota: é um dos sinais de alerta da tabela mais abaixo."
+            },
+            {
+              "title": "Empurrar a mota",
+              "text": "Com um comando apertado, tente empurrar a mota para a frente: a roda correspondente deve ficar presa e a mota não deve rolar livremente. Repita com cada comando. Se a mota tiver travagem combinada, observe o que acontece quando aperta só um."
+            },
+            {
+              "title": "Soltar e voltar a empurrar",
+              "text": "Solte o comando e empurre outra vez: a mota deve voltar a rolar livremente. Uma roda que continua presa ou que raspa depois de soltar o comando é um sinal de alerta."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "Em andamento lento: o teste de 30 segundos",
+      "body": [
+        "O segundo teste faz-se em andamento, mas a passo de caminhada. O objetivo não é travar com força: é sentir como a mota responde. Escolha um troço plano, seco, limpo e livre, longe de peões e de outras motas, leve o capacete posto e apertado.",
+        "Antes de arrancar, confirme que o descanso lateral está recolhido: nas motas Honda, segundo a Honda Vietname, o interruptor do descanso corta o motor logo que ele desce, e o motor só arranca com o descanso levantado.",
+        {
+          "steps": [
+            {
+              "title": "Primeiro, só o travão de trás",
+              "text": "A passo de caminhada, aperte de leve só o comando do travão de trás. A mota deve abrandar de forma progressiva e a direito."
+            },
+            {
+              "title": "Depois, só o da frente",
+              "text": "Repita com o travão da frente, também de leve e com o guiador direito."
+            },
+            {
+              "title": "Por fim, os dois",
+              "text": "Trave de leve com os dois ao mesmo tempo. A mota deve parar de forma suave, sem puxar para um lado nem tremer."
+            },
+            {
+              "title": "Repetir um pouco mais firme",
+              "text": "Se tudo correu bem, repita a travagem com os dois, um pouco mais firme, mas sem chegar a bloquear nenhuma roda."
+            }
+          ]
+        },
+        "Se uma roda bloquear, os manuais Honda dizem o que fazer: soltar os travões, manter a direção a direito até recuperar o controlo e voltar a travar com mais suavidade. Se acontecer durante o teste, conte-o à loja.",
+        "Se o chão estiver molhado, deixe o teste para quando secar. O Highway Code do Reino Unido, na versão da Irlanda do Norte, diz que, com chuva, as distâncias de paragem são pelo menos o dobro das de piso seco, porque os pneus têm menos aderência. É uma recomendação britânica, não uma regra vietnamita, mas serve para qualquer mota molhada."
+      ]
+    },
+    {
+      "h2": "Sinais de alerta e o que fazer com cada um",
+      "body": [
+        "Não precisa de perceber a causa: basta reconhecer o sinal e decidir se sai com a mota. A tabela resume a atitude que recomendamos. Em caso de dúvida, não saia sem a loja ver.",
+        {
+          "table": {
+            "caption": "Sinais nos travões e o que fazer",
+            "head": [
+              "O que nota",
+              "O que fazer"
+            ],
+            "rows": [
+              [
+                "Um comando não deixa a roda presa, ou prende-a muito pouco",
+                "Não saia com a mota. Peça à loja que verifique ou lhe dê outra."
+              ],
+              [
+                "O comando afunda sem resistência, parece esponjoso ou chega quase ao punho",
+                "Diga à loja exatamente o que sentiu e peça que verifique antes de sair."
+              ],
+              [
+                "A mota puxa para um lado ao travar",
+                "Peça à loja que veja. A causa pode estar nos travões ou noutra peça: não tente adivinhar."
+              ],
+              [
+                "Ruído metálico, raspar contínuo ou vibração no comando",
+                "Interrompa o teste e peça à loja que veja."
+              ],
+              [
+                "Uma roda bloqueia ao mais leve toque",
+                "Repita noutro sítio, em piso seco e limpo. Se se repetir, conte-o à loja."
+              ],
+              [
+                "O comando não volta à posição, ou a roda continua presa depois de o soltar",
+                "Não saia. Peça à loja que veja."
+              ]
+            ]
+          }
+        },
+        "Nos travões, a dúvida resolve-se a favor da segurança. Se a loja verificar e disser que está tudo normal, peça que lhe mostre o que viu e repita o teste com ela a assistir. Se continuar com dúvidas, peça outra mota: o guia sobre [trocar de mota](/guia-de-aluguer/trocar-de-mota/) explica como o pedir e registar, e a nova mota passa pelo mesmo teste.",
+        "Escreva o que sentiu numa mensagem para a loja, tal como faz com as fotografias da entrega descritas em [fotografar a mota alugada](/guia-de-aluguer/fotografar-a-mota/): fica com data e hora."
+      ]
+    },
+    {
+      "h2": "Depois de levantar a mota: quando repetir o teste",
+      "body": [
+        "Os travões podem mudar durante o aluguer. Um cartão de curso da Motorcycle Safety Foundation descreve a T-CLOCS como um sistema de inspeção antes de conduzir, que pode ser usado antes de cada saída como verificação rápida de segurança. A mesma ideia serve aqui: antes da primeira saída de cada dia, aperte os dois comandos com a mota parada e, nos primeiros metros, trave de leve.",
+        "Repita também o teste depois de atravessar uma rua inundada: um técnico de uma loja Honda autorizada, citado pela VietNamNet, aponta a água nos travões, tal como no motor e na parte elétrica, como causa de uma mota insegura.",
+        "Se os travões piorarem a meio do aluguer, não os deixe para a devolução: não conduza com travões em que não confia e avise a loja pelo {{phone}}. A ajuda que existe na estrada está no guia de [assistência na estrada](/guia-de-aluguer/assistencia-na-estrada/)."
+      ]
+    },
+    {
+      "h2": "O que perguntar e pedir à loja",
+      "body": [
+        "Antes de pagar ou de assinar, junte estas perguntas à conversa com a loja:",
+        {
+          "checklist": [
+            "Qual comando trava qual roda nesta mota, e se tem travagem combinada (CBS) ou antibloqueio (ABS)?",
+            "Posso fazer o teste em andamento lento antes de sair, e onde?",
+            "Se, depois de sair, notar que os travões mudaram, a quem ligo e posso pedir outra mota?",
+            "Quando foram verificados os travões desta mota pela última vez, se a loja o souber dizer?",
+            "Como fica registado, por escrito, que os travões foram testados na entrega?"
+          ]
+        },
+        "A {{brand}} está aberta {{hours}}: pode fazer estas perguntas por telefone, no {{phone}}, ou pela página de [contactos](/contactos/). As [15 perguntas a fazer antes de alugar](/guia-de-aluguer/perguntas-antes-de-alugar/) cobrem preço, caução, documentos e equipamento."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Qual é o travão mais importante numa mota?",
+      "a": "O da frente faz a maior parte do trabalho: cerca de 70% da força de travagem, segundo manuais Honda, e 70% ou mais, segundo o manual da Geórgia. Isso não quer dizer travar só com ele: os manuais mandam usar os dois ao mesmo tempo, porque a mota para mais depressa e com mais estabilidade."
+    },
+    {
+      "q": "Posso testar os travões a fundo antes de sair?",
+      "a": "Não é aconselhável nem necessário. Travar com demasiada força pode bloquear as rodas e fazer a mota derrapar, segundo os manuais Honda. O teste descrito, a passo de caminhada e a travar de leve, chega para detetar um comando fraco, desigual ou ruidoso. Se tiver dúvidas, peça à loja que veja a mota."
+    },
+    {
+      "q": "A mota tem ABS ou CBS: o teste muda?",
+      "a": "O teste é o mesmo, mas o resultado pode ser diferente. Segundo fontes vietnamitas sobre motas, no CBS uma só manete pode travar as duas rodas, e o ABS evita que a roda deslize e se perca o controlo numa travagem brusca. Não encontrámos fonte sobre quais modelos de aluguer têm cada sistema: pergunte à loja e peça que lhe mostre como a mota se comporta."
+    },
+    {
+      "q": "E se a loja disser que os travões estão bem e eu continuar com dúvidas?",
+      "a": "A decisão de conduzir é sua. Peça que lhe mostrem o que verificaram, repita o teste com alguém da loja a ver e, se a dúvida se mantiver, peça outra mota, por mensagem, para ficar registado."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Manual do motociclista da Geórgia (EUA): travagem e distâncias de paragem (em inglês)",
+      "publisher": "Georgia Department of Driver Services (EUA)",
+      "url": "https://dds.georgia.gov/node/33951",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "title": "Manual do proprietário da Honda VT750C2B, p. 54 (em inglês)",
+      "publisher": "Honda (cópia alojada em bike-parts.fr)",
+      "url": "https://www.bike-parts.fr/thumbs/pdf_url/img/owner_manuals/owner_VT750C2BA/2500_2500/0054.pdf",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "en"
+    },
+    {
+      "title": "Manual do proprietário da Honda VT1300CX, p. 55 (em inglês)",
+      "publisher": "Honda (cópia alojada em bike-parts.fr)",
+      "url": "https://www.bike-parts.fr/thumbs/pdf_url/img/owner_manuals/owner_VT1300CXA_CXAA/2500_2500/0055.pdf",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "en"
+    },
+    {
+      "title": "Perguntas frequentes da Honda Việt Nam: informações gerais (em vietnamita)",
+      "publisher": "Honda Việt Nam",
+      "url": "https://honda.com.vn/cau-hoi-thuong-gap?category=&category_child=&category_tab=thong-tin-chung",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "Driving in adverse weather conditions (226 to 237)",
+      "publisher": "nidirect (Governo da Irlanda do Norte)",
+      "url": "https://nidirect.gov.uk/node/5167",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "title": "Cartões de curso da Motorcycle Safety Foundation (PDF em inglês)",
+      "publisher": "Cecil College (PDF com cartões de curso da MSF)",
+      "url": "https://www.cecil.edu/wp-content/uploads/abrc-course-cards.pdf",
+      "accessed": "2026-10-13",
+      "type": "reference",
+      "lang": "en"
+    },
+    {
+      "title": "CBS là gì? So sánh 2 loại phanh CBS và ABS có gì khác nhau?",
+      "publisher": "Mua Bán (blogue)",
+      "url": "https://muaban.net/blog/cbs-la-gi-217624/",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Hệ thống phanh ABS và CBS có gì khác nhau? Loại phanh nào an toàn hơn?",
+      "publisher": "Mua Bán (blogue)",
+      "url": "https://muaban.net/blog/phanh-abs-va-cbs-211351/",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Công nghệ phanh ABS và CBS trên môtô và xe máy thế nào?",
+      "publisher": "Báo Mới (agregador)",
+      "url": "https://baomoi.com/cong-nghe-phanh-abs-va-cbs-tren-moto-va-xe-may-the-nao-c38597932.epi",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Artigo da VietNamNet sobre os 7 itens vitais a verificar numa mota que ficou na água (em vietnamita)",
+      "publisher": "VietNamNet",
+      "url": "https://vietnamnet.vn/7-hang-muc-song-con-can-kiem-tra-ngay-khi-xe-may-bi-ngap-nuoc-2448300.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    }
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "PUBLISHED",
+  "date_published": "2026-10-13",
+  "date_modified": "2026-10-13",
+  "editorial": {
+    "qa_score": 100,
+    "qa_warnings": [],
+    "words": 1985,
+    "publish_mode": "review",
+    "approved_at": "2026-10-13",
+    "revisions": []
+  }
+}

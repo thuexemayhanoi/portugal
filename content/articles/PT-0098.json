@@ -1,0 +1,395 @@
+{
+  "contract_version": 1,
+  "id": "PT-0098",
+  "slug": "quanto-dinheiro-levar",
+  "title": "Orçamento da mota em Hanói: quanto dinheiro levar por dia",
+  "description": "Quanto dinheiro levar para alugar e usar uma mota em Hanói: aluguer, gasolina e estacionamento por dia, margem para imprevistos e o que perguntar sobre caução.",
+  "h1": "Quanto dinheiro levar para alugar e usar uma mota em Hanói",
+  "summary": "O orçamento de um dia de mota em Hanói soma o aluguer, que a tabela da loja fixa entre {{price.min.day}} e {{price.max.day}} conforme o modelo, a gasolina e o estacionamento. Com os preços de outubro de 2026, 50 km numa Vision gastam cerca de 24 mil a 26 mil VND de gasolina. A caução, se existir, é uma parcela à parte: só a loja a confirma.",
+  "key_points": [
+    "O aluguer vem da tabela de referência da loja, verificada a {{pricing.verifiedAt}}; a gasolina e o estacionamento pagam-se a terceiros e mudam.",
+    "Gasolina: os valores citados vão de mais de 24 mil VND por litro (10 de setembro de 2026) a cerca de 28 mil (8 de outubro), e não são todos da mesma série.",
+    "Estacionamento: uma notícia sobre a tabela municipal indica alguns milhares de VND por vez nos bairros urbanos; pergunte o preço no parque.",
+    "A caução e o pagamento do aluguer decidem o dinheiro do primeiro dia: peça os dois à loja, por escrito, antes de chegar.",
+    "Não conte pagar por QR com a app do seu banco português: as fontes consultadas só referem mercados asiáticos.",
+    "Reserve uma margem para imprevistos, definida por cenários, e guarde-a à parte."
+  ],
+  "intro": [
+    "A pergunta «quanto dinheiro levo?» tem, num aluguer de mota, duas respostas diferentes: quanto gasta por dia e quanto precisa de ter à mão no primeiro dia. A segunda soma o que pagar no levantamento, a caução (se a loja a pedir) e as despesas do dia. A primeira conta apenas o que sai da carteira a cada dia de uso.",
+    "Este guia separa as parcelas, põe números datados onde há fontes (gasolina e estacionamento) e deixa em branco o que só a loja pode confirmar, em vez de inventar valores. O resultado é um método que pode preencher para as suas datas. A lista completa de extras está no guia dos [custos para além do preço de referência](/precos/custos-alem-do-preco/), e as regras de documentos e caução no resumo de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/)."
+  ],
+  "sections": [
+    {
+      "h2": "As parcelas de um dia de mota",
+      "body": [
+        "Num dia normal de uso, três parcelas repetem-se: o aluguer, a gasolina e o estacionamento. A quarta, a caução, sai uma vez e, se existir, regressa no fim do aluguer. A tabela resume o que cada parcela é e de onde vem o valor que este guia usa.",
+        {
+          "table": {
+            "caption": "O que entra no orçamento de cada dia",
+            "head": [
+              "Parcela",
+              "Quem recebe",
+              "Valor de referência",
+              "Origem do valor"
+            ],
+            "rows": [
+              [
+                "Aluguer",
+                "A loja",
+                "{{price.min.day}} a {{price.max.day}} por dia, conforme o modelo",
+                "Tabela de preços da loja, verificada a {{pricing.verifiedAt}}"
+              ],
+              [
+                "Gasolina",
+                "A bomba",
+                "Cerca de 24 mil a 26 mil VND por 50 km numa Vision",
+                "Cálculo nosso, com preços de setembro e outubro de 2026"
+              ],
+              [
+                "Estacionamento",
+                "O parque",
+                "Alguns milhares de VND por vez",
+                "Notícia sobre a tabela municipal; o ano não está confirmado"
+              ],
+              [
+                "Caução",
+                "A loja, que a devolve",
+                "Só a loja confirma",
+                "Pergunte antes de chegar"
+              ],
+              [
+                "Margem",
+                "Ninguém, se correr bem",
+                "À sua escolha",
+                "Ver a última secção"
+              ]
+            ]
+          }
+        },
+        "O ponto de partida é sempre o preço da loja. Os valores de gasolina e de estacionamento são ordens de grandeza com data, e não preços garantidos."
+      ]
+    },
+    {
+      "h2": "O aluguer: a parcela que a tabela fixa",
+      "body": [
+        "Na tabela de referência da loja {{brand}}, um dia custa entre {{price.min.day}} e {{price.max.day}}, conforme o modelo. Estes valores referem-se só ao veículo: não incluem caução, entrega, recolha nem extras, e a loja confirma o valor final para as suas datas.",
+        {
+          "component": "price-table"
+        },
+        "Escolher o modelo muda a conta de todos os dias. A Click custa {{price.click.day}} por dia, {{cmp.click.vision.day}} a Vision, que custa {{price.vision.day}}. Se ficar vários dias, compare também as tarifas: na Vision, a semana ({{price.vision.week}}) custa o mesmo ou menos do que pagar ao dia a partir de {{price.vision.weekFrom}} dias.",
+        {
+          "component": "duration-compare"
+        },
+        "Para fazer as contas à duração completa, veja o guia do [aluguer semanal](/precos/aluguer-semanal-de-mota/) e o do [aluguer por um dia](/precos/aluguer-de-mota-por-um-dia/), que explicam como se conta cada tarifa."
+      ]
+    },
+    {
+      "h2": "Gasolina: contas com os preços de outubro de 2026",
+      "body": [
+        "A gasolina paga-se na bomba, por si, e o preço mudou muito em 2026. O Ministério da Indústria e Comércio (MOIT) e a imprensa vietnamita deram, entre setembro e outubro, os valores da tabela. Não são todos da mesma série nem, em todos os casos, da mesma gasolina, por isso servem para ter a ordem de grandeza e não para fechar contas ao dong.",
+        {
+          "table": {
+            "caption": "Valores de gasolina citados em setembro e outubro de 2026",
+            "head": [
+              "Data",
+              "Valor por litro",
+              "Fonte e ressalva"
+            ],
+            "rows": [
+              [
+                "10 de setembro de 2026",
+                "E10RON95-III acima de 24 mil VND",
+                "Tạp chí Công Thương, sobre a revisão desse dia"
+              ],
+              [
+                "17 de setembro de 2026",
+                "Cerca de 26 mil VND",
+                "Comunicado do MOIT; é o «preço da gasolina no Vietname» usado na comparação com países vizinhos"
+              ],
+              [
+                "8 de outubro de 2026",
+                "Cerca de 28 mil VND",
+                "Comunicado do MOIT, na mesma comparação; o excerto consultado não diz o tipo de gasolina nem se o valor é anterior ou posterior à revisão desse dia"
+              ]
+            ]
+          }
+        },
+        "O preço é revisto às quintas-feiras: as revisões de 10 e 17 de setembro e de 1 e 8 de outubro de 2026 caíram todas numa quinta-feira. O valor do dia vê-se no visor da bomba, e o comunicado mais recente está no site do MOIT.",
+        {
+          "h3": "O cálculo para um dia de 50 km"
+        },
+        "Para a Vision atual, o consumo anunciado é de 1,82 litros aos 100 km, medido em condições de teste, como explica o guia da [Honda Vision em Hanói](/tipos-de-motas/honda-vision-em-hanoi/). Em 50 km, são 0,91 litros. Ao preço do comunicado de 17 de setembro, isso dá cerca de 24 mil VND; ao de 8 de outubro, cerca de 26 mil VND.",
+        "Para outro modelo, use a mesma fórmula: consumo em litros aos 100 km, a dividir por 100, a multiplicar pelo preço do litro e pelos quilómetros. Se não souber o consumo, pergunte à loja quantos litros leva o depósito da unidade que vai receber e quantos quilómetros costuma fazer com ele.",
+        {
+          "note": "O consumo anunciado vem de condições de teste. No trânsito de Hanói, com paragens, passageiro e muitos arranques, conte com um consumo superior. O resultado acima parte do valor anunciado: trate-o como ponto de partida da estimativa.",
+          "tone": "info",
+          "title": "Conte com mais do que o anunciado"
+        },
+        "O nível com que recebe e devolve a mota, e como se acerta uma diferença, está explicado no guia sobre o [combustível no aluguer](/precos/combustivel-no-aluguer/)."
+      ]
+    },
+    {
+      "h2": "Estacionamento: pequenas somas que se repetem",
+      "body": [
+        "Nos parques com funcionário, o preço é por vez: uma entrada e uma saída. Uma notícia do Báo Pháp luật Việt Nam sobre a nova tabela municipal de preços de estacionamento dá, para motas, os valores abaixo. O excerto que consultámos não deixa ver o ano de entrada em vigor, por isso trate-os como ordem de grandeza.",
+        {
+          "table": {
+            "caption": "Estacionamento de motas na tabela municipal noticiada pelo Báo Pháp luật Việt Nam",
+            "head": [
+              "Zona",
+              "De dia (6h–18h)",
+              "À noite (18h–6h)",
+              "Dia e noite",
+              "Por mês"
+            ],
+            "rows": [
+              [
+                "Bairros urbanos",
+                "3 mil VND",
+                "5 mil VND",
+                "7 mil VND",
+                "70 mil VND"
+              ],
+              [
+                "Mercados, escolas, hospitais e distritos periféricos",
+                "2 mil VND",
+                "3 mil VND",
+                "4 mil VND",
+                "50 mil VND"
+              ],
+              [
+                "Locais turísticos e monumentos",
+                "Mais caro",
+                "Mais caro",
+                "Mais caro",
+                "Valores não consultados"
+              ]
+            ]
+          }
+        },
+        "Num dia com quatro paragens em zona urbana, a conta é quatro vezes o valor da vez, de dia: cerca de 12 mil VND. Nos sítios turísticos, os valores são mais altos e o preço não ficou apurado.",
+        "Em feriados, convém ter mais cuidado. A VnExpress publicou notícias cujos títulos apontam cobranças abusivas em parques no feriado de 2 de setembro e no Tết. Só consultámos os títulos, e não os detalhes. Nesses dias, pergunte o preço antes de deixar a mota e guarde o talão, que prova o que lhe foi pedido.",
+        "À noite, a mota fica no alojamento ou num parque perto dele. Pergunte, antes de reservar, se esse lugar tem custo; o guia dos [custos extra](/precos/custos-alem-do-preco/) traz a lista completa."
+      ]
+    },
+    {
+      "h2": "Um dia de exemplo, com as contas à vista",
+      "body": [
+        "Para ver as parcelas juntas, imagine um dia de Vision em zona urbana, com 50 km e quatro paragens. É um exemplo do método, com os valores e as datas das secções anteriores, e não uma promessa de gasto.",
+        {
+          "table": {
+            "caption": "Um dia de exemplo: Honda Vision, 50 km, quatro paragens",
+            "head": [
+              "Parcela",
+              "Como se calcula",
+              "Valor"
+            ],
+            "rows": [
+              [
+                "Aluguer, 1 dia",
+                "Tabela de preços da loja",
+                "{{price.vision.day}}"
+              ],
+              [
+                "Gasolina, 50 km",
+                "0,91 litros × preço do litro",
+                "Cerca de 24 mil a 26 mil VND"
+              ],
+              [
+                "Estacionamento, 4 vezes",
+                "4 × valor da vez, de dia",
+                "Cerca de 12 mil VND"
+              ],
+              [
+                "Gasolina e estacionamento",
+                "Soma das duas linhas anteriores",
+                "Cerca de 36 mil a 38 mil VND"
+              ]
+            ]
+          }
+        },
+        "Este total não inclui a caução, nem as refeições, nem a margem para imprevistos. Se rodar mais quilómetros, a gasolina sobe na mesma proporção; se estacionar menos vezes, o estacionamento desce. É por isso que o método é mais útil do que o número."
+      ]
+    },
+    {
+      "h2": "Caução e pagamento do aluguer: o dinheiro do primeiro dia",
+      "body": [
+        "O dinheiro de que precisa no primeiro dia não é o da conta diária. Soma o que pagar no levantamento, que pode ser o aluguer de todo o período ou só uma parte, e a caução, se existir e se for em numerário. O momento do pagamento está no guia sobre [pagar no início ou no fim](/precos/pagar-no-inicio-ou-no-fim/), e o mecanismo da caução no guia de [como funciona a caução](/precos/como-funciona-a-caucao/).",
+        "Este site não publica montantes de caução nem diz que formas de pagamento a loja aceita: dependem do modelo, da duração e do seu caso. Peça tudo numa só mensagem, antes de chegar:",
+        {
+          "checklist": [
+            "o total do aluguer para as suas datas e o modelo que escolheu;",
+            "se há caução no seu caso, de que forma e em que moeda;",
+            "quando se paga cada parcela e de que forma;",
+            "que recibo recebe de cada pagamento;",
+            "quando e como a caução, se existir, lhe é devolvida."
+          ]
+        },
+        "Pode enviar a mensagem por telefone ou Zalo, pelo {{phone}}, {{hours}}. Os restantes dados estão na página de [contactos](/contactos/).",
+        "Se a caução for em numerário, levante o dinheiro com antecedência. Não encontrámos fontes fiáveis sobre comissões nem limites de levantamento em caixas automáticas do Vietname para cartões estrangeiros, por isso pergunte ao seu banco antes de partir. O guia da [caução em dinheiro](/precos/caucao-em-dinheiro/) explica como contar e registar a entrega."
+      ]
+    },
+    {
+      "h2": "Cartão, QR e numerário: o que não dar por garantido",
+      "body": [
+        "Os pagamentos por QR de visitantes estrangeiros estão a alargar-se em 2026, mas não a todos os países. Notícias de julho e agosto de 2026 sobre a rede VietQRGlobal, da NAPAS, referem visitantes da China, da Coreia do Sul, da Tailândia, do Laos e do Camboja, e anunciam a expansão a outros mercados. Não mencionam bancos portugueses nem europeus. Por isso, não conte pagar por QR com a app do seu banco.",
+        "Isto não diz o que a loja, os parques e as bombas aceitam: são perguntas para a loja e para o seu banco. Para despesas pequenas, como a gasolina e o estacionamento, leve alguma quantia em notas pequenas: as fontes consultadas não confirmam que um cartão estrangeiro seja aceite em todos os sítios.",
+        "Com tantos zeros, é fácil trocar os valores à pressa. Escreva o orçamento em dong e converta para euros apenas com a taxa do dia, que este guia não indica porque muda todos os dias."
+      ]
+    },
+    {
+      "h2": "Margem para imprevistos: defina-a por cenários",
+      "body": [
+        "Uma margem é dinheiro que espera não gastar. Em vez de um número redondo, defina-a por cenários que já viu neste guia, e guarde-a à parte do dinheiro do dia:",
+        {
+          "ul": [
+            "**Um dia extra de aluguer**, se ficar com a mota mais tempo: a tabela dá {{price.min.day}} a {{price.max.day}} por dia, mas peça à loja o valor de cada dia extra e como conta o dia, segundo o guia da [hora de devolução](/precos/horas-de-levantamento-e-devolucao/);",
+            "**Uma reparação de rua**, como um furo: quem paga e como se combina está no guia sobre [furos e pequenas reparações](/precos/custo-de-furos-e-reparacoes/);",
+            "**Um parque mais caro** num dia de feriado;",
+            "**Um táxi ou uma viagem de aplicação**, se a mota deixar de arrancar a meio do dia."
+          ]
+        },
+        "Uma sugestão simples, que é nossa e não uma regra: reservar o equivalente a um dia de aluguer do seu modelo, e subir o valor se o aluguer for longo ou se for sair de Hanói. Para cobranças que não reconheça, o guia sobre [burlas no aluguer de motas](/precos/burlas-no-aluguer-de-motas/) dá o método de verificação."
+      ]
+    },
+    {
+      "h2": "Como preencher a sua folha de contas",
+      "body": [
+        {
+          "steps": [
+            {
+              "title": "Peça o total do aluguer",
+              "text": "Dê as datas, o modelo e a hora de levantamento, e peça o valor do período completo, e não só o do dia."
+            },
+            {
+              "title": "Peça a caução e a forma",
+              "text": "Pergunte se há caução, de que forma e quando regressa. Escreva a resposta ao lado do total."
+            },
+            {
+              "title": "Estime a gasolina",
+              "text": "Multiplique os quilómetros previstos pelo consumo e pelo preço do litro do dia, e some uma folga, porque o consumo anunciado vem de condições de teste."
+            },
+            {
+              "title": "Conte os parques",
+              "text": "Estime quantas vezes vai estacionar por dia e multiplique pelo valor da vez, que deve confirmar no parque."
+            },
+            {
+              "title": "Some a margem e fixe o dinheiro do primeiro dia",
+              "text": "O dinheiro do primeiro dia é o que pagar no levantamento mais a caução em numerário, se existir; o de cada dia é a gasolina mais os parques."
+            }
+          ]
+        },
+        "Guarde as respostas da loja no telemóvel: são a referência, se alguma coisa mudar entre a mensagem e o balcão. Para as perguntas de fundo sobre o aluguer, use a lista das [15 perguntas a fazer antes de alugar](/guia-de-aluguer/perguntas-antes-de-alugar/)."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Preciso de levar dinheiro vivo ou posso pagar tudo com cartão?",
+      "a": "Pergunte à loja que formas de pagamento aceita para o aluguer, porque este site não as publica. Para as despesas pequenas, como gasolina e parque, as fontes consultadas não confirmam que um cartão estrangeiro seja aceite em todo o lado, por isso leve alguma quantia em notas pequenas."
+    },
+    {
+      "q": "A caução entra no orçamento diário?",
+      "a": "Não. A caução, se existir, é uma garantia que sai no início e regressa no fim, nas condições combinadas. Conte-a à parte, no dinheiro do primeiro dia, sobretudo se for em numerário, e peça à loja o montante e a forma por escrito."
+    },
+    {
+      "q": "Os valores de gasolina e de estacionamento deste guia ainda valem?",
+      "a": "São de setembro e outubro de 2026 e mudam: o preço da gasolina é revisto às quintas-feiras, e a tabela de estacionamento citada não tem o ano confirmado. Use-os para estimar uma ordem de grandeza e confirme o preço no visor da bomba e no parque."
+    },
+    {
+      "q": "Quanto tenho de levar em euros?",
+      "a": "Este guia não indica taxas de câmbio, porque mudam todos os dias. Calcule o orçamento em dong e converta com a taxa do dia da sua app bancária ou da casa de câmbio, anotando também o valor em dong para evitar enganos com os zeros."
+    }
+  ],
+  "sources": [
+    "tabela-precos-proprietario",
+    {
+      "title": "Informação do Ministério da Indústria e Comércio sobre a gestão do preço dos combustíveis de 8 de outubro de 2026 (em vietnamita)",
+      "publisher": "Bộ Công Thương (moit.gov.vn)",
+      "url": "https://moit.gov.vn/tin-tuc/thong-tin-dieu-hanh-gia-xang-dau-ngay-8-10-2026.html",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "vi"
+    },
+    {
+      "title": "Informações do Ministério da Indústria e Comércio sobre a gestão do preço dos combustíveis de 17 de setembro de 2026 (em vietnamita)",
+      "publisher": "Bộ Công Thương (moit.gov.vn)",
+      "url": "https://moit.gov.vn/tin-tuc/mot-so-thong-tin-ve-viec-dieu-hanh-gia-xang-dau-ngay-17-9.html",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "vi"
+    },
+    {
+      "title": "Kỳ điều hành giá xăng dầu ngày 10/9/2026: Giá xăng dầu đồng loạt tăng, xăng E10RON95-III vượt 24.000 đồng/lít",
+      "publisher": "Tạp chí Công Thương",
+      "url": "https://tapchicongthuong.vn/ky-dieu-hanh-gia-xang-dau-ngay-10-9-2026--gia-xang-dau-dong-loat-tang--xang-e10ron95-iii-vuot-24-000-dong-lit-548847.htm",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Página do modelo Honda Vision no site oficial da Honda Vietname",
+      "publisher": "Honda Việt Nam",
+      "url": "https://www.honda.com.vn/xe-may/san-pham/vision",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "Hà Nội ban hành mức phí trông xe mới",
+      "publisher": "Báo Pháp luật Việt Nam",
+      "url": "https://baophapluat.vn/ha-noi-ban-hanh-muc-phi-trong-xe-moi-post236356.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Gửi xe dịp 2/9, khách hàng bị 'chặt đẹp'",
+      "publisher": "VnExpress",
+      "url": "https://vnexpress.net/gui-xe-dip-2-9-khach-hang-bi-chat-dep-2094733.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Bắt chẹt khách gửi xe ngày Tết",
+      "publisher": "VnExpress",
+      "url": "https://vnexpress.net/bat-chet-khach-gui-xe-ngay-tet-2079064.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Notícia sobre pagamentos QR transfronteiriços para turistas estrangeiros no Vietname (em inglês)",
+      "publisher": "Tuoi Tre News",
+      "url": "https://news.tuoitre.vn/foreign-tourists-enjoy-easier-qr-payments-across-vietnam-as-cross-border-network-expands-103260807130016786.htm",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "en"
+    },
+    {
+      "title": "NCB introduces Seamless Cross-Border QR Payments for international travellers in Vietnam",
+      "publisher": "Macau Business (comunicado; também no Malay Mail a 15/07/2026)",
+      "url": "https://macaubusiness.com/ncb-introduces-seamless-cross-border-qr-payments-for-international-travellers-in-vietnam/",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "en"
+    }
+  ],
+  "legal_note": false,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "PUBLISHED",
+  "date_published": "2026-10-13",
+  "date_modified": "2026-10-13",
+  "editorial": {
+    "qa_score": 100,
+    "qa_warnings": [],
+    "words": 2334,
+    "publish_mode": "review",
+    "approved_at": "2026-10-13",
+    "revisions": []
+  }
+}

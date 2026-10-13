@@ -12,6 +12,7 @@ import fs from 'node:fs';
 import { spawnSync } from 'node:child_process';
 import { readJSON, writeJSON, listFiles, rel, todayISO, normalize } from './lib/util.mjs';
 import { createValidator } from './qa-factory.mjs';
+import { runGuard } from './lib/guard.mjs';
 import { intentFingerprint } from './lib/intent.mjs';
 import { roomLeft } from './lib/pace.mjs';
 
@@ -40,7 +41,10 @@ function refreshQueue() {
   const live = [...model.byUrl.values()].map((p) => ({ url: p.url, title: p.navLabel || p.h1 }));
   const liveSet = new Set(live.map((l) => l.url));
   // Priority first; inside each priority, alternate between parent categories for topical breadth.
-  const eligible = plan.topics.filter((t) => ['PLANNED', 'QUEUED', 'REWRITE_REQUIRED'].includes(t.editorial_qa_status) && !busy.has(t.id));
+  // Collision guard before writing: only real gaps reach the writers; the rest wait for a person.
+  const guard = new Map(runGuard(model, { all: true }).map((r) => [r.id, r]));
+  const held = [...guard.values()].filter((r) => r.decision !== 'ALLOW_CREATE');
+  const eligible = plan.topics.filter((t) => ['PLANNED', 'QUEUED', 'REWRITE_REQUIRED'].includes(t.editorial_qa_status) && !busy.has(t.id) && guard.get(t.id)?.decision !== 'REVIEW_COLLISION' && !['UPGRADE_EXISTING', 'REJECT_DUPLICATE'].includes(guard.get(t.id)?.decision));
   const ordered = [];
   for (const prio of [1, 2, 3]) {
     const byParent = new Map();
@@ -77,6 +81,7 @@ function refreshQueue() {
     contract_version: config.contract_version,
     generated_at: todayISO(),
     factory_status: state.status,
+    held_by_guard: held.map((r) => ({ id: r.id, decision: r.decision, reasons: r.reasons })),
     live_pages: live,
     items
   });

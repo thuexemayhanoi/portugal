@@ -1,0 +1,294 @@
+{
+  "contract_version": 1,
+  "id": "PT-0229",
+  "slug": "fica-no-bairro-antigo-e-quer-alugar",
+  "title": "Alugar mota se fica no Bairro Antigo: levantar em Long Biên",
+  "description": "Hospedado no Bairro Antigo? Como ir à loja em Long Biên, a que horas levantar a mota, que ponte usar no regresso ao centro e o que perguntar sobre a entrega.",
+  "h1": "Fica no Bairro Antigo? Como levantar a mota na loja em Long Biên e voltar ao centro",
+  "summary": "A loja {{brand}} fica em Long Biên, do outro lado do rio Vermelho: quem está no Bairro Antigo vai lá de táxi, de aplicação ou de mota com condutor, com a morada em vietnamita. Escolha uma hora fora dos picos de trânsito e deixe a primeira travessia para a luz do dia. A entrega no alojamento não está assegurada: só conta o que a loja confirmar por escrito.",
+  "key_points": [
+    "A loja fica em {{area}}, na outra margem do rio Vermelho: do Bairro Antigo, o levantamento é uma viagem de táxi, aplicação ou mota com condutor.",
+    "Mostre {{address.vi}} ao condutor: os automóveis não circulam na ponte Long Biên e atravessam o rio por outra ponte.",
+    "Como referência, evite as janelas de ponta que a cidade usa no centro (06:00–09:00 e 16:00–19:30); em dezembro, o sol põe-se por volta das 17:17.",
+    "Na primeira viagem de regresso, a ponte Long Biên serve motas, bicicletas e peões; se estiver fechada, a alternativa é a ponte Chương Dương.",
+    "A entrega no alojamento depende da loja, caso a caso: peça a confirmação por escrito antes de contar com ela."
+  ],
+  "intro": [
+    "Quem fica no Bairro Antigo tem a loja do outro lado do rio. Não é um passeio a pé nem uma paragem de caminho: é uma travessia que se organiza, com um meio de transporte para ir, uma hora que convém escolher e uma primeira viagem de mota que, para quem fica no Bairro Antigo, termina nas ruas mais apertadas da cidade.",
+    "Este guia é para quem já decidiu alugar e quer montar o primeiro dia a partir do centro: como chegar ao balcão, a que horas, como fazer a viagem de volta e como contar com o regresso à loja no fim. O que levar e o que confirmar antes de sair está em [aluguer de motas em Long Biên](/zonas-de-hanoi/aluguer-de-motas-em-long-bien/), e as regras da ponte em [ponte Long Biên de mota](/zonas-de-hanoi/ponte-long-bien/). As informações sobre pontes, trânsito e zonas foram verificadas a 13 de outubro de 2026."
+  ],
+  "sections": [
+    {
+      "h2": "Duas maneiras de ter a mota quando se fica no centro",
+      "body": [
+        "Em teoria há dois caminhos. Ou vai à loja, ou pede à loja que a mota vá ter consigo. Na prática, só o primeiro tem condições conhecidas, e é por isso que ocupa quase todo este guia.",
+        {
+          "table": {
+            "caption": "Levantar na loja ou receber no alojamento",
+            "head": [
+              "Opção",
+              "Como funciona",
+              "O que confirmar"
+            ],
+            "rows": [
+              [
+                "Ir à loja",
+                "Viagem até à morada da loja, aberta {{hours}}",
+                "A hora de chegada, os documentos e a mota para as suas datas"
+              ],
+              [
+                "Pedir a entrega no alojamento",
+                "A loja decide caso a caso, por morada, dia e hora; não há tarifa publicada",
+                "Se é possível, a que horas e com que custo, tudo por escrito"
+              ]
+            ]
+          }
+        },
+        "Se prefere não atravessar o rio, pergunte primeiro pela entrega. O guia sobre a [entrega da mota no hotel](/precos/entrega-da-mota-no-hotel/) indica a informação a enviar e as perguntas a fazer. Até haver uma resposta escrita da loja, trate a entrega como possibilidade e não como plano, e tenha a viagem à loja como alternativa."
+      ]
+    },
+    {
+      "h2": "Do alojamento à loja: táxi, aplicação ou mota com condutor",
+      "body": [
+        "A loja fica em {{area}}, na margem leste do rio Vermelho, em {{address}}. Do Bairro Antigo, a ida faz-se de táxi, de carro de aplicação ou de mota com condutor.",
+        {
+          "h3": "O que mostrar ao condutor"
+        },
+        "Mostre a morada escrita em vietnamita, **{{address.vi}}**, e partilhe a localização no [Google Maps]({{maps}}), onde a loja aparece como «{{gbp}}». Ao entrar no carro, confirme no mapa do telemóvel que o destino marcado é este.",
+        {
+          "h3": "Que ponte vai usar"
+        },
+        "Os automóveis não circulam na ponte Long Biên, por isso um táxi ou um carro de aplicação atravessa o rio por outra ponte. A escolha é do condutor ou do GPS. A ponte Chương Dương, mais a sul, é uma das alternativas: em setembro de 2024, quando a Long Biên fechou, a imprensa vietnamita noticiou que ali só estavam restringidos os autocarros com mais de 9 lugares e os camiões acima de 0,5 toneladas. Não é uma regra permanente, e não vale a pena discutir o trajeto: o que interessa é chegar à morada certa.",
+        {
+          "h3": "Mota com condutor"
+        },
+        "Quem viaja só com uma mochila pode preferir ir na garupa de uma mota. As motas podem usar a ponte Long Biên enquanto estiver aberta; se estiver fechada, o condutor segue pela Chương Dương. Peça-lhe que o deixe à porta da loja e confirme a morada no mapa antes de sair.",
+        {
+          "h3": "Quanto custa a viagem"
+        },
+        "Não indicamos valores de táxi nem de mota com condutor, porque não os verificámos. Peça uma estimativa na aplicação antes de confirmar a viagem ou pergunte ao alojamento quanto custa, normalmente, chegar à morada da loja.",
+        {
+          "h3": "Se o alojamento fica na área do lago"
+        },
+        "Nas noites de sexta a domingo, das 19:00 às 24:00, a zona 1 do lago Hoàn Kiếm e do mercado noturno está fechada a motas e a automóveis, à data de 13 de outubro de 2026. A informação oficial só deixa de fora veículos prioritários e alguns veículos oficiais. Se dorme nessa área, combine a recolha numa rua fora dela, para o condutor não ficar impedido de chegar à porta."
+      ]
+    },
+    {
+      "h2": "A que horas ir à loja",
+      "body": [
+        "A loja está aberta {{hours}}. O que pesa na escolha é o resto do dia: o trânsito, a luz e o dia da semana.",
+        {
+          "table": {
+            "caption": "Três coisas que decidem a hora do levantamento",
+            "head": [
+              "Fator",
+              "O que dizem as fontes",
+              "Na prática"
+            ],
+            "rows": [
+              [
+                "Horas de ponta",
+                "A cidade aplica as janelas 06:00–09:00 e 16:00–19:30 às restrições a autocarros grandes na zona 2 de Hoàn Kiếm",
+                "Entre as 09:00 e as 16:00, fora dessas janelas, a travessia é mais fácil"
+              ],
+              [
+                "Luz do dia",
+                "Segundo tabelas de 2026, o sol põe-se por volta das 17:17 em dezembro e das 18:39 em junho",
+                "Em dezembro, quem sai da loja às 16:30 tem cerca de três quartos de hora de luz"
+              ],
+              [
+                "Noites de fim de semana",
+                "A zona 1 fecha a motas e automóveis de sexta a domingo, das 19:00 às 24:00",
+                "Se vai levar a mota até ao centro, chegue antes das 19:00"
+              ]
+            ]
+          }
+        },
+        "Uma hora sensata para quem fica no centro é a meio da manhã ou no início da tarde: chega à loja com a cidade já em movimento, tem tempo para ver a mota sem pressa e faz a primeira travessia com luz. Evite marcar o levantamento para pouco antes do fecho, às {{closes}}, e não o encaixe entre dois compromissos.",
+        "As janelas de ponta da cidade são uma referência, e não uma regra para motas: se o trânsito estiver parado, espere ou escolha outra hora."
+      ]
+    },
+    {
+      "h2": "A primeira viagem de regresso ao centro",
+      "body": [
+        "Para quem fica no Bairro Antigo, a primeira viagem com a mota alugada é a travessia do rio rumo ao trânsito mais denso da cidade. Convém decidir como a fazer antes de sair da loja. Se nunca conduziu em Hanói, a alternativa é uma volta curta do lado de Long Biên antes de atravessar; o guia da [visita à loja](/zonas-de-hanoi/aluguer-de-motas-em-long-bien/) explica como.",
+        {
+          "steps": [
+            {
+              "title": "Confirme o estado da ponte",
+              "text": "A ponte Long Biên reabriu a 28 de maio de 2026 a motas, bicicletas e peões, nos dois sentidos, depois de dois meses fechada. Nas notícias consultadas a 13 de outubro de 2026 não havia novo fecho anunciado, mas já fechou mais do que uma vez em poucos meses: pergunte no balcão."
+            },
+            {
+              "title": "Peça o caminho a partir da loja",
+              "text": "Não confirmámos como a ponte Chương Dương se liga à rua da loja, do lado de Long Biên. Peça no balcão o caminho até à ponte que vai usar e marque-o no mapa com a mota parada."
+            },
+            {
+              "title": "Tenha o plano B pronto",
+              "text": "Se a ponte Long Biên estiver fechada, o desvio oficial das obras ligava o lado do centro à Chương Dương pela rua Trần Nhật Duật, junto ao rio, até à rotunda à entrada da ponte."
+            },
+            {
+              "title": "Atravesse sem parar",
+              "text": "Na ponte velha, a faixa das motas é estreita e partilhada com bicicletas. As fotografias fazem-se a pé, depois de estacionar, e não no tabuleiro."
+            },
+            {
+              "title": "Já do lado do centro, abrande",
+              "text": "As ruas do Bairro Antigo têm sentidos únicos, peões na faixa e zonas fechadas à noite. Leia antes o guia para [conduzir no Bairro Antigo](/zonas-de-hanoi/conduzir-no-bairro-antigo/)."
+            }
+          ]
+        },
+        "Antes de chegar, saiba onde vai deixar a mota. Pergunte à receção do alojamento se tem lugar, se tem custo e a que horas fecha o acesso. Se não tiver, escolha um parque com funcionário e guarde a senha."
+      ]
+    },
+    {
+      "h2": "No dia da devolução: o caminho inverso",
+      "body": [
+        "A devolução faz-se na loja, em Long Biên, e acaba com uma viagem de volta ao centro sem mota. Conte com tempo para as duas coisas: a loja fecha às {{closes}}, e atravessar o rio nas janelas de ponta demora mais do que a meio do dia.",
+        {
+          "ul": [
+            "**Combine a hora no levantamento.** O guia sobre a [hora de devolução](/precos/horas-de-levantamento-e-devolucao/) explica como se conta o dia de aluguer.",
+            "**Chegue com margem.** Se vir que se atrasa, avise a loja antes da hora combinada; o guia do [atraso na devolução](/guia-de-aluguer/atraso-na-devolucao/) indica como.",
+            "**Prepare a verificação final.** A [lista de devolução da mota](/guia-de-aluguer/devolver-a-mota/) ajuda a não esquecer nada.",
+            "**Volte ao centro como foi.** Depois de entregar a mota, o regresso faz-se de táxi ou de aplicação, e a ponte Long Biên continua sem automóveis."
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "Compensa a viagem à loja? Faça a conta pela duração",
+      "body": [
+        "A ida à loja e a volta são um custo fixo em tempo e em transporte, seja o aluguer de um dia ou de um mês. Esse custo não muda com o número de dias, mas o aluguer sim: quanto mais dias, menos pesa a viagem. O componente seguinte compara, modelo a modelo, o preço ao dia com a tarifa semanal.",
+        {
+          "component": "duration-compare"
+        },
+        "Se só precisa da mota para um dia, veja como funciona o [aluguer de mota por um dia](/precos/aluguer-de-mota-por-um-dia/). Para uma estadia mais longa, o [aluguer semanal](/precos/aluguer-semanal-de-mota/) mostra quando compensa. E se o essencial da estadia é o centro, lembre que o Bairro Antigo se percorre bem a pé e que a mota ganha sentido nas saídas para lá dele."
+      ]
+    },
+    {
+      "h2": "O que confirmar com a loja antes de sair do centro",
+      "body": [
+        {
+          "checklist": [
+            "Há uma mota do tipo que pretende para a hora a que vai chegar?",
+            "A entrega no alojamento é possível? Se sim, a que horas e com que custo, por escrito?",
+            "A ponte Long Biên está aberta nesse dia?",
+            "A que hora devo devolver a mota, e posso avisar por mensagem se me atrasar?"
+          ]
+        },
+        "Escreva para a loja pelo {{phone}} (telefone ou Zalo) com datas e horas em algarismos. A lista completa do que levar e perguntar está em [aluguer de motas em Long Biên](/zonas-de-hanoi/aluguer-de-motas-em-long-bien/) e nas [perguntas a fazer antes de alugar](/guia-de-aluguer/perguntas-antes-de-alugar/). Se a dúvida for sobre o alojamento ou sobre outra zona, os guias por bairro estão reunidos em [Zonas de Hanói](/zonas-de-hanoi/), e os [contactos](/contactos/) têm o resto."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "A loja entrega a mota no Bairro Antigo?",
+      "a": "Não está definido à partida. A loja confirma, caso a caso, se a entrega é possível na sua morada, a que horas e com que custo, e só conta o que ficar escrito. Enquanto não tiver essa resposta, planeie o levantamento na loja."
+    },
+    {
+      "q": "Posso ir à loja de mota com condutor?",
+      "a": "Pode ser uma opção para quem viaja leve. As motas podem usar a ponte Long Biên quando está aberta e, se estiver fechada, o condutor desvia-se pela ponte Chương Dương. Mostre a morada em vietnamita e peça uma estimativa do preço antes de confirmar."
+    },
+    {
+      "q": "Quanto custa o táxi do Bairro Antigo até à loja?",
+      "a": "Não indicamos um valor, porque não o verificámos. Peça uma estimativa na aplicação de transporte antes de confirmar a viagem ou pergunte ao alojamento quanto custa, em geral, chegar à morada da loja."
+    },
+    {
+      "q": "Posso levantar a mota ao fim da tarde?",
+      "a": "Dentro do horário da loja ({{hours}}), sim, mas não é o ideal: em dezembro o sol põe-se por volta das 17:17 e a cidade usa o período das 16:00 às 19:30 como janela de ponta no centro. Se não puder evitar, faça só uma volta curta perto da loja e atravesse o rio noutro momento."
+    },
+    {
+      "q": "Se a ponte Long Biên estiver fechada, consigo chegar ao centro de mota?",
+      "a": "Sim. A ponte Chương Dương admite motas, e foi o desvio usado durante as obras. Pergunte no balcão pelo caminho a partir da loja e confirme o estado da ponte antes de sair."
+    }
+  ],
+  "sources": [
+    "tabela-precos-proprietario",
+    {
+      "title": "Hà Nội chính thức đóng cầu Long Biên, hạn chế qua cầu Đuống",
+      "publisher": "Tạp chí Công Thương",
+      "url": "https://tapchicongthuong.vn/ha-noi-chinh-thuc-dong-cau-long-bien--han-che-qua-cau-duong-126417.htm",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Hà Nội cấm toàn bộ việc đi lại trên cầu Long Biên",
+      "publisher": "VietnamFinance",
+      "url": "https://vietnamfinance.vn/ha-noi-toan-bo-viec-di-lai-tren-cau-long-bien-d115922.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Cấm cầu Long Biên",
+      "publisher": "VnExpress",
+      "url": "https://vnexpress.net/cam-cau-long-bien-4791283.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Khôi phục phương án tổ chức giao thông trên cầu Long Biên từ ngày 28/5",
+      "publisher": "Báo Nhân Dân",
+      "url": "https://nhandan.vn/khoi-phuc-phuong-an-to-chuc-giao-thong-tren-cau-long-bien-tu-285-post964788.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Hà Nội cấm xe đi qua cầu Long Biên trong 2 tháng để sửa chữa",
+      "publisher": "Tuổi Trẻ",
+      "url": "https://tuoitre.vn/ha-noi-cam-xe-di-qua-cau-long-bien-trong-2-thang-de-sua-chua-20260326083632435.htm",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Ha Noi begins restricting fossil-fuel vehicles in low-emission zones",
+      "publisher": "Portal do Governo do Vietname (chinhphu.vn) — Hanoi Capital",
+      "url": "https://hanoicapital.chinhphu.vn/ha-noi-begins-restricting-fossil-fuel-vehicles-in-low-emission-zones-110260702082825273.htm",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "title": "Hà Nội today launches low-emission zone within Ring Road 1",
+      "publisher": "Việt Nam News",
+      "url": "https://vietnamnews.vn/society/1784486/ha-noi-today-launches-low-emission-zone-within-ring-road-1.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "en"
+    },
+    {
+      "title": "Hanoi sunrise, sunset and daylight times",
+      "publisher": "Alpenglow",
+      "url": "https://www.alpenglowapp.com/times/hanoi",
+      "accessed": "2026-10-13",
+      "type": "reference",
+      "lang": "en"
+    },
+    {
+      "title": "Hanoi First Light, Sunrise & Sunset Times",
+      "publisher": "sunrisesunsettime.org",
+      "url": "https://www.sunrisesunsettime.org/asia/vietnam/hanoi.htm",
+      "accessed": "2026-10-13",
+      "type": "reference",
+      "lang": "en"
+    }
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "PUBLISHED",
+  "date_published": "2026-10-13",
+  "date_modified": "2026-10-13",
+  "editorial": {
+    "qa_score": 100,
+    "qa_warnings": [],
+    "words": 2051,
+    "publish_mode": "review",
+    "approved_at": "2026-10-13",
+    "revisions": []
+  }
+}

@@ -1,0 +1,334 @@
+{
+  "contract_version": 1,
+  "id": "PT-0300",
+  "slug": "mai-chau-de-mota",
+  "title": "Mai Châu de mota a partir de Hanói: a QL6 e o passo de Thung Khe",
+  "description": "Mai Châu de mota a partir de Hanói: a estrada nacional 6, o passo de Thung Khe, a proibição das autoestradas, a época certa e o que pedir à loja antes.",
+  "h1": "De Hanói a Mai Châu de mota: o que se sabe da estrada e quando faz sentido ir",
+  "summary": "Ir de Hanói a Mai Châu de mota faz-se pela estrada nacional 6 (QL6) e nunca por autoestrada, vedada às motas. O troço exigente é o passo de Thung Khe, a cerca de 120 km de Hanói, onde a Direção de Estradas aponta nevoeiro e chuva forte frequentes. A ida passa dessa distância, por isso o mais prudente é dormir em Mai Châu, e só parta com a autorização da loja.",
+  "key_points": [
+    "A QL6 é a estrada de Hanói para Mai Châu. As autoestradas estão vedadas às motas, com coima de 4 a 6 milhões de VND e perda de 6 pontos na carta (valores nacionais).",
+    "O passo de Thung Khe fica a cerca de 120 km de Hanói, a perto de 1.000 m de altitude. A Direção de Estradas descreve a QL6 com nevoeiro e chuva forte frequentes.",
+    "As fontes consultadas não dão a distância total até Mai Châu nem o tempo de viagem, e este guia não inventa nenhum.",
+    "Uma noite em Mai Châu permite cruzar o passo a meio do dia nos dois sentidos, longe das horas de nevoeiro denso.",
+    "A loja decide caso a caso: peça por escrito a autorização e o plano para uma avaria."
+  ],
+  "intro": [
+    "Mai Châu é uma zona de arrozais no Norte do Vietname, a uma distância de Hanói que cabe numa saída de mota com pernoita. A estrada que lá chega passa pelo passo de Thung Khe, um troço de montanha com nevoeiro e curvas que as autoridades e a imprensa vietnamitas descrevem com avisos.",
+    "Este guia junta o que as fontes consultadas dizem sobre o percurso e separa o que não foi possível confirmar, como a distância total e o tempo de viagem. As regras sensíveis ao tempo foram verificadas a 13 de outubro de 2026.",
+    "Não é uma autorização: quem decide se a mota alugada pode ir é a loja, e o [pedido de autorização](/guia-de-aluguer/autorizacao-para-sair-de-hanoi/) tem um guia próprio. Para outras dicas de deslocação, veja [Rotas e mobilidade](/rotas-e-mobilidade/)."
+  ],
+  "sections": [
+    {
+      "h2": "Onde fica Mai Châu e o que as fontes dizem sobre a distância",
+      "body": [
+        "Mai Châu pertencia à província de Hòa Bình. Com a reorganização administrativa de 2025, que reduziu o país a 34 unidades de nível provincial, Hòa Bình passou a integrar a nova província de Phú Thọ, juntamente com Vĩnh Phúc. Guias e mapas anteriores continuam a falar de Hòa Bình: é o mesmo território.",
+        "A distância é o ponto em que as fontes dizem menos. A imprensa vietnamita situa o passo de Thung Khe, na QL6, a cerca de 120 km a noroeste de Hanói, e Mai Châu fica do outro lado desse passo. A ida é, portanto, mais longa do que esses 120 km.",
+        {
+          "table": {
+            "caption": "O que se sabe sobre o percurso entre Hanói e Mai Châu (fontes consultadas a 13 de outubro de 2026)",
+            "head": [
+              "Dado",
+              "O que as fontes dizem",
+              "Origem"
+            ],
+            "rows": [
+              [
+                "Passo de Thung Khe",
+                "Na QL6, entre Tân Lạc e Mai Châu, a cerca de 120 km a noroeste de Hanói; ponto mais alto a perto de 1.000 m de altitude",
+                "Imprensa vietnamita"
+              ],
+              [
+                "Estrada nacional 6",
+                "14 troços de passos e curvas perigosas, com mais de 110 km no total; nevoeiro e chuva forte frequentes",
+                "Direção de Estradas, via Ministério da Construção"
+              ],
+              [
+                "Distância total até Mai Châu",
+                "Não confirmada; passa dos 120 km do passo",
+                "Não consta das fontes"
+              ],
+              [
+                "Tempo de viagem",
+                "Não confirmado",
+                "Não consta das fontes"
+              ],
+              [
+                "Autocarros de Hanói para Mai Châu",
+                "Horários, preços e empresas não confirmados",
+                "Não consta das fontes"
+              ]
+            ]
+          }
+        },
+        "Para o valor exato, use uma aplicação de navegação com a opção de evitar autoestradas ativa e some folga para as paragens: num percurso de montanha, convém contar com mais tempo do que o calculado."
+      ]
+    },
+    {
+      "h2": "A estrada nacional 6: o que a Direção de Estradas aponta",
+      "body": [
+        "A estrada nacional 6 (QL6, Quốc lộ 6) é a que as fontes associam a Mai Châu. Numa inspeção noticiada pelo Ministério da Construção (Bộ Xây dựng), a Direção de Estradas do Vietname (Cục Đường bộ Việt Nam) descreve-a como uma estrada com nevoeiro e chuva forte frequentes e risco elevado para a segurança.",
+        "A mesma notícia conta 14 troços de passos e curvas perigosas, com mais de 110 km no total, entre eles o de Thung Khe, e aponta risco de queda de pedras e de deslizamentos nos taludes altos na época das chuvas. Refere a estrada no seu conjunto e não diz quantos desses troços ficam antes de Mai Châu.",
+        "Na zona de Thung Khe, ao km 128+750, uma pedra caiu sobre um automóvel, com chuva e nevoeiro, sem vítimas; a notícia não traz a data. Para quem vai de mota, a leitura é simples: a QL6 não é uma estrada para improvisar. Parta com a previsão vista e adie a viagem se houver chuva forte prevista."
+      ]
+    },
+    {
+      "h2": "Autoestradas: por onde uma mota não pode ir",
+      "body": [
+        "As motas («xe mô tô, xe gắn máy») não podem entrar nas autoestradas (đường cao tốc). A coima nacional é de 4 a 6 milhões de VND, com perda de 6 pontos na carta, segundo uma base de dados jurídica vietnamita que cita o Decreto 168/2024/NĐ-CP. A imprensa noticiou, em fevereiro de 2026, coimas a motociclistas estrangeiros na autoestrada Tuyên Quang–Phú Thọ. Confirme se há valores locais mais altos.",
+        "Nenhuma autorização da loja muda esta regra, e uma mota alugada não tem estatuto especial. O percurso para Mai Châu faz-se pela QL6, que é uma estrada nacional. As fontes consultadas não indicam se há troços de autoestrada paralelos entre Hanói e Mai Châu, por isso confirme-o no mapa:",
+        {
+          "ul": [
+            "ative a opção de evitar autoestradas na aplicação de navegação antes de sair, e não a meio do caminho;",
+            "recuse qualquer via que a aplicação identifique como «cao tốc»;",
+            "descarregue o mapa da região para o usar sem rede, porque na montanha a cobertura pode falhar."
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "O passo de Thung Khe: o troço que decide o dia",
+      "body": [
+        "Thung Khe, também chamado passo de Đá Trắng, fica na QL6, entre Tân Lạc e Mai Châu. Segundo a imprensa vietnamita, o ponto mais alto ronda os 1.000 m de altitude. As fontes repetem três avisos:",
+        {
+          "ul": [
+            "**Nevoeiro de manhã.** A imprensa descreve muito nevoeiro de manhã, com pouca visibilidade e risco de desorientação, e aconselha a reduzir a velocidade. Um artigo relata menos de 3 m de visibilidade, e guias de viagem para as montanhas do Noroeste falam de nevoeiro denso ao início da manhã e ao fim do dia.",
+            "**Curvas apertadas.** Um guia datado de 12 de março de 2025 avisa que as curvas e o nevoeiro denso podem causar dificuldades, e que quem não tem uma condução segura deve pensar bem antes de ir de mota.",
+            "**Escuridão.** De noite, na estação fria, a única luz no passo é a dos faróis da própria mota ou a dos camiões e autocarros que vêm em sentido contrário."
+          ]
+        },
+        "O título de uma reportagem do Tuổi Trẻ apresenta o passo como um ponto de paragem («điểm dừng chân») para quem viaja. Se o nevoeiro cair, pare num sítio seguro, fora da faixa, e espere que levante em vez de forçar a passagem.",
+        "A altitude traz mais frescura do que em Hanói: leve uma camada quente e uma capa de chuva. O guia sobre [acessórios para a mota alugada](/precos/capa-de-chuva-e-acessorios/) diz o que pedir à loja e o que trazer de casa."
+      ]
+    },
+    {
+      "h2": "Um dia ou uma noite fora: como fazer as contas",
+      "body": [
+        "Sem um tempo de viagem confirmado, as contas fazem-se com o que se sabe. Só o passo está a cerca de 120 km de Hanói, e Mai Châu fica mais adiante: uma ida e volta no mesmo dia passa dos 240 km, com o passo cruzado duas vezes. A loja abre às {{opens}} e fecha às {{closes}}, o que limita a hora de partida e a de regresso.",
+        {
+          "table": {
+            "caption": "Mai Châu de mota: três formas de organizar a viagem",
+            "head": [
+              "Opção",
+              "O que implica",
+              "Quando faz sentido"
+            ],
+            "rows": [
+              [
+                "Ida e volta no mesmo dia",
+                "Mais de 240 km. Saindo à abertura da loja, o regresso tende a coincidir com o fim da tarde, quando os guias voltam a descrever nevoeiro.",
+                "Só com muita prática em montanha e uma folga grande até ao fecho, às {{closes}}."
+              ],
+              [
+                "Uma noite em Mai Châu",
+                "Cruza o passo a meio do dia na ida e na volta. Exige alojamento com lugar para a mota e um aluguer mais longo do que um dia.",
+                "É a opção mais prudente."
+              ],
+              [
+                "Duas noites ou mais",
+                "Dá margem para esperar por melhor tempo antes de voltar ao passo, ao custo de mais dias de aluguer.",
+                "Se a previsão for incerta ou quiser conhecer a zona sem pressa."
+              ]
+            ]
+          }
+        },
+        "Esta é uma leitura dos factos disponíveis, e não um horário: se a aplicação de navegação indicar outra coisa, o seu cálculo deve prevalecer. Uma noite fora custa mais do que um dia de aluguer; veja como a tarifa muda com a [duração do aluguer](/precos/aluguer-por-duracao/) e peça à loja o total para as suas datas."
+      ]
+    },
+    {
+      "h2": "Quando ir: o que diz o portal oficial de turismo",
+      "body": [
+        "Para Mai Châu, o portal oficial de turismo do Vietname recomenda março a maio e setembro a novembro, com outubro especialmente bom por causa do arroz dourado na colheita. De junho a agosto, avisa que as cheias da monção podem afetar as estradas locais.",
+        "Estas indicações dizem respeito ao destino. Para a estrada, o aviso da Direção de Estradas é outro: nevoeiro e chuva forte frequentes na QL6. Uma boa época para visitar Mai Châu não faz do dia da viagem um bom dia para cruzar o passo.",
+        "À data de 13 de outubro de 2026, estamos dentro da janela recomendada, mas a recomendação é geral e não substitui a previsão local. Veja-a na véspera e na manhã da partida; o guia sobre [quando é melhor não conduzir](/rotas-e-mobilidade/quando-nao-conduzir/) explica porque a chuva forte, que reduz a visibilidade e a aderência, pede um plano B."
+      ]
+    },
+    {
+      "h2": "O que pedir à loja para esta viagem",
+      "body": [
+        "Este site não publica uma lista de destinos aceites, e Mai Châu não consta de nenhuma: como explicam os [termos e condições](/termos-e-condicoes/), as condições de cada aluguer são acordadas com a loja, que responde para a sua mota e as suas datas. Para um percurso com passos de montanha, a mensagem deve ser concreta:",
+        {
+          "checklist": [
+            "**Destino e percurso**: diga que vai a Mai Châu pela QL6, com passagem por Thung Khe, em que dia sai e quantas noites fica.",
+            "**Modelo**: pergunte se a mota serve para subidas e descidas longas ou se a loja recomenda outra; o guia sobre [trocar de mota](/guia-de-aluguer/trocar-de-mota/) mostra como pedir a troca.",
+            "**Estado da mota**: confirme travões, pneus, luzes e viseira no levantamento, porque numa descida longa o travão faz muito trabalho. O guia sobre [receber a mota](/guia-de-aluguer/receber-a-mota/) diz o que ver.",
+            "**Avaria**: combine por escrito a quem ligar, o que pode mandar reparar e como regressa a mota. Veja o plano completo no guia da [avaria longe de Hanói](/guia-de-aluguer/avaria-longe-de-hanoi/).",
+            "**Regresso**: o dia e a hora de devolução, tendo em conta a hora a que vai cruzar o passo e o fecho da loja.",
+            "**Preço**: o total para as suas datas e se algo muda por a mota dormir fora de Hanói."
+          ]
+        },
+        "Junte tudo numa só mensagem, por telefone ou Zalo, para o {{phone}}, e guarde a resposta por escrito. Pergunte também ao alojamento de Mai Châu se tem lugar para a mota durante a noite. Os documentos são os de qualquer saída da cidade, explicados no guia dos [documentos da mota alugada](/guia-de-aluguer/documentos-da-mota-alugada/)."
+      ]
+    },
+    {
+      "h2": "Se a loja disser que não ou se não se sentir seguro",
+      "body": [
+        "A loja pode recusar a viagem para aquele modelo, e há quem, depois de ler os avisos sobre a QL6, prefira não ir de mota. Nenhuma das situações é um problema: o que não convém é arrancar com dúvidas.",
+        {
+          "ul": [
+            "**Autocarro.** As fontes consultadas não trazem horários, preços nem empresas de autocarro entre Hanói e Mai Châu, por isso não indicamos nenhum. Pergunte no alojamento ou numa agência e confirme onde e a que horas sai.",
+            "**A mota fica em Hanói.** Se vai sem ela, compare manter o aluguer com devolvê-lo e voltar a alugar, como explica o guia sobre [uma viagem a meio da estadia](/precos/sair-de-hanoi-a-meio-do-aluguer/).",
+            "**Sem prática de mota.** Se nunca conduziu uma mota, a QL6 não é o sítio para começar; veja o guia para quem [nunca conduziu uma mota](/tipos-de-motas/nunca-conduziu-uma-mota/)."
+          ]
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Posso ir de mota alugada em Hanói até Mai Châu?",
+      "a": "Só se a loja aceitar a viagem: este site não publica uma lista de destinos autorizados. Diga o destino, o percurso, as datas e as noites fora e guarde a resposta por escrito. A autorização não muda as regras de trânsito."
+    },
+    {
+      "q": "Posso usar a autoestrada para chegar mais depressa?",
+      "a": "Não. As motas estão proibidas nas autoestradas do Vietname, com coima nacional de 4 a 6 milhões de VND e perda de 6 pontos na carta. Siga pela estrada nacional 6 e ative a opção de evitar autoestradas na navegação antes de sair."
+    },
+    {
+      "q": "Quantos quilómetros são de Hanói a Mai Châu?",
+      "a": "As fontes consultadas não dão a distância total. Dizem que o passo de Thung Khe fica a cerca de 120 km de Hanói e que Mai Châu está do outro lado, por isso a ida passa dessa distância. Calcule o valor exato numa aplicação de navegação."
+    },
+    {
+      "q": "Há autocarro de Hanói para Mai Châu?",
+      "a": "As fontes consultadas não trazem horários, preços nem empresas de autocarro para Mai Châu. Pergunte no alojamento ou numa agência, confirme a hora de partida e combine o regresso antes de decidir."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Cục Đường bộ Việt Nam kiểm tra công tác bảo vệ kết cấu hạ tầng giao thông trên Quốc lộ 6",
+      "publisher": "Bộ Xây dựng (moc.gov.vn)",
+      "url": "https://moc.gov.vn/vn/tin-tuc/1232/93987/cuc-duong-bo-viet-nam-kiem-tra-cong-tac-bao-ve-ket-cau-ha-tang-giao-thong-tren-quoc-lo-6.aspx",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "vi"
+    },
+    {
+      "title": "Tảng đá rơi từ vách núi trúng ô tô trên quốc lộ 6",
+      "publisher": "Pháp Luật TP.HCM (PLO)",
+      "url": "https://plo.vn/tang-da-roi-tu-vach-nui-trung-o-to-tren-quoc-lo-6-post745378.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Thanh cảnh điểm dừng chân Thung Khe",
+      "publisher": "Tuổi Trẻ",
+      "url": "https://tuoitre.vn/du-lich/diem-dung-chan-thung-khe-745581.htm",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Thung Khe – nghe đã muốn…",
+      "publisher": "Tạp chí Công Thương",
+      "url": "https://tapchicongthuong.vn/thung-khe---nghe-da-muon-52515.htm",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Reportagem sobre lugares do Vietname envoltos em nuvens e nevoeiro (em vietnamita)",
+      "publisher": "VietNamNet",
+      "url": "https://vietnamnet.vn/nhung-chon-bong-lai-dep-nhu-mo-o-vn-87060.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Guia sobre o passo de Đá Trắng (Thung Khe), estrada de montanha do Noroeste (em vietnamita)",
+      "publisher": "MIA.vn",
+      "url": "https://mia.vn/cam-nang-du-lich/hung-vi-deo-da-trang-cung-duong-ngoan-muc-giua-tay-bac-11886",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Artigo sobre o passo de Thung Khe, em Hòa Bình (em vietnamita)",
+      "publisher": "greensm.com",
+      "url": "https://www.greensm.com/vn-vi/news/deo-thung-khe-hoa-binh",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Cung đường \"phượt\" Mộc Châu lưu luyến chẳng nỡ về",
+      "publisher": "Báo Pháp Luật Việt Nam",
+      "url": "https://baophapluat.vn/cung-duong-phuot-moc-chau-luu-luyen-chang-no-ve-post192064.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Kinh nghiệm đi chơi chợ tình Mộc Châu",
+      "publisher": "Báo Pháp Luật Việt Nam",
+      "url": "https://baophapluat.vn/kinh-nghiem-di-choi-cho-tinh-moc-chau-post183699.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Guia para quem vai de carro a Mộc Châu pela primeira vez (em vietnamita)",
+      "publisher": "MIA.vn",
+      "url": "https://mia.vn/cam-nang-du-lich/huong-dan-di-chuyen-bang-xe-o-to-cho-nguoi-di-moc-chau-lan-dau-3908",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Danh sách 34 tỉnh thành của Việt Nam năm 2025 gồm những tỉnh nào?",
+      "publisher": "Thư Viện Pháp Luật",
+      "url": "https://thuvienphapluat.vn/hoi-dap-phap-luat/danh-sach-34-tinh-thanh-cua-viet-nam-nam-2025-gom-nhung-tinh-nao-138053361.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "Từ ngày 12/6/2025 cả nước chính thức có 34 đơn vị hành chính cấp tỉnh, gồm 28 tỉnh và 6 thành phố",
+      "publisher": "Tạp chí Tòa án nhân dân",
+      "url": "https://tapchitoaan.vn/tu-ngay-1262025-ca-nuoc-chinh-thuc-co-34-don-vi-hanh-chinh-cap-tinh-gom-28-tinh-va-6-thanh-pho13538.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Mức xử phạt năm 2026 đối với hành vi đi xe máy trên cao tốc?",
+      "publisher": "Thư Viện Pháp Luật",
+      "url": "https://thuvienphapluat.vn/ma-so-thue/phap-luat-thue/muc-xu-phat-nam-2026-doi-voi-hanh-vi-di-xe-may-tren-cao-toc-936922-220346.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    "dtinews-autoestrada-2026",
+    {
+      "title": "Mai Chau",
+      "publisher": "Portal oficial de turismo do Vietname (vietnam.travel)",
+      "url": "https://vietnam.travel/index.php/places-to-go/northern-vietnam/mai-chau",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "title": "7 essential things to do in Mai Chau",
+      "publisher": "Portal oficial de turismo do Vietname (vietnam.travel)",
+      "url": "https://vietnam.travel/things-to-do/7-essential-things-do-mai-chau",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    }
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "PUBLISHED",
+  "date_published": "2026-10-13",
+  "date_modified": "2026-10-13",
+  "editorial": {
+    "qa_score": 100,
+    "qa_warnings": [],
+    "words": 2133,
+    "publish_mode": "review",
+    "approved_at": "2026-10-13",
+    "revisions": []
+  }
+}

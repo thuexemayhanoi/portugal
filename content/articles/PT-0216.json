@@ -73,7 +73,7 @@
             ]
           }
         },
-        "Verá motas a circular em contramão, sobretudo em trajetos de poucos metros. Não as imite. Segundo o Decreto 168/2024/NĐ-CP, em vigor desde 1 de janeiro de 2025, quem conduz uma mota em contramão arrisca uma coima de 4 a 6 milhões de VND — o mesmo valor aplicável a quem circula no passeio ou não respeita o semáforo vermelho.",
+        "Verá motas a circular em contramão, sobretudo em trajetos de poucos metros. Não as imite. Segundo o Decreto 168/2024/NĐ-CP, em vigor desde 1 de janeiro de 2025, quem conduz uma mota em contramão arrisca uma coima de 4 a 6 milhões de VND — o mesmo valor aplicável a quem circula no passeio ou não respeita o semáforo vermelho. Atenção: são valores nacionais e, desde 1 de julho de 2026, Hanói agrava (×1,5 ou ×2) as coimas de 28 infrações de ordem pública e de trânsito cometidas na cidade. Confirme o montante em vigor.",
         {
           "h3": "Se falhar a rua certa"
         },
@@ -276,7 +276,8 @@
     "lawnet-proibicoes-2024",
     "tuoitre-alcool-zero",
     "lawnet-passageiros-2025",
-    "tabela-precos-proprietario"
+    "tabela-precos-proprietario",
+    "hanoi-resolucao-56-2026"
   ],
   "legal_note": true,
   "writer": {
@@ -289,13 +290,17 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 2397,
+    "words": 2432,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
     "revisions": [
       {
         "date": "2026-10-13",
         "reason": "Ligação à página da categoria Zonas de Hanói (criada com este artigo) e ao itinerário de um dia."
+      },
+      {
+        "date": "2026-10-13",
+        "reason": "Coimas em Hanói: aviso sobre a Resolução 56/2026/NQ-HĐND"
       }
     ]
   }

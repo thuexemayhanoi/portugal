@@ -238,9 +238,9 @@
         "id": "eletrica",
         "name": "Mota elétrica",
         "category": "motas-eletricas",
-        "day": 200000,
-        "week": 1000000,
-        "month": 1500000
+        "day": null,
+        "week": null,
+        "month": null
       },
       {
         "id": "bicicleta",

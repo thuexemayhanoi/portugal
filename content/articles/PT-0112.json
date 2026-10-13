@@ -1,0 +1,230 @@
+{
+  "contract_version": 1,
+  "id": "PT-0112",
+  "slug": "entrega-no-aeroporto-noi-bai",
+  "title": "Receber a mota no aeroporto de Nội Bài: faz sentido?",
+  "description": "Pedir a mota alugada à chegada a Nội Bài: o que implica, como se compara com o táxi ou o autocarro e o que perguntar à loja antes de contar com isso.",
+  "h1": "Mota entregue no aeroporto de Nội Bài: o que implica e o que perguntar à loja",
+  "summary": "Na maior parte dos casos, receber a mota no aeroporto de Nội Bài não compensa: obriga a conduzir dezenas de quilómetros logo depois do voo, com bagagem, num eixo com restrições a motas. O site não publica entregas no aeroporto; se quiser uma, pergunte à loja se é possível e com que custo. Chegar de táxi ou de autocarro e receber a mota no dia seguinte é mais simples.",
+  "key_points": [
+    "O site não publica entregas no aeroporto: só a loja pode dizer se são possíveis, em que condições e com que custo.",
+    "Receber a mota em Nội Bài implica conduzir logo depois do voo, com bagagem, por vias rápidas com restrições a motas.",
+    "Para comparar, um táxi do aeroporto ao centro ronda os 250 mil VND e o autocarro custa entre 9 mil e 45 mil VND, segundo guias de viagem e uma companhia aérea vietnamita.",
+    "Chegar sem mota e recebê-la no dia seguinte, na loja em Long Biên ou no alojamento, evita quase todos os inconvenientes.",
+    "Se quiser mesmo perguntar, envie o número do voo, o terminal e a hora prevista, e peça a resposta por escrito."
+  ],
+  "intro": [
+    "Sair do avião e encontrar a mota à espera parece a forma mais rápida de começar a viagem. Mas o aeroporto de Nội Bài fica longe do centro de Hanói e da loja, em {{area}}, e entre a porta do terminal e a cidade há dezenas de quilómetros, boa parte em via rápida.",
+    "Este guia não descreve um serviço, porque o site não publica entregas no aeroporto. Ajuda, isso sim, a decidir se vale a pena pedi-lo: o que implica para quem entrega e para quem recebe, como se compara em custo com o táxi e o autocarro e que perguntas fazer à loja se, mesmo assim, quiser saber se é possível."
+  ],
+  "sections": [
+    {
+      "h2": "O que o site diz, e não diz, sobre entregas no aeroporto",
+      "body": [
+        "A [tabela de preços](/precos/) mostra quanto custa o aluguer de cada modelo por dia, por semana e por mês. A entrega e a recolha ficam fora desses valores e combinam-se caso a caso, como resume a página de [entrega e custos adicionais](/precos/entrega-e-custos-adicionais/). Para o aeroporto, o site não publica preço nem horário, e nem sequer indica se a entrega é possível.",
+        "Na prática, não pode partir do princípio de que a mota estará à sua espera em Nội Bài. Se o seu plano depender disso, a resposta tem de vir da loja, por escrito, antes de embarcar. Até lá, o plano seguro é o que dispensa a mota no dia da chegada."
+      ]
+    },
+    {
+      "h2": "O que implica receber a mota no aeroporto",
+      "body": [
+        "Mesmo que a loja aceite, uma entrega em Nội Bài junta dificuldades que uma entrega no hotel não tem. Vale a pena olhá-las uma a uma.",
+        {
+          "h3": "A estrada até à cidade"
+        },
+        "O percurso do autocarro 86, entre o aeroporto e a Estação de Hanói, tem 33 km. O caminho mais direto segue pela avenida Võ Nguyên Giáp, onde há sinais que restringem as motas desde a inauguração. As fontes consultadas em outubro de 2026 divergem sobre o alcance da restrição, que pode abranger toda a via ou só as faixas dos automóveis, e nenhuma confirma um percurso alternativo para motas. Já as autoestradas estão vedadas às motas em todo o país.",
+        {
+          "h3": "O cansaço e as malas"
+        },
+        "Ao fim de um voo longo, os reflexos estão no mínimo, e a primeira volta faz-se numa mota que não conhece, num trânsito que também não conhece. As malas complicam o resto: uma mala de porão não viaja em segurança numa scooter, e com alguém atrás — a regra geral é de um passageiro por mota — não sobra lugar para ela.",
+        {
+          "h3": "A entrega à saída de um terminal"
+        },
+        "Receber uma mota não é só pegar na chave. Confere-se a mota e os documentos do veículo, fotografa-se o estado, testam-se travões e luzes e trata-se do pagamento. O guia sobre [receber a mota](/guia-de-aluguer/receber-a-mota/) conta com 30 a 45 minutos para tudo isto, e à porta de um terminal, com pressa, malas e luz artificial, faz-se pior do que na loja ou à porta do alojamento.",
+        {
+          "h3": "Os atrasos do voo"
+        },
+        "Uma entrega no aeroporto fica presa à hora do avião. Se o voo atrasar, alguém fica à espera, e a entrega pode deixar de ser possível nesse dia. Pergunte antes o que acontece nesse caso; o guia sobre [voo atrasado e reserva da mota](/precos/alterar-ou-cancelar-a-reserva/) explica como avisar a loja a tempo."
+      ]
+    },
+    {
+      "h2": "Quanto pesa no orçamento, comparado com o táxi e o autocarro",
+      "body": [
+        "Sem preço publicado para a entrega no aeroporto, a comparação só fica completa com a resposta da loja. O que já se pode fazer é pôr ao lado os valores de referência das alternativas, consultados em outubro de 2026:",
+        {
+          "table": {
+            "caption": "Três formas de começar a viagem: custos e o que pesa em cada uma",
+            "head": [
+              "Combinação",
+              "Custo a considerar",
+              "O que pesa"
+            ],
+            "rows": [
+              [
+                "Mota entregue no aeroporto",
+                "Custo da entrega, a confirmar com a loja; pergunte também se o dia da chegada conta como dia de aluguer",
+                "Conduzir logo depois do voo, com bagagem, num eixo com restrições a motas"
+              ],
+              [
+                "Táxi até ao alojamento e mota no dia seguinte",
+                "Cerca de 250 mil VND de táxi até ao centro, valor de referência de uma companhia aérea vietnamita, e a eventual entrega no alojamento",
+                "Porta a porta, sem conduzir cansado"
+              ],
+              [
+                "Autocarro até à cidade e mota no dia seguinte",
+                "Entre 9 mil e 45 mil VND, conforme a linha e a fonte",
+                "O mais barato, mas com horários limitados à noite e as malas a bordo"
+              ]
+            ]
+          }
+        },
+        "Num aluguer curto, um dia a mais faz diferença: na tabela de referência, um dia de mota custa entre {{price.min.day}} e {{price.max.day}}, conforme o modelo. Pergunte sempre se o dia da chegada conta, mesmo que só use a mota para chegar ao alojamento. O guia das [horas de levantamento e devolução](/precos/horas-de-levantamento-e-devolucao/) explica as duas formas habituais de contar os dias, e o dos [custos além do preço](/precos/custos-alem-do-preco/) lista os outros extras a confirmar.",
+        "Feitas as contas, a entrega no aeroporto só se aproximaria das alternativas se o valor confirmado pela loja ficasse perto do de um táxi. E, mesmo nesse caso, ficaria por resolver o essencial: conduzir dezenas de quilómetros logo depois de aterrar."
+      ]
+    },
+    {
+      "h2": "A alternativa mais simples: chegar sem mota e recebê-la depois",
+      "body": [
+        "Para quem chega de avião, a sequência mais tranquila tem três passos:",
+        {
+          "steps": [
+            {
+              "title": "Do aeroporto ao alojamento",
+              "text": "De autocarro, táxi ou aplicação de transporte. Há cinco linhas de autocarro entre o aeroporto e a cidade (07, 17, 86, 90 e 109); com malas ou à noite, o táxi é mais prático."
+            },
+            {
+              "title": "Descansar primeiro",
+              "text": "Deixe a primeira volta de mota para depois de dormir, com luz do dia e fora das horas de ponta."
+            },
+            {
+              "title": "Receber a mota na cidade",
+              "text": "Na loja, em {{area}}, ou à porta do alojamento, se a loja confirmar a entrega para a sua morada. O guia da [entrega da mota no hotel](/precos/entrega-da-mota-no-hotel/) indica que dados enviar, e o do [aluguer de motas em Long Biên](/zonas-de-hanoi/aluguer-de-motas-em-long-bien/) como preparar a ida à loja."
+            }
+          ]
+        },
+        "Assim, as malas ficam no alojamento e a mota começa a trabalhar sem peso extra. Se a primeira saída não correr como esperava, está perto do sítio onde dorme, e não numa via rápida longe da cidade. O dia da chegada é, aliás, uma das situações em que o guia [quando é melhor não conduzir em Hanói](/rotas-e-mobilidade/quando-nao-conduzir/) aconselha a deixar a mota parada."
+      ]
+    },
+    {
+      "h2": "Se mesmo assim quiser perguntar: o que confirmar com a loja",
+      "body": [
+        "Pode ter razões para querer saber se a entrega é possível, por exemplo se tem muita experiência de mota, viaja só com bagagem de mão e aterra de manhã. Nesse caso, faça o pedido com antecedência e peça respostas concretas:",
+        {
+          "checklist": [
+            "A entrega em Nội Bài é possível nesta data? Em que terminal (T1 ou T2) e em que ponto exato?",
+            "Qual é o custo, e cobre também a viagem de regresso de quem traz a mota?",
+            "Se o voo atrasar, até quando esperam, e muda alguma coisa no preço?",
+            "Que percurso autorizado a motas aconselham entre o aeroporto e o meu alojamento?",
+            "O pagamento, a eventual caução e a verificação da mota tratam-se ali mesmo? Com que comprovativo?",
+            "O dia da chegada conta como dia de aluguer?",
+            "Quantos capacetes trazem, e de que tamanho?"
+          ]
+        },
+        "Junte ao pedido o número do voo e a hora prevista de chegada na hora de Hanói, e mantenha tudo na mesma conversa, por telefone ou Zalo, pelo {{phone}}. Se a resposta for negativa, ou o custo não compensar, o plano da secção anterior continua de pé.",
+        {
+          "note": "Uma entrega no aeroporto depende de conseguir falar com quem traz a mota logo à saída. Um cartão SIM vietnamita comprado à chegada tem de ser registado, com verificação facial obrigatória desde 15 de abril de 2026; ter roaming ou dados ativos antes de aterrar evita ficar incontactável nesses minutos.",
+          "tone": "info",
+          "title": "Telemóvel contactável à chegada"
+        }
+      ]
+    },
+    {
+      "h2": "E devolver a mota no aeroporto, no fim da viagem?",
+      "body": [
+        "A pergunta inversa também surge: deixar a mota em Nội Bài antes do voo de regresso. Pesam os mesmos fatores — o trajeto, as malas e a pressa de quem tem um avião para apanhar — e o site também não publica esse serviço. Se lhe interessar, pergunte à loja e veja o que combinar no guia sobre [devolver a mota noutro local](/guia-de-aluguer/devolver-noutro-local/).",
+        "Na maior parte dos casos, o plano mais seguro é devolver a mota na loja, dentro do horário, e seguir de táxi com a bagagem. Se o voo partir antes da abertura, às {{opens}}, devolva a mota na véspera."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "A loja entrega a mota no aeroporto de Nội Bài?",
+      "a": "O site não publica esse serviço, nem preço ou horário para o aeroporto. Só a loja pode dizer se é possível numa data concreta e em que condições. Pergunte pelo {{phone}}, com o número do voo e a hora prevista, e só conte com a entrega se a confirmação vier por escrito."
+    },
+    {
+      "q": "Receber a mota no aeroporto sai mais barato do que apanhar um táxi?",
+      "a": "Não é possível sabê-lo à partida, porque o custo de uma entrega no aeroporto não está publicado. O táxi para o centro tem um valor de referência de cerca de 250 mil VND, segundo uma companhia aérea vietnamita, e o autocarro custa bastante menos. Compare com o valor que a loja indicar e some o risco de conduzir cansado."
+    },
+    {
+      "q": "Com muita experiência de mota, já faz sentido?",
+      "a": "A experiência ajuda no trânsito, mas não muda as restrições a motas no eixo do aeroporto nem a falta de um percurso alternativo confirmado, e também não resolve a bagagem. Se, ainda assim, quiser avançar, peça à loja que indique o percurso autorizado que aconselha e decida com essa resposta por escrito."
+    }
+  ],
+  "sources": [
+    "tabela-precos-proprietario",
+    {
+      "title": "Khai trương tuyến xe buýt đến sân bay Nội Bài, giá vé 30.000 đồng",
+      "publisher": "Báo Đấu thầu",
+      "url": "https://baodauthau.vn/khai-truong-tuyen-xe-buyt-den-san-bay-noi-bai-gia-ve-30000-dong-post12927.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Hình ảnh không đẹp trên đường Võ Nguyên Giáp ngày thông xe",
+      "publisher": "VTC News",
+      "url": "https://vtcnews.vn/hinh-anh-khong-dep-tren-duong-vo-nguyen-giap-ngay-thong-xe-ar188421.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    "dtinews-autoestrada-2026",
+    "lawnet-passageiros-2025",
+    {
+      "title": "Vé Máy Bay Đi Hà Nội Chỉ Từ 847.181 VND*",
+      "publisher": "Vietnam Airlines",
+      "url": "https://www.vietnamairlines.com/vi-vn/v%C3%A9-m%C3%A1y-bay-%C4%91%E1%BA%BFn-h%C3%A0-n%E1%BB%99i",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "1.1 Tuyến 86: Nội Bài - Ga Hà Nội",
+      "publisher": "MIA.vn (cẩm nang du lịch)",
+      "url": "https://mia.vn/cam-nang-du-lich/danh-sach-xe-buyt-san-bay-noi-bai-18948",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "- 1. Tuyến xe bus 68 sân bay Nội Bài Hà Đông",
+      "publisher": "VinWonders",
+      "url": "https://vinwonders.com/vi/bai-viet-du-lich/tong-hop-day-du-xe-bus-san-bay-noi-bai/",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Đăng ký thuê bao di động phải xác thực khuôn mặt",
+      "publisher": "Portal de divulgação jurídica de Cần Thơ (pbgdpl.cantho.gov.vn)",
+      "url": "https://pbgdpl.cantho.gov.vn/dang-ky-thue-bao-di-dong-phai-xac-thuc-khuon-mat",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "vi"
+    },
+    {
+      "title": "Từ hôm nay, 15/4/2026, đăng ký thuê bao di động phải xác thực khuôn mặt",
+      "publisher": "LuatVietnam",
+      "url": "https://luatvietnam.vn/tin-van-ban-moi/moi-dang-ky-thue-bao-di-dong-phai-xac-thuc-khuon-mat-tu-15-4-2026-186-108072-article.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    }
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "PUBLISHED",
+  "date_published": "2026-10-13",
+  "date_modified": "2026-10-13",
+  "editorial": {
+    "qa_score": 100,
+    "qa_warnings": [],
+    "words": 1697,
+    "publish_mode": "review",
+    "approved_at": "2026-10-13",
+    "revisions": []
+  }
+}

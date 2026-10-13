@@ -67,7 +67,7 @@
               [
                 "Mota elétrica",
                 "Elétrica",
-                "{{price.eletrica.day}}"
+                "Sob consulta"
               ],
               [
                 "Bicicleta elétrica",
@@ -203,6 +203,7 @@
             "Carta válida para a categoria do veículo e, para visitantes, a licença internacional reconhecida no Vietname."
           ]
         },
+        "A coima do primeiro ponto é o valor nacional do Decreto 168/2024. Desde 1 de julho de 2026, a Resolução 56/2026/NQ-HĐND multiplica por 1,5 ou 2 as coimas de 28 infrações de ordem pública e de trânsito cometidas em Hanói: confirme o montante em vigor.",
         "Se não tem habilitação ou experiência suficientes, o mais sensato é não conduzir: um dia de passeio pode fazer-se com táxi ou mota com condutor."
       ]
     },
@@ -263,7 +264,8 @@
     "lawnet-capacete-168",
     "tuoitre-alcool-zero",
     "lawnet-passageiros-2025",
-    "lei-36-2024-a1"
+    "lei-36-2024-a1",
+    "hanoi-resolucao-56-2026"
   ],
   "legal_note": true,
   "writer": {
@@ -278,13 +280,17 @@
     "qa_warnings": [
       "literal VND amount \"600.000 VND\": business prices must use {{price.*}} tokens (legal amounts are fine with a source)"
     ],
-    "words": 1579,
+    "words": 1627,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
     "revisions": [
       {
         "date": "2026-10-13",
         "reason": "Ligações internas para artigos publicados depois"
+      },
+      {
+        "date": "2026-10-13",
+        "reason": "Coimas em Hanói: aviso sobre a Resolução 56/2026/NQ-HĐND"
       }
     ]
   }

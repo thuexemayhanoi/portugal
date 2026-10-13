@@ -21,7 +21,7 @@
     {
       "h2": "O que é obrigatório e o que depende da loja",
       "body": [
-        "No Vietname, o capacete é obrigatório para quem conduz e para quem vai atrás, e tem de ir apertado. Segundo o Decreto 168/2024/NĐ-CP, em vigor desde 1 de janeiro de 2025, não o usar dá uma coima de 400 mil a 600 mil VND. A obrigação abrange também as bicicletas elétricas.",
+        "No Vietname, o capacete é obrigatório para quem conduz e para quem vai atrás, e tem de ir apertado. Segundo o Decreto 168/2024/NĐ-CP, em vigor desde 1 de janeiro de 2025, não o usar dá uma coima de 400 mil a 600 mil VND. A obrigação abrange também as bicicletas elétricas. Em Hanói, o valor desta coima pode ser mais alto do que o nacional. Desde 1 de julho de 2026, a cidade agrava (×1,5 ou ×2) as coimas de 28 infrações de ordem pública e de trânsito: confirme o montante em vigor.",
         "A lei diz que é preciso usar capacete; não diz quem o fornece. Isso é uma condição do aluguer, e a [tabela de preços](/precos/) não a esclarece, porque os valores de referência dizem respeito só ao veículo. Antes de reservar, confirme com a loja:",
         {
           "ul": [
@@ -250,7 +250,8 @@
   "sources": [
     "lawnet-capacete-168",
     "lawnet-passageiros-2025",
-    "tabela-precos-proprietario"
+    "tabela-precos-proprietario",
+    "hanoi-resolucao-56-2026"
   ],
   "legal_note": true,
   "writer": {
@@ -263,9 +264,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 2032,
+    "words": 2074,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Coimas em Hanói: aviso sobre a Resolução 56/2026/NQ-HĐND"
+      }
+    ]
   }
 }

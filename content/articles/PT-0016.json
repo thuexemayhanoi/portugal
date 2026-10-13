@@ -1,0 +1,320 @@
+{
+  "contract_version": 1,
+  "id": "PT-0016",
+  "slug": "como-ligar-uma-scooter",
+  "title": "Como ligar uma scooter: descanso lateral, travão e arranque",
+  "description": "A sequência para ligar uma scooter alugada, porque o descanso lateral corta o motor, o que verificar se não pega e o que ter à mão antes de ligar para a loja.",
+  "h1": "Pôr a scooter a trabalhar: sequência de arranque e o que fazer se não pegar",
+  "summary": "Para ligar uma scooter, levante o descanso lateral até ao fim, porque o interruptor corta o motor com o descanso em baixo, ligue a ignição, aperte um travão e carregue no botão de arranque. Se não pegar, não insista: desligue, espere e contacte a loja. Que o travão seja obrigatório para arrancar não está confirmado para todos os modelos: pergunte na entrega.",
+  "key_points": [
+    "O descanso lateral vem primeiro: segundo a Honda Vietname, o interruptor corta o motor logo que o descanso desce e só deixa arrancar com ele levantado.",
+    "Não está confirmado, para todos os modelos, que seja preciso apertar uma manete de travão para o arranque elétrico funcionar: peça que lhe mostrem na unidade.",
+    "A luz da injeção acende por instantes ao ligar a ignição; acesa com o motor a trabalhar, indica um problema e é assunto para a loja.",
+    "Se o motor não pegar, não carregue seguidamente no botão: desligue a ignição e espere, entre 10 segundos e 3 a 5 minutos, conforme a fonte.",
+    "Se a mota foi abaixo dentro de água, não tente voltar a ligá-la: contacte a loja."
+  ],
+  "intro": [
+    "Ligar uma scooter parece trivial até ao dia em que se carrega no botão e nada acontece. Nem sempre se trata de uma avaria: pode ser um passo que falta, como o descanso lateral ainda em baixo, ou um hábito de outra mota que não se aplica a esta.",
+    "Este guia segue a ordem de um arranque normal numa scooter automática, explica porque é que o descanso lateral corta o motor, indica o que verificar quando a mota não pega e diz o que ter à mão antes de ligar para a loja. Apoia-se em perguntas frequentes e manuais da Honda Vietname e em artigos de imprensa e blogues vietnamitas sobre arranques que falham, consultados em outubro de 2026. As fontes não cobrem todos os modelos nem o arranque a frio: nesses pontos, o guia diz o que perguntar na entrega. Para conhecer as scooters da loja, veja o guia de [scooters automáticas](/tipos-de-motas/scooters/)."
+  ],
+  "sections": [
+    {
+      "h2": "A sequência de arranque, passo a passo",
+      "body": [
+        "A ordem abaixo serve para uma scooter automática. Os pormenores mudam com o modelo e o ano, e o que as fontes não confirmam vem indicado no próprio passo.",
+        {
+          "steps": [
+            {
+              "title": "Descanso lateral",
+              "text": "Confirme que está levantado até ao fim. Com ele em baixo, o motor não arranca."
+            },
+            {
+              "title": "Ignição",
+              "text": "Ligue a ignição com a chave ou, se a unidade tiver chave inteligente, com o comando por perto."
+            },
+            {
+              "title": "Painel",
+              "text": "Espere um instante e olhe para o painel. Segundo os manuais da Honda, a luz da injeção acende por instantes ao ligar a ignição, e isso é normal."
+            },
+            {
+              "title": "Travão",
+              "text": "Aperte uma manete de travão e mantenha-a apertada: se rodar o acelerador com o motor ligado, uma scooter automática avança logo, como se explica no guia da [Honda Vision](/tipos-de-motas/honda-vision-em-hanoi/). Se a sua exigir a manete apertada para o arranque elétrico funcionar, a loja mostra-lhe qual; as fontes consultadas não confirmam essa regra para todos os modelos."
+            },
+            {
+              "title": "Botão de arranque",
+              "text": "Carregue no botão e solte-o assim que o motor pegar. Se não pegar em cerca de 5 segundos, ponha a ignição em OFF e espere 10 segundos antes de tentar de novo, como manda o manual da Rebel 500, outra Honda: é boa prática geral, e não uma regra desta scooter."
+            },
+            {
+              "title": "Antes de arrancar",
+              "text": "Com o motor a trabalhar, confirme o trânsito à sua volta e só então rode o acelerador, devagar. Se a luz da injeção continuar acesa, não é normal: contacte a loja antes de sair."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "O descanso lateral: porque corta o motor",
+      "body": [
+        "O descanso lateral tem um interruptor ligado ao motor. Segundo a Honda Vietname, o interruptor corta o motor logo que o descanso desce e só deixa arrancar com ele levantado, para evitar que se arranque com ele em baixo. Um artigo vietnamita sobre a Vision que não arranca dá a mesma indicação: a mota só dá arranque com o descanso lateral totalmente levantado.",
+        "Na prática, ao estacionar o motor corta assim que baixa o descanso, e isso é o comportamento previsto. Se a mota não arranca, o descanso lateral é o primeiro sítio onde olhar: levante-o até ao fim, sem o deixar a meio caminho, e tente outra vez.",
+        "A mesma lógica aparece noutras Honda. No manual da Rebel 500, uma mota de mudanças, engrenar uma mudança com o descanso em baixo faz o motor parar.",
+        {
+          "note": "Não tente contornar o interruptor nem mexer nas fichas elétricas para o «enganar». Numa mota alugada, qualquer reparação cabe à loja.",
+          "tone": "warn",
+          "title": "Não contorne o interruptor"
+        }
+      ]
+    },
+    {
+      "h2": "Chave convencional ou chave inteligente",
+      "body": [
+        "A Honda Vision tem chave inteligente, pelo menos nas versões mais equipadas: o sistema elétrico liga-se e desliga-se por ligação sem fios ao comando, e a Vision de 2026 mantém a função. Em modelos mais simples, a chave é convencional. Peça que lhe mostrem qual das duas tem a unidade e como se liga e desliga.",
+        "No manual da SH Mode, outra scooter Honda com este tipo de chave, o sistema pode falhar com a pilha do comando fraca ou com aparelhos que causem interferência por perto. O mesmo manual manda deixar o botão de ignição em OFF ou LOCK ao sair, porque na posição SEAT ainda é possível abrir o assento.",
+        "Se a mota não reconhecer o comando, o procedimento de emergência descrito pela Honda Vietname exige um código e mexer em fichas elétricas, e as fontes consultadas não explicam como obter o código. Numa mota alugada, fica para a loja. Se o comando se perdeu, veja o guia [perdi a chave da mota alugada](/guia-de-aluguer/perdi-a-chave/)."
+      ]
+    },
+    {
+      "h2": "Se a scooter não pega: o que verificar, por ordem",
+      "body": [
+        "Antes de assumir uma avaria, percorra esta lista, que reúne o que as fontes consultadas indicam:",
+        {
+          "ol": [
+            "**Descanso lateral** levantado até ao fim.",
+            "**Comando**, se a unidade tiver chave inteligente: com ele por perto, e tendo em conta que uma pilha fraca pode impedir o sistema de funcionar.",
+            "**Travão**, se a unidade exigir uma manete apertada para arrancar: as fontes não confirmam esta regra para todos os modelos, por isso pergunte na entrega.",
+            "**Combustível**: confirme que a mota tem gasolina.",
+            "**Bateria**: uma bateria fraca ou descarregada é a principal causa de falha de arranque nas scooters e nas motas de mudanças com arranque elétrico, segundo o Báo Văn hóa. A solução é carregar ou substituir a bateria, e numa mota alugada quem trata disso é a loja.",
+            "**Água**: se a mota ficou numa rua inundada, não insista no botão. Veja a secção sobre mota que apanhou água."
+          ]
+        },
+        {
+          "h3": "Pedal de arranque e cabos de bateria"
+        },
+        "Um blogue vietnamita diz que as scooters ainda têm pedal de arranque, mas que o uso prolongado afeta a bateria. Não está confirmado que a Vision ou a Air Blade tenham pedal: pergunte à loja. Outro blogue explica que se pode ligar a bateria a outra mota da mesma tensão com cabos; numa mota alugada, não o tente."
+      ]
+    },
+    {
+      "h2": "Quanto esperar entre tentativas",
+      "body": [
+        "Carregar seguidamente no botão de arranque pode danificar o sistema de arranque, segundo blogues e imprensa vietnamitas sobre arranques que falham. O conselho é desligar a chave e deixar a bateria descansar 3 a 5 minutos.",
+        "As fontes não dão um tempo único. O manual da Rebel 500 manda esperar 10 segundos, com a ignição em OFF, quando o motor não pega em 5 segundos; os blogues falam em 3 a 5 minutos. Nenhum dos dois é uma regra da sua scooter. Uma leitura prudente: pausa curta entre tentativas isoladas, pausa maior se já insistiu várias vezes, e a loja se a mota continuar sem pegar."
+      ]
+    },
+    {
+      "h2": "Se a mota apanhou água: não volte a ligar",
+      "body": [
+        "Se a mota atravessou água e o motor foi abaixo, um técnico de uma loja Honda autorizada, citado pela VietNamNet, aconselha a levá-la a verificar o mais cedo possível: água no motor, na parte elétrica ou nos travões torna a mota insegura e reduz-lhe a vida útil.",
+        "Os mecânicos aconselham a nunca tentar voltar a ligar de imediato uma mota que foi abaixo dentro de água, porque o calço hidráulico pode entortar a biela ou rachar a cambota. Segundo as oficinas, as causas habituais são água na vela, na admissão de ar ou no escape. Se for o seu caso, não carregue no botão: desligue a ignição, ponha a mota num sítio seguro e contacte a loja."
+      ]
+    },
+    {
+      "h2": "Com o motor a trabalhar: o que não é avaria",
+      "body": [
+        {
+          "ul": [
+            "**A luz da injeção** acende por instantes ao ligar a ignição, segundo os manuais da Honda. Se ficar acesa com o motor a trabalhar, há um problema a tratar, e a Honda recomenda levar a mota a um concessionário; numa mota alugada, contacte a loja. A luz pode aparecer e desaparecer por mau contacto numa ficha elétrica, mas, se se repetir, deve ser verificada.",
+            "**O motor que se desliga no semáforo** pode ser a paragem automática do motor, o Idling Stop, que algumas Honda têm. A Vision tem um interruptor e uma luz indicadora da função. Se o motor se desligar sozinho com a mota parada, pergunte à loja se a unidade tem a função e como se volta a arrancar."
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "Com o motor a trabalhar: luz da injeção e paragem automática",
+      "body": [
+        "Há perguntas a que as fontes consultadas não respondem, e é melhor assumi-lo do que inventar uma resposta. Peça à loja que as esclareça na unidade que vai levar:",
+        {
+          "checklist": [
+            "Se a mota exige uma manete de travão apertada para o arranque elétrico funcionar e, se sim, qual.",
+            "Se há alguma particularidade ao arrancar com o motor frio, por exemplo de manhã.",
+            "Se é preciso, ou não, mexer no acelerador ao dar arranque.",
+            "Se a mota tem pedal de arranque e como se usa.",
+            "Se a chave é convencional ou inteligente e o que fazer se o comando falhar.",
+            "Se a mota tem Idling Stop e como se desliga a função."
+          ]
+        },
+        "Repita o arranque à frente de quem explica: ligar, desligar, voltar a ligar. Dois minutos de prática evitam ficar parado numa rua desconhecida. O guia de [receber a mota alugada](/guia-de-aluguer/receber-a-mota/) mostra onde esta explicação se encaixa na entrega."
+      ]
+    },
+    {
+      "h2": "Antes de ligar para a loja",
+      "body": [
+        "Se a mota continuar sem pegar depois de verificar o descanso, o comando e a bateria, contacte a loja. Ajuda ter à mão:",
+        {
+          "checklist": [
+            "onde está, com uma localização que a loja consiga abrir no telemóvel;",
+            "o modelo e a matrícula da mota;",
+            "o que já tentou: descanso levantado, comando por perto, quantas vezes carregou no botão e quanto esperou;",
+            "uma fotografia do painel, com as luzes que estão acesas;",
+            "o que ouve ao carregar no botão: nada, um clique ou o motor de arranque a rodar sem pegar;",
+            "se a mota apanhou água."
+          ]
+        },
+        "Pode contactar a loja {{brand}} pelo {{phone}}, por chamada ou Zalo, {{hours}}; a morada e o mapa estão na página de [contactos](/contactos/). O que esperar da ajuda na estrada, e o que perguntar antes de sair, está no guia de [assistência na estrada](/guia-de-aluguer/assistencia-na-estrada/)."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Porque é que a scooter não arranca com o descanso lateral em baixo?",
+      "a": "Porque o interruptor do descanso corta o motor logo que o descanso desce e só deixa arrancar com ele levantado; segundo a Honda Vietname, é para evitar arrancar com o descanso em baixo. Levante-o até ao fim e tente outra vez."
+    },
+    {
+      "q": "Tenho de apertar o travão para ligar a scooter?",
+      "a": "Não está confirmado para todos os modelos: as fontes consultadas não dizem que as scooters da loja o exijam nem que não. Pergunte e experimente na entrega. Mesmo que a mota arranque sem isso, manter um travão apertado ao ligar evita que ela avance se rodar o acelerador por engano."
+    },
+    {
+      "q": "Posso arrancar a scooter a pedal?",
+      "a": "Um blogue vietnamita diz que as scooters ainda têm pedal de arranque, mas que o uso prolongado afeta a bateria. Não está confirmado que a Vision ou a Air Blade o tenham, por isso pergunte à loja se a sua unidade tem pedal e como se usa."
+    },
+    {
+      "q": "Quantas vezes posso carregar no botão de arranque?",
+      "a": "As fontes não dão um número de tentativas. O manual de outra Honda manda pôr a ignição em OFF e esperar 10 segundos se o motor não pegar em 5 segundos, e blogues vietnamitas aconselham deixar a bateria descansar 3 a 5 minutos. Carregar seguidamente no botão pode danificar o sistema de arranque."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Perguntas frequentes da Honda Việt Nam: informações gerais (em vietnamita)",
+      "publisher": "Honda Việt Nam",
+      "url": "https://honda.com.vn/cau-hoi-thuong-gap?category=&category_child=&category_tab=thong-tin-chung",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "Perguntas frequentes da Honda Việt Nam sobre o uso da mota (em vietnamita)",
+      "publisher": "Honda Việt Nam",
+      "url": "https://www.honda.com.vn/cau-hoi-thuong-gap?category=san-pham&category_child=tu-van-su-dung-xe-may",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "Página do modelo Honda Vision no site da Honda Việt Nam",
+      "publisher": "Honda Việt Nam",
+      "url": "https://www.honda.com.vn/xe-may/san-pham/vision?category=2",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "Notícia da Honda Việt Nam sobre a nova versão da Vision 2026 (em vietnamita)",
+      "publisher": "Honda Việt Nam",
+      "url": "https://www.honda.com.vn/xe-may/tin-tuc/honda-viet-nam-gioi-thieu-phien-ban-moi-mau-xe-vision-2026-bat-sac-tu-tin",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "4FK44A20 00X4F-K44-A200 SÁCH HƯỚNG DẪN SỬ DỤNG Vision Vision",
+      "publisher": "Honda Việt Nam",
+      "url": "https://cdn.honda.com.vn/motorbike-manual/September2025/vax6VIxISbzWmEpEfkZX.pdf",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "SH MODE HƯỚNG DẪN SỬ DỤNG",
+      "publisher": "Honda Việt Nam",
+      "url": "https://cdn.honda.com.vn/motorbike-manual/September2025/LqBycQConAOw1xIB2JDJ.pdf",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "Air Blade — Hướng dẫn sử dụng (manual do utilizador, PDF em vietnamita)",
+      "publisher": "Honda Việt Nam",
+      "url": "https://cdn.honda.com.vn/motorbike-manual/September2025/NC8346r3AExXZtAvFuMG.pdf",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "VARIO HƯỚNG DẪN SỬ DỤNG",
+      "publisher": "Honda Việt Nam",
+      "url": "https://cdn.honda.com.vn/motorbike-manual/September2025/tOFNiq8LS4zGqR8zVg7f.pdf",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "Rebel 500 SÁCH HƯỚNG DẪN SỬ DỤNG",
+      "publisher": "Honda Việt Nam",
+      "url": "https://cdn.honda.com.vn/motorbike-manual/January2024/OdKKVideG3xEREmXH8bb.pdf",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "Xe Vision đề không nổ: Nguyên nhân và cách khắc phục",
+      "publisher": "Mua Bán (blogue)",
+      "url": "https://muaban.net/blog/xe-vision-de-khong-no-150199/",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Vì sao xe đề mãi không nổ? Cách xử lý nhanh, ai cũng nên biết",
+      "publisher": "Báo Văn hóa",
+      "url": "https://baovanhoa.vn/xe/vi-sao-xe-de-mai-khong-no-cach-xu-ly-nhanh-ai-cung-nen-biet-190877.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Lý do tại sao xe Air Blade không đề được và cách xử lý hiệu quả",
+      "publisher": "Mua Bán (blogue)",
+      "url": "https://muaban.net/blog/xe-air-blade-khong-de-duoc-537748/",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Hướng dẫn cách nổ máy xe Airblade khi hết bình",
+      "publisher": "Mua Bán (blogue)",
+      "url": "https://muaban.net/blog/cach-no-may-xe-airblade-khi-het-binh-544229/",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Xe tay ga không đề: Vấn đề và giải pháp",
+      "publisher": "Mytour (blogue)",
+      "url": "https://mytour.vn/vi/blog/bai-viet/xe-tay-ga-de-khong-len-nguyen-nhan-va-cach-xu-ly.html",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Artigo da VietNamNet sobre sete verificações urgentes quando a mota fica inundada (em vietnamita)",
+      "publisher": "VietNamNet",
+      "url": "https://vietnamnet.vn/7-hang-muc-song-con-can-kiem-tra-ngay-khi-xe-may-bi-ngap-nuoc-2448300.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Kinh nghiệm giữ xe máy hoạt động tốt sau mưa lớn, ngập sâu",
+      "publisher": "Báo Văn hóa",
+      "url": "https://baovanhoa.vn/xe/kinh-nghiem-giu-xe-may-hoat-dong-tot-sau-mua-lon-ngap-sau-164021.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    }
+  ],
+  "legal_note": false,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "PUBLISHED",
+  "date_published": "2026-10-13",
+  "date_modified": "2026-10-13",
+  "editorial": {
+    "qa_score": 100,
+    "qa_warnings": [],
+    "words": 1985,
+    "publish_mode": "review",
+    "approved_at": "2026-10-13",
+    "revisions": []
+  }
+}

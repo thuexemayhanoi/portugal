@@ -79,7 +79,7 @@
         {
           "h3": "11. Quantos capacetes estão incluídos?"
         },
-        "O capacete é obrigatório para quem conduz e para o passageiro, com coima de 400.000 a 600.000 VND para quem não o usa. Confirme quantos capacetes recebe, se há vários tamanhos e se a fivela fecha bem. Se vai circular com chuva, pergunte ainda se há capa de chuva disponível ou onde a comprar perto da loja.",
+        "O capacete é obrigatório para quem conduz e para o passageiro, com coima de 400.000 a 600.000 VND para quem não o usa. Esse é o valor nacional, do Decreto 168/2024. Desde 1 de julho de 2026, Hanói multiplica por 1,5 ou 2 as coimas de 28 infrações de ordem pública e de trânsito, e na cidade o montante pode ser mais alto. Confirme quantos capacetes recebe, se há vários tamanhos e se a fivela fecha bem. Se vai circular com chuva, pergunte ainda se há capa de chuva disponível ou onde a comprar perto da loja.",
         {
           "h3": "12. Com quanto combustível recebo e devolvo a mota?"
         },
@@ -203,7 +203,8 @@
     "lei-36-2024-artigo-56",
     "imt-lic",
     "lawnet-capacete-168",
-    "dtinews-autoestrada-2026"
+    "dtinews-autoestrada-2026",
+    "hanoi-resolucao-56-2026"
   ],
   "legal_note": true,
   "writer": {
@@ -218,13 +219,17 @@
     "qa_warnings": [
       "literal VND amount \"600.000 VND\": business prices must use {{price.*}} tokens (legal amounts are fine with a source)"
     ],
-    "words": 1569,
+    "words": 1610,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
     "revisions": [
       {
         "date": "2026-10-13",
         "reason": "Ligações internas para artigos publicados depois"
+      },
+      {
+        "date": "2026-10-13",
+        "reason": "Coimas em Hanói: aviso sobre a Resolução 56/2026/NQ-HĐND"
       }
     ]
   }

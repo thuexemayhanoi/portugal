@@ -1,0 +1,313 @@
+{
+  "contract_version": 1,
+  "id": "PT-0214",
+  "slug": "perdeu-o-telemovel-durante-o-aluguer",
+  "title": "Perdi o telemóvel no Vietname durante o aluguer: o que fazer",
+  "description": "Perdeu ou roubaram-lhe o telemóvel a meio do aluguer em Hanói? Como ligar à loja, proteger o SIM, pagar sem o aparelho e fazer a participação na polícia.",
+  "h1": "Sem telemóvel a meio do aluguer: contactar a loja e continuar a viagem",
+  "summary": "Se perder o telemóvel a meio do aluguer, peça um telemóvel emprestado e ligue para a loja, {{phone}}: é o contacto que convém ter também em papel. Depois bloqueie o cartão SIM e as contas, pague em numerário durante uns dias e, se o telemóvel foi roubado, faça a participação na polícia.",
+  "key_points": [
+    "O número da loja, {{phone}}, deve estar em papel antes de sair: qualquer telemóvel emprestado serve para ligar, e não precisa de Zalo.",
+    "Procure meia hora, avise a loja e bloqueie o cartão SIM, as contas e os cartões bancários.",
+    "Um cartão SIM novo exige passaporte (ou conta de identificação eletrónica) e verificação facial, desde 15 de abril de 2026.",
+    "Sem telemóvel, leve numerário: as notícias consultadas sobre pagamentos por QR de visitantes não referem bancos europeus.",
+    "Se foi roubado, a participação faz-se na polícia da comuna ou do bairro; se a chave ou os documentos iam com ele, diga-o logo à loja."
+  ],
+  "intro": [
+    "O telemóvel de quem viaja é o mapa, o tradutor, a agenda, a câmara e, muitas vezes, a carteira. Perdê-lo a meio de um aluguer de mota significa ficar sem o número da loja, sem a confirmação da reserva e sem as fotografias do levantamento. O aparelho substitui-se. O difícil é pedir ajuda, se a mota avariar ou se se perder numa zona que não conhece.",
+    "Este guia segue a ordem em que o assunto costuma resolver-se: procurar, ligar à loja, proteger o número e as contas, tratar da participação e do seguro, e aguentar uns dias a pagar e a orientar-se sem o aparelho. O que depende da loja aparece como pergunta a fazer, porque este site não o presume. O processo geral do aluguer está no [guia de aluguer passo a passo](/guia-de-aluguer/)."
+  ],
+  "sections": [
+    {
+      "h2": "Perdido ou roubado: os primeiros minutos",
+      "body": [
+        "Antes de dar o telemóvel por perdido, procure com método durante meia hora, do último sítio onde o teve na mão para trás:",
+        {
+          "checklist": [
+            "**No último sítio onde esteve**: a mesa do café, o balcão onde pagou. Pergunte ao pessoal.",
+            "**Na mota**: na bolsa do guiador ou debaixo do assento. Se o compartimento estiver fechado e a chave não estiver consigo, não o force.",
+            "**No alojamento ou com quem viaja consigo**: peça a alguém que ligue para o seu número; se tocar, fica a saber onde está.",
+            "**No localizador do fabricante**: se o ativou, use-o a partir de outro dispositivo para o fazer tocar ou bloqueá-lo à distância."
+          ]
+        },
+        "Se ao fim de meia hora não apareceu, passe aos passos seguintes: continuar a procurar sozinho só atrasa o resto. Se lho arrancaram da mão ou da mota em andamento, não corra atrás de quem o levou, que é assim que acontecem os acidentes. Veja se está ferido, fique em segurança e trate da participação na polícia, explicada mais abaixo."
+      ]
+    },
+    {
+      "h2": "Ligar à loja a partir de outro telemóvel",
+      "body": [
+        "O primeiro telefonema é para a loja e não precisa do seu aparelho: serve qualquer telemóvel emprestado, o da receção do alojamento ou o de um comerciante. O número é {{phone}}; num telemóvel vietnamita, marca-se no formato local, {{phone.local}}. Uma chamada normal chega: não precisa de [Zalo]({{zalo}}) nem de dados móveis. A loja atende {{hours}}; fora desse horário, volte a ligar quando abrir.",
+        "Diga o essencial, devagar e por esta ordem. Quem é: o nome, o modelo da mota e a matrícula, ou o dia do levantamento. Onde está. O que perdeu, incluindo a chave, o passaporte ou os documentos da mota, se iam com o telemóvel. Como o contactar: o número emprestado, se a pessoa concordar, ou o do alojamento.",
+        {
+          "table": {
+            "caption": "Frases úteis para pedir um telemóvel emprestado",
+            "head": [
+              "Em vietnamita",
+              "Em português"
+            ],
+            "rows": [
+              [
+                "Tôi bị mất điện thoại.",
+                "Perdi o telemóvel."
+              ],
+              [
+                "Tôi có thể mượn điện thoại của bạn để gọi một cuộc không?",
+                "Posso usar o seu telemóvel para fazer uma chamada?"
+              ],
+              [
+                "Tôi muốn gọi cho cửa hàng thuê xe máy.",
+                "Quero ligar à loja de aluguer de motas."
+              ]
+            ]
+          }
+        },
+        "Aproveite a chamada para perguntar:",
+        {
+          "checklist": [
+            "Que contacto devo usar nos próximos dias, já que o meu número deixou de estar disponível?",
+            "Se a mota avariar, é este o número para onde ligo a partir de outro telemóvel?",
+            "O acordo e a confirmação do aluguer estavam no meu telemóvel: podem enviá-los de novo? E que outra forma de pagamento aceitam, se eu pagava por aplicação?"
+          ]
+        },
+        "Quando tiver outro telemóvel, retome a conversa por escrito: o guia sobre [comunicar com a loja sem falar vietnamita](/guia-de-aluguer/comunicar-sem-falar-vietnamita/) explica como."
+      ]
+    },
+    {
+      "h2": "Bloquear o cartão SIM, os cartões bancários e as contas",
+      "body": [
+        "Quem ficar com o aparelho pode tentar usá-lo, e o cartão SIM continua a receber os códigos de verificação das suas contas. Bloqueie primeiro o que dá acesso a dinheiro:",
+        {
+          "steps": [
+            {
+              "title": "O cartão SIM",
+              "text": "Contacte o operador de origem, a partir de um telemóvel emprestado ou da área de cliente na internet, e peça o bloqueio e uma segunda via. O que exige e em quanto tempo não o conseguimos confirmar: pergunte-lhe logo."
+            },
+            {
+              "title": "Os cartões bancários",
+              "text": "Se o aparelho guardava cartões numa carteira digital ou a aplicação do banco, peça ao banco que bloqueie o que for preciso."
+            },
+            {
+              "title": "As contas",
+              "text": "Mude as palavras-passe do correio eletrónico, das redes sociais e das mensagens (incluindo o Zalo) a partir de outro aparelho e termine as sessões abertas no telemóvel perdido, se for possível. Comece pelo correio eletrónico, pelo qual se recuperam as outras contas."
+            },
+            {
+              "title": "O aparelho",
+              "text": "Anote a marca, o modelo e a cor, que vai precisar na participação e no seguro."
+            }
+          ]
+        },
+        "Com o cartão bloqueado, os códigos por SMS deixam de chegar também a si: escolha outro método de verificação ou espere pelo duplicado."
+      ]
+    },
+    {
+      "h2": "Se foi roubado: participação na polícia e seguro de viagem",
+      "body": [
+        "Se o telemóvel foi roubado, ou se o seguro exigir participação mesmo numa perda, vá à polícia. Segundo as bases jurídicas vietnamitas consultadas a 13 de outubro de 2026, a polícia da comuna ou do bairro (Công an xã, phường), as esquadras (Đồn Công an) e os postos policiais (Trạm Công an) têm o dever de receber denúncias de crimes, por escrito ou oralmente. Os modelos de requerimento para participar a perda de bens («đơn trình báo mất tài sản») pedem os dados de quem participa, a hora e o local, a descrição do caso e as características do bem, como a marca e o modelo.",
+        "Depois, o órgão de investigação verifica a informação e decide se abre um processo-crime. Nenhuma fonte indica prazos.",
+        {
+          "note": "Não confirmámos que documentos a polícia pede a um estrangeiro, se entrega comprovativo nem se a participação se faz online. Um portal oficial da província de Hà Tĩnh publicou um artigo intitulado «Já não há polícia de nível distrital: onde denunciam as pessoas os crimes?» (só vimos o título). Pergunte à loja ou ao alojamento qual é a polícia competente e peça algo que prove que a participação foi feita.",
+          "tone": "warn",
+          "title": "O que não conseguimos confirmar"
+        },
+        "O seguro de viagem depende da sua apólice. Pergunte à seguradora se cobre a perda e o roubo de telemóvel, se há limite de valor para a eletrónica, que documentos pede (por exemplo, a participação e a fatura do aparelho) e em que prazo tem de avisar. Peça a resposta por escrito."
+      ]
+    },
+    {
+      "h2": "Orientar-se e pagar durante uns dias sem telemóvel",
+      "body": [
+        {
+          "h3": "Orientar-se sem mapa"
+        },
+        "Sem mapa, ande menos e por sítios que já conhece. Escreva em papel a morada do alojamento e a da loja em vietnamita, {{address.vi}}, e as ruas do caminho de regresso; para perguntar o caminho, encoste e mostre a morada escrita. Se não se sentir seguro, adie as saídas longas: o guia sobre [telemóvel e GPS na scooter](/tipos-de-motas/telemovel-e-gps-na-scooter/) explica como preparar o percurso antes de arrancar, e o das [situações em que é melhor não conduzir](/rotas-e-mobilidade/quando-nao-conduzir/) ajuda a decidir quando deixar a mota estacionada.",
+        {
+          "h3": "Pagar só com numerário"
+        },
+        "O numerário resolve o essencial: combustível, refeições, estacionamento. Leve dong em notas pequenas. Não conte com pagar por QR com a aplicação do seu banco português: as notícias que consultámos em outubro de 2026 sobre pagamentos por QR de visitantes estrangeiros falam de bancos e carteiras de mercados asiáticos e não referem bancos europeus. Também não encontrámos nenhuma regra que obrigue as bombas de gasolina a aceitar só pagamentos eletrónicos, mas confirme na bomba como pode pagar antes de abastecer.",
+        "Se ia pagar o aluguer ou um prolongamento por transferência ou por aplicação, pergunte à loja que outra forma aceita e peça recibo. O guia dos [recibos e comprovativos](/precos/recibos-e-comprovativos/) diz o que guardar."
+      ]
+    },
+    {
+      "h2": "Novo cartão SIM e conta Zalo: o que está confirmado",
+      "body": [
+        "O registo de um cartão SIM vietnamita segue o Decreto n.º 163/2024/NĐ-CP, em vigor desde 24 de dezembro de 2024. Segundo um portal oficial de divulgação jurídica de Cần Thơ, os estrangeiros apresentam o passaporte válido para uso no Vietname, ou uma conta de identificação eletrónica, e é tirada uma fotografia do rosto do titular e fotografias da frente e do verso do documento. Desde 15 de abril de 2026, o registo exige verificação facial. Se o passaporte desapareceu com o telemóvel, não conseguirá registar um cartão enquanto não resolver o documento.",
+        {
+          "h3": "Recuperar a conta Zalo"
+        },
+        "A conta Zalo regista-se com um número de telemóvel. Segundo um guia para viajantes, funciona com um número estrangeiro; num fórum, utilizadores dizem ter passado a conta para um telemóvel novo; um blogue de um fornecedor de números virtuais afirma que o registo exige um número vietnamita verificado. As fontes não concordam e não confirmámos se há um passo extra para números estrangeiros em 2026. Não conte, por isso, com recuperar o Zalo de um dia para o outro: para falar com a loja basta ligar para {{phone}}."
+      ]
+    },
+    {
+      "h2": "Quando o telemóvel ia junto da chave ou dos documentos",
+      "body": [
+        "Se o telemóvel ia no mesmo bolso ou bolsa que a chave da mota, os documentos do veículo, o passaporte ou a carta, o assunto deixa de ser só o telemóvel: diga-o à loja no primeiro telefonema.",
+        {
+          "h3": "A chave da mota"
+        },
+        "Sem a chave, a mota não arranca. Não force a ignição nem o assento: o guia sobre [perder a chave da mota alugada](/guia-de-aluguer/perdi-a-chave/) explica como proteger a mota e o que perguntar à loja. Se a chave foi roubada com o telemóvel, diga à loja onde deixou a mota. E se o telemóvel ficou no compartimento debaixo do assento, não está perdido: fica inacessível até a mota abrir.",
+        {
+          "h3": "Documentos da mota, passaporte e carta"
+        },
+        "O artigo 56.º da lei de trânsito de 2024 enumera o que quem conduz deve levar consigo: o registo do veículo, a carta adequada à categoria e o certificado do seguro obrigatório, como explica o guia dos [documentos da mota alugada](/guia-de-aluguer/documentos-da-mota-alugada/). Se desapareceram, pergunte à loja se tem cópia. Num controlo, veja o guia sobre a [polícia de trânsito](/guia-de-aluguer/controlo-da-policia/); o de [conduzir sem carta válida](/guia-de-aluguer/conduzir-sem-carta-valida/) explica o que se arrisca.",
+        "Se o passaporte desapareceu, o contacto português para emergências no estrangeiro é o Gabinete de Emergência Consular: +351 217 929 714, +351 961 706 472 ou gec@mne.pt, disponível, segundo o gov.pt, «24 horas por dia, 7 dias por semana». A página pode estar desatualizada: confirme os números antes de viajar."
+      ]
+    },
+    {
+      "h2": "O contacto da loja em papel, antes de partir",
+      "body": [
+        "Antes de sair da loja, escreva o contacto num cartão e guarde-o na carteira, e não no mesmo bolso do telemóvel nem debaixo do assento da mota, que fica fechado se perder a chave. Inclua:",
+        {
+          "checklist": [
+            "o telefone da loja, {{phone}} (no formato local, {{phone.local}}), e o horário: {{hours}};",
+            "a morada da loja em vietnamita, {{address.vi}}, para mostrar a um taxista;",
+            "o modelo da mota e a matrícula;",
+            "o nome, a morada e o telefone do alojamento;",
+            "os números do seu operador, do seu banco e do seu seguro de viagem, para os contactar a partir do estrangeiro;",
+            "o contacto de emergência consular e o de uma pessoa de confiança em Portugal."
+          ]
+        },
+        "Envie ainda a si próprio, por correio eletrónico, a confirmação do aluguer e as fotografias do levantamento, que o guia sobre [fotografar a mota alugada](/guia-de-aluguer/fotografar-a-mota/) ensina a tirar: recuperam-se a partir de qualquer computador. O guia sobre a [assistência na estrada](/guia-de-aluguer/assistencia-na-estrada/) ajuda a perguntar à loja, antes de sair, a quem ligar numa avaria. Os contactos estão na página de [contactos](/contactos/) e o resto do processo em [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/)."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Preciso de Zalo para falar com a loja se perder o telemóvel?",
+      "a": "Não. Uma chamada normal para {{phone}}, a partir de qualquer telemóvel emprestado, chega. A loja atende {{hours}}. Quando tiver outro aparelho, retome a conversa por escrito."
+    },
+    {
+      "q": "E se eu não souber de cor o número da loja?",
+      "a": "Peça ao alojamento ou a um café com internet que abra a página de contactos deste site, que tem o número. Depois escreva-o em papel."
+    },
+    {
+      "q": "Posso comprar um cartão SIM vietnamita sem passaporte?",
+      "a": "Não encontrámos nenhuma exceção: segundo as fontes consultadas em outubro de 2026, pede-se o passaporte ou uma conta de identificação eletrónica e uma fotografia do rosto. Pergunte ao operador o que aceita."
+    },
+    {
+      "q": "Tenho de ir à polícia se só perdi o telemóvel?",
+      "a": "Não confirmámos que haja essa obrigação numa perda simples. A participação faz mais sentido se foi roubado, e o seguro pode exigi-la: pergunte à seguradora."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Giấy tờ sử dụng để đăng ký thông tin thuê bao di động mặt đất",
+      "publisher": "Cổng phổ biến, giáo dục pháp luật TP. Cần Thơ",
+      "url": "https://pbgdpl.cantho.gov.vn/giay-to-su-dung-de-dang-ky-thong-tin-thue-bao-di-dong-mat-dat",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "vi"
+    },
+    {
+      "title": "Đăng ký thuê bao di động phải xác thực khuôn mặt",
+      "publisher": "Cổng phổ biến, giáo dục pháp luật TP. Cần Thơ",
+      "url": "https://pbgdpl.cantho.gov.vn/dang-ky-thue-bao-di-dong-phai-xac-thuc-khuon-mat",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "vi"
+    },
+    {
+      "title": "Từ hôm nay, 15/4/2026, đăng ký thuê bao di động phải xác thực khuôn mặt",
+      "publisher": "LuatVietnam",
+      "url": "https://luatvietnam.vn/tin-van-ban-moi/moi-dang-ky-thue-bao-di-dong-phai-xac-thuc-khuon-mat-tu-15-4-2026-186-108072-article.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "Đã có Nghị định 163/2024/NĐ-CP quy định chi tiết Luật Viễn thông",
+      "publisher": "LuatVietnam",
+      "url": "https://luatvietnam.vn/tin-van-ban-moi/da-co-nghi-dinh-163-2024-nd-cp-quy-dinh-chi-tiet-luat-vien-thong-186-100498-article.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "What is Zalo in Vietnam – A Guide for Travelers",
+      "publisher": "Local Vietnam",
+      "url": "https://localvietnam.com/vietnam-tips/what-is-zalo/",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "en"
+    },
+    {
+      "title": "Fórum sobre o uso do Zalo fora do Vietname (em inglês)",
+      "publisher": "Expat.com (fórum)",
+      "url": "https://www.expat.com/en/forum/asia/vietnam/939594-using-zalo-app-outside-vietnam.html",
+      "accessed": "2026-10-13",
+      "type": "reference",
+      "lang": "en"
+    },
+    {
+      "title": "Artigo de um blogue sobre como criar uma conta Zalo sem número de telemóvel (em inglês)",
+      "publisher": "Calilio (fornecedor de números virtuais)",
+      "url": "https://www.calilio.com/blogs/create-zalo-account-without-phone-number",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "en"
+    },
+    {
+      "title": "Mẫu đơn trình báo mất tài sản mới nhất và hướng dẫn cách viết",
+      "publisher": "Thư Viện Pháp Luật",
+      "url": "https://thuvienphapluat.vn/banan/tin-tuc/mau-don-trinh-bao-mat-tai-san-moi-nhat-va-huong-dan-cach-viet-10065.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "Tố giác tội phạm",
+      "publisher": "Thư Viện Pháp Luật",
+      "url": "https://thuvienphapluat.vn/hoi-dap-phap-luat/to-giac-toi-pham-23839.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "Không còn công an cấp huyện, người dân tố giác tội phạm ở đâu?",
+      "publisher": "Cổng thông tin điện tử tỉnh Hà Tĩnh",
+      "url": "https://hatinh.gov.vn/vi/bai-viet/khong-con-cong-an-cap-huyen-nguoi-dan-to-giac-toi-pham-o-dau",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "vi"
+    },
+    "lei-36-2024-artigo-56",
+    {
+      "title": "Contactos de emergência consular",
+      "publisher": "gov.pt",
+      "url": "https://www2.gov.pt/-/contactos-de-emerg%C3%AAncia-consular-1",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "pt"
+    },
+    {
+      "title": "Notícia sobre pagamentos por QR transfronteiriços para turistas estrangeiros no Vietname (em inglês)",
+      "publisher": "Tuoi Tre News",
+      "url": "https://news.tuoitre.vn/foreign-tourists-enjoy-easier-qr-payments-across-vietnam-as-cross-border-network-expands-103260807130016786.htm",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "en"
+    },
+    {
+      "title": "QR payments make Việt Nam more convenient for international visitors",
+      "publisher": "Viet Nam News",
+      "url": "https://vietnamnews.vn/life-style/1800784/qr-payments-make-viet-nam-more-convenient-for-international-visitors.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "en"
+    }
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "PUBLISHED",
+  "date_published": "2026-10-13",
+  "date_modified": "2026-10-13",
+  "editorial": {
+    "qa_score": 100,
+    "qa_warnings": [],
+    "words": 2181,
+    "publish_mode": "review",
+    "approved_at": "2026-10-13",
+    "revisions": []
+  }
+}

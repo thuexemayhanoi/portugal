@@ -1,0 +1,266 @@
+{
+  "contract_version": 1,
+  "id": "PT-0212",
+  "slug": "apoio-consular-portugues",
+  "title": "Apoio consular português no Vietname: quem contactar",
+  "description": "A quem pedir ajuda de Portugal no Vietname: o Gabinete de Emergência Consular, o que se sabe da embaixada em Hanói e o que o consulado faz e não faz.",
+  "h1": "Precisa da ajuda de Portugal no Vietname? Contactos confirmados e limites do apoio consular",
+  "summary": "Numa emergência no Vietname, o contacto português confirmado é o Gabinete de Emergência Consular (GEC), do Ministério dos Negócios Estrangeiros: +351 217 929 714, +351 961 706 472 ou gec@mne.pt. Em fevereiro de 2026, a Lusa noticiou que Portugal ia abrir uma embaixada em Hanói, mas não confirmámos a abertura nem os contactos. O apoio consular facilita contactos e documentos; não paga despesas.",
+  "key_points": [
+    "O contacto de emergência confirmado é o Gabinete de Emergência Consular (GEC): +351 217 929 714, +351 961 706 472 e gec@mne.pt.",
+    "Em fevereiro de 2026, a Lusa noticiou que Portugal ia inaugurar uma embaixada em Hanói; a abertura e os contactos não estão confirmados neste guia.",
+    "Os postos consulares podem emitir um documento de viagem provisório e facilitar o contacto com hospitais e com advogados.",
+    "O consulado não paga contas médicas, de hotel, de advogado ou de viagens, nem pode libertar ninguém da prisão: para as despesas, conta o seu seguro.",
+    "Num país sem representação portuguesa, pode pedir ajuda às embaixadas e consulados de outros Estados-Membros da UE.",
+    "Num acidente, a primeira chamada é local: 115 para a emergência médica e 113 para a polícia."
+  ],
+  "intro": [
+    "Quem aluga uma mota em Hanói espera uma viagem sem sobressaltos. Ainda assim, há problemas que ultrapassam a mota: um passaporte perdido, um internamento depois de uma queda, uma detenção. Nesses casos, convém saber a quem recorrer do lado português.",
+    "Este guia reúne o que foi possível confirmar em fontes oficiais portuguesas em outubro de 2026: o contacto de emergência consular, o ponto de situação da embaixada anunciada para Hanói e o que o apoio consular faz e não faz. Onde a informação não está confirmada, dizemo-lo."
+  ],
+  "sections": [
+    {
+      "h2": "O contacto confirmado: o Gabinete de Emergência Consular",
+      "body": [
+        "O Gabinete de Emergência Consular (GEC) é o serviço do Ministério dos Negócios Estrangeiros a que pode pedir apoio numa emergência no estrangeiro. Segundo o portal gov.pt, consultado em outubro de 2026, está disponível «24 horas por dia, 7 dias por semana». Os contactos publicados são estes:",
+        {
+          "table": {
+            "caption": "Contactos do Gabinete de Emergência Consular (gov.pt, outubro de 2026)",
+            "head": [
+              "Meio",
+              "Contacto"
+            ],
+            "rows": [
+              [
+                "Telefone",
+                "+351 217 929 714"
+              ],
+              [
+                "Telemóvel",
+                "+351 961 706 472"
+              ],
+              [
+                "E-mail",
+                "[gec@mne.pt](mailto:gec@mne.pt)"
+              ]
+            ]
+          }
+        },
+        "Segundo o gov.pt, pedir apoio ao GEC é gratuito, e o pedido pode ser feito por e-mail. Do Vietname, marque os números com o indicativo +351, tal como aparecem acima. Se a chamada não passar, por falta de rede ou de saldo, escreva para o e-mail com o essencial.",
+        {
+          "note": "O seu nome completo, o número do passaporte, o sítio onde está, um número de telefone em que lhe possam responder e uma descrição curta do que aconteceu. Se estiver num hospital, junte o nome da unidade tal como aparece na placa.",
+          "tone": "info",
+          "title": "O que ter à mão ao contactar o GEC"
+        },
+        "Guarde os três contactos no telemóvel e numa nota em papel. Antes de partir, volte a confirmá-los no gov.pt ou no Portal das Comunidades Portuguesas, que são os canais oficiais."
+      ]
+    },
+    {
+      "h2": "Embaixada de Portugal em Hanói: o que está confirmado",
+      "body": [
+        "A 26 de fevereiro de 2026, a agência Lusa noticiou que Portugal ia inaugurar na sexta-feira seguinte, 27 de fevereiro, uma embaixada no Vietname, em Hanói, chefiada por um diplomata de carreira. Segundo a mesma notícia, o Governo pretende que a embaixada acompanhe também as Filipinas e a Malásia.",
+        "Para este guia, não encontrámos numa fonte oficial a confirmação de que a embaixada abriu, nem a sua morada, telefone, horário ou serviços consulares. Por isso, não publicamos nenhum desses dados. Antes de viajar, procure «Vietname» no Portal das Comunidades Portuguesas ou no Portal Diplomático, os sites do Ministério dos Negócios Estrangeiros, ou pergunte ao GEC qual é a representação competente para quem está em Hanói.",
+        {
+          "h3": "Informação antiga que ainda circula"
+        },
+        "Quem procura um consulado português em Hanói encontra facilmente listas antigas ou sem data. Um diretório não oficial, por exemplo, refere um consulado honorário de Portugal na cidade de Ho Chi Minh, com atendimento por marcação. Não confirmámos que exista nem que serviços presta, e a cidade de Ho Chi Minh fica no sul do país, longe de Hanói.",
+        "Trate esse tipo de informação como uma pista a confirmar, nunca como um contacto de emergência. Numa urgência, o contacto certo é o GEC."
+      ]
+    },
+    {
+      "h2": "Em que situações o apoio consular pode ajudar",
+      "body": [
+        "Um folheto de 2020 da Câmara Municipal de Mêda reproduz as orientações para quem viaja e resume o que os postos consulares portugueses podem fazer. Para quem anda de mota no Vietname, estes são os casos que mais interessam:",
+        {
+          "table": {
+            "caption": "O que os postos consulares podem fazer, segundo as orientações de 2020",
+            "head": [
+              "Situação",
+              "O que podem fazer",
+              "O que fica de fora"
+            ],
+            "rows": [
+              [
+                "Passaporte perdido ou roubado",
+                "Emitir um documento de viagem provisório",
+                "Não é um documento de condução: não substitui a carta nem a licença internacional"
+              ],
+              [
+                "Acidente ou doença",
+                "Facilitar o contacto com hospitais",
+                "Não pagam as despesas médicas"
+              ],
+              [
+                "Detenção",
+                "Facilitar o contacto com advogados",
+                "Não podem libertar ninguém da prisão"
+              ]
+            ]
+          }
+        },
+        "Num acidente de mota com internamento, por exemplo, o apoio consular pode ajudar a estabelecer o contacto com o hospital. O tratamento é pago por si ou pela sua seguradora, se a apólice cobrir a condução de mota.",
+        "Se perder o passaporte, contacte o GEC e pergunte que passos se seguem até poder viajar. Na estrada, o que conta continua a ser a carta com a categoria certa e a licença internacional. Se também as perdeu, não conduza enquanto não tiver de novo os documentos: o guia sobre [conduzir sem carta válida](/guia-de-aluguer/conduzir-sem-carta-valida/) explica o que está em jogo."
+      ]
+    },
+    {
+      "h2": "O que o apoio consular não faz",
+      "body": [
+        "As mesmas orientações são claras quanto aos limites. Os postos consulares não podem:",
+        {
+          "ul": [
+            "libertar alguém da prisão;",
+            "pagar contas de hotel, de médico, de advogado ou de viagens, nem outras despesas."
+          ]
+        },
+        "Na prática, o apoio consular orienta e facilita contactos, mas não substitui um seguro de viagem. Antes de alugar, confirme se a sua apólice cobre acidentes a conduzir mota. O seguro obrigatório que acompanha a mota também não resolve esse problema, porque protege terceiros e não quem conduz, como explica o guia do [seguro obrigatório de mota](/guia-de-aluguer/seguro-obrigatorio-de-mota/).",
+        "As questões do aluguer, como danos na mota, caução, avarias ou atrasos, tratam-se com a loja, nos termos do [acordo de aluguer](/guia-de-aluguer/acordo-de-aluguer/)."
+      ]
+    },
+    {
+      "h2": "Sem representação portuguesa: embaixadas de outros países da UE",
+      "body": [
+        "Como cidadão da União Europeia, tem mais uma possibilidade. Segundo o mesmo folheto, num país onde Portugal não tenha representação, pode pedir ajuda às embaixadas e consulados de outros Estados-Membros da UE.",
+        "Enquanto a situação da embaixada em Hanói não estiver confirmada, convém tê-lo presente. Antes de se deslocar a uma embaixada de outro país, ligue ou escreva ao GEC e pergunte a quem deve recorrer. Evita, assim, atravessar a cidade sem necessidade."
+      ]
+    },
+    {
+      "h2": "Num acidente ou num roubo: a ordem dos contactos",
+      "body": [
+        "O GEC não substitui os serviços de emergência locais. Em Portugal, liga-se o 112; no Vietname, os números são outros e valem em todo o país: 113 para a polícia, 114 para os bombeiros e 115 para a emergência médica. As chamadas para estes números são gratuitas.",
+        {
+          "table": {
+            "caption": "A quem ligar primeiro em cada situação",
+            "head": [
+              "Situação",
+              "Primeiro",
+              "Depois"
+            ],
+            "rows": [
+              [
+                "Acidente com feridos",
+                "115 (emergência médica) e, se for preciso, 113 (polícia)",
+                "A seguradora; o GEC, se precisar de ajuda com o hospital; a loja, pelo {{phone}}"
+              ],
+              [
+                "Passaporte perdido ou roubado",
+                "O GEC",
+                "Siga as instruções do GEC sobre o documento de viagem provisório"
+              ],
+              [
+                "Detenção ou problema grave com as autoridades",
+                "O GEC",
+                "Um advogado; o apoio consular pode facilitar o contacto"
+              ],
+              [
+                "Mota avariada, danificada ou chave perdida",
+                "A loja, pelo {{phone}}",
+                "Os guias de [assistência na estrada](/guia-de-aluguer/assistencia-na-estrada/) e de [chave perdida](/guia-de-aluguer/perdi-a-chave/)"
+              ]
+            ]
+          }
+        },
+        "Junte estes números ao contacto da loja e ao da assistência do seu seguro numa só nota no telemóvel. Com alguém ferido ou com a mota parada na berma, não vai querer procurá-los."
+      ]
+    },
+    {
+      "h2": "Antes de partir: o que deixar preparado",
+      "body": [
+        {
+          "checklist": [
+            "Os contactos do GEC guardados no telemóvel e em papel.",
+            "A representação competente para o Vietname, confirmada no Portal das Comunidades Portuguesas, e os contactos da embaixada em Hanói, se já estiverem publicados.",
+            "O registo do viajante no Portal das Comunidades, recomendado no folheto de 2020: confirme como funciona hoje.",
+            "Cópias digitais do passaporte, da carta de condução e da Licença Internacional de Condução, guardadas num sítio diferente dos originais.",
+            "O número de assistência do seguro de viagem, depois de confirmar que a apólice cobre a condução de mota.",
+            "O número da loja, {{phone}}, e a morada em vietnamita, {{address.vi}}."
+          ]
+        },
+        "Os documentos que a lei e a loja pedem estão no guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/). O resto da preparação, do orçamento à devolução, está no [guia de aluguer passo a passo](/guia-de-aluguer/)."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Há embaixada ou consulado de Portugal em Hanói?",
+      "a": "Em fevereiro de 2026, a agência Lusa noticiou que Portugal ia inaugurar uma embaixada em Hanói. Para este guia, não confirmámos numa fonte oficial que já funciona nem os seus contactos, e não encontrámos um consulado na cidade. Confirme no Portal das Comunidades Portuguesas ou pergunte ao GEC."
+    },
+    {
+      "q": "O GEC atende fora do horário de expediente?",
+      "a": "Segundo o portal gov.pt, o Gabinete de Emergência Consular está disponível «24 horas por dia, 7 dias por semana». Pode ligar para o +351 217 929 714 ou para o +351 961 706 472, ou escrever para gec@mne.pt."
+    },
+    {
+      "q": "Pedir apoio consular custa dinheiro?",
+      "a": "Segundo o gov.pt, pedir apoio ao GEC é gratuito. Isso não significa que o Estado pague as despesas: hospital, hotel, advogado e viagens continuam a ser pagos por si ou pela sua seguradora, conforme a apólice."
+    },
+    {
+      "q": "Se tiver um acidente de mota, o consulado paga o hospital?",
+      "a": "Não. O apoio consular pode facilitar o contacto com o hospital, mas não paga contas médicas. Por isso, antes de alugar, confirme se o seguro de viagem cobre acidentes a conduzir mota e em que condições, e guarde o número de assistência da apólice."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Contactos de emergência consular",
+      "publisher": "gov.pt",
+      "url": "https://www2.gov.pt/-/contactos-de-emerg%C3%AAncia-consular-1",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "pt"
+    },
+    {
+      "title": "Pedir apoio em caso de emergência no estrangeiro",
+      "publisher": "gov.pt",
+      "url": "https://www2.gov.pt/en/servicos/pedir-apoio-em-caso-de-emergencia-no-estrangeiro",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "title": "Flyer Viagens ao estrangeiro versão 01.06.2020 final",
+      "publisher": "Câmara Municipal de Mêda",
+      "url": "https://cdn.cm-meda.pt/Documentos/Avisos-e-Editais/2020/Flyer_Viagens_ao_estrangeiro_versão_01.06.2020_final.pdf",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "pt"
+    },
+    {
+      "title": "Portugal inaugura na sexta-feira embaixada no Vietname",
+      "publisher": "Notícias ao Minuto (Lusa)",
+      "url": "https://www.noticiasaominuto.com/pais/2946093/portugal-inaugura-na-sexta-feira-embaixada-no-vietname",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "pt"
+    },
+    {
+      "title": "Portugal in Ho Chi Minh City",
+      "publisher": "consulate-info.com",
+      "url": "https://www.consulate-info.com/consulate/29922/Portugal-in-Ho-Chi-Minh-City",
+      "accessed": "2026-10-13",
+      "type": "reference",
+      "lang": "en"
+    },
+    {
+      "title": "Gọi đến các đầu số khẩn cấp như 113, 114, 115... thì có được miễn phí cước điện thoại hay không?",
+      "publisher": "Thư Viện Pháp Luật",
+      "url": "https://thuvienphapluat.vn/phap-luat/goi-den-cac-dau-so-khan-cap-nhu-113-114-115-thi-co-duoc-mien-phi-cuoc-dien-thoai-hay-khong-23081.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    }
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "PUBLISHED",
+  "date_published": "2026-10-13",
+  "date_modified": "2026-10-13",
+  "editorial": {
+    "qa_score": 100,
+    "qa_warnings": [],
+    "words": 1545,
+    "publish_mode": "review",
+    "approved_at": "2026-10-13",
+    "revisions": []
+  }
+}

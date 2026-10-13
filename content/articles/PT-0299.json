@@ -1,0 +1,265 @@
+{
+  "contract_version": 1,
+  "id": "PT-0299",
+  "slug": "ba-vi-de-mota",
+  "title": "Parque Nacional de Ba Vì de mota: saída de um dia desde Hanói",
+  "description": "Ba Vì fica a 50–60 km a oeste de Hanói, cerca de duas horas de mota. Veja estradas, bilhetes, estacionamento, o frio em altitude e o que pedir à loja.",
+  "h1": "Ba Vì de mota: como planear um dia no parque nacional",
+  "summary": "Ba Vì de mota é uma saída de um dia: o parque fica a cerca de 50 a 60 km a oeste do centro de Hanói e os guias apontam cerca de duas horas, por estradas de acesso estreitas. Parta cedo, leve uma camada extra para o frio da altitude e peça antes autorização à loja, que decide caso a caso.",
+  "key_points": [
+    "Ba Vì fica a 50–60 km a oeste do centro (as fontes divergem) e leva cerca de 2 horas de mota; saindo de Long Biên, some a travessia da cidade.",
+    "As estradas de acesso são estreitas, segundo os guias, e a loja decide caso a caso se aceita a saída: peça-a por escrito.",
+    "Os guias indicam estacionamento de motas nas cotas 400 e 1100, a 5 mil VND de dia; a tabela de bilhetes citada é de 2019 e deve ser confirmada à entrada.",
+    "Em altitude faz mais frio: numa vaga de frio, Ba Vì registou 7 °C quando o centro de Hanói tinha 12 °C.",
+    "Não encontrámos o regulamento do parque nem horários verificados: pergunte na bilheteira.",
+    "As motas não podem usar autoestradas: confirme no mapa que o percurso as evita."
+  ],
+  "intro": [
+    "Ba Vì é um parque nacional a oeste de Hanói, a menos de 60 km do centro, e surge nos guias vietnamitas como destino de um dia. Para quem aluga uma mota, a pergunta é prática: quanto tempo demora, que estradas se enfrentam, o que custa entrar e estacionar e o que levar.",
+    "Este guia responde com valores de guias comerciais vietnamitas consultados a 13 de outubro de 2026, que são de referência e devem ser confirmados no local. Onde não encontrámos factos verificados, dizemo-lo e indicamos o que perguntar."
+  ],
+  "sections": [
+    {
+      "h2": "Onde fica e quanto tempo demora",
+      "body": [
+        "Os guias vietnamitas dão distâncias diferentes: menos de 60 km, cerca de 50 km e cerca de 60 km a oeste do centro. A diferença deve vir do ponto de partida e do ponto do parque que se toma como destino. Para planear, use 60 km. De mota, os guias apontam cerca de 2 horas a partir do centro.",
+        "A loja fica em {{area}}, na margem leste do rio Vermelho, e os tempos dos guias contam a partir do centro: acrescente a travessia da cidade. Com cerca de 2 horas em cada sentido, são 4 horas ao guiador antes de pôr o pé no parque.",
+        {
+          "table": {
+            "caption": "Ba Vì em números (guias vietnamitas consultados a 13 de outubro de 2026)",
+            "head": [
+              "Dado",
+              "Valor de referência"
+            ],
+            "rows": [
+              [
+                "Distância ao centro de Hanói",
+                "Menos de 60 km, a oeste; os guias dão 50 a 60 km"
+              ],
+              [
+                "Tempo de mota",
+                "Cerca de 2 horas a partir do centro"
+              ],
+              [
+                "Estradas de acesso",
+                "Estreitas, adequadas a motas e a veículos pequenos"
+              ],
+              [
+                "Estacionamento de motas",
+                "5 mil VND por vez, de dia, nas cotas 400 e 1100; 8 mil VND à noite, na cota 400"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "h2": "Estradas, percurso e regras de trânsito",
+      "body": [
+        "Os guias descrevem estradas de acesso estreitas, adequadas a motas e a veículos pequenos. Não encontrámos um itinerário verificado nem dados sobre o piso, o trânsito pesado ou o nevoeiro em Ba Vì, por isso não os descrevemos. Estude o percurso no mapa na véspera e descarregue o mapa para usar sem rede.",
+        "Numa estrada de montanha, a subida é a parte fácil: a descida, com cansaço acumulado, pede mais aos travões. Desça devagar, sem travagens bruscas e sem ultrapassar curvas sem visibilidade.",
+        "As regras são as mesmas de Hanói. As motas não podem usar autoestradas: a polícia de trânsito de Hanói já multou motociclistas que entraram na autoestrada Đại lộ Thăng Long, e a coima nacional é de 4 a 6 milhões de VND, com perda de 6 pontos. Ative a opção de evitar autoestradas e veja no mapa se o seu percurso passa por alguma.",
+        "O capacete é obrigatório para quem conduz e para o passageiro, e deve ir apertado: a coima por não o usar é de 400 mil a 600 mil VND. O álcool está proibido ao volante, sem margem tolerada, como explica o guia sobre [álcool e condução](/guia-de-aluguer/alcool-zero-ao-volante/)."
+      ]
+    },
+    {
+      "h2": "Bilhetes e estacionamento: valores de referência",
+      "body": [
+        "Os guias citam uma tabela de bilhetes em vigor desde 25 de abril de 2019. Não confirmámos se continua em vigor em 2026: confirme na bilheteira.",
+        {
+          "table": {
+            "caption": "Bilhetes de entrada no Parque Nacional de Ba Vì (tabela de 25 de abril de 2019 citada pelos guias)",
+            "head": [
+              "Categoria",
+              "Bilhete"
+            ],
+            "rows": [
+              [
+                "Adultos",
+                "60 mil VND"
+              ],
+              [
+                "Idosos ou pessoas com deficiência",
+                "30 mil VND"
+              ],
+              [
+                "Estudantes universitários",
+                "20 mil VND"
+              ],
+              [
+                "Alunos",
+                "10 mil VND"
+              ]
+            ]
+          }
+        },
+        "O estacionamento de motas custa 5 mil VND por vez durante o dia, nas cotas 400 e 1100 (Cốt 400 e Cốt 1100), e à noite, na cota 400, 8 mil VND, segundo os guias. Não encontrámos a distância entre a entrada e a cota 1100: pergunte na bilheteira como se chega lá de mota. Guarde a senha do estacionamento e não deixe objetos de valor na mota.",
+        {
+          "note": "São valores de terceiros, sem data de atualização nos guias. O preço do aluguer da mota é outro assunto: a tabela de referência da loja está em [preços](/precos/).",
+          "tone": "info",
+          "title": "Confirme à chegada"
+        }
+      ]
+    },
+    {
+      "h2": "Frio, chuva e a época da flor dã quỳ",
+      "body": [
+        "Em altitude, faz mais frio do que no centro. Numa vaga de frio noticiada pelo VnExpress, Ba Vì registou 7 °C quando a estação de Láng, no centro de Hanói, tinha 12 °C. São valores medidos num abrigo meteorológico a cerca de 2 m do solo: ao ar livre, podem ser 2 a 3 °C mais baixos, e em andamento o vento aumenta a sensação de frio. A página consultada não mostra o ano.",
+        "O portal oficial de turismo do Vietname refere que o Norte pode ficar bastante frio de novembro a fevereiro. Leve uma camada extra, um corta-vento e luvas, e vista-os antes de arrancar, e não a meio da subida.",
+        "Quanto à chuva, o mesmo portal descreve junho a agosto como o auge da época das chuvas em Hanói, e aponta setembro a novembro como a melhor janela para o Norte, seguida de março a maio. Com chuva forte, veja [quando é melhor não conduzir](/rotas-e-mobilidade/quando-nao-conduzir/).",
+        "Há ainda a afluência. Uma notícia da Znews descreve Ba Vì sobrelotado com visitantes à procura da flor dã quỳ. O excerto não traz data nem o mês: se o seu plano coincidir com a época da flor, conte com mais gente e confirme as condições antes de partir."
+      ]
+    },
+    {
+      "h2": "Pedir autorização à loja e organizar o dia",
+      "body": [
+        "Ba Vì fica a 50 a 60 km do centro, fora do uso diário de uma mota de cidade: pergunte à loja se aceita a saída antes de partir. Este site não publica uma lista de destinos aceites e não garante nenhuma autorização; veja como pedir em [levar a mota alugada para fora de Hanói](/guia-de-aluguer/autorizacao-para-sair-de-hanoi/) e o que combinar para uma avaria em [avaria de mota fora de Hanói](/guia-de-aluguer/avaria-longe-de-hanoi/).",
+        "Um dia de aluguer custa de {{price.min.day}} a {{price.max.day}}, conforme o modelo, na tabela de referência da loja; o combustível e as entradas ficam à parte (veja os [custos além do preço](/precos/custos-alem-do-preco/)).",
+        "A hora também conta. Com cerca de 2 horas de ida e 2 de volta, levantar a mota à abertura, às {{opens}}, deixa-o a chegar ao parque duas horas depois, no mínimo, e a regressar com a luz a baixar. Pergunte se pode levantá-la na véspera, confirme como a loja conta o dia (veja a [hora de devolução da mota alugada](/precos/horas-de-levantamento-e-devolucao/)) e devolva-a com folga antes das {{closes}}.",
+        "Escolha uma mota que já saiba conduzir. Uma 50 cc não é pensada para saídas longas (veja as [motas de 50 cc](/tipos-de-motas/motas-50cc/)); numa estrada de montanha, a scooter automática é a opção mais simples, e a semiautomática só serve a quem domina as mudanças de pé."
+      ]
+    },
+    {
+      "h2": "O que não conseguimos confirmar",
+      "body": [
+        "Não encontrámos fontes verificadas sobre estes pontos. Pergunte-os na bilheteira ou à entrada:",
+        {
+          "checklist": [
+            "as regras internas do parque: vestuário, o que é proibido e onde se pode parar;",
+            "o horário de abertura e de encerramento;",
+            "a distância entre a entrada e a cota 1100 e o estado da estrada até lá;",
+            "se o bilhete e o estacionamento continuam iguais à tabela de 2019 e aos valores dos guias;",
+            "o nevoeiro: só encontrámos dados de nevoeiro em estradas de montanha do Noroeste, e não em Ba Vì."
+          ]
+        },
+        "Se o tempo ou as dúvidas não o convencerem, uma alternativa na cidade é o itinerário de [Hanói de mota num dia](/rotas-e-mobilidade/hanoi-de-mota-num-dia/). Mais ideias de saídas e de mobilidade estão em [rotas e mobilidade](/rotas-e-mobilidade/), e a loja responde pela página de [contactos](/contactos/)."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Quanto tempo demora de Hanói a Ba Vì de mota?",
+      "a": "Os guias vietnamitas apontam cerca de 2 horas a partir do centro, para menos de 60 km. Saindo da loja, em Long Biên, some a travessia da cidade, e some também as paragens: com a volta, são pelo menos 4 horas ao guiador, antes de entrar no parque."
+    },
+    {
+      "q": "Quanto custa entrar no Parque Nacional de Ba Vì?",
+      "a": "Uma tabela citada pelos guias, em vigor desde 25 de abril de 2019, dá 60 mil VND a adultos, 30 mil a idosos e pessoas com deficiência, 20 mil a estudantes universitários e 10 mil a alunos. Não confirmámos que continue em vigor: veja os valores na bilheteira."
+    },
+    {
+      "q": "Posso estacionar a mota dentro do parque?",
+      "a": "Os guias indicam estacionamento de motas nas cotas 400 e 1100, a 5 mil VND por vez durante o dia, e a 8 mil VND à noite na cota 400. Não encontrámos o regulamento do parque: pergunte na bilheteira como se chega à cota 1100 de mota."
+    },
+    {
+      "q": "Faz frio em Ba Vì?",
+      "a": "Pode fazer. Numa vaga de frio noticiada pelo VnExpress, Ba Vì registou 7 °C quando o centro de Hanói tinha 12 °C, em medições feitas num abrigo a cerca de 2 m do solo. Leve uma camada extra e um corta-vento, sobretudo de novembro a fevereiro."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Página sobre o Parque Nacional de Ba Vì (artigo em vietnamita)",
+      "publisher": "MIA.vn",
+      "url": "https://mia.vn/cam-nang-du-lich/vuon-quoc-gia-ba-vi-dia-diem-ly-tuong-cho-nhung-chuyen-da-ngoai-2678",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Guia de deslocação de Hanói a Ba Vì (artigo em vietnamita)",
+      "publisher": "MIA.vn",
+      "url": "https://mia.vn/cam-nang-du-lich/cach-di-chuyen-tu-ha-noi-den-ba-vi-vo-cung-de-dang-2846",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Página sobre o Parque Nacional de Ba Vì, em Hanói (artigo em vietnamita)",
+      "publisher": "Vinpearl",
+      "url": "https://vinpearl.com/vi/vuon-quoc-gia-ba-vi-ha-noi",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Página sobre o Parque Nacional de Ba Vì (artigo em vietnamita)",
+      "publisher": "Xanh SM (GSM)",
+      "url": "https://www.greensm.com/vn-vi/news/vuon-quoc-gia-ba-vi",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Notícia da Znews sobre a afluência a Ba Vì na época da flor dã quỳ (em vietnamita)",
+      "publisher": "Znews",
+      "url": "https://znews.vn/ba-vi-vo-tran-vi-khach-san-hoa-da-quy-post1511895.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Hà Nội rét nhất 7 độ C",
+      "publisher": "VnExpress",
+      "url": "https://vnexpress.net/ha-noi-ret-nhat-7-do-c-4549820.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Weather and climate in Vietnam",
+      "publisher": "Portal oficial de turismo do Vietname (vietnam.travel)",
+      "url": "https://vietnam.travel/things-to-do/weather-and-climate-vietnam",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "title": "7 amazing national parks in Vietnam",
+      "publisher": "Vietnam Tourism (vietnam.travel)",
+      "url": "https://vietnam.travel/things-to-do/7-amazing-national-parks-vietnam",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "title": "Autumn sonatas in Northern Vietnam",
+      "publisher": "Vietnam Tourism (vietnam.travel)",
+      "url": "https://vietnam.travel/things-to-do/autumn-sonatas-northern-vietnam",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "title": "Mức xử phạt năm 2026 đối với hành vi đi xe máy trên cao tốc?",
+      "publisher": "Thư Viện Pháp Luật",
+      "url": "https://thuvienphapluat.vn/ma-so-thue/phap-luat-thue/muc-xu-phat-nam-2026-doi-voi-hanh-vi-di-xe-may-tren-cao-toc-936922-220346.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "Notícia sobre a Polícia de Trânsito de Hanói a multar motociclistas que entraram numa autoestrada (em vietnamita)",
+      "publisher": "Đại biểu Nhân dân",
+      "url": "https://daibieunhandan.vn/canh-sat-giao-thong-ha-noi-xu-phat-nhieu-nguoi-dieu-khien-xe-may-di-vao-duong-cao-toc-10381692.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    "lawnet-capacete-168",
+    "lawnet-proibicoes-2024"
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "PUBLISHED",
+  "date_published": "2026-10-13",
+  "date_modified": "2026-10-13",
+  "editorial": {
+    "qa_score": 100,
+    "qa_warnings": [],
+    "words": 1542,
+    "publish_mode": "review",
+    "approved_at": "2026-10-13",
+    "revisions": []
+  }
+}

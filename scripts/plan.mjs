@@ -6,7 +6,7 @@
 //   node scripts/plan.mjs --stats   → print the distribution of topics
 // Authored fields (edit these by hand): working_title, slug, child_category, primary_keyword,
 // secondary_keywords, search_intent, funnel_stage, priority, content_brief, source_codes,
-// hold_reason, intent_reviewed. Everything else is recomputed.
+// hold_reason, intent_reviewed, guard_reviewed (collision guard reviewed by a person). Everything else is recomputed.
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
@@ -210,7 +210,7 @@ export function derivePlan(plan, { taxonomy, basePages, state, queueIds = new Se
   return { plan, errors };
 }
 
-const ORDER = ['id', 'order', 'working_title', 'slug', 'parent_category', 'child_category', 'primary_keyword', 'secondary_keywords', 'search_intent', 'funnel_stage', 'priority', 'target_url', 'pillar_url', 'content_brief', 'target_words', 'source_codes', 'source_requirements', 'internal_links_out', 'internal_links_in', 'cannibalization_risk', 'cannibalization_with', 'hold_reason', 'intent_reviewed', 'editorial_qa_status', 'metrics'];
+const ORDER = ['id', 'order', 'working_title', 'slug', 'parent_category', 'child_category', 'primary_keyword', 'secondary_keywords', 'search_intent', 'funnel_stage', 'priority', 'target_url', 'pillar_url', 'content_brief', 'target_words', 'source_codes', 'source_requirements', 'internal_links_out', 'internal_links_in', 'cannibalization_risk', 'cannibalization_with', 'hold_reason', 'intent_reviewed', 'guard_reviewed', 'editorial_qa_status', 'metrics'];
 const ordered = (t) => Object.fromEntries(ORDER.filter((k) => k in t).map((k) => [k, t[k]]));
 
 export function loadPlanContext() {

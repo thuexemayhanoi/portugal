@@ -1,0 +1,321 @@
+{
+  "contract_version": 1,
+  "id": "PT-0252",
+  "slug": "templo-phu-tay-ho",
+  "title": "Templo Phủ Tây Hồ de mota: horário, dias cheios e parque",
+  "description": "O que os guias dizem sobre o templo Phủ Tây Hồ: horário, dias lunares de maior afluência, preço do parque de mota e o que confirmar antes de ir.",
+  "h1": "Visitar o templo Phủ Tây Hồ de mota: quando ir e onde deixar a mota",
+  "summary": "O templo Phủ Tây Hồ fica no n.º 52 da rua Đặng Thai Mai e, segundo guias vietnamitas, abre das 05:00 às 19:00 todos os dias. Enche-se no 1.º e no 15.º dia de cada mês lunar e no Tết; o parque custa 5 a 10 mil VND por vez, valor a confirmar antes de deixar a mota.",
+  "key_points": [
+    "Morada e horário segundo guias comerciais: 52 Đặng Thai Mai, das 05:00 às 19:00 todos os dias. Não são fonte oficial, por isso confirme no local.",
+    "Dias de maior afluência: o 1.º e o 15.º dia do mês lunar e o Tết, que em 2027 cai no sábado, 6 de fevereiro.",
+    "O fecho às 19:00 é sempre depois do pôr do sol: chegue a meio da tarde para regressar com luz.",
+    "Parque de mota: 5 a 10 mil VND por vez, segundo os guias. Pergunte o preço antes, confira o talão e não use o passeio.",
+    "Vestuário, entrada e sentido das ruas à volta do templo não constam dos guias consultados: confirme à chegada."
+  ],
+  "intro": [
+    "O Phủ Tây Hồ é um templo junto ao Lago Oeste, no n.º 52 da rua Đặng Thai Mai, e aparece como paragem habitual em quem dá a volta ao lago. A visita pode correr mal por razões alheias ao templo. Há quem chegue num dia lunar em que a rua está cheia, deixe a mota num parque sem saber o preço ou descubra ao sair que já é noite e que o regresso a Long Biên se faz no escuro.",
+    "Este guia trata só do templo: horário, dias de maior afluência, estacionamento e comportamento. Os dados vêm de guias de viagem vietnamitas consultados a 13 de outubro de 2026 (MIA.vn, Vinpearl e VinWonders), que nem sempre coincidem e não são fontes oficiais. Onde há divergência, damos intervalos e dizemos o que confirmar no local. Para encaixar o templo num percurso mais largo, veja o itinerário [Hanói de mota num dia](/rotas-e-mobilidade/hanoi-de-mota-num-dia/) e a página de [Zonas de Hanói](/zonas-de-hanoi/)."
+  ],
+  "sections": [
+    {
+      "h2": "O essencial: morada, horário e estacionamento",
+      "body": [
+        "O quadro resume o que os guias dizem sobre o templo e, na coluna da direita, o que deve confirmar antes ou à chegada.",
+        {
+          "table": {
+            "caption": "Phủ Tây Hồ: dados dos guias e o que confirmar",
+            "head": [
+              "Tema",
+              "O que dizem os guias",
+              "O que confirmar"
+            ],
+            "rows": [
+              [
+                "Morada",
+                "52 Đặng Thai Mai",
+                "Os guias usam a divisão administrativa anterior a 1 de julho de 2025 (phường Quảng An, quận Tây Hồ). Marque o ponto no mapa e confirme a designação atual."
+              ],
+              [
+                "Horário",
+                "05:00–19:00, todos os dias",
+                "Num dos guias, nos dias de festa o templo fecha mais tarde. Não conte com isso sem perguntar."
+              ],
+              [
+                "Dias cheios",
+                "1.º e 15.º dia de cada mês lunar; Tết",
+                "A data solar de cada dia, num calendário lunar vietnamita (lịch âm)."
+              ],
+              [
+                "Entrada",
+                "Sem preço nos guias consultados",
+                "Se há bilhete ou outra cobrança, à porta."
+              ],
+              [
+                "Parque de mota",
+                "5 a 10 mil VND por vez; um guia fala de um parque à porta a 5 mil VND",
+                "O preço antes de deixar a mota e a forma de pagamento."
+              ],
+              [
+                "Vestuário",
+                "Não consta nos guias consultados",
+                "As indicações do templo ao chegar."
+              ]
+            ]
+          }
+        },
+        "Os valores são os dos guias, e não os de uma tabela oficial. Quanto ao horário, a abertura às 05:00 só interessa a quem chega por outros meios: a loja de aluguer abre {{hours}}."
+      ]
+    },
+    {
+      "h2": "Quando ir: hora do dia, dias lunares e Tết",
+      "body": [
+        "O templo fecha às 19:00, segundo os guias. Em Hanói, o pôr do sol cai entre cerca das 17:17, em dezembro, e das 18:40, em junho, segundo tabelas de 2026. O fecho é, por isso, sempre depois do pôr do sol: quem sai à hora de fecho regressa de noite, no trânsito do fim da tarde. Chegar a meio da tarde dá margem para a visita e para voltar ainda com luz.",
+        "Quem levanta a mota na loja só a tem a partir das {{opens}}. A janela prática para a visita fica, assim, entre o fim da manhã e o meio da tarde, com a devolução prevista antes das {{closes}}.",
+        {
+          "h3": "Os dias em que o templo enche"
+        },
+        "Segundo os guias, há grande afluência no 1.º e no 15.º dia de cada mês lunar e no Tết. O Tết de 2027 é no sábado, 6 de fevereiro, com a véspera na sexta-feira, 5 de fevereiro, segundo a Thư Viện Pháp Luật. Um dos guias aponta ainda o 3.º e o 18.º dia do 3.º mês lunar como os dias de festa principais, com encerramento mais tarde; é uma fonte única, por isso trate-a como pista e não como certeza.",
+        "Para quem conduz, um dia cheio quer dizer mais tempo à procura de lugar para a mota e ruas mais apertadas. Uma notícia sobre os dias que antecedem o Tết descreve a rua Âu Cơ, uma das vias que acompanham o lago, congestionada durante todo o dia; a notícia não indica o ano, por isso use-a como aviso e não como previsão.",
+        "Se puder escolher, evite o 1.º e o 15.º dia lunar e as vésperas do Tết. Se quiser mesmo ver o templo num desses dias, vá com paciência e sem horário apertado."
+      ]
+    },
+    {
+      "h2": "Chegar de mota a partir de Long Biên",
+      "body": [
+        "A loja fica em {{area}}, na margem leste do rio Vermelho, e o templo fica em Tây Hồ: o trajeto passa por uma das pontes. As pontes mudam de regime com alguma frequência; a Long Biên, por exemplo, teve fechos para reparações em 2026, como explica o guia da [ponte Long Biên](/zonas-de-hanoi/ponte-long-bien/).",
+        "Não propomos aqui um percurso rua a rua. As fontes que reunimos descrevem a morada do templo, mas não o acesso por estrada nem dizem se a rua Đặng Thai Mai tem sentido único, e preferimos não inventar. Use antes um método simples:",
+        {
+          "steps": [
+            {
+              "title": "Marque o destino",
+              "text": "Procure «52 Đặng Thai Mai» no mapa e escolha o modo mota. Descarregue o mapa para o usar sem rede."
+            },
+            {
+              "title": "Veja a ponte",
+              "text": "Confirme que a ponte proposta está aberta a motas no dia. Se estiver fechada, o mapa deve propor outra; compare as duas."
+            },
+            {
+              "title": "Meça à hora a que vai sair",
+              "text": "O tempo de viagem muda muito com a hora. Vale a pena ver a estimativa do mapa para as 10:00 e para as 17:00, e não só para a hora atual."
+            },
+            {
+              "title": "Perto do templo, abrande",
+              "text": "Em dias cheios há muita gente a pé. Siga os sinais, não suba ao passeio e deixe a mota num parque."
+            }
+          ]
+        },
+        "O guia de [quando não conduzir em Hanói](/rotas-e-mobilidade/quando-nao-conduzir/) ajuda a decidir se o dia, a chuva ou o cansaço justificam ir de táxi."
+      ]
+    },
+    {
+      "h2": "Estacionar: preço, talão e cobranças acima do preço",
+      "body": [
+        "Os guias dão valores próximos para o parque do templo: 5 a 10 mil VND por vez, e um deles refere um parque mesmo à porta a 5 mil VND por vez. A diferença pode vir do parque, da hora ou do dia, mas não sabemos qual. Em Hanói, os preços de guarda de motas têm tetos fixados pela Decisão 44/2017/QĐ-UBND, em vigor desde 1 de janeiro de 2018. Os tetos variam com a zona, com o período do dia e com a modalidade (por vez ou por mês). Não confirmámos os montantes atuais, por isso trate os dos guias como referência.",
+        {
+          "steps": [
+            {
+              "title": "Escolha um parque com funcionário",
+              "text": "Em vietnamita, «bãi giữ xe» ou «gửi xe». O funcionário dá um talão (vé xe) à entrada e pede-o à saída."
+            },
+            {
+              "title": "Pergunte o preço antes",
+              "text": "Uma frase chega: «Gửi xe bao nhiêu tiền?», que quer dizer «Quanto custa guardar a mota?»."
+            },
+            {
+              "title": "Confira o talão",
+              "text": "A imprensa vietnamita tem noticiado parques que cobram acima do preço impresso à volta do Tết. Se o valor pedido não bate com o do talão, pergunte com calma."
+            },
+            {
+              "title": "Fotografe",
+              "text": "O talão, a mota e a entrada do parque. Ao fim de uma visita, os parques parecem todos iguais."
+            },
+            {
+              "title": "Pergunte como se paga",
+              "text": "Em março de 2024, a imprensa noticiou que Hanói pediu a introdução de cobrança sem numerário nos parques. Leve dinheiro trocado, mas confirme se o parque aceita pagamento eletrónico."
+            }
+          ]
+        },
+        "Não use o passeio para poupar o preço do parque. O Decreto 168/2024/NĐ-CP prevê uma coima de 400 a 600 mil VND por estacionar a mota sem autorização no passeio ou na faixa de rodagem, e de 4 a 6 milhões de VND por circular no passeio. Em dias de grande afluência a tentação de chegar mais perto da porta é maior; não ceda.",
+        "Leve o capacete consigo, ou pergunte se o parque o guarda, e não deixe objetos de valor na mota. Para o que fazer se encontrar a mota danificada à volta, veja [mota alugada danificada no estacionamento](/guia-de-aluguer/mota-danificada-estacionada/)."
+      ]
+    },
+    {
+      "h2": "Vestuário e comportamento: o que os guias não dizem",
+      "body": [
+        "Nenhum dos guias que reunimos indica regras de vestuário para o Phủ Tây Hồ, e não encontrámos aviso oficial. O que sabemos é que um deles o descreve como um lugar sagrado no coração da capital; é o que diz o título do artigo da VinWonders.",
+        "Por prudência, vá vestido como iria a qualquer templo: ombros e joelhos cobertos. É uma sugestão nossa e não uma regra confirmada, por isso, se alguém do templo indicar outra coisa, siga o que indicar.",
+        "Pergunte também, antes de tirar fotografias, se são permitidas no interior. Nos dias de maior afluência, fale baixo, não pare à entrada para fotografar e deixe passar quem vai rezar."
+      ]
+    },
+    {
+      "h2": "Antes de arrancar: lista de verificação",
+      "body": [
+        {
+          "checklist": [
+            "Data escolhida fora do 1.º e do 15.º dia lunar, se possível, e hora de chegada anterior às 17:00.",
+            "Morada «52 Đặng Thai Mai» marcada no mapa, em modo mota e com o mapa descarregado.",
+            "Ponte do percurso confirmada para o dia, com um plano B.",
+            "Dinheiro trocado em notas pequenas para o parque.",
+            "Capacete apertado, nada de valor deixado na mota e talão fotografado.",
+            "Carta de condução e documentos da mota consigo; o guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/) explica o que levar.",
+            "Número da loja guardado no telemóvel: {{phone}}."
+          ]
+        },
+        "Se tiver dúvidas sobre a mota ou sobre o aluguer, a página de [contactos](/contactos/) reúne as formas de falar com a loja. Outras zonas e paragens vão sendo reunidas em [Zonas de Hanói](/zonas-de-hanoi/)."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "O templo Phủ Tây Hồ está aberto todos os dias?",
+      "a": "Segundo os guias consultados, abre das 05:00 às 19:00 todos os dias, e num deles fecha mais tarde nos dias de festa. Os guias comerciais podem estar desatualizados, por isso confirme no local, sobretudo se a visita calhar num feriado."
+    },
+    {
+      "q": "Quanto custa estacionar a mota no templo?",
+      "a": "Os guias indicam 5 a 10 mil VND por vez, e um deles fala de um parque à porta a 5 mil VND. Pergunte o preço antes de deixar a mota, confira o talão e leve dinheiro trocado."
+    },
+    {
+      "q": "Há bilhete de entrada no templo?",
+      "a": "Os guias reunidos para este artigo não indicam preço de entrada, por isso não podemos confirmar se existe. Pergunte à porta antes de pagar qualquer valor."
+    },
+    {
+      "q": "Quando evitar as multidões no templo?",
+      "a": "Evite o 1.º e o 15.º dia do mês lunar e o Tết (6 de fevereiro de 2027), que os guias apontam como os dias de maior afluência. Fora desses dias, não temos dados fiáveis sobre as horas mais calmas e não vamos inventá-las."
+    },
+    {
+      "q": "Posso juntar o templo e o pagode Trấn Quốc no mesmo passeio?",
+      "a": "Pode, porque ambos ficam junto ao Lago Oeste, mas os horários diferem. Segundo os guias, o pagode Trấn Quốc abre das 08:00 às 16:00 (das 06:00 às 18:00 no 1.º e no 15.º dia lunar) e o templo até às 19:00. Comece pelo pagode e deixe o templo para o fim da tarde."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Guia do templo Phủ Tây Hồ (em vietnamita)",
+      "publisher": "MIA.vn",
+      "url": "https://mia.vn/cam-nang-du-lich/phu-tay-ho-13093",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Đôi nét về Phủ Tây Hồ – chốn thiêng giữa lòng Thủ đô",
+      "publisher": "VinWonders",
+      "url": "https://vinwonders.com/vi/wonderpedia/news/phu-tay-ho-ha-noi/",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Guia do templo Phủ Tây Hồ, em Hanói (em vietnamita)",
+      "publisher": "Vinpearl",
+      "url": "https://vinpearl.com/vi/phu-tay-ho-ha-noi",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Visita ao pagode Trấn Quốc, junto ao Lago Oeste (em vietnamita)",
+      "publisher": "MIA.vn",
+      "url": "https://mia.vn/cam-nang-du-lich/tham-quan-chua-tran-quoc-co-tu-ngan-nam-tuoi-ben-ho-tay-2644",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Guia do pagode Trấn Quốc, em Hanói (em vietnamita)",
+      "publisher": "Vinpearl",
+      "url": "https://vinpearl.com/vi/chua-tran-quoc-ha-noi",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Tết âm lịch 2027 là ngày mấy dương lịch?",
+      "publisher": "Thư Viện Pháp Luật",
+      "url": "https://thuvienphapluat.vn/hoi-dap-phap-luat/tet-am-lich-2027-la-ngay-may-duong-lich-138050948.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "Đường phố Hà Nội kẹt cứng ngày giáp Tết",
+      "publisher": "Báo Mới",
+      "url": "https://baomoi.com/duong-pho-ha-noi-ket-cung-ngay-giap-tet-c41618164.epi",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Quyết định 44/2017/QĐ-UBND về giá dịch vụ trông giữ xe đạp, xe máy, xe ô tô trên địa bàn thành phố Hà Nội",
+      "publisher": "caselaw.vn",
+      "url": "https://caselaw.vn/van-ban-phap-luat/305048-quyet-dinh-44-2017-qd-ubnd-ve-gia-dich-vu-trong-giu-xe-dap-xe-may-xe-o-to-tren-dia-ban-thanh-pho-ha-noi",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "Bãi gửi xe 'chặt chém' khách sắm Tết",
+      "publisher": "VnExpress",
+      "url": "https://vnexpress.net/bai-gui-xe-chat-chem-khach-sam-tet-2155346.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Bắt chẹt khách gửi xe ngày Tết",
+      "publisher": "VnExpress",
+      "url": "https://vnexpress.net/bat-chet-khach-gui-xe-ngay-tet-2079064.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Notícia sobre o pedido de Hanói para cobrar o estacionamento sem numerário (em vietnamita)",
+      "publisher": "Tạp chí Luật sư Việt Nam (LSVN)",
+      "url": "https://lsvn.vn/ha-noi-yeu-cau-trien-khai-cong-nghe-thu-phi-gui-xe-khong-thu-tien-mat-1711593390-a142215.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Mức phạt đỗ xe máy, đi xe máy trên vỉa hè năm 2026 là bao nhiêu?",
+      "publisher": "Thư Viện Pháp Luật",
+      "url": "https://thuvienphapluat.vn/phap-luat-nha-dat/muc-phat-do-xe-may-di-xe-may-tren-via-he-nam-2026-la-bao-nhieu-14552.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "Điều khiển xe máy vượt đèn đỏ, đi trên vỉa hè bị phạt từ 4-6 triệu đồng",
+      "publisher": "Portal de divulgação jurídica da cidade de Cần Thơ (pbgdpl.cantho.gov.vn)",
+      "url": "https://pbgdpl.cantho.gov.vn/dieu-khien-xe-may-vuot-den-do-di-tren-via-he-bi-phat-tu-4-6-trieu-dong",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "vi"
+    },
+    {
+      "title": "Horas do nascer e do pôr do sol em Hanói (tabela de 2026)",
+      "publisher": "Alpenglow",
+      "url": "https://www.alpenglowapp.com/times/hanoi",
+      "accessed": "2026-10-13",
+      "type": "reference",
+      "lang": "en"
+    }
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "PUBLISHED",
+  "date_published": "2026-10-13",
+  "date_modified": "2026-10-13",
+  "editorial": {
+    "qa_score": 100,
+    "qa_warnings": [],
+    "words": 1904,
+    "publish_mode": "review",
+    "approved_at": "2026-10-13",
+    "revisions": []
+  }
+}

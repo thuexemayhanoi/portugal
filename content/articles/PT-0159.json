@@ -5,12 +5,12 @@
   "title": "Álcool e condução no Vietname: a regra do zero para motas",
   "description": "Desde 2025, a lei vietnamita não admite álcool a quem conduz. O que diz a regra, a quem se aplica, o que se sabe das coimas e como planear as noites.",
   "h1": "Álcool zero ao guiador: o que a lei vietnamita de 2024 proíbe e como organizar as saídas à noite",
-  "summary": "No Vietname, quem conduz uma mota não pode ter qualquer concentração de álcool no sangue ou no ar expirado: a proibição consta da Lei n.º 36/2024/QH15, em vigor desde 1 de janeiro de 2025, e vale para scooters, motas de 50 cc e elétricas. Não há margem tolerada. Os montantes das coimas não constam das fontes consultadas para este guia.",
+  "summary": "No Vietname, quem conduz uma mota não pode ter qualquer concentração de álcool no sangue ou no ar expirado: a proibição consta da Lei n.º 36/2024/QH15, em vigor desde 1 de janeiro de 2025, e vale para scooters, motas de 50 cc e elétricas. Não há margem tolerada. As coimas para quem conduz uma mota vão de 2 a 10 milhões de VND, consoante a concentração, segundo o Decreto 168/2024/NĐ-CP.",
   "key_points": [
     "Limite zero: desde 1 de janeiro de 2025, a lei proíbe conduzir com qualquer concentração de álcool no sangue ou no ar expirado.",
     "Vale para qualquer mota — scooter, semiautomática, 50 cc ou elétrica — e para quem conduz com carta estrangeira.",
     "Conta o álcool que ainda tem no organismo quando pega na mota, também na manhã seguinte a uma noite longa.",
-    "As coimas de trânsito estão no Decreto 168/2024/NĐ-CP; os valores para o álcool não constam das fontes consultadas, por isso confirme-os numa fonte oficial.",
+    "As coimas para quem conduz uma mota com álcool vão de 2 a 10 milhões de VND, consoante a concentração, e podem incluir perda de pontos ou inibição de conduzir (Decreto 168/2024/NĐ-CP, montantes nacionais).",
     "Se vai beber, decida antes de sair: a mota fica no alojamento e o regresso faz-se de táxi ou de mota com condutor."
   ],
   "intro": [
@@ -80,8 +80,42 @@
     {
       "h2": "Coimas e outras consequências: o que se sabe",
       "body": [
-        "As coimas de trânsito estão fixadas no Decreto 168/2024/NĐ-CP, em vigor desde 1 de janeiro de 2025, e aplicam-se a quem conduz, também numa mota alugada. Os montantes previstos para a condução com álcool não constam das fontes consultadas para este guia. Não os apresentamos, para não lhe dar números que não conseguimos confirmar.",
-        "O mesmo vale para eventuais sanções acessórias, como a retenção da mota ou da carta: as fontes consultadas não as descrevem.",
+        "As coimas de trânsito estão fixadas no Decreto 168/2024/NĐ-CP, em vigor desde 1 de janeiro de 2025, e aplicam-se a quem conduz, também numa mota alugada. Para o álcool, dependem da concentração medida. A tabela mostra os escalões para as motas, segundo bases de dados jurídicas vietnamitas consultadas a 13 de outubro de 2026.",
+        {
+          "table": {
+            "caption": "Coimas por álcool para quem conduz uma mota, nível nacional (Decreto 168/2024)",
+            "head": [
+              "Concentração",
+              "Coima",
+              "Outras consequências"
+            ],
+            "rows": [
+              [
+                "Até 50 mg/100 ml de sangue, ou até 0,25 mg/l de ar expirado",
+                "2 a 3 milhões de VND",
+                "Perda de 4 pontos"
+              ],
+              [
+                "De 50 a 80 mg/100 ml de sangue, ou de 0,25 a 0,4 mg/l de ar expirado",
+                "6 a 8 milhões de VND",
+                "Perda de 10 pontos"
+              ],
+              [
+                "Mais de 80 mg/100 ml de sangue, ou mais de 0,4 mg/l de ar expirado",
+                "8 a 10 milhões de VND",
+                "Inibição de conduzir de 22 a 24 meses"
+              ]
+            ]
+          }
+        },
+        "O primeiro escalão começa acima de zero: não há um valor abaixo do qual conduzir seja admitido. Três cautelas:",
+        {
+          "ul": [
+            "**Montantes nacionais.** Desde 1 de julho de 2026, uma resolução de Hanói multiplica por 1,5 ou por 2 as coimas nacionais de 28 infrações de ordem pública e de trânsito. As fontes consultadas não dizem se a do álcool é uma delas.",
+            "**Automóveis não são motas.** Os escalões para automóveis são muito mais altos. Desconfie de tabelas que misturam os dois.",
+            "**Pontos e carta estrangeira.** Os pontos e a inibição descrevem a carta vietnamita. As fontes consultadas não dizem como se aplicam a uma carta estrangeira, nem descrevem outras sanções acessórias, como a retenção da mota."
+          ]
+        },
         {
           "note": "Se encontrar uma tabela de coimas por álcool num blogue ou num grupo de viagem, veja a data e a fonte. Um texto anterior a 2025 pode estar desatualizado, porque a lei e o decreto atuais entraram em vigor a 1 de janeiro desse ano. Para um valor fiável, procure-o numa base de dados jurídica vietnamita ou numa fonte oficial.",
           "tone": "warn",
@@ -155,7 +189,7 @@
   "faq": [
     {
       "q": "Quanto é a coima por conduzir com álcool no Vietname?",
-      "a": "As fontes consultadas para este guia não indicam os montantes, por isso não os apresentamos. As coimas de trânsito constam do Decreto 168/2024/NĐ-CP, em vigor desde 1 de janeiro de 2025. Se precisar do valor, confirme-o numa base de dados jurídica vietnamita ou numa fonte oficial, e desconfie de tabelas sem data."
+      "a": "Para quem conduz uma mota, o Decreto 168/2024/NĐ-CP prevê 2 a 3 milhões de VND até 50 mg/100 ml de sangue (ou 0,25 mg/l de ar expirado). No escalão seguinte são 6 a 8 milhões e, acima de 80 mg/100 ml (ou 0,4 mg/l), 8 a 10 milhões, com perda de pontos ou inibição de conduzir. São montantes nacionais, segundo bases de dados jurídicas consultadas a 13 de outubro de 2026. Em Hanói, uma resolução de julho de 2026 agrava algumas coimas, e as fontes não dizem se esta é uma delas."
     },
     {
       "q": "A polícia faz testes de álcool a quem conduz mota?",
@@ -188,7 +222,32 @@
       "type": "official",
       "lang": "en"
     },
-    "vietnamnet-zbe-revisao"
+    "vietnamnet-zbe-revisao",
+    {
+      "title": "Mức phạt nồng độ cồn 2026 đối với người lái ô tô, xe máy (mới nhất)",
+      "publisher": "LuatVietnam",
+      "url": "https://luatvietnam.vn/giao-thong/muc-phat-nong-do-con-2025-doi-voi-nguoi-lai-o-to-xe-may-moi-nhat-863-100533-article.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "Mức phạt nồng độ cồn xe máy năm 2026 là bao nhiêu?",
+      "publisher": "Thư Viện Pháp Luật",
+      "url": "https://thuvienphapluat.vn/ma-so-thue/phap-luat-thue/muc-phat-nong-do-con-xe-may-nam-2026-la-bao-nhieu-859631-219577.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "Những lỗi vi phạm nồng độ cồn thường gặp và mức phạt mới nhất",
+      "publisher": "Báo Văn hóa",
+      "url": "https://baovanhoa.vn/doi-song/nhung-loi-vi-pham-nong-do-con-thuong-gap-va-muc-phat-moi-nhat-178875.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    "hanoi-resolucao-56-2026"
   ],
   "legal_note": true,
   "writer": {
@@ -201,13 +260,17 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1726,
+    "words": 1959,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
     "revisions": [
       {
         "date": "2026-10-13",
         "reason": "Ligações internas para artigos publicados depois"
+      },
+      {
+        "date": "2026-10-13",
+        "reason": "Acrescentar os escalões nacionais das coimas por álcool para motas (Decreto 168/2024), já confirmados em bases de dados jurídicas, e a ressalva da resolução de Hanói de julho de 2026."
       }
     ]
   }

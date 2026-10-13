@@ -1,0 +1,240 @@
+{
+  "contract_version": 1,
+  "id": "PT-0004",
+  "slug": "yamaha-mio-em-hanoi",
+  "title": "Yamaha Mio em Hanói: perfil, preço e o que confirmar na unidade",
+  "description": "Yamaha Mio para alugar em Hanói: o que se sabe do modelo, o que falta confirmar, o preço de referência por dia, semana e mês e a comparação com a Honda Click.",
+  "h1": "Alugar uma Yamaha Mio em Hanói: o que sabemos do modelo e o que perguntar à loja",
+  "summary": "A Yamaha Mio é uma scooter automática de pequena cilindrada que, na tabela de referência da loja, custa {{price.mio.day}} por dia: {{cmp.mio.click.day}} a Honda Click e {{cmp.mio.vision.day}} a Honda Vision. É um modelo com muitos anos no Vietname e poucos dados técnicos verificáveis, por isso o ano, a cilindrada e o estado da unidade confirmam-se na loja.",
+  "key_points": [
+    "Preço de referência: {{price.mio.day}} por dia, {{price.mio.week}} por semana e {{price.mio.month}} por mês; ao dia, custa {{cmp.mio.click.day}} a Honda Click.",
+    "A Mio foi lançada no Vietname em 2006 e, segundo um blogue de motas, a linha quase desapareceu do mercado: uma Mio de aluguer pode ter muitos anos.",
+    "Uma fonte de imprensa dá 115 cm³ e arrefecimento a ar às primeiras versões. Da Mio vendida no Vietname não encontrámos ficha do fabricante com assento, peso, depósito ou consumo.",
+    "Com o mesmo preço da Click, a escolha entre as duas decide-se a experimentar: estado da unidade, cilindrada do registo e conforto sentado.",
+    "Antes de reservar, peça à loja o ano, a cilindrada que consta do registo e o estado da unidade."
+  ],
+  "intro": [
+    "Na tabela da loja, a Yamaha Mio custa {{price.mio.day}} por dia, {{cmp.mio.click.day}} a Honda Click e {{cmp.mio.vision.day}} a Honda Vision. Quem a procura pelo nome pode não saber bem o que esperar, e a resposta honesta tem duas partes: o preço e a história do modelo estão claros, mas faltam fichas técnicas do fabricante para a Mio vendida no Vietname.",
+    "Este guia diz o que se sabe do modelo, o que não conseguimos confirmar, quanto custa, como se compara com a Click e o que perguntar e verificar antes de aceitar a unidade. Se quer conhecer a rival direta da Mio, o guia da [Honda Click](/tipos-de-motas/honda-click-em-hanoi/) descreve-a."
+  ],
+  "sections": [
+    {
+      "h2": "O que se sabe da Yamaha Mio no Vietname",
+      "body": [
+        "A Yamaha lançou a Mio Classico no Vietname em outubro de 2006. A Mio Ultimo e a Mio Maximo vieram depois, por volta de 2007. Segundo a imprensa vietnamita, a Ultimo e a Maximo trouxeram apenas uma carroçaria nova: a parte técnica e o motor são os da Classico.",
+        "Uma fonte de imprensa atribui a estas primeiras versões um motor de 115 cm³ arrefecido a ar. É um dado de imprensa e de um blogue, e não de uma ficha do fabricante, e não confirma a cilindrada de uma unidade em particular. Segundo um blogue de um mercado de motas, a linha Mio quase desapareceu do mercado vietnamita depois da Ultimo e da Maximo.",
+        "Há duas consequências práticas. A primeira é que uma Mio de aluguer pode ser uma unidade com muitos anos: uma das primeiras séries, de 2006 ou 2007, tem hoje quase vinte anos. A segunda é que não sabemos que versão a loja tem, porque a tabela indica o modelo e não a geração.",
+        {
+          "note": "A idade não impede um bom aluguer, com a manutenção em dia, mas dá mais peso à verificação que faz na entrega. Pergunte o ano da unidade antes de reservar e fotografe a mota de todos os lados quando a receber.",
+          "tone": "info",
+          "title": "Ano e versão variam"
+        }
+      ]
+    },
+    {
+      "h2": "O que não conseguimos confirmar",
+      "body": [
+        "Para a Mio vendida no Vietname não encontrámos uma ficha da Yamaha com estes dados, e não os vamos estimar nem copiar de outros mercados, onde o mesmo nome pode designar motas diferentes:",
+        {
+          "ul": [
+            "a altura do assento e o peso;",
+            "a capacidade do depósito e o consumo;",
+            "o volume do compartimento debaixo do assento, ou seja, se cabe um capacete."
+          ]
+        },
+        "Isto não faz da Mio uma má escolha, apenas uma escolha que se decide com a mota à frente. Sente-se nela, com o calçado que vai usar, e veja se chega bem ao chão. Pergunte à loja quantos litros leva o depósito e quantos quilómetros faz com ele. O guia do [combustível no aluguer](/precos/combustivel-no-aluguer/) explica como combinar o nível de gasolina na entrega e na devolução.",
+        {
+          "h3": "Cilindrada e carta"
+        },
+        "Se a unidade for de cerca de 115 cm³, como indica a imprensa para as primeiras versões, fica abaixo do limite de 125 cm³ da categoria A1 vietnamita. O que conta, porém, é a cilindrada que consta do registo da unidade, e não o nome do modelo: peça à loja que lha mostre. A regra e os casos de cilindrada maior estão no guia [cilindrada e carta A1](/tipos-de-motas/cilindrada-e-carta-a1/)."
+      ]
+    },
+    {
+      "h2": "Preço de referência e duração do aluguer",
+      "body": [
+        "Na tabela de referência da loja, a Mio custa {{price.mio.day}} por dia, {{price.mio.week}} por semana e {{price.mio.month}} por mês. Ao dia, custa {{cmp.mio.click.day}} a Honda Click e {{cmp.mio.vision.day}} a Honda Vision, que custa {{price.vision.day}}. A Vision tem motor eSP de 110 cc, segundo a Honda, e ficha no site do fabricante, o que ajuda quem quer comparar números antes de decidir.",
+        {
+          "component": "price-table",
+          "category": "scooters-automaticas"
+        },
+        "Os valores referem-se só à mota. Peça à loja, à parte, o que não está na tabela, como a caução aplicável ao seu caso, o combustível e uma eventual entrega no alojamento.",
+        "Para estadias de vários dias, compare a tarifa semanal com os dias soltos. Na Mio, a semana custa o mesmo ou menos do que pagar ao dia a partir de {{price.mio.weekFrom}} dias, e a tabela seguinte faz a conta para cada scooter:",
+        {
+          "component": "duration-compare",
+          "category": "scooters-automaticas"
+        },
+        "Se só precisa da mota por um dia, o guia do [aluguer de mota por um dia](/precos/aluguer-de-mota-por-um-dia/) explica como se conta o período e que horários combinar."
+      ]
+    },
+    {
+      "h2": "Mio ou Click: o mesmo preço, duas scooters",
+      "body": [
+        "A Honda lançou a Click em 2006 como concorrente da Mio, e as duas continuam lado a lado na tabela da loja, ao mesmo preço de referência por dia. A tabela junta o pouco que as fontes permitem comparar, sempre para as primeiras versões de cada uma:",
+        {
+          "table": {
+            "caption": "Mio e Click nas primeiras versões vendidas no Vietname",
+            "head": [
+              "",
+              "Yamaha Mio",
+              "Honda Click"
+            ],
+            "rows": [
+              [
+                "Lançamento no Vietname",
+                "Classico, em outubro de 2006",
+                "2006, como rival da Mio"
+              ],
+              [
+                "Motor",
+                "115 cm³, arrefecido a ar (imprensa)",
+                "108 cm³, arrefecido a líquido, com carburador"
+              ],
+              [
+                "Preço de referência por dia",
+                "{{price.mio.day}}",
+                "{{price.click.day}}"
+              ],
+              [
+                "Assento, peso, depósito e consumo das unidades vendidas no Vietname",
+                "Não encontrados",
+                "Não encontrados"
+              ]
+            ]
+          }
+        },
+        "Há uma cautela do lado da Click: o nome cobre gerações muito diferentes, até às versões tailandesas de maior cilindrada, e o guia da [Honda Click](/tipos-de-motas/honda-click-em-hanoi/) explica como as distinguir. Não as confunda com os números da tabela, que são das primeiras versões.",
+        "Como o preço de referência é o mesmo, o preço não decide entre as duas. Contam o estado da unidade, a cilindrada do registo e o conforto sentado: experimente as duas, se a loja as tiver livres nas suas datas, e fique com a que lhe assentar melhor. Se nenhuma estiver livre, a outra é a alternativa natural."
+      ]
+    },
+    {
+      "h2": "Para quem faz sentido uma Mio",
+      "body": [
+        "A Mio é uma scooter automática de pequena cilindrada e custa {{cmp.mio.vision.day}} a Vision ao dia. Com o que se sabe dela, serve sobretudo quem:",
+        {
+          "ul": [
+            "se desloca entre bairros de Hanói, sozinho e com pouca bagagem;",
+            "quer uma scooter automática e prefere o preço de referência da Mio ao da Vision;",
+            "aceita uma mota com alguns anos e vai testá-la antes de a aceitar."
+          ]
+        },
+        "Já não é a escolha mais indicada para quem leva passageiro e bagagem com frequência, atravessa pontes com rampas compridas ou planeia saídas de um dia fora da cidade. Como as outras scooters de cerca de 110 cm³, não tem a folga de uma Air Blade, e o guia [Honda Vision ou Air Blade](/tipos-de-motas/honda-vision-ou-air-blade/) explica quando compensa subir de modelo.",
+        "Se nunca conduziu uma mota, nenhum modelo resolve a falta de experiência no trânsito de Hanói. Comece por ler o guia [nunca conduziu uma mota](/tipos-de-motas/nunca-conduziu-uma-mota/). Para a comparação de todas as scooters da loja, veja a página das [scooters automáticas](/tipos-de-motas/scooters/)."
+      ]
+    },
+    {
+      "h2": "O que verificar numa Mio com alguns anos",
+      "body": [
+        "Com a mota à sua frente, e antes de a aceitar, confirme estes pontos. Quanto mais velha a unidade, mais pesam:",
+        {
+          "checklist": [
+            "**Registo**: o ano de fabrico e a cilindrada que constam do documento da mota.",
+            "**Motor**: arranca sem insistência, mantém o ralenti sem falhas e responde ao acelerador sem esticões.",
+            "**Travões**: experimente cada manete a baixa velocidade, num espaço livre, antes de entrar no trânsito.",
+            "**Pneus**: relevo no piso e borracha sem fissuras nos flancos.",
+            "**Luzes**: farol, piscas, buzina e luz de travão, que deve acender com cada uma das manetes.",
+            "**Assento e carroçaria**: o assento abre, fecha e tranca, e não há peças soltas.",
+            "**Painel**: o indicador de combustível mexe com a ignição ligada, para poder registar o nível."
+          ]
+        },
+        "Fotografe a mota de todos os lados e o painel, e aponte qualquer dano antes de sair; o guia sobre [fotografar a mota](/guia-de-aluguer/fotografar-a-mota/) explica como, e o de [receber a mota](/guia-de-aluguer/receber-a-mota/) descreve a entrega passo a passo."
+      ]
+    },
+    {
+      "h2": "Como pedir uma Mio à loja",
+      "body": [
+        {
+          "steps": [
+            {
+              "title": "Diga as datas e a hora",
+              "text": "Indique quando quer levantar e devolver a mota. A loja está aberta {{hours}}."
+            },
+            {
+              "title": "Peça a Mio e pergunte pela unidade",
+              "text": "Pergunte o ano, a cilindrada que consta do registo e que alternativa existe, por exemplo a Click, se a Mio não estiver livre."
+            },
+            {
+              "title": "Confirme o total e as condições",
+              "text": "Peça o preço para o período exato, a caução aplicável ao seu caso e os documentos que deve levar."
+            },
+            {
+              "title": "Combine o levantamento",
+              "text": "A loja fica em {{address}}. Se for de táxi, mostre ao motorista a morada em vietnamita: {{address.vi}}."
+            }
+          ]
+        },
+        "Pode tratar de tudo pelo telefone ou Zalo {{phone}}. Os restantes dados da loja estão na página de [contactos](/contactos/), e a lista de [perguntas a fazer antes de alugar](/guia-de-aluguer/perguntas-antes-de-alugar/) ajuda a não esquecer nada."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "A Yamaha Mio é automática?",
+      "a": "Sim: na tabela da loja está entre as scooters automáticas, o que quer dizer que se conduz sem mudanças nem embraiagem. Na entrega, peça que lhe mostrem como funcionam o arranque, o descanso lateral e o assento."
+    },
+    {
+      "q": "Quanto custa alugar uma Yamaha Mio?",
+      "a": "Na tabela de referência, verificada a {{pricing.verifiedAt}}, custa {{price.mio.day}} por dia, {{price.mio.week}} por semana e {{price.mio.month}} por mês. A loja confirma o valor final, a disponibilidade e as condições para as suas datas."
+    },
+    {
+      "q": "A Mio é a mesma scooter que a Honda Click?",
+      "a": "Não. São scooters de marcas diferentes, lançadas no Vietname em 2006 como rivais, com o mesmo preço de referência na loja. Nas primeiras versões, o motor da Mio tinha 115 cm³ e arrefecimento a ar, segundo a imprensa, e o da Click 108 cm³ e arrefecimento a líquido."
+    },
+    {
+      "q": "Que carta é preciso para conduzir uma Mio?",
+      "a": "Se a cilindrada registada não passar de 125 cm³, a mota está na categoria A1 vietnamita. Peça à loja o registo da unidade para confirmar a cilindrada e veja o guia sobre cilindrada e carta A1; como visitante, confirme também os requisitos em vigor antes de viajar."
+    }
+  ],
+  "sources": [
+    "tabela-precos-proprietario",
+    {
+      "title": "Mio Maximo & Mio Ultimo: Câu chuyện cổ tích của Yamaha",
+      "publisher": "Báo Pháp luật Việt Nam",
+      "url": "https://baophapluat.vn/mio-maximo-mio-ultimo-cau-chuyen-co-tich-cua-yamaha-post4973.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Artigo sobre as versões da Yamaha Mio (em vietnamita)",
+      "publisher": "Chợ Tốt Xe (blogue)",
+      "url": "https://xe.chotot.com/kinh-nghiem/cac-phien-ban-xe-mio.html",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Honda Click",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Honda_Click",
+      "accessed": "2026-10-13",
+      "type": "reference",
+      "lang": "en"
+    },
+    {
+      "title": "Página do modelo Honda Vision no site da Honda Việt Nam",
+      "publisher": "Honda Việt Nam",
+      "url": "https://www.honda.com.vn/xe-may/san-pham/vision?category=2",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    "lei-36-2024-a1",
+    "lawnet-categorias-2025"
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "PUBLISHED",
+  "date_published": "2026-10-13",
+  "date_modified": "2026-10-13",
+  "editorial": {
+    "qa_score": 100,
+    "qa_warnings": [],
+    "words": 1745,
+    "publish_mode": "review",
+    "approved_at": "2026-10-13",
+    "revisions": []
+  }
+}

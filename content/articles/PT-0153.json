@@ -1,0 +1,245 @@
+{
+  "contract_version": 1,
+  "id": "PT-0153",
+  "slug": "pneus-e-pressao",
+  "title": "Pneus da mota: pressão, desgaste e sinais de alerta",
+  "description": "Como avaliar os pneus de uma mota alugada: a pressão que o fabricante recomenda, o piso, os sinais de um furo lento e o que pedir à loja antes de sair.",
+  "h1": "Pneus da mota alugada: o que verificar na pressão, no piso e nos primeiros sinais de furo",
+  "summary": "A pressão certa dos pneus de uma mota é a que o fabricante recomenda, medida com os pneus frios e ajustada à carga que vai levar. Este guia não indica valores, porque não os confirmámos para os modelos de aluguer: peça à loja o valor da sua mota, olhe para o piso e para os flancos dos dois pneus e confirme que nenhum parece achatado.",
+  "key_points": [
+    "A pressão é a do fabricante, medida a frio e ajustada à carga total; este guia não dá valores em bar, kPa ou psi porque não os confirmámos para os modelos de aluguer.",
+    "Peça à loja o valor da sua mota e onde está indicado (manual ou etiqueta); não use o de outra mota.",
+    "Olhe para o piso e para os flancos dos dois pneus: cortes, bolhas, objetos cravados ou zonas lisas são razões para pedir outro pneu ou outra mota.",
+    "Com chuva, os pneus aderem menos e as distâncias de paragem são pelo menos o dobro, segundo o Highway Code britânico.",
+    "Em andamento, uma direção «pesada» sugere o pneu da frente em baixo e uma traseira a oscilar sugere o de trás, segundo manuais oficiais dos EUA."
+  ],
+  "intro": [
+    "Na entrega de uma mota alugada, a atenção costuma ir para os riscos da carroçaria e para o painel; os pneus, que parecem todos iguais, ficam para o fim. São a única ligação entre a mota e o chão, e a pressão e o estado deles mudam ao longo do aluguer.",
+    "Este guia mostra o que pode verificar sem ferramentas e o que deve pedir à loja: a pressão, o piso e os sinais de um furo lento. Não traz tabelas de valores. A pressão é um dado do fabricante e, para os modelos de aluguer, não encontrámos uma fonte do fabricante que o indique; por isso o guia ensina a pedir o valor certo. O desgaste de meses está no guia sobre [desgaste normal ou dano](/precos/desgaste-normal-num-aluguer-longo/) e o processo completo no [guia de aluguer passo a passo](/guia-de-aluguer/)."
+  ],
+  "sections": [
+    {
+      "h2": "A pressão certa é a do fabricante",
+      "body": [
+        "Segundo duas fontes oficiais dos EUA sobre a inspeção de motas, a pressão mede-se com os pneus frios e ajusta-se à pressão recomendada pelo fabricante, tendo em conta a carga total. Uma é uma lista de verificação de uma base dos fuzileiros navais; a outra, um artigo do Comando de Ataque Global da Força Aérea. Um cartão de curso da Motorcycle Safety Foundation apresenta a T-CLOCS como um sistema de inspeção antes de conduzir, e é pelo piso e pela pressão dos pneus que essa verificação começa.",
+        "Na prática, isto dá três regras:",
+        {
+          "ol": [
+            "**O valor é o do fabricante para esse modelo.** Não copie o de outra mota nem o de um sítio da internet: um valor que serve a uma mota pode não servir à sua.",
+            "**Mede-se com os pneus frios**, isto é, antes de a mota rodar ou depois de algum tempo parada.",
+            "**Conta a carga.** Com passageiro ou bagagem, pergunte à loja se a pressão recomendada para a sua mota é outra."
+          ]
+        },
+        "Peça à loja o valor para a mota que vai levar e que lhe diga onde está indicado: no manual do proprietário do modelo ou, se existir, numa etiqueta na própria mota. A Honda Vietname disponibiliza em linha, em vietnamita, os manuais de vários modelos, como os da Vision e da Wave 110; não verificámos neles os valores dos modelos de aluguer, e as motas entregues podem ser de gerações anteriores às fichas atuais."
+      ]
+    },
+    {
+      "h2": "Medir e acertar a pressão",
+      "body": [
+        "A pressão só se conhece com um manómetro: a olho veem-se apenas diferenças grandes. A pergunta útil à loja é «a pressão destes pneus foi medida hoje, e com que valor?». Se a resposta for «não sei», peça que a meçam antes de sair.",
+        "Se a loja preferir que acerte a pressão por sua conta, pergunte onde o fazer: este guia não indica locais para calibrar pneus em Hanói porque não os confirmámos. Antes de mandar mexer num pneu numa oficina de rua, veja também o que convém combinar com a loja no guia sobre [furos e pequenas reparações](/precos/custo-de-furos-e-reparacoes/).",
+        "Depois de acertar a pressão, anote o valor, a data e o sítio, e envie uma mensagem à loja. Fica o registo de que a mota saiu com os pneus como o fabricante pede."
+      ]
+    },
+    {
+      "h2": "O piso e o estado do pneu: o que se vê em dois minutos",
+      "body": [
+        "Com a mota direita e parada, dê a volta aos dois pneus. Precisa de luz e de um minuto por pneu, não de ferramentas.",
+        {
+          "table": {
+            "caption": "O que olhar num pneu antes de sair",
+            "head": [
+              "O que olhar",
+              "O que procurar",
+              "O que fazer"
+            ],
+            "rows": [
+              [
+                "Piso",
+                "Sulcos visíveis em toda a largura do pneu; zonas lisas ou desgaste só de um lado",
+                "Pneu liso ou muito desigual: peça outro pneu ou outra mota"
+              ],
+              [
+                "Flancos",
+                "Cortes, fendas, bolhas ou deformações",
+                "Não saia; peça à loja que veja"
+              ],
+              [
+                "Objetos cravados",
+                "Pregos, parafusos, vidro ou pedras no piso",
+                "Não os retire; mostre-os à loja"
+              ],
+              [
+                "Jante",
+                "Amolgadelas ou deformações junto ao pneu",
+                "Mostre à loja e registe"
+              ],
+              [
+                "Aspeto geral",
+                "Um pneu que parece achatado junto ao chão",
+                "Peça que meçam a pressão antes de sair"
+              ]
+            ]
+          }
+        },
+        "Não indicamos a profundidade mínima legal do piso no Vietname, porque não a confirmámos. Sem esse número, o critério prático é o do bom senso: um pneu liso, cortado ou com bolhas não é um pneu para sair.",
+        "Para distinguir um piso gasto pelo uso de um dano, e perceber quem trata de cada caso, veja o guia sobre [desgaste normal ou dano](/precos/desgaste-normal-num-aluguer-longo/). Para o registo, fotografe de perto o piso de cada pneu, como na sequência de [fotografar a mota alugada](/guia-de-aluguer/fotografar-a-mota/)."
+      ]
+    },
+    {
+      "h2": "Chuva, carga e quedas: quando os pneus pedem mais cuidado",
+      "body": [
+        "Com chuva, os pneus têm menos aderência. O Highway Code do Reino Unido, na versão da Irlanda do Norte, diz que as distâncias de paragem em piso molhado são pelo menos o dobro das de piso seco e manda manter-se bem atrás do veículo da frente. É uma recomendação britânica, não uma regra vietnamita, mas mostra porque um pneu em mau estado pesa mais num dia de chuva. O guia sobre [quando é melhor não conduzir em Hanói](/rotas-e-mobilidade/quando-nao-conduzir/) inclui a chuva forte entre as situações em que a mota deve ficar parada.",
+        "Passageiro e bagagem aumentam a carga, e a recomendação do fabricante tem de a contar. Antes de sair a dois, pergunte à loja se a pressão da sua mota muda com passageiro.",
+        "Se a mota cair ou bater com força num buraco ou num lancil, repita a inspeção: procure cortes e bolhas nos flancos e uma jante amolgada."
+      ]
+    },
+    {
+      "h2": "Sinais de que um pneu está a perder ar",
+      "body": [
+        "Durante o aluguer, o sinal de um furo lento é um pneu que de manhã está mais em baixo do que à noite: avise a loja nesse dia. Em andamento, os manuais oficiais de condução do Oregon e da Geórgia descrevem dois sinais:",
+        {
+          "ul": [
+            "**Pneu da frente a esvaziar:** a direção fica «pesada».",
+            "**Pneu de trás a esvaziar:** a traseira pode começar a oscilar de um lado para o outro."
+          ]
+        },
+        "Os mesmos manuais indicam como reagir: segurar bem o guiador, aliviar o acelerador, manter a trajetória a direito, travar gradualmente com o travão da roda que não está vazia, se tiver a certeza de qual é, e encostar para parar. O manual de Saskatchewan (Canadá) acrescenta que, se for o pneu da frente, se deve deslocar o peso o mais para trás possível e, se for o de trás, manter a posição. Um guia de estudo de terceiros da Colúmbia Britânica avisa que travagens fortes podem fazer o pneu sair da jante e causar perda imediata de controlo.",
+        "Depois de parar, não continue a andar com o pneu vazio e contacte a loja pelo {{phone}}. A ajuda que existe na estrada está no guia de [assistência na estrada](/guia-de-aluguer/assistencia-na-estrada/), e o que fazer se encontrar a mota com um pneu em baixo depois da noite, no guia sobre [mota danificada no estacionamento](/guia-de-aluguer/mota-danificada-estacionada/)."
+      ]
+    },
+    {
+      "h2": "Antes de sair: os pneus numa lista",
+      "body": [
+        {
+          "checklist": [
+            "Perguntei à loja a pressão recomendada para esta mota e onde está indicada.",
+            "Sei se a pressão foi medida a frio e quando.",
+            "Olhei para o piso dos dois pneus: sulcos visíveis, sem zonas lisas.",
+            "Olhei para os flancos: sem cortes, fendas nem bolhas.",
+            "Não vi objetos cravados nem uma jante amolgada.",
+            "Fotografei de perto os dois pneus e enviei as imagens à loja.",
+            "Se vou levar passageiro ou bagagem, perguntei se a pressão muda."
+          ]
+        },
+        "Se algum ponto falhar, não saia sem a loja resolver. A {{brand}} está aberta {{hours}} e pode ser contactada pelo {{phone}} ou pela página de [contactos](/contactos/)."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Que pressão devem ter os pneus de uma Honda Vision ou de uma Wave?",
+      "a": "Este guia não publica valores porque não os confirmámos nos documentos do fabricante para os modelos de aluguer. O valor certo é o que o fabricante indica para a sua mota: peça-o à loja e peça que lhe mostre onde está indicado. Não use o de outra mota."
+    },
+    {
+      "q": "Quando se mede a pressão dos pneus?",
+      "a": "Com os pneus frios, segundo as listas de verificação consultadas: antes de a mota rodar ou depois de algum tempo parada. Ajuste-a à pressão recomendada pelo fabricante, tendo em conta a carga total, isto é, o condutor, o passageiro e a bagagem."
+    },
+    {
+      "q": "Posso encher o pneu num sítio qualquer da rua?",
+      "a": "Pergunte primeiro à loja. Ela pode preferir tratar disso ou dizer-lhe onde e com que valor. Este guia não confirmou locais para calibrar pneus em Hanói. Se acertar a pressão por sua conta, anote o valor e a data e avise a loja."
+    },
+    {
+      "q": "Como sei se tenho um furo lento?",
+      "a": "Um pneu que de manhã está mais em baixo do que à noite é um sinal para avisar a loja. Em andamento, a direção «pesada» aponta para o pneu da frente e a traseira a oscilar para o de trás, segundo manuais oficiais de condução dos EUA. Perante um destes sinais, pare em segurança antes de ver o que se passa."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Lista de verificação T-CLOCS para a inspeção de motas (PDF em inglês)",
+      "publisher": "Marine Corps Base Hawaii (Safety)",
+      "url": "https://www.mcbhawaii.marines.mil/Portals/114/WebDocuments/Safety/T-CLOCSChecklistMotorcycleInspection.pdf",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "title": "Artigo sobre a inspeção de segurança de motas (em inglês)",
+      "publisher": "Air Force Global Strike Command (EUA)",
+      "url": "https://www.afgsc.af.mil/News/Article-Display/Article/848986/motorcycle-safety-inspection/",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "title": "Cartões de curso da Motorcycle Safety Foundation (PDF em inglês)",
+      "publisher": "Cecil College (PDF com cartões de curso da MSF)",
+      "url": "https://www.cecil.edu/wp-content/uploads/abrc-course-cards.pdf",
+      "accessed": "2026-10-13",
+      "type": "reference",
+      "lang": "en"
+    },
+    {
+      "title": "Vision — Hướng dẫn sử dụng (manual do utilizador, PDF em vietnamita)",
+      "publisher": "Honda Việt Nam",
+      "url": "https://cdn.honda.com.vn/motorbike-manual/September2025/vax6VIxISbzWmEpEfkZX.pdf",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "Wave 110 — Hướng dẫn sử dụng (manual do utilizador, PDF em vietnamita)",
+      "publisher": "Honda Việt Nam",
+      "url": "https://cdn.honda.com.vn/motorbike-manual/September2025/PIcp8XLSxQmsi5X5Twsy.pdf",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "Driving in adverse weather conditions (226 to 237)",
+      "publisher": "nidirect (Governo da Irlanda do Norte)",
+      "url": "https://nidirect.gov.uk/node/5167",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "title": "Manual online de motociclos e ciclomotores do Oregon, secção 7 (em inglês)",
+      "publisher": "Oregon Department of Transportation — DMV (EUA)",
+      "url": "https://www.oregon.gov/odot/DMV/Pages/Online_Motorcycle_Moped_Manual/Section_7.aspx",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "title": "Section 7: Special Riding Situations",
+      "publisher": "Georgia Department of Driver Services (EUA)",
+      "url": "https://dds.georgia.gov/node/33991",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "title": "Motorcycle Driver's Handbook — Mechanical problems",
+      "publisher": "SGI — Saskatchewan Government Insurance (Canadá)",
+      "url": "https://sgi.sk.ca/motorcycle/-/knowledge_base/motorcycle-handbook/mechanical-problems",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "title": "11.2 Mechanical Problems and Obstacles",
+      "publisher": "Open Exam Prep (guia de estudo de terceiros, carta de mota da Colúmbia Britânica)",
+      "url": "https://open-exam-prep.com/study-guides/bc-motorcycle-class-6/emergency-strategies/mechanical-problems-obstacles",
+      "accessed": "2026-10-13",
+      "type": "reference",
+      "lang": "en"
+    }
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "PUBLISHED",
+  "date_published": "2026-10-13",
+  "date_modified": "2026-10-13",
+  "editorial": {
+    "qa_score": 100,
+    "qa_warnings": [],
+    "words": 1599,
+    "publish_mode": "review",
+    "approved_at": "2026-10-13",
+    "revisions": []
+  }
+}

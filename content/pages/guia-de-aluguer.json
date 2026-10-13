@@ -10,7 +10,7 @@
   "primaryKeyword": "como alugar uma mota em hanói",
   "eyebrow": "Guia de aluguer",
   "lead": "Do primeiro contacto à devolução, os passos que evitam surpresas — e as regras de trânsito que não pode ignorar.",
-  "updated": "2026-10-12",
+  "updated": "2026-10-13",
   "toc": true,
   "answer": [
     "Confirme que tem carta válida para a categoria da mota e a licença internacional exigida a visitantes.",
@@ -65,7 +65,7 @@
     {
       "h2": "6. Conduza com prudência",
       "body": [
-        "Três regras não admitem exceções no Vietname: capacete apertado para quem conduz e para o passageiro, zero álcool e nunca entrar numa autoestrada (cao tốc), onde as motas são proibidas. A coima por não usar capacete é de 400.000 a 600.000 VND.",
+        "Três regras não admitem exceções no Vietname: capacete apertado para quem conduz e para o passageiro, zero álcool e nunca entrar numa autoestrada (cao tốc), onde as motas são proibidas. A coima por não usar capacete é de 400.000 a 600.000 VND. Esse montante é o nacional, do Decreto 168/2024: desde 1 de julho de 2026, Hanói agrava (×1,5 ou ×2) as coimas de 28 infrações de ordem pública e de trânsito, e o valor cobrado na cidade pode ser mais alto.",
         "Comece por percursos curtos e conhecidos, evite as horas de ponta nos primeiros dias e não use o telemóvel enquanto conduz — a lei proíbe-o. Se chover com intensidade, pare num local seguro e espere.",
         {
           "note": "Hanói está a introduzir uma zona de baixas emissões, com uma primeira fase em Hoàn Kiếm desde julho de 2026 e regras para motas a gasolina que foram revistas mais de uma vez. Antes de circular no centro histórico, confirme as zonas e os horários em vigor.",
@@ -89,6 +89,7 @@
     "dtinews-autoestrada-2026",
     "mfat-conduzir-vietname",
     "vietnamnet-zbe-piloto",
-    "vietnamnet-zbe-revisao"
+    "vietnamnet-zbe-revisao",
+    "hanoi-resolucao-56-2026"
   ]
 }

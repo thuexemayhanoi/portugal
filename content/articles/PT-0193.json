@@ -15,7 +15,7 @@
   ],
   "intro": [
     "As multas que mais facilmente apanham um visitante em Hanói não nascem de manobras arriscadas, mas de pequenos hábitos: o capacete que fica desapertado para ir ali ao lado, o atalho pelo passeio num engarrafamento, o telemóvel na mão para confirmar o caminho. São erros fáceis de cometer quando se imita o trânsito à volta — e fáceis de evitar quando se sabe onde estão.",
-    "Esta lista reúne esses erros, a regra que está por trás de cada um e, quando as fontes consultadas o indicam, a coima prevista no Decreto 168/2024/NĐ-CP, em vigor desde 1 de janeiro de 2025. Os montantes foram verificados a 13 de outubro de 2026. Antes de arrancar, faça também a preparação descrita no [guia de aluguer](/guia-de-aluguer/)."
+    "Esta lista reúne esses erros, a regra que está por trás de cada um e, quando as fontes consultadas o indicam, a coima prevista no Decreto 168/2024/NĐ-CP, em vigor desde 1 de janeiro de 2025. Os montantes foram verificados a 13 de outubro de 2026. São os valores nacionais: desde 1 de julho de 2026, a Resolução 56/2026/NQ-HĐND agrava (×1,5 ou ×2) as coimas de 28 infrações de ordem pública e de trânsito cometidas em Hanói. Como as fontes não dizem quais, o valor cobrado na cidade pode ser mais alto. Antes de arrancar, faça também a preparação descrita no [guia de aluguer](/guia-de-aluguer/)."
   ],
   "sections": [
     {
@@ -227,7 +227,8 @@
       "accessed": "2026-10-13",
       "type": "legal-database",
       "lang": "vi"
-    }
+    },
+    "hanoi-resolucao-56-2026"
   ],
   "legal_note": true,
   "writer": {
@@ -240,9 +241,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1726,
+    "words": 1774,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Coimas em Hanói: aviso sobre a Resolução 56/2026/NQ-HĐND"
+      }
+    ]
   }
 }

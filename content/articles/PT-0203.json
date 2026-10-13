@@ -1,0 +1,284 @@
+{
+  "contract_version": 1,
+  "id": "PT-0203",
+  "slug": "mota-roubada",
+  "title": "Mota alugada roubada em Hanói: o que fazer e a quem avisar",
+  "description": "A mota alugada foi roubada em Hanói? Veja como confirmar, avisar a loja, fazer a queixa na polícia, que provas juntar e o que o acordo deve esclarecer.",
+  "h1": "A mota foi roubada: passos imediatos, queixa na polícia e o que o acordo deve dizer",
+  "summary": "Com uma mota roubada durante o aluguer, confirme que ninguém a mudou de sítio, avise a loja de imediato e faça a queixa na polícia mais próxima, por escrito ou oralmente, com os dados da mota. Quem responde pelo valor depende do acordo de aluguer: este guia diz o que perguntar e o que guardar, sem presumir quem paga.",
+  "key_points": [
+    "Antes de dar a mota por roubada, confirme o sítio onde a deixou e pergunte ao parque, ao alojamento e à loja se alguém a mudou.",
+    "Avise a loja logo, por telefone e por mensagem, com a localização, a matrícula e a hora a que a viu pela última vez.",
+    "A queixa faz-se na polícia da comuna ou do bairro, numa esquadra ou num posto policial, por escrito ou oralmente. Segundo as fontes consultadas, a mais próxima serve.",
+    "Não confirmámos que documentos pedem a um estrangeiro nem se a polícia entrega comprovativo: pergunte à loja e peça uma prova de que a queixa foi feita.",
+    "O seguro obrigatório da mota não cobre o furto da própria mota. Quem responde pelo valor depende do acordo de aluguer, e este guia não o presume."
+  ],
+  "intro": [
+    "Perante uma mota roubada durante o aluguer, ou que parece roubada, a cabeça vai logo para o dinheiro e para a culpa, e é aí que se erra: assina-se um papel sem o ler, aceita-se um valor sem perguntar como foi calculado, adia-se o aviso à loja.",
+    "Este guia segue a ordem do que fazer: confirmar o furto, avisar a loja, apresentar queixa à polícia vietnamita, juntar as provas, fazer as perguntas certas sobre a responsabilidade e tratar do seguro e dos documentos pessoais. Não diz quem paga a mota: isso depende do acordo de aluguer, e o que aqui fica é o que esse acordo deve esclarecer. O processo geral do aluguer está no [guia de aluguer](/guia-de-aluguer/)."
+  ],
+  "sections": [
+    {
+      "h2": "Primeiro, confirmar que foi mesmo roubada",
+      "body": [
+        "Antes de avançar, reserve alguns minutos para afastar as explicações mais simples. Numa rua cheia de motas parecidas, é fácil enganar-se no sítio.",
+        {
+          "checklist": [
+            "Volte ao sítio exato onde a deixou e olhe para os dois lados da rua.",
+            "Pergunte ao responsável do parque (bãi giữ xe) se a mota saiu e mostre-lhe o talão (vé xe), se o tiver.",
+            "Pergunte à receção do alojamento e aos comerciantes por perto se viram alguém mexer na mota.",
+            "Ligue à loja e pergunte se alguém da equipa a levou ou a mudou de sítio.",
+            "Confirme onde está a chave: a loja vai querer saber."
+          ]
+        },
+        "Se ao fim de poucos minutos a mota não aparece, passe ao passo seguinte sem esperar."
+      ]
+    },
+    {
+      "h2": "Avisar a loja: o que dizer e o que enviar",
+      "body": [
+        "Ligue para a loja, {{phone}}, e envie logo a seguir uma mensagem pelo Zalo, para o mesmo número: fica registada a hora a que avisou. A loja atende {{hours}}; fora desse horário, escreva na mesma. A mensagem deve ter:",
+        {
+          "checklist": [
+            "o seu nome, o modelo da mota e a matrícula;",
+            "o sítio onde a deixou, com a localização do mapa, e o tipo de sítio: parque vigiado, alojamento ou rua;",
+            "a hora a que a viu pela última vez e a hora a que deu pela falta;",
+            "se a chave está consigo e se havia documentos ou objetos na mota ou debaixo do assento;",
+            "o que já fez: perguntou no parque e no alojamento, procurou na zona."
+          ]
+        },
+        "Um exemplo, fácil de passar por um tradutor: «Boa tarde. Sou [nome] e tenho a [modelo], matrícula [matrícula]. Deixei-a às [hora] em [localização] e às [hora] já não estava lá. Tenho a chave comigo. Vou à polícia fazer a queixa. A que polícia devo ir e de que papéis precisa?»",
+        "O registo da mota está em nome do proprietário, a loja, e é aí que estão os dados que identificam a mota. Peça-os à loja antes de ir à polícia. O guia dos [documentos da mota alugada](/guia-de-aluguer/documentos-da-mota-alugada/) explica o que o registo contém. Se os documentos do veículo estavam debaixo do assento, desapareceram com a mota: diga-o à loja."
+      ]
+    },
+    {
+      "h2": "A queixa na polícia: onde, como e com que conteúdo",
+      "body": [
+        "Segundo as fontes jurídicas vietnamitas que consultámos a 13 de outubro de 2026, a queixa por furto faz-se na polícia da comuna ou do bairro (Công an xã, phường), numa esquadra (Đồn Công an) ou num posto policial (Trạm Công an). Outras entidades também recebem denúncias, e uma das fontes diz que pode ir à polícia mais próxima. Uma delas cita o artigo 145.º do Código de Processo Penal de 2015 como base do dever que estas entidades têm de receber denúncias e informações sobre crimes e de as tratar a tempo; não vimos o texto do artigo.",
+        "A queixa pode ser um requerimento escrito («đơn trình báo») ou uma declaração oral, apresentada pessoalmente. Nos modelos de requerimento publicados por bases jurídicas e sites de formulários, o texto leva os dados de quem faz a queixa, a hora e o local onde a mota estava estacionada, a descrição do caso e as características da mota.",
+        {
+          "h3": "O que acontece depois"
+        },
+        "Segundo as mesmas fontes, o órgão de investigação verifica a informação e decide se abre um processo-crime. Nenhuma fonte promete que a mota apareça nem indica prazos: a queixa é o início da verificação, e não o fim do problema.",
+        {
+          "h3": "Depois da reorganização de 2025"
+        },
+        "Um portal oficial da província de Hà Tĩnh publicou um artigo com o título «Já não há polícia de nível distrital: onde denunciam as pessoas os crimes?» (só vimos o título, sem data). Por isso, em vez de procurar uma esquadra antiga, pergunte à loja qual é a polícia do bairro competente ou vá à mais próxima.",
+        {
+          "note": "Não confirmámos que documentos a polícia pede a um estrangeiro, se entrega um comprovativo da queixa nem se é possível fazê-la online. Leve o passaporte, o acordo de aluguer e os dados da mota que a loja lhe der, e peça no fim algo que prove que a queixa foi feita: uma cópia do requerimento, um carimbo ou uma fotografia do registo. Se não lhe derem nada, anote o nome da unidade, a hora e o nome do agente.",
+          "tone": "warn",
+          "title": "O que não conseguimos confirmar"
+        },
+        "Se não falar vietnamita, vá com alguém que fale ou ponha a loja ao telefone; o guia sobre [comunicar sem falar vietnamita](/guia-de-aluguer/comunicar-sem-falar-vietnamita/) explica como. As frases ajudam a explicar o essencial.",
+        {
+          "table": {
+            "caption": "Frases úteis na polícia",
+            "head": [
+              "Em vietnamita",
+              "Em português"
+            ],
+            "rows": [
+              [
+                "Xe máy tôi thuê bị mất trộm.",
+                "A mota que aluguei foi roubada."
+              ],
+              [
+                "Tôi muốn trình báo mất xe máy.",
+                "Quero apresentar queixa do desaparecimento da mota."
+              ],
+              [
+                "Chủ xe là cửa hàng cho thuê xe.",
+                "O proprietário é a loja de aluguer."
+              ],
+              [
+                "Xin cho tôi giấy xác nhận đã trình báo.",
+                "Pode dar-me um comprovativo da queixa?"
+              ],
+              [
+                "Tôi không hiểu. Xin cho tôi gọi cho cửa hàng.",
+                "Não percebo. Posso ligar à loja?"
+              ]
+            ]
+          }
+        },
+        "As infrações registadas por câmara são notificadas à loja, titular do registo, e podem chegar depois do furto, como explica o guia sobre [quem paga as multas de trânsito numa mota alugada](/precos/multas-de-transito-no-aluguer/). Ter a queixa feita, com data e hora, ajuda a mostrar quando a mota desapareceu."
+      ]
+    },
+    {
+      "h2": "As provas a juntar desde o primeiro minuto",
+      "body": [
+        "Guarde tudo numa pasta no telemóvel e envie uma cópia à loja:",
+        {
+          "checklist": [
+            "o acordo de aluguer ou a mensagem de confirmação, com a matrícula, as datas e as condições;",
+            "as fotografias e o vídeo do levantamento, que mostram a matrícula e o estado da mota, como explica o guia sobre [fotografar a mota alugada](/guia-de-aluguer/fotografar-a-mota/);",
+            "uma fotografia do sítio onde a deixou, tirada agora, a mostrar a rua e o lugar vazio;",
+            "o talão do parque (vé xe), se o tiver, e o nome do parque ou do alojamento;",
+            "a chave, ou as chaves: guarde-as, porque a loja vai querer saber onde estão;",
+            "a lista do que estava na mota ou debaixo do assento: capacetes, capa de chuva, documentos;",
+            "uma cópia de tudo o que a polícia lhe entregar e o nome da unidade que recebeu a queixa;",
+            "a conversa com a loja, com datas e horas."
+          ]
+        },
+        "Pergunte ao parque ou ao alojamento se há câmaras no local: é a polícia que decide o que pede."
+      ]
+    },
+    {
+      "h2": "Quem responde pela mota: o que o acordo de aluguer deve dizer",
+      "body": [
+        "Este site não publica nenhuma regra sobre quem paga a mota roubada: depende do que a loja e o cliente combinaram. O seguro obrigatório de responsabilidade civil, em nome do proprietário, não cobre o furto da própria mota, como explica o guia do [seguro obrigatório de mota](/guia-de-aluguer/seguro-obrigatorio-de-mota/). O que acontece nesse caso depende do que combinar com a loja, por isso leia o acordo, ou peça-o por escrito, e procure resposta a estas perguntas:",
+        {
+          "ol": [
+            "Que passos tenho de dar se a mota for roubada: avisar a loja, ir à polícia, entregar uma cópia da queixa? Em que prazo?",
+            "O que acontece ao aluguer: termina, ou posso receber outra mota? A que condições?",
+            "O que fica a meu cargo e como se calcula o valor: um valor fixo, o valor da mota, um orçamento? Quem decide?",
+            "O valor sai da caução, se existir, ou paga-se à parte? Quando?",
+            "Muda alguma coisa se a chave estava na mota, se o guiador estava bloqueado, ou se a mota estava num parque com funcionário ou na rua?",
+            "O que acontece à chave, aos capacetes e aos documentos que estavam na mota?",
+            "E se a mota aparecer depois: o que acontece ao que já foi pago?"
+          ]
+        },
+        "Peça as respostas por escrito, no acordo ou numa mensagem da loja. O guia sobre o [acordo de aluguer](/guia-de-aluguer/acordo-de-aluguer/) mostra como ler as cláusulas sobre furto, danos e multas, e o de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/) resume o que deve ficar escrito antes de levantar a mota.",
+        {
+          "note": "Depois de um furto, não assine nada que reconheça um valor ou uma culpa sem o ler, perceber e comparar com o acordo de aluguer. Peça tempo e, se precisar, uma tradução.",
+          "tone": "warn",
+          "title": "Sem pressa para assinar"
+        }
+      ]
+    },
+    {
+      "h2": "Seguro de viagem, documentos pessoais e apoio consular",
+      "body": [
+        "O seu seguro de viagem é outro assunto. Pergunte à seguradora, logo que possa, se a apólice cobre o furto e a responsabilidade por um veículo alugado, que documentos pede (participação à polícia, acordo de aluguer) e em que prazo deve avisar. Uma seguradora de viagem, a World Nomads, diz na sua página sobre motas no Vietname, consultada em outubro de 2026, que o seguro não é válido para quem conduz sem licença internacional ou carta vietnamita válida. A sua apólice pode dizer outra coisa: leia as condições.",
+        "Se levaram também o passaporte ou outros documentos, o contacto de emergência português confirmado é o Gabinete de Emergência Consular, do Ministério dos Negócios Estrangeiros: +351 217 929 714, +351 961 706 472 ou gec@mne.pt. Segundo o gov.pt, está disponível «24 horas por dia, 7 dias por semana»; a página pode não estar atualizada, por isso confirme os números antes de viajar. Segundo um folheto de 2020 sobre viagens ao estrangeiro, os postos consulares podem emitir um documento de viagem provisório em caso de extravio, mas não pagam contas de hotel, médico, advogado ou de viagens, nem outras despesas."
+      ]
+    },
+    {
+      "h2": "Como reduzir o risco antes de sair",
+      "body": [
+        "Nenhuma precaução elimina o risco, mas os guias publicados neste site apontam hábitos simples:",
+        {
+          "ul": [
+            "estacione em parques com funcionário, guarde o talão e bloqueie sempre o guiador;",
+            "nunca deixe a chave na ignição, nem por um minuto, como explica o guia sobre [perder a chave da mota alugada](/guia-de-aluguer/perdi-a-chave/);",
+            "não deixe documentos nem objetos de valor debaixo do assento;",
+            "evite deixar a mota na rua durante dias, sem ninguém que a vigie, como explica o guia sobre [manter a mota durante uma viagem](/precos/sair-de-hanoi-a-meio-do-aluguer/);",
+            "faça as perguntas da secção anterior antes de levantar a mota, e não depois."
+          ]
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Tenho de pagar a mota se for roubada?",
+      "a": "Este site não o diz: depende do acordo de aluguer e das circunstâncias. O seguro obrigatório da mota não cobre o furto da própria mota. Antes de aceitar qualquer valor, pergunte à loja como é calculado e peça-o por escrito."
+    },
+    {
+      "q": "Posso fazer a queixa online?",
+      "a": "Não confirmámos que seja possível. As fontes que consultámos descrevem a queixa escrita ou oral, apresentada pessoalmente. Pergunte à loja se conhece outra via."
+    },
+    {
+      "q": "Que documentos levo à polícia?",
+      "a": "Não confirmámos a lista exigida a estrangeiros. É prudente levar o passaporte, o acordo de aluguer, os dados da mota que a loja lhe der e as fotografias do levantamento: os modelos de requerimento pedem os dados de quem queixa, a hora e o local, a descrição do caso e as características da mota."
+    },
+    {
+      "q": "E se a mota aparecer depois?",
+      "a": "Avise logo a loja e a polícia a que fez a queixa e não circule com a mota até a loja dizer o que fazer. Confirme por escrito o que acontece ao que já tinha sido combinado ou pago."
+    },
+    {
+      "q": "O consulado paga a mota roubada?",
+      "a": "Não. Segundo um folheto de 2020 sobre viagens ao estrangeiro, os postos consulares não pagam contas de hotel, médico, advogado ou de viagens, nem outras despesas. Podem ajudar com um documento de viagem provisório se perder o passaporte."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Trình báo mất xe máy ở đâu? Thủ tục trình báo khi bị mất xe máy?",
+      "publisher": "Luật Dương Gia",
+      "url": "https://luatduonggia.vn/?p=12537",
+      "accessed": "2026-10-13",
+      "type": "reference",
+      "lang": "vi"
+    },
+    {
+      "title": "Mẫu đơn trình báo mất tài sản mới nhất và hướng dẫn cách viết",
+      "publisher": "Thư Viện Pháp Luật",
+      "url": "https://thuvienphapluat.vn/banan/tin-tuc/mau-don-trinh-bao-mat-tai-san-moi-nhat-va-huong-dan-cach-viet-10065.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "Mẫu đơn trình báo mất xe mới nhất năm 2024?",
+      "publisher": "Thư Viện Pháp Luật",
+      "url": "https://thuvienphapluat.vn/hoi-dap-phap-luat/mau-don-trinh-bao-mat-xe-moi-nhat-nam-2024-138036582.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "Tố giác tội phạm",
+      "publisher": "Thư Viện Pháp Luật",
+      "url": "https://thuvienphapluat.vn/hoi-dap-phap-luat/to-giac-toi-pham-23839.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "Không còn công an cấp huyện, người dân tố giác tội phạm ở đâu?",
+      "publisher": "Cổng thông tin điện tử tỉnh Hà Tĩnh",
+      "url": "https://hatinh.gov.vn/vi/bai-viet/khong-con-cong-an-cap-huyen-nguoi-dan-to-giac-toi-pham-o-dau",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "vi"
+    },
+    {
+      "title": "Mẫu đơn trình báo mất xe máy, tài sản",
+      "publisher": "Luật Dương Gia",
+      "url": "https://luatduonggia.vn/phap-luat/mau-don-trinh-bao-mat-xe-may-tai-san-va-huong-dan-soan-thao-chi-tiet-nhat/",
+      "accessed": "2026-10-13",
+      "type": "reference",
+      "lang": "vi"
+    },
+    {
+      "title": "Contactos de emergência consular",
+      "publisher": "gov.pt",
+      "url": "https://www2.gov.pt/-/contactos-de-emerg%C3%AAncia-consular-1",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "pt"
+    },
+    {
+      "title": "Folheto «Viagens ao estrangeiro» (versão de 1 de junho de 2020)",
+      "publisher": "Câmara Municipal de Mêda",
+      "url": "https://cdn.cm-meda.pt/Documentos/Avisos-e-Editais/2020/Flyer_Viagens_ao_estrangeiro_versão_01.06.2020_final.pdf",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "pt"
+    },
+    {
+      "title": "Motorbike safety (Vietnam)",
+      "publisher": "World Nomads",
+      "url": "https://www.worldnomads.com/travel-safety/southeast-asia/vietnam/motorbike-safety",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "en"
+    }
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "PUBLISHED",
+  "date_published": "2026-10-13",
+  "date_modified": "2026-10-13",
+  "editorial": {
+    "qa_score": 100,
+    "qa_warnings": [],
+    "words": 2111,
+    "publish_mode": "review",
+    "approved_at": "2026-10-13",
+    "revisions": []
+  }
+}

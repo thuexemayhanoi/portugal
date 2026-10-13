@@ -1,0 +1,298 @@
+{
+  "contract_version": 1,
+  "id": "PT-0013",
+  "slug": "travoes-cbs-e-abs",
+  "title": "Travões CBS e ABS na scooter: o que são e como travar melhor",
+  "description": "O que fazem o CBS e o ABS numa scooter, como travar melhor em piso seco e molhado e o que pedir à loja que lhe mostre nas manetes antes de sair.",
+  "h1": "CBS e ABS nas scooters de aluguer: o que muda quando aperta a manete",
+  "summary": "O CBS reparte a força de travagem pela roda da frente e pela de trás, e o ABS impede que a roda bloqueie numa travagem brusca; nenhum dispensa travar com progressividade e com margem. Que sistema tem a scooter que vai levar depende do modelo, da versão e do ano: peça à loja que lhe mostre qual manete aciona o quê e experimente-a antes de sair.",
+  "key_points": [
+    "O CBS (travagem combinada) reparte a força pelas duas rodas: segundo uma fonte vietnamita, permite travar à frente e atrás com uma só manete.",
+    "O ABS evita que a roda bloqueie e deslize, mas o manual da Honda para a Air Blade avisa que não encurta a distância de travagem.",
+    "As fontes consultadas não dizem qual manete aciona o CBS em cada modelo: pergunte à loja e verifique na própria mota.",
+    "Trave com progressividade e com as duas rodas; se uma bloquear, solte, mantenha a direção a direito e volte a travar com mais suavidade.",
+    "Com chuva, as distâncias de paragem são pelo menos o dobro das de piso seco: dê mais margem e reduza a velocidade mais cedo."
+  ],
+  "intro": [
+    "Quem aprendeu a conduzir numa mota com manete e pedal, ou numa bicicleta com um travão por roda, pode estranhar o que acontece numa scooter moderna: o gesto que trava talvez já não seja o que imagina. Em várias scooters, uma só manete aciona os dois travões, e algumas têm ainda ABS. As siglas CBS e ABS aparecem nas fichas dos modelos e nas conversas com a loja, mas nem sempre é claro o que mudam na hora de travar a sério num cruzamento de Hanói.",
+    "Este guia explica o que são o CBS e o ABS, o que cada um faz e o que não faz, como travar melhor em piso seco e molhado e que verificações fazer às manetes antes de sair da loja. Os dados dos sistemas vêm de fichas e manuais da Honda e de imprensa vietnamita, consultados em outubro de 2026. Os princípios de técnica vêm de manuais de fabricante e de autoridades estrangeiras sobre motas em geral: são boas práticas, e não regras do Vietname.",
+    "Um aviso de partida: as fontes consultadas não dizem qual das duas manetes aciona o CBS em cada modelo, nem descrevem o ABS de cada unidade da loja. Onde falta esse dado, o guia diz o que perguntar. A comparação dos modelos está no guia de [scooters automáticas](/tipos-de-motas/scooters/)."
+  ],
+  "sections": [
+    {
+      "h2": "CBS: quando uma manete trava as duas rodas",
+      "body": [
+        "O CBS, de «Combi-Brake System», é a travagem combinada: ao acionar a manete a que está ligado, reparte a força de travagem pela roda da frente e pela de trás. Segundo uma fonte vietnamita sobre motas, isso permite travar à frente e atrás com uma só manete e encurta a distância de travagem.",
+        "Como o sistema faz essa repartição, as fontes não concordam: uma fala num regulador de pressão hidráulico, outra num regulador de pressão com cabo. Para quem conduz, a diferença é secundária: o que importa é saber que apertar uma manete pode travar mais do que uma roda.",
+        "O CBS é uma solução mais simples e mais barata do que o ABS, e por isso aparece em modelos acessíveis: uma das fontes cita a Honda Lead e a Honda Vision. Na Air Blade de 125 cm³ também é este o sistema, como explica o guia da [Honda Air Blade 125 ou 160](/tipos-de-motas/honda-air-blade-125-ou-160/)."
+      ]
+    },
+    {
+      "h2": "ABS: impedir que a roda bloqueie",
+      "body": [
+        "O ABS, ou sistema antibloqueio, evita que a roda deslize e que se perca o controlo numa travagem brusca. É mais caro do que o CBS, e a imprensa vietnamita refere que a Honda tem equipado com ABS os modelos mais recentes.",
+        "Na Air Blade, o ABS está na roda da frente da versão de 160 cm³ e, no modelo de 2026, também na versão desportiva da 125. No guia da [Honda Click](/tipos-de-motas/honda-click-em-hanoi/) e na comparação entre a [Vision e a Air Blade](/tipos-de-motas/honda-vision-ou-air-blade/), a indicação é a mesma: não conte com ABS sem que a loja o confirme para a unidade que lhe propõem.",
+        "Para motas de gama alta, a Honda descreve ainda um «ABS combinado de controlo eletrónico», que junta CBS e ABS, reparte a travagem entre a frente e a traseira e limita o afundamento da frente. Não é o sistema da Vision nem da Air Blade.",
+        "O que o ABS não faz também conta. O manual da Honda para a Air Blade avisa que o ABS não encurta a distância de travagem e que, em certas situações, até a pode aumentar; e, como nessa mota atua só na roda da frente, não protege a de trás. Mesmo com ABS, o piso molhado e as estradas sujas continuam a afetar a travagem.",
+        {
+          "table": {
+            "caption": "CBS e ABS: o que cada sistema faz",
+            "head": [
+              "Aspeto",
+              "CBS (travagem combinada)",
+              "ABS (antibloqueio)"
+            ],
+            "rows": [
+              [
+                "O que faz",
+                "Reparte a força de travagem pela roda da frente e pela de trás",
+                "Evita que a roda bloqueie e deslize numa travagem brusca"
+              ],
+              [
+                "Custo e complexidade",
+                "Mais simples e mais barato",
+                "Mais caro do que o CBS"
+              ],
+              [
+                "O que não faz",
+                "Não é um sistema antibloqueio",
+                "Não encurta a distância de travagem, segundo o manual da Honda para a Air Blade"
+              ],
+              [
+                "Onde aparece nos guias do site",
+                "Air Blade 125; uma fonte vietnamita refere-o também na Vision",
+                "Air Blade 160 e Air Blade 125 desportiva de 2026"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "h2": "Qual manete aciona o quê: o que as fontes não dizem",
+      "body": [
+        "A disposição habitual numa scooter, descrita no guia da [Honda Vision](/tipos-de-motas/honda-vision-em-hanoi/), é a manete da direita para a roda da frente e a da esquerda para a de trás. Com CBS, essa regra deixa de chegar para prever o que a mota faz, porque uma das manetes passa a acionar as duas rodas.",
+        "Aqui está o limite do que se pode afirmar. Nas fontes consultadas não aparece qual das duas manetes aciona o CBS na Vision ou na Air Blade, nem uma descrição da luz de aviso do ABS no painel. Não vamos presumir: pergunte e verifique na própria mota.",
+        {
+          "checklist": [
+            "Qual das duas manetes aciona o CBS nesta unidade e que rodas travam com cada uma.",
+            "Se, nesta mota, é para usar as duas manetes ao mesmo tempo ou se basta uma.",
+            "Se a unidade tem ABS e, se tiver, o que significa a luz de aviso no painel e o que fazer quando acende.",
+            "Qual é a versão e o ano da mota, porque o mesmo modelo pode ter ou não ABS conforme a geração."
+          ]
+        },
+        {
+          "note": "Se a resposta pesar na sua escolha de modelo, peça à loja que a confirme por escrito, com a versão e o ano da mota.",
+          "tone": "info",
+          "title": "Peça a resposta por escrito"
+        }
+      ]
+    },
+    {
+      "h2": "Como travar melhor: princípios que valem para qualquer scooter",
+      "body": [
+        "Os princípios que se seguem vêm de manuais de duas Honda de maior cilindrada (VT750 e VT1300) e do manual de condução de motas do estado da Geórgia, nos Estados Unidos. Descrevem motas com manete e pedal, e não scooters com CBS: o manual da sua unidade prevalece sempre. Numa scooter, o travão de trás é a segunda manete.",
+        {
+          "h3": "A frente faz a maior parte do trabalho"
+        },
+        "Como regra geral, o travão da frente fornece cerca de 70% da força total de travagem, segundo os manuais da Honda; o manual da Geórgia diz «70% ou mais» e acrescenta que é preciso usá-lo para abrandar com eficácia. Usar os dois travões ao mesmo tempo faz a mota parar mais depressa e com mais estabilidade.",
+        "O quadro do manual da Geórgia mostra a diferença na mesma situação de ensaio. O resumo que consultámos não indica a velocidade, e a conversão para metros é nossa.",
+        {
+          "table": {
+            "caption": "Distâncias de paragem no quadro do manual da Geórgia (EUA)",
+            "head": [
+              "Travões usados",
+              "Distância de paragem (aproximada)"
+            ],
+            "rows": [
+              [
+                "Os dois",
+                "95 pés (cerca de 29 m)"
+              ],
+              [
+                "Só o da frente",
+                "130 pés (cerca de 40 m)"
+              ],
+              [
+                "Só o de trás",
+                "180 pés (cerca de 55 m)"
+              ]
+            ]
+          }
+        },
+        "Os números são ilustrativos, de outro país e de outras motas. Retenha a ordem: travar só atrás é o pior caso, e travar só à frente é pior do que usar os dois.",
+        {
+          "h3": "Uma travagem em quatro tempos"
+        },
+        {
+          "steps": [
+            {
+              "title": "Antecipe",
+              "text": "Alivie o acelerador assim que perceber que vai ter de travar, em vez de esperar pelo último instante."
+            },
+            {
+              "title": "Aperte com progressividade",
+              "text": "Aumente a força da manete aos poucos. Travar com demasiada força pode bloquear as rodas e fazer a mota derrapar, segundo os manuais da Honda."
+            },
+            {
+              "title": "Use as duas rodas",
+              "text": "Aperte a manete da frente e a de trás em conjunto. Numa scooter com CBS, pergunte à loja como se faz na sua unidade."
+            },
+            {
+              "title": "Se uma roda bloquear",
+              "text": "Solte os travões, mantenha a direção a direito até recuperar o controlo e volte a travar com mais suavidade."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "Piso molhado, sujo ou irregular: mais margem",
+      "body": [
+        "Com chuva, as distâncias de paragem são pelo menos o dobro das de piso seco, porque os pneus têm menos aderência. É o que diz o Highway Code britânico, na versão do governo da Irlanda do Norte, que manda ficar bem atrás do veículo da frente. A regra do intervalo vai no mesmo sentido: pelo menos dois segundos para o veículo da frente em estradas com trânsito mais rápido e o dobro em piso molhado.",
+        "É um código do Reino Unido, apresentado aqui como boa prática e não como regra do Vietname. Num trânsito denso como o de Hanói, manter esse intervalo nem sempre é possível: a margem faz-se sobretudo com a velocidade. Reduza antes de a distância desaparecer e evite depender de uma travagem forte.",
+        "O ABS ajuda a manter o controlo, mas piso molhado e estradas sujas continuam a afetar a travagem, mesmo com o sistema. As fontes consultadas não descrevem a travagem sobre marcas pintadas, tampas de esgoto ou chapas metálicas, por isso não damos regras sobre elas: menos velocidade e travagens suaves."
+      ]
+    },
+    {
+      "h2": "Antes de sair da loja: testar as manetes",
+      "body": [
+        "Antes de arrancar, com a mota parada e o motor desligado, faça uma verificação de dois minutos. O guia de [receber a mota alugada](/guia-de-aluguer/receber-a-mota/) mostra como decorre a entrega.",
+        {
+          "checklist": [
+            "**Firmeza**: as duas manetes devem travar com firmeza e não chegar ao punho.",
+            "**Ruídos**: sem rangidos nem sons estranhos ao apertar.",
+            "**Luz de travão**: veja se acende ao apertar cada uma das manetes.",
+            "**Explicação**: peça que lhe mostrem qual manete aciona o CBS e se há ABS."
+          ]
+        },
+        "Já na rua, a primeira travagem a sério não deve ser a de emergência. Na primeira volta, num sítio calmo e sem trânsito, faça duas ou três travagens suaves a baixa velocidade para sentir como a mota responde a cada manete. Se nunca conduziu uma scooter, leia também o guia para [quem nunca conduziu uma mota](/tipos-de-motas/nunca-conduziu-uma-mota/).",
+        "Se uma manete chegar ao punho, a mota puxar para um lado ao travar ou o painel mostrar uma luz que ninguém lhe sabe explicar, não saia: peça outra unidade ou que a verifiquem. Pode contactar a loja {{brand}} pelo {{phone}}, {{hours}}; a morada está na página de [contactos](/contactos/). A lista de [perguntas a fazer antes de alugar](/guia-de-aluguer/perguntas-antes-de-alugar/) ajuda a tratar também dos documentos e da devolução."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Como sei se a scooter alugada tem CBS ou ABS?",
+      "a": "Não dá para concluir só pelo modelo, porque o equipamento muda com a versão e o ano: na Air Blade, por exemplo, o ABS está na versão de 160 cm³ e na 125 desportiva de 2026. Pergunte à loja, de preferência por escrito, qual manete aciona o CBS e se há luz de ABS no painel."
+    },
+    {
+      "q": "O ABS encurta a distância de travagem?",
+      "a": "Não necessariamente. O manual da Honda para a Air Blade avisa que o ABS não encurta a distância de travagem e que, em certas situações, a pode aumentar. A função do ABS é evitar que a roda bloqueie, para manter o controlo."
+    },
+    {
+      "q": "Com CBS, posso travar só com uma manete?",
+      "a": "Uma fonte vietnamita diz que o CBS permite travar à frente e atrás com uma só manete, mas as consultadas não indicam qual delas em cada modelo. Pergunte à loja qual manete aciona o CBS e se, naquela scooter, deve usar as duas em conjunto, como nas motas sem CBS."
+    },
+    {
+      "q": "Devo travar só com o travão de trás para não cair?",
+      "a": "Não. No quadro do manual da Geórgia, travar só com o travão de trás deu a maior distância de paragem (cerca de 55 m, contra cerca de 29 m com os dois), e o da frente fornece a maior parte da força de travagem. Use os dois com progressividade, ou a manete que a loja indicar se a scooter tiver CBS."
+    }
+  ],
+  "sources": [
+    {
+      "title": "CBS là gì? So sánh 2 loại phanh CBS và ABS có gì khác nhau?",
+      "publisher": "Mua Bán (blogue)",
+      "url": "https://muaban.net/blog/cbs-la-gi-217624/",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Hệ thống phanh ABS và CBS có gì khác nhau? Loại phanh nào an toàn hơn?",
+      "publisher": "Mua Bán (blogue)",
+      "url": "https://muaban.net/blog/phanh-abs-va-cbs-211351/",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Công nghệ phanh ABS và CBS trên môtô và xe máy thế nào?",
+      "publisher": "Báo Mới (agregador)",
+      "url": "https://baomoi.com/cong-nghe-phanh-abs-va-cbs-tren-moto-va-xe-may-the-nao-c38597932.epi",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Overview of Electronically Controlled Combined ABS",
+      "publisher": "Honda Motor Co. (global.honda)",
+      "url": "https://global.honda/en/tech/Electronically_Controlled_Combined_ABS/",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "en"
+    },
+    {
+      "title": "Air Blade — Hướng dẫn sử dụng (manual do utilizador, PDF em vietnamita)",
+      "publisher": "Honda Việt Nam",
+      "url": "https://cdn.honda.com.vn/motorbike-manual/September2025/NC8346r3AExXZtAvFuMG.pdf",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "Honda VT750C2B — manual do proprietário, p. 54",
+      "publisher": "Honda (cópia alojada em bike-parts.fr)",
+      "url": "https://www.bike-parts.fr/thumbs/pdf_url/img/owner_manuals/owner_VT750C2BA/2500_2500/0054.pdf",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "en"
+    },
+    {
+      "title": "Honda VT1300CX — manual do proprietário, p. 55",
+      "publisher": "Honda (cópia alojada em bike-parts.fr)",
+      "url": "https://www.bike-parts.fr/thumbs/pdf_url/img/owner_manuals/owner_VT1300CXA_CXAA/2500_2500/0055.pdf",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "en"
+    },
+    {
+      "title": "Georgia Motorcycle Operator Manual — travagem e distâncias de paragem",
+      "publisher": "Georgia Department of Driver Services (EUA)",
+      "url": "https://dds.georgia.gov/node/33951",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "title": "What Is The 70/30 Brake Rule For Motorcycles?",
+      "publisher": "SlashGear",
+      "url": "https://www.slashgear.com/2192377/what-is-70-30-brake-rule-motorcycles/",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "en"
+    },
+    {
+      "title": "Driving in adverse weather conditions (226 to 237)",
+      "publisher": "nidirect (Governo da Irlanda do Norte)",
+      "url": "https://nidirect.gov.uk/node/5167",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "title": "The Official Highway Code — Rule 126",
+      "publisher": "theorytest.org.uk (reprodução do texto oficial)",
+      "url": "https://theorytest.org.uk/hwc/highway-code/rule-126.html",
+      "accessed": "2026-10-13",
+      "type": "reference",
+      "lang": "en"
+    }
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "PUBLISHED",
+  "date_published": "2026-10-13",
+  "date_modified": "2026-10-13",
+  "editorial": {
+    "qa_score": 100,
+    "qa_warnings": [],
+    "words": 1994,
+    "publish_mode": "review",
+    "approved_at": "2026-10-13",
+    "revisions": []
+  }
+}

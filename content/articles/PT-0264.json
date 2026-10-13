@@ -1,0 +1,354 @@
+{
+  "contract_version": 1,
+  "id": "PT-0264",
+  "slug": "roteiro-de-pagodes-e-templos",
+  "title": "Pagodes e templos de Hanói de mota: roteiro de meio dia",
+  "description": "Roteiro de meio dia de mota por pagodes e templos de Hanói: ordem de visita, horários e bilhetes segundo os guias, o que vestir e onde deixar a mota.",
+  "h1": "Meio dia de mota por pagodes e templos de Hanói: ordem de visita, vestuário e estacionamento",
+  "summary": "Um roteiro de meio dia de mota por pagodes e templos de Hanói pode começar a norte, no pagode Trấn Quốc, e descer por Ba Đình e pelo Templo da Literatura até ao templo Ngọc Sơn, no lago Hoàn Kiếm. Os guias não coincidem nos horários, por isso a ordem foi escolhida para funcionar com qualquer versão.",
+  "key_points": [
+    "Ordem sugerida, de norte para sul: pagode Trấn Quốc, templo Phủ Tây Hồ (opcional), pagode de Um Pilar, Templo da Literatura e templo Ngọc Sơn.",
+    "O Trấn Quốc tem a janela mais apertada: os guias dão quatro horários, que só coincidem das 8:00 às 11:30 e das 13:30 às 16:00.",
+    "Segundo os guias, pagam bilhete o Ngọc Sơn (30 mil VND) e o Templo da Literatura (30 mil ou 70 mil VND); o pagode de Um Pilar e o Trấn Quốc são gratuitos.",
+    "Um guia pede ombros e joelhos cobertos no Trấn Quốc; para os outros locais não há regras confirmadas, por isso vista sempre assim.",
+    "Nos dias 1 e 15 do mês lunar e no Tết (a 6 de fevereiro de 2027), o Trấn Quốc e o Phủ Tây Hồ enchem-se; vá cedo ou escolha outro dia."
+  ],
+  "intro": [
+    "Hanói tem muitos templos e pagodes, mas poucos cabem no mesmo roteiro de mota sem horas perdidas a procurar onde deixar a mota ou a descobrir à porta que o local fechou para o almoço. Este roteiro liga cinco — o pagode Trấn Quốc, o templo Phủ Tây Hồ, o pagode de Um Pilar, o Templo da Literatura e o templo Ngọc Sơn — sem voltar atrás e com horários que nem sempre coincidem.",
+    "Os horários, os bilhetes e o estacionamento vêm de guias de viagem comerciais, consultados a 13 de outubro de 2026, e não de avisos dos próprios locais; confirme-os à porta. Para um dia inteiro pelo centro, com outros monumentos, veja o [itinerário de um dia a partir de Long Biên](/rotas-e-mobilidade/hanoi-de-mota-num-dia/); este roteiro é mais curto e dedica-se aos locais de culto.",
+    "Se alugar a mota em {{area}}, o roteiro começa com o levantamento, às {{opens}}, e termina com a devolução antes das {{closes}}."
+  ],
+  "sections": [
+    {
+      "h2": "O roteiro num relance",
+      "body": [
+        "O percurso é um arco. De manhã, atravessa-se o rio e segue-se pela rua Yên Phụ até ao pagode Trấn Quốc, no norte; depois desce-se por Ba Đình e pelo Templo da Literatura até ao lago Hoàn Kiếm, de onde o Bairro Antigo leva de volta à ponte Long Biên. Em cada paragem, deixa-se a mota uma só vez e visita-se a pé.",
+        {
+          "table": {
+            "caption": "Cinco paragens por ordem de visita, segundo guias de viagem consultados a 13 de outubro de 2026",
+            "head": [
+              "Paragem",
+              "Horário nos guias",
+              "Bilhete segundo os guias",
+              "Mota segundo os guias"
+            ],
+            "rows": [
+              [
+                "1. Pagode Trấn Quốc (46 Thanh Niên)",
+                "Quatro versões; coincidem das 8:00 às 11:30 e das 13:30 às 16:00",
+                "Gratuito; um guia indica 5 mil VND",
+                "Gratuito, em fonte única"
+              ],
+              [
+                "2. Templo Phủ Tây Hồ (52 Đặng Thai Mai), opcional",
+                "5:00–19:00",
+                "Sem preço nos guias",
+                "5 mil a 10 mil VND por vez"
+              ],
+              [
+                "3. Pagode de Um Pilar (Ba Đình)",
+                "7:00–18:00, num só guia",
+                "Gratuito",
+                "Sem dados"
+              ],
+              [
+                "4. Templo da Literatura (58 Quốc Tử Giám)",
+                "8:00–17:00; um guia dá 7:30–17:30 no verão",
+                "30 mil ou 70 mil VND, conforme o guia",
+                "Estacionamento junto ao portão, sem preço"
+              ],
+              [
+                "5. Templo Ngọc Sơn (lago Hoàn Kiếm)",
+                "7:00–18:00, 8:00–18:00 ou 8:00–17:00; um guia dá 7:00–21:00 ao fim de semana",
+                "30 mil VND, no balcão da entrada da ponte Thê Húc",
+                "Sem dados"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "h2": "Porque esta ordem resolve horários que não coincidem",
+      "body": [
+        "A ordem foi desenhada a pensar no local com a janela mais estreita. Para o Trấn Quốc, os guias dão quatro horários: das 7:00 às 18:00; das 8:00 às 16:00; das 8:00 às 11:30 e das 13:00 às 17:00; e das 7:30 às 11:30 e das 13:30 às 18:00. A única coincidência é das 8:00 às 11:30 e das 13:30 às 16:00. Com a mota levantada às {{opens}}, chegar ao Trấn Quốc a meio da manhã cabe na primeira janela, seja qual for a versão certa.",
+        "Os outros locais têm mais margem. O Templo da Literatura e o Ngọc Sơn fecham às 17:00 no horário mais curto que os guias indicam, e o Phủ Tây Hồ às 19:00. Depois do almoço, chegar ao Templo da Literatura antes das 15:00 e ao Ngọc Sơn antes das 16:00 cumpre qualquer das versões.",
+        "O trânsito também conta. A cidade usou as janelas das 6:30 às 9:00 e das 16:30 às 19:30 para restringir camiões pesados na avenida Thăng Long; tome-as como referência para a ponta. A loja abre quando a ponta da manhã está a acabar, e o objetivo é iniciar o regresso antes das 16:30. Se o dia se alongar, deixe o Ngọc Sơn para outro dia."
+      ]
+    },
+    {
+      "h2": "As cinco paragens, uma a uma",
+      "body": [
+        {
+          "h3": "1. Pagode Trấn Quốc: o primeiro a visitar"
+        },
+        "Fica na Thanh Niên, a estrada que passa entre o lago Trúc Bạch e o Lago Oeste. De Long Biên, atravessa-se o rio e segue-se pela rua Yên Phụ, a que acompanha o dique do rio Vermelho, como no regresso descrito no itinerário de um dia. Se a ponte estiver fechada, o [guia da ponte Long Biên](/zonas-de-hanoi/ponte-long-bien/) explica a alternativa.",
+        "Um dos guias pede ombros e joelhos cobertos. Nos dias 1 e 15 do mês lunar, o pagode abre das 6:00 às 18:00 e tem muita afluência.",
+        {
+          "h3": "2. Templo Phủ Tây Hồ: paragem opcional junto ao Lago Oeste"
+        },
+        "A ligação desde o Trấn Quốc faz-se pela margem do Lago Oeste: marque os dois pontos no mapa e confirme no local o sentido de cada rua. Não encontrámos regras de vestuário nem preço de entrada para este templo. Se o relógio apertar, é a paragem a saltar, porque não condiciona as seguintes.",
+        {
+          "h3": "3. Pagode de Um Pilar: uma paragem curta em Ba Đình"
+        },
+        "O pagode de Um Pilar (Chùa Một Cột) é pequeno e fica em Ba Đình, na mesma zona do Mausoléu de Hồ Chí Minh, fechado para manutenção de 4 de setembro a 2 de novembro de 2026. Os guias não dizem se isso muda o acesso ao pagode, e só um dá o horário: confirme à chegada.",
+        {
+          "h3": "4. Templo da Literatura: a visita mais longa"
+        },
+        "A entrada principal fica no n.º 58 da rua Quốc Tử Giám. Os guias discordam no preço (um dá 70 mil VND para adultos e 35 mil para estudantes e seniores, outros dão 30 mil) e no horário de verão. O horário mais curto, das 8:00 às 17:00, é a referência deste roteiro.",
+        {
+          "h3": "5. Templo Ngọc Sơn: o fecho, no lago Hoàn Kiếm"
+        },
+        "O templo fica numa ilhota do lago e é monumento nacional especial desde 2013. Venera Trần Hưng Đạo e Văn Xương Đế Quân. O bilhete compra-se no balcão à entrada da ponte Thê Húc. O guia da companhia aérea nacional dá abertura das 7:00 às 21:00 ao fim de semana; os outros terminam às 17:00 ou às 18:00.",
+        "Às sextas, sábados e domingos, das 19:00 às 24:00, motas e automóveis não entram na zona 1 do lago, descrita na página da [zona de baixas emissões](/tipos-de-motas/zona-de-baixas-emissoes-hanoi/). O horário alargado do fim de semana só serve a quem vá a pé ou deixe a mota fora da zona. De dia, estacione na orla; para o regresso pelo Bairro Antigo, veja os sentidos únicos e os peões no guia para [conduzir no Bairro Antigo](/zonas-de-hanoi/conduzir-no-bairro-antigo/)."
+      ]
+    },
+    {
+      "h2": "O que vestir e como se comportar",
+      "body": [
+        "O único guia que fala de vestuário pede, para o Trấn Quốc, ombros e joelhos cobertos. Para os outros quatro locais não encontrámos regras escritas. O mais prudente é vestir sempre como para o Trấn Quốc: calças compridas ou saia abaixo do joelho e uma camisa ou t-shirt que cubra os ombros.",
+        "São locais de culto ativos, com mais gente em dias lunares fixos. Fale baixo e peça licença antes de fotografar quem está a rezar."
+      ]
+    },
+    {
+      "h2": "Onde deixar a mota e quanto custa",
+      "body": [
+        "Os guias só dão dados de estacionamento para três locais; no Ngọc Sơn e no pagode de Um Pilar não há dados. O preço dos parques com funcionário é regulado. A Decisão 44/2017/QĐ-UBND do Comité Popular de Hanói, em vigor desde 1 de janeiro de 2018, fixa preços máximos por tipo de veículo, zona, vez ou mês e dia ou noite. A base de dados caselaw.vn ainda a dava como em vigor a 13 de outubro de 2026. Não conseguimos confirmar os valores atuais, por isso pergunte o preço antes de deixar a mota e confira-o no talão, onde vem impresso. Reportagens antigas da VnExpress registaram parques a cobrar acima do preço impresso, sobretudo perto do Tết.",
+        {
+          "ul": [
+            "Guarde o talão e fotografe a mota estacionada com o nome da rua.",
+            "Pergunte até que horas o parque está aberto.",
+            "Não estacione no passeio nem na faixa de rodagem sem autorização: o Decreto 168/2024/NĐ-CP prevê uma coima de 400 mil a 600 mil VND para esse caso (artigo 7.º, n.º 2, alínea d)."
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "Dias lunares e Tết: quando os templos enchem",
+      "body": [
+        "Segundo os guias, o Trấn Quốc e o Phủ Tây Hồ têm muita afluência no 1.º e no 15.º dia de cada mês lunar e no Tết; na passagem do ano lunar (Giao thừa), o Trấn Quốc fica aberto toda a noite. No Phủ Tây Hồ, uma fonte indica como principais dias de festa o 3 e o 18 do 3.º mês lunar, em que o templo fecha mais tarde.",
+        "O Tết de 2027 começa a 6 de fevereiro, um sábado. Se a viagem coincidir com estas datas, comece pelo Trấn Quốc à abertura e conte com mais gente; se preferir sossego, mude o dia. Não encontrámos fonte para as datas lunares dos próximos meses: consulte um calendário lunar vietnamita (âm lịch)."
+      ]
+    },
+    {
+      "h2": "Antes de arrancar de Long Biên",
+      "body": [
+        {
+          "checklist": [
+            "Leve a carta de condução e os documentos do aluguer, como explica o guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/).",
+            "Marque no mapa descarregado as moradas: 46 Thanh Niên (Trấn Quốc), 52 Đặng Thai Mai (Phủ Tây Hồ), 58 Quốc Tử Giám (Templo da Literatura) e a ponte Thê Húc (Ngọc Sơn).",
+            "Vista roupa que cubra ombros e joelhos desde a saída, e leve notas pequenas em dongs para bilhetes e parques.",
+            "Guarde o contacto da loja, {{phone}}, e a morada em vietnamita, {{address.vi}}, para pedir indicações no regresso.",
+            "Combine a hora de devolução: a loja fecha às {{closes}}."
+          ]
+        },
+        "Para outros percursos pela cidade, [Rotas e mobilidade](/rotas-e-mobilidade/) reúne os itinerários já publicados."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Preciso de bilhete para todos os templos do roteiro?",
+      "a": "Segundo os guias, não: o Ngọc Sơn custa 30 mil VND, o Templo da Literatura 30 mil ou 70 mil VND, e o pagode de Um Pilar e o Trấn Quốc são gratuitos (um guia indica 5 mil VND no Trấn Quốc). Confirme à entrada, sobretudo no Phủ Tây Hồ, sem preço nos guias."
+    },
+    {
+      "q": "Posso fazer o roteiro ao fim de semana?",
+      "a": "Pode, de dia. Às sextas, sábados e domingos, das 19:00 às 24:00, motas e automóveis não entram na zona pedonal do lago Hoàn Kiếm, onde fica o Ngọc Sơn. Como o roteiro termina cedo, a regra não o afeta. Se quiser voltar ao lago à noite, estacione fora da zona e vá a pé."
+    },
+    {
+      "q": "Que paragem devo saltar se o dia se atrasar?",
+      "a": "O templo Phủ Tây Hồ, que é opcional e não condiciona as seguintes. Mantenha o Trấn Quốc na primeira janela e chegue ao Templo da Literatura antes das 15:00 e ao Ngọc Sơn antes das 16:00, para respeitar o horário mais curto dos guias."
+    },
+    {
+      "q": "Posso fazer este roteiro se nunca conduzi uma mota?",
+      "a": "Não é o mais indicado. O roteiro atravessa o centro e as margens do Lago Oeste, com muito trânsito e várias manobras para estacionar. Quem nunca conduziu uma mota deve ler antes a avaliação sobre [conduzir pela primeira vez](/tipos-de-motas/nunca-conduziu-uma-mota/) e, na dúvida, ver os templos de táxi ou a pé."
+    }
+  ],
+  "sources": [
+    "vietnamnet-zbe-revisao",
+    {
+      "title": "Đôi nét về đền Ngọc Sơn",
+      "publisher": "VinWonders",
+      "url": "https://vinwonders.com/vi/bai-viet-du-lich/den-ngoc-son-ha-noi/",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Top 7 Beautiful Temples And Pagodas In Hanoi Must Visit",
+      "publisher": "Hanoi Voyage",
+      "url": "https://www.hanoivoyage.com/en/blog/7-ha-noi-beautiful-temples-and-pagodas.html",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "en"
+    },
+    {
+      "title": "Guia de viagem «What to visit in Hanoi» da Vietnam Airlines (em inglês)",
+      "publisher": "Vietnam Airlines",
+      "url": "https://www.vietnamairlines.com/us/en/plan-book/travel/travel-guide/what-to-visit-in-hanoi",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "en"
+    },
+    {
+      "title": "Văn Miếu Quốc Tử Giám",
+      "publisher": "Vinpearl",
+      "url": "https://vinpearl.com/vi/van-mieu-quoc-tu-giam",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Giới thiệu về Văn Miếu Quốc Tử Giám",
+      "publisher": "VinWonders",
+      "url": "https://vinwonders.com/vi/bai-viet-du-lich/van-mieu-quoc-tu-giam/",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Visita ao pagode Trấn Quốc, ao lado do Lago Oeste (MIA.vn, em vietnamita)",
+      "publisher": "MIA.vn",
+      "url": "https://mia.vn/cam-nang-du-lich/tham-quan-chua-tran-quoc-co-tu-ngan-nam-tuoi-ben-ho-tay-2644",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Ficha do pagode Trấn Quốc em Hanói (Vinpearl, em vietnamita)",
+      "publisher": "Vinpearl",
+      "url": "https://vinpearl.com/vi/chua-tran-quoc-ha-noi",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Pagode Trấn Quốc como destino espiritual de Hanói (Mytour, em vietnamita)",
+      "publisher": "Mytour",
+      "url": "https://mytour.vn/vi/blog/bai-viet/chua-tran-quoc-diem-den-tam-linh-noi-bat-o-ha-noi.html",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Guia de viagem da Vietnam Airlines sobre o pagode Trấn Quốc (em vietnamita)",
+      "publisher": "Vietnam Airlines",
+      "url": "https://www.vietnamairlines.com/es/vi/plan-book/travel/travel-guide/tran-quoc-pagoda",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Ficha do templo Phủ Tây Hồ (MIA.vn, em vietnamita)",
+      "publisher": "MIA.vn",
+      "url": "https://mia.vn/cam-nang-du-lich/phu-tay-ho-13093",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Đôi nét về Phủ Tây Hồ – chốn thiêng giữa lòng Thủ đô",
+      "publisher": "VinWonders",
+      "url": "https://vinwonders.com/vi/wonderpedia/news/phu-tay-ho-ha-noi/",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Ficha do templo Phủ Tây Hồ em Hanói (Vinpearl, em vietnamita)",
+      "publisher": "Vinpearl",
+      "url": "https://vinpearl.com/vi/phu-tay-ho-ha-noi",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Tu bổ định kỳ Lăng Chủ tịch Hồ Chí Minh từ 4/9 đến 2/11",
+      "publisher": "VietnamPlus — TTXVN",
+      "url": "https://www.vietnamplus.vn/tu-bo-dinh-ky-lang-chu-tich-ho-chi-minh-tu-49-den-211-post1133954.vnp",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Quyết định 44/2017/QĐ-UBND về giá dịch vụ trông giữ xe đạp, xe máy, xe ô tô trên địa bàn thành phố Hà Nội",
+      "publisher": "caselaw.vn",
+      "url": "https://caselaw.vn/van-ban-phap-luat/305048-quyet-dinh-44-2017-qd-ubnd-ve-gia-dich-vu-trong-giu-xe-dap-xe-may-xe-o-to-tren-dia-ban-thanh-pho-ha-noi",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "Bãi gửi xe 'chặt chém' khách sắm Tết",
+      "publisher": "VnExpress",
+      "url": "https://vnexpress.net/bai-gui-xe-chat-chem-khach-sam-tet-2155346.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Bắt chẹt khách gửi xe ngày Tết",
+      "publisher": "VnExpress",
+      "url": "https://vnexpress.net/bat-chet-khach-gui-xe-ngay-tet-2079064.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Nghị định 168 đối với xe máy: 10 mức phạt mọi tài xế cần biết",
+      "publisher": "LuatVietnam",
+      "url": "https://luatvietnam.vn/giao-thong/nghi-dinh-168-doi-voi-xe-may-863-100609-article.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "Mức phạt đỗ xe máy, đi xe máy trên vỉa hè năm 2026 là bao nhiêu?",
+      "publisher": "THƯ VIỆN PHÁP LUẬT",
+      "url": "https://thuvienphapluat.vn/phap-luat-nha-dat/muc-phat-do-xe-may-di-xe-may-tren-via-he-nam-2026-la-bao-nhieu-14552.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "Notícia de 24 de dezembro de 2025 sobre restrições a camiões na avenida Thăng Long e na QL32, no sentido da Circular 3 (em vietnamita)",
+      "publisher": "Tạp chí Luật sư Việt Nam (LSVN)",
+      "url": "https://lsvn.vn/ha-noi-du-kien-han-che-mot-so-loai-phuong-tien-luu-thong-vao-vanh-dai-3-tren-cao-a167515.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Tết âm lịch 2027 là ngày mấy dương lịch?",
+      "publisher": "Thư Viện Pháp Luật",
+      "url": "https://thuvienphapluat.vn/hoi-dap-phap-luat/tet-am-lich-2027-la-ngay-may-duong-lich-138050948.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "Tết 2027 vào ngày nào? Tết 2027 năm con gì?",
+      "publisher": "Thư Viện Pháp Luật",
+      "url": "https://thuvienphapluat.vn/hoi-dap-phap-luat/tet-2027-vao-ngay-nao-tet-2027-nam-con-gi-138079418.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    }
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "PUBLISHED",
+  "date_published": "2026-10-13",
+  "date_modified": "2026-10-13",
+  "editorial": {
+    "qa_score": 100,
+    "qa_warnings": [],
+    "words": 1983,
+    "publish_mode": "review",
+    "approved_at": "2026-10-13",
+    "revisions": []
+  }
+}

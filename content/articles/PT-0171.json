@@ -1,0 +1,313 @@
+{
+  "contract_version": 1,
+  "id": "PT-0171",
+  "slug": "piso-molhado-e-chuva",
+  "title": "Conduzir mota à chuva: travar e manter distância em piso molhado",
+  "description": "Como conduzir uma mota à chuva: a distância de paragem duplica, o intervalo para o veículo da frente também, e a travagem é suave, com os dois travões.",
+  "h1": "Mota em piso molhado: como travar, manter distância e evitar a queda",
+  "summary": "Em piso molhado, abrande cedo e trave com suavidade, usando os dois travões: com chuva, as distâncias de paragem são pelo menos o dobro das de piso seco e o intervalo para o veículo da frente deve duplicar. São boas práticas de fontes estrangeiras, e não regras do Vietname.",
+  "key_points": [
+    "Com chuva, os pneus têm menos aderência e a mota precisa de, no mínimo, o dobro da distância para parar.",
+    "O intervalo de dois segundos para o veículo da frente passa a quatro segundos ou mais.",
+    "Trave com os dois travões e com suavidade; se uma roda bloquear, solte, mantenha a direção a direito e volte a travar com menos força.",
+    "O ABS tem limites: o piso molhado e as estradas sujas continuam a afetar a travagem.",
+    "Não encontrámos fonte fiável sobre marcas pintadas, tampas e chapas metálicas molhadas, e o texto diz como tratar essa lacuna."
+  ],
+  "intro": [
+    "Com o piso molhado, a mota continua a fazer o que fazia no seco, mas com menos margem. Este guia trata só da técnica: o que muda na distância, na travagem e na visibilidade quando chove.",
+    "A previsão do tempo, as ruas alagadas e o planeamento de cada dia ficam fora deste texto. Aqui conta o que fazer com o acelerador e com as manetes quando o asfalto já está molhado.",
+    "Quase tudo o que se segue vem de fontes estrangeiras: o Highway Code do Reino Unido, manuais de proprietário da Honda e documentos de segurança dos Estados Unidos. São recomendações de segurança, e não regras do Vietname. Onde não encontrámos fonte fiável, o texto di-lo."
+  ],
+  "sections": [
+    {
+      "h2": "O que muda quando o piso está molhado",
+      "body": [
+        "O guia oficial sobre condução com mau tempo, publicado pelo Governo da Irlanda do Norte com as regras do Highway Code, resume a mudança numa frase: com chuva, as distâncias de paragem são pelo menos o dobro das de piso seco, porque os pneus têm menos aderência. O mesmo texto manda manter-se bem atrás do veículo da frente.",
+        "Um artigo do Portal do Trânsito, do Brasil, junta outros dois fatores que explicam os incidentes com chuva: a aquaplanagem e a menor visibilidade. Recomenda ainda manter os pneus em bom estado e com a pressão certa.",
+        {
+          "table": {
+            "caption": "Chuva: o que muda e o que fazer",
+            "head": [
+              "O que muda",
+              "Consequência",
+              "O que fazer"
+            ],
+            "rows": [
+              [
+                "Aderência dos pneus",
+                "A distância de paragem passa a ser, no mínimo, o dobro",
+                "Abrande cedo e comece a travar mais cedo"
+              ],
+              [
+                "Intervalo para o veículo da frente",
+                "É preciso mais espaço para uma travagem brusca",
+                "Duplique o intervalo habitual"
+              ],
+              [
+                "Visibilidade",
+                "Vê menos e é menos visto",
+                "Viseira limpa e roupa que se veja de longe"
+              ],
+              [
+                "Estado dos pneus",
+                "Pesa mais com o piso molhado",
+                "Confirme o piso e a pressão antes de sair"
+              ]
+            ]
+          }
+        },
+        {
+          "note": "O Highway Code é do Reino Unido e os documentos de segurança citados são dos Estados Unidos. Os princípios de aderência e de travagem valem em qualquer país, mas nenhuma destas fontes é uma regra do Vietname.",
+          "tone": "info",
+          "title": "Boas práticas estrangeiras, não lei vietnamita"
+        }
+      ]
+    },
+    {
+      "h2": "A distância para o veículo da frente: o dobro do habitual",
+      "body": [
+        "A regra 126 do Highway Code manda nunca ficar mais perto do veículo da frente do que a distância total de paragem. Como referência, pede pelo menos dois segundos de intervalo em vias com trânsito mais rápido e, com o piso molhado, pelo menos o dobro: quatro segundos.",
+        "Para medir o intervalo sem calcular distâncias, escolha um ponto fixo e conte:",
+        {
+          "steps": [
+            {
+              "title": "Escolha um ponto fixo à frente",
+              "text": "Um poste, um sinal ou uma marca à beira da via serve, desde que o veículo da frente passe por ele antes de si."
+            },
+            {
+              "title": "Conte devagar",
+              "text": "Quando o veículo da frente passar nesse ponto, comece a contar devagar, um segundo de cada vez."
+            },
+            {
+              "title": "Compare com o seu intervalo",
+              "text": "Se chegar ao ponto antes de acabar a contagem, está demasiado perto. Com o piso molhado, a contagem vai até quatro."
+            }
+          ]
+        },
+        "Este método vem de guias de condução brasileiros, que falam em três a quatro segundos com chuva: um valor coerente com o do Highway Code.",
+        "Em trânsito denso, em que outra mota pode ocupar o espaço que deixou livre, quatro segundos podem parecer pouco realistas. Em vez de se aproximar para fechar esse espaço, trate a dificuldade como um aviso para baixar a velocidade: uma regra de segurança não deixa de valer porque o trânsito à volta a ignora."
+      ]
+    },
+    {
+      "h2": "Travar com chuva: os dois travões, com suavidade",
+      "body": [
+        "Dois manuais de proprietário da Honda, de motas de maior cilindrada do que as scooters de aluguer, dizem que o travão da frente dá cerca de 70% da força total de travagem. Para a máxima eficácia, usam-se os dois travões ao mesmo tempo: a mota para mais depressa e com mais estabilidade. O manual do motociclista do estado norte-americano da Geórgia fala em «70% ou mais».",
+        "Estes textos não separam o seco do molhado. Aplique o princípio com mais margem: como a distância de paragem pode dobrar, comece a travar mais cedo e aperte os comandos aos poucos, em vez de os agarrar de uma vez. Travar com demasiada força pode bloquear as rodas e fazer a mota derrapar.",
+        {
+          "h3": "Se uma roda bloquear"
+        },
+        "Os manuais da Honda indicam o que fazer, por esta ordem:",
+        {
+          "steps": [
+            {
+              "title": "Solte os travões",
+              "text": "Alivie os comandos para a roda deixar de estar bloqueada."
+            },
+            {
+              "title": "Mantenha a direção a direito",
+              "text": "Não vire o guiador até recuperar o controlo da mota."
+            },
+            {
+              "title": "Volte a travar com mais suavidade",
+              "text": "Aperte de novo os comandos, desta vez com menos força."
+            }
+          ]
+        },
+        {
+          "h3": "ABS e travagem combinada"
+        },
+        "O ABS, o sistema antibloqueio, tem limites: segundo a SlashGear, o piso molhado e as estradas sujas estão entre os fatores que afetam a travagem. Pergunte à loja se a mota que vai receber tem ABS ou travagem combinada (CBS) e qual comando trava qual roda. Saber isto é o ponto de partida para usar os dois travões."
+      ]
+    },
+    {
+      "h2": "Pneus, viseira e roupa: aderência e visibilidade",
+      "body": [
+        {
+          "h3": "Pneus"
+        },
+        "Nas checklists T-CLOCS, um sistema de inspeção antes de conduzir descrito pela Motorcycle Safety Foundation, os pneus verificam-se no piso e na pressão: mede-se a frio e ajusta-se à pressão recomendada pelo fabricante, tendo em conta a carga total. Não encontrámos a pressão recomendada para as scooters de aluguer, por isso peça-a à loja.",
+        "À entrega, veja o piso dos pneus. O guia sobre [como receber a mota](/guia-de-aluguer/receber-a-mota/) descreve a inspeção, e o de [fotografar a mota](/guia-de-aluguer/fotografar-a-mota/) mostra como registar o estado em que a recebe. Se o piso lhe parecer gasto, peça [outra mota](/guia-de-aluguer/trocar-de-mota/) antes de sair.",
+        {
+          "h3": "Ver e ser visto"
+        },
+        "O Portal do Trânsito indica que a roupa refletora e a viseira antiembaciamento aumentam a visibilidade. O Highway Code vai no mesmo sentido: capacete claro ou de cor viva, roupa ou faixas fluorescentes e, no escuro, roupa ou faixas refletoras. Lembra ainda que os outros condutores podem não o ter visto ou ter calculado mal a sua distância ou a sua velocidade, sobretudo nos cruzamentos.",
+        "Uma capa de chuva ajuda a manter o corpo seco e a atenção na estrada. O guia dos [acessórios para a mota alugada](/precos/capa-de-chuva-e-acessorios/) explica o que pedir à loja e o que levar de casa."
+      ]
+    },
+    {
+      "h2": "O que não conseguimos confirmar: marcas, tampas e chapas metálicas",
+      "body": [
+        "Ficam por tratar as marcas pintadas na estrada, as tampas de esgoto e as chapas metálicas. Procurámos fontes oficiais ou fiáveis sobre o seu comportamento com o piso molhado e não encontrámos nenhuma. Por isso, este guia não diz que sejam mais ou menos escorregadias, não dá números e não descreve técnica de curva em piso molhado.",
+        "O que as fontes permitem afirmar é geral: com chuva, os pneus têm menos aderência. Perante uma superfície que não conhece, aplique o que ficou acima, com menos velocidade, mais distância e travagem suave, e pergunte à loja se há troços da zona que deva evitar quando chove.",
+        "Quem quer aprender técnica de curva em piso molhado deve procurá-la num curso com instrutor, no seu país: um artigo não substitui a prática supervisionada. O guia [Nunca conduziu uma mota?](/tipos-de-motas/nunca-conduziu-uma-mota/) explica porque Hanói não é sítio para aprender."
+      ]
+    },
+    {
+      "h2": "Quando parar e deixar a mota",
+      "body": [
+        "Nenhuma técnica compensa uma chuva que o impede de ver ou de controlar a mota. Se a viseira embacia e não a consegue limpar, se sente a mota a perder aderência ou se o trânsito deixou de ser legível, encoste num sítio seguro e espere que abrande. O guia sobre [quando é melhor não conduzir](/rotas-e-mobilidade/quando-nao-conduzir/) compara as alternativas à mota nesses dias.",
+        "Se a mota ficar com algum problema depois de uma travagem difícil, não continue. O guia da [assistência na estrada](/guia-de-aluguer/assistencia-na-estrada/) explica o que esperar, e pode contactar a loja pelo {{phone}}."
+      ]
+    },
+    {
+      "h2": "Lista rápida antes de arrancar com o piso molhado",
+      "body": [
+        {
+          "checklist": [
+            "Sei qual comando trava cada roda e vou usar os dois travões.",
+            "Os pneus têm o piso em bom estado e a pressão que o fabricante recomenda.",
+            "A viseira está limpa e a roupa vê-se de longe.",
+            "Vou deixar pelo menos o dobro do intervalo habitual para o veículo da frente.",
+            "Começo a travar mais cedo e aperto os comandos aos poucos.",
+            "Se deixar de ver bem, paro num sítio seguro."
+          ]
+        },
+        "As regras gerais de aluguer e de condução estão reunidas no [guia de aluguer](/guia-de-aluguer/). A {{brand}} está aberta {{hours}}: pode tirar dúvidas sobre a mota por telefone, no {{phone}}, ou pela página de [contactos](/contactos/)."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Que travão devo usar com o piso molhado?",
+      "a": "Os dois ao mesmo tempo e aos poucos. Segundo manuais da Honda, o da frente dá cerca de 70% da força de travagem e os dois juntos param a mota mais depressa e com mais estabilidade. Peça à loja que lhe mostre qual comando trava qual roda."
+    },
+    {
+      "q": "Quantos segundos devo deixar para o veículo da frente quando chove?",
+      "a": "Pelo menos o dobro do habitual: o Highway Code pede dois segundos em vias com trânsito mais rápido e o dobro com o piso molhado, ou seja, quatro. É uma boa prática do Reino Unido e não uma regra vietnamita. Em trânsito denso, use-a como sinal para baixar a velocidade."
+    },
+    {
+      "q": "O ABS impede a queda em piso molhado?",
+      "a": "Não. O ABS tem limites: segundo a SlashGear, o piso molhado e as estradas sujas estão entre os fatores que afetam a travagem. Pergunte à loja se a mota o tem, mas conte sempre com mais distância de paragem do que no seco."
+    },
+    {
+      "q": "As tampas de esgoto e as marcas pintadas escorregam com chuva?",
+      "a": "Não encontrámos fonte fiável que o diga, por isso não o afirmamos. O que está confirmado é que, com chuva, os pneus têm menos aderência em geral: reduza a velocidade e trave com suavidade em qualquer superfície que não conheça."
+    },
+    {
+      "q": "Estas recomendações são obrigatórias no Vietname?",
+      "a": "Não. As distâncias e os conselhos de travagem vêm do Highway Code, de manuais da Honda e de documentos de segurança dos Estados Unidos: são boas práticas de segurança. O que a lei vietnamita exige a quem conduz está nos guias de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/) e de carta."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Driving in adverse weather conditions (226 to 237)",
+      "publisher": "nidirect (Governo da Irlanda do Norte)",
+      "url": "https://nidirect.gov.uk/node/5167",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "title": "Rules for motorcyclists (83 to 88)",
+      "publisher": "nidirect (Governo da Irlanda do Norte)",
+      "url": "https://nidirect.gov.uk/articles/rules-motorcyclists-83-88",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "title": "Regra 126 do Highway Code britânico: distâncias de paragem (reprodução em inglês)",
+      "publisher": "theorytest.org.uk (reprodução do texto oficial)",
+      "url": "https://theorytest.org.uk/hwc/highway-code/rule-126.html",
+      "accessed": "2026-10-13",
+      "type": "reference",
+      "lang": "en"
+    },
+    {
+      "title": "Honda VT750C2B — manual do proprietário, p. 54",
+      "publisher": "Honda (cópia alojada em bike-parts.fr)",
+      "url": "https://www.bike-parts.fr/thumbs/pdf_url/img/owner_manuals/owner_VT750C2BA/2500_2500/0054.pdf",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "en"
+    },
+    {
+      "title": "Honda VT1300CX — manual do proprietário, p. 55",
+      "publisher": "Honda (cópia alojada em bike-parts.fr)",
+      "url": "https://www.bike-parts.fr/thumbs/pdf_url/img/owner_manuals/owner_VT1300CXA_CXAA/2500_2500/0055.pdf",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "en"
+    },
+    {
+      "title": "Georgia Motorcycle Operator Manual — travagem e distâncias de paragem",
+      "publisher": "Georgia Department of Driver Services (EUA)",
+      "url": "https://dds.georgia.gov/node/33951",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "title": "What Is The 70/30 Brake Rule For Motorcycles?",
+      "publisher": "SlashGear",
+      "url": "https://www.slashgear.com/2192377/what-is-70-30-brake-rule-motorcycles/",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "en"
+    },
+    {
+      "title": "Artigo sobre como o motociclista se deve proteger quando há previsão de temporal (em português do Brasil)",
+      "publisher": "Portal do Trânsito (Brasil)",
+      "url": "https://www.portaldotransito.com.br/noticias/previsao-de-temporal-motociclista-veja-como-se-proteger/",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "pt-BR"
+    },
+    {
+      "title": "Artigo sobre equipamentos de segurança do motociclista (em português do Brasil)",
+      "publisher": "Portal do Trânsito (Brasil)",
+      "url": "https://www.portaldotransito.com.br/noticias/mobilidade-e-tecnologia/veiculos/equipamentos-de-seguranca-do-motociclista/amp/",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "pt-BR"
+    },
+    {
+      "title": "Artigo sobre a distância em segundos para o veículo da frente (em português do Brasil)",
+      "publisher": "TNH1 (Brasil)",
+      "url": "https://www.tnh1.com.br/tnh1-variedades/a-quantos-segundos-voce-deve-estar-de-distancia-de-um-carro-se-estiver-dirigindo-na-estrada/",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "pt-BR"
+    },
+    {
+      "title": "Cartões de curso da Motorcycle Safety Foundation (PDF em inglês)",
+      "publisher": "Cecil College (PDF com cartões de curso da MSF)",
+      "url": "https://www.cecil.edu/wp-content/uploads/abrc-course-cards.pdf",
+      "accessed": "2026-10-13",
+      "type": "reference",
+      "lang": "en"
+    },
+    {
+      "title": "T-CLOCS Checklist Motorcycle Inspection",
+      "publisher": "Marine Corps Base Hawaii (Safety)",
+      "url": "https://www.mcbhawaii.marines.mil/Portals/114/WebDocuments/Safety/T-CLOCSChecklistMotorcycleInspection.pdf",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "title": "Motorcycle safety inspection",
+      "publisher": "Air Force Global Strike Command (EUA)",
+      "url": "https://www.afgsc.af.mil/News/Article-Display/Article/848986/motorcycle-safety-inspection/",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    }
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "PUBLISHED",
+  "date_published": "2026-10-13",
+  "date_modified": "2026-10-13",
+  "editorial": {
+    "qa_score": 100,
+    "qa_warnings": [],
+    "words": 1765,
+    "publish_mode": "review",
+    "approved_at": "2026-10-13",
+    "revisions": []
+  }
+}

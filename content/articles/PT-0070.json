@@ -1,0 +1,197 @@
+{
+  "contract_version": 1,
+  "id": "PT-0070",
+  "slug": "mota-para-o-fim-de-semana",
+  "title": "Mota para o fim de semana em Hanói: de sexta a domingo",
+  "description": "Como planear um aluguer de mota de sexta a domingo em Hanói: como se contam os dias, levantar antes das 19:00, o sábado, a devolução de domingo e o que pedir.",
+  "h1": "Alugar uma mota de sexta a domingo em Hanói: levantar, circular e devolver",
+  "summary": "Para um fim de semana de mota em Hanói, levante-a na sexta-feira a meio da tarde, antes das 19:00, e devolva-a no domingo dentro do horário da loja ({{hours}}). À data de 13 de outubro de 2026, a zona 1 do centro fecha às motas de sexta a domingo, das 19:00 às 24:00. Peça à loja o total para as suas datas e a forma como conta cada dia.",
+  "key_points": [
+    "Pergunte como a loja conta «sexta a domingo»: três dias de calendário ou dois períodos de 24 horas dão totais diferentes.",
+    "Levante a mota a meio da tarde de sexta: das 19:00 às 24:00, de sexta a domingo, a zona 1 de Hoàn Kiếm está fechada às motas (regra verificada a 13 de outubro de 2026).",
+    "Se só chegar à loja ao fim do dia, levante a mota no sábado, a partir das {{opens}}, e faça o primeiro percurso de dia.",
+    "No sábado, escolha entre um circuito pela cidade e uma saída de um dia autorizada pela loja, sem autoestradas.",
+    "No domingo, trate as {{closes}} como o limite e devolva a mota com margem."
+  ],
+  "intro": [
+    "Um fim de semana de mota em Hanói tem uma particularidade: as noites de sexta, sábado e domingo são as que mais mudam no centro histórico, onde, à noite, as motas deixam de ter lugar. Quem levanta a mota ao fim da tarde de sexta e a devolve ao domingo passa por todas elas.",
+    "Este guia segue o fim de semana por ordem, com a loja {{brand}}, em {{area}}. A conta entre dias avulsos e tarifa semanal está no guia do [aluguer semanal](/precos/aluguer-semanal-de-mota/); se só precisa de um dos dias, serve melhor o do [aluguer por um dia](/precos/aluguer-de-mota-por-um-dia/)."
+  ],
+  "sections": [
+    {
+      "h2": "Sexta a domingo: quantos dias paga e como se contam",
+      "body": [
+        "«De sexta a domingo» pode querer dizer duas coisas numa loja de aluguer. Se os dias se contam por data de calendário, são três: sexta, sábado e domingo. Se se contam períodos de 24 horas a partir do levantamento, uma mota levantada na sexta à tarde e devolvida à mesma hora de domingo paga dois dias. A diferença altera o total e a hora a que tem de entregar a mota.",
+        "O site não publica a forma de contagem da loja: pergunte-a ao reservar. O guia sobre a [hora de devolução e a contagem do dia](/precos/horas-de-levantamento-e-devolucao/) explica as duas formas; num fim de semana, vêem-se assim:",
+        {
+          "table": {
+            "caption": "Um fim de semana conforme a forma de contagem do dia",
+            "head": [
+              "Plano",
+              "Contagem por 24 horas",
+              "Contagem por dia de calendário"
+            ],
+            "rows": [
+              [
+                "Levantar na sexta às 16:00 e devolver ao domingo",
+                "Devolução no domingo às 16:00, com dois dias",
+                "Devolução no domingo até às {{closes}}, com três dias"
+              ],
+              [
+                "Levantar na sexta às 18:00 e devolver ao domingo ao fim da tarde",
+                "Devolução no domingo às 18:00, com dois dias",
+                "Três dias, mesmo com a maior parte da sexta por usar"
+              ],
+              [
+                "Levantar no sábado às {{opens}} e devolver ao domingo",
+                "Um dia fecha no domingo às {{opens}}; depois, pergunte como se contam as horas a mais",
+                "Dois dias, com devolução até às {{closes}}"
+              ]
+            ]
+          }
+        },
+        "Na tabela de referência, um dia custa {{price.vision.day}} numa Honda Vision e {{price.click.day}} numa Honda Click (verificado a {{pricing.verifiedAt}}). Num aluguer de dois ou três dias, um dia a mais pesa muito. O total para as suas datas é o que a loja confirmar; as tarifas de todos os modelos estão na [página de preços](/precos/)."
+      ]
+    },
+    {
+      "h2": "Levantar na sexta-feira: a meio da tarde, antes das 19:00",
+      "body": [
+        "A loja está aberta {{hours}}, por isso um levantamento ao fim da tarde de sexta cabe no horário. O que o aperta é outra hora: a partir das 19:00 de sexta, a zona 1 do centro fecha às motas. Quem sai da loja às 18:30 para jantar no Bairro Antigo chega às barreiras com a mota.",
+        "A entrega também demora: o guia sobre [receber a mota](/guia-de-aluguer/receber-a-mota/) conta 30 a 45 minutos entre chegar à loja e sair para a estrada. Para arrancar ainda de dia, chegue a meio da tarde; no inverno, escurece mais cedo.",
+        {
+          "h3": "Se só chega à loja ao fim do dia"
+        },
+        "Se só consegue ir depois das 18:00, considere levantar a mota no sábado de manhã, a partir das {{opens}}. Perde a noite de sexta, a mais limitada para as motas no centro, e ganha um primeiro percurso de dia. Pergunte se a sexta deixa então de contar como dia de aluguer e peça que a data de início fique escrita.",
+        {
+          "h3": "Se o alojamento fica dentro da zona 1"
+        },
+        "Com alojamento junto ao lago ou nas ruas do mercado noturno, chegar de mota numa sexta à noite é a situação difícil. O guia da [entrega da mota no hotel](/precos/entrega-da-mota-no-hotel/) recomenda não marcar a entrega para as noites de sexta a domingo. Pergunte à receção, antes de reservar, onde fica a mota nesses dias."
+      ]
+    },
+    {
+      "h2": "O que muda no centro de Hanói de sexta a domingo",
+      "body": [
+        "À data de 13 de outubro de 2026, decorre a primeira fase da zona de baixas emissões de Hanói, prevista até 31 de dezembro de 2026. Na zona 1, que abrange o espaço pedonal do lago Hoàn Kiếm e as ruas do mercado noturno, motas e automóveis não podem entrar às sextas, sábados e domingos, das 19:00 às 24:00, elétricas incluídas. Está prevista uma fase seguinte em 2027, por isso confirme a regra se viajar mais tarde.",
+        "Para um fim de semana de mota, isto resume-se a um relógio. De dia, a mota circula no centro, mas algumas ruas junto ao lago podem estar fechadas: a imprensa vietnamita situa o espaço pedonal entre as 19:00 de sexta e as 24:00 de domingo. Barreiras e agentes valem mais do que qualquer horário publicado. À noite, a mota fica fora da zona.",
+        "Os horários mudam com o calendário: em 2026, o espaço pedonal esteve suspenso de 13 a 20 de março por causa das eleições. Se o seu fim de semana coincidir com um feriado, confirme as ruas fechadas e pergunte à loja se o horário habitual se mantém. A regra e os parques à volta da zona estão no guia da [zona de baixas emissões](/tipos-de-motas/zona-de-baixas-emissoes-hanoi/); o de [conduzir no Bairro Antigo](/zonas-de-hanoi/conduzir-no-bairro-antigo/) trata das ruas estreitas de dia."
+      ]
+    },
+    {
+      "h2": "Sábado: um dia inteiro de mota, na cidade ou fora dela",
+      "body": [
+        "O sábado é o dia em que a mota rende mais; se contar com as 19:00, o fim da tarde serve para regressar.",
+        {
+          "h3": "Um circuito pela cidade"
+        },
+        "O itinerário de [Hanói de mota num dia](/rotas-e-mobilidade/hanoi-de-mota-num-dia/) parte de Long Biên, liga seis paragens e prevê o regresso fora da hora de ponta. Num fim de semana, esteja fora da zona 1 antes das 19:00. O guia da [ponte Long Biên](/zonas-de-hanoi/ponte-long-bien/) mostra como atravessar o rio para o centro.",
+        {
+          "h3": "Uma saída para fora de Hanói"
+        },
+        "Para sair da cidade, peça autorização à loja, com o destino, o percurso e as datas, como explica o guia sobre [levar a mota para fora de Hanói](/guia-de-aluguer/autorizacao-para-sair-de-hanoi/). Escolha estradas nacionais: as motas não podem circular nas autoestradas do Vietname, e a imprensa noticiou em fevereiro de 2026 coimas a motociclistas estrangeiros numa autoestrada do Norte. Parta cedo, abasteça antes de sair e deixe margem para voltar ainda de dia.",
+        {
+          "note": "Este guia não tem dados verificados sobre as filas à saída e à entrada de Hanói numa sexta à noite ou num domingo à tarde. Planeie o regresso com folga e avise a loja se perceber que vai chegar depois da hora combinada.",
+          "tone": "info",
+          "title": "Trânsito de saída e de regresso"
+        }
+      ]
+    },
+    {
+      "h2": "Domingo: devolver a mota com margem",
+      "body": [
+        "A hora de devolução de domingo estraga-se com facilidade, porque o regresso se faz com pressa. A loja está aberta {{hours}}: trate as {{closes}} como o limite e escolha uma hora bem mais cedo.",
+        "No domingo à noite, a zona 1 volta a fechar às motas às 19:00. Se passar o domingo no centro, volte a Long Biên com tempo para atravessar o rio, abastecer e fazer a verificação com a loja antes do fecho; meia hora de folga evita a maior parte dos atrasos.",
+        {
+          "checklist": [
+            "**Hora combinada**: com contagem por 24 horas, é a do levantamento; com dias de calendário, é até às {{closes}}.",
+            "**Combustível e estado da mota**: devolva com o nível combinado e compare com as fotografias da entrega, seguindo a [checklist de devolução](/guia-de-aluguer/devolver-a-mota/).",
+            "**Atrasos**: se perceber que vai chegar tarde, ligue para o {{phone}} antes da hora combinada; o guia do [atraso na devolução](/guia-de-aluguer/atraso-na-devolucao/) tem as perguntas a fazer."
+          ]
+        },
+        "Se parte no domingo à noite, devolva a mota durante a tarde e siga de táxi."
+      ]
+    },
+    {
+      "h2": "Sexta a domingo, só sábado e domingo, ou mais dias",
+      "body": [
+        "Levante na sexta se precisar da mota antes das 19:00, por exemplo para mudar de alojamento. Levante no sábado se chegar tarde à loja ou preferir o primeiro percurso de dia. Se o fim de semana tiver um feriado ou se ligar a dias em que também usa a mota, compare com um aluguer mais longo.",
+        "A tabela seguinte compara, modelo a modelo, os dias avulsos com a tarifa semanal e mostra a partir de quantos dias a semana custa o mesmo ou menos. Se o seu fim de semana tiver menos dias do que esse número, pagar ao dia sai igual ou mais barato.",
+        {
+          "component": "duration-compare"
+        },
+        "A conta completa está no guia do [aluguer semanal](/precos/aluguer-semanal-de-mota/)."
+      ]
+    },
+    {
+      "h2": "O que combinar com a loja antes de sexta",
+      "body": [
+        "Um fim de semana tem pouco tempo para corrigir um mal-entendido. Antes de reservar, peça resposta escrita a estes pontos:",
+        {
+          "checklist": [
+            "**Contagem do dia**: três datas de calendário ou períodos de 24 horas, e a hora exata de devolução no domingo.",
+            "**Hora de levantamento**: a que horas pode ir buscar a mota na sexta e se fica reservada para essa hora.",
+            "**Preço total**: o valor, em VND, para as datas exatas, e o que fica fora dele.",
+            "**Caução e documentos**: se há caução no seu caso, o montante e a forma, e o que levar; veja [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/).",
+            "**Saída da cidade e mau tempo**: para onde pode ir ao sábado e se pode devolver a mota mais cedo; veja [devolver a mota mais cedo](/precos/devolver-a-mota-mais-cedo/)."
+          ]
+        },
+        "Junte tudo numa só mensagem, por telefone ou Zalo, para o {{phone}}; a morada e os restantes contactos estão na página de [contactos](/contactos/). Para saber quando vale a pena reservar cedo, veja o guia sobre [reservar a mota com antecedência](/precos/reservar-com-antecedencia/)."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Posso levantar a mota na sexta-feira depois das 21:00?",
+      "a": "A loja está aberta {{hours}}, por isso não conte com um levantamento depois das {{closes}}. Fora desse horário só com acordo prévio e por escrito. Se só chega tarde, peça o levantamento para sábado, a partir das {{opens}}."
+    },
+    {
+      "q": "Posso ir de mota ao mercado noturno do Bairro Antigo no sábado à noite?",
+      "a": "À data de 13 de outubro de 2026, não: das 19:00 às 24:00, de sexta a domingo, motas e automóveis não entram na zona 1, incluindo as motas elétricas. Deixe a mota fora da zona e faça o último troço a pé, ou vá de táxi."
+    }
+  ],
+  "sources": [
+    "tabela-precos-proprietario",
+    {
+      "title": "Ha Noi begins restricting fossil-fuel vehicles in low-emission zones",
+      "publisher": "Portal do Governo do Vietname (chinhphu.vn) — Hanoi Capital",
+      "url": "https://hanoicapital.chinhphu.vn/ha-noi-begins-restricting-fossil-fuel-vehicles-in-low-emission-zones-110260702082825273.htm",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "title": "Lịch tạm dừng phố đi bộ hồ Hoàn Kiếm từ ngày 13.3 đến 20.3",
+      "publisher": "Báo Văn Hóa",
+      "url": "https://baovanhoa.vn/doi-song/lich-tam-dung-pho-di-bo-ho-hoan-kiem-tu-ngay-133-den-203-249310.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Phố đi bộ hoạt động trở lại",
+      "publisher": "VnExpress",
+      "url": "https://vnexpress.net/pho-di-bo-hoat-dong-tro-lai-4440696.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    "vietnamnet-zbe-revisao",
+    "dtinews-autoestrada-2026",
+    "lawnet-proibicoes-2024"
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "PUBLISHED",
+  "date_published": "2026-10-13",
+  "date_modified": "2026-10-13",
+  "editorial": {
+    "qa_score": 100,
+    "qa_warnings": [],
+    "words": 1792,
+    "publish_mode": "review",
+    "approved_at": "2026-10-13",
+    "revisions": []
+  }
+}

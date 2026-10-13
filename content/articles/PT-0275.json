@@ -1,0 +1,441 @@
+{
+  "contract_version": 1,
+  "id": "PT-0275",
+  "slug": "roteiro-dos-museus",
+  "title": "Museus de Hanói de mota: roteiro por zona e dias de fecho",
+  "description": "Roteiro de museus de Hanói de mota: grupos por zona, dias de fecho, horários que divergem entre guias e o que confirmar sobre o parque em cada local.",
+  "h1": "Roteiro de museus em Hanói de mota: ordem de visita e onde deixar a mota",
+  "summary": "Para visitar os museus de Hanói de mota, agrupe-os por zona e escolha o dia pelos fechos: a prisão de Hỏa Lò e o Templo da Literatura não têm dia de fecho indicado, a Cidadela fecha à segunda num guia, e os museus de Etnologia e de História Militar fecham à segunda (este também à sexta). Só um guia refere parque, junto ao portão do Templo da Literatura.",
+  "key_points": [
+    "Cinco locais em quatro zonas: Hỏa Lò (Hoàn Kiếm), Templo da Literatura e Cidadela Imperial (Đống Đa e Ba Đình), Museu de Etnologia (Cầu Giấy) e, longe do centro, o Museu de História Militar.",
+    "Segundo os guias, os cinco estão abertos à terça, quarta, quinta, sábado e domingo; à segunda fecham os museus de Etnologia e de História Militar, que fecha também à sexta.",
+    "Os horários e os bilhetes divergem entre guias: planeie pela janela comum a todas as versões e confirme no próprio dia.",
+    "Só um guia refere parque (no Templo da Literatura): nos outros locais, procure um parque com funcionário, pergunte o preço e fotografe o talão.",
+    "A loja abre às {{opens}}: a primeira visita começa a meio da manhã, e convém sair dos museus antes da ponta da tarde."
+  ],
+  "intro": [
+    "Os museus de Hanói não estão todos no mesmo sítio, e é isso que complica um roteiro de mota. A prisão de Hỏa Lò fica no centro, o Templo da Literatura e a Cidadela Imperial ficam em Đống Đa e em Ba Đình, o Museu de Etnologia fica em Cầu Giấy e o Museu de História Militar, na sede nova, fica longe do centro, na avenida Thăng Long. Este guia agrupa-os por zona, cruza os dias de fecho e propõe uma ordem de visita, com o que se sabe sobre estacionar.",
+    "A informação foi reunida a 13 de outubro de 2026 em guias de viagem e notícias em vietnamita. Nenhuma fonte é oficial e os guias divergem, por isso o texto dá intervalos e indica o que confirmar. O Museu da Mulher Vietnamita e o Museu Nacional de História ficam de fora, porque não confirmámos os horários."
+  ],
+  "sections": [
+    {
+      "h2": "Cinco locais, quatro zonas",
+      "body": [
+        "O Templo da Literatura e a Cidadela Imperial são sítios históricos e não museus em sentido estrito, mas entram aqui porque partilham zona e dias com os museus. Onde dois guias dão números diferentes, a tabela mostra os dois; os bilhetes são uma ordem de grandeza, e o preço certo é o da bilheteira.",
+        {
+          "table": {
+            "caption": "Museus e sítios históricos de Hanói: informação consultada a 13 de outubro de 2026",
+            "head": [
+              "Local",
+              "Zona e morada",
+              "Horário segundo os guias",
+              "Fecha",
+              "Bilhete de adulto"
+            ],
+            "rows": [
+              [
+                "Prisão de Hỏa Lò",
+                "Hoàn Kiếm, n.º 1 da rua Hỏa Lò",
+                "08:00–17:00, todos os dias; visita noturna de sexta a domingo, 19:00–20:30",
+                "Sem dia de fecho indicado; abre em feriados e no Tết",
+                "30 mil VND ou 50 mil VND, conforme o guia"
+              ],
+              [
+                "Templo da Literatura",
+                "Đống Đa, n.º 58 da rua Quốc Tử Giám",
+                "08:00–17:00 (dois guias) ou 07:30–17:30 no verão (um guia)",
+                "Sem dia de fecho indicado",
+                "Cerca de 30 mil VND ou 70 mil VND"
+              ],
+              [
+                "Cidadela Imperial de Thăng Long",
+                "Ba Đình, n.º 19C da rua Hoàng Diệu",
+                "08:00–17:00 (um guia) ou 08:00–11:30 e 14:00–17:00 (outro guia)",
+                "Segunda-feira, num dos guias",
+                "100 mil VND"
+              ],
+              [
+                "Museu de Etnologia do Vietname",
+                "Cầu Giấy, n.º 1 da rua Nguyễn Văn Huyên",
+                "08:30–17:30",
+                "Segunda-feira e Tết",
+                "40 mil VND"
+              ],
+              [
+                "Museu de História Militar do Vietname",
+                "Avenida Thăng Long, km 6+500 (Tây Mỗ e Đại Mỗ)",
+                "08:00–11:30 (ou 11:00) e 13:00–16:30",
+                "Segunda e sexta-feira",
+                "50 mil VND, numa só fonte"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "h2": "Que dias abrem: a segunda e a sexta decidem",
+      "body": [
+        "O dia da semana pesa mais do que a hora. Segundo os guias, o Museu de Etnologia fecha à segunda-feira, o Museu de História Militar fecha à segunda e à sexta e, num dos guias, a Cidadela também fecha à segunda. A prisão de Hỏa Lò e o Templo da Literatura não têm dia de fecho indicado. Ficam assim terça, quarta, quinta, sábado e domingo como os dias em que os cinco locais estão abertos em todas as versões.",
+        {
+          "h3": "Feriados e Tết"
+        },
+        "Os guias de Hỏa Lò dizem que abre todos os dias, incluindo feriados e Tết. O Museu de Etnologia fecha no Tết, segundo uma fonte, e em 2026 o Templo da Literatura fechou ao meio-dia de 16 de fevereiro e reabriu a 17, segundo o Báo Văn hóa. Em feriados, confirme cada local na véspera."
+      ]
+    },
+    {
+      "h2": "Ordem de visita: o centro num dia, o oeste noutro",
+      "body": [
+        "A loja, em {{area}}, abre às {{opens}}, e o rio tem de ser atravessado antes de qualquer visita; a ponte e as alternativas estão no guia da [ponte Long Biên](/zonas-de-hanoi/ponte-long-bien/). A ordem abaixo estaciona uma vez por zona e põe as visitas com pausa de almoço na janela comum a todas as versões do horário.",
+        {
+          "h3": "Primeiro dia: o centro (de terça a domingo)"
+        },
+        {
+          "steps": [
+            {
+              "title": "Prisão de Hỏa Lò, em Hoàn Kiếm",
+              "text": "Primeira zona depois do rio. A prisão abre às 08:00 em todos os guias, por isso a mota levantada às {{opens}} chega a tempo."
+            },
+            {
+              "title": "Templo da Literatura, em Đống Đa",
+              "text": "Ao fim da manhã. As duas versões do horário coincidem das 08:00 às 17:00. O itinerário de [Hanói de mota num dia](/rotas-e-mobilidade/hanoi-de-mota-num-dia/) também passa aqui."
+            },
+            {
+              "title": "Almoço e Cidadela Imperial, em Ba Đình",
+              "text": "Entre na Cidadela depois das 14:00, a janela que serve às duas versões do horário, e saia antes das 16:00, para iniciar o regresso antes da ponta da tarde."
+            }
+          ]
+        },
+        {
+          "h3": "Segundo dia: o oeste (terça, quarta, quinta, sábado ou domingo)"
+        },
+        {
+          "steps": [
+            {
+              "title": "Museu de Etnologia, em Cầu Giấy",
+              "text": "De manhã: abre às 08:30 e as fontes não indicam pausa ao almoço."
+            },
+            {
+              "title": "Almoço e Museu de História Militar",
+              "text": "Só depois das 13:00, hora de reabertura nas duas versões, e com saída antes das 16:30. As fontes não dão a distância entre os dois museus: meça-a no mapa e, se for longa, faça só um por dia."
+            }
+          ]
+        },
+        {
+          "h3": "Se a viagem calhar a uma segunda ou a uma sexta"
+        },
+        {
+          "ul": [
+            "**Segunda-feira:** só Hỏa Lò e o Templo da Literatura estão abertos em todos os guias; inclua a Cidadela apenas se confirmar que abre.",
+            "**Sexta-feira:** faça o dia do centro e, noutra manhã, o Museu de Etnologia; o Museu de História Militar fica para outro dia."
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "Museu de História Militar: o que as fontes não dizem",
+      "body": [
+        "É o local mais afastado do roteiro. Segundo as fontes, a nova sede fica no km 6+500 da avenida Thăng Long, em Tây Mỗ e Đại Mỗ, e abriu ao público a 1 de novembro de 2024. Uma fonte dá 50 mil VND para adultos e 25 mil VND para estudantes; o preço atual não está confirmado, e a entrada já chegou a ser gratuita.",
+        "As fontes não descrevem como chegar de mota, por onde, nem onde estacionar. Veja o percurso numa aplicação de navegação e confirme que não entra em nenhum troço vedado a motas: as motas não podem circular nas autoestradas vietnamitas (cao tốc).",
+        "Há ainda o relógio: o museu fecha às 16:30, quando as janelas de referência da ponta da tarde estão a começar, e o regresso a {{area}} implica atravessar o rio. Aqui, um táxi ou uma aplicação pode ser mais simples do que a mota; o guia sobre [quando é melhor não conduzir](/rotas-e-mobilidade/quando-nao-conduzir/) compara as alternativas."
+      ]
+    },
+    {
+      "h2": "Estacionamento: o que se sabe em cada local",
+      "body": [
+        "Só uma das fontes refere estacionamento junto a um destes locais: o guia da Vinpearl menciona parque para motas e carros junto ao portão do Templo da Literatura, sem preço nem horário. Para os restantes, as fontes não dizem nada.",
+        {
+          "table": {
+            "caption": "Estacionamento junto aos museus: o que as fontes dizem e o que fazer",
+            "head": [
+              "Local",
+              "O que as fontes dizem",
+              "O que fazer"
+            ],
+            "rows": [
+              [
+                "Prisão de Hỏa Lò",
+                "Nenhuma indicação de parque",
+                "Parque com funcionário numa rua vizinha"
+              ],
+              [
+                "Templo da Literatura",
+                "Um guia refere parque junto ao portão",
+                "Pergunte o preço e a hora de fecho à chegada"
+              ],
+              [
+                "Cidadela Imperial",
+                "Nenhuma indicação de parque; o autocarro n.º 22 para em frente da entrada",
+                "Pergunte na entrada ou procure um parque com funcionário"
+              ],
+              [
+                "Museu de Etnologia",
+                "Nenhuma indicação de parque",
+                "Pergunte à chegada se há parque próprio"
+              ],
+              [
+                "Museu de História Militar",
+                "Nenhuma indicação de parque",
+                "Confirme antes de sair e tenha um plano B (táxi ou aplicação)"
+              ]
+            ]
+          }
+        },
+        {
+          "h3": "O preço do parque"
+        },
+        "A cidade fixa preços máximos de guarda por tipo de veículo, zona e período, através da Decisão 44/2017/QĐ-UBND, que o caselaw.vn indicava como em vigor a 13 de outubro de 2026. Não confirmámos os montantes atuais, por isso não os indicamos. O talão traz o preço impresso e serve para comparar com o que lhe pedem: a VnExpress já noticiou cobranças acima do valor impresso em época de Tết.",
+        {
+          "h3": "Passeios: não conte com eles"
+        },
+        "Estacionar no passeio ou na faixa de rodagem sem autorização dá uma coima de 400 mil a 600 mil VND, ao abrigo do Decreto 168/2024/NĐ-CP, segundo a LuatVietnam e a Thư Viện Pháp Luật. Circular no passeio custa de 4 a 6 milhões de VND, segundo o Tuổi Trẻ. Ver outras motas encostadas não prova que o sítio seja permitido."
+      ]
+    },
+    {
+      "h2": "Avisos de calendário e de trânsito",
+      "body": [
+        "**Mausoléu de Hồ Chí Minh.** Fica em Ba Đình, a pouca distância da Cidadela. À data de 13 de outubro de 2026 está fechado para manutenção, de 4 de setembro a 2 de novembro, e reabre a 3 de novembro, segundo a imprensa vietnamita.",
+        "**Noites de sexta a domingo.** Das 19:00 às 24:00, motas e automóveis não entram na zona 1 do lago Hoàn Kiếm, descrita na página da [zona de baixas emissões](/tipos-de-motas/zona-de-baixas-emissoes-hanoi/). A visita noturna de Hỏa Lò decorre de sexta a domingo, das 19:00 às 20:30. As fontes não dizem se a rua Hỏa Lò está dentro da zona 1: escolha um parque na orla da zona e confirme por onde sai.",
+        "**Ponta da tarde.** Como referência, as restrições a camiões previstas pela cidade para a avenida Thăng Long, numa notícia de dezembro de 2025, usam a janela das 16:30 às 19:30; uma reportagem da VOV sobre Linh Đàm, sem data, indica das 17:00 às 19:00. Os locais fecham entre as 16:30 e as 17:30.",
+        "**Hora de devolução.** A loja fecha às {{closes}}: combine a hora prevista e atravesse o rio com margem."
+      ]
+    },
+    {
+      "h2": "Lista rápida antes de sair",
+      "body": [
+        {
+          "checklist": [
+            "Dia da semana escolhido pelos fechos e horário de cada local confirmado na véspera.",
+            "Estado da ponte Long Biên verificado, com a ponte Chương Dương como alternativa.",
+            "Carta de condução e documentos consigo; o guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/) explica o que levar.",
+            "Parque com funcionário, preço perguntado e talão fotografado.",
+            "Percurso até ao Museu de História Militar visto antes de arrancar, sem troços vedados a motas.",
+            "Número da loja, {{phone}}, e morada em vietnamita, {{address.vi}}, guardados no telemóvel."
+          ]
+        },
+        "Para dúvidas sobre o aluguer, a página de [contactos](/contactos/) reúne as formas de falar com a loja. Outros percursos e conselhos para circular na cidade estão em [Rotas e mobilidade](/rotas-e-mobilidade/)."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Qual é o melhor dia da semana para visitar vários museus de mota?",
+      "a": "Terça, quarta, quinta, sábado ou domingo, quando, segundo os guias, os cinco locais estão abertos. À segunda fecham os museus de Etnologia e de História Militar (e, num guia, a Cidadela); à sexta fecha o de História Militar."
+    },
+    {
+      "q": "Vale a pena ir de mota ao Museu de História Militar?",
+      "a": "Depende de um percurso que as fontes não descrevem. O museu fica fora do centro e fecha às 16:30; se o caminho for incerto ou o regresso apanhar a ponta da tarde, um táxi ou uma aplicação de transporte é mais simples."
+    },
+    {
+      "q": "Os museus abrem no Tết e nos feriados?",
+      "a": "Os guias divergem. Hỏa Lò abre todos os dias, incluindo feriados e Tết; o Templo da Literatura fechou ao meio-dia de 16 de fevereiro de 2026 e reabriu a 17; o Museu de Etnologia fecha no Tết, segundo uma fonte."
+    },
+    {
+      "q": "A visita noturna à prisão de Hỏa Lò coincide com o fecho do centro?",
+      "a": "O programa noturno decorre de sexta a domingo, das 19:00 às 20:30, e a zona 1 do lago Hoàn Kiếm fecha a motas nessas noites, das 19:00 às 24:00. As fontes não dizem se a rua Hỏa Lò está nessa zona: use um parque na orla."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Nhà tù Hỏa Lò: Lịch sử, Giá vé & Kinh nghiệm tham quan 2026",
+      "publisher": "Jungle Boss Tours",
+      "url": "https://junglebosstours.com/vi/kham-pha/blog-du-lich/nha-tu-hoa-lo",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Guia da prisão de Hỏa Lò (artigo em vietnamita, dados de outubro de 2024)",
+      "publisher": "Mytour",
+      "url": "https://mytour.vn/vi/blog/bai-viet/nhieu-trai-nghiem-sau-sac-tai-nha-tu-hoa-lo-ha-noi-mytour.html",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Giá vé tham quan Nhà tù Hỏa Lò? Cách di chuyển đến Nhà tù Hỏa Lò?",
+      "publisher": "THƯ VIỆN PHÁP LUẬT",
+      "url": "https://thuvienphapluat.vn/phap-luat-nha-dat/gia-ve-tham-quan-nha-tu-hoa-lo-cach-di-chuyen-den-nha-tu-hoa-lo-2919.html",
+      "accessed": "2026-10-13",
+      "type": "reference",
+      "lang": "vi"
+    },
+    {
+      "title": "Văn Miếu Quốc Tử Giám",
+      "publisher": "Vinpearl",
+      "url": "https://vinpearl.com/vi/van-mieu-quoc-tu-giam",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Giới thiệu về Văn Miếu Quốc Tử Giám",
+      "publisher": "VinWonders",
+      "url": "https://vinwonders.com/vi/bai-viet-du-lich/van-mieu-quoc-tu-giam/",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Văn Miếu – Quốc Tử Giám mở cửa xuyên Tết, có điểm giữ xe miễn phí",
+      "publisher": "Báo Văn hóa",
+      "url": "https://baovanhoa.vn/van-hoa/van-mieu-quoc-tu-giam-mo-cua-xuyen-tet-co-diem-giu-xe-mien-phi-204715.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Guia da Cidadela Imperial de Thăng Long (artigo em vietnamita)",
+      "publisher": "Vinpearl",
+      "url": "https://vinpearl.com/vi/hoang-thanh-thang-long-ha-noi",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Guia de viagem sobre a Cidadela Imperial de Thăng Long (artigo em vietnamita)",
+      "publisher": "mia.vn",
+      "url": "https://mia.vn/cam-nang-du-lich/kham-pha-hoang-thanh-thang-long-16301",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Bilhetes da Cidadela Imperial de Thăng Long (página em vietnamita, abril de 2025)",
+      "publisher": "Xanh SM (greensm.com)",
+      "url": "https://www.greensm.com/vn-vi/news/ve-hoang-thanh-thang-long",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Bảo tàng Dân tộc học Việt Nam",
+      "publisher": "Vinpearl",
+      "url": "https://vinpearl.com/vi/bao-tang-dan-toc-hoc-viet-nam",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Bảo tàng Dân tộc học Việt Nam",
+      "publisher": "VinWonders",
+      "url": "https://vinwonders.com/vi/wonderpedia/news/bao-tang-dan-toc-hoc-viet-nam/",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Guia do Museu de História Militar do Vietname (artigo em vietnamita)",
+      "publisher": "mia.vn",
+      "url": "https://mia.vn/cam-nang-du-lich/bao-tang-lich-su-quan-su-viet-nam-ha-noi-16952",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Abertura do Museu de História Militar do Vietname (página em vietnamita, novembro de 2024)",
+      "publisher": "Xanh SM (greensm.com)",
+      "url": "https://www.greensm.com/vn-vi/news/bao-tang-lich-su-quan-su-viet-nam-mo-cua",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Giá vé bảo tàng Lịch sử Quân sự Việt Nam 2025?",
+      "publisher": "THƯ VIỆN PHÁP LUẬT",
+      "url": "https://thuvienphapluat.vn/phap-luat-nha-dat/gia-ve-bao-tang-lich-su-quan-su-viet-nam-2025-1992.html",
+      "accessed": "2026-10-13",
+      "type": "reference",
+      "lang": "vi"
+    },
+    {
+      "title": "Quyết định 44/2017/QĐ-UBND về giá dịch vụ trông giữ xe đạp, xe máy, xe ô tô trên địa bàn thành phố Hà Nội",
+      "publisher": "caselaw.vn",
+      "url": "https://caselaw.vn/van-ban-phap-luat/305048-quyet-dinh-44-2017-qd-ubnd-ve-gia-dich-vu-trong-giu-xe-dap-xe-may-xe-o-to-tren-dia-ban-thanh-pho-ha-noi",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "Bắt chẹt khách gửi xe ngày Tết",
+      "publisher": "VnExpress",
+      "url": "https://vnexpress.net/bat-chet-khach-gui-xe-ngay-tet-2079064.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Nghị định 168 đối với xe máy: 10 mức phạt mọi tài xế cần biết",
+      "publisher": "LuatVietnam",
+      "url": "https://luatvietnam.vn/giao-thong/nghi-dinh-168-doi-voi-xe-may-863-100609-article.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "Mức phạt đỗ xe máy, đi xe máy trên vỉa hè năm 2026 là bao nhiêu?",
+      "publisher": "THƯ VIỆN PHÁP LUẬT",
+      "url": "https://thuvienphapluat.vn/phap-luat-nha-dat/muc-phat-do-xe-may-di-xe-may-tren-via-he-nam-2026-la-bao-nhieu-14552.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "Chạy xe máy lên vỉa hè để nghe điện thoại, vào mua hàng có bị xử phạt?",
+      "publisher": "Tuổi Trẻ",
+      "url": "https://tuoitre.vn/chay-xe-may-len-via-he-de-nghe-dien-thoai-vao-mua-hang-co-bi-xu-phat-20250108150633686.htm",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    "lawnet-proibicoes-2024",
+    {
+      "title": "Ha Noi begins restricting fossil-fuel vehicles in low-emission zones",
+      "publisher": "Portal do Governo do Vietname (chinhphu.vn) — Hanoi Capital",
+      "url": "https://hanoicapital.chinhphu.vn/ha-noi-begins-restricting-fossil-fuel-vehicles-in-low-emission-zones-110260702082825273.htm",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "title": "Tu bổ định kỳ Lăng Chủ tịch Hồ Chí Minh từ 4/9 đến 2/11",
+      "publisher": "VietnamPlus — TTXVN",
+      "url": "https://www.vietnamplus.vn/tu-bo-dinh-ky-lang-chu-tich-ho-chi-minh-tu-49-den-211-post1133954.vnp",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Notícia sobre as restrições previstas a camiões pesados na avenida Thăng Long e na QL32 (em vietnamita, 24 de dezembro de 2025)",
+      "publisher": "Tạp chí Luật sư Việt Nam (LSVN)",
+      "url": "https://lsvn.vn/ha-noi-du-kien-han-che-mot-so-loai-phuong-tien-luu-thong-vao-vanh-dai-3-tren-cao-a167515.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Hà Nội ùn tắc giao thông ngày càng nghiêm trọng",
+      "publisher": "VOV",
+      "url": "https://vov.vn/xa-hoi/ha-noi-un-tac-giao-thong-ngay-cang-nghiem-trong-721885.vov",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    }
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "PUBLISHED",
+  "date_published": "2026-10-13",
+  "date_modified": "2026-10-13",
+  "editorial": {
+    "qa_score": 100,
+    "qa_warnings": [],
+    "words": 1997,
+    "publish_mode": "review",
+    "approved_at": "2026-10-13",
+    "revisions": []
+  }
+}

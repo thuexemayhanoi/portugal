@@ -1,0 +1,347 @@
+{
+  "contract_version": 1,
+  "id": "PT-0123",
+  "slug": "autocarro-turistico-ou-mota",
+  "title": "Autocarro turístico, carrinho elétrico ou mota: quanto custa",
+  "description": "Preços publicados do autocarro de dois andares e do carrinho elétrico em Hanói, com data de consulta, lado a lado com um dia de mota, e quando combinar as três.",
+  "h1": "Quanto custa conhecer Hanói de autocarro turístico, de carrinho elétrico ou de mota",
+  "summary": "Conhecer Hanói de autocarro turístico paga-se por pessoa e por janela de tempo, de carrinho elétrico por veículo e por sentido, e de mota por dia e por mota. Por isso a conta depende de quantos são e de quantas paragens quer fazer. Os preços de terceiros abaixo têm data de consulta, mas nenhum vem de uma tabela oficial.",
+  "key_points": [
+    "O autocarro de dois andares «Hà Nội City Tour», da Transerco, abriu a 30 de maio de 2018. Várias páginas de terceiros indicam bilhetes de 450 mil VND (24 horas) e de 650 mil VND (48 horas), sem data de atualização.",
+    "O carrinho elétrico entre o lago Hoàn Kiếm e a Cidadela Imperial de Thăng Long custava 245 mil VND por carro de 7 lugares e por sentido, segundo informação de 2024; o passeio elétrico pelo Bairro Antigo só tem um preço previsto em projeto.",
+    "Um dia de mota custa entre {{price.min.day}} e {{price.max.day}} por mota na tabela de referência, mais combustível e estacionamento; o bilhete de autocarro conta-se por pessoa.",
+    "As fontes consultadas não publicam o percurso do autocarro de dois andares: confirme-o, e se pode sair e voltar a entrar, antes de comprar.",
+    "As três opções combinam-se: autocarro ou carrinho nos dias em que não quer conduzir, mota nos dias com mais paragens."
+  ],
+  "intro": [
+    "Quem chega a Hanói sem conhecer a cidade tem três maneiras comuns de a ver: o autocarro turístico de dois andares, o carrinho elétrico e a mota alugada. Pagam-se de formas diferentes, por pessoa, por veículo e por dia, e é essa diferença, mais do que o valor de cada bilhete, que decide qual compensa.",
+    "Este guia põe as três lado a lado. Os preços do autocarro e do carrinho vêm de páginas de terceiros, consultadas a 13 de outubro de 2026, e nenhum vem de uma tabela oficial; o do aluguer vem da [tabela de preços](/precos/) da loja. Quando uma fonte não dá data, diz-se. Antes de pagar, confirme o valor na bilheteira."
+  ],
+  "sections": [
+    {
+      "h2": "As três opções em poucas linhas",
+      "body": [
+        {
+          "table": {
+            "caption": "Autocarro de dois andares, carrinho elétrico e mota: como se pagam e o que cobrem",
+            "head": [
+              "Opção",
+              "Como se paga",
+              "Percurso",
+              "Quem conduz",
+              "Ritmo"
+            ],
+            "rows": [
+              [
+                "Autocarro de dois andares",
+                "Por pessoa, com bilhete de duração limitada",
+                "As fontes consultadas não o publicam: confirme",
+                "O motorista",
+                "Horário do operador"
+              ],
+              [
+                "Carrinho elétrico",
+                "Por carro de 7 lugares e por sentido",
+                "Do lago Hoàn Kiếm à Cidadela Imperial de Thăng Long",
+                "O condutor do carrinho",
+                "O do condutor"
+              ],
+              [
+                "Mota alugada",
+                "Por dia e por mota, mais combustível e estacionamento",
+                "O que escolher, dentro das regras",
+                "O próprio viajante",
+                "O seu"
+              ]
+            ]
+          }
+        },
+        "As secções seguintes detalham cada uma e dizem o que confirmar antes de pagar."
+      ]
+    },
+    {
+      "h2": "Autocarro de dois andares: bilhetes, horário e o que confirmar",
+      "body": [
+        "O autocarro de dois andares «Hà Nội City Tour» foi inaugurado a 30 de maio de 2018 pela Transerco, segundo a imprensa vietnamita da época. Há também notícias, sem data visível nos excertos consultados, de mais linhas e de operadores concorrentes, por isso o operador, o serviço e os preços podem ter mudado.",
+        {
+          "table": {
+            "caption": "Bilhetes do autocarro de dois andares indicados por páginas de terceiros, consultadas a 13 de outubro de 2026",
+            "head": [
+              "Bilhete",
+              "Preço indicado por pessoa, em VND",
+              "Nota"
+            ],
+            "rows": [
+              [
+                "4 horas",
+                "300.000",
+                "Indicado por várias páginas; o título de uma notícia fala em «a partir de 300.000»"
+              ],
+              [
+                "24 horas",
+                "450.000",
+                "Indicado por várias páginas"
+              ],
+              [
+                "48 horas",
+                "650.000",
+                "Indicado por várias páginas"
+              ],
+              [
+                "Bilhetes curtos",
+                "150.000 (1 hora) ou 196.000 (2 horas)",
+                "As fontes divergem"
+              ]
+            ]
+          }
+        },
+        "Nenhuma destas páginas traz data de atualização visível: trate os valores como ordem de grandeza. Um guia indica funcionamento das 09:00 às 17:00, com partidas de 30 em 30 minutos, mas a atribuição é incerta. Segundo os guias, os bilhetes vendem-se numa bilheteira junto à fonte da praça Đông Kinh Nghĩa Thục e online.",
+        "As fontes consultadas não publicam o percurso nem as paragens. Antes de comprar, peça o mapa, pergunte se pode sair e voltar a entrar durante a validade do bilhete e a que horas parte o último autocarro."
+      ]
+    },
+    {
+      "h2": "Carrinhos elétricos: o troço do lago e o projeto do Bairro Antigo",
+      "body": [
+        "Os carrinhos elétricos que ligam o lago Hoàn Kiếm à Cidadela Imperial de Thăng Long são explorados pela CTCP Đồng Xuân. Segundo informação de 2024 divulgada pela imprensa vietnamita, o preço era de 245 mil VND por carro de 7 lugares e por sentido. O preço é do carro, não de cada passageiro: com o carro cheio, são 35 mil VND por pessoa (cálculo do guia). A tarifa pode ter mudado desde 2024.",
+        "Para o Bairro Antigo, a informação encontrada descreve um projeto, não um serviço em curso. Prevê um passeio elétrico com cinco paragens, a partir do troço de via dupla da rua Đinh Tiên Hoàng, pelas ruas comerciais e pelo mercado Đồng Xuân. O preço previsto é de 10 mil a 30 mil VND por pessoa e por viagem: um valor de projeto, sem data, e não uma tarifa em vigor. Não conte com ele sem confirmar no local que o serviço existe.",
+        "Há ainda uma dúvida de calendário. À data de 13 de outubro de 2026, o espaço pedonal do lago fecha a motas e automóveis de sexta a domingo, das 19:00 às 24:00, e as fontes consultadas não dizem se os carrinhos circulam nessas horas. O guia da [zona de baixas emissões](/tipos-de-motas/zona-de-baixas-emissoes-hanoi/) explica a regra."
+      ]
+    },
+    {
+      "h2": "Um dia de mota: quanto custa e o que cobre",
+      "body": [
+        "Na tabela de referência da loja, verificada a {{pricing.verifiedAt}}, um dia de mota custa entre {{price.min.day}} e {{price.max.day}}, conforme o modelo, por mota. A loja está aberta {{hours}}. A esse valor juntam-se combustível e estacionamento. Para 50 km, uma Honda Vision gasta cerca de 0,9 litros, com o consumo anunciado de 1,82 litros aos 100 km. A cerca de 28,3 mil VND por litro, o valor que o Ministério da Indústria e Comércio cita a 8 de outubro de 2026, são perto de 26 mil VND. É um cálculo do guia: o preço é revisto com frequência e o excerto consultado não diz o tipo de gasolina. A [Honda Vision em Hanói](/tipos-de-motas/honda-vision-em-hanoi/) tem os dados do modelo.",
+        {
+          "component": "price-table",
+          "category": "scooters-automaticas"
+        },
+        "O que a mota dá é liberdade: o itinerário [Hanói de mota num dia](/rotas-e-mobilidade/hanoi-de-mota-num-dia/) liga seis paragens e diz onde estacionar em cada uma. O que pede é habilitação, atenção ao trânsito e um parque em cada paragem. O guia do [aluguer de mota por um dia](/precos/aluguer-de-mota-por-um-dia/) explica horários e condições."
+      ]
+    },
+    {
+      "h2": "Como pôr as três opções lado a lado",
+      "body": [
+        "A comparação só faz sentido depois de fixar três coisas: quantas pessoas, quantas horas e quantas paragens. O bilhete do autocarro multiplica-se pelas pessoas, o carrinho paga-se por carro e por sentido, e a mota paga-se por dia e leva quem conduz e, por regra, um passageiro.",
+        {
+          "table": {
+            "caption": "Valores a pagar por cenário, com os preços acima (em VND, só para o grupo)",
+            "head": [
+              "Cenário",
+              "Autocarro (24 horas)",
+              "Carrinho (lago e Cidadela, ida e volta)",
+              "Mota (um dia)"
+            ],
+            "rows": [
+              [
+                "Uma pessoa",
+                "450.000",
+                "490.000 (2 × 245.000)",
+                "{{price.min.day}} a {{price.max.day}}, mais combustível e estacionamento"
+              ],
+              [
+                "Duas pessoas",
+                "900.000 (2 × 450.000)",
+                "490.000, o mesmo carro",
+                "{{price.min.day}} a {{price.max.day}}, mais combustível e estacionamento"
+              ],
+              [
+                "Quatro pessoas",
+                "1.800.000 (4 × 450.000)",
+                "490.000, o mesmo carro",
+                "Duas motas (o dobro do preço do dia), com dois condutores habilitados"
+              ]
+            ]
+          }
+        },
+        "Não tire daqui uma conclusão. O autocarro e o carrinho trazem uma visita organizada; a mota traz liberdade e responsabilidade. O que muda o resultado é o seu grupo e o seu dia.",
+        "Na segurança, a diferença está em quem conduz. De autocarro ou de carrinho, o viajante não conduz e não depende da sua carta. Na mota, conduz, com capacete e com a habilitação certa: um documento de 2024 da Vital Strategies, que cita a Comissão Nacional de Segurança Rodoviária, indica que os veículos de duas rodas representam 57% de todas as mortes na estrada no Vietname. Não encontrámos dados que comparem o risco por quilómetro do autocarro turístico com o da mota, por isso o guia não faz essa comparação.",
+        "Quanto ao cansaço, o trânsito de Hanói pede atenção constante a quem conduz; quem vai de autocarro ou de carrinho pode olhar à volta e descansar entre paragens."
+      ]
+    },
+    {
+      "h2": "Quando combinar as opções",
+      "body": [
+        {
+          "ul": [
+            "**Primeiro dia, para ver a cidade sem conduzir:** se o percurso do autocarro passar pelos sítios que lhe interessam, um bilhete de 24 horas dá uma primeira volta, e os dias seguintes ficam para a mota.",
+            "**Noites de fim de semana:** estacione a mota num parque fora da zona 1 antes das 19:00 e entre a pé. Os pormenores estão em [conduzir no Bairro Antigo](/zonas-de-hanoi/conduzir-no-bairro-antigo/).",
+            "**Dias de chuva forte ou de cansaço:** deixe a mota parada. O guia [quando é melhor não conduzir em Hanói](/rotas-e-mobilidade/quando-nao-conduzir/) lista as situações.",
+            "**Grupos de quatro a sete:** o carrinho cobra por carro, por isso o preço por pessoa desce com o carro cheio.",
+            "**Autocarros públicos:** entre 1 de julho de 2026 e 30 de junho de 2027, as viagens nos autocarros públicos subsidiados dentro do Anel Viário 1 são gratuitas; os autocarros turísticos não estão incluídos."
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "Antes de pagar: o que confirmar",
+      "body": [
+        {
+          "checklist": [
+            "Autocarro: o preço atual de cada bilhete, a validade (4, 24 ou 48 horas), o operador, o percurso, as paragens e o último autocarro.",
+            "Autocarro: se pode sair e voltar a entrar nas paragens durante a validade do bilhete.",
+            "Carrinho: se o serviço circula no dia, o preço por carro e por sentido, o tempo de percurso e o ponto de partida.",
+            "Carrinho: se circula à noite de sexta a domingo, quando o espaço pedonal do lago fecha às motas e aos automóveis.",
+            "Mota: o preço do dia para as suas datas e o que a loja cobra à parte, pelos [contactos](/contactos/). O guia dos [custos para lá do preço de referência](/precos/custos-alem-do-preco/) lista os extras."
+          ]
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Quanto custa o autocarro turístico de Hanói?",
+      "a": "Várias páginas de terceiros indicam 450 mil VND para 24 horas e 650 mil VND para 48 horas, por pessoa, e uma notícia fala em bilhetes «a partir de 300 mil». São valores consultados a 13 de outubro de 2026, sem data de atualização visível: confirme o preço na bilheteira ou com o operador."
+    },
+    {
+      "q": "O carrinho elétrico circula no Bairro Antigo?",
+      "a": "As fontes consultadas descrevem um projeto de passeio elétrico pelo Bairro Antigo, com cinco paragens e preço previsto, mas não confirmam que o serviço funcione. O que está documentado, com informação de 2024, é a ligação entre o lago Hoàn Kiếm e a Cidadela Imperial. Confirme no local."
+    },
+    {
+      "q": "O autocarro turístico é gratuito dentro do Anel Viário 1?",
+      "a": "Não. A gratuidade, entre 1 de julho de 2026 e 30 de junho de 2027, abrange os autocarros públicos subsidiados dentro do Anel Viário 1; os autocarros turísticos não estão incluídos."
+    },
+    {
+      "q": "Como comparo o custo para o meu grupo?",
+      "a": "Multiplique o bilhete do autocarro pelo número de pessoas; no carrinho, use o preço do carro; na mota, some o preço do dia, o combustível e o estacionamento. Use sempre preços confirmados para as suas datas."
+    }
+  ],
+  "sources": [
+    "tabela-precos-proprietario",
+    {
+      "title": "Giá vé xe bus 2 tầng ở Hà Nội từ 300.000 đồng",
+      "publisher": "LuatVietnam",
+      "url": "https://luatvietnam.vn/tin-phap-luat/gia-ve-xe-bus-2-tang-o-ha-noi-tu-300000-dong-230-16590-article.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Guia do autocarro de dois andares de Hanói, com bilhetes e horários (em vietnamita)",
+      "publisher": "Vinpearl",
+      "url": "https://vinpearl.com/vi/xe-buyt-2-tang-ha-noi",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Xe buýt 2 tầng City tour Hà Nội",
+      "publisher": "Vietnam Booking",
+      "url": "https://www.vietnambooking.com/du-lich/blog-du-lich/xe-buyt-2-tang-city-tour-them-mon-ngon-cho-du-lich-ha-noi.html",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Guia da experiência no autocarro de dois andares de Hanói, com horário de funcionamento (em vietnamita)",
+      "publisher": "MIA.vn (cẩm nang du lịch)",
+      "url": "https://mia.vn/cam-nang-du-lich/trai-nghiem-xe-buyt-2-tang-ha-noi-hanh-trinh-day-moi-la-2929",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Xe buýt 2 tầng City tour tại Hà Nội chính thức khai trương vào ngày 30/5",
+      "publisher": "VietnamFinance",
+      "url": "https://vietnamfinance.vn/xe-buyt-2-tang-city-tour-tai-ha-noi-chinh-thuc-khai-truong-vao-ngay-305-20180504224207482.htm",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Hà Nội: Sắp có thêm dịch vụ xe buýt 2 tầng cạnh tranh với Ha Noi City tour của Transerco",
+      "publisher": "Nhà Đầu tư",
+      "url": "https://nhadautu.vn/ha-noi-sap-co-them-dich-vu-xe-buyt-2-tang-canh-tranh-voi-ha-noi-city-tour-cua-transerco-d12026.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Xe điện kết nối Hồ Hoàn Kiếm – Hoàng thành Thăng Long",
+      "publisher": "Báo Văn hóa",
+      "url": "https://baovanhoa.vn/du-lich/xe-dien-ket-noi-ho-hoan-kiem-hoang-thanh-thang-long-55565.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Hà Nội triển khai tuyến xe điện Hoàn Kiếm - Hoàng thành Thăng Long",
+      "publisher": "Mekong ASEAN",
+      "url": "https://mekongasean.vn/ha-noi-trien-khai-tuyen-xe-dien-hoan-kiem-hoang-thanh-thang-long-1636.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Kết nối Hoàng thành Thăng Long và phố cổ Hà Nội bằng phương tiện xanh",
+      "publisher": "Nhân Dân",
+      "url": "https://nhandan.vn/post-795319.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Notícia sobre o projeto-piloto de investimento em meios de transporte limpos em Hanói (em vietnamita)",
+      "publisher": "VnEconomy",
+      "url": "https://vneconomy.vn/ha-noi-thi-diem-dau-tu-phuong-tien-giao-thong-sach.htm",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Ha Noi free bus travel within Ring Road 1 for one year",
+      "publisher": "Cổng Thông tin điện tử Chính phủ (chinhphu.vn)",
+      "url": "https://thanglong.chinhphu.vn/ha-noi-free-bus-travel-within-ring-road-1-for-one-year-110260702104500646.htm",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "title": "Ha Noi begins restricting fossil-fuel vehicles in low-emission zones",
+      "publisher": "Portal do Governo do Vietname (chinhphu.vn) — Hanoi Capital",
+      "url": "https://hanoicapital.chinhphu.vn/ha-noi-begins-restricting-fossil-fuel-vehicles-in-low-emission-zones-110260702082825273.htm",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "title": "Informação sobre a gestão do preço dos combustíveis a 8 de outubro de 2026 (em vietnamita)",
+      "publisher": "Bộ Công Thương (moit.gov.vn)",
+      "url": "https://moit.gov.vn/tin-tuc/thong-tin-dieu-hanh-gia-xang-dau-ngay-8-10-2026.html",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "vi"
+    },
+    {
+      "title": "Página do modelo Honda Vision no site oficial da Honda Vietname",
+      "publisher": "Honda Việt Nam",
+      "url": "https://www.honda.com.vn/xe-may/san-pham/vision",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "Understanding Motorcyclists Risk Perceptions Vietnam Brief",
+      "publisher": "Vital Strategies",
+      "url": "https://www.vitalstrategies.org/wp-content/uploads/Understanding-Motorcyclists-Risk-Perceptions-Vietnam-Brief.pdf",
+      "accessed": "2026-10-13",
+      "type": "reference",
+      "lang": "en"
+    }
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "PUBLISHED",
+  "date_published": "2026-10-13",
+  "date_modified": "2026-10-13",
+  "editorial": {
+    "qa_score": 100,
+    "qa_warnings": [],
+    "words": 1706,
+    "publish_mode": "review",
+    "approved_at": "2026-10-13",
+    "revisions": []
+  }
+}

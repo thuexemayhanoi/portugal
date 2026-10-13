@@ -1,0 +1,299 @@
+{
+  "contract_version": 1,
+  "id": "PT-0095",
+  "slug": "ler-precos-em-dong",
+  "title": "Ler preços em dong: o que significam «k», «tr» e os zeros",
+  "description": "Como ler preços em dong em mensagens e tabelas: o ponto dos milhares, «nghìn» e «triệu», o que são «k» e «tr», como evitar o zero a mais e converter para euros.",
+  "h1": "Como ler preços em dong sem se enganar nos zeros",
+  "summary": "Num preço em dong, o ponto separa os milhares («24.000» são vinte e quatro mil), «nghìn» quer dizer mil e «triệu» um milhão. Nas mensagens, «k» e «tr» são atalhos informais dessas palavras, mas não os encontrámos documentados numa fonte: peça sempre o valor por extenso e converta para euros só com a taxa do dia.",
+  "key_points": [
+    "O ponto separa os milhares: «24.000 đồng/lít» são vinte e quatro mil por litro, e não um número com casas decimais.",
+    "«Nghìn» significa mil e «triệu» um milhão; com a vírgula decimal, «2,5 triệu» são 2.500.000.",
+    "«k» e «tr» são atalhos de mensagem que as fontes consultadas não documentam: use-os como pista e confirme o valor completo.",
+    "Um zero a mais ou a menos multiplica ou divide o valor por dez: compare com um preço de referência que conheça.",
+    "Converta para euros com a taxa do dia do seu banco ou da casa de câmbio; este guia não indica taxas."
+  ],
+  "intro": [
+    "Em Hanói, quase todos os preços têm cinco, seis ou sete algarismos. A imprensa vietnamita noticiou, numa revisão de preços de 10 de setembro de 2026, que a gasolina E10RON95-III passou os 24.000 đồng por litro, e uma notícia sobre o lançamento de uma nova geração da Honda Vision anunciava um preço «a partir de 30 triệu đồng». Para quem pensa em euros, os zeros distraem, e uma leitura à pressa engana-se com facilidade.",
+    "Este guia explica como se escrevem os milhares, o que querem dizer «nghìn» e «triệu» nas notícias e nas tabelas, o que são o «k» e o «tr» das mensagens e como passar os valores para euros. Serve para qualquer valor em dong, incluindo os de um aluguer de mota. Não indica taxas de câmbio, porque mudam todos os dias, nem diz que formas de pagamento a loja aceita: isso pergunta-se à loja."
+  ],
+  "sections": [
+    {
+      "h2": "Os pontos e os zeros: como se escreve um preço em dong",
+      "body": [
+        "Nas fontes vietnamitas que consultámos, o ponto separa os milhares e a vírgula marca as casas decimais. É uma lógica próxima da portuguesa, em que a vírgula é o separador decimal. Por isso, «24.000 đồng/lít» é um preço de vinte e quatro mil por litro, e não um número com três casas decimais. Foi este o formato que a publicação Tạp chí Công Thương usou, a 10 de setembro de 2026, no título da notícia sobre a revisão do preço dos combustíveis.",
+        "O mesmo formato aparece nos preços dos transportes, nas notícias e nos cartazes. A tabela seguinte reúne exemplos reais, escritos em vietnamita, com a respetiva leitura:",
+        {
+          "table": {
+            "caption": "Exemplos reais de valores escritos em vietnamita e a sua leitura",
+            "head": [
+              "Como aparece",
+              "Como se lê",
+              "Em algarismos",
+              "Onde apareceu"
+            ],
+            "rows": [
+              [
+                "24.000 đồng/lít",
+                "vinte e quatro mil por litro",
+                "24.000",
+                "Título de uma notícia de 10 de setembro de 2026 sobre o preço da gasolina"
+              ],
+              [
+                "30.000 đồng",
+                "trinta mil",
+                "30.000",
+                "Título de uma notícia sobre a abertura de uma linha de autocarro para o aeroporto de Nội Bài"
+              ],
+              [
+                "245 nghìn đồng/7 khách",
+                "duzentos e quarenta e cinco mil por carro de sete lugares",
+                "245.000",
+                "Notícia do Báo Văn hóa sobre os carros elétricos do lago Hoàn Kiếm"
+              ],
+              [
+                "30 triệu đồng",
+                "trinta milhões",
+                "30.000.000",
+                "Título de uma notícia sobre o lançamento de uma nova Honda Vision"
+              ],
+              [
+                "2,5 triệu đồng",
+                "dois milhões e meio",
+                "2.500.000",
+                "Notícia sobre trânsito do jornal Pháp Luật TP.HCM"
+              ]
+            ]
+          }
+        },
+        "Estes valores servem só para mostrar o formato. O preço dos combustíveis muda com frequência e os outros podem já não estar em vigor: não os use como preços atuais.",
+        "Se um preço vier de uma página escrita noutra língua, confirme se o ponto marca milhares ou decimais. Conte os algarismos e compare com um valor que já conheça, em vez de presumir."
+      ]
+    },
+    {
+      "h2": "«Nghìn» e «triệu»: mil e milhão escritos por extenso",
+      "body": [
+        "Nas notícias, nos cartazes e nas conversas, as palavras substituem muitos zeros. «Nghìn» significa mil: «245 nghìn» são 245.000. «Triệu» significa milhão: «30 triệu» são 30.000.000. Com «triệu», a vírgula é decimal, como em português: «2,5 triệu» são dois milhões e meio, isto é, 2.500.000.",
+        "A tabela de referência da loja usa outra forma: escreve os valores completos, com pontos nos milhares, como {{price.wave.day}} por dia numa Honda Wave. Se um preço lhe chegar em «nghìn» ou «triệu», compare-o com essa tabela e peça à loja que confirme o valor para as suas datas.",
+        "Em quatro passos, lê-se qualquer valor deste tipo:",
+        {
+          "steps": [
+            {
+              "title": "Procure a palavra",
+              "text": "Se o valor tiver «nghìn» ou «triệu», é essa palavra que dá a ordem de grandeza."
+            },
+            {
+              "title": "Multiplique",
+              "text": "«Nghìn» multiplica por mil e «triệu» por um milhão. A vírgula é decimal: «2,5 triệu» é 2,5 vezes um milhão."
+            },
+            {
+              "title": "Se só houver algarismos, conte os grupos",
+              "text": "Cada ponto separa grupos de três algarismos: «1.200.000» é um milhão e duzentos mil."
+            },
+            {
+              "title": "Escreva em algarismos completos",
+              "text": "Passe o valor a algarismos com pontos, como em 245.000, e leia-o em voz alta, em português, para confirmar."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "«k» e «tr» nas mensagens: o que as fontes não confirmam",
+      "body": [
+        {
+          "note": "As fontes consultadas para este guia escrevem sempre «nghìn» e «triệu» por extenso. Não encontrámos nenhuma que documente o «k» e o «tr», nem a leitura «1tr2». O que se segue descreve a convenção informal de mensagens e cartazes tal como costuma ser entendida, e não uma regra oficial.",
+          "tone": "warn",
+          "title": "Convenção informal, sem fonte"
+        },
+        "O «k» abrevia mil, tal como o «k» de quilo: «20k» são 20.000 e «350k» são 350.000. O «tr» abrevia «triệu»: «1tr» é um milhão. Quando há uma parte decimal, o algarismo que vem depois do «tr» faz de casa decimal: «1tr2» costuma ler-se como 1,2 milhões, isto é, 1.200.000.",
+        {
+          "table": {
+            "caption": "Leitura habitual das abreviaturas (convenção informal, não confirmada por fonte)",
+            "head": [
+              "Escrito",
+              "Leitura habitual",
+              "Em algarismos"
+            ],
+            "rows": [
+              [
+                "20k",
+                "vinte mil",
+                "20.000"
+              ],
+              [
+                "350k",
+                "trezentos e cinquenta mil",
+                "350.000"
+              ],
+              [
+                "1tr",
+                "um milhão",
+                "1.000.000"
+              ],
+              [
+                "1tr2",
+                "um milhão e duzentos mil",
+                "1.200.000"
+              ],
+              [
+                "2tr5",
+                "dois milhões e quinhentos mil",
+                "2.500.000"
+              ]
+            ]
+          }
+        },
+        "Como não há uma regra escrita, a leitura pode variar com quem escreve. O mais seguro é responder com o valor que entendeu, em algarismos completos, e pedir confirmação: «350.000?». Um sim ou um não elimina a dúvida sem esforço."
+      ]
+    },
+    {
+      "h2": "Um zero a mais: como confirmar que leu bem",
+      "body": [
+        "Um zero a mais ou a menos faz o valor subir ou descer dez vezes, e num aluguer a diferença é grande. Quatro hábitos evitam o erro:",
+        {
+          "ul": [
+            "**Conte os algarismos.** Escreva o número sem pontos: seis algarismos são centenas de milhares e sete são milhões. Um valor como 250.000 tem seis algarismos; 2.500.000 tem sete.",
+            "**Compare com uma referência que conheça.** A tabela de referência da loja, verificada a {{pricing.verifiedAt}}, mostra os valores completos. Se uma mensagem lhe der, para o mesmo modelo e a mesma duração, um valor dez vezes maior ou menor, há um zero a mais ou a menos: pergunte antes de aceitar.",
+            "**Leia em voz alta, em português.** «Duzentos e cinquenta mil» é uma frase que se confere; «250000» lido à pressa, não.",
+            "**Peça o total por escrito.** Em algarismos completos, com a moeda e com o que esse valor cobre."
+          ]
+        },
+        "Para treinar o olho, eis a tabela de referência da loja, em que todos os valores vêm completos:",
+        {
+          "component": "price-table"
+        },
+        "Ao entregar notas, o cuidado é o mesmo: ordene-as por valor e conte-as contra o total escrito. O guia da [caução em dinheiro](/precos/caucao-em-dinheiro/) explica como contar e registar a entrega à frente da loja."
+      ]
+    },
+    {
+      "h2": "Converter dong em euros com a taxa do dia",
+      "body": [
+        "Um preço em dong só diz algo a quem pensa em euros depois de convertido, e a conversão depende de uma taxa que muda todos os dias e varia com quem a aplica: o banco, a casa de câmbio, uma aplicação ou um terminal de pagamento. Este guia não indica nenhuma taxa, porque seria um número desatualizado em poucos dias. O Banco do Estado do Vietname (SBV) é a entidade que emite as notas do país, mas a taxa que lhe vão aplicar é a de quem fizer a conversão.",
+        {
+          "steps": [
+            {
+              "title": "Obtenha a taxa do dia",
+              "text": "Veja no seu banco (aplicação ou extrato) ou no balcão onde vai trocar dinheiro quantos dong valem um euro nesse dia."
+            },
+            {
+              "title": "Divida",
+              "text": "Valor em dong a dividir pelo número de dong que valem um euro. Para estimar de cabeça, corte os três últimos zeros e divida pelos milhares de dong que valem um euro."
+            },
+            {
+              "title": "Arredonde para cima",
+              "text": "Num orçamento, arredonde a conta para cima: sobra uma margem para a diferença entre taxas."
+            },
+            {
+              "title": "Anote a data e a taxa",
+              "text": "Escreva ao lado de cada conversão a data e a taxa usadas: assim sabe se a conta ainda serve daqui a uma semana."
+            }
+          ]
+        },
+        "Um exemplo do método, sem números inventados: se, nesse dia, um euro valesse T milhares de dong, um valor de 245 mil dong custaria 245 a dividir por T euros. Troque T pela taxa que o seu banco ou a casa de câmbio lhe indicar.",
+        "Para somar o aluguer aos restantes gastos, veja a lista dos [custos além do preço](/precos/custos-alem-do-preco/). A conta em dong fica mais fiável quando todas as parcelas estão escritas por extenso e convertidas com a mesma taxa."
+      ]
+    },
+    {
+      "h2": "Mensagens com a loja: como escrever para não haver dúvidas",
+      "body": [
+        "Pode escrever ou ligar para {{phone}}, {{hours}}; os restantes contactos estão na página de [contactos](/contactos/). Em qualquer conversa sobre valores, peça numa só mensagem:",
+        {
+          "checklist": [
+            "o total para as suas datas e o modelo que escolheu, em algarismos completos e com a moeda;",
+            "o que esse total cobre e o que fica de fora;",
+            "se há outras parcelas, como caução, entrega ou extras, e quanto é cada uma, também em algarismos completos;",
+            "que formas de pagamento aceita a loja e quando se paga cada parcela;",
+            "que o recibo repita os valores em algarismos, com a data."
+          ]
+        },
+        "Se a resposta vier com «k» ou «tr», escreva de volta o valor que entendeu, por exemplo «350.000?», e só avance quando a loja o confirmar. Escrever é mais seguro do que falar: veja as dicas para [comunicar com a loja sem falar vietnamita](/guia-de-aluguer/comunicar-sem-falar-vietnamita/).",
+        "O recibo fecha a conversa: o guia sobre [recibos e comprovativos](/precos/recibos-e-comprovativos/) diz o que deve constar. Se o acordo falar de caução e de descontos sobre ela, aplique o mesmo método a cada montante; as perguntas essenciais estão na lista das [perguntas a fazer antes de alugar](/guia-de-aluguer/perguntas-antes-de-alugar/) e o enquadramento geral no guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/)."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "O que significa «1tr2» numa mensagem?",
+      "a": "Costuma ler-se como 1,2 milhões, ou seja, 1.200.000: o «tr» abrevia «triệu» e o «2» faz de casa decimal. É uma convenção informal que as fontes consultadas não documentam, por isso confirme o valor completo, em algarismos, com quem o escreveu."
+    },
+    {
+      "q": "O ponto nos preços vietnamitas é um separador decimal?",
+      "a": "Nas fontes consultadas, não: o ponto separa os milhares e a vírgula marca os decimais. «24.000» são vinte e quatro mil e «2,5 triệu» são dois milhões e meio."
+    },
+    {
+      "q": "Quantos dong valem um euro?",
+      "a": "Muda todos os dias e depende de quem faz a conversão. Consulte a taxa do dia no seu banco ou na casa de câmbio onde vai trocar dinheiro e divida o valor em dong por ela. Este guia não indica taxas porque ficariam desatualizadas."
+    },
+    {
+      "q": "Como evito pagar dez vezes mais por engano?",
+      "a": "Escreva o valor sem pontos e conte os algarismos, compare com a tabela de referência da loja e peça o total completo por escrito antes de pagar. Se o valor de uma mensagem for dez vezes maior ou menor do que o esperado, pergunte antes de aceitar."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Emissão de moeda (página em inglês do Banco do Estado do Vietname)",
+      "publisher": "State Bank of Vietnam (sbv.gov.vn)",
+      "url": "https://sbv.gov.vn/en/money-issuance",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "title": "Kỳ điều hành giá xăng dầu ngày 10/9/2026: Giá xăng dầu đồng loạt tăng, xăng E10RON95-III vượt 24.000 đồng/lít",
+      "publisher": "Tạp chí Công Thương",
+      "url": "https://tapchicongthuong.vn/ky-dieu-hanh-gia-xang-dau-ngay-10-9-2026--gia-xang-dau-dong-loat-tang--xang-e10ron95-iii-vuot-24-000-dong-lit-548847.htm",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Khai trương tuyến xe buýt đến sân bay Nội Bài, giá vé 30.000 đồng",
+      "publisher": "Báo Đấu thầu",
+      "url": "https://baodauthau.vn/khai-truong-tuyen-xe-buyt-den-san-bay-noi-bai-gia-ve-30000-dong-post12927.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Xe điện kết nối Hồ Hoàn Kiếm – Hoàng thành Thăng Long",
+      "publisher": "Báo Văn hóa",
+      "url": "https://baovanhoa.vn/du-lich/xe-dien-ket-noi-ho-hoan-kiem-hoang-thanh-thang-long-55565.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Honda Vision thế hệ mới được ra mắt tại Việt Nam, giá từ 30 triệu đồng",
+      "publisher": "Doanh Nhân — Báo Pháp luật Việt Nam",
+      "url": "https://doanhnhan.baophapluat.vn/honda-vision-the-he-moi-duoc-ra-mat-tai-viet-nam-gia-tu-30-trieu-dong-35960.html",
+      "accessed": "2026-10-12",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "CSGT xử lý hàng loạt xe máy đi vào làn ô tô trên Đại lộ Thăng Long",
+      "publisher": "Pháp Luật TP.HCM (plo.vn)",
+      "url": "https://plo.vn/csgt-xu-ly-hang-loat-xe-may-di-vao-lan-o-to-tren-dai-lo-thang-long-post778061.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    }
+  ],
+  "legal_note": false,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "PUBLISHED",
+  "date_published": "2026-10-13",
+  "date_modified": "2026-10-13",
+  "editorial": {
+    "qa_score": 100,
+    "qa_warnings": [],
+    "words": 1821,
+    "publish_mode": "review",
+    "approved_at": "2026-10-13",
+    "revisions": []
+  }
+}
