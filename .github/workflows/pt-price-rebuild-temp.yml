@@ -6,6 +6,14 @@ on:
     paths:
       - site/data.json
       - content/articles/PT-0047.json
+      - content/articles/PT-0056.json
+      - content/articles/PT-0059.json
+      - content/articles/PT-0060.json
+      - content/articles/PT-0063.json
+      - content/articles/PT-0065.json
+      - content/articles/PT-0066.json
+      - content/articles/PT-0067.json
+      - content/articles/PT-0068.json
       - .github/workflows/pt-price-rebuild-temp.yml
   workflow_dispatch:
 
