@@ -1,0 +1,221 @@
+{
+  "contract_version": 1,
+  "id": "PT-0044",
+  "slug": "50cc-para-estudantes-de-intercambio",
+  "title": "50 cc para estudantes de intercâmbio em Hanói: o que avaliar",
+  "description": "Vai estudar em Hanói durante meses? Como avaliar se uma 50 cc serve o trajeto até à faculdade, o orçamento e o seguro, e quando escolher outra solução.",
+  "h1": "Um semestre de intercâmbio em Hanói com uma 50 cc: faz sentido no seu caso?",
+  "summary": "Uma 50 cc pode servir um estudante de intercâmbio em Hanói quando o trajeto diário é curto, sem pontes nem avenidas rápidas, e feito a solo, e quando a idade, os documentos e o seguro estão confirmados. Se atravessa o rio todos os dias, dá boleia a colegas ou quer viajar aos fins de semana, outra mota ou o transporte público servem melhor.",
+  "key_points": [
+    "Comece pelo trajeto entre o alojamento e a faculdade: distância, pontes e horas de ponta pesam mais do que o preço.",
+    "A velocidade de projeto de uma 50 cc não passa de 50 km/h: chega para ruas de bairro e fica curta em avenidas rápidas.",
+    "Aos 16 anos cumpre-se a idade mínima deste grupo, mas os documentos exigidos a um visitante têm de ser confirmados à parte.",
+    "Leia a apólice do seguro de estudante ou de viagem e veja se cobre acidentes de mota, e em que condições.",
+    "Na tabela de referência, a 50 cc custa {{price.cc50.day}} por dia; para um semestre, peça à loja o total do período."
+  ],
+  "intro": [
+    "Um semestre de intercâmbio muda a forma de olhar para a mota. Já não se trata de um passeio de fim de semana, mas de quatro ou cinco meses de aulas, compras, jantares com colegas e, talvez, uma escapadinha pelo norte do Vietname. Para muitos estudantes, a 50 cc parece a resposta óbvia: é pequena, simples e tem fama de económica.",
+    "Este guia ajuda a avaliar se uma 50 cc serve de facto a vida de estudante em Hanói, com cinco critérios — trajeto, uso ao longo do semestre, documentos e seguro, orçamento e alternativas — e indica quando outra mota, o autocarro ou o táxi são melhor escolha. As regras de entrada no país e as condições de cada universidade ficam fora deste guia. Para o retrato geral destes veículos, veja o [guia de motas de 50 cc](/tipos-de-motas/motas-50cc/)."
+  ],
+  "sections": [
+    {
+      "h2": "Primeiro critério: o trajeto entre o alojamento e a faculdade",
+      "body": [
+        "Antes de pensar em motas, marque no mapa os pontos da sua rotina: o alojamento, a faculdade, o supermercado, o sítio onde costuma jantar. Depois, olhe para o caminho entre eles com três perguntas:",
+        {
+          "ul": [
+            "**Quanto tempo demora?** Dez minutos dentro do mesmo bairro não pedem o mesmo que meia hora a atravessar a cidade.",
+            "**Atravessa o rio Vermelho?** As pontes têm rampas compridas e trânsito mais rápido, precisamente onde uma 50 cc mais se ressente.",
+            "**Passa por avenidas largas?** Nas vias com trânsito rápido, uma velocidade de projeto que não vai além dos 50 km/h pode ser pouca para acompanhar o ritmo."
+          ]
+        },
+        {
+          "table": {
+            "caption": "Trajeto diário de um estudante e adequação de uma 50 cc",
+            "head": [
+              "Trajeto diário",
+              "Com uma 50 cc",
+              "Alternativa a ponderar"
+            ],
+            "rows": [
+              [
+                "Curto, no mesmo bairro, por ruas calmas",
+                "Serve bem",
+                "Ir a pé ou de bicicleta elétrica, se a distância for mínima"
+              ],
+              [
+                "Entre bairros vizinhos, sem pontes",
+                "Serve, sem pressa",
+                "Autocarro, se houver uma linha direta"
+              ],
+              [
+                "Com uma ponte sobre o rio Vermelho, duas vezes por dia",
+                "Fica curta",
+                "Scooter de maior cilindrada ou transporte público"
+              ],
+              [
+                "Por avenidas rápidas, à hora de ponta",
+                "Desaconselhada",
+                "Scooter de maior cilindrada, autocarro ou táxi"
+              ],
+              [
+                "Com um colega atrás quase todos os dias",
+                "Desaconselhada",
+                "Duas motas ou uma scooter mais potente"
+              ]
+            ]
+          }
+        },
+        "Faça o trajeto pelo menos uma vez antes de decidir, à hora a que o vai repetir, de táxi ou como passageiro. Vinte minutos a observar o trânsito dizem mais do que qualquer comparação de modelos.",
+        "A loja fica em {{area}}, na margem leste do rio. Num aluguer de vários meses, vai lá voltar para renovar o aluguer ou resolver uma avaria, e esse percurso também entra nas contas."
+      ]
+    },
+    {
+      "h2": "Segundo critério: o uso real ao longo do semestre",
+      "body": [
+        "As aulas são só uma parte da rotina. Pense também no resto do semestre e no que vai pedir à mota:",
+        {
+          "ul": [
+            "**Saídas à noite**: a lei vietnamita não admite qualquer concentração de álcool no sangue ou no ar expirado de quem conduz. Se a noite inclui uma cerveja, a mota fica estacionada e o regresso faz-se de táxi.",
+            "**Boleias a colegas**: a regra geral é um passageiro por mota e, numa 50 cc, o peso extra reduz a aceleração e a capacidade de subida. O guia sobre [50 cc com passageiro](/tipos-de-motas/50cc-com-passageiro/) explica o que muda.",
+            "**Viagens de fim de semana**: nenhuma mota pode circular nas autoestradas vietnamitas, e uma 50 cc não foi pensada para longas distâncias. Para sair de Hanói, conte com outro meio de transporte.",
+            "**Chuva**: segundo o portal oficial de turismo do Vietname, a época das chuvas em Hanói atinge o auge entre junho e agosto. Nesses meses, cada trajeto pede capa e mais distância de travagem."
+          ]
+        },
+        "Se a mota só vai servir para as aulas e passar o resto da semana parada, um aluguer de vários meses pode não compensar o esforço de a ter, de a estacionar e de cuidar dela."
+      ]
+    },
+    {
+      "h2": "Terceiro critério: idade, documentos e seguro",
+      "body": [
+        "A lei vietnamita coloca os veículos até 50 cm³, ou elétricos até 4 kW, com velocidade de projeto até 50 km/h, num grupo próprio, com idade mínima de 16 anos. As cartas de motociclo das categorias A1 e A só são emitidas a partir dos 18. Para quem faz um intercâmbio no secundário, aos 16 ou 17 anos, o grupo das 50 cc é o único que a idade permite; o guia sobre a [idade mínima para uma 50 cc](/tipos-de-motas/idade-minima-50cc/) explica a regra em pormenor.",
+        "Cumprir a idade não resolve a questão dos documentos. Não parta do princípio de que um estudante estrangeiro pode conduzir uma 50 cc sem os ter: os requisitos dependem do veículo, da idade e da situação de cada condutor, e a lei pode mudar. Confirme-os em fontes oficiais antes de viajar e leia o guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/).",
+        {
+          "note": "Se viaja com um seguro de estudante ou de viagem, leia as exclusões antes de conduzir. O Governo da Nova Zelândia, por exemplo, recomenda confirmar se o seguro cobre acidentes de mota no Vietname. Se a apólice não cobrir a condução, ou só a cobrir com uma habilitação que não tem, a mota deixa de ser uma opção sensata.",
+          "tone": "warn",
+          "title": "O seu seguro cobre a mota?"
+        },
+        "Não confunda a sua apólice com o seguro obrigatório da mota, que é outro assunto: o guia sobre o [seguro obrigatório de mota](/guia-de-aluguer/seguro-obrigatorio-de-mota/) explica o que cobre e o que fica de fora."
+      ]
+    },
+    {
+      "h2": "Quarto critério: o orçamento de um semestre",
+      "body": [
+        "Na tabela de referência da loja, uma 50 cc custa {{price.cc50.day}} por dia. A semana e o mês não têm tarifa publicada e são cotados caso a caso, por isso o valor de um semestre só se conhece pedindo à loja o total para as suas datas. Não o calcule multiplicando o preço diário.",
+        "Para comparar, os outros modelos têm tarifas semanais e mensais de referência. Ao dia, a 50 cc custa {{cmp.cc50.click.day}} uma Honda Click e {{cmp.cc50.vision.day}} uma Honda Vision: uma cilindrada menor não significa um aluguer mais barato. A tabela completa:",
+        {
+          "component": "price-table"
+        },
+        "Ao aluguer somam-se outras parcelas, que convém estimar antes de assumir um compromisso de meses:",
+        {
+          "ul": [
+            "o combustível, que depende dos quilómetros de cada semana;",
+            "o estacionamento no alojamento e junto da faculdade, se for pago;",
+            "a capa de chuva e outros acessórios, se não vierem com a mota;",
+            "a caução, se a loja a pedir: o valor volta no fim, mas fica imobilizado durante meses."
+          ]
+        },
+        "O guia do [aluguer mensal](/precos/aluguer-mensal-de-mota/) explica como se combinam as renovações, e a lista de [custos além do preço](/precos/custos-alem-do-preco/) ajuda a não esquecer nenhuma parcela."
+      ]
+    },
+    {
+      "h2": "Quando outra mota é melhor escolha",
+      "body": [
+        "Uma 50 cc deixa de ser a melhor opção quando o semestre pede mais do que trajetos curtos e calmos. Uma scooter de maior cilindrada, como a Honda Click ou a Honda Vision, acompanha melhor o trânsito das avenidas e das pontes e leva um passageiro com mais folga.",
+        "Há uma condição: estas scooters são motociclos e exigem carta da categoria A1 ou A, conforme a cilindrada, que só é emitida a partir dos 18 anos. Se tem a habilitação adequada, compare-as no guia da [scooter para o dia a dia](/tipos-de-motas/scooter-para-o-dia-a-dia/), pensado para quem repete o mesmo trajeto durante meses.",
+        "Se não sabe se a 50 cc chega, não feche o semestre de uma vez. Alugue alguns dias, faça o trajeto real à hora de ponta e só depois peça o orçamento para o período completo. Se a mota se revelar curta a meio do caminho, o guia sobre [trocar de mota](/guia-de-aluguer/trocar-de-mota/) explica como pedir outra."
+      ]
+    },
+    {
+      "h2": "Quando o transporte público ou o táxi servem melhor",
+      "body": [
+        "Para alguns estudantes, a melhor mota é nenhuma. Pondere não alugar se:",
+        {
+          "ul": [
+            "nunca conduziu uma mota: o trânsito de Hanói não é sítio para aprender, nem numa 50 cc;",
+            "não consegue confirmar os documentos exigidos, ou o seguro não cobre a condução;",
+            "o trajeto diário atravessa a cidade às horas de ponta;",
+            "as saídas à noite são frequentes e incluem bebidas."
+          ]
+        },
+        "Nesses casos, o autocarro, o táxi e as aplicações de transporte cobrem a maior parte das deslocações. Até 30 de junho de 2027, a cidade oferece viagens gratuitas nos autocarros públicos subsidiados dentro do Anel Viário 1, num programa iniciado a 1 de julho de 2026. Veja se alguma linha serve o seu trajeto e confirme as condições em vigor antes de contar com elas.",
+        "Há ainda uma solução intermédia: a loja tem bicicletas elétricas, com preço sob consulta. Pergunte se servem o seu trajeto e que regras se aplicam; também na bicicleta elétrica o capacete é obrigatório no Vietname."
+      ]
+    },
+    {
+      "h2": "O que perguntar à loja antes de um aluguer de vários meses",
+      "body": [
+        "Se decidir avançar, envie à loja uma só mensagem com as datas do semestre, o trajeto diário e a idade de quem vai conduzir, e acrescente estas perguntas:",
+        {
+          "checklist": [
+            "Qual é o total para o período completo, e como se paga: de uma vez ou mês a mês?",
+            "A 50 cc disponível é uma scooter automática ou uma mota de mudanças?",
+            "Que cilindrada consta do registo da unidade?",
+            "Quem trata da manutenção ao longo dos meses, e onde?",
+            "Se a 50 cc se revelar curta para o trajeto, posso trocá-la por outra mota, e como se acerta o preço?",
+            "Quantos capacetes vêm com a mota, e de que tamanhos?",
+            "Posso devolver a mota antes do fim do semestre, e o que acontece ao valor pago?"
+          ]
+        },
+        "Guarde as respostas por escrito e envie o pedido através dos [contactos da loja](/contactos/). A lista geral de [perguntas a fazer antes de alugar](/guia-de-aluguer/perguntas-antes-de-alugar/) cobre também a caução e a devolução, e a página de [tipos de motas](/tipos-de-motas/) ajuda a comparar a 50 cc com os outros veículos disponíveis."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Posso partilhar a 50 cc com um colega de casa?",
+      "a": "Só se a loja o autorizar e se o colega cumprir, por si, os requisitos para conduzir. Pergunte antes se outra pessoa pode conduzir a mota e se tem de constar do acordo. Cada condutor leva consigo os seus documentos e os da mota, e o seguro de cada um deve cobrir a condução."
+    },
+    {
+      "q": "Uma 50 cc serve para conhecer o norte do Vietname aos fins de semana?",
+      "a": "Não é a escolha indicada. As distâncias são longas, a velocidade de projeto de uma 50 cc é limitada e nenhuma mota pode entrar nas autoestradas. Para essas viagens, use o autocarro ou o comboio e deixe a 50 cc para a cidade. Se pensa sair de Hanói com a mota, leia antes o guia sobre a [autorização para sair de Hanói](/guia-de-aluguer/autorizacao-para-sair-de-hanoi/)."
+    },
+    {
+      "q": "Com 17 anos, posso alugar uma 50 cc para o intercâmbio?",
+      "a": "A idade mínima para conduzir um veículo até 50 cm³ no Vietname é de 16 anos, mas quem pode alugar, e quem assina o acordo, é decidido pela loja. Pergunte antes de reservar e confirme também, em fontes oficiais, os documentos exigidos a um condutor estrangeiro dessa idade."
+    }
+  ],
+  "sources": [
+    "luatvietnam-16-anos",
+    "lei-36-2024-a1",
+    "lawnet-categorias-2025",
+    "mfat-conduzir-vietname",
+    "lawnet-proibicoes-2024",
+    "lawnet-passageiros-2025",
+    "dtinews-autoestrada-2026",
+    "lawnet-capacete-168",
+    {
+      "title": "Weather and climate in Vietnam",
+      "publisher": "Portal oficial de turismo do Vietname (vietnam.travel)",
+      "url": "https://vietnam.travel/things-to-do/weather-and-climate-vietnam",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "title": "Ha Noi free bus travel within Ring Road 1 for one year",
+      "publisher": "Cổng Thông tin điện tử Chính phủ (chinhphu.vn)",
+      "url": "https://thanglong.chinhphu.vn/ha-noi-free-bus-travel-within-ring-road-1-for-one-year-110260702104500646.htm",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    },
+    "tabela-precos-proprietario"
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "PUBLISHED",
+  "date_published": "2026-10-13",
+  "date_modified": "2026-10-13",
+  "editorial": {
+    "qa_score": 100,
+    "qa_warnings": [],
+    "words": 1877,
+    "publish_mode": "review",
+    "approved_at": "2026-10-13",
+    "revisions": []
+  }
+}

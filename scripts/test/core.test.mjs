@@ -94,6 +94,10 @@ test('unverified business claims are flagged unless negated or asked', () => {
   assert.equal(findRiskyClaims('Não assuma que a entrega é gratuita.').length, 0);
   assert.equal(findRiskyClaims('Uma mota de 50 cc dispensa carta de condução?').length, 0);
   assert.equal(findRiskyClaims('Aberto 24 horas por dia.').length, 1);
+  assert.equal(findRiskyClaims('Os capacetes estão incluídos no preço.').length, 1);
+  assert.equal(findRiskyClaims('O combustível vem incluído.').length, 1);
+  assert.equal(findRiskyClaims('Confirme quantos capacetes estão incluídos e de que tamanho.').length, 0);
+  assert.equal(findRiskyClaims('Veja se o seguro está incluído.').length, 0);
 });
 
 test('LocalBusiness schema follows the official NAP rules', async () => {

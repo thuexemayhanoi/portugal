@@ -724,6 +724,204 @@
       "mode": "review",
       "type": "new",
       "date": "2026-10-13"
+    },
+    {
+      "id": "PT-0041",
+      "url": "/tipos-de-motas/scooter-50cc-ou-110cc/",
+      "title": "50cc ou 110cc em Hanói: que scooter serve no dia a dia",
+      "words": 2153,
+      "qa_score": 100,
+      "writer": "claude",
+      "mode": "review",
+      "type": "new",
+      "date": "2026-10-13"
+    },
+    {
+      "id": "PT-0044",
+      "url": "/tipos-de-motas/50cc-para-estudantes-de-intercambio/",
+      "title": "50 cc para estudantes de intercâmbio em Hanói: o que avaliar",
+      "words": 1877,
+      "qa_score": 100,
+      "writer": "claude",
+      "mode": "review",
+      "type": "new",
+      "date": "2026-10-13"
+    },
+    {
+      "id": "PT-0048",
+      "url": "/tipos-de-motas/50cc-automatica-ou-com-mudancas/",
+      "title": "50 cc automática ou com mudanças: como saber qual vai conduzir",
+      "words": 2104,
+      "qa_score": 100,
+      "writer": "claude",
+      "mode": "review",
+      "type": "new",
+      "date": "2026-10-13"
+    },
+    {
+      "id": "PT-0053",
+      "url": "/tipos-de-motas/confirmar-que-a-mota-e-50cc/",
+      "title": "Como saber se a mota é mesmo de 50 cc: registo e ficha técnica",
+      "words": 1943,
+      "qa_score": 100,
+      "writer": "claude",
+      "mode": "review",
+      "type": "new",
+      "date": "2026-10-13"
+    },
+    {
+      "id": "PT-0063",
+      "url": "/tipos-de-motas/carta-para-mota-eletrica/",
+      "title": "Carta para mota elétrica no Vietname: potência e categorias",
+      "words": 1849,
+      "qa_score": 100,
+      "writer": "claude",
+      "mode": "review",
+      "type": "new",
+      "date": "2026-10-13"
+    },
+    {
+      "id": "PT-0069",
+      "url": "/precos/aluguer-de-longa-duracao/",
+      "title": "Aluguer de mota de longa duração em Hanói: 2 a 6 meses",
+      "words": 2414,
+      "qa_score": 100,
+      "writer": "claude",
+      "mode": "review",
+      "type": "new",
+      "date": "2026-10-13"
+    },
+    {
+      "id": "PT-0072",
+      "url": "/precos/sair-de-hanoi-a-meio-do-aluguer/",
+      "title": "Viagem a meio da estadia: manter a mota alugada ou devolvê-la?",
+      "words": 1953,
+      "qa_score": 100,
+      "writer": "claude",
+      "mode": "review",
+      "type": "new",
+      "date": "2026-10-13"
+    },
+    {
+      "id": "PT-0082",
+      "url": "/precos/desgaste-normal-num-aluguer-longo/",
+      "title": "Desgaste normal ou dano na mota alugada num aluguer longo",
+      "words": 1996,
+      "qa_score": 100,
+      "writer": "claude",
+      "mode": "review",
+      "type": "new",
+      "date": "2026-10-13"
+    },
+    {
+      "id": "PT-0083",
+      "url": "/precos/alterar-ou-cancelar-a-reserva/",
+      "title": "Voo atrasado e reserva da mota: como alterar ou cancelar",
+      "words": 2121,
+      "qa_score": 100,
+      "writer": "claude",
+      "mode": "review",
+      "type": "new",
+      "date": "2026-10-13"
+    },
+    {
+      "id": "PT-0085",
+      "url": "/precos/varias-motas-para-familias/",
+      "title": "Várias motas para a família em Hanói: quantas e como organizar",
+      "words": 2165,
+      "qa_score": 100,
+      "writer": "claude",
+      "mode": "review",
+      "type": "new",
+      "date": "2026-10-13"
+    },
+    {
+      "id": "PT-0099",
+      "url": "/precos/burlas-no-aluguer-de-motas/",
+      "title": "Burla no aluguer de mota no Vietname: evitar cobranças indevidas",
+      "words": 1947,
+      "qa_score": 100,
+      "writer": "claude",
+      "mode": "review",
+      "type": "new",
+      "date": "2026-10-13"
+    },
+    {
+      "id": "PT-0104",
+      "url": "/precos/capacetes-no-aluguer/",
+      "title": "Capacete no aluguer de mota: quantos pedir e que tamanho",
+      "words": 2032,
+      "qa_score": 100,
+      "writer": "claude",
+      "mode": "review",
+      "type": "new",
+      "date": "2026-10-13"
+    },
+    {
+      "id": "PT-0119",
+      "url": "/precos/uma-mota-ou-duas-para-um-casal/",
+      "title": "Uma mota ou duas para um casal em Hanói: o que compensa",
+      "words": 1818,
+      "qa_score": 100,
+      "writer": "claude",
+      "mode": "review",
+      "type": "new",
+      "date": "2026-10-13"
+    },
+    {
+      "id": "PT-0139",
+      "url": "/guia-de-aluguer/alugar-para-outra-pessoa/",
+      "title": "Alugar mota para outra pessoa conduzir: o que considerar",
+      "words": 2010,
+      "qa_score": 100,
+      "writer": "claude",
+      "mode": "review",
+      "type": "new",
+      "date": "2026-10-13"
+    },
+    {
+      "id": "PT-0149",
+      "url": "/guia-de-aluguer/conduzir-sem-carta-valida/",
+      "title": "Conduzir sem carta válida no Vietname: o que arrisca de facto",
+      "words": 2107,
+      "qa_score": 100,
+      "writer": "claude",
+      "mode": "review",
+      "type": "new",
+      "date": "2026-10-13"
+    },
+    {
+      "id": "PT-0159",
+      "url": "/guia-de-aluguer/alcool-zero-ao-volante/",
+      "title": "Álcool e condução no Vietname: a regra do zero para motas",
+      "words": 1671,
+      "qa_score": 100,
+      "writer": "claude",
+      "mode": "review",
+      "type": "new",
+      "date": "2026-10-13"
+    },
+    {
+      "id": "PT-0209",
+      "url": "/guia-de-aluguer/assistencia-na-estrada/",
+      "title": "Assistência na estrada de mota no Vietname: o que esperar",
+      "words": 2148,
+      "qa_score": 100,
+      "writer": "claude",
+      "mode": "review",
+      "type": "new",
+      "date": "2026-10-13"
+    },
+    {
+      "id": "PT-0286",
+      "url": "/rotas-e-mobilidade/quando-nao-conduzir/",
+      "title": "Quando é melhor não conduzir em Hanói: 7 situações",
+      "words": 1822,
+      "qa_score": 100,
+      "writer": "claude",
+      "mode": "review",
+      "type": "new",
+      "date": "2026-10-13"
     }
   ]
 }

@@ -2,329 +2,119 @@
   "command": "approve",
   "run_on": "2026-10-13",
   "status": "ACTIVE",
-  "published_total": 64,
+  "published_total": 82,
   "in_review": [],
   "processed": [
     {
-      "id": "PT-0007",
+      "id": "PT-0041",
       "result": "PUBLISH",
       "warnings": []
     },
     {
-      "id": "PT-0009",
+      "id": "PT-0044",
       "result": "PUBLISH",
       "warnings": []
     },
     {
-      "id": "PT-0010",
+      "id": "PT-0048",
       "result": "PUBLISH",
       "warnings": []
     },
     {
-      "id": "PT-0019",
+      "id": "PT-0053",
       "result": "PUBLISH",
       "warnings": []
     },
     {
-      "id": "PT-0023",
+      "id": "PT-0063",
       "result": "PUBLISH",
       "warnings": []
     },
     {
-      "id": "PT-0043",
+      "id": "PT-0069",
       "result": "PUBLISH",
       "warnings": []
     },
     {
-      "id": "PT-0045",
+      "id": "PT-0072",
       "result": "PUBLISH",
       "warnings": []
     },
     {
-      "id": "PT-0050",
+      "id": "PT-0082",
       "result": "PUBLISH",
       "warnings": []
     },
     {
-      "id": "PT-0065",
+      "id": "PT-0083",
       "result": "PUBLISH",
       "warnings": []
     },
     {
-      "id": "PT-0073",
+      "id": "PT-0085",
       "result": "PUBLISH",
       "warnings": []
     },
     {
-      "id": "PT-0074",
+      "id": "PT-0099",
       "result": "PUBLISH",
       "warnings": []
     },
     {
-      "id": "PT-0075",
+      "id": "PT-0104",
       "result": "PUBLISH",
       "warnings": []
     },
     {
-      "id": "PT-0077",
+      "id": "PT-0119",
       "result": "PUBLISH",
       "warnings": []
     },
     {
-      "id": "PT-0080",
+      "id": "PT-0139",
       "result": "PUBLISH",
       "warnings": []
     },
     {
-      "id": "PT-0084",
+      "id": "PT-0149",
       "result": "PUBLISH",
       "warnings": []
     },
     {
-      "id": "PT-0086",
+      "id": "PT-0159",
       "result": "PUBLISH",
       "warnings": []
     },
     {
-      "id": "PT-0087",
+      "id": "PT-0209",
       "result": "PUBLISH",
       "warnings": []
     },
     {
-      "id": "PT-0089",
-      "result": "PUBLISH",
-      "warnings": []
-    },
-    {
-      "id": "PT-0093",
-      "result": "PUBLISH",
-      "warnings": []
-    },
-    {
-      "id": "PT-0094",
-      "result": "PUBLISH",
-      "warnings": []
-    },
-    {
-      "id": "PT-0096",
-      "result": "PUBLISH",
-      "warnings": []
-    },
-    {
-      "id": "PT-0097",
-      "result": "PUBLISH",
-      "warnings": []
-    },
-    {
-      "id": "PT-0100",
-      "result": "PUBLISH",
-      "warnings": []
-    },
-    {
-      "id": "PT-0101",
-      "result": "PUBLISH",
-      "warnings": []
-    },
-    {
-      "id": "PT-0103",
-      "result": "PUBLISH",
-      "warnings": []
-    },
-    {
-      "id": "PT-0105",
-      "result": "PUBLISH",
-      "warnings": []
-    },
-    {
-      "id": "PT-0108",
-      "result": "PUBLISH",
-      "warnings": []
-    },
-    {
-      "id": "PT-0109",
-      "result": "PUBLISH",
-      "warnings": []
-    },
-    {
-      "id": "PT-0110",
-      "result": "PUBLISH",
-      "warnings": []
-    },
-    {
-      "id": "PT-0115",
-      "result": "PUBLISH",
-      "warnings": []
-    },
-    {
-      "id": "PT-0120",
-      "result": "PUBLISH",
-      "warnings": []
-    },
-    {
-      "id": "PT-0125",
-      "result": "PUBLISH",
-      "warnings": []
-    },
-    {
-      "id": "PT-0130",
-      "result": "PUBLISH",
-      "warnings": []
-    },
-    {
-      "id": "PT-0132",
-      "result": "PUBLISH",
-      "warnings": []
-    },
-    {
-      "id": "PT-0134",
-      "result": "PUBLISH",
-      "warnings": []
-    },
-    {
-      "id": "PT-0135",
-      "result": "PUBLISH",
-      "warnings": []
-    },
-    {
-      "id": "PT-0137",
-      "result": "PUBLISH",
-      "warnings": []
-    },
-    {
-      "id": "PT-0141",
-      "result": "PUBLISH",
-      "warnings": []
-    },
-    {
-      "id": "PT-0145",
-      "result": "PUBLISH",
-      "warnings": []
-    },
-    {
-      "id": "PT-0146",
-      "result": "PUBLISH",
-      "warnings": []
-    },
-    {
-      "id": "PT-0147",
-      "result": "PUBLISH",
-      "warnings": []
-    },
-    {
-      "id": "PT-0150",
-      "result": "PUBLISH",
-      "warnings": []
-    },
-    {
-      "id": "PT-0163",
-      "result": "PUBLISH",
-      "warnings": []
-    },
-    {
-      "id": "PT-0193",
-      "result": "PUBLISH",
-      "warnings": []
-    },
-    {
-      "id": "PT-0196",
-      "result": "PUBLISH",
-      "warnings": []
-    },
-    {
-      "id": "PT-0197",
-      "result": "PUBLISH",
-      "warnings": []
-    },
-    {
-      "id": "PT-0198",
-      "result": "PUBLISH",
-      "warnings": []
-    },
-    {
-      "id": "PT-0204",
-      "result": "PUBLISH",
-      "warnings": []
-    },
-    {
-      "id": "PT-0208",
-      "result": "PUBLISH",
-      "warnings": []
-    },
-    {
-      "id": "PT-0210",
-      "result": "PUBLISH",
-      "warnings": []
-    },
-    {
-      "id": "PT-0215",
-      "result": "PUBLISH",
-      "warnings": []
-    },
-    {
-      "id": "PT-0231",
-      "result": "PUBLISH",
-      "warnings": []
-    },
-    {
-      "id": "PT-0233",
+      "id": "PT-0286",
       "result": "PUBLISH",
       "warnings": []
     }
   ],
   "published": [
-    "PT-0007",
-    "PT-0009",
-    "PT-0010",
-    "PT-0019",
-    "PT-0023",
-    "PT-0043",
-    "PT-0045",
-    "PT-0050",
-    "PT-0065",
-    "PT-0073",
-    "PT-0074",
-    "PT-0075",
-    "PT-0077",
-    "PT-0080",
-    "PT-0084",
-    "PT-0086",
-    "PT-0087",
-    "PT-0089",
-    "PT-0093",
-    "PT-0094",
-    "PT-0096",
-    "PT-0097",
-    "PT-0100",
-    "PT-0101",
-    "PT-0103",
-    "PT-0105",
-    "PT-0108",
-    "PT-0109",
-    "PT-0110",
-    "PT-0115",
-    "PT-0120",
-    "PT-0125",
-    "PT-0130",
-    "PT-0132",
-    "PT-0134",
-    "PT-0135",
-    "PT-0137",
-    "PT-0141",
-    "PT-0145",
-    "PT-0146",
-    "PT-0147",
-    "PT-0150",
-    "PT-0163",
-    "PT-0193",
-    "PT-0196",
-    "PT-0197",
-    "PT-0198",
-    "PT-0204",
-    "PT-0208",
-    "PT-0210",
-    "PT-0215",
-    "PT-0231",
-    "PT-0233"
+    "PT-0041",
+    "PT-0044",
+    "PT-0048",
+    "PT-0053",
+    "PT-0063",
+    "PT-0069",
+    "PT-0072",
+    "PT-0082",
+    "PT-0083",
+    "PT-0085",
+    "PT-0099",
+    "PT-0104",
+    "PT-0119",
+    "PT-0139",
+    "PT-0149",
+    "PT-0159",
+    "PT-0209",
+    "PT-0286"
   ],
   "failed": []
 }

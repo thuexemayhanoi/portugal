@@ -1,0 +1,293 @@
+{
+  "contract_version": 1,
+  "id": "PT-0069",
+  "slug": "aluguer-de-longa-duracao",
+  "title": "Aluguer de mota de longa duração em Hanói: 2 a 6 meses",
+  "description": "Vai ficar dois a seis meses em Hanói? Como organizar um aluguer de mota de longa duração: renovações, revisões, documentos e condições por escrito.",
+  "h1": "Ficar com uma mota vários meses em Hanói: como planear um aluguer longo",
+  "summary": "Um aluguer de mota de longa duração em Hanói organiza-se como uma sequência de meses: combine com a loja como se renova cada mês, se o preço se mantém e quem trata das revisões, e confirme que a carta e a licença internacional cobrem toda a estadia. Na tabela de referência, um mês vai de {{price.wave.month}} a {{price.vision.month}}, conforme o modelo.",
+  "key_points": [
+    "A tabela publica preços por dia, semana e mês: um aluguer de vários meses é, na prática, uma sequência de meses cujo valor a loja confirma.",
+    "Antes do primeiro pagamento, deixe escrito como se renova cada mês, como se paga e se o preço se mantém nas renovações seguintes.",
+    "Em meses de uso, a mota vai precisar de revisões: defina quem as faz, onde e como ficam registadas.",
+    "A Licença Internacional de Condução emitida pelo IMT vale até um ano a contar da emissão: confirme que chega à última semana da estadia.",
+    "Use cada renovação para uma verificação conjunta da mota, com a quilometragem anotada e um recibo do mês pago.",
+    "Viagens sem a mota, uma troca de unidade ou um fim antecipado são prováveis em vários meses: pergunte por eles antes de começar."
+  ],
+  "intro": [
+    "Dois, três ou seis meses em Hanói: um contrato de trabalho, um semestre de estudos, um voluntariado ou uma estadia longa antes de decidir onde viver. Com este horizonte, a mota deixa de ser uma tarifa a escolher e passa a ser um acordo a gerir ao longo do tempo, com renovações, revisões, mudanças de estação e, muitas vezes, alguns dias fora da cidade.",
+    "Este guia é para expatriados, estudantes e todos os que querem planear um aluguer de longa duração na loja {{brand}}, em {{area}}, com mais de um mês pela frente. O que custa e o que combinar num único mês está no guia do [aluguer mensal de mota](/precos/aluguer-mensal-de-mota/). Aqui, o foco é o que muda quando os meses se somam: o calendário, o orçamento da estadia inteira e as condições que convém fixar antes do primeiro pagamento."
+  ],
+  "sections": [
+    {
+      "h2": "O que muda quando o aluguer passa de um mês",
+      "body": [
+        "A [tabela de preços](/precos/) da loja publica tarifas por dia, por semana e por mês. Não publica um preço para três ou seis meses, nem condições próprias para alugueres longos. Na prática, um aluguer de vários meses é uma sequência de meses, e o valor de cada um é o que a loja confirmar para as suas datas.",
+        "Isto tem consequências que quase não se sentem num aluguer de quatro semanas:",
+        {
+          "ul": [
+            "**Várias renovações**: cada mês que começa é um momento de pagamento, de verificação da mota e, eventualmente, de nova conversa sobre o valor.",
+            "**Mais quilómetros na mesma mota**: pneus, travões e óleo chegam ao fim da vida útil durante o aluguer, e não depois dele.",
+            "**Mais imprevistos**: uma viagem, uma mudança de casa, uma visita de família ou uma partida antecipada são mais prováveis em seis meses do que num só.",
+            "**Documentos com prazo**: a sua carta, a licença internacional e o seguro da mota têm datas de validade que podem calhar a meio da estadia."
+          ]
+        },
+        "Nada disto exige um contrato complicado. Exige, sim, que as respostas às perguntas certas fiquem escritas antes de levantar a mota, porque vão servir de referência durante muitas semanas."
+      ]
+    },
+    {
+      "h2": "Orçamentar a estadia inteira, mês a mês",
+      "body": [
+        "Comece pela referência mensal do modelo que pensa usar. A tabela seguinte mostra o dia, a semana e o mês de cada modelo da loja:",
+        {
+          "component": "price-table"
+        },
+        "Nos modelos com intervalo — {{price.vision.month}} na Honda Vision, por exemplo — o valor exato depende da unidade e das condições, e é a loja que o fixa. Num aluguer de vários meses, há duas perguntas que num mês só não se põem: o valor confirmado vale para todos os meses ou apenas para o primeiro? E, se mudar, com quanta antecedência é avisado?",
+        "Para estimar o custo da estadia, use uma folha simples e preencha-a com os valores reais do primeiro mês:",
+        {
+          "table": {
+            "caption": "Folha de orçamento de um aluguer de vários meses",
+            "head": [
+              "Parcela",
+              "Como a estimar"
+            ],
+            "rows": [
+              [
+                "Aluguer",
+                "O valor mensal confirmado pela loja para cada mês da estadia, e não a referência da tabela."
+              ],
+              [
+                "Revisões e peças que se gastam",
+                "O que o acordo deixar a seu cargo; se for a loja a tratar, anote isso mesmo."
+              ],
+              [
+                "Combustível ou carga",
+                "O gasto de um mês típico, medido no primeiro mês, ajustado às viagens previstas."
+              ],
+              [
+                "Estacionamento",
+                "O lugar no alojamento e nos sítios aonde vai com frequência, ao dia ou ao mês."
+              ],
+              [
+                "Equipamento de cada estação",
+                "Capa de chuva, luvas ou um casaco corta-vento, conforme os meses da estadia."
+              ],
+              [
+                "Reserva para imprevistos",
+                "Um furo, um táxi num dia em que não pode conduzir, uma peça partida."
+              ]
+            ]
+          }
+        },
+        "Se lhe pedirem caução, lembre-se de que fica entregue durante toda a estadia. O que perguntar sobre ela está no guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/), e as formas de pagamento por períodos estão no guia sobre [pagar no início ou no fim](/precos/pagar-no-inicio-ou-no-fim/)."
+      ]
+    },
+    {
+      "h2": "O calendário de um aluguer de vários meses",
+      "body": [
+        "Antes de chegar, desenhe um calendário com as datas que importam. Ajuda a não deixar uma renovação ou um documento caducado para a última hora:",
+        {
+          "table": {
+            "caption": "Datas a marcar num aluguer de longa duração",
+            "head": [
+              "Momento",
+              "O que tratar"
+            ],
+            "rows": [
+              [
+                "Antes de viajar",
+                "Pedir orçamento para a estadia, com as datas de início e de fim previstas; comparar a data de regresso com a validade da carta e da licença internacional."
+              ],
+              [
+                "Levantamento",
+                "Registar o estado da mota, a quilometragem, a data da última mudança de óleo e a validade do certificado do seguro."
+              ],
+              [
+                "Alguns dias antes de cada renovação",
+                "Confirmar que continua, pedir o valor do mês seguinte e combinar a data e a forma de pagamento."
+              ],
+              [
+                "Em cada renovação",
+                "Verificação conjunta da mota, quilometragem anotada e recibo do mês pago."
+              ],
+              [
+                "Revisões combinadas",
+                "Mudança de óleo e outras intervenções, no local e na data acordados, com registo."
+              ],
+              [
+                "Antes de cada viagem sem a mota",
+                "Avisar a loja e decidir onde fica a mota nesses dias."
+              ],
+              [
+                "Último mês",
+                "Marcar a data de devolução e preparar a verificação final."
+              ]
+            ]
+          }
+        },
+        "Ponha estas datas no calendário do telemóvel, com um alarme alguns dias antes de cada uma. Num aluguer de meses, o que mais complica raramente é o grande imprevisto: é a renovação esquecida, tratada quando o mês já acabou."
+      ]
+    },
+    {
+      "h2": "A mesma mota durante meses: escolher a unidade certa",
+      "body": [
+        "Para um dia, quase qualquer mota em boas condições serve. Numa estadia de meses, vai conviver com a mesma unidade em centenas de trajetos, e vale a pena escolhê-la com mais critério do que o simples modelo. Antes de fechar, pergunte pela mota concreta:",
+        {
+          "checklist": [
+            "o ano de fabrico e a cilindrada que consta do registo — no Vietname, a categoria A1 abrange motociclos até 125 cm³, e acima disso é exigida a categoria A;",
+            "a quilometragem atual e a data da última mudança de óleo;",
+            "o estado dos pneus e dos travões, que vão ser postos à prova durante meses;",
+            "se a mesma unidade fica consigo até ao fim ou se pode ser trocada a meio, e em que casos;",
+            "se a mota tem algum defeito conhecido que deva ficar anotado logo no início."
+          ]
+        },
+        "Para deslocações diárias, as scooters automáticas são as mais simples de conduzir. O guia da [Honda Vision](/tipos-de-motas/honda-vision-em-hanoi/) mostra o que esperar de uma das scooters mais comuns em Hanói e, se a dúvida for entre duas scooters, a comparação [Vision ou Click no aluguer mensal](/precos/vision-ou-click-no-aluguer-mensal/) ajuda a decidir. As semiautomáticas, como a Honda Wave ({{price.wave.month}} por mês), pedem prática com as mudanças e atenção à corrente ao longo dos meses."
+      ]
+    },
+    {
+      "h2": "O que deixar combinado por escrito antes do primeiro mês",
+      "body": [
+        "Num aluguer de meses, as respostas da loja vão servir de referência muitas semanas depois de as receber. Junte estas perguntas numa só mensagem e guarde a resposta.",
+        {
+          "h3": "Renovação e pagamento"
+        },
+        {
+          "checklist": [
+            "Como se renova cada mês: basta uma mensagem ou é preciso passar pela loja?",
+            "Com quantos dias de antecedência devo confirmar que continuo?",
+            "Pago mês a mês ou vários meses de uma vez, e que recibo recebo em cada pagamento?",
+            "O valor confirmado mantém-se em todas as renovações?"
+          ]
+        },
+        {
+          "h3": "Manutenção e avarias"
+        },
+        {
+          "checklist": [
+            "Quem faz a mudança de óleo e as revisões ao longo dos meses, onde, e quem as paga?",
+            "O que acontece quando um pneu ou os travões chegam ao fim a meio do aluguer?",
+            "Se a mota avariar e não puder ser usada, é substituída por outra? Em quanto tempo?"
+          ]
+        },
+        {
+          "h3": "Mudanças de planos"
+        },
+        {
+          "checklist": [
+            "Se passar uma ou duas semanas fora de Hanói sem a mota, que opções há para ela e para o valor desses dias?",
+            "Se tiver de terminar a estadia antes do previsto, como fica o mês em curso?",
+            "Se outra pessoa passar a conduzir a mota, o que é preciso comunicar à loja?"
+          ]
+        },
+        "Nenhuma destas respostas está publicada no site: são condições do acordo com a loja, que prevalece sobre a informação geral, como indicam os [termos e condições](/termos-e-condicoes/). As restantes questões, da caução aos capacetes, estão nas [15 perguntas a fazer antes de alugar](/guia-de-aluguer/perguntas-antes-de-alugar/)."
+      ]
+    },
+    {
+      "h2": "Documentos que têm de durar a estadia inteira",
+      "body": [
+        "Num mês, raramente um documento caduca pelo caminho. Em seis, é bem possível. Antes de partir de Portugal, ponha a data de regresso ao lado da validade de cada documento:",
+        {
+          "checklist": [
+            "a **carta de condução**, válida e adequada à categoria da mota durante todos os meses;",
+            "a **Licença Internacional de Condução**: a emitida pelo IMT vale até um ano a contar da emissão, nunca para lá da validade da carta, e só é válida acompanhada da carta portuguesa — se a pediu muito antes da viagem, confirme que não caduca antes do regresso;",
+            "o **certificado de registo** da mota e o **certificado do seguro obrigatório** de responsabilidade civil, que a lei vietnamita exige a quem conduz — num aluguer de meses, veja a data de validade do seguro e pergunte à loja como é renovado se terminar durante o aluguer;",
+            "o **seguro de viagem** ou de saúde: se cobre a condução de mota, em que condições e durante quantos meses."
+          ]
+        },
+        "O guia da [Licença Internacional de Condução](/guia-de-aluguer/licenca-internacional-de-conducao/) explica como a pedir em Portugal, e o dos [documentos da mota alugada](/guia-de-aluguer/documentos-da-mota-alugada/) mostra onde ver as datas no certificado do seguro. As regras de entrada e de permanência no Vietname ficam fora deste guia."
+      ]
+    },
+    {
+      "h2": "Renovações: uma verificação conjunta em cada mês",
+      "body": [
+        "Cada renovação é uma boa ocasião para olhar para a mota com alguém da loja. Dez minutos chegam para evitar que pequenos problemas se acumulem até ao fim e deixam um registo do estado da mota a meio do caminho.",
+        {
+          "steps": [
+            {
+              "title": "Anote a quilometragem",
+              "text": "Fotografe o painel com a data visível. Ao fim de alguns meses, estas fotografias mostram quanto a mota andou em cada período."
+            },
+            {
+              "title": "Vejam juntos as peças que se gastam",
+              "text": "Pneus, travões, luzes e, nas semiautomáticas, a corrente. Se alguma peça estiver perto do fim, combinem logo quando é tratada e por quem."
+            },
+            {
+              "title": "Confirmem a próxima revisão",
+              "text": "Registe a data ou a quilometragem da próxima mudança de óleo e quem a faz."
+            },
+            {
+              "title": "Feche o mês por escrito",
+              "text": "Uma mensagem curta com o valor pago, o período que cobre e o que ficou combinado sobre a mota."
+            }
+          ]
+        },
+        "A fronteira entre o desgaste de meses de uso e um dano é uma das conversas mais delicadas de um aluguer longo. Os critérios para avaliar um dano estão no guia sobre [danos na mota alugada](/precos/danos-na-mota-alugada/); o essencial, aqui, é que cada verificação mensal fique registada com data."
+      ]
+    },
+    {
+      "h2": "Viagens, estações e mudanças de casa",
+      "body": [
+        "Ao longo de vários meses, a sua vida em Hanói vai mudar, e a forma como usa a mota também. Alguns momentos pedem uma conversa com a loja:",
+        {
+          "ul": [
+            "**Dias fora da cidade**: uma escapada de autocarro ou de comboio, sem a mota, levanta a questão de onde ela fica e se esses dias contam no valor. Pergunte antes da primeira ausência. Se a quiser levar consigo, o guia sobre [levar a mota para fora de Hanói](/guia-de-aluguer/autorizacao-para-sair-de-hanoi/) explica o que pedir à loja.",
+            "**Mudança de alojamento**: avise a loja da nova morada e confirme, antes de assinar o novo arrendamento, onde fica a mota à noite.",
+            "**Mudança de estação**: uma estadia de meses passa por semanas de chuva e por semanas frias. Ajuste o equipamento e verifique travões e luzes depois das chuvadas fortes.",
+            "**Tết**: se a estadia incluir o Ano Novo Lunar, trate da revisão e da renovação antes dos feriados.",
+            "**Centro histórico**: as restrições previstas para as motas a gasolina em Hoàn Kiếm já mudaram desde a primeira proposta. Antes de contar com trajetos diários pelo centro, consulte o guia da [zona de baixas emissões](/tipos-de-motas/zona-de-baixas-emissoes-hanoi/)."
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "Como terminar um aluguer de vários meses",
+      "body": [
+        "Num aluguer longo, convém decidir com antecedência como termina. No último mês, combine a data e a hora da devolução, prepare a verificação final com as fotografias do levantamento e das renovações à mão e peça o comprovativo de tudo o que for acertado. O guia da [devolução da caução](/precos/devolucao-da-caucao/) mostra o que conferir nesse dia.",
+        "Se a estadia ficar mais curta do que o previsto, pergunte o que acontece ao mês em curso antes de anunciar a data: o guia sobre [devolver a mota mais cedo](/precos/devolver-a-mota-mais-cedo/) reúne as perguntas. Se ficar mais longa, peça a renovação com a antecedência habitual; o [prolongamento do aluguer](/precos/prolongar-o-aluguer/) tem guia próprio.",
+        "Quando tiver as datas da estadia, [contacte a loja](/contactos/) pelo {{phone}}, por telefone ou Zalo. A loja está aberta {{hours}}, e um pedido com o início, o fim provável e o modelo pretendido permite-lhe responder com tudo o que precisa de saber."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Há um preço próprio para alugar uma mota três ou seis meses?",
+      "a": "A tabela de referência só publica preços por dia, semana e mês, e o site não indica condições próprias para alugueres de vários meses. Peça à loja o valor para a estadia inteira, com as datas, e pergunte se se mantém em todas as renovações. Guarde a resposta por escrito."
+    },
+    {
+      "q": "Posso pagar vários meses de uma vez?",
+      "a": "Pergunte à loja que formas aceita. Pagar mês a mês deixa mais margem se os planos mudarem; pagar adiantado só faz sentido com as condições de uma saída antecipada esclarecidas por escrito. Em qualquer caso, peça um recibo com o período que cada pagamento cobre."
+    },
+    {
+      "q": "A minha licença internacional caduca antes do fim da estadia. O que faço?",
+      "a": "A partir dessa data, deixa de ter a licença que, como visitante, deve acompanhar a sua carta para conduzir no Vietname. A emitida pelo IMT vale até um ano a contar da emissão, por isso verifique as datas antes de viajar e, se não chegar, planeie os últimos dias da estadia sem conduzir."
+    },
+    {
+      "q": "Vale a pena trocar de mota a meio de um aluguer longo?",
+      "a": "Só se a unidade deixar de servir: um problema que se repete, um passageiro frequente ou uma mudança de planos que pede outro modelo. A troca depende de haver outra mota livre e pode mudar o valor. O guia sobre [trocar de mota](/guia-de-aluguer/trocar-de-mota/) explica como pedir e registar a troca."
+    }
+  ],
+  "sources": [
+    "tabela-precos-proprietario",
+    "imt-lic",
+    "mfat-conduzir-vietname",
+    "lei-36-2024-artigo-56",
+    "lei-36-2024-a1",
+    "vietnamnet-zbe-revisao"
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "PUBLISHED",
+  "date_published": "2026-10-13",
+  "date_modified": "2026-10-13",
+  "editorial": {
+    "qa_score": 100,
+    "qa_warnings": [],
+    "words": 2414,
+    "publish_mode": "review",
+    "approved_at": "2026-10-13",
+    "revisions": []
+  }
+}

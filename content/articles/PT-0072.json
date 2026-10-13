@@ -1,0 +1,217 @@
+{
+  "contract_version": 1,
+  "id": "PT-0072",
+  "slug": "sair-de-hanoi-a-meio-do-aluguer",
+  "title": "Viagem a meio da estadia: manter a mota alugada ou devolvê-la?",
+  "description": "Vai passar uns dias fora de Hanói sem a mota alugada? Compare manter o aluguer com devolver e voltar a alugar, onde deixar a mota e o que perguntar à loja.",
+  "h1": "Ha Long, Sa Pa ou Ninh Bình sem a mota: manter o aluguer ou devolver e voltar a alugar",
+  "summary": "Se vai passar alguns dias fora de Hanói sem a mota, tem duas opções: manter o aluguer e deixá-la num lugar seguro, ou devolvê-la e voltar a alugar quando regressar. Peça à loja o total das duas para as mesmas datas, decida antes de partir onde a mota fica e, se deixou o passaporte como garantia, combine como o recupera para a viagem.",
+  "key_points": [
+    "Manter o aluguer poupa duas idas à loja e deixa-lhe a mesma mota no regresso; devolver evita pagar dias parados, mas o novo aluguer depende de haver mota livre.",
+    "As tarifas semanal e mensal são preços de um período inteiro: devolver a meio só reduz o valor se o acordo o previr.",
+    "Uma mota que fica parada vários dias precisa de um lugar com guarda: na loja, se a loja aceitar, ou no parque do alojamento.",
+    "Se o passaporte ficou como garantia, resolva a questão antes de marcar a viagem, porque vai precisar dele nos alojamentos.",
+    "No regresso, olhe para a mota antes de arrancar: pneus, travões e arranque podem ter mudado com a paragem."
+  ],
+  "intro": [
+    "Muitas estadias em Hanói incluem uma escapada: dois dias na baía de Ha Long, uma noite em Ninh Bình, uns dias em Sa Pa ou até uma ida a casa a meio de uma estadia longa. Quando a viagem se faz de autocarro, de comboio ou numa excursão organizada, a mota alugada fica para trás, e surge uma pergunta prática: compensa mantê-la à espera ou é melhor devolvê-la e voltar a alugar no regresso?",
+    "Não há uma resposta única. Depende de quantos dias vai estar fora, da tarifa que pagou e do que a loja aceitar. Este guia ajuda a comparar as duas opções, a decidir onde fica a mota durante a viagem e a preparar as perguntas para a loja {{brand}}, em {{area}}. Se, pelo contrário, quer levar a mota consigo, o pedido é outro e tem guia próprio: [levar a mota alugada para fora de Hanói](/guia-de-aluguer/autorizacao-para-sair-de-hanoi/)."
+  ],
+  "sections": [
+    {
+      "h2": "Manter ou devolver: o que muda em cada opção",
+      "body": [
+        "Antes de olhar para preços, veja o que muda na prática. A comparação seguinte resume as diferenças:",
+        {
+          "table": {
+            "caption": "Manter o aluguer ou devolver a mota durante uma viagem sem ela",
+            "head": [
+              "Aspeto",
+              "Manter o aluguer",
+              "Devolver e voltar a alugar"
+            ],
+            "rows": [
+              [
+                "Dias fora",
+                "Contam no aluguer, salvo acordo diferente com a loja",
+                "Não entram no aluguer, mas no regresso começa um aluguer novo"
+              ],
+              [
+                "A mota no regresso",
+                "A mesma unidade, já conhecida e registada",
+                "Depende das motas livres nas novas datas e pode ser outra unidade"
+              ],
+              [
+                "Onde fica a mota",
+                "Precisa de um lugar seguro durante a ausência",
+                "Fica na loja, sem preocupações para si"
+              ],
+              [
+                "Caução e documentos",
+                "Ficam como estão desde o levantamento",
+                "São acertados na devolução e voltam a ser pedidos no novo aluguer, se existirem"
+              ],
+              [
+                "Deslocações",
+                "Nenhuma ida extra à loja",
+                "Duas idas: devolver antes de partir e levantar no regresso"
+              ],
+              [
+                "Inspeção",
+                "Uma verificação rápida antes de voltar a conduzir",
+                "Nova inspeção completa e novas fotografias no levantamento"
+              ]
+            ]
+          }
+        },
+        "Numa ausência de uma ou duas noites, a simplicidade de manter costuma pesar mais. Numa ausência de uma ou duas semanas, os dias parados pesam mais. Entre estes dois extremos, a decisão depende do valor e do que a loja aceitar para as suas datas."
+      ]
+    },
+    {
+      "h2": "Fazer as contas com a tabela de referência",
+      "body": [
+        "Para comparar as duas opções, divida a estadia em três blocos: os dias de mota antes da viagem, os dias fora e os dias de mota depois do regresso. A pergunta é se compensa pagar os três blocos seguidos, num só aluguer, ou apenas o primeiro e o último, em dois alugueres separados.",
+        "A tabela publica preços por dia, por semana e por mês, e cada tarifa mais longa só compensa a partir de certo número de dias. A comparação seguinte mostra, modelo a modelo, a partir de quantos dias a semana custa o mesmo ou menos do que pagar ao dia:",
+        {
+          "component": "duration-compare"
+        },
+        "Use esse número nas duas hipóteses. Numa Honda Vision, por exemplo, pagar ao dia já custa o mesmo ou mais do que a semana a partir de {{price.vision.weekFrom}} dias; numa Honda Wave, a partir de {{price.wave.weekFrom}}. Se os três blocos juntos cabem numa semana ou num mês que pagaria de qualquer forma, os dias fora podem não acrescentar nada ao valor. Se cada bloco com mota fica curto, dois alugueres separados podem fazer mais sentido.",
+        {
+          "h3": "Quando a semana ou o mês já estão pagos"
+        },
+        "Se a viagem calha a meio de uma semana ou de um mês já pagos, devolver a mota não reduz o valor por si só: as tarifas semanal e mensal são preços de um período inteiro, e um eventual acerto depende do acordo. As perguntas a fazer nesse caso estão no guia sobre [devolver a mota mais cedo](/precos/devolver-a-mota-mais-cedo/).",
+        "Em qualquer cenário, a conta que vale é a da loja. Envie as datas dos três blocos e peça o total das duas opções para o mesmo modelo. Os preços de todos os modelos estão na [tabela de preços](/precos/)."
+      ]
+    },
+    {
+      "h2": "Onde fica a mota enquanto está fora",
+      "body": [
+        "Se mantiver o aluguer, a mota vai ficar parada vários dias, e o sítio onde fica é a parte mais importante da decisão. Há três hipóteses a considerar:",
+        {
+          "ul": [
+            "**Na loja**, se a loja aceitar guardá-la durante a ausência. Pergunte se é possível nas suas datas, se tem custo e se esses dias contam como dias de aluguer.",
+            "**No parque do alojamento**, se mantiver o quarto ou o apartamento durante a viagem. Confirme com o senhorio ou com a receção que a mota pode ficar vários dias seguidos, quem guarda a chave do parque e se o lugar se paga à parte.",
+            "**Num parque de motas com guarda** perto do alojamento, pago ao dia ou ao mês. Pergunte até quando pode deixar a mota e guarde o talão ou a senha."
+          ]
+        },
+        "Evite deixar a mota na rua durante dias: fica exposta à chuva, ao sol, aos toques de outras motas e ao furto, sem ninguém que a vigie. E, se deixar o hotel antes de partir, não conte com o parque do hotel sem o ter combinado expressamente.",
+        {
+          "h3": "Antes de a deixar"
+        },
+        {
+          "checklist": [
+            "fotografe a mota de todos os lados e o painel com a quilometragem, já no lugar onde vai ficar;",
+            "tranque o guiador e retire do compartimento do assento tudo o que tenha valor;",
+            "leve a chave consigo, ou deixe-a apenas com quem a loja tiver indicado;",
+            "combine com a loja onde ficam os documentos da mota durante a viagem;",
+            "numa mota elétrica, pergunte como deve ficar a bateria durante vários dias parada."
+          ]
+        },
+        "Por fim, envie à loja uma mensagem com o local onde a mota ficou e as datas da viagem. Fica registado que a ausência foi combinada e onde estava a mota."
+      ]
+    },
+    {
+      "h2": "Passaporte ou documento deixado como garantia",
+      "body": [
+        "Se, para alugar, deixou um documento original com a loja — o passaporte, por exemplo —, a viagem traz um problema prático: vai precisar dele. O passaporte é pedido nos alojamentos e em controlos de identidade, também fora de Hanói.",
+        "Resolva a questão antes de marcar a viagem, e não na véspera. Pergunte à loja:",
+        {
+          "checklist": [
+            "se pode reaver o documento durante a ausência e que garantia o substitui;",
+            "se essa substituição muda alguma coisa nas condições do aluguer;",
+            "a que horas pode passar pela loja para fazer a troca, dentro do horário ({{hours}});",
+            "se, ao devolver a mota antes de partir, o documento lhe é restituído no mesmo momento."
+          ]
+        },
+        "Esta é uma das situações em que devolver a mota pode ser a solução mais simples: termina o aluguer, recupera o documento e começa outro no regresso. O guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/) explica o que ponderar quando lhe pedem um documento como garantia."
+      ]
+    },
+    {
+      "h2": "O que perguntar à loja antes de partir",
+      "body": [
+        "Junte as perguntas numa só mensagem, por telefone ou Zalo, para o {{phone}}, com as datas da viagem e o modelo que tem consigo:",
+        {
+          "ol": [
+            "Se mantiver o aluguer, os dias em que estou fora contam como dias de aluguer?",
+            "A loja pode guardar a mota durante a minha ausência? Com que custo?",
+            "Se devolver a mota antes de partir, há algum acerto do valor já pago?",
+            "Se voltar a alugar no regresso, posso reservar já a mesma unidade ou o mesmo modelo?",
+            "A caução e os documentos ficam como estão, ou mudam se devolver e voltar a alugar?",
+            "Se a mota ficar no meu alojamento e algo lhe acontecer, como devo proceder?"
+          ]
+        },
+        "Uma resposta concreta a cada pergunta permite comparar as duas opções com valores e condições reais. Se alguma for vaga, peça um exemplo com as suas datas. Guarde a conversa até ao fim do aluguer: é a prova de que a ausência foi combinada."
+      ]
+    },
+    {
+      "h2": "Ausências longas: regressar a casa a meio da estadia",
+      "body": [
+        "Uma ida a Portugal ou a outro país durante duas ou três semanas, a meio de uma estadia de meses, muda a conta. A mota ficaria parada muito tempo, e as questões do lugar onde fica, da bateria e dos pneus ganham peso.",
+        "Nestes casos, pergunte à loja com especial atenção:",
+        {
+          "ul": [
+            "se é possível interromper o aluguer e retomá-lo no regresso, e em que condições;",
+            "se a mesma unidade pode ficar reservada para si ou se o novo aluguer será com outra mota;",
+            "o que acontece à caução, se existir, durante as semanas de ausência;",
+            "se os documentos da mota e o certificado do seguro continuam válidos quando retomar o aluguer."
+          ]
+        },
+        "Se a data de regresso for incerta, não deixe a mota à espera de um dia que ainda não conhece. Devolvê-la e tratar de um novo aluguer quando souber a data de chegada evita pagar semanas sem uso. O guia sobre o [aluguer com datas em aberto](/precos/aluguer-com-datas-em-aberto/) ajuda a organizar essa nova fase, e o da [Honda Vision](/tipos-de-motas/honda-vision-em-hanoi/) ajuda a escolher a scooter se o novo aluguer for com outra mota."
+      ]
+    },
+    {
+      "h2": "No regresso: antes de voltar a conduzir",
+      "body": [
+        "Uma mota que esteve parada vários dias deve ser vista antes de arrancar, sobretudo se ficou ao ar livre:",
+        {
+          "checklist": [
+            "compare-a com as fotografias tiradas antes de partir: riscos, espelhos, assento;",
+            "veja os pneus: um pneu que perdeu ar nota-se ao olhar e ao empurrar a mota;",
+            "experimente os travões a baixa velocidade antes de entrar no trânsito;",
+            "ligue a mota e confirme que arranca bem e que o painel não mostra avisos;",
+            "confira o nível de combustível ou de carga."
+          ]
+        },
+        "Se encontrar algo diferente do que deixou, não conduza antes de falar com a loja. O guia sobre a [mota danificada no estacionamento](/guia-de-aluguer/mota-danificada-estacionada/) explica o que registar e a quem avisar.",
+        "Se escolheu devolver e voltar a alugar, o regresso é um levantamento normal: inspecione e fotografe a mota como no primeiro dia, mesmo que seja a mesma unidade, e confirme as datas e o valor do novo aluguer por escrito."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Posso pedir à loja que guarde a mota enquanto viajo?",
+      "a": "Pode perguntar. O site não publica nenhuma regra sobre isso: se a loja aceitar, combine as datas, se os dias contam no aluguer e se há custo, e peça a resposta por escrito. Sem esse acordo, conte com deixar a mota num parque com guarda perto do alojamento."
+    },
+    {
+      "q": "E se a viagem se prolongar e voltar mais tarde do que previa?",
+      "a": "Avise a loja assim que souber, sobretudo se a mota estiver à sua espera com o aluguer a decorrer. Se a data de fim do aluguer calhar durante a viagem, peça mais dias antes dessa data; o guia sobre [prolongar o aluguer](/precos/prolongar-o-aluguer/) mostra como fazer o pedido."
+    },
+    {
+      "q": "Para uma viagem de um só dia, vale a pena devolver a mota?",
+      "a": "Normalmente não é preciso. Uma ida e volta no mesmo dia deixa a mota parada poucas horas, e devolver e voltar a alugar obriga a duas idas à loja e a uma nova inspeção. Basta confirmar onde a mota fica nesse dia e levar a chave consigo."
+    },
+    {
+      "q": "Posso deixar a mota e a chave com um amigo enquanto viajo?",
+      "a": "Só com o acordo da loja. Se outra pessoa ficar com a chave, a loja deve saber quem é e o que essa pessoa pode fazer com a mota, incluindo se pode conduzi-la. Pergunte antes de partir e guarde a resposta por escrito."
+    }
+  ],
+  "sources": [
+    "tabela-precos-proprietario"
+  ],
+  "legal_note": false,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "PUBLISHED",
+  "date_published": "2026-10-13",
+  "date_modified": "2026-10-13",
+  "editorial": {
+    "qa_score": 100,
+    "qa_warnings": [],
+    "words": 1953,
+    "publish_mode": "review",
+    "approved_at": "2026-10-13",
+    "revisions": []
+  }
+}

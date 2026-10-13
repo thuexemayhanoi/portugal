@@ -134,7 +134,7 @@ export function readability(text) {
 }
 
 // Claims the business has NOT confirmed (free delivery, no deposit, no licence — including 50 cc —,
-// 24/7, ratings, insurance included, guaranteed prices). Ignored when the sentence is a question,
+// 24/7, ratings, insurance/helmet/fuel/delivery included, guaranteed prices). Ignored when the sentence is a question,
 // is negated before the match, quotes the claim («…») or talks about the penalty for it.
 const CLAIMS = [
   /entregas?\s+(?:é\s+|são\s+)?(?:gratuitas?|grátis|sem\s+custos?)/giu,
@@ -149,9 +149,12 @@ const CLAIMS = [
   /melhor(?:es)?\s+preços?|preços?\s+mais\s+baixos?|garantimos|garantid[oa]s?/giu,
   /avaliações|estrelas|★|classificação\s+de\s+\d/giu,
   /seguro\s+(?:está\s+)?incluído|com\s+seguro\s+incluído/giu,
+  /(?:capacetes?|combustível|gasolina|entrega|recolha|assistência)\s+(?:está|estão|vem|vêm|fica|ficam)\s+incluíd[oa]s?/giu,
   /disponibilidade\s+imediata|sempre\s+disponíve(?:l|is)/giu
 ];
-const NEGATION = /(?<![\p{L}])(não|nunca|nem|sem\s+garantir|nenhum|nenhuma|evite|cuidado|desconfie|mito|mitos)(?![\p{L}])/iu;
+const NEGATION = /(?<![\p{L}])(não|nunca|nem|sem\s+garantir|nenhum|nenhuma|evite|cuidado|desconfie|mito|mitos|pergunte|perguntar|confirme|confirmar|verifique|verificar|saber\s+se)(?![\p{L}])/iu;
+// An indirect question right before the claim («quantos capacetes estão incluídos», «se o seguro…»).
+const ASKED = /(?<![\p{L}])(?:quant[oa]s|quais|qual|se)\s+(?:\p{L}+\s+){0,1}$/iu;
 const PENALTY = /(?<![\p{L}])(multa|multas|multar|multado|coimas?|ilegal|proibid[oa]s?|infraç(?:ão|ões)|sanç(?:ão|ões)|apreens\p{L}*|crime|punid\p{L}*)(?![\p{L}])/iu;
 
 function sentenceAround(text, index) {
@@ -170,7 +173,7 @@ export function findRiskyClaims(text) {
     let m;
     while ((m = re.exec(text))) {
       const { sentence, before, terminator } = sentenceAround(text, m.index);
-      if (terminator === '?' || NEGATION.test(before) || insideQuotes(before) || PENALTY.test(sentence)) continue;
+      if (terminator === '?' || NEGATION.test(before) || ASKED.test(before) || insideQuotes(before) || PENALTY.test(sentence)) continue;
       hits.push({ match: m[0], context: context(text, m.index, m[0].length) });
     }
   }

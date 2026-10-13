@@ -1,0 +1,264 @@
+{
+  "contract_version": 1,
+  "id": "PT-0041",
+  "slug": "scooter-50cc-ou-110cc",
+  "title": "50cc ou 110cc em Hanói: que scooter serve no dia a dia",
+  "description": "50 cc ou 110 cc para o dia a dia em Hanói: arranques, pontes, carga, carta exigida e preço de referência, com os cenários em que cada opção faz sentido.",
+  "h1": "Scooter de 50 cc ou de 110 cc: o que muda no trânsito de Hanói",
+  "summary": "Para o dia a dia em Hanói, uma scooter de cerca de 110 cm³, como a Honda Vision, é a opção mais versátil: acompanha o trânsito das avenidas, sobe melhor as rampas das pontes e tem mais folga com carga. Uma 50 cc só faz sentido em trajetos curtos, planos e a solo. Decida também pela carta: a Vision é um motociclo da categoria A1, e os requisitos para uma 50 cc também têm de ser confirmados.",
+  "key_points": [
+    "Uma 50 cc tem, por definição legal, velocidade de projeto até 50 km/h; a Honda Vision, com cerca de 110 cm³, já é um motociclo e acompanha melhor o ritmo das avenidas.",
+    "Nas rampas das pontes sobre o rio Vermelho, e com mochila, compras ou passageiro, a 50 cc perde aceleração e capacidade de subida.",
+    "A Vision exige carta com uma categoria de motociclos que cubra 110 cm³; a 50 cc tem regras próprias, que também deve confirmar antes de conduzir.",
+    "Ao dia, uma 50 cc custa {{cmp.cc50.vision.day}} uma Vision; para uma semana ou mais, peça à loja o total de cada opção para as suas datas.",
+    "Escolha a 50 cc para um uso curto e calmo que já conhece; a 110 cm³ para uma rotina com pontes, avenidas ou carga."
+  ],
+  "intro": [
+    "«50cc ou 110cc?» é uma das primeiras dúvidas de quem vai alugar uma scooter em Hanói. No papel, a diferença parece pequena: sessenta centímetros cúbicos entre duas motas que, à primeira vista, podem parecer da mesma família. Na estrada, sente-se em cada semáforo que abre, em cada rampa de ponte e na carta que tem de levar consigo.",
+    "Este guia compara as duas opções no uso real: o ritmo do trânsito, as pontes, a carga de todos os dias, a carta e o preço de referência. No fim, há cenários concretos para decidir. O que é uma 50 cc e quais são as suas limitações está resumido no [guia de motas de 50 cc](/tipos-de-motas/motas-50cc/); aqui, o foco é a comparação direta."
+  ],
+  "sections": [
+    {
+      "h2": "As duas opções lado a lado",
+      "body": [
+        "Na loja, a referência de 110 cm³ é a [Honda Vision](/tipos-de-motas/honda-vision-em-hanoi/), uma scooter automática de cerca de 110 cm³ pensada para a cidade. A Honda Click também pode ter 110 cm³, mas existe em várias gerações, até 160 cm³, como explica o guia da [Honda Click](/tipos-de-motas/honda-click-em-hanoi/). A 50 cc aparece na tabela de referência como «mota ou scooter de 50 cc», sem modelo fixo: o modelo concreto é a loja que o indica.",
+        {
+          "table": {
+            "caption": "50 cc e scooter de 110 cm³: diferenças que contam no dia a dia (regras consultadas em outubro de 2026)",
+            "head": [
+              "Aspeto",
+              "50 cc",
+              "Scooter de 110 cm³ (Honda Vision)"
+            ],
+            "rows": [
+              [
+                "Classificação na lei vietnamita",
+                "«Xe gắn máy»: até 50 cm³ e velocidade de projeto até 50 km/h",
+                "Motociclo da categoria A1, que vai até 125 cm³"
+              ],
+              [
+                "Idade mínima",
+                "16 anos",
+                "18 anos, idade a partir da qual a carta A1 é emitida"
+              ],
+              [
+                "Ritmo nas avenidas",
+                "Pode ficar abaixo do ritmo do trânsito",
+                "Acompanha o trânsito urbano com mais facilidade"
+              ],
+              [
+                "Rampas e carga",
+                "Perde aceleração e capacidade de subida",
+                "Mais folga, com uma potência que continua modesta"
+              ],
+              [
+                "Preço de referência por dia",
+                "{{price.cc50.day}}",
+                "{{price.vision.day}}"
+              ],
+              [
+                "Preço de referência por semana",
+                "{{price.cc50.week}}",
+                "{{price.vision.week}}"
+              ]
+            ]
+          }
+        },
+        "Dos números da tabela, dois pesam mais do que os outros: a margem de potência quando o trânsito acelera e o grupo em que a lei põe cada veículo. O primeiro decide o conforto e a segurança na estrada; o segundo decide se pode conduzir a mota."
+      ]
+    },
+    {
+      "h2": "No trânsito: semáforos, avenidas e mudanças de faixa",
+      "body": [
+        "Em Hanói, conduz-se boa parte do tempo devagar, no meio de centenas de motas. Nessas condições, as duas opções andam ao mesmo passo, e a 50 cc pode parecer suficiente. A diferença aparece quando o trânsito abre.",
+        {
+          "ul": [
+            "**Semáforos**: quando o sinal muda, o grupo de motas acelera de uma vez. Numa 50 cc, perde terreno nos primeiros metros e é ultrapassado pelos dois lados; numa scooter de 110 cm³, sai com os outros.",
+            "**Avenidas largas e anéis viários**: o trânsito circula mais depressa, e a velocidade de projeto de uma 50 cc, que não passa de 50 km/h, deixa pouca reserva. Ir muito abaixo do ritmo geral obriga os outros a contorná-lo, o que também é um risco.",
+            "**Mudanças de faixa**: com pouca potência, cada manobra demora mais, e o espaço que viu livre pode fechar-se antes de a terminar."
+          ]
+        },
+        "A Vision não é uma mota rápida: o motor rende uma potência modesta, pensada para a cidade e não para estrada aberta. Mas é essa margem extra, pequena no papel, que permite sair de uma situação apertada com um toque no acelerador, em vez de esperar que o trânsito abra caminho.",
+        "Se a sua rotina se faz em ruas de bairro, com paragens a cada quarteirão, a diferença quase não se nota. Se inclui avenidas, nota-se todos os dias."
+      ]
+    },
+    {
+      "h2": "Pontes e rampas: o teste de quem parte de Long Biên",
+      "body": [
+        "A loja fica em {{area}}. Como o Bairro Antigo e a maior parte dos pontos de interesse ficam na margem oposta do rio Vermelho, quase todos os dias de aluguer começam e acabam com a travessia de uma ponte.",
+        "As rampas de acesso às pontes são compridas e o trânsito não abranda a meio. Uma 50 cc sobe-as com uma pessoa, mas vai perdendo velocidade; com mochila pesada ou passageiro, perde mais. Numa scooter de 110 cm³, a subida faz-se sem obrigar quem vem atrás a travar.",
+        "Faça a conta ao seu plano: ir e voltar do centro são duas subidas por dia, catorze numa semana. Se isso descreve a sua estadia, a 110 cm³ é a escolha mais tranquila. Antes de atravessar pela primeira vez, veja o guia da [ponte Long Biên de mota](/zonas-de-hanoi/ponte-long-bien/), que explica quem circula na ponte e a alternativa quando está fechada, e o itinerário de [Hanói de mota num dia](/rotas-e-mobilidade/hanoi-de-mota-num-dia/), que parte de Long Biên."
+      ]
+    },
+    {
+      "h2": "Mochila, compras e um passageiro de vez em quando",
+      "body": [
+        "A carga de uma rotina normal muda de dia para dia: o portátil na mochila, as compras do mercado, um garrafão de água, um amigo que precisa de boleia. Numa 50 cc, cada quilo a mais tira aceleração e capacidade de subida a um motor que já tem pouca reserva.",
+        "A regra geral no Vietname é um passageiro por mota, com capacete para os dois, e vale para as duas opções. A diferença está na folga: com duas pessoas, a Vision continua utilizável na cidade, enquanto a 50 cc fica limitada a trajetos curtos e planos. O guia sobre a [50 cc com passageiro](/tipos-de-motas/50cc-com-passageiro/) trata deste caso em pormenor.",
+        "Veja também onde vai pôr as coisas. O compartimento debaixo do assento da Vision é pensado para objetos pequenos, e o de uma 50 cc depende do modelo: abra-o na loja antes de contar com ele.",
+        "Se a carga é ocasional, a 50 cc pode chegar. Se é diária, a escolha inclina-se para a 110 cm³ e, com passageiro constante, para uma scooter maior, como mostra o guia da [scooter para duas pessoas](/tipos-de-motas/scooter-para-duas-pessoas/)."
+      ]
+    },
+    {
+      "h2": "Carta e idade: a diferença que não depende do trânsito",
+      "body": [
+        "Na lei vietnamita em vigor desde 1 de janeiro de 2025, a Lei n.º 36/2024/QH15, as duas scooters pertencem a grupos diferentes. A 50 cc é um «xe gắn máy», um veículo até 50 cm³ com velocidade de projeto até 50 km/h, cuja idade mínima de condução é de 16 anos. A Vision é um motociclo da categoria A1, que abrange os motociclos de duas rodas até 125 cm³ e cuja carta só é emitida a partir dos 18.",
+        "Para quem está de visita, a pergunta prática é esta: a carta do seu país, e a licença internacional que a acompanha, incluem uma categoria de motociclos que cubra 110 cm³? Se sim, a Vision está ao seu alcance e a escolha passa a depender do percurso. Se não, a Vision fica de fora, e o guia de [cilindrada e carta A1](/tipos-de-motas/cilindrada-e-carta-a1/) ajuda a perceber o que a sua carta permite.",
+        {
+          "note": "Não escolha a 50 cc só porque a sua carta não inclui motociclos. A lei trata as 50 cc de forma própria, mas daí não se pode concluir que um visitante as possa conduzir sem documentos. Confirme os requisitos em fontes oficiais antes de viajar e leia o guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/).",
+          "tone": "warn",
+          "title": "A 50 cc não é um atalho"
+        },
+        "A idade é a outra fronteira. Para quem tem 16 ou 17 anos, só a 50 cc está dentro da idade mínima, e mesmo aí os documentos e as condições da loja continuam por confirmar, como explica o guia da [idade mínima para uma 50 cc](/tipos-de-motas/idade-minima-50cc/).",
+        "Em qualquer dos casos, leia a apólice do seguro de viagem. O Governo da Nova Zelândia, por exemplo, recomenda confirmar se o seguro cobre acidentes de mota antes de conduzir no Vietname."
+      ]
+    },
+    {
+      "h2": "Preço de referência: o que a tabela mostra",
+      "body": [
+        "Na tabela de referência, verificada a {{pricing.verifiedAt}}, uma 50 cc custa {{price.cc50.day}} por dia, {{cmp.cc50.vision.day}} a Honda Vision ({{price.vision.day}}). Se o orçamento pesa, a Honda Click custa {{price.click.day}} por dia, {{cmp.click.cc50.day}} uma 50 cc; confirme a cilindrada da unidade, porque uma Click de 160 cm³ já sai da categoria A1.",
+        "Para estadias mais longas, a Vision tem tarifas próprias: {{price.vision.week}} por semana e {{price.vision.month}} por mês. Na Vision, a semana custa o mesmo ou menos do que pagar dia a dia a partir de {{price.vision.weekFrom}} dias de aluguer. Para a 50 cc, a tabela indica «{{price.cc50.week}}» para a semana: peça à loja o total para as suas datas.",
+        {
+          "component": "model-cards",
+          "category": "motas-50cc"
+        },
+        "A comparação completa, com os outros modelos e as tarifas longas, está na [página de preços](/precos/). Se o preço das duas opções for parecido, decida pelo percurso e pela carta, e não pela tabela."
+      ]
+    },
+    {
+      "h2": "Cenários: quando escolher cada uma",
+      "body": [
+        "A mesma mota pode ser a escolha certa numa estadia e a errada noutra. Estes são os casos mais comuns:",
+        {
+          "table": {
+            "caption": "50 cc ou 110 cm³, conforme a rotina",
+            "head": [
+              "A sua rotina",
+              "Escolha que faz sentido"
+            ],
+            "rows": [
+              [
+                "Trajetos curtos dentro do mesmo bairro, a solo e sem pressa",
+                "A 50 cc chega, com os requisitos para a conduzir confirmados"
+              ],
+              [
+                "Atravessar o rio Vermelho todos os dias",
+                "110 cm³: as rampas das pontes pedem margem"
+              ],
+              [
+                "Avenidas largas e anéis viários na rotina",
+                "110 cm³: acompanha melhor o ritmo do trânsito"
+              ],
+              [
+                "Compras, mochila pesada ou passageiro frequente",
+                "110 cm³ ou, com passageiro constante, uma scooter maior"
+              ],
+              [
+                "Condutor com 16 ou 17 anos",
+                "Só a 50 cc cumpre a idade mínima; confirme os documentos e as condições da loja"
+              ],
+              [
+                "Carta sem categoria de motociclos",
+                "Confirme os requisitos antes de escolher; se não estiver habilitado, táxi ou mota com condutor"
+              ],
+              [
+                "Pouca experiência a conduzir motas",
+                "Ganhe confiança num percurso calmo; o trânsito de Hanói não é lugar para aprender"
+              ],
+              [
+                "Saídas para fora de Hanói",
+                "Nenhuma é ideal, e as motas não podem circular nas autoestradas"
+              ]
+            ]
+          }
+        },
+        "Na dúvida, a 110 cm³ é a opção mais tolerante: serve os trajetos curtos quase tão bem como a 50 cc e não o deixa sem margem nos mais exigentes. A 50 cc é uma escolha para um uso concreto, que já sabe de antemão que vai ser curto e calmo. Se ainda está a decidir entre scooters, semiautomáticas e elétricas, comece pela página de [tipos de motas](/tipos-de-motas/)."
+      ]
+    },
+    {
+      "h2": "O que perguntar à loja antes de decidir",
+      "body": [
+        "As respostas a estas perguntas resolvem a maior parte das dúvidas entre as duas opções:",
+        {
+          "checklist": [
+            "Que modelo de 50 cc está livre nas minhas datas? É automático ou tem mudanças?",
+            "De que ano e versão é a Vision proposta?",
+            "Posso ver o certificado de registo de cada mota, onde aparece a cilindrada?",
+            "Se a 50 cc não me servir, posso trocá-la por uma scooter maior a meio do aluguer, e em que condições?",
+            "Há capacetes do meu tamanho e, se for preciso, para um passageiro?",
+            "Qual é o total para as minhas datas em cada uma das opções?"
+          ]
+        },
+        "Envie as perguntas numa só mensagem, pelos [contactos da loja](/contactos/), com as datas, o percurso habitual e a categoria da sua carta. A lista de [perguntas a fazer antes de alugar](/guia-de-aluguer/perguntas-antes-de-alugar/) ajuda a tratar também da caução, dos documentos e da devolução."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Uma 50 cc é mais fácil de conduzir do que uma Vision?",
+      "a": "Se a 50 cc proposta for uma scooter automática, conduz-se como a Vision: acelerador e travões, sem mudanças. Se tiver mudanças, exige outra técnica. Em qualquer caso, a dificuldade em Hanói está no trânsito e não no veículo: se nunca conduziu uma mota, nenhuma das duas resolve a falta de experiência."
+    },
+    {
+      "q": "Posso começar com uma 50 cc e passar para uma Vision depois?",
+      "a": "Depende das unidades livres e das condições da loja. Pergunte antes de reservar se a troca é possível, como se acerta o preço e se a sua carta cobre a Vision. O guia sobre [trocar de mota a meio do aluguer](/guia-de-aluguer/trocar-de-mota/) explica como fazer o pedido."
+    },
+    {
+      "q": "Uma scooter de 110 cm³ chega para sair de Hanói?",
+      "a": "Para um passeio ocasional pode servir, mas a Vision foi pensada para a cidade e não para estrada aberta, e nenhuma mota pode circular nas autoestradas vietnamitas. Antes de sair da cidade, combine-o com a loja, como explica o guia [levar a mota alugada para fora de Hanói](/guia-de-aluguer/autorizacao-para-sair-de-hanoi/)."
+    },
+    {
+      "q": "Vale a pena alugar uma mota de 50 cc em Hanói?",
+      "a": "Vale num caso concreto: trajetos curtos, planos e a solo, com os requisitos para a conduzir confirmados. Para uma rotina com pontes, avenidas ou carga, uma scooter de 110 cm³ dá mais margem. Ao dia, na tabela de referência, a 50 cc custa {{cmp.cc50.vision.day}} uma Honda Vision."
+    }
+  ],
+  "sources": [
+    "tabela-precos-proprietario",
+    "lei-36-2024-a1",
+    "lawnet-categorias-2025",
+    "luatvietnam-16-anos",
+    {
+      "title": "Honda Vision thế hệ mới được ra mắt tại Việt Nam, giá từ 30 triệu đồng",
+      "publisher": "Doanh Nhân — Báo Pháp luật Việt Nam",
+      "url": "https://doanhnhan.baophapluat.vn/honda-vision-the-he-moi-duoc-ra-mat-tai-viet-nam-gia-tu-30-trieu-dong-35960.html",
+      "accessed": "2026-10-12",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Honda Click",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Honda_Click",
+      "accessed": "2026-10-13",
+      "type": "reference",
+      "lang": "en"
+    },
+    {
+      "title": "Honda Click 160 2026 ra mắt, giá khoảng 55 triệu đồng",
+      "publisher": "Thương hiệu và Công luận",
+      "url": "https://thuonghieucongluan.com.vn/honda-click-160-2026-ra-mat-gia-tu-55-trieu-dong-a329531.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    "lawnet-passageiros-2025",
+    "lawnet-capacete-168",
+    "dtinews-autoestrada-2026",
+    "mfat-conduzir-vietname"
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "PUBLISHED",
+  "date_published": "2026-10-13",
+  "date_modified": "2026-10-13",
+  "editorial": {
+    "qa_score": 100,
+    "qa_warnings": [],
+    "words": 2153,
+    "publish_mode": "review",
+    "approved_at": "2026-10-13",
+    "revisions": []
+  }
+}
