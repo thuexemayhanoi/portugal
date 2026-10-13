@@ -2,7 +2,7 @@
   "$comment": "Configuração da Content Factory. publish_mode: \"review\" = os rascunhos aprovados pelo QA esperam aprovação humana (node scripts/factory.mjs approve PT-XXXX); \"auto\" = publica automaticamente quando o QA passa. writer.mode: \"external\" (escritor externo entrega JSON em _factory/inbox/) ou \"claude\" (API paga; só funciona com o segredo ANTHROPIC_API_KEY e a variável FACTORY_WRITER=claude definidos pelo proprietário).",
   "contract_version": 1,
   "target_articles": 300,
-  "batch_size": 3,
+  "batch_size": 6,
   "queue_size": 12,
   "publish_mode": "review",
   "auto_publish_max_warnings": 3,
@@ -80,7 +80,7 @@
     ]
   },
   "publishing": {
-    "$comment": "Ritmo de publicação: no máximo N artigos novos em 7 dias (atualizações não contam). Evita publicar centenas de artigos de uma vez.",
-    "max_new_per_7_days": 10
+    "$comment": "Ritmo de publicação: número máximo de artigos novos em qualquer janela de 7 dias (atualizações não contam). null = sem limite. Desativado a 2026-10-13 a pedido do proprietário (escrita contínua até completar o plano); para voltar a limitar, indicar um número, por exemplo 10.",
+    "max_new_per_7_days": null
   }
 }
