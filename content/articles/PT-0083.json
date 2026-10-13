@@ -107,7 +107,7 @@
             "a pergunta direta: é possível, e muda alguma coisa no preço ou num valor já pago?"
           ]
         },
-        "Um exemplo em português, fácil de passar por um tradutor: «Bom dia. Sou [nome] e tenho reservada uma [modelo] para levantar hoje às 15:00. O meu voo [número] atrasou e só chego a Hanói às 20:30. Posso levantar a mota amanhã às 10:00? Muda alguma coisa no preço?»",
+        "Um exemplo em português, fácil de passar por um tradutor: «Bom dia. Sou [nome] e tenho reservada uma [modelo] para levantar hoje às 15:00. O meu voo [número] atrasou e só chego a Hanói às 20:30. Posso levantar a mota amanhã às 10:00? Muda alguma coisa no preço?» Troque o que está entre parênteses retos pelos seus dados e pelo modelo reservado — por exemplo, uma [Honda Vision](/tipos-de-motas/honda-vision-em-hanoi/).",
         "Se quiser juntar algumas palavras em vietnamita, estas ajudam a que a mensagem seja percebida à primeira:",
         {
           "table": {
@@ -171,7 +171,7 @@
             "**Total**: como fica o preço com as novas datas, sobretudo se o aluguer era à semana ou ao mês."
           ]
         },
-        "Os preços de referência por dia, semana e mês estão na [página de preços](/precos/). Peça à loja o novo total, em vez de o calcular por conta própria: é esse valor que fica no acordo.",
+        "Os preços de referência por dia, semana e mês estão na [página de preços](/precos/). Peça à loja o novo total, em vez de o calcular por conta própria: é esse valor que fica no acordo. Se, com o atraso, deixou de saber quantos dias vai precisar da mota, veja como [alugar com as datas em aberto](/precos/aluguer-com-datas-em-aberto/).",
         {
           "h3": "Entrega no alojamento já marcada"
         },
@@ -221,7 +221,7 @@
           ]
         },
         "Por exemplo: «Confirmo a alteração: levanto a [modelo] amanhã às 10:00 e devolvo no dia [data], às [hora]. Total: [valor]. Sobre o valor que já paguei: [o que ficou combinado]. Obrigado.»",
-        "No dia do levantamento, tenha esta mensagem à mão. Se surgir alguma dúvida, é ela que mostra o que ficou combinado. As restantes questões, da caução aos capacetes, estão nas [15 perguntas a fazer antes de alugar](/guia-de-aluguer/perguntas-antes-de-alugar/)."
+        "No dia do levantamento, tenha esta mensagem à mão. Se surgir alguma dúvida, é ela que mostra o que ficou combinado. As restantes questões, da caução aos capacetes, estão nas [15 perguntas a fazer antes de alugar](/guia-de-aluguer/perguntas-antes-de-alugar/). Se a reserva for para vários meses, junte-lhes o que combinar sobre [desgaste normal e danos num aluguer longo](/precos/desgaste-normal-num-aluguer-longo/)."
       ]
     },
     {
@@ -268,9 +268,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 2121,
+    "words": 2180,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

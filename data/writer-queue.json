@@ -93,8 +93,16 @@
       "title": "Alugar uma Honda Click em Hanói: vantagens, preço e limites"
     },
     {
+      "url": "/tipos-de-motas/honda-vision-ou-air-blade/",
+      "title": "Vision ou Air Blade em Hanói: comparação lado a lado e escolha por perfil"
+    },
+    {
       "url": "/tipos-de-motas/scooter-ou-semiautomatica/",
       "title": "Com mudanças ou sem elas: como decidir entre scooter e semiautomática em Hanói"
+    },
+    {
+      "url": "/tipos-de-motas/nunca-conduziu-uma-mota/",
+      "title": "Scooter para principiantes em Hanói: uma avaliação honesta antes de alugar"
     },
     {
       "url": "/tipos-de-motas/scooter-para-duas-pessoas/",
@@ -107,6 +115,10 @@
     {
       "url": "/tipos-de-motas/scooter-para-o-dia-a-dia/",
       "title": "A scooter certa para a rotina de quem vive ou trabalha em Hanói"
+    },
+    {
+      "url": "/tipos-de-motas/melhor-scooter-para-alugar/",
+      "title": "Qual é a melhor scooter para alugar em Hanói? Cinco critérios, por ordem de importância"
     },
     {
       "url": "/tipos-de-motas/telemovel-e-gps-na-scooter/",
@@ -411,20 +423,20 @@
   ],
   "items": [
     {
-      "id": "PT-0005",
-      "working_title": "Honda Vision ou Air Blade: qual escolher para circular em Hanói?",
-      "slug": "honda-vision-ou-air-blade",
-      "target_url": "/tipos-de-motas/honda-vision-ou-air-blade/",
+      "id": "PT-0026",
+      "working_title": "Honda Wave em Hanói: a semiautomática mais comum para alugar",
+      "slug": "honda-wave-em-hanoi",
+      "target_url": "/tipos-de-motas/honda-wave-em-hanoi/",
       "parent_category": "tipos-de-motas",
-      "child_category": "scooters-automaticas",
-      "primary_keyword": "honda vision ou air blade",
+      "child_category": "motas-semiautomaticas",
+      "primary_keyword": "aluguer honda wave hanói",
       "secondary_keywords": [
-        "vision vs air blade",
-        "melhor scooter honda aluguer"
+        "honda wave preço",
+        "honda wave 110 cc"
       ],
       "search_intent": "commercial",
-      "funnel_stage": "MOFU",
-      "content_brief": "Comparação lado a lado (peso, potência, conforto com passageiro, preço por dia, semana e mês, categoria de carta) com recomendação por perfil de utilizador.",
+      "funnel_stage": "BOFU",
+      "content_brief": "Perfil da Wave, robustez, preço de referência por dia, semana e mês e para quem compensa.",
       "target_words": [
         1500,
         2800
@@ -432,26 +444,22 @@
       "source_requirements": {
         "codes": [
           "B",
-          "M",
-          "L"
+          "M"
         ],
-        "min_sources": 2,
+        "min_sources": 1,
         "notes": [
           "Dados da loja apenas através de {{tokens}} (site/data.json): preços, telefone, morada e horário nunca escritos à mão.",
-          "Especificações do fabricante (Honda Vietnam, Yamaha Motor Vietnam) para dados técnicos dos modelos.",
-          "Legislação vietnamita em vigor (texto da lei/decreto ou base de dados jurídica reconhecida), com data de consulta."
+          "Especificações do fabricante (Honda Vietnam, Yamaha Motor Vietnam) para dados técnicos dos modelos."
         ]
       },
-      "pillar_url": "/tipos-de-motas/scooters/",
+      "pillar_url": "/tipos-de-motas/",
       "required_links": [
-        "/tipos-de-motas/scooters/",
         "/tipos-de-motas/",
-        "/precos/",
+        "/contactos/",
         "/precos/aluguer-de-mota-por-um-dia/"
       ],
       "planned_links_not_live_yet": [
-        "/tipos-de-motas/yamaha-mio-em-hanoi/",
-        "/tipos-de-motas/honda-click-ou-yamaha-mio/"
+        "/tipos-de-motas/yamaha-sirius-em-hanoi/"
       ],
       "rewrite_reason": null
     },
@@ -618,45 +626,45 @@
       "rewrite_reason": null
     },
     {
-      "id": "PT-0008",
-      "working_title": "Nunca conduziu uma mota? O que considerar antes de alugar uma scooter",
-      "slug": "nunca-conduziu-uma-mota",
-      "target_url": "/tipos-de-motas/nunca-conduziu-uma-mota/",
+      "id": "PT-0029",
+      "working_title": "Como conduzir uma mota semiautomática: mudanças sem embraiagem",
+      "slug": "como-conduzir-uma-semiautomatica",
+      "target_url": "/tipos-de-motas/como-conduzir-uma-semiautomatica/",
       "parent_category": "tipos-de-motas",
-      "child_category": "scooters-automaticas",
-      "primary_keyword": "scooter para principiantes hanói",
+      "child_category": "motas-semiautomaticas",
+      "primary_keyword": "como conduzir mota semiautomática",
       "secondary_keywords": [
-        "primeira vez de mota vietname",
-        "aprender a conduzir scooter"
+        "mudanças com o pé",
+        "embraiagem automática"
       ],
       "search_intent": "informational",
       "funnel_stage": "TOFU",
-      "content_brief": "Avaliação honesta do risco, requisitos legais e seguro, alternativas (mota com condutor, táxi) e como ganhar experiência longe do trânsito intenso.",
+      "content_brief": "Passo a passo do arranque, subida e redução de mudanças e paragem; treino num local tranquilo antes de entrar no trânsito.",
       "target_words": [
         1500,
         2800
       ],
       "source_requirements": {
         "codes": [
-          "L",
+          "M",
           "S"
         ],
         "min_sources": 2,
         "notes": [
-          "Legislação vietnamita em vigor (texto da lei/decreto ou base de dados jurídica reconhecida), com data de consulta.",
+          "Especificações do fabricante (Honda Vietnam, Yamaha Motor Vietnam) para dados técnicos dos modelos.",
           "Fonte oficial de segurança rodoviária (lei, autoridades, OMS) para afirmações sobre risco ou regras."
         ]
       },
-      "pillar_url": "/tipos-de-motas/scooters/",
+      "pillar_url": "/tipos-de-motas/",
       "required_links": [
-        "/tipos-de-motas/scooters/",
         "/tipos-de-motas/",
         "/guia-de-aluguer/documentacao-e-caucao/",
-        "/tipos-de-motas/scooter-ou-semiautomatica/",
-        "/tipos-de-motas/scooter-para-duas-pessoas/",
         "/precos/aluguer-de-mota-por-um-dia/"
       ],
-      "planned_links_not_live_yet": [],
+      "planned_links_not_live_yet": [
+        "/tipos-de-motas/honda-wave-ou-yamaha-sirius/",
+        "/tipos-de-motas/ponto-morto-e-mudancas/"
+      ],
       "rewrite_reason": null
     },
     {
@@ -821,20 +829,20 @@
       "rewrite_reason": null
     },
     {
-      "id": "PT-0020",
-      "working_title": "Qual é a melhor scooter para alugar em Hanói? Critérios para decidir",
-      "slug": "melhor-scooter-para-alugar",
-      "target_url": "/tipos-de-motas/melhor-scooter-para-alugar/",
+      "id": "PT-0056",
+      "working_title": "Alugar uma mota elétrica em Hanói: preço, autonomia e carregamento",
+      "slug": "aluguer-de-mota-eletrica-em-hanoi",
+      "target_url": "/tipos-de-motas/aluguer-de-mota-eletrica-em-hanoi/",
       "parent_category": "tipos-de-motas",
-      "child_category": "scooters-automaticas",
-      "primary_keyword": "melhor scooter para alugar hanói",
+      "child_category": "motas-eletricas",
+      "primary_keyword": "aluguer mota elétrica hanói",
       "secondary_keywords": [
-        "que scooter alugar",
-        "scooter recomendada vietname"
+        "mota elétrica preço hanói",
+        "scooter elétrica aluguer"
       ],
       "search_intent": "commercial",
-      "funnel_stage": "MOFU",
-      "content_brief": "Matriz de decisão por perfil (sozinho, a dois, trajetos curtos, estadias longas) que remete para os guias de cada modelo; não repetir as fichas.",
+      "funnel_stage": "BOFU",
+      "content_brief": "Preço de referência por dia, semana e mês, autonomia a confirmar, carregamento e perfil de utilizador.",
       "target_words": [
         1500,
         2800
@@ -850,16 +858,14 @@
           "Especificações do fabricante (Honda Vietnam, Yamaha Motor Vietnam) para dados técnicos dos modelos."
         ]
       },
-      "pillar_url": "/tipos-de-motas/scooters/",
+      "pillar_url": "/tipos-de-motas/",
       "required_links": [
-        "/tipos-de-motas/scooters/",
         "/tipos-de-motas/",
-        "/precos/",
-        "/tipos-de-motas/scooter-para-o-dia-a-dia/",
-        "/precos/aluguer-de-mota-por-um-dia/"
+        "/contactos/"
       ],
       "planned_links_not_live_yet": [
-        "/tipos-de-motas/postura-e-conforto/"
+        "/tipos-de-motas/bicicleta-eletrica-em-hanoi/",
+        "/rotas-e-mobilidade/epoca-das-chuvas-em-hanoi/"
       ],
       "rewrite_reason": null
     },

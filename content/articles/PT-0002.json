@@ -191,7 +191,7 @@
             ]
           }
         },
-        "Se a Air Blade lhe parecer grande demais, a [Honda Vision](/tipos-de-motas/honda-vision-em-hanoi/) é mais compacta e mais leve e também cabe na categoria A1. A comparação entre as quatro scooters da loja está no guia de [scooters automáticas](/tipos-de-motas/scooters/); para semiautomáticas, 50 cc e elétricas, veja os [tipos de motas](/tipos-de-motas/)."
+        "Se a Air Blade lhe parecer grande demais, a [Honda Vision](/tipos-de-motas/honda-vision-em-hanoi/) é mais compacta e mais leve e também cabe na categoria A1; se o orçamento pesar mais, a [Honda Click, compacta e económica](/tipos-de-motas/honda-click-em-hanoi/), tem um preço de referência mais baixo e serve sobretudo para andar a solo na cidade. A comparação entre as quatro scooters da loja está no guia de [scooters automáticas](/tipos-de-motas/scooters/); para semiautomáticas, 50 cc e elétricas, veja os [tipos de motas](/tipos-de-motas/). Se ainda está a decidir entre a Air Blade e uma scooter mais leve, veja a comparação entre a [Honda Vision e a Air Blade](/tipos-de-motas/honda-vision-ou-air-blade/)."
       ]
     },
     {
@@ -317,9 +317,18 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 2095,
+    "words": 2147,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      },
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

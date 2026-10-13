@@ -22,7 +22,7 @@
       "h2": "O que a lei vietnamita pede a um condutor estrangeiro",
       "body": [
         "A lei de trânsito vietnamita em vigor desde 1 de janeiro de 2025, a Lei n.º 36/2024/QH15, trata das licenças internacionais no artigo 57. O texto reconhece as licenças emitidas por Estados que são parte da Convenção de Viena de 1968 sobre a circulação rodoviária, com validade máxima de três anos e nunca superior à da carta nacional.",
-        "Quem conduz no país com uma destas licenças tem de levar consigo, ao mesmo tempo, a licença internacional e a carta do país de origem, adequada à categoria do veículo, e cumprir as regras de trânsito vietnamitas. Ou seja, a LIC não substitui a carta portuguesa: os dois documentos funcionam em conjunto.",
+        "Quem conduz no país com uma destas licenças tem de levar consigo, ao mesmo tempo, a licença internacional e a carta do país de origem, adequada à categoria do veículo, e cumprir as regras de trânsito vietnamitas. Ou seja, a LIC não substitui a carta portuguesa: os dois documentos funcionam em conjunto. A exigência aplica-se a quem estiver ao guiador; se a mota for conduzida por outra pessoa, veja [o que considerar ao alugar uma mota para outra pessoa](/guia-de-aluguer/alugar-para-outra-pessoa/).",
         "Não se trata de um requisito teórico. Em maio de 2026, a imprensa vietnamita noticiou a fiscalização de estrangeiros que conduziam motas sem licença internacional na província de Khánh Hòa. Vale a pena rever também a apólice do seguro de viagem: o Governo da Nova Zelândia, por exemplo, recomenda confirmar se o seguro cobre acidentes de mota antes de conduzir no país.",
         "Este guia trata de viagens de turismo. Se vai residir no Vietname, informe-se junto das autoridades vietnamitas sobre as regras aplicáveis a residentes."
       ]
@@ -131,7 +131,7 @@
             "Datas de validade da carta e da LIC anotadas, para não conduzir depois de caducarem."
           ]
         },
-        "A carta e a LIC têm de seguir consigo sempre que conduz, por isso não as deixe como garantia em nenhum serviço durante a viagem. Os documentos que acompanham a mota e o funcionamento da caução estão explicados no guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/).",
+        "A carta e a LIC têm de seguir consigo sempre que conduz, por isso não as deixe como garantia em nenhum serviço durante a viagem. Os documentos que acompanham a mota estão explicados no guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/), e as formas que uma caução pode assumir, no guia sobre [como funciona a caução no aluguer](/precos/como-funciona-a-caucao/).",
         "Para preparar o resto do aluguer, use a lista de [perguntas a fazer à loja antes de alugar](/guia-de-aluguer/perguntas-antes-de-alugar/) e o [guia de aluguer passo a passo](/guia-de-aluguer/)."
       ]
     }
@@ -237,9 +237,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1691,
+    "words": 1730,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

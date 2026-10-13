@@ -70,7 +70,7 @@
       "h2": "Um registo escrito do que foi combinado",
       "body": [
         "Não é preciso um contrato de várias páginas. É preciso um registo escrito — contrato, ficha, recibo ou mensagem de confirmação — que identifique a mota pela matrícula, as datas, o preço, a caução, se existir, e as regras de devolução. Uma loja fiável entrega-o sem que tenha de insistir e deixa-o ler com calma antes de assinar.",
-        "Na caução, o critério é a clareza: a loja diz se há caução no seu caso, de que forma e quando é devolvida, e regista-o. Se lhe pedirem um documento original, como o passaporte, pergunte que alternativas existem e pondere a decisão, porque o passaporte faz-lhe falta, por exemplo, nos alojamentos. A forma como a loja responde a esta pergunta também é informação."
+        "Na caução, o critério é a clareza: a loja diz se há caução no seu caso, de que forma e quando é devolvida, e regista-o. Se lhe pedirem um documento original, como o passaporte, pergunte que alternativas existem e pondere a decisão, porque o passaporte faz-lhe falta, por exemplo, nos alojamentos. A forma como a loja responde a esta pergunta também é informação. O que deve ficar registado está no guia sobre [como funciona a caução no aluguer](/precos/como-funciona-a-caucao/)."
       ]
     },
     {
@@ -93,7 +93,7 @@
       "h2": "Documentos da mota e categoria da carta",
       "body": [
         "Os documentos dizem muito sobre a seriedade de uma loja. A mota deve sair com o certificado de registo e o certificado do seguro obrigatório, com a mesma matrícula que tem na chapa. Uma loja fiável entrega-os ou diz onde estão, sem rodeios. O guia sobre os [documentos da mota alugada](/guia-de-aluguer/documentos-da-mota-alugada/) mostra como os conferir em poucos minutos.",
-        "O mesmo vale para a sua carta. Desde 2025, a lei vietnamita reserva a categoria A1 aos motociclos até 125 cm³ (ou com motor elétrico até 11 kW) e exige a categoria A acima disso. Uma loja que lhe pergunta pela carta e lhe diz a cilindrada exata da mota está a ajudá-lo a cumprir a lei. Se lhe propuserem uma mota mais potente sem perguntar pela sua categoria, a decisão — e a responsabilidade ao conduzir — continua a ser sua.",
+        "O mesmo vale para a sua carta. Desde 2025, a lei vietnamita reserva a categoria A1 aos motociclos até 125 cm³ (ou com motor elétrico até 11 kW) e exige a categoria A acima disso. Uma loja que lhe pergunta pela carta e lhe diz a cilindrada exata da mota está a ajudá-lo a cumprir a lei. Se lhe propuserem uma mota mais potente sem perguntar pela sua categoria, a decisão — e a responsabilidade ao conduzir — continua a ser sua. O guia sobre [conduzir sem carta válida no Vietname](/guia-de-aluguer/conduzir-sem-carta-valida/) mostra o que arrisca num controlo e no seguro.",
         "Se a sua carta é portuguesa, o guia da [Licença Internacional de Condução](/guia-de-aluguer/licenca-internacional-de-conducao/) explica como pedi-la antes da viagem."
       ]
     },
@@ -183,9 +183,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1661,
+    "words": 1694,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

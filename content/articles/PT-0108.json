@@ -211,7 +211,7 @@
             "O que acontece se a mota ficar parada à espera de reparação?"
           ]
         },
-        "Pode enviá-las numa só mensagem, juntamente com as restantes [perguntas a fazer antes de alugar](/guia-de-aluguer/perguntas-antes-de-alugar/). O número {{phone}} serve para telefone e Zalo; os dados completos estão em [contactos](/contactos/)."
+        "Pode enviá-las numa só mensagem, juntamente com as restantes [perguntas a fazer antes de alugar](/guia-de-aluguer/perguntas-antes-de-alugar/) e com as que dizem respeito à limpeza na devolução, reunidas no guia sobre [quando é preciso lavar a mota alugada](/precos/limpeza-da-mota/). O número {{phone}} serve para telefone e Zalo; os dados completos estão em [contactos](/contactos/)."
       ]
     }
   ],
@@ -241,9 +241,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1614,
+    "words": 1635,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

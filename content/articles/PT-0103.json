@@ -83,7 +83,7 @@
           "tone": "warn",
           "title": "Luz de reserva acesa à saída"
         },
-        "Esta verificação é uma das várias que se fazem na entrega. As perguntas sobre caução, documentos e capacetes estão reunidas nas [perguntas a fazer antes de alugar](/guia-de-aluguer/perguntas-antes-de-alugar/)."
+        "Esta verificação é uma das várias que se fazem na entrega, descritas passo a passo no guia sobre [o que acontece quando recebe a mota](/guia-de-aluguer/receber-a-mota/). As perguntas sobre caução, documentos e capacetes estão reunidas nas [perguntas a fazer antes de alugar](/guia-de-aluguer/perguntas-antes-de-alugar/). Quantos capacetes pedir e como acertar o tamanho é o tema do guia sobre [capacetes no aluguer](/precos/capacetes-no-aluguer/)."
       ]
     },
     {
@@ -221,9 +221,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1976,
+    "words": 2007,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

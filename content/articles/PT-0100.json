@@ -65,7 +65,7 @@
             "**A ligação ao seu aluguer faz-se pelo calendário.** Para saber se a infração aconteceu durante o seu aluguer, é preciso comparar o momento em que foi registada com as horas de levantamento e de devolução."
           ]
         },
-        "O que se passa depois entre si e a loja — se o contacta, como se paga, se a caução fica envolvida — não está publicado neste site e depende das condições do aluguer. É precisamente por isso que deve perguntar antes de levantar a mota, e não quando o aviso já existe."
+        "O que se passa depois entre si e a loja — se o contacta, como se paga, se a caução fica envolvida — não está publicado neste site e depende das condições do aluguer. É precisamente por isso que deve perguntar antes de levantar a mota, e não quando o aviso já existe. O papel da caução e o que deve ficar escrito sobre ela estão no guia sobre [como funciona a caução](/precos/como-funciona-a-caucao/)."
       ]
     },
     {
@@ -115,7 +115,7 @@
     {
       "h2": "Se for mandado parar durante o aluguer",
       "body": [
-        "Numa paragem, a situação resolve-se consigo, no local. Entregue os documentos que lhe pedirem — carta, licença internacional, registo e seguro da mota — e, se não perceber o que lhe dizem, mantenha a calma e mostre também o acordo de aluguer.",
+        "Numa paragem, a situação resolve-se consigo, no local. Entregue os documentos que lhe pedirem — carta, licença internacional, registo e seguro da mota — e, se não perceber o que lhe dizem, mantenha a calma e mostre também o acordo de aluguer. Como parar, o que mostrar e como comunicar está explicado no guia sobre o [controlo da polícia de trânsito](/guia-de-aluguer/controlo-da-policia/).",
         "Se lhe for apontada uma infração, peça que lha indiquem por escrito, juntamente com a forma de pagamento, e guarde os papéis que lhe entregarem. Fotografe-os logo ali: um papel molhado ou perdido deixa de servir de prova.",
         "Para ter uma ideia do que está em jogo, eis alguns valores do Decreto 168/2024/NĐ-CP para quem conduz uma mota, consultados a 13 de outubro de 2026:",
         {
@@ -154,7 +154,7 @@
           ]
         },
         {
-          "note": "Desconfie de pedidos de pagamento que não identifiquem a infração ou que cheguem de um contacto que não conhece. Na dúvida, ligue para o número da loja indicado neste site, {{phone}}, e confirme antes de transferir dinheiro.",
+          "note": "Desconfie de pedidos de pagamento que não identifiquem a infração ou que cheguem de um contacto que não conhece. Na dúvida, ligue para o número da loja indicado neste site, {{phone}}, e confirme antes de transferir dinheiro. Os passos para contestar um valor que não reconhece estão no guia sobre [cobranças indevidas no aluguer de motas](/precos/burlas-no-aluguer-de-motas/).",
           "tone": "warn",
           "title": "Confirme antes de pagar"
         }
@@ -164,7 +164,7 @@
       "h2": "A multa mais fácil de resolver é a que não acontece",
       "body": [
         "Muitas das coimas que um visitante pode apanhar resultam de comportamentos fáceis de evitar: capacete desapertado, atalhos pelo passeio, vermelho, contramão, telemóvel na mão e documentos esquecidos no alojamento. As regras de base estão resumidas no [guia de aluguer](/guia-de-aluguer/) e, para o centro histórico, no guia sobre [conduzir no Bairro Antigo](/zonas-de-hanoi/conduzir-no-bairro-antigo/).",
-        "Lembre-se também de que os valores da [tabela de preços](/precos/) dizem respeito apenas ao aluguer do veículo. Uma coima é sempre um custo à parte e, quanto mais cedo ficar resolvida, mais simples é fechar o aluguer."
+        "Lembre-se também de que os valores da [tabela de preços](/precos/) dizem respeito apenas ao aluguer do veículo. Uma coima é sempre um custo à parte e, quanto mais cedo ficar resolvida, mais simples é fechar o aluguer. Os deslizes que mais vezes acabam em coima estão reunidos no guia [como evitar multas em Hanói](/guia-de-aluguer/como-evitar-multas/)."
       ]
     }
   ],
@@ -226,9 +226,18 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1803,
+    "words": 1878,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      },
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

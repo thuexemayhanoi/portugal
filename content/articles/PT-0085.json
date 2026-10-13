@@ -118,7 +118,7 @@
       "h2": "Quanto custa: uma tarifa por mota",
       "body": [
         "Os preços de referência da loja são por veículo, e não por pessoa: entre {{price.min.day}} e {{price.max.day}} por dia, conforme o modelo. Uma família com duas motas paga, por isso, duas tarifas, e as duas motas não têm de ser iguais.",
-        "A mota que leva passageiro pede mais folga; a que segue só com o condutor pode ser um modelo mais compacto. Ao dia, a Honda Click custa {{cmp.click.vision.day}} a Honda Vision, e a Honda Air Blade, mais confortável com passageiro, custa {{cmp.airblade.vision.day}} a Vision. Na Air Blade, confirme a cilindrada da unidade: a versão de 160 cm³ exige a categoria A.",
+        "A mota que leva passageiro pede mais folga; a que segue só com o condutor pode ser um modelo mais compacto. Ao dia, a Honda Click custa {{cmp.click.vision.day}} a [Honda Vision](/tipos-de-motas/honda-vision-em-hanoi/), e a Honda Air Blade, mais confortável com passageiro, custa {{cmp.airblade.vision.day}} a Vision. Na Air Blade, confirme a cilindrada da unidade: a versão de 160 cm³ exige a categoria A.",
         {
           "component": "price-table",
           "category": "scooters-automaticas"
@@ -245,6 +245,11 @@
     "words": 2165,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

@@ -37,7 +37,7 @@
       "h2": "A quem se aplica: qualquer mota, qualquer condutor",
       "body": [
         "A proibição dirige-se a quem conduz e não distingue o tipo de mota. Vale numa scooter automática, numa semiautomática, numa mota de 50 cc e numa mota elétrica. Uma cilindrada pequena ou um motor silencioso não criam uma regra mais leve.",
-        "Também não há regime à parte para quem vem de fora. Quem conduz no Vietname com carta estrangeira e licença internacional tem de cumprir as regras de trânsito vietnamitas, e esta é uma delas. O mesmo vale para os trajetos curtos: os três quarteirões entre o restaurante e o alojamento contam como qualquer outra deslocação.",
+        "Também não há regime à parte para quem vem de fora. Quem conduz no Vietname com carta estrangeira e licença internacional tem de cumprir as regras de trânsito vietnamitas, e esta é uma delas. Outra regra da mesma lei que costuma surpreender é a da [buzina, que no Vietname serve para avisar](/guia-de-aluguer/a-buzina-no-vietname/) e não para abrir caminho. O mesmo vale para os trajetos curtos: os três quarteirões entre o restaurante e o alojamento contam como qualquer outra deslocação.",
         {
           "table": {
             "caption": "Situações comuns e o que a regra do zero significa em cada uma",
@@ -114,7 +114,7 @@
     {
       "h2": "Como planear uma noite fora com a mota alugada",
       "body": [
-        "A forma mais simples de cumprir a regra é decidir antes de sair, quando ainda não bebeu nada. A meio da noite, as decisões ficam sempre mais otimistas.",
+        "A forma mais simples de cumprir a regra é decidir antes de sair, quando ainda não bebeu nada. A meio da noite, as decisões ficam sempre mais otimistas. Pode começar a preparar isto no dia do levantamento: no guia sobre [receber a mota alugada](/guia-de-aluguer/receber-a-mota/), a lista do que combinar com a loja inclui onde deixar a mota durante a noite.",
         {
           "steps": [
             {
@@ -201,9 +201,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1671,
+    "words": 1726,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

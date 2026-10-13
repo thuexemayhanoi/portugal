@@ -132,7 +132,7 @@
             "a mensagem em que envia tudo isto à loja, no próprio dia."
           ]
         },
-        "Quem paga cada reparação depende do acordo, e convém combiná-lo antes de sair da loja. O procedimento em caso de avaria faz parte das [perguntas a fazer antes de alugar](/guia-de-aluguer/perguntas-antes-de-alugar/); aqui, o que importa é que cada despesa tenha um papel e uma fotografia que a comprovem."
+        "Quem paga cada reparação depende do acordo, e convém combiná-lo antes de sair da loja. O procedimento em caso de avaria faz parte das [perguntas a fazer antes de alugar](/guia-de-aluguer/perguntas-antes-de-alugar/); aqui, o que importa é que cada despesa tenha um papel e uma fotografia que a comprovem. Se um valor vier a ser acertado na caução, o guia sobre [descontos na caução por danos, atrasos e combustível](/precos/descontos-na-caucao/) mostra como combinar cada caso."
       ]
     },
     {
@@ -269,9 +269,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1593,
+    "words": 1618,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

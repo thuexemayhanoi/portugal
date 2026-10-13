@@ -134,7 +134,7 @@
     {
       "h2": "Passo 5: calcular o custo de cada dia de uso",
       "body": [
-        "O último passo põe o preço em relação com o uso que vai dar à mota. Some o total do aluguer e os extras do passo 3 e divida pelo número de dias em que vai realmente conduzir. Dias parados — um passeio organizado fora da cidade, uma chuvada que o prende ao hotel — também se pagam e fazem subir esse valor.",
+        "O último passo põe o preço em relação com o uso que vai dar à mota. Some o total do aluguer e os extras do passo 3 e divida pelo número de dias em que vai realmente conduzir. Dias parados — um passeio organizado fora da cidade, uma chuvada que o prende ao hotel — também se pagam e fazem subir esse valor. Para estimar quantos serão, veja as [sete situações em que vale mais não conduzir em Hanói](/rotas-e-mobilidade/quando-nao-conduzir/).",
         "Com esse número na mão, compare-o com a alternativa: o que gastaria nesses dias em táxis ou em viagens de mota com condutor, cujo preço estimado pode consultar na aplicação de transporte que usar. Se vai conduzir pouco, ou se não se sente à vontade no trânsito de Hanói, a alternativa pode fazer mais sentido do que um aluguer de vários dias.",
         "Para guardar a comparação, anote para cada orçamento:",
         {
@@ -208,9 +208,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1727,
+    "words": 1743,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

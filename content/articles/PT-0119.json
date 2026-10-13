@@ -85,7 +85,7 @@
             "**Capacetes e capas de chuva**: o número é o mesmo nas duas opções, um por pessoa, por isso não pesa na comparação."
           ]
         },
-        "A lista de [custos além do preço](/precos/custos-alem-do-preco/) ajuda a confirmar o resto com a loja antes de fechar o aluguer."
+        "A lista de [custos além do preço](/precos/custos-alem-do-preco/) ajuda a confirmar o resto com a loja antes de fechar o aluguer. Para comparar os totais das duas opções na mesma base, siga o método do guia sobre [como avaliar se um preço de aluguer é justo](/precos/preco-justo-de-aluguer/)."
       ]
     },
     {
@@ -193,7 +193,7 @@
           }
         },
         "Para quem vem trabalhar à distância durante semanas, o guia da [mota para nómadas digitais](/precos/mota-para-nomadas-digitais/) ajuda a pensar a rotina e a duração do aluguer. Se a viagem inclui dias fora da cidade, combine-o antes com a loja, como explica o guia sobre [levar a mota para fora de Hanói](/guia-de-aluguer/autorizacao-para-sair-de-hanoi/).",
-        "Em qualquer das opções, o táxi continua a ser uma boa alternativa para as deslocações longas, à noite ou com chuva forte."
+        "Em qualquer das opções, o táxi continua a ser uma boa alternativa para as deslocações longas, à noite ou com chuva forte. As situações em que vale mais deixar a mota parada estão reunidas no guia sobre [quando é melhor não conduzir em Hanói](/rotas-e-mobilidade/quando-nao-conduzir/)."
       ]
     },
     {
@@ -272,9 +272,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1818,
+    "words": 1865,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

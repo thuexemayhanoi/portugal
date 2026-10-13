@@ -70,7 +70,7 @@
             ]
           }
         },
-        "A tarifa semanal não é o preço diário multiplicado por sete. Se precisa da mota durante cinco ou seis dias, compare os dois valores e peça à loja o total para o período exato. No aluguer mensal, o intervalo publicado depende da unidade e das condições do acordo.",
+        "A tarifa semanal não é o preço diário multiplicado por sete. Se precisa da mota durante cinco ou seis dias, compare os dois valores e peça à loja o total para o período exato. No aluguer mensal, o intervalo publicado depende da unidade e das condições do acordo. Se só precisa da mota para um passeio, veja como se conta o período e que horários combinar no guia sobre [alugar uma mota por um dia em Hanói](/precos/aluguer-de-mota-por-um-dia/).",
         "A tabela refere-se ao aluguer do veículo. A caução, uma eventual entrega no alojamento, o combustível e os acessórios são confirmados à parte. Veja a [tabela completa de preços](/precos/) para comparar com os outros modelos e a página de [scooters automáticas](/tipos-de-motas/scooters/) para perceber as diferenças entre eles."
       ]
     },
@@ -148,8 +148,8 @@
     {
       "h2": "Vision ou outra scooter?",
       "body": [
-        "A Vision é o meio-termo da gama. Se precisa de mais potência para andar a dois ou fazer trajetos mais longos, a Honda Air Blade é a alternativa natural (confirme se a unidade é de 125 ou de 160 cm³, porque isso muda a categoria de carta exigida). Se o orçamento pesa mais do que o conforto, a Honda Click e a Yamaha Mio têm um preço de referência mais baixo: {{price.click.day}} por dia.",
-        "Para comparar todos os tipos, incluindo semiautomáticas, 50 cc e elétricas, consulte o guia de [tipos de motas](/tipos-de-motas/). Quando souber o modelo e as datas, [contacte a loja](/contactos/) para confirmar a disponibilidade e o preço final."
+        "A Vision é o meio-termo da gama. Se precisa de mais potência para andar a dois ou fazer trajetos mais longos, a Honda Air Blade é a alternativa natural. Confirme se a unidade é de 125 ou de 160 cm³, porque isso muda a categoria de carta exigida: o guia sobre a [Air Blade 125 ou 160](/tipos-de-motas/honda-air-blade-125-ou-160/) explica o que distingue as duas versões. Se o orçamento pesa mais do que o conforto, a Honda Click e a Yamaha Mio têm um preço de referência mais baixo: {{price.click.day}} por dia.",
+        "Para comparar todos os tipos, incluindo semiautomáticas, 50 cc e elétricas, consulte o guia de [tipos de motas](/tipos-de-motas/). Quando souber o modelo e as datas, [contacte a loja](/contactos/) para confirmar a disponibilidade e o preço final. Se a dúvida é entre a Vision e a Air Blade, a comparação [Honda Vision ou Air Blade](/tipos-de-motas/honda-vision-ou-air-blade/) põe as duas lado a lado, uso a uso."
       ]
     }
   ],
@@ -200,12 +200,24 @@
   },
   "status": "PUBLISHED",
   "date_published": "2026-10-12",
-  "date_modified": "2026-10-12",
+  "date_modified": "2026-10-13",
   "editorial": {
-    "qa_score": 100,
-    "qa_warnings": [],
-    "words": 1643,
+    "qa_score": 98,
+    "qa_warnings": [
+      "source code M: Especificações do fabricante (Honda Vietnam, Yamaha Motor Vietnam) para dados técnicos dos modelos."
+    ],
+    "words": 1715,
     "publish_mode": "review",
-    "approved_at": "2026-10-12"
+    "approved_at": "2026-10-13",
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      },
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

@@ -49,7 +49,7 @@
             ]
           }
         },
-        "A caução, se existir no seu caso, é um montante à parte e tem as suas próprias regras. Não a confunda com o pagamento do aluguer: são dois valores diferentes, que podem ser entregues em momentos diferentes. O que ponderar sobre a caução está no guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/)."
+        "A caução, se existir no seu caso, é um montante à parte e tem as suas próprias regras. Não a confunda com o pagamento do aluguer: são dois valores diferentes, que podem ser entregues em momentos diferentes. O que ponderar sobre a caução está no guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/). Para saber se é possível alugar sem ela, veja o artigo sobre [aluguer de mota sem caução em Hanói](/precos/existe-aluguer-sem-caucao/)."
       ]
     },
     {
@@ -168,9 +168,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1537,
+    "words": 1556,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

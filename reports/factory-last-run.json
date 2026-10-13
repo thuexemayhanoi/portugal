@@ -2,118 +2,42 @@
   "command": "approve",
   "run_on": "2026-10-13",
   "status": "ACTIVE",
-  "published_total": 82,
+  "published_total": 85,
   "in_review": [],
   "processed": [
     {
-      "id": "PT-0041",
-      "result": "PUBLISH",
+      "id": "PT-0001",
+      "result": "UPDATE",
+      "warnings": [
+        "source code M: Especificações do fabricante (Honda Vietnam, Yamaha Motor Vietnam) para dados técnicos dos modelos."
+      ]
+    },
+    {
+      "id": "PT-0002",
+      "result": "UPDATE",
       "warnings": []
     },
     {
-      "id": "PT-0044",
-      "result": "PUBLISH",
+      "id": "PT-0007",
+      "result": "UPDATE",
       "warnings": []
     },
     {
-      "id": "PT-0048",
-      "result": "PUBLISH",
-      "warnings": []
-    },
-    {
-      "id": "PT-0053",
-      "result": "PUBLISH",
-      "warnings": []
-    },
-    {
-      "id": "PT-0063",
-      "result": "PUBLISH",
-      "warnings": []
-    },
-    {
-      "id": "PT-0069",
-      "result": "PUBLISH",
-      "warnings": []
-    },
-    {
-      "id": "PT-0072",
-      "result": "PUBLISH",
-      "warnings": []
-    },
-    {
-      "id": "PT-0082",
-      "result": "PUBLISH",
-      "warnings": []
-    },
-    {
-      "id": "PT-0083",
-      "result": "PUBLISH",
-      "warnings": []
-    },
-    {
-      "id": "PT-0085",
-      "result": "PUBLISH",
-      "warnings": []
-    },
-    {
-      "id": "PT-0099",
-      "result": "PUBLISH",
-      "warnings": []
-    },
-    {
-      "id": "PT-0104",
-      "result": "PUBLISH",
-      "warnings": []
-    },
-    {
-      "id": "PT-0119",
-      "result": "PUBLISH",
-      "warnings": []
-    },
-    {
-      "id": "PT-0139",
-      "result": "PUBLISH",
-      "warnings": []
-    },
-    {
-      "id": "PT-0149",
-      "result": "PUBLISH",
-      "warnings": []
-    },
-    {
-      "id": "PT-0159",
-      "result": "PUBLISH",
-      "warnings": []
-    },
-    {
-      "id": "PT-0209",
-      "result": "PUBLISH",
+      "id": "PT-0100",
+      "result": "UPDATE",
       "warnings": []
     },
     {
       "id": "PT-0286",
-      "result": "PUBLISH",
+      "result": "UPDATE",
       "warnings": []
     }
   ],
   "published": [
-    "PT-0041",
-    "PT-0044",
-    "PT-0048",
-    "PT-0053",
-    "PT-0063",
-    "PT-0069",
-    "PT-0072",
-    "PT-0082",
-    "PT-0083",
-    "PT-0085",
-    "PT-0099",
-    "PT-0104",
-    "PT-0119",
-    "PT-0139",
-    "PT-0149",
-    "PT-0159",
-    "PT-0209",
+    "PT-0001",
+    "PT-0002",
+    "PT-0007",
+    "PT-0100",
     "PT-0286"
   ],
   "failed": []

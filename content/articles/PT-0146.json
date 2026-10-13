@@ -33,7 +33,7 @@
         {
           "h3": "Planos que mudaram"
         },
-        "Um amigo junta-se à viagem e passa a levar passageiro, decidiu fazer uma saída para fora da cidade, o novo alojamento não deixa carregar uma mota elétrica durante a noite ou percebeu que uma [mota de 50 cc](/tipos-de-motas/motas-50cc/) não chega para as distâncias que faz. Aqui a mota está em bom estado; o que muda é o uso. A troca é uma alteração ao aluguer que a loja pode aceitar ou não, e o preço pode mudar."
+        "Um amigo junta-se à viagem e passa a levar passageiro, decidiu fazer uma saída para fora da cidade, o novo alojamento não deixa carregar uma mota elétrica durante a noite ou percebeu que uma [mota de 50 cc](/tipos-de-motas/motas-50cc/) não chega para as distâncias que faz. Aqui a mota está em bom estado; o que muda é o uso. A troca é uma alteração ao aluguer que a loja pode aceitar ou não, e o preço pode mudar. Se o novo plano for sair de Hanói, combine também a [autorização para levar a mota para fora da cidade](/guia-de-aluguer/autorizacao-para-sair-de-hanoi/)."
       ]
     },
     {
@@ -50,7 +50,7 @@
           ]
         },
         "Releia também a conversa ou o acordo da reserva. Se lá estiver escrito o que acontece quando a mota avaria ou deixa de poder ser usada, cite-o no pedido. Se nada ficou combinado, é agora que se combina, por escrito.",
-        "Não mande reparar a mota por iniciativa própria nem tente desmontar peças. Uma reparação feita sem acordo complica a conversa sobre quem paga e, se houver caução, sobre a sua devolução."
+        "Não mande reparar a mota por iniciativa própria nem tente desmontar peças. Uma reparação feita sem acordo complica a conversa sobre quem paga e, se houver caução, sobre a sua devolução, cujas regras se combinam antes, como explica o guia sobre [como funciona a caução no aluguer](/precos/como-funciona-a-caucao/)."
       ]
     },
     {
@@ -167,7 +167,7 @@
           "tone": "info",
           "title": "Uma mensagem que pode adaptar"
         },
-        "Guarde esta mensagem e as fotografias das duas motas até ao fim do aluguer e, se houver caução, até ela ser devolvida."
+        "Guarde esta mensagem e as fotografias das duas motas até ao fim do aluguer e, se houver caução, até ela ser devolvida. Se o aluguer for pago por uma empresa, peça também que o comprovativo indique a nova matrícula: veja o que perguntar num [aluguer de mota em nome de uma empresa](/guia-de-aluguer/aluguer-para-empresas/)."
       ]
     },
     {
@@ -223,9 +223,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 2008,
+    "words": 2074,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

@@ -91,7 +91,7 @@
           ]
         },
         "Para o resto do acordo, a lista de [perguntas a fazer antes de alugar](/guia-de-aluguer/perguntas-antes-de-alugar/) ajuda a não esquecer nada. Se não fala vietnamita, escreva frases curtas, com as datas e as horas em algarismos: uma mensagem simples traduz-se melhor do que uma longa.",
-        "Se não puder ou não quiser ir a Long Biên, pergunte se a loja entrega ou recolhe a mota no seu alojamento e com que custo. Depende da morada e das datas, e só conta o que for confirmado por escrito."
+        "Se não puder ou não quiser ir a Long Biên, pergunte se a loja entrega ou recolhe a mota no seu alojamento e com que custo. Depende da morada e das datas, e só conta o que for confirmado por escrito. O guia sobre a [entrega da mota no hotel](/precos/entrega-da-mota-no-hotel/) indica que informação enviar e que perguntas fazer antes de marcar."
       ]
     },
     {
@@ -233,9 +233,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1867,
+    "words": 1887,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

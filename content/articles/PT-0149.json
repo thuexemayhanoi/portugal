@@ -120,7 +120,7 @@
     {
       "h2": "No aluguer: a loja entrega a mota, a habilitação é sua",
       "body": [
-        "O que a loja pede para entregar o veículo e o que a lei exige a quem o conduz são coisas diferentes. Uma loja pode aceitar alugar-lhe uma mota e, mesmo assim, a polícia aplicar-lhe uma coima por falta de habilitação. A responsabilidade pela carta é de quem segura o guiador.",
+        "O que a loja pede para entregar o veículo e o que a lei exige a quem o conduz são coisas diferentes. Uma loja pode aceitar alugar-lhe uma mota e, mesmo assim, a polícia aplicar-lhe uma coima por falta de habilitação. A responsabilidade pela carta é de quem segura o guiador. Uma loja que lhe pergunta pela categoria da carta e lhe diz a cilindrada exata da mota está a ajudá-lo a cumprir a lei: é um dos critérios do guia sobre [como reconhecer uma loja de aluguer fiável](/guia-de-aluguer/loja-de-aluguer-fiavel/). Já uma oferta que não pergunta nada, nem pela carta nem pela garantia, não o protege de coisa nenhuma; o guia sobre [aluguer de mota sem caução](/precos/existe-aluguer-sem-caucao/) mostra que sinais de cautela observar.",
         "Antes de reservar, dê à loja a informação de que ela precisa para lhe propor a mota certa: a categoria que consta da sua carta e da LIC. Peça a cilindrada exata da unidade proposta e, se ultrapassar o seu limite, outra mota. Se a troca acontecer a meio do aluguer, veja como a pedir em [trocar de mota](/guia-de-aluguer/trocar-de-mota/).",
         "Pergunte também, e guarde as respostas por escrito através dos [contactos](/contactos/) da loja:",
         {
@@ -269,9 +269,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 2107,
+    "words": 2178,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

@@ -135,7 +135,7 @@ test('a published article can be updated in place and keeps its publication date
     assert.equal(r.status, 0, r.stdout + r.stderr);
     const updated = JSON.parse(fs.readFileSync(path.join(tmp, 'content/articles/PT-0066.json'), 'utf8'));
     assert.equal(updated.date_published, published);
-    assert.equal(updated.editorial.revisions.length, 1);
+    assert.equal(updated.editorial.revisions.length, (article.editorial?.revisions?.length || 0) + 1);
     assert.equal(updated.revision, undefined);
     const log = JSON.parse(fs.readFileSync(path.join(tmp, 'reports/publication-log.json'), 'utf8'));
     assert.equal(log.entries.at(-1).type, 'update');

@@ -106,7 +106,7 @@
       "body": [
         "Se nunca conduziu uma mota, Hanói não é o sítio para aprender. Mesmo com experiência, cada mota tem o seu peso, a sua largura e a sua resposta nos travões, e uma semiautomática obriga a gerir as mudanças no meio do trânsito. O guia [scooter ou semiautomática](/tipos-de-motas/scooter-ou-semiautomatica/) ajuda a escolher a que exige menos de si.",
         "**Alternativa:** faça os primeiros quilómetros num percurso calmo, fora das horas de ponta, antes de entrar nas avenidas. Se a mota não lhe agrada, peça outra; o guia sobre [trocar de mota](/guia-de-aluguer/trocar-de-mota/) mostra como.",
-        "E se, ao fim de um ou dois dias, conduzir na cidade deixar de lhe parecer boa ideia, não insista. A mota com condutor e o táxi resolvem o resto da viagem, e o guia sobre [devolver a mota mais cedo](/precos/devolver-a-mota-mais-cedo/) mostra o que perguntar à loja sobre os dias já pagos."
+        "E se, ao fim de um ou dois dias, conduzir na cidade deixar de lhe parecer boa ideia, não insista. A mota com condutor e o táxi resolvem o resto da viagem, e o guia sobre [devolver a mota mais cedo](/precos/devolver-a-mota-mais-cedo/) mostra o que perguntar à loja sobre os dias já pagos. Se nunca conduziu uma mota, o guia [antes de alugar uma scooter sem experiência](/tipos-de-motas/nunca-conduziu-uma-mota/) ajuda a decidir com honestidade."
       ]
     },
     {
@@ -236,9 +236,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1822,
+    "words": 1841,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

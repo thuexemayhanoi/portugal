@@ -141,7 +141,7 @@
         {
           "h3": "Limpeza, chave e documentos"
         },
-        "Depois de dias de chuva ou de estradas de terra, a mota pode voltar muito suja. Pergunte se isso tem algum custo e, se for o caso, se pode lavá-la antes numa lavagem de motas — em vietnamita, «rửa xe». Pergunte também o que acontece se perder a chave ou um documento do veículo; o guia dos [documentos da mota alugada](/guia-de-aluguer/documentos-da-mota-alugada/) explica o que fazer se faltar um papel."
+        "Depois de dias de chuva ou de estradas de terra, a mota pode voltar muito suja. Pergunte se isso tem algum custo e, se for o caso, se pode lavá-la antes numa lavagem de motas — em vietnamita, «rửa xe». O guia sobre a [lavagem da mota alugada](/precos/limpeza-da-mota/) explica quando é necessária e como a pedir. Pergunte também o que acontece se perder a chave ou um documento do veículo; o guia dos [documentos da mota alugada](/guia-de-aluguer/documentos-da-mota-alugada/) explica o que fazer se faltar um papel."
       ]
     },
     {
@@ -172,7 +172,7 @@
         {
           "h3": "Danos na mota"
         },
-        "Um risco, um espelho partido ou um pisca rachado podem ser cobrados no fim do aluguer, à parte ou por desconto na caução. A melhor defesa são as fotografias tiradas na entrega, de todos os lados. Pergunte como se avalia um dano, se pode ver o orçamento da reparação e se pode mandar reparar numa oficina à sua escolha.",
+        "Um risco, um espelho partido ou um pisca rachado podem ser cobrados no fim do aluguer, à parte ou por desconto na caução. A melhor defesa são as fotografias tiradas na entrega, de todos os lados; o guia sobre a [inspeção da mota no momento da entrega](/guia-de-aluguer/receber-a-mota/) mostra o que registar. Pergunte como se avalia um dano, se pode ver o orçamento da reparação e se pode mandar reparar numa oficina à sua escolha.",
         "Conte também com o que o seguro da mota não faz. O seguro obrigatório de responsabilidade civil, regulado pelo Decreto 67/2023/NĐ-CP, serve para indemnizar terceiros pelos danos que o veículo lhes cause. Não é um seguro da própria mota nem um seguro de acidentes para quem conduz. Os danos na mota alugada são, por isso, um tema a combinar com a loja; os seus, um tema a confirmar com o seu seguro de viagem.",
         {
           "h3": "Furto"
@@ -339,9 +339,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1992,
+    "words": 2023,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

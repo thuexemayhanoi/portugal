@@ -22,7 +22,7 @@
       "h2": "O plano começa por a loja saber onde vai estar",
       "body": [
         "Um plano de avaria só funciona se a loja souber onde a mota pode parar. Uma saída de um dia a Ninh Bình ou às montanhas do norte não é o mesmo que circular no centro, e nem todas as viagens são adequadas a todos os modelos. Diga que pensa sair de Hanói logo no primeiro contacto, com o destino, as localidades por onde passa e as datas: é a loja que confirma se a viagem é possível com aquela mota e em que condições.",
-        "Se a resposta for que a mota escolhida não serve, pergunte que modelo seria mais indicado. Uma scooter leve, ótima para a cidade, pode não ser a melhor companhia para um dia inteiro de estrada; as diferenças entre os modelos estão em [tipos de motas](/tipos-de-motas/). As motas de 50 cc, em particular, não são pensadas para viagens longas fora de Hanói. Uma mota adequada ao percurso é, à partida, uma mota com menos probabilidade de o deixar parado."
+        "Se a resposta for que a mota escolhida não serve, pergunte que modelo seria mais indicado. Uma scooter leve, ótima para a cidade, pode não ser a melhor companhia para um dia inteiro de estrada; as diferenças entre os modelos estão em [tipos de motas](/tipos-de-motas/). As motas de 50 cc, em particular, não são pensadas para viagens longas fora de Hanói. Uma mota adequada ao percurso é, à partida, uma mota com menos probabilidade de o deixar parado. No dia do levantamento, o guia sobre [receber a mota alugada](/guia-de-aluguer/receber-a-mota/) mostra como inspecioná-la e testá-la numa volta curta antes de arrancar."
       ]
     },
     {
@@ -210,9 +210,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1795,
+    "words": 1817,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

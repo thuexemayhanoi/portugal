@@ -204,7 +204,7 @@
             }
           ]
         },
-        "Os pontos mais sensíveis desse resumo — documentos, garantias e devolução — estão explicados no guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/). Também aqui não há valores gerais: o montante e a forma da caução confirmam-se caso a caso."
+        "Os pontos mais sensíveis desse resumo — documentos, garantias e devolução — estão explicados no guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/). Também aqui não há valores gerais: o montante e a forma da caução confirmam-se caso a caso, e o guia sobre [como funciona a caução no aluguer](/precos/como-funciona-a-caucao/) reúne as perguntas a fazer antes do levantamento."
       ]
     },
     {
@@ -246,9 +246,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1790,
+    "words": 1808,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

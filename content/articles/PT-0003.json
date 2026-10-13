@@ -142,7 +142,7 @@
         {
           "ul": [
             "**[Honda Vision](/tipos-de-motas/honda-vision-em-hanoi/)**: um modelo que a Honda Vietname continua a vender, para quem aceita pagar {{price.vision.day}} por dia por uma scooter urbana do mesmo género.",
-            "**Honda Air Blade**: maior e mais potente, para quem vai andar muitas vezes a dois ou fazer percursos mais longos ({{price.airblade.day}} por dia).",
+            "**[Honda Air Blade, de 125 ou 160 cm³](/tipos-de-motas/honda-air-blade-125-ou-160/)**: maior e mais potente, para quem vai andar muitas vezes a dois ou fazer percursos mais longos ({{price.airblade.day}} por dia).",
             "**Semiautomáticas Wave e Sirius**: {{price.wave.day}} por dia, para quem já sabe trabalhar com as mudanças e dispensa a arrumação debaixo do assento."
           ]
         },
@@ -263,9 +263,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 2023,
+    "words": 2028,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

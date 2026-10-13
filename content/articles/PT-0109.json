@@ -76,8 +76,8 @@
             "Num aluguer longo: a limpeza periódica fica a meu cargo?"
           ]
         },
-        "Peça as respostas por escrito, na mesma conversa em que confirma as datas e o preço. A tabela de [preços de referência](/precos/) cobre apenas o aluguer do veículo; qualquer custo ligado à limpeza é confirmado pela loja. As outras questões a esclarecer antes de reservar estão na lista de [perguntas a fazer antes de alugar](/guia-de-aluguer/perguntas-antes-de-alugar/).",
-        "E se a mota já vier suja? Fotografe-a na entrega e diga-o na conversa com a loja. Fica registado o ponto de partida, e ninguém terá dúvidas sobre o estado em que deve voltar.",
+        "Peça as respostas por escrito, na mesma conversa em que confirma as datas e o preço. A tabela de [preços de referência](/precos/) cobre apenas o aluguer do veículo; qualquer custo ligado à limpeza é confirmado pela loja, tal como os restantes pontos da [lista de custos que ficam fora do preço](/precos/custos-alem-do-preco/). As outras questões a esclarecer antes de reservar estão na lista de [perguntas a fazer antes de alugar](/guia-de-aluguer/perguntas-antes-de-alugar/).",
+        "E se a mota já vier suja? Fotografe-a na entrega e diga-o na conversa com a loja. Fica registado o ponto de partida, e ninguém terá dúvidas sobre o estado em que deve voltar. O guia sobre o [momento da entrega da mota](/guia-de-aluguer/receber-a-mota/) mostra como fazer esse registo de forma completa.",
         "Pode fazer estas perguntas por telefone ou Zalo, para o {{phone}}; os restantes dados da loja estão em [contactos](/contactos/)."
       ]
     },
@@ -188,7 +188,7 @@
             ]
           }
         },
-        "Aproveite a limpeza semanal para olhar para a mota com atenção: um pneu gasto, um parafuso solto ou uma mancha de óleo veem-se melhor numa mota limpa. Se notar algo, avise a loja antes de o problema crescer. O guia do [aluguer mensal](/precos/aluguer-mensal-de-mota/) tem uma rotina de verificação completa para um mês inteiro."
+        "Aproveite a limpeza semanal para olhar para a mota com atenção: um pneu gasto, um parafuso solto ou uma mancha de óleo veem-se melhor numa mota limpa. Se notar algo, avise a loja antes de o problema crescer. Quem paga um furo ou uma pequena reparação é algo a combinar à partida, como explica o guia sobre [furos e pequenas reparações](/precos/custo-de-furos-e-reparacoes/). O guia do [aluguer mensal](/precos/aluguer-mensal-de-mota/) tem uma rotina de verificação completa para um mês inteiro."
       ]
     }
   ],
@@ -231,9 +231,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1725,
+    "words": 1779,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

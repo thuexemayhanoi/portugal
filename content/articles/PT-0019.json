@@ -66,7 +66,7 @@
             ]
           }
         },
-        "Nos primeiros dias, faça o trajeto à hora a que o vai fazer sempre. Um percurso tranquilo às 11:00 pode ser outro às 08:00 ou às 18:00. As quatro scooters da loja estão comparadas no guia de [scooters automáticas](/tipos-de-motas/scooters/)."
+        "Nos primeiros dias, faça o trajeto à hora a que o vai fazer sempre. Um percurso tranquilo às 11:00 pode ser outro às 08:00 ou às 18:00. Se ainda hesita entre dois modelos, um [aluguer de mota por um dia](/precos/aluguer-de-mota-por-um-dia/) permite testar o trajeto à hora de ponta antes de se comprometer com semanas ou meses. As quatro scooters da loja estão comparadas no guia de [scooters automáticas](/tipos-de-motas/scooters/)."
       ]
     },
     {
@@ -249,9 +249,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1851,
+    "words": 1880,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }
