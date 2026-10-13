@@ -153,9 +153,9 @@
             ]
           }
         },
-        "Não tire daqui uma conclusão. O autocarro e o carrinho trazem uma visita organizada; a mota traz liberdade e responsabilidade. O que muda o resultado é o seu grupo e o seu dia.",
+        "Não tire daqui uma conclusão. O autocarro e o carrinho trazem uma visita organizada; a mota traz liberdade e responsabilidade. O que muda o resultado é o seu grupo e o seu dia. Para uma conta por distância, o guia do [custo por quilómetro](/precos/custo-por-quilometro/) divide o preço do dia e o combustível pelos km percorridos.",
         "Na segurança, a diferença está em quem conduz. De autocarro ou de carrinho, o viajante não conduz e não depende da sua carta. Na mota, conduz, com capacete e com a habilitação certa: um documento de 2024 da Vital Strategies, que cita a Comissão Nacional de Segurança Rodoviária, indica que os veículos de duas rodas representam 57% de todas as mortes na estrada no Vietname. Não encontrámos dados que comparem o risco por quilómetro do autocarro turístico com o da mota, por isso o guia não faz essa comparação.",
-        "Quanto ao cansaço, o trânsito de Hanói pede atenção constante a quem conduz; quem vai de autocarro ou de carrinho pode olhar à volta e descansar entre paragens."
+        "Quanto ao cansaço, o trânsito de Hanói pede atenção constante a quem conduz; quem vai de autocarro ou de carrinho pode olhar à volta e descansar entre paragens. Se quer sair da cidade de mota sem conduzir, o guia sobre [mota alugada ou easy rider](/precos/mota-alugada-ou-easy-rider/) compara as duas formas."
       ]
     },
     {
@@ -339,9 +339,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1706,
+    "words": 1749,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

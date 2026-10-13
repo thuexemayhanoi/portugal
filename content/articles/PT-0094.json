@@ -57,7 +57,7 @@
             }
           ]
         },
-        "Se uma regra responder só à primeira pergunta — por exemplo, «os danos são descontados da caução» —, peça que lhe expliquem as outras três. É uma pergunta normal e não é sinal de desconfiança: ajuda as duas partes a chegar ao fim do aluguer com a mesma ideia do que foi combinado."
+        "Se uma regra responder só à primeira pergunta — por exemplo, «os danos são descontados da caução» —, peça que lhe expliquem as outras três. É uma pergunta normal e não é sinal de desconfiança: ajuda as duas partes a chegar ao fim do aluguer com a mesma ideia do que foi combinado. Se o valor vier escrito em dong, confirme o número completo antes de aceitar; o guia sobre [como ler preços em dong](/precos/ler-precos-em-dong/) explica os pontos, os zeros e os atalhos das mensagens."
       ]
     },
     {
@@ -215,10 +215,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1866,
+    "words": 1898,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
     "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      },
       {
         "date": "2026-10-13",
         "reason": "Ligações internas para artigos publicados depois"

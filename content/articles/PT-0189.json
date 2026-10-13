@@ -113,11 +113,11 @@
         {
           "h3": "Com semáforo"
         },
-        "Com o vermelho, não avance, mesmo que outras motas o façam. Com o verde, lembre-se de que o trânsito de frente pode estar a avançar ao mesmo tempo: o verde dá-lhe passagem, não um caminho livre. Espere pelo intervalo antes de cruzar. As outras infrações que mais dão multa estão no guia sobre [como evitar multas](/guia-de-aluguer/como-evitar-multas/).",
+        "Com o vermelho, não avance, mesmo que outras motas o façam. Com o verde, lembre-se de que o trânsito de frente pode estar a avançar ao mesmo tempo: o verde dá-lhe passagem, não um caminho livre. Espere pelo intervalo antes de cruzar. As setas, as luzes auxiliares e a contagem decrescente estão explicadas no guia sobre os [semáforos em Hanói](/guia-de-aluguer/semaforos-em-hanoi/). As outras infrações que mais dão multa estão no guia sobre [como evitar multas](/guia-de-aluguer/como-evitar-multas/).",
         {
           "h3": "Sem semáforo"
         },
-        "No [Bairro Antigo](/zonas-de-hanoi/conduzir-no-bairro-antigo/), muitos cruzamentos não têm semáforo. Aí, abrande ainda mais, olhe para todas as direções e só entre quando tiver a certeza de que o viram. A buzina não lhe dá prioridade: a lei só a admite para avisar de um perigo ou antes de uma ultrapassagem, como explica o guia sobre [a buzina no Vietname](/guia-de-aluguer/a-buzina-no-vietname/).",
+        "No [Bairro Antigo](/zonas-de-hanoi/conduzir-no-bairro-antigo/), muitos cruzamentos não têm semáforo. Aí, abrande ainda mais, olhe para todas as direções e só entre quando tiver a certeza de que o viram. Se vier uma mota em contramão ou pelo passeio, veja como reagir no guia sobre [motas em contramão e no passeio](/guia-de-aluguer/motas-em-contramao/). A buzina não lhe dá prioridade: a lei só a admite para avisar de um perigo ou antes de uma ultrapassagem, como explica o guia sobre [a buzina no Vietname](/guia-de-aluguer/a-buzina-no-vietname/).",
         {
           "h3": "Com um agente"
         },
@@ -286,9 +286,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1862,
+    "words": 1901,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

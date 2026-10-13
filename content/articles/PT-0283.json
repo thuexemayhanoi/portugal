@@ -42,7 +42,7 @@
         {
           "ul": [
             "**Curvas apertadas e inclinadas.** Um guia sobre Thung Khe avisa que as curvas e o nevoeiro denso de manhã cedo ou ao fim da tarde podem causar dificuldades.",
-            "**Piso escorregadio.** Quem sai cedo de Hanói pode encontrar, nos passos, nevoeiro muito denso e piso escorregadio.",
+            "**Piso escorregadio.** Quem sai cedo de Hanói pode encontrar, nos passos, nevoeiro muito denso e piso escorregadio. Na cidade, o piso também fica molhado e escorregadio sem chuva durante o nồm, como explica o guia sobre a [humidade nồm em Hanói](/rotas-e-mobilidade/humidade-nom-na-primavera/).",
             "**Queda de pedras.** A Direção de Estradas aponta risco de queda de pedras e de deslizamentos nos taludes altos da QL6 durante a época das chuvas. Na zona de Thung Khe, ao km 128+750, uma pedra caiu sobre um automóvel com chuva e nevoeiro, sem causar vítimas.",
             "**Escuridão e camiões.** De noite, na estação fria, a única luz no passo é a dos faróis da própria mota ou dos camiões e autocarros que vêm em sentido contrário."
           ]
@@ -96,7 +96,7 @@
             ]
           }
         },
-        "Para a última situação, o guia sobre [trocar de mota a meio do aluguer](/guia-de-aluguer/trocar-de-mota/) mostra como pedir outra unidade. E se a viagem tiver uma noite de paragem a meio, inclua-a no plano que combina com a loja."
+        "Para a última situação, o guia sobre [trocar de mota a meio do aluguer](/guia-de-aluguer/trocar-de-mota/) mostra como pedir outra unidade. E se a viagem tiver uma noite de paragem a meio, inclua-a no plano que combina com a loja. Se a viagem calhar num feriado, o guia sobre os [feriados oficiais do Vietname e o trânsito](/rotas-e-mobilidade/feriados-nacionais-e-transito/) ajuda a escolher o dia de partida."
       ]
     },
     {
@@ -300,9 +300,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1633,
+    "words": 1681,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

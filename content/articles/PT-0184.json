@@ -90,7 +90,7 @@
     {
       "h2": "Quando um agente regula o cruzamento",
       "body": [
-        "A lei e a norma de sinalização fixam uma ordem de prioridade entre as instruções: primeiro as ordens do agente, depois os semáforos, a seguir as placas e, por fim, as marcas no chão. Se um agente lhe fizer sinal para avançar com o vermelho, avance; se lhe fizer sinal para parar com o verde, pare.",
+        "A lei e a norma de sinalização fixam uma ordem de prioridade entre as instruções: primeiro as ordens do agente, depois os semáforos, a seguir as placas e, por fim, as marcas no chão. Se um agente lhe fizer sinal para avançar com o vermelho, avance; se lhe fizer sinal para parar com o verde, pare. A mesma ordem de prioridade, e o que fazer perante placas que não reconhece, estão no guia sobre os [sinais de trânsito no Vietname](/guia-de-aluguer/sinais-de-transito-vietnamitas/).",
         "O mesmo raciocínio vale para obras e eventos. Um sinal temporário prevalece sobre o sinal fixo com significado diferente no mesmo local, por isso siga as placas provisórias e os agentes no local, mesmo que o mapa do telemóvel indique outro caminho.",
         "Se for mandado parar, mantenha a calma e tenha os documentos à mão. O guia sobre [o controlo da polícia](/guia-de-aluguer/controlo-da-policia/) explica como agir, e o de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/) diz o que deve levar consigo."
       ]
@@ -258,9 +258,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1797,
+    "words": 1821,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

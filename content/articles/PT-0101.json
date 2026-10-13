@@ -178,7 +178,7 @@
             },
             {
               "title": "Experimente os capacetes",
-              "text": "Aperte a fivela e confirme que o capacete não roda na cabeça. Trocar de tamanho é muito mais fácil agora do que depois de a pessoa ter partido."
+              "text": "Aperte a fivela e confirme que o capacete não roda na cabeça. Trocar de tamanho é muito mais fácil agora do que depois de a pessoa ter partido. Se nenhum lhe assentar bem, o guia sobre [comprar capacete em Hanói](/precos/comprar-capacete-em-hanoi/) explica quando compensa ter o seu."
             },
             {
               "title": "Confira os documentos",
@@ -257,10 +257,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 2156,
+    "words": 2174,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
     "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      },
       {
         "date": "2026-10-13",
         "reason": "Ligações internas para artigos publicados depois"

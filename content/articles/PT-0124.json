@@ -184,7 +184,7 @@
             ]
           }
         },
-        "O metro cobra conforme as estações percorridas e os autocarros têm tarifas próprias. Sem as distâncias de cada trajeto verificadas, não há aqui um custo por km para eles.",
+        "O metro cobra conforme as estações percorridas e os autocarros têm tarifas próprias. Sem as distâncias de cada trajeto verificadas, não há aqui um custo por km para eles. O autocarro turístico e o carrinho elétrico, que também não se pagam por km, estão no guia sobre [autocarro turístico, carrinho elétrico ou mota](/precos/autocarro-turistico-ou-mota/).",
         {
           "h3": "Como se comporta a tarifa de uma aplicação"
         },
@@ -359,9 +359,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 2007,
+    "words": 2031,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

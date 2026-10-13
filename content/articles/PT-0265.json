@@ -95,7 +95,7 @@
             ]
           }
         },
-        "A hora de ponta é a outra variável. A própria cidade aplica, na zona 2 de Hoàn Kiếm, janelas de ponta das 06:00 às 09:00 e das 16:00 às 19:30, para restringir os autocarros grandes. Num dia de semana, chegar às ruas de comida antes das 16:00 ou depois das 19:30 evita o pior do trânsito de regresso a casa.",
+        "A hora de ponta é a outra variável. A própria cidade aplica, na zona 2 de Hoàn Kiếm, janelas de ponta das 06:00 às 09:00 e das 16:00 às 19:30, para restringir os autocarros grandes. Num dia de semana, chegar às ruas de comida antes das 16:00 ou depois das 19:30 evita o pior do trânsito de regresso a casa. Para ocupar a tarde antes do jantar, o [roteiro de pagodes e templos](/rotas-e-mobilidade/roteiro-de-pagodes-e-templos/) é um meio dia de mota que acaba junto ao lago Hoàn Kiếm.",
         "A notícia mais antiga referia seis ruas noturnas do Bairro Antigo, entre elas a Hàng Buồm, com início às 19:00 no verão e às 18:00 no inverno; a informação oficial sobre a zona de baixas emissões fala em 19:00. Para não depender da leitura de um horário, esteja estacionado e a pé antes das 18:00 às sextas, sábados e domingos. As regras do centro estão no guia para [conduzir no Bairro Antigo](/zonas-de-hanoi/conduzir-no-bairro-antigo/)."
       ]
     },
@@ -164,7 +164,7 @@
             "Capacete apertado e telemóvel guardado durante a condução; o mapa vê-se com a mota parada."
           ]
         },
-        "Outros percursos e conselhos de circulação vão sendo reunidos em [Rotas e mobilidade](/rotas-e-mobilidade/). Em caso de dúvida sobre o aluguer, fale com a loja pelos [contactos](/contactos/)."
+        "Quem preferir passar a tarde entre edifícios do período francês tem o [roteiro de arquitetura colonial em Hanói](/rotas-e-mobilidade/roteiro-da-arquitetura-colonial/), com a Ópera e a catedral. Outros percursos e conselhos de circulação vão sendo reunidos em [Rotas e mobilidade](/rotas-e-mobilidade/). Em caso de dúvida sobre o aluguer, fale com a loja pelos [contactos](/contactos/)."
       ]
     }
   ],
@@ -344,11 +344,18 @@
   "date_published": "2026-10-13",
   "date_modified": "2026-10-13",
   "editorial": {
-    "qa_score": 100,
-    "qa_warnings": [],
-    "words": 1956,
+    "qa_score": 98,
+    "qa_warnings": [
+      "word count 2006 outside the topic target 1000–2000"
+    ],
+    "words": 2006,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

@@ -234,7 +234,7 @@
             "**Mudança de alojamento**: avise a loja da nova morada e confirme, antes de assinar o novo arrendamento, onde fica a mota à noite.",
             "**Mudança de estação**: uma estadia de meses passa por semanas de chuva e por semanas frias. Ajuste o equipamento e verifique travões e luzes depois das chuvadas fortes.",
             "**Tết**: se a estadia incluir o Ano Novo Lunar, trate da revisão e da renovação antes dos feriados.",
-            "**Centro histórico**: as restrições previstas para as motas a gasolina em Hoàn Kiếm já mudaram desde a primeira proposta. Antes de contar com trajetos diários pelo centro, consulte o guia da [zona de baixas emissões](/tipos-de-motas/zona-de-baixas-emissoes-hanoi/)."
+            "**Centro histórico**: as restrições previstas para as motas a gasolina em Hoàn Kiếm já mudaram desde a primeira proposta. Antes de contar com trajetos diários pelo centro, consulte o guia da [zona de baixas emissões](/tipos-de-motas/zona-de-baixas-emissoes-hanoi/). Os fins de semana de mota, de sexta a domingo, estão planeados dia a dia no guia da [mota para o fim de semana em Hanói](/precos/mota-para-o-fim-de-semana/)."
           ]
         }
       ]
@@ -285,9 +285,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 2414,
+    "words": 2440,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

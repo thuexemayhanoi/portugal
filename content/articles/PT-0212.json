@@ -98,7 +98,7 @@
             ]
           }
         },
-        "Num acidente de mota com internamento, por exemplo, o apoio consular pode ajudar a estabelecer o contacto com o hospital. O tratamento é pago por si ou pela sua seguradora, se a apólice cobrir a condução de mota.",
+        "Num acidente de mota com internamento, por exemplo, o apoio consular pode ajudar a estabelecer o contacto com o hospital. As unidades mais referidas para estrangeiros estão no guia sobre [que hospital ou clínica procurar sendo estrangeiro](/guia-de-aluguer/hospitais-para-estrangeiros/). O tratamento é pago por si ou pela sua seguradora, se a apólice cobrir a condução de mota.",
         "Se perder o passaporte, contacte o GEC e pergunte que passos se seguem até poder viajar. Na estrada, o que conta continua a ser a carta com a categoria certa e a licença internacional. Se também as perdeu, não conduza enquanto não tiver de novo os documentos: o guia sobre [conduzir sem carta válida](/guia-de-aluguer/conduzir-sem-carta-valida/) explica o que está em jogo."
       ]
     },
@@ -258,9 +258,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1545,
+    "words": 1562,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

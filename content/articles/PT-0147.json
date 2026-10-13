@@ -152,7 +152,7 @@
             "o número da loja, {{phone}}, guardado no telemóvel, e a morada em vietnamita: {{address.vi}}."
           ]
         },
-        "O registo, o seguro e a carta adequada são exigidos pela lei de trânsito de 2024 a quem conduz, em qualquer estrada; a licença internacional é o documento que, como visitante, acompanha a carta do seu país. O guia dos [documentos da mota alugada](/guia-de-aluguer/documentos-da-mota-alugada/) explica como conferir os papéis com a mota, e o da [Licença Internacional de Condução](/guia-de-aluguer/licenca-internacional-de-conducao/) mostra como a pedir em Portugal.",
+        "O registo, o seguro e a carta adequada são exigidos pela lei de trânsito de 2024 a quem conduz, em qualquer estrada; a licença internacional é o documento que, como visitante, acompanha a carta do seu país. O guia dos [documentos da mota alugada](/guia-de-aluguer/documentos-da-mota-alugada/) explica como conferir os papéis com a mota, e o da [Licença Internacional de Condução](/guia-de-aluguer/licenca-internacional-de-conducao/) mostra como a pedir em Portugal. Se só tem a carta B, veja no guia sobre [carta B e motas de 125 cc](/guia-de-aluguer/carta-b-e-motas-ate-125cc/) o que vale em Portugal e o que está por confirmar no Vietname.",
         "Confirme ainda, no seu seguro de viagem, se a condução de uma mota está coberta e em que condições. Essa resposta só a seguradora a pode dar."
       ]
     },
@@ -239,10 +239,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1903,
+    "words": 1933,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
     "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      },
       {
         "date": "2026-10-13",
         "reason": "Ligações internas para artigos publicados depois"

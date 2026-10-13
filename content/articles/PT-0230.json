@@ -181,7 +181,7 @@
             },
             {
               "title": "Combine com a loja",
-              "text": "Para levantar ou devolver a mota, confirme as horas pelo {{phone}}."
+              "text": "Para levantar ou devolver a mota, confirme as horas pelo {{phone}}. O guia para quem [fica no Bairro Antigo e quer alugar](/zonas-de-hanoi/fica-no-bairro-antigo-e-quer-alugar/) explica como organizar o levantamento em Long Biên."
             }
           ]
         },
@@ -369,9 +369,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1969,
+    "words": 1988,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

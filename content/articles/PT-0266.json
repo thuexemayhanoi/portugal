@@ -103,13 +103,13 @@
             }
           ]
         },
-        "Trate Ba Đình como uma etapa à parte. Na mesma zona, o Mausoléu de Hồ Chí Minh, que não é do período colonial, está fechado para manutenção de 4 de setembro a 2 de novembro de 2026, segundo a imprensa vietnamita, e volta a receber visitantes a 3 de novembro."
+        "Trate Ba Đình como uma etapa à parte. Na mesma zona, o Mausoléu de Hồ Chí Minh, que não é do período colonial, está fechado para manutenção de 4 de setembro a 2 de novembro de 2026, segundo a imprensa vietnamita, e volta a receber visitantes a 3 de novembro. Para visitar a Cidadela Imperial e outros museus de Ba Đình e de outras zonas, com os dias de fecho, veja o [roteiro de museus de Hanói de mota](/rotas-e-mobilidade/roteiro-dos-museus/)."
       ]
     },
     {
       "h2": "Quando ir: noites de fim de semana, hora de ponta e eventos",
       "body": [
-        "À data de 13 de outubro de 2026, a primeira fase do piloto da zona de baixas emissões de Hanói decorre de 1 de julho a 31 de dezembro de 2026. Na zona 1, motas, ciclomotores e automóveis não podem entrar de sexta a domingo, das 19:00 às 24:00. A lista oficial de ruas inclui a Tràng Tiền, onde fica a Ópera, e a Lê Thái Tổ. A regra vale para qualquer mota, a gasolina ou elétrica. Quem quiser ver a Ópera à noite, de sexta a domingo, tem de ir a pé a partir de um parque fora da zona.",
+        "À data de 13 de outubro de 2026, a primeira fase do piloto da zona de baixas emissões de Hanói decorre de 1 de julho a 31 de dezembro de 2026. Na zona 1, motas, ciclomotores e automóveis não podem entrar de sexta a domingo, das 19:00 às 24:00. A lista oficial de ruas inclui a Tràng Tiền, onde fica a Ópera, e a Lê Thái Tổ. A regra vale para qualquer mota, a gasolina ou elétrica. Quem quiser ver a Ópera à noite, de sexta a domingo, tem de ir a pé a partir de um parque fora da zona. Se a ideia for jantar por perto, o [roteiro de comida de rua](/rotas-e-mobilidade/roteiro-de-comida-de-rua/) explica o que muda para a mota nessas noites.",
         "Fora dessas noites, o melhor é fazer o roteiro de manhã e no início da tarde. A própria cidade aplica, na zona 2 de Hoàn Kiếm, janelas de ponta das 06:00 às 09:00 e das 16:00 às 19:30, para restringir os autocarros grandes, e é razoável tomá-las como referência para evitar o pior do trânsito.",
         "Os eventos também fecham ruas. Na passagem de 2025 para 2026, a Tràng Tiền, a Hàng Bài, a Tràng Thi, a Nhà Chung e o troço central da Bà Triệu estiveram entre as ruas cortadas ou condicionadas, da noite de 31 de dezembro à madrugada de 1 de janeiro. Em feriados e eleições, o espaço pedonal do lago também pode ser alargado ou suspenso. O guia para [conduzir no Bairro Antigo](/zonas-de-hanoi/conduzir-no-bairro-antigo/) resume estas regras."
       ]
@@ -345,9 +345,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1874,
+    "words": 1925,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

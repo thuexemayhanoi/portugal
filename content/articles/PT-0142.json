@@ -172,7 +172,7 @@
             "**Álcool zero e percursos sem autoestrada**: deixe a mota no alojamento nas noites com bebidas, como se explica no guia sobre [álcool e condução](/guia-de-aluguer/alcool-zero-ao-volante/), e confirme que o percurso para fora de Hanói não passa por uma «cao tốc», as autoestradas proibidas às motas."
           ]
         },
-        "Se a polícia o mandar parar, a forma de agir e os documentos a mostrar estão no guia do [controlo da polícia](/guia-de-aluguer/controlo-da-policia/). As multas registadas por câmara seguem outro caminho, porque são notificadas ao proprietário da mota: veja [quem paga as multas de trânsito numa mota alugada](/precos/multas-de-transito-no-aluguer/). E, antes de partir, confirme que a sua habilitação cobre a mota que vai alugar: o guia sobre [conduzir sem carta válida](/guia-de-aluguer/conduzir-sem-carta-valida/) mostra as falhas mais comuns. As restantes regras de base estão no [guia de aluguer](/guia-de-aluguer/)."
+        "Se a polícia o mandar parar, a forma de agir e os documentos a mostrar estão no guia do [controlo da polícia](/guia-de-aluguer/controlo-da-policia/). As multas registadas por câmara seguem outro caminho, porque são notificadas ao proprietário da mota: veja [quem paga as multas de trânsito numa mota alugada](/precos/multas-de-transito-no-aluguer/). Para saber se a matrícula da mota tem alguma multa por câmara pendente, siga os passos do guia sobre [como consultar multas por câmara](/guia-de-aluguer/consultar-multas-por-camara/). E, antes de partir, confirme que a sua habilitação cobre a mota que vai alugar: o guia sobre [conduzir sem carta válida](/guia-de-aluguer/conduzir-sem-carta-valida/) mostra as falhas mais comuns. As restantes regras de base estão no [guia de aluguer](/guia-de-aluguer/)."
       ]
     }
   ],
@@ -329,9 +329,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1931,
+    "words": 1955,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

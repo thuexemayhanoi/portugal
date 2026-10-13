@@ -83,7 +83,7 @@
           "steps": [
             {
               "title": "Veja-a cedo",
-              "text": "Olhe para lá da mota da frente, sobretudo à entrada de ruas de sentido único e nos cruzamentos. Quanto mais cedo vir o perigo, mais tempo tem para abrandar."
+              "text": "Olhe para lá da mota da frente, sobretudo à entrada de ruas de sentido único e nos cruzamentos. Quanto mais cedo vir o perigo, mais tempo tem para abrandar. Se for um cruzamento em que vai virar à esquerda, o guia sobre [virar à esquerda de mota em Hanói](/guia-de-aluguer/virar-a-esquerda/) explica como esperar um intervalo seguro no trânsito que vem de frente."
             },
             {
               "title": "Abrande e mantenha a linha",
@@ -294,9 +294,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1964,
+    "words": 1996,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

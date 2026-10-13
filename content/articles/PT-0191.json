@@ -101,7 +101,7 @@
             },
             {
               "title": "Travões",
-              "text": "Com a mota parada, aperte cada manete e empurre a mota: a roda deve ficar presa e soltar-se ao largar. Repare se a manete chega mais perto do punho do que na semana passada ou se há um ruído novo."
+              "text": "Com a mota parada, aperte cada manete e empurre a mota: a roda deve ficar presa e soltar-se ao largar. Repare se a manete chega mais perto do punho do que na semana passada ou se há um ruído novo. Os travões são a margem que a [condução defensiva em Hanói](/guia-de-aluguer/conducao-defensiva/) conta ter para o erro dos outros."
             },
             {
               "title": "Corrente (semiautomáticas)",
@@ -343,9 +343,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 2004,
+    "words": 2022,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

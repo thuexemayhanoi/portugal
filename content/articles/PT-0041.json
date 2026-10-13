@@ -74,7 +74,7 @@
         {
           "ul": [
             "**Semáforos**: quando o sinal muda, o grupo de motas acelera de uma vez. Numa 50 cc, perde terreno nos primeiros metros e é ultrapassado pelos dois lados; numa scooter de 110 cm³, sai com os outros.",
-            "**Avenidas largas e anéis viários**: o trânsito circula mais depressa, e a velocidade de projeto de uma 50 cc, que não passa de 50 km/h, deixa pouca reserva. Ir muito abaixo do ritmo geral obriga os outros a contorná-lo, o que também é um risco.",
+            "**Avenidas largas e anéis viários**: o trânsito circula mais depressa, e a velocidade de projeto de uma 50 cc, que não passa de 50 km/h, deixa pouca reserva. Ir muito abaixo do ritmo geral obriga os outros a contorná-lo, o que também é um risco. A diferença entre a velocidade de projeto e o limite legal está no guia sobre a [velocidade de uma 50 cc no Vietname](/tipos-de-motas/velocidade-de-uma-50cc/).",
             "**Mudanças de faixa**: com pouca potência, cada manobra demora mais, e o espaço que viu livre pode fechar-se antes de a terminar."
           ]
         },
@@ -172,7 +172,7 @@
             ]
           }
         },
-        "Na dúvida, a 110 cm³ é a opção mais tolerante: serve os trajetos curtos quase tão bem como a 50 cc e não o deixa sem margem nos mais exigentes. A 50 cc é uma escolha para um uso concreto, que já sabe de antemão que vai ser curto e calmo. Se ainda está a decidir entre scooters, semiautomáticas e elétricas, comece pela página de [tipos de motas](/tipos-de-motas/)."
+        "Na dúvida, a 110 cm³ é a opção mais tolerante: serve os trajetos curtos quase tão bem como a 50 cc e não o deixa sem margem nos mais exigentes. A 50 cc é uma escolha para um uso concreto, que já sabe de antemão que vai ser curto e calmo. Se ainda está a decidir entre scooters, semiautomáticas e elétricas, comece pela página de [tipos de motas](/tipos-de-motas/). Se a dúvida é só entre a 50 cc e a elétrica, o guia sobre [50 cc ou mota elétrica na cidade](/tipos-de-motas/50cc-ou-mota-eletrica/) compara as duas."
       ]
     },
     {
@@ -256,9 +256,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 2153,
+    "words": 2201,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

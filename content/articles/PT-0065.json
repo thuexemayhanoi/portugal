@@ -77,7 +77,7 @@
         "Durante a primeira fase, não deve ser o fator decisivo. A restrição das noites de fim de semana não distingue motores e, fora dela, ambos circulam. A escolha deve partir do uso que vai dar à mota, como explica a página de [tipos de motas](/tipos-de-motas/).",
         {
           "ul": [
-            "**Mota elétrica**: silenciosa e sem idas à bomba de gasolina, mas obriga a planear o carregamento. Na tabela de referência custa {{price.eletrica.day}} por dia, {{cmp.eletrica.vision.day}} a Honda Vision. Antes de reservar, pergunte à loja a autonomia real da unidade e onde a pode carregar.",
+            "**Mota elétrica**: silenciosa e sem idas à bomba de gasolina, mas obriga a planear o carregamento. Na tabela de referência custa {{price.eletrica.day}} por dia, {{cmp.eletrica.vision.day}} a Honda Vision. Antes de reservar, pergunte à loja a autonomia real da unidade e onde a pode carregar. O guia sobre [alugar uma mota elétrica em Hanói](/tipos-de-motas/aluguer-de-mota-eletrica-em-hanoi/) explica com mais pormenor a autonomia e a carga.",
             "**Scooter automática a gasolina**: abastece em qualquer bomba e não obriga a fazer contas à bateria, o que simplifica dias com muitas travessias da cidade. Compare os modelos na página de [scooters automáticas](/tipos-de-motas/scooters/)."
           ]
         },
@@ -300,10 +300,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 2381,
+    "words": 2399,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
     "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      },
       {
         "date": "2026-10-13",
         "reason": "Ligações internas para artigos publicados depois"

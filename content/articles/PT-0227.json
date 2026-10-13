@@ -107,7 +107,7 @@
         {
           "h3": "Cortes de trânsito"
         },
-        "Na passagem de 2025 para 2026, da noite de 31 de dezembro à madrugada de 1 de janeiro, a rua Nhà Chung esteve cortada ou condicionada, tal como Đinh Tiên Hoàng, Hàng Khay, Lê Thái Tổ, Tràng Tiền, Hàng Bài, Tràng Thi e o troço central da Bà Triệu. É um exemplo de como as festas do lago chegam à zona da catedral. Não encontrámos um calendário oficial único de cortes.",
+        "Na passagem de 2025 para 2026, da noite de 31 de dezembro à madrugada de 1 de janeiro, a rua Nhà Chung esteve cortada ou condicionada, tal como Đinh Tiên Hoàng, Hàng Khay, Lê Thái Tổ, Tràng Tiền, Hàng Bài, Tràng Thi e o troço central da Bà Triệu. É um exemplo de como as festas do lago chegam à zona da catedral. Não encontrámos um calendário oficial único de cortes; o guia sobre [eventos e cortes de trânsito no centro de Hanói](/zonas-de-hanoi/eventos-e-cortes-de-transito/) reúne o que a imprensa documentou, ocasião a ocasião.",
         {
           "h3": "Noites de fim de semana"
         },
@@ -312,9 +312,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1787,
+    "words": 1808,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

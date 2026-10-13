@@ -165,7 +165,7 @@
       "h2": "E se a mota for elétrica?",
       "body": [
         "A VinFast indica a proteção IP67 nas fichas da Evo200, da Feliz S e da Vento S; na da Evo200, descreve-a como submersão a 0,5 m durante 30 minutos. São valores de fabricante para esses modelos, e não uma altura de água segura numa rua alagada. O modelo que a loja entrega pode, além disso, ser outro.",
-        "As fontes consultadas não dizem até que altura de água uma scooter elétrica pode entrar, nem o que fazer à bateria depois de uma submersão. Por isso, a regra prudente é a mesma, com um acrescento: depois de uma passagem por água, não ligue nem carregue a mota elétrica sem indicação da loja, e envie as mesmas fotografias e a mesma mensagem. No levantamento, pergunte como a loja quer que proceda se a mota apanhar água."
+        "As fontes consultadas não dizem até que altura de água uma scooter elétrica pode entrar, nem o que fazer à bateria depois de uma submersão. Por isso, a regra prudente é a mesma, com um acrescento: depois de uma passagem por água, não ligue nem carregue a mota elétrica sem indicação da loja, e envie as mesmas fotografias e a mesma mensagem. No levantamento, pergunte como a loja quer que proceda se a mota apanhar água. Se a mota, elétrica ou a gasolina, não pegar sem ter passado por água, o caso é outro: veja o guia sobre [bateria descarregada na scooter ou mota elétrica](/guia-de-aluguer/bateria-descarregada/)."
       ]
     },
     {
@@ -293,9 +293,14 @@
     "qa_warnings": [
       "source code W: Dados meteorológicos oficiais (Centro Nacional de Previsão Hidrometeorológica) ou climatologia reconhecida."
     ],
-    "words": 2135,
+    "words": 2164,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

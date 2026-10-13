@@ -65,7 +65,7 @@
       "body": [
         "A margem de erro é o tempo e o espaço que lhe sobram quando alguém se engana. Compra-se sobretudo com velocidade baixa, porque a distância de paragem cresce com ela. A regra 126 do Highway Code manda nunca ficar mais perto do veículo da frente do que a distância total de paragem. Como referência, pede pelo menos dois segundos de intervalo em vias com trânsito mais rápido e o dobro com o piso molhado; o guia da Irlanda do Norte diz o mesmo para a chuva (regra 227).",
         "São boas práticas britânicas. Nas ruas lentas e cheias de motas de Hanói nem sempre é possível guardar dois segundos; nesses casos, compense com menos velocidade e com mais atenção às janelas de 4 e de 12 segundos.",
-        "Os travões fazem parte da margem. Dois manuais de proprietário da Honda, de motas de maior cilindrada do que as scooters de aluguer, dizem que o travão da frente dá cerca de 70% da força total de travagem e que, para a máxima eficácia, se usam os dois ao mesmo tempo. Se uma roda bloquear, soltam-se os travões, mantém-se a direção a direito até recuperar o controlo e volta-se a travar com mais suavidade.",
+        "Os travões fazem parte da margem. Dois manuais de proprietário da Honda, de motas de maior cilindrada do que as scooters de aluguer, dizem que o travão da frente dá cerca de 70% da força total de travagem e que, para a máxima eficácia, se usam os dois ao mesmo tempo. Se uma roda bloquear, soltam-se os travões, mantém-se a direção a direito até recuperar o controlo e volta-se a travar com mais suavidade. Num aluguer de vários meses, o estado dos travões e dos pneus acompanha-se na rotina semanal do guia sobre [manutenção da mota num aluguer longo](/guia-de-aluguer/manutencao-num-aluguer-longo/).",
         "Pergunte à loja, ao [receber a mota](/guia-de-aluguer/receber-a-mota/), se tem ABS e qual comando trava qual roda: não encontrámos informação que valha para todos os modelos de aluguer."
       ]
     },
@@ -242,9 +242,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1600,
+    "words": 1625,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

@@ -138,7 +138,7 @@
     {
       "h2": "Click, Mio, Vision ou Air Blade?",
       "body": [
-        "A Click faz sentido quando o critério principal é o custo e as deslocações são sobretudo urbanas e a solo. Se nenhuma Click estiver livre nas suas datas, a Yamaha Mio é a alternativa mais direta: também automática, de pequena cilindrada e, ao dia, custa {{cmp.mio.click.day}} a Click. Para os outros casos:",
+        "A Click faz sentido quando o critério principal é o custo e as deslocações são sobretudo urbanas e a solo. Se nenhuma Click estiver livre nas suas datas, a [Yamaha Mio](/tipos-de-motas/yamaha-mio-em-hanoi/) é a alternativa mais direta: também automática, de pequena cilindrada e, ao dia, custa {{cmp.mio.click.day}} a Click. Para os outros casos:",
         {
           "ul": [
             "**[Honda Vision](/tipos-de-motas/honda-vision-em-hanoi/)**: um modelo que a Honda Vietname continua a vender, para quem aceita pagar {{price.vision.day}} por dia por uma scooter urbana do mesmo género.",
@@ -267,6 +267,10 @@
     "publish_mode": "review",
     "approved_at": "2026-10-13",
     "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      },
       {
         "date": "2026-10-13",
         "reason": "Ligações internas para artigos publicados depois"

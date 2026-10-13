@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.5.0 — 2026-10-13 · 237 artigos, guarda de colisões e auditoria
+
+- **152 artigos novos** (237/300), todos com 0 erros de QA; 20 revisões de artigos publicados (ressalva das coimas de Hanói desde julho de 2026, escalões das coimas por álcool, números de emergência 113/114/115/112, ligações internas para os artigos novos).
+- **AI Content Collision Guard** (`node scripts/guard.mjs`): cada tema é comparado com os URLs publicados, os rascunhos e os outros temas antes de entrar na fila (ALLOW_CREATE, UPGRADE_EXISTING, REVIEW_COLLISION, REJECT_DUPLICATE). Rascunhos em `_factory/hold/` nunca voltam à fila.
+- **Auditoria de conteúdo** (`node scripts/audit-content.mjs` → `docs/audit/`): inventário, canibalização, cobertura, entidades, ligações internas e backlog.
+- QA de fontes: títulos que são notas, slugs ou «Thông tin văn bản» são rejeitados.
+- 63 temas ficam por escrever: 10 à espera de decisão humana (possível sobreposição) e 53 por falta de factos verificados.
+
 ## 1.4.0 — 2026-10-13 · 85 artigos e ligações internas entre eles
 
 - **21 artigos novos** (85/300). Cobrem, entre outros:

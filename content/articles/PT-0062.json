@@ -95,7 +95,7 @@
         {
           "h3": "Nas ruas e na zona de baixas emissões"
         },
-        "Nas ruas e pontes de Hanói, não encontrámos fonte que diga em que faixas, passeios ou zonas pedonais a bicicleta elétrica pode circular. O que está confirmado para as motas, como a proibição de circular no passeio, explica-se no guia para [evitar multas de trânsito](/guia-de-aluguer/como-evitar-multas/); não o aplique nem o dispense por analogia.",
+        "Nas ruas e pontes de Hanói, não encontrámos fonte que diga em que faixas, passeios ou zonas pedonais a bicicleta elétrica pode circular. O que está confirmado para as motas, como a proibição de circular no passeio, explica-se no guia para [evitar multas de trânsito](/guia-de-aluguer/como-evitar-multas/); não o aplique nem o dispense por analogia. Quanto à chuva e às ruas alagadas, o guia da [mota elétrica à chuva em Hanói](/tipos-de-motas/mota-eletrica-e-chuva/) reúne os alagamentos noticiados e o que perguntar à loja, mas refere-se à mota elétrica e não à bicicleta: pergunte à loja o que vale para a unidade que vai levar.",
         "O mesmo vale para a zona de baixas emissões de Hoàn Kiếm. Segundo as fontes citadas no guia da [zona de baixas emissões de Hanói](/tipos-de-motas/zona-de-baixas-emissoes-hanoi/), a zona 1 fecha às motas, aos ciclomotores e aos automóveis às sextas, sábados e domingos, das 19:00 às 24:00. As fontes consultadas não tratam as bicicletas elétricas, por isso pergunte à loja e, no local, obedeça às barreiras e aos sinais."
       ]
     },
@@ -257,9 +257,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1816,
+    "words": 1863,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

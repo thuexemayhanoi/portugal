@@ -92,7 +92,7 @@
       "h2": "Ruído e condução na cidade: o que não conseguimos confirmar",
       "body": [
         "Não encontrámos medições de ruído, em decibéis, das motas de aluguer, nem uma comparação fiável de manutenção ou de avarias entre as duas opções. Sem motor de combustão, é razoável esperar uma elétrica mais silenciosa, mas é uma expectativa, não uma medição. O silêncio tem um reverso prático: peões e outros condutores podem não dar pela chegada da mota, sobretudo em ruas estreitas, como as do [Bairro Antigo](/zonas-de-hanoi/conduzir-no-bairro-antigo/). Com uma elétrica, abrande mais cedo.",
-        "Do lado da 50 cc, o que pesa é a margem de potência: com um limite de 40 km/h e um motor pequeno, perde aceleração com passageiro ou bagagem. O guia [50cc ou 110cc](/tipos-de-motas/scooter-50cc-ou-110cc/) compara-a com uma scooter maior, e há um artigo sobre a [50 cc com passageiro](/tipos-de-motas/50cc-com-passageiro/)."
+        "Do lado da 50 cc, o que pesa é a margem de potência: com um limite de 40 km/h e um motor pequeno, perde aceleração com passageiro ou bagagem. O guia [50cc ou 110cc](/tipos-de-motas/scooter-50cc-ou-110cc/) compara-a com uma scooter maior, e há um artigo sobre a [50 cc com passageiro](/tipos-de-motas/50cc-com-passageiro/). Como a 50 cc anda abaixo do ritmo de parte do trânsito, convém escolher bem as vias, como explica o guia dos [trajetos de 50 cc em Hanói](/tipos-de-motas/trajetos-para-uma-50cc/), e saber como [ser visto numa 50 cc](/tipos-de-motas/ser-visto-numa-50cc/), da roupa aos espelhos e à posição na faixa."
       ]
     },
     {
@@ -290,11 +290,18 @@
   "date_published": "2026-10-13",
   "date_modified": "2026-10-13",
   "editorial": {
-    "qa_score": 100,
-    "qa_warnings": [],
-    "words": 2196,
+    "qa_score": 98,
+    "qa_warnings": [
+      "word count 2241 outside the topic target 1200–2200"
+    ],
+    "words": 2241,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

@@ -74,7 +74,7 @@
     {
       "h2": "O calendário de 2027: o que se sabia em setembro de 2026",
       "body": [
-        "Para 2027, as fontes consultadas só esclarecem o Tết. O primeiro dia do ano lunar Đinh Mùi é sábado, 6 de fevereiro, e o Ministério do Interior propôs, para a função pública, sete dias seguidos de férias, de quinta-feira, 4, a quarta-feira, 10 de fevereiro. A decisão cabe ao Primeiro-Ministro e, nas notícias mais recentes consultadas, de 2 de setembro de 2026, ainda não era conhecida.",
+        "Para 2027, as fontes consultadas só esclarecem o Tết. O primeiro dia do ano lunar Đinh Mùi é sábado, 6 de fevereiro, e o Ministério do Interior propôs, para a função pública, sete dias seguidos de férias, de quinta-feira, 4, a quarta-feira, 10 de fevereiro. A decisão cabe ao Primeiro-Ministro e, nas notícias mais recentes consultadas, de 2 de setembro de 2026, ainda não era conhecida. As datas, o trânsito antes da festa e os serviços que mudam de horário estão detalhados no guia sobre o [Tết de 2027 em Hanói](/rotas-e-mobilidade/tet-em-hanoi/).",
         "As empresas privadas fixam os seus próprios dias de Tết, sem descer abaixo dos cinco. Para os restantes feriados, as fontes consultadas não confirmam o calendário de 2027, as eventuais folgas nem a data do Dia dos Reis Hùng.",
         {
           "h3": "Mudanças em discussão no Código do Trabalho"
@@ -136,7 +136,7 @@
             ]
           }
         },
-        "O 2 de Setembro merece mais atenção numa saída para a montanha. Julho é apresentado como o pico da época das tempestades, mas a imprensa vietnamita também alerta para tempestades fortes e muito fortes no fim da época. Antes de partir, acompanhe os alertas do Centro Nacional de Previsão Hidrometeorológica (Trung tâm Dự báo Khí tượng Thủy văn Quốc gia), que a imprensa cita nas previsões, e adie a viagem se houver aviso de tempestade ou de cheias no percurso."
+        "O 2 de Setembro merece mais atenção numa saída para a montanha. Julho é apresentado como o pico da época das tempestades, mas a imprensa vietnamita também alerta para tempestades fortes e muito fortes no fim da época. Antes de partir, acompanhe os alertas do Centro Nacional de Previsão Hidrometeorológica (Trung tâm Dự báo Khí tượng Thủy văn Quốc gia), que a imprensa cita nas previsões, e adie a viagem se houver aviso de tempestade ou de cheias no percurso. Nas estradas de montanha, o nevoeiro é outro motivo para adiar: o guia sobre o [nevoeiro nas estradas de montanha do Norte](/rotas-e-mobilidade/nevoeiro-nas-estradas-de-montanha/) explica quando não partir e como conduzir se ele aparecer."
       ]
     },
     {
@@ -414,9 +414,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1737,
+    "words": 1794,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }
