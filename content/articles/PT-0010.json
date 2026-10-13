@@ -108,7 +108,7 @@
         {
           "h3": "O que a cilindrada muda na condução"
         },
-        "Sozinho e dentro da cidade, uma scooter de 110 ou de 125 cm³ chega para o trânsito de Hanói, onde a velocidade é baixa e as paragens são frequentes. Os 160 cm³ fazem diferença sobretudo com passageiro, nas rampas das pontes sobre o rio Vermelho e nas avenidas largas. Se a sua carta só cobre a A1, escolha a scooter com mais folga dentro desse limite."
+        "Sozinho e dentro da cidade, uma scooter de 110 ou de 125 cm³ chega para o trânsito de Hanói, onde a velocidade é baixa e as paragens são frequentes. Os 160 cm³ fazem diferença sobretudo com passageiro, nas rampas das pontes sobre o rio Vermelho e nas avenidas largas. Se a sua carta só cobre a A1, escolha a scooter com mais folga dentro desse limite. Se vai andar a dois, o guia sobre [scooters para duas pessoas](/tipos-de-motas/scooter-para-duas-pessoas/) compara os modelos da loja com passageiro e lembra as regras do capacete."
       ]
     },
     {
@@ -276,9 +276,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1714,
+    "words": 1739,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

@@ -181,6 +181,7 @@
             "Planeie a travessia fora das horas de ponta e com luz do dia, se for a primeira vez."
           ]
         },
+        "Se ainda vai levantar a mota, o guia de [aluguer de motas em Long Biên](/zonas-de-hanoi/aluguer-de-motas-em-long-bien/) ajuda a escolher a hora, chegar à loja e preparar o que levar. Se fica do lado do Bairro Antigo e prefere não começar pela travessia, pergunte se a mota pode ser entregue no alojamento: a [entrega da mota no hotel](/precos/entrega-da-mota-no-hotel/) é combinada caso a caso, e o guia diz o que confirmar antes de marcar.",
         "A ponte é também a primeira paragem do itinerário de [Hanói de mota num dia](/rotas-e-mobilidade/hanoi-de-mota-num-dia/), que continua pelo Bairro Antigo e pelos lagos. Se só precisa da mota para uma saída destas, veja como funciona o [aluguer de mota por um dia](/precos/aluguer-de-mota-por-um-dia/). Para dúvidas sobre o levantamento ou a devolução, fale com a loja através dos [contactos](/contactos/); outros guias por bairro estão reunidos em [Zonas de Hanói](/zonas-de-hanoi/)."
       ]
     }
@@ -251,9 +252,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1602,
+    "words": 1673,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

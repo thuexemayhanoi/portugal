@@ -158,7 +158,7 @@
       "h2": "Pneu vazio de manhã: não arranque com ele",
       "body": [
         "Um pneu vazio parece o problema mais simples, mas conduzir com ele, mesmo poucos metros, pode estragar o pneu e a jante e torna a mota instável. Se o pneu está claramente em baixo, não arranque.",
-        "Diga à loja se o pneu está completamente vazio ou apenas com pouca pressão e se vê algum prego, parafuso ou corte. Se a loja indicar uma oficina próxima, leve a mota até lá à mão, com o motor desligado. Em muitas ruas de Hanói há pequenas oficinas que reparam furos, assinaladas com «vá xe».",
+        "Diga à loja se o pneu está completamente vazio ou apenas com pouca pressão e se vê algum prego, parafuso ou corte. Se a loja indicar uma oficina próxima, leve a mota até lá à mão, com o motor desligado. Em muitas ruas de Hanói há pequenas oficinas que reparam furos, assinaladas com «vá xe». A ajuda a procurar para cada problema, e o que fazer se a mota não puder andar, está no guia sobre [assistência na estrada no Vietname](/guia-de-aluguer/assistencia-na-estrada/).",
         "Um pneu vazio depois de uma noite parado pode ser apenas o fim de um furo lento que começou na véspera. Por isso, olhe para os pneus quando estaciona: se um já parecia em baixo, diga-o à loja nessa mesma noite."
       ]
     },
@@ -229,9 +229,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1860,
+    "words": 1886,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

@@ -1,0 +1,255 @@
+{
+  "contract_version": 1,
+  "id": "PT-0085",
+  "slug": "varias-motas-para-familias",
+  "title": "Várias motas para a família em Hanói: quantas e como organizar",
+  "description": "Vai a Hanói em família? Como contar quantas motas alugar, o que a lei diz sobre crianças como passageiras e o que pôr no pedido de orçamento à loja.",
+  "h1": "Família em Hanói: quantas motas alugar, quem leva as crianças e como pedir o orçamento",
+  "summary": "Numa família, o número de motas depende de quantos adultos têm carta válida para motociclos: cada mota precisa de um condutor habilitado e, regra geral, leva um só passageiro; a lei só admite dois em situações excecionais, entre elas o transporte de uma criança com menos de 12 anos. Os preços de referência são por veículo, por isso o orçamento soma uma tarifa por mota.",
+  "key_points": [
+    "Conte primeiro os condutores: cada mota precisa de um adulto com carta válida para a categoria e, sendo visitante, com a licença internacional reconhecida no Vietname.",
+    "Regra geral, um passageiro por mota; dois só em quatro situações excecionais previstas na lei, entre elas transportar uma criança com menos de 12 anos.",
+    "Capacete apertado para todos os que vão na mota: antes de reservar, pergunte à loja se tem capacetes do tamanho de cada criança.",
+    "Os preços de referência são por veículo, entre {{price.min.day}} e {{price.max.day}} por dia: duas motas são duas tarifas, e o total confirma-se com a loja.",
+    "Com malas, chuva forte, à noite ou em trajetos longos, levar parte da família de táxi é muitas vezes mais sensato do que forçar a mota."
+  ],
+  "intro": [
+    "Explorar Hanói de mota em família segue uma lógica diferente da de um casal ou de quem viaja sozinho. A questão deixa de ser só o modelo: é preciso decidir quantas motas alugar, quem conduz cada uma, onde vão as crianças e o que fazer nos dias em que a mota não serve a todos.",
+    "Este guia ajuda a fazer essas contas pela ordem certa: primeiro os condutores, depois os passageiros, a seguir os capacetes, o orçamento e a organização das deslocações. As regras de passageiros aqui resumidas foram consultadas a 12 de outubro de 2026, e os preços de referência de cada modelo estão na [página de preços](/precos/)."
+  ],
+  "sections": [
+    {
+      "h2": "Quantas motas: comece por contar os condutores",
+      "body": [
+        "A primeira pergunta não é quantas pessoas viajam, mas quantos adultos podem conduzir. Cada mota precisa de alguém ao guiador com carta válida para a categoria do veículo: no Vietname, desde 2025, a categoria A1 cobre os motociclos até 125 cm³ e a categoria A os de cilindrada superior. Como visitante, cada condutor leva também a licença internacional reconhecida no país, explicada no guia da [Licença Internacional de Condução](/guia-de-aluguer/licenca-internacional-de-conducao/).",
+        "Um adulto sem carta de motociclos, ou sem experiência no trânsito de uma grande cidade, conta como passageiro e não como condutor. Também não convém contar com quem só se sente à vontade em ruas calmas: em Hanói, as avenidas largas e as rampas das pontes aparecem logo nos primeiros quilómetros.",
+        "Com o número de condutores definido, aplique a regra dos passageiros: cada mota leva quem conduz e, regra geral, mais uma pessoa. A tabela mostra composições frequentes e uma forma de as organizar dentro dessa regra.",
+        {
+          "table": {
+            "caption": "Composição da família e forma de se deslocar (regra de um passageiro, consultada a 12 de outubro de 2026)",
+            "head": [
+              "Família",
+              "Condutores habilitados",
+              "Organização dentro da regra geral"
+            ],
+            "rows": [
+              [
+                "Dois adultos e uma criança",
+                "Dois",
+                "Duas motas: cada adulto conduz a sua e um deles leva a criança"
+              ],
+              [
+                "Dois adultos e duas crianças",
+                "Dois",
+                "Duas motas, cada uma com um adulto ao guiador e uma criança atrás"
+              ],
+              [
+                "Dois adultos e duas crianças",
+                "Um",
+                "Uma mota para o condutor e um passageiro; os restantes seguem de táxi"
+              ],
+              [
+                "Três adultos",
+                "Três",
+                "Três motas, ou duas motas e um táxi para quem prefere não conduzir"
+              ]
+            ]
+          }
+        },
+        "A tabela segue de propósito a regra geral. A exceção prevista para crianças é tratada na secção seguinte, porque o que a lei admite e o que é sensato num trânsito denso nem sempre coincidem."
+      ]
+    },
+    {
+      "h2": "Crianças como passageiras: o que a lei admite",
+      "body": [
+        "No Vietname, quem conduz uma mota pode levar um passageiro. A lei de trânsito em vigor desde 1 de janeiro de 2025 só admite dois passageiros em quatro situações excecionais:",
+        {
+          "ul": [
+            "levar um doente a uma urgência médica;",
+            "escoltar o autor de uma infração;",
+            "transportar uma criança com menos de 12 anos;",
+            "transportar uma pessoa idosa ou com deficiência."
+          ]
+        },
+        "Ou seja, mesmo nesses casos, uma mota nunca leva mais de dois passageiros. Numa família, a exceção permite, por exemplo, que um adulto conduza com outro adulto atrás e uma criança com menos de 12 anos. Poder fazê-lo não quer dizer que compense: com três pessoas, a mota fica mais pesada, demora mais a parar e equilibra-se pior nas manobras lentas.",
+        "O capacete é obrigatório para quem conduz e para quem vai atrás, e tem de ir bem apertado. Segundo o Decreto 168/2024/NĐ-CP, em vigor desde 1 de janeiro de 2025, quem não o usa arrisca uma coima de 400 mil a 600 mil VND. A lei de trânsito também proíbe quem conduz de usar o telemóvel ou um guarda-chuva e de largar o guiador, o que conta ainda mais quando leva uma criança atrás.",
+        {
+          "note": "As fontes consultadas para este guia tratam do número de passageiros e do uso obrigatório de capacete, mas não de outras condições próprias para crianças. Se viaja com crianças pequenas, informe-se antes de partir e, na dúvida, prefira o táxi para elas.",
+          "tone": "info",
+          "title": "O que este guia não cobre"
+        }
+      ]
+    },
+    {
+      "h2": "Na prática: quem leva quem, e quando",
+      "body": [
+        "Mesmo dentro da regra geral, vale a pena pensar quem leva cada criança e em que trajetos. Algumas orientações simples ajudam a decidir:",
+        {
+          "ul": [
+            "**O condutor mais experiente leva a criança mais nova**, sobretudo nos primeiros dias, enquanto o outro adulto se habitua à mota e ao trânsito.",
+            "**A criança tem de aguentar o trajeto sentada e segura.** Se costuma adormecer em viagem ou se cansa depressa, a mota não é o transporte certo para ela nesse percurso.",
+            "**Trajetos curtos e de dia**: deixe para o táxi as deslocações longas, as noturnas e as que coincidem com chuva forte.",
+            "**A mota com a criança marca o ritmo**: a outra adapta-se, e não o contrário.",
+            "**Bagagem mínima**: com uma criança atrás, a atenção de quem conduz vai para ela, não para sacos pendurados."
+          ]
+        },
+        "Antes do primeiro passeio, façam uma volta curta numa rua tranquila perto da loja, com cada criança no seu lugar. É a forma mais rápida de perceber se a combinação funciona antes de entrar numa avenida movimentada.",
+        "Confirme também o seguro de viagem de cada membro da família. O Governo da Nova Zelândia recomenda a quem conduz no Vietname verificar se a apólice cobre acidentes de mota; quem vai como passageiro deve fazer a mesma verificação na sua."
+      ]
+    },
+    {
+      "h2": "Capacetes para toda a família",
+      "body": [
+        "Numa família, o equipamento pesa tanto como as motas. Cada pessoa que sobe para uma mota precisa de um capacete que lhe sirva: um capacete de adulto fica largo na cabeça de uma criança e pode rodar ou descair numa travagem.",
+        "Este site não indica que tamanhos de capacete a loja tem disponíveis. Inclua por isso no pedido de orçamento quantos capacetes precisa e a idade ou o tamanho aproximado de cada criança, e peça confirmação por escrito antes de reservar. Se não houver um capacete que sirva a uma criança, essa criança fica fora da mota e segue de táxi.",
+        "No dia do levantamento, experimentem os capacetes todos antes de sair:",
+        {
+          "checklist": [
+            "com a fivela fechada, o capacete não roda nem tapa os olhos quando a criança abana a cabeça;",
+            "a fivela fica justa sob o queixo, sem magoar;",
+            "a calota não tem fissuras e o forro está inteiro;",
+            "cada pessoa fica com o seu capacete durante todo o aluguer, para não desfazer o ajuste."
+          ]
+        },
+        "Na época das chuvas, conte também com uma capa por pessoa. A lista de [acessórios para a mota alugada](/precos/capa-de-chuva-e-acessorios/) ajuda a decidir o que pedir à loja e o que trazer na mala."
+      ]
+    },
+    {
+      "h2": "Quanto custa: uma tarifa por mota",
+      "body": [
+        "Os preços de referência da loja são por veículo, e não por pessoa: entre {{price.min.day}} e {{price.max.day}} por dia, conforme o modelo. Uma família com duas motas paga, por isso, duas tarifas, e as duas motas não têm de ser iguais.",
+        "A mota que leva passageiro pede mais folga; a que segue só com o condutor pode ser um modelo mais compacto. Ao dia, a Honda Click custa {{cmp.click.vision.day}} a [Honda Vision](/tipos-de-motas/honda-vision-em-hanoi/), e a Honda Air Blade, mais confortável com passageiro, custa {{cmp.airblade.vision.day}} a Vision. Na Air Blade, confirme a cilindrada da unidade: a versão de 160 cm³ exige a categoria A.",
+        {
+          "component": "price-table",
+          "category": "scooters-automaticas"
+        },
+        "Se a família fica uma semana ou mais, compare a tarifa ao dia com a semanal de cada modelo. O quadro seguinte mostra, mota a mota, a partir de quantos dias a semana compensa.",
+        {
+          "component": "duration-compare"
+        },
+        "Somar as tarifas dá apenas uma ordem de grandeza. O combustível e o estacionamento pagam-se por mota, e a caução, se existir, tem de ser esclarecida para cada uma. A lista de [custos além do preço](/precos/custos-alem-do-preco/) ajuda a não esquecer nenhum, e o valor final é sempre o que a loja confirmar para as suas datas."
+      ]
+    },
+    {
+      "h2": "Organizar as deslocações com duas ou mais motas",
+      "body": [
+        "Andar em grupo no trânsito de Hanói pede mais preparação do que andar sozinho. Num cruzamento, um semáforo separa as motas em segundos, e tentar acompanhar a mota da frente a qualquer preço é a forma mais fácil de cometer um erro. Combine estes pontos antes de arrancar:",
+        {
+          "steps": [
+            {
+              "title": "Cada condutor conhece o destino",
+              "text": "Antes de sair, cada um estuda o percurso e deixa o destino marcado no mapa. Para rever o caminho, encosta num local seguro: a lei proíbe usar o telemóvel enquanto conduz."
+            },
+            {
+              "title": "Um ponto de reencontro",
+              "text": "Combinem onde voltam a juntar-se se se separarem: a entrada de um parque, um café conhecido ou a porta do alojamento."
+            },
+            {
+              "title": "O ritmo da mota mais lenta",
+              "text": "A mota que leva a criança, ou o condutor com menos experiência, define a velocidade do grupo."
+            },
+            {
+              "title": "Telemóveis carregados e números trocados",
+              "text": "Cada condutor leva o número dos outros e o da loja, {{phone}}, e uma bateria externa para os dias longos."
+            },
+            {
+              "title": "Estacionar juntos",
+              "text": "Num parque com funcionário («gửi xe»), pergunte o preço, peça o talão de cada mota e guarde-os todos com a mesma pessoa."
+            }
+          ]
+        },
+        "Para o primeiro dia, escolha um percurso já pensado para a mota. O [itinerário de um dia a partir de Long Biên](/rotas-e-mobilidade/hanoi-de-mota-num-dia/) indica as paragens e onde estacionar, e ajuda a perceber o ritmo de um passeio em família antes de planear os seguintes. As dicas sobre suportes e mapas estão no guia [telemóvel e GPS na scooter](/tipos-de-motas/telemovel-e-gps-na-scooter/)."
+      ]
+    },
+    {
+      "h2": "Quando deixar a mota para parte da família",
+      "body": [
+        "As motas não têm de resolver todas as deslocações. Em vários casos, dividir a família entre a mota e outro transporte é mais simples e mais seguro:",
+        {
+          "ul": [
+            "à chegada e à partida, com malas, entre o aeroporto e o alojamento;",
+            "em dias de chuva forte ou à noite, sobretudo com crianças pequenas;",
+            "em trajetos longos, em que uma criança se cansa ou adormece atrás;",
+            "em saídas de Hanói pela autoestrada, onde as motas não podem circular;",
+            "quando um dos adultos quer beber ao jantar: a lei vietnamita não admite qualquer concentração de álcool a quem conduz."
+          ]
+        },
+        "Dentro do Anel Viário 1 há ainda o autocarro. Segundo o portal do Governo vietnamita, entre 1 de julho de 2026 e 30 de junho de 2027 as viagens nos autocarros públicos subsidiados dessa zona são gratuitas; os autocarros turísticos ficam de fora.",
+        "Se pensam sair da cidade com as motas, combine-o primeiro com a loja, como se explica em [levar a mota alugada para fora de Hanói](/guia-de-aluguer/autorizacao-para-sair-de-hanoi/)."
+      ]
+    },
+    {
+      "h2": "Como pedir orçamento para várias motas",
+      "body": [
+        "Um pedido completo poupa várias mensagens e permite à loja confirmar de uma vez se tem unidades livres para as mesmas datas. Inclua:",
+        {
+          "checklist": [
+            "o número de motas e o modelo pretendido para cada uma, com uma alternativa;",
+            "o número de condutores e a categoria de motociclos que consta da carta de cada um;",
+            "quantos passageiros vão em cada mota e a idade das crianças;",
+            "quantos capacetes precisa e de que tamanhos;",
+            "as datas e as horas de levantamento e de devolução de cada mota, se não forem iguais;",
+            "se precisa de entrega no alojamento e se tenciona sair de Hanói;",
+            "o preço total, mota a mota, confirmado por escrito."
+          ]
+        },
+        "Várias motas nas mesmas datas dependem das unidades livres, por isso vale a pena [reservar com antecedência](/precos/reservar-com-antecedencia/). Se uma parte da família parte mais cedo, pergunte se cada mota pode ter as suas datas; o guia do [aluguer com datas em aberto](/precos/aluguer-com-datas-em-aberto/) explica como registar essas alterações. Para um só dia de passeio, veja como organizar um [aluguer de mota por um dia](/precos/aluguer-de-mota-por-um-dia/).",
+        "Envie o pedido por telefone ou Zalo para o {{phone}}; a morada e o horário estão em [contactos](/contactos/)."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Um adulto pode levar outro adulto e uma criança na mesma mota?",
+      "a": "A lei vietnamita admite, como exceção à regra de um passageiro, transportar uma criança com menos de 12 anos, o que permite levar dois passageiros. Ser permitido não torna a solução confortável: com três pessoas, a mota fica pesada e o espaço é apertado. Guarde-a para trajetos curtos e calmos e use duas motas ou o táxi no resto."
+    },
+    {
+      "q": "Os preços são por pessoa ou por mota?",
+      "a": "Por mota. A tabela de referência indica um preço por veículo e não faz distinção pelo número de pessoas que vão nele. Uma família com duas motas paga duas tarifas, que podem ser de modelos diferentes; peça à loja o total para as suas datas."
+    },
+    {
+      "q": "A loja tem capacetes de criança?",
+      "a": "Este site não publica essa informação. Indique no pedido a idade e o tamanho aproximado de cada criança e peça confirmação por escrito antes de reservar. Sem um capacete que lhe sirva, a criança não deve ir na mota."
+    }
+  ],
+  "sources": [
+    "lawnet-passageiros-2025",
+    "lawnet-capacete-168",
+    "lei-36-2024-a1",
+    "lawnet-categorias-2025",
+    "chotot-air-blade-125-160",
+    "lawnet-proibicoes-2024",
+    "dtinews-autoestrada-2026",
+    "mfat-conduzir-vietname",
+    {
+      "title": "Ha Noi free bus travel within Ring Road 1 for one year",
+      "publisher": "Cổng Thông tin điện tử Chính phủ (chinhphu.vn)",
+      "url": "https://thanglong.chinhphu.vn/ha-noi-free-bus-travel-within-ring-road-1-for-one-year-110260702104500646.htm",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    },
+    "tabela-precos-proprietario"
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "PUBLISHED",
+  "date_published": "2026-10-13",
+  "date_modified": "2026-10-13",
+  "editorial": {
+    "qa_score": 100,
+    "qa_warnings": [],
+    "words": 2165,
+    "publish_mode": "review",
+    "approved_at": "2026-10-13",
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
+  }
+}

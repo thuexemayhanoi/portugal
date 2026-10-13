@@ -161,7 +161,7 @@
     {
       "h2": "Quando a mota chega à porta",
       "body": [
-        "A entrega à porta é rápida, mas a verificação não deve ser. Escolha um sítio com luz, com a mota parada fora da faixa de rodagem, e reserve dez a quinze minutos. Faça tudo antes de pagar ou de assinar.",
+        "A entrega à porta é rápida, mas a verificação não deve ser. Escolha um sítio com luz, com a mota parada fora da faixa de rodagem, e reserve dez a quinze minutos. Faça tudo antes de pagar ou de assinar. O guia sobre [como decorre a entrega da mota](/guia-de-aluguer/receber-a-mota/) descreve cada passo em pormenor, da inspeção à explicação dos comandos.",
         {
           "steps": [
             {
@@ -257,9 +257,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 2136,
+    "words": 2156,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

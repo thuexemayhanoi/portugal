@@ -15,7 +15,7 @@
   ],
   "intro": [
     "«Um dia» parece uma medida evidente até ao momento de devolver a mota. Se a levantou a meio da tarde, tem de a entregar ao fecho da loja nesse mesmo dia ou pode ficar com ela até à mesma hora do dia seguinte? A resposta depende da forma como o aluguer conta o tempo, e é uma das perguntas que mais vale a pena fazer antes de sair com a mota.",
-    "Este guia explica as duas formas habituais de contar um dia de aluguer, como o horário da loja {{brand}}, em {{area}}, delimita as horas possíveis de levantamento e de devolução e como encaixar tudo isto numa viagem com voos, comboios e horas de saída do alojamento. Para o preço de cada período, consulte a [tabela de preços](/precos/)."
+    "Este guia explica as duas formas habituais de contar um dia de aluguer, como o horário da loja {{brand}}, em {{area}}, delimita as horas possíveis de levantamento e de devolução e como encaixar tudo isto numa viagem com voos, comboios e horas de saída do alojamento. Para o preço de cada período, consulte a [tabela de preços](/precos/); o guia da [Honda Vision em Hanói](/tipos-de-motas/honda-vision-em-hanoi/) mostra, como exemplo, as referências por dia, semana e mês dessa scooter."
   ],
   "sections": [
     {
@@ -177,7 +177,7 @@
           ]
         },
         "Se combinar as horas ainda em Portugal, lembre-se de que a loja trabalha na hora de Hanói: confirme que a data e a hora da mensagem são as locais. As restantes perguntas antes de alugar — caução, documentos, capacetes — estão reunidas nas [15 perguntas a fazer antes de alugar](/guia-de-aluguer/perguntas-antes-de-alugar/).",
-        "Se, ao ler a confirmação, perceber que as horas não servem os seus planos, ajuste-as logo nessa conversa: no dia da devolução, o que conta é a hora que ficar escrita."
+        "Se, ao ler a confirmação, perceber que as horas não servem os seus planos, ajuste-as logo nessa conversa: no dia da devolução, o que conta é a hora que ficar escrita. Se os planos mudarem já com a mota consigo, o guia sobre [devolver a mota mais cedo](/precos/devolver-a-mota-mais-cedo/) reúne as perguntas a fazer sobre o valor pago."
       ]
     }
   ],
@@ -213,9 +213,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1845,
+    "words": 1890,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

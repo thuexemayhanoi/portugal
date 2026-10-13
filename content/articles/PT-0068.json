@@ -143,7 +143,7 @@
         },
         {
           "ul": [
-            "**Estadias curtas**: para uma ou duas semanas, compare primeiro com as tarifas semanais da [tabela de preços](/precos/).",
+            "**Estadias curtas**: para uma ou duas semanas, compare primeiro com as tarifas semanais da [tabela de preços](/precos/) e veja [quando compensa o aluguer semanal](/precos/aluguer-semanal-de-mota/).",
             "**Muitos dias na estrada**: se vai passar boa parte do mês fora de Hanói, fale antes com a loja, porque nem todas as viagens são adequadas a todos os modelos. Lembre-se também de que as motas não podem circular nas autoestradas vietnamitas.",
             "**Poucas deslocações**: se só vai sair duas ou três vezes por semana, o táxi ou as aplicações de transporte podem ser mais simples.",
             "**Falta de carta ou de prática**: um mês de trânsito diário é muito tempo de exposição ao risco. Sem habilitação válida ou experiência suficiente, não conduza."
@@ -170,7 +170,7 @@
         {
           "h3": "Prolongar ou devolver mais cedo"
         },
-        "Pergunte com quantos dias de antecedência deve avisar se quiser ficar com a mota mais um mês, se o preço se mantém e como se paga a renovação. No sentido inverso, confirme o que acontece se precisar de devolver a mota antes do fim do mês: se há acerto de valores ou se o mês é cobrado por inteiro.",
+        "Pergunte com quantos dias de antecedência deve avisar se quiser ficar com a mota mais um mês, se o preço se mantém e como se paga a renovação. No sentido inverso, confirme o que acontece se precisar de devolver a mota antes do fim do mês: se há acerto de valores ou se o mês é cobrado por inteiro. Se a estadia se estender por vários meses, o guia do [aluguer de mota de longa duração](/precos/aluguer-de-longa-duracao/) explica como organizar renovações e revisões.",
         {
           "h3": "Quem conduz e por onde"
         },
@@ -353,9 +353,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 2649,
+    "words": 2679,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

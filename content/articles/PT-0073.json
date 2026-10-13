@@ -101,7 +101,7 @@
           ]
         },
         "O guia dos [documentos da mota alugada](/guia-de-aluguer/documentos-da-mota-alugada/) mostra onde encontrar as datas de validade no certificado. O de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/) explica o que perguntar quando a loja pede uma garantia.",
-        "Se o prolongamento for longo, verifique também os seus próprios planos: o alojamento onde a mota passa a noite, os dias em que vai estar fora de Hanói e se continua a precisar dela todos os dias."
+        "Se o prolongamento for longo, verifique também os seus próprios planos: o alojamento onde a mota passa a noite, os dias em que vai estar fora de Hanói e se continua a precisar dela todos os dias. Se tem uma viagem a meio da estadia, compare antes [manter a mota alugada ou devolvê-la durante a ausência](/precos/sair-de-hanoi-a-meio-do-aluguer/)."
       ]
     },
     {
@@ -158,7 +158,7 @@
       "h2": "Prolongar várias vezes ou fechar logo um período maior",
       "body": [
         "Pedir dois ou três dias de cada vez é útil quando os planos estão realmente em aberto. Mas, se já percebeu que vai ficar bastante mais tempo, os prolongamentos sucessivos têm desvantagens: mais mensagens, mais pagamentos separados e o risco de, numa das vezes, a mota já não estar livre.",
-        "Nesse caso, peça à loja um valor para todo o período que ainda tem pela frente e compare-o com a tarifa semanal ou mensal do mesmo modelo. Decidir com o total à frente é mais simples do que ir somando pequenos acertos.",
+        "Nesse caso, peça à loja um valor para todo o período que ainda tem pela frente e compare-o com a tarifa semanal ou mensal do mesmo modelo. Decidir com o total à frente é mais simples do que ir somando pequenos acertos. Se fechar um período maior, pergunte também o que acontece se acabar por [devolver a mota mais cedo](/precos/devolver-a-mota-mais-cedo/).",
         "Se ainda não levantou a mota e hesita entre durações, pode começar com um período curto e prolongar depois — o guia do [aluguer por um dia](/precos/aluguer-de-mota-por-um-dia/) ajuda a organizar o primeiro dia. Nesse caso, pergunte logo à partida como funcionaria um prolongamento e se os dias já pagos contam para uma eventual tarifa semanal. As outras perguntas a fazer antes de alugar estão reunidas nas [15 perguntas a fazer à loja](/guia-de-aluguer/perguntas-antes-de-alugar/)."
       ]
     }
@@ -195,9 +195,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 2003,
+    "words": 2040,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

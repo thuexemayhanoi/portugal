@@ -31,7 +31,7 @@
             "**combustível ou carga** abaixo do nível com que recebeu a mota."
           ]
         },
-        "Quais destas situações se aplicam ao seu aluguer, e com que regras, depende do acordo com a loja. É isso que convém esclarecer antes de assinar. No dia da devolução já não há margem para discutir o que ficou por combinar, e o momento da entrega da mota merece uma preparação própria.",
+        "Quais destas situações se aplicam ao seu aluguer, e com que regras, depende do acordo com a loja. É isso que convém esclarecer antes de assinar. No dia da devolução já não há margem para discutir o que ficou por combinar, e o momento da entrega da mota merece uma preparação própria, descrita no guia sobre a [devolução da caução](/precos/devolucao-da-caucao/).",
         {
           "note": "A caução diz respeito às perdas relacionadas com a mota e com o acordo de aluguer. Não foi pensada para pagar despesas médicas nem danos causados a outras pessoas num acidente. O seguro obrigatório que acompanha a mota é explicado no guia dos [documentos da mota alugada](/guia-de-aluguer/documentos-da-mota-alugada/); confirme também o que cobre o seu seguro de viagem.",
           "tone": "info",
@@ -111,7 +111,7 @@
           }
         },
         "Antes de deixar um documento original, pense no que vai fazer durante o aluguer. O passaporte é pedido, por exemplo, nos alojamentos e em controlos de identidade. A carta de condução não é uma boa candidata: a lei de trânsito vietnamita de 2024 exige que quem conduz a leve consigo, tal como os documentos do veículo.",
-        "Se a loja aceitar mais do que uma forma, escolha a que menos condiciona a sua viagem e confirme-a por escrito antes do dia do levantamento. Uma decisão tomada ao balcão, com a mota já à porta, é sempre mais apressada."
+        "Se a loja aceitar mais do que uma forma, escolha a que menos condiciona a sua viagem e confirme-a por escrito antes do dia do levantamento. Uma decisão tomada ao balcão, com a mota já à porta, é sempre mais apressada. Se a escolha recair no numerário, veja [como entregar e documentar uma caução em dinheiro](/precos/caucao-em-dinheiro/)."
       ]
     },
     {
@@ -225,9 +225,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1856,
+    "words": 1879,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

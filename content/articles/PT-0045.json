@@ -64,7 +64,7 @@
         {
           "h3": "Peso e carga máxima"
         },
-        "O fabricante de cada modelo indica, no manual, uma carga máxima que normalmente soma condutor, passageiro e bagagem. Não há um número único para todas as 50 cc. Peça à loja o valor da unidade que vai alugar e faça a conta com honestidade: o peso das duas pessoas mais a mochila. Se o total fica perto do limite, a resposta está dada."
+        "O fabricante de cada modelo indica, no manual, uma carga máxima que normalmente soma condutor, passageiro e bagagem. Não há um número único para todas as 50 cc. Peça à loja o valor da unidade que vai alugar e faça a conta com honestidade: o peso das duas pessoas mais a mochila. Se o total fica perto do limite, a resposta está dada. Na mesma conversa, vale a pena [confirmar que a mota é mesmo de 50 cc](/tipos-de-motas/confirmar-que-a-mota-e-50cc/), pelo certificado de registo e pela ficha técnica do modelo."
       ]
     },
     {
@@ -124,21 +124,21 @@
             "Mais distância para o veículo da frente, sobretudo à noite ou com chuva."
           ]
         },
-        "Faça um primeiro percurso curto, numa rua calma perto da loja, antes de entrar em trânsito denso. Se a mota já lhe parecer lenta ou instável nesse teste, não vai melhorar no meio de uma avenida.",
-        "Se o passageiro também quiser conduzir à vez, os requisitos legais aplicam-se a cada condutor. Confirme com a loja se essa pessoa pode conduzir a mota e se tem de constar do acordo. Os documentos que cada condutor deve levar estão explicados no guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/).",
+        "Faça um primeiro percurso curto, numa rua calma perto da loja, antes de entrar em trânsito denso. Se a mota já lhe parecer lenta ou instável nesse teste, não vai melhorar no meio de uma avenida. E se a unidade tiver mudanças e nunca as usou, ganhe primeiro confiança sozinho: o guia sobre a [50 cc automática ou com mudanças](/tipos-de-motas/50cc-automatica-ou-com-mudancas/) explica como saber qual lhe vão entregar.",
+        "Se o passageiro também quiser conduzir à vez, os requisitos legais aplicam-se a cada condutor. Confirme com a loja se essa pessoa pode conduzir a mota e se tem de constar do acordo — é uma das [perguntas a fazer antes de alugar uma mota](/guia-de-aluguer/perguntas-antes-de-alugar/). Os documentos que cada condutor deve levar estão explicados no guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/).",
         "Por fim, a apólice. O Governo da Nova Zelândia recomenda confirmar se o seguro de viagem cobre acidentes de mota antes de conduzir no Vietname; quem vai como passageiro deve fazer a mesma verificação na sua própria apólice."
       ]
     },
     {
       "h2": "Alternativas para quem vai andar a dois",
       "body": [
-        "Se vai passar a maior parte do tempo com passageiro, compare a 50 cc com uma scooter mais potente. Na tabela de referência, a Honda Air Blade custa {{price.airblade.day}} por dia, {{cmp.airblade.cc50.day}} uma 50 cc, e, por ser maior e mais potente, é mais confortável com passageiro. A Honda Vision também transporta duas pessoas na cidade, ainda que acelere e trave de forma menos viva.",
+        "Se vai passar a maior parte do tempo com passageiro, compare a 50 cc com uma scooter mais potente; o guia [50 cc ou 110 cc no dia a dia](/tipos-de-motas/scooter-50cc-ou-110cc/) põe as duas lado a lado nas pontes e com carga. Na tabela de referência, a Honda Air Blade custa {{price.airblade.day}} por dia, {{cmp.airblade.cc50.day}} uma 50 cc, e, por ser maior e mais potente, é mais confortável com passageiro. A Honda Vision também transporta duas pessoas na cidade, ainda que acelere e trave de forma menos viva.",
         {
           "component": "model-cards",
           "category": "scooters-automaticas"
         },
         "Lembre-se de que estas scooters são motociclos: exigem carta da categoria A1 ou A, conforme a cilindrada. A Air Blade, por exemplo, existe em versões de 125 e de 160 cm³, e a segunda já sai da categoria A1. O guia [Air Blade 125 ou 160](/tipos-de-motas/honda-air-blade-125-ou-160/) explica a diferença, e a página de [scooters automáticas](/tipos-de-motas/scooters/) compara os quatro modelos.",
-        "Há ainda duas soluções simples: cada pessoa conduz a sua mota, se ambas cumprirem os requisitos para conduzir, ou, para um trajeto pontual a dois, um táxi. Quando contactar a loja, diga logo que vai levar passageiro e qual é o percurso previsto, através dos [contactos](/contactos/), para que a sugestão de modelo tenha isso em conta."
+        "Há ainda duas soluções simples: cada pessoa conduz a sua mota, se ambas cumprirem os requisitos para conduzir, ou, para um trajeto pontual a dois, um táxi. Para quem vem estudar e pensa dar boleia a colegas durante o semestre, o guia sobre a [50 cc para estudantes de intercâmbio](/tipos-de-motas/50cc-para-estudantes-de-intercambio/) ajuda a perceber quando outra solução serve melhor. Quando contactar a loja, diga logo que vai levar passageiro e qual é o percurso previsto, através dos [contactos](/contactos/), para que a sugestão de modelo tenha isso em conta."
       ]
     }
   ],
@@ -178,9 +178,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1510,
+    "words": 1630,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

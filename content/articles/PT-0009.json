@@ -76,7 +76,7 @@
           }
         },
         "Na tabela de referência, a Air Blade custa {{price.airblade.day}} por dia, {{cmp.airblade.vision.day}} a Vision, e a loja indica um só preço para as duas versões. A de 160 cm³ é a mais confortável a dois, mas ultrapassa o limite de 125 cm³ da categoria A1: só a pode conduzir com a categoria A. O guia [Air Blade 125 ou 160](/tipos-de-motas/honda-air-blade-125-ou-160/) explica o que separa as duas versões.",
-        "Se a sua habilitação só cobre motas até 125 cm³, a Air Blade 125 é a escolha mais equilibrada para dois. A [Honda Vision](/tipos-de-motas/honda-vision-em-hanoi/) também resolve, sobretudo em percursos curtos e sem pressa. A [Honda Click](/tipos-de-motas/honda-click-em-hanoi/) faz sentido a dois apenas em deslocações pontuais; para a Yamaha Mio, também de pequena cilindrada, pergunte à loja como se comporta com passageiro.",
+        "Se a sua habilitação só cobre [motas até 125 cm³, a categoria A1](/tipos-de-motas/cilindrada-e-carta-a1/), a Air Blade 125 é a escolha mais equilibrada para dois. A [Honda Vision](/tipos-de-motas/honda-vision-em-hanoi/) também resolve, sobretudo em percursos curtos e sem pressa. A [Honda Click](/tipos-de-motas/honda-click-em-hanoi/) faz sentido a dois apenas em deslocações pontuais; para a Yamaha Mio, também de pequena cilindrada, pergunte à loja como se comporta com passageiro.",
         "Uma [mota de 50 cc](/tipos-de-motas/motas-50cc/) não foi pensada para passageiro: com duas pessoas, perde aceleração e capacidade de subida. Os preços de referência das scooters estão lado a lado na tabela seguinte e no guia de [scooters automáticas](/tipos-de-motas/scooters/):",
         {
           "component": "price-table",
@@ -225,9 +225,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1897,
+    "words": 1900,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

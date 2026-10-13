@@ -75,7 +75,7 @@
           ]
         },
         "A empresa pode assumir os custos, mas não assume a responsabilidade de quem conduz. Como lembram os [termos e condições](/termos-e-condicoes/), quem conduz é responsável por ter a habilitação exigida para a categoria do veículo e por cumprir as regras de trânsito do Vietname. Num controlo, é a quem está ao guiador que a polícia pede a carta e os documentos da mota.",
-        "Os documentos que a loja pede para o aluguer e as condições de caução estão explicados no guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/). Se for a empresa a adiantar a caução, combine com ela, antes da viagem, como e quando o dinheiro lhe volta."
+        "Os documentos que a loja pede estão explicados no guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/), e as condições de caução, no guia sobre [como funciona a caução](/precos/como-funciona-a-caucao/). Se for a empresa a adiantar a caução, combine com ela, antes da viagem, como e quando o dinheiro lhe volta."
       ]
     },
     {
@@ -149,7 +149,7 @@
       "h2": "Estadias de trabalho longas: semana, mês e pagamento",
       "body": [
         "Um projeto de várias semanas muda a conta. Numa Honda Vision, por exemplo, a semana custa {{price.vision.week}} e o mês {{price.vision.month}}. A tarifa semanal custa o mesmo ou menos do que pagar ao dia a partir de {{price.vision.weekFrom}} dias. Os guias do [aluguer semanal](/precos/aluguer-semanal-de-mota/) e do [aluguer mensal](/precos/aluguer-mensal-de-mota/) explicam o que combinar em cada caso.",
-        "Para a contabilidade, o calendário dos pagamentos também conta. Pergunte à loja se o período se paga de uma vez ou por partes e se cada pagamento tem o seu comprovativo; depois, confirme com a empresa se o reembolso pode ser feito por fases. Num mês de uso diário, combine também quem trata da manutenção e como fica registada, para que nenhuma despesa apareça sem comprovativo."
+        "Para a contabilidade, o calendário dos pagamentos também conta. Pergunte à loja se o período se paga de uma vez ou por partes e se cada pagamento tem o seu comprovativo; depois, confirme com a empresa se o reembolso pode ser feito por fases. Num mês de uso diário, combine também quem trata da manutenção e como fica registada, para que nenhuma despesa apareça sem comprovativo; em caso de avaria, veja [como pedir uma troca de mota](/guia-de-aluguer/trocar-de-mota/)."
       ]
     },
     {
@@ -238,9 +238,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 2185,
+    "words": 2200,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

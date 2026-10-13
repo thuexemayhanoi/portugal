@@ -1,0 +1,285 @@
+{
+  "contract_version": 1,
+  "id": "PT-0119",
+  "slug": "uma-mota-ou-duas-para-um-casal",
+  "title": "Uma mota ou duas para um casal em Hanói: o que compensa",
+  "description": "Partilhar uma mota ou alugar duas? Para casais e pares de amigos em Hanói: preço por mota, carta de cada um, conforto, bagagem e custos a dobrar.",
+  "h1": "Casal em Hanói: partilhar uma mota ou alugar duas? Custos, carta e dia a dia",
+  "summary": "Para um casal, uma mota partilhada é uma tarifa e duas motas são duas, porque os preços de referência são por veículo. Mas o preço raramente decide sozinho: duas motas só fazem sentido se os dois tiverem carta válida para a categoria e à-vontade no trânsito; caso contrário, a resposta é uma mota, conduzida por quem está habilitado.",
+  "key_points": [
+    "Os preços de referência são por veículo: uma Vision partilhada custa {{price.vision.day}} por dia; duas Click custam duas vezes {{price.click.day}}.",
+    "Antes do preço, a carta: cada condutor precisa da sua, válida para a categoria da mota, e da licença internacional reconhecida no Vietname.",
+    "Duas motas dão autonomia, conforto e mais espaço para bagagem, mas duplicam o combustível, o estacionamento e o esforço para não se perderem no trânsito.",
+    "Numa mota partilhada, a regra é um passageiro, e quem vai atrás passa o dia sem controlar o ritmo nem o percurso.",
+    "Peça à loja o total das duas opções para as suas datas antes de decidir."
+  ],
+  "intro": [
+    "Muitos casais, e muitos pares de amigos, chegam a Hanói com a mesma dúvida: alugar uma mota e andar a dois, ou cada um com a sua? A diferença de preço é a parte fácil de ver. O que pesa mais costuma estar noutro sítio: a carta de cada um, a experiência, o tipo de viagem e a forma como querem passar os dias.",
+    "Este guia compara as duas opções, primeiro nos custos, com os preços de referência da loja, e depois em tudo o que a tabela não mostra. Que modelo aguenta melhor dois adultos, que capacetes pedir e como conduzir com alguém atrás está no guia da [scooter para duas pessoas](/tipos-de-motas/scooter-para-duas-pessoas/). Aqui, a pergunta é outra: uma mota ou duas?"
+  ],
+  "sections": [
+    {
+      "h2": "A primeira condição: os dois podem conduzir?",
+      "body": [
+        "Antes de fazer contas, confirme se a opção de duas motas existe mesmo. Cada pessoa que conduz precisa da sua própria carta, válida para a categoria do veículo: no Vietname, desde 1 de janeiro de 2025, a categoria A1 cobre os motociclos até 125 cm³ e a categoria A os de cilindrada superior. Como visitante, precisa também da licença internacional reconhecida no país, que só vale acompanhada da carta nacional.",
+        "A habilitação de um não serve ao outro, e a licença internacional também não: cada uma está ligada à carta de quem a pediu. Se só um dos dois tem carta de motociclos, a escolha está feita: uma mota, conduzida por essa pessoa, ou táxi para o outro. O guia da [Licença Internacional de Condução](/guia-de-aluguer/licenca-internacional-de-conducao/) explica como a pedir em Portugal.",
+        "A carta é a condição mínima, não a única. Quem nunca conduziu uma mota, ou só o fez em estradas calmas, vai encontrar em Hanói um trânsito denso e imprevisível. Nesse caso, ir atrás nos primeiros dias e pensar numa segunda mota mais tarde, se a confiança aparecer, é uma solução razoável.",
+        {
+          "note": "Muitas apólices excluem acidentes ocorridos sem habilitação válida. Antes de viajar, cada um deve confirmar se o seu seguro cobre acidentes de mota, como condutor e como passageiro; o Governo da Nova Zelândia recomenda esta verificação a quem conduz no Vietname.",
+          "tone": "warn",
+          "title": "Seguro de viagem: um por pessoa"
+        }
+      ]
+    },
+    {
+      "h2": "Quanto custa cada opção",
+      "body": [
+        "Na tabela de referência da loja, os preços são por veículo e não mudam com o número de pessoas. Uma mota partilhada paga uma tarifa; duas motas pagam duas, que podem ser de modelos diferentes. A tabela seguinte põe lado a lado algumas combinações frequentes:",
+        {
+          "table": {
+            "caption": "Uma mota a dois ou duas motas: preços de referência por veículo",
+            "head": [
+              "Opção",
+              "Por dia",
+              "Por semana"
+            ],
+            "rows": [
+              [
+                "Uma Honda Vision para os dois",
+                "{{price.vision.day}}",
+                "{{price.vision.week}}"
+              ],
+              [
+                "Uma Honda Air Blade para os dois",
+                "{{price.airblade.day}}",
+                "{{price.airblade.week}}"
+              ],
+              [
+                "Duas Honda Click, uma para cada",
+                "2 × {{price.click.day}}",
+                "2 × {{price.click.week}}"
+              ],
+              [
+                "Duas Honda Vision, uma para cada",
+                "2 × {{price.vision.day}}",
+                "2 × {{price.vision.week}}"
+              ],
+              [
+                "Duas semiautomáticas Honda Wave",
+                "2 × {{price.wave.day}}",
+                "2 × {{price.wave.week}}"
+              ]
+            ]
+          }
+        },
+        "Quem anda a dois numa mota tende a escolher um modelo com mais folga, e quem tem uma mota só para si pode optar por um mais compacto. Ao dia, a Honda Click custa {{cmp.click.vision.day}} a Honda Vision, e a Air Blade custa {{cmp.airblade.vision.day}} a Vision. Para estadias longas, o guia [Vision ou Click no aluguer mensal](/precos/vision-ou-click-no-aluguer-mensal/) mostra o que muda ao fim de um mês, e a [página de preços](/precos/) reúne todos os modelos.",
+        {
+          "h3": "Os custos que não estão na tabela"
+        },
+        "A tarifa é só uma parte da conta. Com duas motas, há outros custos que também passam para o dobro, e um que fica igual:",
+        {
+          "ul": [
+            "**Combustível**: dois depósitos para encher e duas paragens na bomba. Como se entrega e devolve o depósito está no guia do [combustível no aluguer](/precos/combustivel-no-aluguer/).",
+            "**Estacionamento**: nos parques com funcionário, cada mota ocupa um lugar e tem o seu talão.",
+            "**Caução**, se existir: pergunte se é pedida por mota e em que condições.",
+            "**Capacetes e capas de chuva**: o número é o mesmo nas duas opções, um por pessoa, por isso não pesa na comparação."
+          ]
+        },
+        "A lista de [custos além do preço](/precos/custos-alem-do-preco/) ajuda a confirmar o resto com a loja antes de fechar o aluguer. Para comparar os totais das duas opções na mesma base, siga o método do guia sobre [como avaliar se um preço de aluguer é justo](/precos/preco-justo-de-aluguer/)."
+      ]
+    },
+    {
+      "h2": "O que o preço não mostra",
+      "body": [
+        "Duas pessoas numa mota, ou cada uma na sua, são formas diferentes de viajar. A tabela resume o que muda além da tarifa:",
+        {
+          "table": {
+            "caption": "Uma mota partilhada ou duas motas: o que muda no dia a dia",
+            "head": [
+              "Aspeto",
+              "Uma mota para os dois",
+              "Duas motas"
+            ],
+            "rows": [
+              [
+                "Quem conduz",
+                "Uma pessoa conduz o dia inteiro",
+                "Os dois conduzem, e os dois precisam de carta válida para a categoria"
+              ],
+              [
+                "Conforto",
+                "Quem vai atrás passa horas sentado, sem controlar o ritmo",
+                "Cada um no seu lugar, com menos peso em cada mota"
+              ],
+              [
+                "Autonomia",
+                "Deslocam-se sempre juntos",
+                "Cada um pode seguir o seu programa"
+              ],
+              [
+                "Bagagem",
+                "Um compartimento debaixo do assento para os dois",
+                "Dois compartimentos, um em cada mota"
+              ],
+              [
+                "Ficar juntos no trânsito",
+                "Automático",
+                "Exige combinar percursos e pontos de reencontro"
+              ],
+              [
+                "Atenção e cansaço",
+                "Toda a concentração recai sobre uma pessoa",
+                "Os dois enfrentam o trânsito, cada um por si"
+              ],
+              [
+                "Estacionar",
+                "Um lugar",
+                "Dois lugares, nem sempre lado a lado"
+              ]
+            ]
+          }
+        },
+        "Nenhuma das colunas ganha em tudo. Uma mota partilhada é mais simples e mantém o casal junto; duas motas dão liberdade, mas pedem dois condutores à vontade no trânsito e alguma organização.",
+        {
+          "h3": "A regra de um passageiro"
+        },
+        "Numa mota partilhada, a regra é clara: no Vietname, quem conduz leva um passageiro, e só em quatro situações excecionais previstas na lei pode levar dois. Se um amigo se junta ao casal a meio da viagem, a mota partilhada deixa de chegar: é preciso uma segunda mota ou um táxi para o terceiro. O capacete apertado é obrigatório para os dois, e quem não o usa arrisca uma coima de 400 mil a 600 mil VND, segundo o Decreto 168/2024/NĐ-CP."
+      ]
+    },
+    {
+      "h2": "Quando compensa cada opção",
+      "body": [
+        "O tipo de viagem diz muito sobre a escolha. Estas são as situações mais comuns:",
+        {
+          "table": {
+            "caption": "Uma mota ou duas, conforme a viagem",
+            "head": [
+              "Situação",
+              "Opção mais simples",
+              "Porquê"
+            ],
+            "rows": [
+              [
+                "Só um dos dois tem carta de motociclos",
+                "Uma mota",
+                "Duas motas não são opção: quem não tem habilitação não conduz"
+              ],
+              [
+                "Fim de semana na cidade, sempre juntos",
+                "Uma mota",
+                "Uma tarifa, um lugar de estacionamento e nenhum risco de se perderem"
+              ],
+              [
+                "Um trabalha durante o dia e o outro passeia",
+                "Duas motas",
+                "Os horários de um deixam de prender o outro"
+              ],
+              [
+                "Estadia de um mês, com rotinas diferentes",
+                "Duas motas",
+                "Cada um gere as suas deslocações; compare as tarifas mensais dos modelos"
+              ],
+              [
+                "Um dos dois tem pouca experiência",
+                "Uma mota no início",
+                "Quem tem menos prática vai atrás e decide mais tarde"
+              ],
+              [
+                "Dias longos na estrada, com bagagem",
+                "Duas motas, se os dois tiverem experiência",
+                "Duas pessoas e bagagem pesam muito numa só scooter"
+              ]
+            ]
+          }
+        },
+        "Para quem vem trabalhar à distância durante semanas, o guia da [mota para nómadas digitais](/precos/mota-para-nomadas-digitais/) ajuda a pensar a rotina e a duração do aluguer. Se a viagem inclui dias fora da cidade, combine-o antes com a loja, como explica o guia sobre [levar a mota para fora de Hanói](/guia-de-aluguer/autorizacao-para-sair-de-hanoi/).",
+        "Em qualquer das opções, o táxi continua a ser uma boa alternativa para as deslocações longas, à noite ou com chuva forte. As situações em que vale mais deixar a mota parada estão reunidas no guia sobre [quando é melhor não conduzir em Hanói](/rotas-e-mobilidade/quando-nao-conduzir/)."
+      ]
+    },
+    {
+      "h2": "Com duas motas, como não se perderem um do outro",
+      "body": [
+        "Quem nunca andou acompanhado no trânsito de Hanói subestima a facilidade com que duas motas se separam: um semáforo que muda, uma mota que se mete entre as duas, uma saída que um vê e o outro não. Algumas regras simples resolvem quase tudo:",
+        {
+          "ul": [
+            "cada condutor conhece o destino e o percurso antes de arrancar, em vez de seguir o outro;",
+            "combinem um ponto de reencontro para cada etapa do dia;",
+            "quem vai atrás não acelera para apanhar um semáforo que o primeiro já passou;",
+            "para ver o mapa, encostam num local seguro, porque a lei proíbe usar o telemóvel enquanto conduz;",
+            "os telemóveis vão carregados e cada um tem o número do outro e o da loja, {{phone}}."
+          ]
+        },
+        "Não se trata de técnica de condução, mas de organização: um minuto de conversa antes de arrancar poupa meia hora de mensagens à procura um do outro."
+      ]
+    },
+    {
+      "h2": "Começar com uma mota e acrescentar outra?",
+      "body": [
+        "Se não têm a certeza, há uma solução intermédia: começar com uma mota partilhada nos primeiros dias e decidir depois. Quem vai atrás observa o trânsito sem a pressão de conduzir, e o casal percebe se a liberdade de duas motas faz falta.",
+        "Esta via tem duas condições. A segunda mota depende de haver uma unidade livre quando a pedir, e nada assegura que exista. E, se quiserem trocar de lugar na mota partilhada, quem passa a conduzir tem de cumprir os mesmos requisitos e a loja tem de o aceitar. Pergunte as duas coisas logo no primeiro contacto.",
+        "Se as datas da viagem forem flexíveis, o guia do [aluguer com datas em aberto](/precos/aluguer-com-datas-em-aberto/) explica como prolongar ou alterar o aluguer sem confusões."
+      ]
+    },
+    {
+      "h2": "Pedir à loja o orçamento das duas opções",
+      "body": [
+        "A forma mais rápida de decidir é ter as duas respostas por escrito. Numa só mensagem, peça:",
+        {
+          "checklist": [
+            "o preço total de uma mota para os dois, com o modelo sugerido para levar passageiro;",
+            "o preço total de duas motas, com os modelos possíveis para cada um;",
+            "as condições de caução de cada opção, se existir;",
+            "se a loja aceita que os dois conduzam a mesma mota e se ambos têm de constar do acordo;",
+            "se é possível acrescentar uma segunda mota a meio da estadia."
+          ]
+        },
+        "Indique também as datas, a categoria de carta de cada um e se pensam sair de Hanói. O telefone e o Zalo da loja, {{phone}}, e a morada estão em [contactos](/contactos/)."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Se os dois tivermos carta, podemos revezar-nos ao guiador da mesma mota?",
+      "a": "Só se a loja o aceitar, e convém que isso fique escrito no acordo ou na conversa. Quem passa a conduzir precisa da sua própria carta, válida para a categoria da mota, e da licença internacional, e leva consigo os documentos da mota enquanto conduz."
+    },
+    {
+      "q": "Com duas motas, temos de alugar o mesmo modelo?",
+      "a": "Não. Os preços são por veículo, por isso cada um pode escolher o modelo que lhe convém e que a sua carta permite. Diga à loja que modelos prefere e peça uma alternativa para cada um, porque a disponibilidade depende das datas."
+    },
+    {
+      "q": "Quem vai atrás também precisa de carta?",
+      "a": "Quem vai atrás não conduz, por isso a carta é pedida a quem está ao guiador. O passageiro precisa, isso sim, de capacete apertado. Se em algum momento passar para a frente, torna-se condutor e aplicam-se-lhe todos os requisitos de carta e documentos."
+    }
+  ],
+  "sources": [
+    "tabela-precos-proprietario",
+    "lawnet-passageiros-2025",
+    "lawnet-capacete-168",
+    "lei-36-2024-a1",
+    "lawnet-categorias-2025",
+    "lei-36-2024-artigo-56",
+    "imt-lic",
+    "mfat-conduzir-vietname"
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "PUBLISHED",
+  "date_published": "2026-10-13",
+  "date_modified": "2026-10-13",
+  "editorial": {
+    "qa_score": 100,
+    "qa_warnings": [],
+    "words": 1865,
+    "publish_mode": "review",
+    "approved_at": "2026-10-13",
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
+  }
+}

@@ -1,0 +1,281 @@
+{
+  "contract_version": 1,
+  "id": "PT-0083",
+  "slug": "alterar-ou-cancelar-a-reserva",
+  "title": "Voo atrasado e reserva da mota: como alterar ou cancelar",
+  "description": "Voo atrasado, escala perdida ou chegada adiada? Como avisar a loja, mudar ou cancelar a reserva da mota e o que perguntar sobre valores já pagos.",
+  "h1": "O voo atrasou ou a chegada mudou: como alterar a reserva da mota em Hanói",
+  "summary": "Para alterar a reserva da mota quando o voo atrasa ou a chegada muda, avise a loja logo que souber, pelo {{phone}} (chamada ou Zalo), com o número do voo, a nova hora prevista na hora de Hanói e a nova data que propõe. A alteração só conta depois de a loja a confirmar por escrito, e o destino de um valor já pago pergunta-se, não se presume.",
+  "key_points": [
+    "Avise a loja assim que souber do atraso, mesmo sem a nova hora exata: uma mensagem curta agora vale mais do que uma explicação completa depois.",
+    "Indique o número do voo e a hora prevista de chegada na hora de Hanói (UTC+7), já com o tempo até à loja.",
+    "Se a nova chegada passar das {{closes}}, proponha levantar a mota no dia seguinte, a partir das {{opens}}, em vez de contar com um levantamento fora de horas.",
+    "Uma data nova só existe quando a loja a confirmar por escrito, com o modelo, as horas e o novo total.",
+    "Se adiantou algum valor, pergunte o que lhe acontece numa alteração ou num cancelamento: o site não publica regras sobre isso."
+  ],
+  "intro": [
+    "Um voo que parte com três horas de atraso, uma escala perdida, um voo cancelado e remarcado para o dia seguinte: quando a mota está reservada para o dia da chegada, qualquer destes imprevistos mexe também com o aluguer. Há uma mota à sua espera a uma hora que já não vai cumprir, e a loja só fica a saber se lhe disser.",
+    "Este guia trata de reservas já confirmadas que é preciso alterar ou cancelar por causa da viagem. Quando vale a pena reservar cedo, e como fechar a reserva, está explicado no guia sobre [reservar com antecedência](/precos/reservar-com-antecedencia/). Aqui, o tema é o que fazer quando a chegada muda: o que deixar perguntado antes de embarcar, como avisar a loja {{brand}}, em {{area}}, e como registar a nova data."
+  ],
+  "sections": [
+    {
+      "h2": "Antes de embarcar: o que perguntar sobre alterações",
+      "body": [
+        "A melhor altura para saber como se altera uma reserva é antes de precisar de o fazer. Na mensagem em que a loja confirma a reserva, ou logo a seguir, faça as perguntas que cobrem os imprevistos de uma viagem de avião. O site não publica regras de alteração nem de cancelamento: valem as respostas que a loja lhe der para o seu aluguer.",
+        {
+          "table": {
+            "caption": "Perguntas a fazer ao reservar, conforme o imprevisto",
+            "head": [
+              "Imprevisto",
+              "Pergunta a fazer à loja"
+            ],
+            "rows": [
+              [
+                "Atraso de algumas horas",
+                "Até que hora fica a mota à minha espera no dia do levantamento?"
+              ],
+              [
+                "Chegada depois das {{closes}}",
+                "Posso passar o levantamento para a manhã seguinte? Nesse caso, como se conta o primeiro dia?"
+              ],
+              [
+                "Chegada adiada um ou mais dias",
+                "A reserva passa para as novas datas ou tenho de fazer um pedido novo? A data de devolução também muda?"
+              ],
+              [
+                "Viagem cancelada",
+                "Até quando posso cancelar, e o que acontece a um valor que tenha adiantado?"
+              ],
+              [
+                "Entrega no alojamento já marcada",
+                "Com quanta antecedência devo avisar para mudar a hora ou o dia da entrega?"
+              ],
+              [
+                "Aviso fora do horário",
+                "Uma mensagem pelo Zalo fora do horário serve de aviso, ou devo ligar também quando a loja abrir?"
+              ]
+            ]
+          }
+        },
+        "Guarde as respostas na mesma conversa da reserva. Se o voo atrasar, já sabe o que propor, e a loja já sabe o que esperar de si."
+      ]
+    },
+    {
+      "h2": "Quando souber do atraso: avisar primeiro, acertar depois",
+      "body": [
+        "Assim que a companhia aérea anunciar o atraso, escreva à loja, mesmo que ainda não saiba a nova hora exata. Uma primeira mensagem curta, como «o meu voo vai atrasar, envio a nova hora logo que a souber», dá à loja tempo para se organizar. Esperar pela aterragem para dar a notícia tira-lhe essa margem.",
+        {
+          "steps": [
+            {
+              "title": "Confirme a nova hora",
+              "text": "Use a aplicação ou o site da companhia aérea, e não uma estimativa sua. Se tiver escala, conte com a hora de chegada a Hanói, e não com a hora de partida."
+            },
+            {
+              "title": "Converta para a hora de Hanói",
+              "text": "O Vietname usa a hora UTC+7, sem horário de verão. Em relação a Portugal continental, são mais 7 horas no inverno e mais 6 no verão. Escreva as horas no formato de 24 horas."
+            },
+            {
+              "title": "Some o tempo até à loja",
+              "text": "À hora de aterragem junte o controlo de fronteira, a recolha da bagagem e o trajeto até {{area}}, que varia muito com o trânsito. A hora a propor é a da chegada à loja, e não a do avião."
+            },
+            {
+              "title": "Envie a proposta",
+              "text": "Diga a que horas consegue chegar ou, se já passar das {{closes}}, que dia e que hora propõe para o levantamento."
+            },
+            {
+              "title": "Espere pela confirmação",
+              "text": "Só conte com a nova hora depois de a loja responder. Se a informação do voo voltar a mudar, avise outra vez, na mesma conversa."
+            }
+          ]
+        },
+        {
+          "note": "A loja está aberta {{hours}}, na hora de Hanói. Uma mensagem enviada de madrugada, a partir de uma escala, pode só ser lida de manhã. Não conte com uma resposta imediata e, se for preciso, volte a ligar para o {{phone}} dentro do horário.",
+          "tone": "info",
+          "title": "Horário e fuso horário"
+        }
+      ]
+    },
+    {
+      "h2": "A mensagem para a loja",
+      "body": [
+        "Uma mensagem completa evita perguntas de volta, o que conta muito quando está numa escala com pouca bateria ou pouca rede. Inclua:",
+        {
+          "ul": [
+            "o seu nome e as datas da reserva;",
+            "o número do voo e a nova hora prevista de chegada a Hanói;",
+            "o que propõe: manter o dia com outra hora, passar o levantamento para o dia seguinte ou mudar as datas;",
+            "a pergunta direta: é possível, e muda alguma coisa no preço ou num valor já pago?"
+          ]
+        },
+        "Um exemplo em português, fácil de passar por um tradutor: «Bom dia. Sou [nome] e tenho reservada uma [modelo] para levantar hoje às 15:00. O meu voo [número] atrasou e só chego a Hanói às 20:30. Posso levantar a mota amanhã às 10:00? Muda alguma coisa no preço?» Troque o que está entre parênteses retos pelos seus dados e pelo modelo reservado — por exemplo, uma [Honda Vision](/tipos-de-motas/honda-vision-em-hanoi/).",
+        "Se quiser juntar algumas palavras em vietnamita, estas ajudam a que a mensagem seja percebida à primeira:",
+        {
+          "table": {
+            "caption": "Expressões úteis para alterar a reserva, em vietnamita",
+            "head": [
+              "Em vietnamita",
+              "Em português"
+            ],
+            "rows": [
+              [
+                "chuyến bay",
+                "voo"
+              ],
+              [
+                "bị trễ",
+                "atrasado"
+              ],
+              [
+                "đổi ngày nhận xe",
+                "mudar o dia de levantamento da mota"
+              ],
+              [
+                "hủy đặt xe",
+                "cancelar a reserva da mota"
+              ],
+              [
+                "ngày mai",
+                "amanhã"
+              ],
+              [
+                "Chuyến bay của tôi bị trễ. Tôi muốn nhận xe vào sáng mai.",
+                "O meu voo está atrasado. Quero levantar a mota amanhã de manhã."
+              ]
+            ]
+          }
+        },
+        "Mais conselhos para escrever mensagens que a tradução automática não estraga estão no guia sobre [comunicar sem falar vietnamita](/guia-de-aluguer/comunicar-sem-falar-vietnamita/)."
+      ]
+    },
+    {
+      "h2": "Três cenários e o que propor em cada um",
+      "body": [
+        {
+          "h3": "Algumas horas de atraso, ainda dentro do horário"
+        },
+        "Se, mesmo com o atraso, consegue chegar à loja antes das {{closes}}, a solução mais simples é manter o dia e mudar a hora. Proponha uma hora realista, com margem, e não a mais otimista. Chegar à pressa ao fim do dia deixa pouco tempo para a entrega, que inclui conferir a mota e os documentos e aprender os comandos, como explica o guia sobre [receber a mota](/guia-de-aluguer/receber-a-mota/).",
+        "Pergunte-se também se quer mesmo conduzir nesse dia. Depois de um voo longo e de um atraso, levantar a mota na manhã seguinte, descansado e com luz do dia, é muitas vezes a escolha mais sensata.",
+        {
+          "h3": "Chegada depois do fecho da loja"
+        },
+        "Se a nova hora de chegada passa das {{closes}}, não planeie ir à loja nessa noite sem acordo prévio. Proponha logo o levantamento para o dia seguinte, a partir das {{opens}}, e siga do aeroporto para o alojamento de táxi.",
+        "Neste caso, há uma pergunta que pesa no preço: o dia que estava reservado conta, ou o aluguer passa a começar no dia seguinte? A resposta depende da forma como a loja conta os dias, explicada no guia sobre [horas de levantamento e devolução](/precos/horas-de-levantamento-e-devolucao/). Pergunte e peça que a nova data de início fique escrita.",
+        {
+          "h3": "Chegada adiada um dia ou mais"
+        },
+        "Um voo cancelado e remarcado, ou uma noite inesperada numa escala, muda as datas do aluguer, e não apenas a hora. Há três pontos a confirmar:",
+        {
+          "ul": [
+            "**Disponibilidade**: se a mota ou o modelo reservado continuam livres nas novas datas;",
+            "**Data de fim**: se a devolução se mantém, e o aluguer fica mais curto, ou se passa também para mais tarde;",
+            "**Total**: como fica o preço com as novas datas, sobretudo se o aluguer era à semana ou ao mês."
+          ]
+        },
+        "Os preços de referência por dia, semana e mês estão na [página de preços](/precos/). Peça à loja o novo total, em vez de o calcular por conta própria: é esse valor que fica no acordo. Se, com o atraso, deixou de saber quantos dias vai precisar da mota, veja como [alugar com as datas em aberto](/precos/aluguer-com-datas-em-aberto/).",
+        {
+          "h3": "Entrega no alojamento já marcada"
+        },
+        "Se combinou receber a mota no hotel, avise com ainda mais antecedência, porque a entrega foi organizada para uma hora certa. Indique a nova hora ou o novo dia e confirme se a entrega continua possível. O que combinar neste tipo de entrega está no guia da [entrega da mota no hotel](/precos/entrega-da-mota-no-hotel/)."
+      ]
+    },
+    {
+      "h2": "Cancelar a reserva quando a viagem não acontece",
+      "body": [
+        "Se a viagem for cancelada, ou deixar de passar por Hanói, diga-o à loja logo que souber. Basta uma mensagem clara: «Cancelo a reserva da [modelo] para os dias [datas]». Uma desistência por comunicar deixa uma mota parada à sua espera e transforma um assunto simples numa conta por fechar.",
+        "Cancelar não é o mesmo que devolver a mota mais cedo. Cancela-se antes de levantar a mota; a devolução antecipada acontece com o aluguer já a decorrer e tem as suas próprias perguntas, reunidas no guia sobre [devolver a mota mais cedo](/precos/devolver-a-mota-mais-cedo/).",
+        "Se ainda não pagou nada, a sua mensagem e a resposta da loja chegam para encerrar o assunto. Se adiantou algum valor, leia a secção seguinte antes de dar a conversa por terminada."
+      ]
+    },
+    {
+      "h2": "Valores já pagos numa alteração ou num cancelamento",
+      "body": [
+        "Este site não publica se a loja pede pagamentos para reservar, nem o que lhes acontece quando uma reserva muda. Se pagou alguma coisa, não presuma a resposta, nem num sentido nem no outro. Pergunte:",
+        {
+          "ul": [
+            "Numa alteração de datas, o valor passa para a nova reserva?",
+            "Num cancelamento, o valor é devolvido, no todo ou em parte? Depende da antecedência com que avisei?",
+            "Se houver devolução, por que via e em que prazo?",
+            "Se a loja ficar com uma parte, qual é e porquê?"
+          ]
+        },
+        "Peça as respostas por escrito e guarde-as junto do comprovativo do pagamento. Os cuidados com pagamentos feitos à distância estão no guia sobre [pagar no início ou no fim](/precos/pagar-no-inicio-ou-no-fim/), e a forma de arquivar cada comprovativo em [recibos e comprovativos](/precos/recibos-e-comprovativos/).",
+        {
+          "note": "Se, a meio da alteração, receber um pedido de pagamento de um número que não conhece, ou para uma conta diferente da habitual, confirme primeiro com a loja pelo {{phone}}, o contacto indicado neste site.",
+          "tone": "warn",
+          "title": "Um número ou uma conta diferentes"
+        }
+      ]
+    },
+    {
+      "h2": "Registar a nova reserva por escrito",
+      "body": [
+        "Uma alteração combinada ao telefone, à pressa, numa escala, esquece-se depressa. Feche-a com uma mensagem de resumo e peça à loja que a confirme. A última mensagem confirmada passa a ser a sua reserva.",
+        {
+          "checklist": [
+            "o modelo e, se já estiver atribuída, a mota;",
+            "a nova data e a nova hora de levantamento, na hora de Hanói;",
+            "a data e a hora de devolução, novas ou mantidas;",
+            "o novo total para o período;",
+            "o que acontece ao valor já pago, se existir;",
+            "a indicação de que esta mensagem substitui a reserva anterior."
+          ]
+        },
+        "Por exemplo: «Confirmo a alteração: levanto a [modelo] amanhã às 10:00 e devolvo no dia [data], às [hora]. Total: [valor]. Sobre o valor que já paguei: [o que ficou combinado]. Obrigado.»",
+        "No dia do levantamento, tenha esta mensagem à mão. Se surgir alguma dúvida, é ela que mostra o que ficou combinado. As restantes questões, da caução aos capacetes, estão nas [15 perguntas a fazer antes de alugar](/guia-de-aluguer/perguntas-antes-de-alugar/). Se a reserva for para vários meses, junte-lhes o que combinar sobre [desgaste normal e danos num aluguer longo](/precos/desgaste-normal-num-aluguer-longo/)."
+      ]
+    },
+    {
+      "h2": "Se a loja não responder a tempo",
+      "body": [
+        "A mensagem pode chegar fora do horário ou numa hora de muito movimento. Nesse caso:",
+        {
+          "ul": [
+            "volte a ligar para o {{phone}} quando a loja abrir, às {{opens}};",
+            "não vá à loja sem confirmação, porque pode encontrá-la fechada ou a mota ainda por preparar;",
+            "guarde a prova de que avisou: a hora da mensagem e o registo das chamadas;",
+            "confirme na página de [contactos](/contactos/) que está a usar o número certo."
+          ]
+        },
+        "Enquanto não houver resposta, a reserva que conta é a antiga. Por isso, quanto mais cedo avisar, mais hipóteses tem de ter tudo resolvido antes de aterrar."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Tenho de pagar alguma coisa para mudar a data da reserva?",
+      "a": "O site não publica custos de alteração. Pergunte à loja quando reservar e, se o voo mudar, peça na mesma conversa a confirmação do novo total. Só conte com o valor que a loja lhe confirmar por escrito."
+    },
+    {
+      "q": "A loja guarda a mota se eu só chegar no dia seguinte?",
+      "a": "Não parta desse princípio: depende de a mota estar livre nas novas datas. Avise logo que souber do atraso e proponha a nova data. Quanto mais cedo pedir, mais margem tem a loja para manter a reserva."
+    },
+    {
+      "q": "Devo avisar a loja mesmo que o atraso seja de meia hora?",
+      "a": "Sim, se essa meia hora mexer com a hora combinada para o levantamento. Uma mensagem curta evita que alguém espere por si sem saber porquê. Se o atraso não afetar a hora combinada, não precisa de mudar nada."
+    }
+  ],
+  "sources": [
+    "tabela-precos-proprietario"
+  ],
+  "legal_note": false,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "PUBLISHED",
+  "date_published": "2026-10-13",
+  "date_modified": "2026-10-13",
+  "editorial": {
+    "qa_score": 100,
+    "qa_warnings": [],
+    "words": 2180,
+    "publish_mode": "review",
+    "approved_at": "2026-10-13",
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
+  }
+}

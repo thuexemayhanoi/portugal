@@ -26,7 +26,7 @@
           "component": "price-table",
           "category": "scooters-automaticas"
         },
-        "Os dois preços mensais são intervalos. Para a comparação ser justa, compare valores finais e não limites da tabela: peça à loja o preço de cada modelo para as mesmas datas e pergunte, em cada caso, porque é que a unidade fica perto do limite inferior ou do superior. Um orçamento da Click no topo do intervalo e um da Vision na base aproximam os dois modelos; o inverso afasta-os.",
+        "Os dois preços mensais são intervalos. Para a comparação ser justa, compare valores finais e não limites da tabela: peça à loja o preço de cada modelo para as mesmas datas e pergunte, em cada caso, porque é que a unidade fica perto do limite inferior ou do superior. Um orçamento da Click no topo do intervalo e um da Vision na base aproximam os dois modelos; o inverso afasta-os. O método completo para comparar orçamentos está no guia sobre o [preço justo de aluguer de mota](/precos/preco-justo-de-aluguer/).",
         "Pergunte também se a caução, se existir, e a forma de pagamento são iguais para os dois modelos. Num mês, uma diferença nessas condições pode pesar tanto como a diferença na tarifa. A [tabela de preços](/precos/) completa mostra as referências de todos os modelos da loja."
       ]
     },
@@ -151,7 +151,7 @@
             "**Compare com a Mio** se a Click não estiver livre nas suas datas."
           ]
         },
-        "Em caso de dúvida, pese o que vai fazer na maior parte dos dias, e não a exceção. Uma saída de fim de semana a dois não justifica, por si só, mudar de modelo para o mês inteiro."
+        "Em caso de dúvida, pese o que vai fazer na maior parte dos dias, e não a exceção. Uma saída de fim de semana a dois não justifica, por si só, mudar de modelo para o mês inteiro. Se forem dois a viajar o mês todo, pondere antes se compensa [uma mota ou duas para um casal](/precos/uma-mota-ou-duas-para-um-casal/). E, seja qual for o modelo, haverá dias em que o melhor é deixar a mota parada; o guia sobre [as situações em que é melhor não conduzir](/rotas-e-mobilidade/quando-nao-conduzir/) ajuda a reconhecê-los."
       ]
     },
     {
@@ -276,9 +276,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1740,
+    "words": 1807,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

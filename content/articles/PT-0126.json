@@ -45,7 +45,7 @@
         {
           "h3": "5. Quando e como é devolvida a caução?"
         },
-        "Confirme o momento da devolução, a forma e as situações que podem levar a descontos, como danos ou atrasos. Uma boa resposta é concreta: o quê, quando e em que condições.",
+        "Confirme o momento da devolução, a forma e as situações que podem levar a descontos, como danos ou atrasos. Uma boa resposta é concreta: o quê, quando e em que condições. O que distingue a caução do preço e o que deve ficar escrito está explicado no guia sobre [como funciona a caução no aluguer](/precos/como-funciona-a-caucao/).",
         {
           "h3": "6. Como pago e que comprovativo recebo?"
         },
@@ -58,11 +58,11 @@
         {
           "h3": "7. Que documentos pede a loja para o aluguer?"
         },
-        "Os documentos pedidos para alugar são definidos pela loja e podem variar. Confirme a lista antes de se deslocar, para não ter de voltar ao alojamento a meio da manhã.",
+        "Os documentos pedidos para alugar são definidos pela loja e podem variar. Confirme a lista antes de se deslocar, para não ter de voltar ao alojamento a meio da manhã. Se a mota for conduzida por outra pessoa, veja também [o que considerar ao alugar para outra pessoa conduzir](/guia-de-aluguer/alugar-para-outra-pessoa/).",
         {
           "h3": "8. A minha carta serve para esta mota?"
         },
-        "Esta pergunta é sobretudo para si e para as fontes oficiais. Desde 2025, a categoria A1 vietnamita abrange motociclos até 125 cm³ (ou motor elétrico até 11 kW); acima disso é exigida a categoria A. Como visitante, a orientação mais citada é conduzir com a carta do seu país acompanhada de uma licença internacional reconhecida no Vietname. Em Portugal, essa licença é emitida pelo IMT. Pergunte à loja a cilindrada exata da unidade para confirmar a categoria.",
+        "Esta pergunta é sobretudo para si e para as fontes oficiais. Desde 2025, a categoria A1 vietnamita abrange motociclos até 125 cm³ (ou motor elétrico até 11 kW); acima disso é exigida a categoria A. Como visitante, a orientação mais citada é conduzir com a carta do seu país acompanhada de uma licença internacional reconhecida no Vietname. Em Portugal, essa licença é emitida pelo IMT: os documentos a levar e a validade estão no guia sobre [como pedir a Licença Internacional de Condução](/guia-de-aluguer/licenca-internacional-de-conducao/). Pergunte à loja a cilindrada exata da unidade para confirmar a categoria.",
         {
           "h3": "9. Que documentos do veículo seguem comigo?"
         },
@@ -212,14 +212,20 @@
   },
   "status": "PUBLISHED",
   "date_published": "2026-10-12",
-  "date_modified": "2026-10-12",
+  "date_modified": "2026-10-13",
   "editorial": {
     "qa_score": 98,
     "qa_warnings": [
       "literal VND amount \"600.000 VND\": business prices must use {{price.*}} tokens (legal amounts are fine with a source)"
     ],
-    "words": 1507,
+    "words": 1569,
     "publish_mode": "review",
-    "approved_at": "2026-10-12"
+    "approved_at": "2026-10-13",
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

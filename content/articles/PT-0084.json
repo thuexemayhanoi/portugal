@@ -120,7 +120,7 @@
             "**Caução**: se existir, mantém-se igual quando o aluguer se prolonga?"
           ]
         },
-        "As respostas definem até onde vai a flexibilidade do seu aluguer. Se alguma for vaga, peça um exemplo concreto com o seu modelo e as suas datas. As restantes questões gerais estão nas [15 perguntas a fazer antes de alugar](/guia-de-aluguer/perguntas-antes-de-alugar/)."
+        "As respostas definem até onde vai a flexibilidade do seu aluguer. Se alguma for vaga, peça um exemplo concreto com o seu modelo e as suas datas. Se nem a data de chegada é certa, pergunte também como [alterar ou cancelar a reserva da mota](/precos/alterar-ou-cancelar-a-reserva/) caso o voo se atrase. As restantes questões gerais estão nas [15 perguntas a fazer antes de alugar](/guia-de-aluguer/perguntas-antes-de-alugar/)."
       ]
     },
     {
@@ -205,7 +205,7 @@
       "h2": "Grupos e famílias: cada mota com as suas datas",
       "body": [
         "Quando viajam várias pessoas, os planos nem sempre acabam ao mesmo tempo: alguém parte mais cedo, outra pessoa decide ficar mais uma semana. Nesse caso, trate cada mota como um aluguer com datas próprias.",
-        "Pergunte à loja se as motas alugadas em conjunto podem ser devolvidas em dias diferentes e se cada uma pode ser prolongada à parte. No registo das alterações, identifique sempre a mota pela matrícula, para não haver dúvidas sobre qual delas mudou de data."
+        "Pergunte à loja se as motas alugadas em conjunto podem ser devolvidas em dias diferentes e se cada uma pode ser prolongada à parte. No registo das alterações, identifique sempre a mota pela matrícula, para não haver dúvidas sobre qual delas mudou de data. Para decidir quantas motas alugar e o que pôr no pedido de orçamento, veja o guia sobre [várias motas para a família](/precos/varias-motas-para-familias/)."
       ]
     },
     {
@@ -257,9 +257,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1885,
+    "words": 1930,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

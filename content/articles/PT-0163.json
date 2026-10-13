@@ -122,7 +122,7 @@
     {
       "h2": "A buzina da mota alugada",
       "body": [
-        "A buzina faz parte da inspeção básica ao levantar a mota, ao lado dos travões, das luzes e dos piscas, como se vê na lista do [guia de aluguer passo a passo](/guia-de-aluguer/). Com a mota parada, toque uma vez para confirmar que funciona e que se ouve bem.",
+        "A buzina faz parte da inspeção básica ao levantar a mota, ao lado dos travões, das luzes e dos piscas, como se vê na lista do [guia de aluguer passo a passo](/guia-de-aluguer/). O guia sobre [receber a mota alugada](/guia-de-aluguer/receber-a-mota/) mostra como decorre essa verificação no momento da entrega. Com a mota parada, toque uma vez para confirmar que funciona e que se ouve bem.",
         "Veja também onde fica o botão. Em muitas scooters está no punho esquerdo, perto do interruptor dos piscas, mas a posição muda entre marcas e modelos. Como os dois comandos ficam próximos, é fácil carregar num quando se quer o outro. Experimente-os com a mota parada até os distinguir sem olhar.",
         "Se a buzina deixar de funcionar durante o aluguer, não a trate como um pormenor: avise a loja pelo {{phone}} e combine a reparação ou a troca de mota. Se ainda está a escolher o modelo, compare as [scooters automáticas](/tipos-de-motas/scooters/), mais simples de conduzir no para-arranca da cidade."
       ]
@@ -140,7 +140,7 @@
             "Buzina testada e botão localizado antes de sair da loja."
           ]
         },
-        "A buzina é só uma parte da condução segura em Hanói. As regras que não admitem exceções, como o capacete e o álcool zero, estão resumidas no [guia de aluguer](/guia-de-aluguer/), e os documentos a levar consigo no guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/)."
+        "A buzina é só uma parte da condução segura em Hanói. As regras que não admitem exceções, como o capacete e o [álcool zero ao conduzir uma mota](/guia-de-aluguer/alcool-zero-ao-volante/), estão resumidas no [guia de aluguer](/guia-de-aluguer/), e os documentos a levar consigo no guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/)."
       ]
     }
   ],
@@ -185,9 +185,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1687,
+    "words": 1707,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

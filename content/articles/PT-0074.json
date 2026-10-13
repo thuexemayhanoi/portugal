@@ -109,7 +109,7 @@
             }
           ]
         },
-        "A loja está aberta {{hours}}. Os dados para a contactar estão na página de [contactos](/contactos/); a morada em vietnamita, útil para mostrar a um taxista no regresso, é {{address.vi}}."
+        "A loja está aberta {{hours}}. Antes de escolher a hora da entrega, veja [como se conta um dia de aluguer](/precos/horas-de-levantamento-e-devolucao/). Os dados para a contactar estão na página de [contactos](/contactos/); a morada em vietnamita, útil para mostrar a um taxista no regresso, é {{address.vi}}."
       ]
     },
     {
@@ -119,7 +119,7 @@
         {
           "ul": [
             "**Planos firmes**: se sabe que vai conduzir quase todos os dias, a [tarifa semanal](/precos/aluguer-semanal-de-mota/) ou a mensal fazem sentido, com a pergunta sobre devoluções antecipadas já respondida.",
-            "**Planos em aberto**: comece por um período mais curto e pergunte desde o início como funcionaria um prolongamento, para só se comprometer com mais dias quando tiver a certeza.",
+            "**Planos em aberto**: comece por um período mais curto e pergunte desde o início como funcionaria um [prolongamento do aluguer](/precos/prolongar-o-aluguer/), para só se comprometer com mais dias quando tiver a certeza.",
             "**Primeira vez no trânsito de Hanói**: experimente um dia antes de fechar uma semana — o guia do [aluguer por um dia](/precos/aluguer-de-mota-por-um-dia/) ajuda a organizá-lo.",
             "**Dias fora da cidade sem a mota**: se parte da estadia vai ser passada noutro destino, conte só os dias em que vai conduzir antes de escolher a tarifa."
           ]
@@ -178,9 +178,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1786,
+    "words": 1803,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

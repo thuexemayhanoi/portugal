@@ -1,5 +1,17 @@
 # Changelog
 
+## 1.4.0 — 2026-10-13 · 85 artigos e ligações internas entre eles
+
+- **21 artigos novos** (85/300). Cobrem, entre outros:
+  - Vision ou Air Blade, critérios para escolher scooter e quem nunca conduziu;
+  - 50 cc: 50 ou 110 cc, como confirmar que é 50 cc e estudantes;
+  - carta para mota elétrica, conduzir sem carta válida e álcool zero;
+  - aluguer de longa duração, desgaste ou dano, voo atrasado, famílias, casal e outra pessoa a conduzir;
+  - capacetes, cobranças indevidas, assistência na estrada e quando não conduzir.
+- **Ligações internas**: 65 artigos publicados foram revistos pela fábrica (`revision`) para ligar, no texto, aos artigos publicados depois deles. São cerca de 110 ligações novas, seguindo `internal_links_in/out` do plano. Todos os artigos publicados recebem pelo menos uma ligação contextual (mediana: 3).
+- **QA de linguagem**: capacete, combustível, entrega, recolha ou assistência «incluídos» passam a ser alegações a confirmar; perguntas indiretas («quantos capacetes estão incluídos») não são assinaladas.
+- Testes independentes do número de revisões já feitas.
+
 ## 1.3.0 — 2026-10-13 · 64 artigos e plano sem temas em espera
 
 - **53 artigos novos** publicados pela Content Factory (64/300). Todos passaram o QA com 0 erros e 0 avisos e foram aprovados. Temas:

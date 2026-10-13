@@ -155,7 +155,7 @@
             }
           ]
         },
-        "Os documentos da própria mota, e a forma de os conferir, estão explicados no guia dos [documentos da mota alugada](/guia-de-aluguer/documentos-da-mota-alugada/). A carta, a licença internacional e os documentos do veículo formam um conjunto: o que levar consigo está resumido no guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/)."
+        "Os documentos da própria mota, e a forma de os conferir, estão explicados no guia dos [documentos da mota alugada](/guia-de-aluguer/documentos-da-mota-alugada/). A carta, a licença internacional e os documentos do veículo formam um conjunto: o que levar consigo está resumido no guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/). Como a carta e a licença internacional têm de seguir consigo sempre que conduz, não servem para deixar como garantia: veja [que formas pode assumir a caução](/precos/como-funciona-a-caucao/)."
       ]
     },
     {
@@ -216,9 +216,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1674,
+    "words": 1701,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

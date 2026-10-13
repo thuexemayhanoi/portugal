@@ -119,7 +119,7 @@
           ]
         },
         "Os riscos finos veem-se mal de frente. Fotografe-os de lado, com a luz a raspar a superfície, ou use o flash num ângulo. Se a mota estiver molhada ou suja, peça um pano e limpe a zona: gotas de chuva e pó escondem marcas que só aparecem quando a pintura seca.",
-        "Mostre cada dano a quem lhe entrega a mota e peça que fique anotado no acordo ou na ficha de entrega, se houver. Quando não houver onde o anotar, uma mensagem à loja com as fotografias serve o mesmo fim.",
+        "Mostre cada dano a quem lhe entrega a mota e peça que fique anotado no acordo ou na ficha de entrega, se houver; o guia sobre [o que deve constar no acordo de aluguer](/guia-de-aluguer/acordo-de-aluguer/) mostra onde se regista o estado da mota à entrega. Quando não houver onde o anotar, uma mensagem à loja com as fotografias serve o mesmo fim.",
         {
           "note": "Não decida sozinho que um risco é pequeno demais para fotografar. O que hoje parece insignificante pode ser exatamente aquilo em que alguém repara na devolução.",
           "tone": "info",
@@ -169,7 +169,7 @@
       "h2": "Na devolução, a mesma sequência",
       "body": [
         "No último dia, repita as doze fotografias e o vídeo, pela mesma ordem e com os mesmos enquadramentos, de preferência com alguém da loja ao seu lado. Comparar duas imagens tiradas do mesmo ângulo é rápido; comparar uma fotografia de perto com outra de longe gera dúvidas.",
-        "Abasteça ou carregue a mota antes, de acordo com o nível combinado, e fotografe o painel já na loja. Se lhe apontarem um dano, procure-o nas imagens do levantamento e mostre o plano de contexto e o de pormenor.",
+        "Abasteça ou carregue a mota antes, de acordo com o nível combinado, e fotografe o painel já na loja. Se lhe apontarem um dano, procure-o nas imagens do levantamento e mostre o plano de contexto e o de pormenor. Se houver caução, as regras para eventuais descontos combinam-se antes, como explica o guia sobre [como funciona a caução no aluguer](/precos/como-funciona-a-caucao/).",
         "Os restantes passos do último dia estão resumidos no [guia de aluguer](/guia-de-aluguer/)."
       ]
     },
@@ -224,9 +224,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1854,
+    "words": 1896,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

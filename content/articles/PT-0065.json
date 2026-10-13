@@ -81,7 +81,7 @@
             "**Scooter automática a gasolina**: abastece em qualquer bomba e não obriga a fazer contas à bateria, o que simplifica dias com muitas travessias da cidade. Compare os modelos na página de [scooters automáticas](/tipos-de-motas/scooters/)."
           ]
         },
-        "O motor também não muda os documentos. Desde 1 de janeiro de 2025, a categoria A1 da carta vietnamita abrange motociclos de duas rodas até 125 cm³ ou com motor elétrico até 11 kW. O que levar para alugar e para conduzir está explicado no guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/).",
+        "O motor também não muda os documentos. Desde 1 de janeiro de 2025, a categoria A1 da carta vietnamita abrange motociclos de duas rodas até 125 cm³ ou com motor elétrico até 11 kW. Numa elétrica, é a potência do motor que decide a categoria, como explica o guia sobre a [carta para mota elétrica](/tipos-de-motas/carta-para-mota-eletrica/). O que levar para alugar e para conduzir está explicado no guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/).",
         "Onde a zona pode vir a pesar é em 2027, quando está prevista uma segunda fase. Se o aluguer atravessar o ano novo, por exemplo num [aluguer mensal](/precos/aluguer-mensal-de-mota/) iniciado em dezembro, confirme as regras em vigor antes de escolher o motor."
       ]
     },
@@ -300,9 +300,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 2360,
+    "words": 2381,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

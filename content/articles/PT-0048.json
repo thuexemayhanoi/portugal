@@ -1,0 +1,302 @@
+{
+  "contract_version": 1,
+  "id": "PT-0048",
+  "slug": "50cc-automatica-ou-com-mudancas",
+  "title": "50 cc automática ou com mudanças: como saber qual vai conduzir",
+  "description": "A tabela diz «mota ou scooter de 50 cc». O que muda entre a versão automática e a de mudanças, o que perguntar à loja e como confirmar o tipo na entrega.",
+  "h1": "Scooter ou mota de mudanças: que 50 cc lhe vão entregar e qual consegue conduzir",
+  "summary": "Pela tabela, não é possível saber: a linha da loja diz «mota ou scooter de 50 cc», por isso a unidade tanto pode ser uma scooter automática como uma pequena mota de mudanças, tipo cub. Pergunte o tipo ao reservar, peça uma fotografia da mota e, se nunca usou mudanças, diga logo que só conduz uma automática.",
+  "key_points": [
+    "A tabela de referência junta as duas versões numa só linha, «mota ou scooter de 50 cc», com um único preço ao dia: {{price.cc50.day}}.",
+    "Na scooter, acelera-se e trava-se só com as mãos; na mota de mudanças, o pé esquerdo muda as velocidades e, em regra, o pé direito trava a roda de trás.",
+    "Pergunte o tipo da unidade antes de reservar e confirme-o na entrega: plataforma plana e nenhuma alavanca junto ao pé indicam uma automática.",
+    "Se nunca conduziu com mudanças, não aprenda no trânsito de Hanói: peça uma automática ou procure outra solução.",
+    "Para a lei vietnamita, o que define uma 50 cc é a cilindrada e a velocidade de projeto, e não o tipo de transmissão."
+  ],
+  "intro": [
+    "Quem procura uma 50 cc em Hanói encontra na tabela da loja uma linha só: «mota ou scooter de 50 cc», com um preço de referência de {{price.cc50.day}} por dia. A expressão não é um descuido. Sob o mesmo nome cabem dois veículos que se conduzem de maneira diferente: a scooter automática, em que basta acelerar e travar, e a pequena mota de mudanças, tipo cub, em que o pé esquerdo trabalha a cada paragem.",
+    "Este guia explica o que muda entre os dois, como saber qual lhe vão entregar e como decidir, com honestidade, se está preparado para o que vier. O que é uma 50 cc, para que percursos serve e que regras se aplicam está no [guia de motas de 50 cc](/tipos-de-motas/motas-50cc/)."
+  ],
+  "sections": [
+    {
+      "h2": "O que a tabela diz, e o que fica por dizer",
+      "body": [
+        "A tabela de referência trata as 50 cc como uma categoria, e não como um modelo. A linha indica o tipo de veículo e o preço ao dia; a semana e o mês são cotados caso a caso.",
+        {
+          "component": "model-cards",
+          "category": "motas-50cc"
+        },
+        "Daqui tiram-se duas conclusões práticas. Primeiro, a tabela indica um só preço de referência para as duas versões, por isso o preço não ajuda a distingui-las. Segundo, o rótulo «50 cc» descreve o tamanho do motor e nada diz sobre as mudanças. Se a transmissão é importante para si, e quase sempre é, tem de perguntar.",
+        "Também não vale a pena tentar adivinhar pela fotografia de um anúncio ou pelo que outro viajante alugou na semana anterior. As unidades livres mudam com as datas, e a resposta só serve para a mota concreta que vai levantar."
+      ]
+    },
+    {
+      "h2": "Duas formas de conduzir na mesma categoria",
+      "body": [
+        "Por fora, a diferença vê-se logo. Ao conduzir, sente-se sobretudo nos arranques, nas paragens e na forma de travar. A tabela seguinte resume o que costuma mudar; os pormenores variam de unidade para unidade, por isso peça sempre que lhe mostrem os comandos da mota que vai levar.",
+        {
+          "table": {
+            "caption": "Scooter automática e mota de mudanças de 50 cc: o que costuma mudar para quem conduz",
+            "head": [
+              "Aspeto",
+              "Scooter automática",
+              "Mota de mudanças tipo cub"
+            ],
+            "rows": [
+              [
+                "Onde vão os pés",
+                "Numa plataforma plana, à frente do assento",
+                "Em pousa-pés laterais, um de cada lado do motor"
+              ],
+              [
+                "Mudanças",
+                "Não tem: a transmissão é automática",
+                "Engrenam-se com o pé esquerdo, normalmente sem manete de embraiagem"
+              ],
+              [
+                "Travão de trás",
+                "Manete do lado esquerdo do guiador",
+                "Em regra, um pedal junto ao pé direito"
+              ],
+              [
+                "Arranque do motor",
+                "Botão de arranque, muitas vezes com uma manete de travão acionada",
+                "Em ponto morto, por botão e, em muitas unidades, também por pedal"
+              ],
+              [
+                "Paragens no trânsito",
+                "Travar e esperar",
+                "Travar e reduzir até à primeira ou ao ponto morto"
+              ],
+              [
+                "Arrumação",
+                "Compartimento debaixo do assento, por vezes pequeno",
+                "Não conte com ele: confirme o espaço da unidade"
+              ],
+              [
+                "Cuidados num aluguer longo",
+                "Pneus, travões, luzes e óleo",
+                "Os mesmos, mais a corrente"
+              ]
+            ]
+          }
+        },
+        {
+          "h3": "O travão de trás no pé: a diferença que mais surpreende"
+        },
+        "Quem vem das scooters está habituado a ter os dois travões nas mãos. Numa mota de mudanças, o lado esquerdo do guiador costuma não ter manete, e o travão de trás passa para um pedal do lado direito. Nos primeiros minutos, é fácil procurar com a mão um travão que está no pé. Experimente-o numa rua calma, a baixa velocidade, antes de precisar dele a sério.",
+        {
+          "h3": "Peso, manobras e arrumação"
+        },
+        "As duas versões são leves, e essa é uma das razões para escolher uma 50 cc; o peso exato depende do modelo e do ano da unidade. No dia a dia, conta mais a forma de manobrar. Antes de sair, peça para pôr e tirar a mota do descanso uma vez, com alguém da loja ao lado, e empurre-a alguns metros com o motor desligado.",
+        "A arrumação também muda. Numa scooter, o compartimento debaixo do assento leva a capa de chuva e pouco mais; numa mota de mudanças, pode não haver espaço nenhum. Se precisa de levar uma mochila todos os dias, diga-o à loja ao reservar."
+      ]
+    },
+    {
+      "h2": "Como saber qual lhe vão entregar",
+      "body": [
+        "A resposta tem de vir da loja e convém tê-la por escrito antes do dia do levantamento. Na mensagem em que pede o orçamento, junte estas perguntas:",
+        {
+          "checklist": [
+            "A 50 cc livre nas minhas datas é uma scooter automática ou uma mota de mudanças?",
+            "Pode enviar-me uma fotografia da unidade, de lado, com os pés e o guiador à vista?",
+            "Que cilindrada consta do registo dessa mota?",
+            "Se só houver uma mota de mudanças, existe alguma automática como alternativa, e a que preço?",
+            "Posso experimentar a mota alguns minutos junto à loja antes de a levar?",
+            "Se não me adaptar, posso trocá-la durante o aluguer?"
+          ]
+        },
+        "A fotografia ajuda mais do que parece. Mesmo sem conhecer o modelo, consegue ver se há uma plataforma plana para os pés ou pousa-pés laterais com uma alavanca junto ao pé esquerdo.",
+        "A pergunta sobre a cilindrada tem outra utilidade: há scooters pequenas que parecem 50 cc e não o são. A Honda Vision, uma scooter automática que a Honda Vietname continua a vender, tem cerca de 110 cm³; é um motociclo da categoria A1, e não uma 50 cc. O que decide é o registo do veículo, e não o tamanho da carroçaria.",
+        {
+          "h3": "Na entrega: três sinais que não enganam"
+        },
+        {
+          "ul": [
+            "**Alavanca junto ao pé esquerdo**: se existe, a mota tem mudanças.",
+            "**Plataforma plana entre o assento e o guiador**, sem alavanca: é uma scooter automática.",
+            "**Painel**: muitas motas de mudanças têm uma luz de ponto morto, normalmente marcada com «N», e algumas mostram a mudança engrenada."
+          ]
+        },
+        "Se a unidade não for a combinada, diga-o antes de assinar ou de pagar. O guia sobre [receber a mota](/guia-de-aluguer/receber-a-mota/) mostra a ordem da entrega e o que verificar em cada passo."
+      ]
+    },
+    {
+      "h2": "Qual consegue conduzir com à-vontade",
+      "body": [
+        "Saber que mota vai receber é metade da resposta. A outra metade é saber se a conduz com segurança no trânsito de Hanói, onde se para e arranca a cada cruzamento. Veja em que caso se encaixa:",
+        {
+          "table": {
+            "caption": "Experiência de condução e tipo de 50 cc a pedir",
+            "head": [
+              "A sua experiência",
+              "O que pedir",
+              "Porquê"
+            ],
+            "rows": [
+              [
+                "Nunca conduziu uma mota",
+                "Nenhuma das duas, por agora",
+                "Uma 50 cc é lenta, mas não ensina a conduzir, e Hanói não é sítio para aprender"
+              ],
+              [
+                "Só conduziu scooters automáticas",
+                "Scooter automática",
+                "Aprender as mudanças e o travão no pé ao mesmo tempo que o trânsito é um risco escusado"
+              ],
+              [
+                "Conduz motas com embraiagem manual",
+                "Qualquer das duas, depois de um teste",
+                "Sem manete de embraiagem, as mudanças pedem alguns minutos de habituação"
+              ],
+              [
+                "Já conduziu motas tipo cub",
+                "A que estiver livre",
+                "Decida pelo percurso e pela arrumação de que precisa"
+              ]
+            ]
+          }
+        },
+        "Se hesitar entre dois casos, fique com o mais prudente. A comparação entre os dois tipos de transmissão nas cilindradas maiores, com cenários de percurso e de orçamento, está no guia [scooter ou semiautomática](/tipos-de-motas/scooter-ou-semiautomatica/).",
+        {
+          "h3": "Um teste de cinco minutos antes de sair"
+        },
+        "Peça para dar uma volta lenta numa rua calma perto da loja. Numa mota de mudanças, verifique se consegue fazer o seguinte sem olhar para os pés:",
+        {
+          "checklist": [
+            "arrancar em primeira sem solavancos;",
+            "passar à segunda e voltar à primeira antes de parar;",
+            "encontrar o ponto morto com a mota parada;",
+            "travar com o pedal e com a manete ao mesmo tempo."
+          ]
+        },
+        "Se alguma destas tarefas lhe exigir atenção a mais, a resposta está dada: peça uma automática ou outra solução. Numa scooter, o teste é mais curto, mas igualmente útil. Confirme a resposta do acelerador e a força das duas manetes de travão."
+      ]
+    },
+    {
+      "h2": "Os primeiros minutos com cada tipo",
+      "body": [
+        "Os passos seguintes são gerais. Cada unidade tem os seus pormenores, por isso siga sempre a demonstração que a loja lhe fizer.",
+        {
+          "h3": "Scooter automática"
+        },
+        {
+          "steps": [
+            {
+              "title": "Recolher o descanso",
+              "text": "Com a mota direita e o descanso recolhido, sente-se com os dois pés no chão."
+            },
+            {
+              "title": "Ligar o motor",
+              "text": "Rode a chave e carregue no botão de arranque; em muitas scooters, o motor só pega com uma manete de travão acionada."
+            },
+            {
+              "title": "Arrancar devagar",
+              "text": "Rode o acelerador com suavidade. Uma 50 cc reage sem brusquidão, mas o primeiro metro deve ser sempre lento."
+            }
+          ]
+        },
+        {
+          "h3": "Mota de mudanças tipo cub"
+        },
+        {
+          "steps": [
+            {
+              "title": "Confirmar o ponto morto",
+              "text": "Antes de ligar, veja se a luz de ponto morto está acesa ou peça que lhe mostrem como o encontrar."
+            },
+            {
+              "title": "Ligar o motor",
+              "text": "Use o botão de arranque ou, se a unidade o tiver, o pedal de arranque, como lhe mostraram na loja."
+            },
+            {
+              "title": "Engrenar e arrancar",
+              "text": "Com o motor ao ralenti, engrene a primeira com o pé esquerdo e acelere de forma progressiva."
+            },
+            {
+              "title": "Subir e reduzir",
+              "text": "Passe as mudanças à medida que ganha velocidade e reduza antes de parar, para voltar a arrancar em primeira."
+            }
+          ]
+        },
+        "Nos dois casos, peça que lhe mostrem também o interruptor das luzes, os piscas e a buzina, que mudam de sítio de uma marca para outra. Repita os gestos à frente de quem explica: dois minutos de prática evitam hesitações no primeiro semáforo."
+      ]
+    },
+    {
+      "h2": "Automática ou de mudanças, a categoria legal é a mesma",
+      "body": [
+        "Para a lei vietnamita, uma 50 cc é um «xe gắn máy»: um veículo de duas ou três rodas com motor até 50 cm³, ou elétrico até 4 kW, cuja velocidade de projeto não passa de 50 km/h. A definição assenta na cilindrada e na velocidade, e não na transmissão. Uma scooter automática e uma mota de mudanças com essas características ficam no mesmo grupo.",
+        "A idade mínima para este grupo é de 16 anos. Os documentos que um visitante deve levar são outra questão, que não depende das mudanças e que tem de confirmar antes de conduzir. Veja o guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/) e, para as ideias feitas mais repetidas, os [mitos sobre as motas de 50 cc](/tipos-de-motas/mitos-sobre-motas-50cc/)."
+      ]
+    },
+    {
+      "h2": "Se a 50 cc livre não for a que procura",
+      "body": [
+        "Pode acontecer que, nas suas datas, a única 50 cc disponível seja do tipo que não quer. Há três saídas:",
+        {
+          "ul": [
+            "**Mudar as datas ou reservar mais cedo**, se tiver margem: o guia sobre [reservar com antecedência](/precos/reservar-com-antecedencia/) explica quando vale a pena.",
+            "**Escolher outra scooter automática.** Na tabela de referência, a Honda Click custa {{price.click.day}} por dia, {{cmp.click.cc50.day}} uma 50 cc. Tem, porém, mais de 50 cm³: é um motociclo e exige carta da categoria A1 ou A, conforme a cilindrada.",
+            "**Pedir uma troca durante o aluguer**, se começar com uma mota e não se adaptar: o guia sobre [trocar de mota](/guia-de-aluguer/trocar-de-mota/) mostra como pedir e registar a troca."
+          ]
+        },
+        "Envie as perguntas pelos [contactos da loja](/contactos/), com as datas e a sua experiência de condução. A lista completa de [perguntas a fazer antes de alugar](/guia-de-aluguer/perguntas-antes-de-alugar/) cobre também a caução, os documentos e a devolução, e a página de [tipos de motas](/tipos-de-motas/) mostra as outras famílias de veículos da loja."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Posso pedir especificamente uma 50 cc automática?",
+      "a": "Pode, e deve, se é a única que conduz com segurança. A loja responde em função das unidades livres nas suas datas, por isso faça o pedido logo no primeiro contacto e peça uma confirmação por escrito, de preferência acompanhada de uma fotografia da mota."
+    },
+    {
+      "q": "Uma mota de mudanças de 50 cc vai abaixo se eu parar sem pôr o ponto morto?",
+      "a": "Na maioria das motas tipo cub, a embraiagem atua sozinha e o motor não costuma ir abaixo ao parar com uma mudança engrenada. Mesmo assim, reduza até à primeira antes de parar: arrancar numa mudança alta é lento e pode deixá-lo para trás no meio do cruzamento. Peça à loja que lhe mostre como se comporta a sua unidade."
+    },
+    {
+      "q": "Uma scooter pequena é sempre uma 50 cc?",
+      "a": "Não. Há scooters compactas com bem mais de 50 cm³: a Honda Vision, por exemplo, tem cerca de 110 cm³ e é um motociclo da categoria A1. Para saber se a unidade é mesmo uma 50 cc, peça à loja a cilindrada que consta do registo do veículo."
+    },
+    {
+      "q": "A 50 cc de mudanças custa menos do que a automática?",
+      "a": "A tabela de referência não as distingue: indica um só preço ao dia para a linha «mota ou scooter de 50 cc», {{price.cc50.day}}. Para uma semana ou mais, peça à loja o total para as suas datas e pergunte se o tipo de unidade altera o valor."
+    }
+  ],
+  "sources": [
+    "tabela-precos-proprietario",
+    "luatvietnam-16-anos",
+    "lei-36-2024-a1",
+    {
+      "title": "Página do modelo Honda Vision no site oficial da Honda Vietname",
+      "publisher": "Honda Việt Nam",
+      "url": "https://www.honda.com.vn/xe-may/san-pham/vision",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "Honda Vision thế hệ mới được ra mắt tại Việt Nam, giá từ 30 triệu đồng",
+      "publisher": "Doanh Nhân — Báo Pháp luật Việt Nam",
+      "url": "https://doanhnhan.baophapluat.vn/honda-vision-the-he-moi-duoc-ra-mat-tai-viet-nam-gia-tu-30-trieu-dong-35960.html",
+      "accessed": "2026-10-12",
+      "type": "news",
+      "lang": "vi"
+    }
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "PUBLISHED",
+  "date_published": "2026-10-13",
+  "date_modified": "2026-10-13",
+  "editorial": {
+    "qa_score": 100,
+    "qa_warnings": [],
+    "words": 2104,
+    "publish_mode": "review",
+    "approved_at": "2026-10-13",
+    "revisions": []
+  }
+}

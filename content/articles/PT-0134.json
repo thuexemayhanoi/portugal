@@ -125,7 +125,7 @@
             "se fica algum documento seu na loja e quando lhe é devolvido."
           ]
         },
-        "Este guia não indica montantes: as condições variam com a loja, o modelo e a duração. O que importa é que o que lhe disseram coincida com o que ficou escrito."
+        "Este guia não indica montantes: as condições variam com a loja, o modelo e a duração. O que importa é que o que lhe disseram coincida com o que ficou escrito. As formas que uma caução pode assumir e as regras de restituição estão no guia sobre [como funciona a caução no aluguer](/precos/como-funciona-a-caucao/)."
       ]
     },
     {
@@ -135,7 +135,7 @@
         {
           "h3": "Danos à mota"
         },
-        "Procure como é avaliado um dano: pelo custo da reparação numa oficina, com recibo, ou por um valor fixo definido pela loja. Confirme se o desgaste normal — pneus, pastilhas dos travões, pequenas marcas de uso — fica de fora. Uma cláusula que diz apenas «o cliente paga todos os danos», sem explicar como se calculam, merece uma pergunta.",
+        "Procure como é avaliado um dano: pelo custo da reparação numa oficina, com recibo, ou por um valor fixo definido pela loja. Confirme se o desgaste normal — pneus, pastilhas dos travões, pequenas marcas de uso — fica de fora. Uma cláusula que diz apenas «o cliente paga todos os danos», sem explicar como se calculam, merece uma pergunta. Para provar o estado em que recebeu a mota, siga o [método para fotografar a mota no levantamento](/guia-de-aluguer/fotografar-a-mota/).",
         {
           "h3": "Avarias e furos"
         },
@@ -335,9 +335,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 2329,
+    "words": 2369,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

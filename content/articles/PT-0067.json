@@ -183,7 +183,7 @@
           "ul": [
             "**Quer ficar com a mota mais tempo**: avise a loja antes do fim da semana e confirme o valor dos dias extra ou de uma segunda semana.",
             "**Precisa de a devolver mais cedo**: não parta do princípio de que os dias por usar são reembolsados; pergunte como funciona antes de fechar o aluguer.",
-            "**A estadia passou a várias semanas**: compare a soma das semanas com a tarifa mensal. Um mês de Wave, por exemplo, custa {{price.wave.month}}, contra {{price.wave.week}} por cada semana; peça à loja o valor para o período completo."
+            "**A estadia passou a várias semanas**: compare a soma das semanas com a tarifa do [aluguer mensal de mota](/precos/aluguer-mensal-de-mota/). Um mês de Wave, por exemplo, custa {{price.wave.month}}, contra {{price.wave.week}} por cada semana; peça à loja o valor para o período completo."
           ]
         },
         "Qualquer alteração fica mais simples se for combinada por escrito, na mesma conversa em que fechou o aluguer."
@@ -246,9 +246,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 2342,
+    "words": 2346,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

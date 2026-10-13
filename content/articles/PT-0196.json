@@ -134,7 +134,7 @@
       "body": [
         "No Vietname, o capacete é obrigatório para quem conduz e para quem vai atrás, por isso merece mais atenção do que um simples «serve». Experimente-o antes de sair: deve ficar justo sem apertar, não rodar quando abana a cabeça e ter a fivela a fechar bem. Se levar passageiro, essa pessoa deve experimentar o dela.",
         "Veja também a viseira, se existir. Riscada ou suja, atrapalha a visão à noite e com chuva.",
-        "Por fim, pergunte pelos acessórios que podem fazer falta durante o aluguer, como uma capa de chuva ou um cadeado, e anote o que recebeu. No último dia, é exatamente isso que vai devolver."
+        "Por fim, pergunte pelos acessórios que podem fazer falta durante o aluguer, como uma capa de chuva ou um cadeado, e anote o que recebeu. No último dia, é exatamente isso que vai devolver: a [checklist para devolver a mota alugada](/guia-de-aluguer/devolver-a-mota/) mostra como decorre essa verificação final, com as fotografias da entrega na mão."
       ]
     },
     {
@@ -252,9 +252,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 2115,
+    "words": 2135,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

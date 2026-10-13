@@ -225,7 +225,7 @@
       "h2": "Depois do controlo: avisar a loja",
       "body": [
         "Mesmo que tudo se resolva em poucos minutos, conte à loja o que aconteceu, de preferência por mensagem e com fotografias dos papéis que recebeu. Fica registado, e a loja sabe o que esperar se surgir alguma questão mais tarde.",
-        "Se a coima ficou paga, guarde o comprovativo e mostre-o na devolução. Se algum documento da mota ficou retido ou se perdeu, a segunda via é pedida pelo proprietário; até lá, circular sem ele expõe-no a nova coima, por isso combine com a loja como continuar antes de voltar à estrada.",
+        "Se a coima ficou paga, guarde o comprovativo e mostre-o na devolução. As multas registadas por câmara seguem outro caminho, porque são notificadas à loja e podem chegar depois da devolução: veja [quem paga as multas de trânsito numa mota alugada](/precos/multas-de-transito-no-aluguer/). Se algum documento da mota ficou retido ou se perdeu, a segunda via é pedida pelo proprietário; até lá, circular sem ele expõe-no a nova coima, por isso combine com a loja como continuar antes de voltar à estrada.",
         "Um controlo também não altera o que ficou combinado no aluguer: as condições sobre caução e responsabilidades são as do acordo com a loja. O guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/) resume o que deve ficar escrito antes de levantar a mota."
       ]
     },
@@ -334,9 +334,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1752,
+    "words": 1781,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

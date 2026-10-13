@@ -83,7 +83,7 @@
     {
       "h2": "Capacetes: o primeiro acessório a confirmar",
       "body": [
-        "O capacete é obrigatório no Vietname para quem conduz e para o passageiro, por isso é o primeiro ponto da lista. Na reserva, diga quantas pessoas vão andar na mota e peça um capacete para cada uma. Se precisar de um tamanho muito grande ou muito pequeno, diga-o logo: dá tempo à loja para separar o capacete certo.",
+        "O capacete é obrigatório no Vietname para quem conduz e para o passageiro, por isso é o primeiro ponto da lista. Na reserva, diga quantas pessoas vão andar na mota e peça um capacete para cada uma. Se precisar de um tamanho muito grande ou muito pequeno, diga-o logo: dá tempo à loja para separar o capacete certo. Os formatos que vai encontrar e a forma de medir a cabeça estão no guia sobre [quantos capacetes pedir e que tamanho escolher](/precos/capacetes-no-aluguer/).",
         "Pergunte também se os capacetes têm viseira. Sem ela, uns óculos de sol ou de proteção poupam-lhe os olhos ao pó e aos insetos. Se preferir, leve uma touca fina ou um lenço para usar por baixo do capacete: é uma questão de conforto e de higiene, sobretudo num aluguer de vários dias.",
         "Os capacetes estão entre as [perguntas a fazer antes de alugar](/guia-de-aluguer/perguntas-antes-de-alugar/), ao lado da caução, dos documentos e do combustível."
       ]
@@ -219,7 +219,7 @@
             },
             {
               "title": "Na entrega",
-              "text": "Confira cada acessório, fotografe-os junto da mota e acrescente à conversa a lista do que recebeu."
+              "text": "Confira cada acessório, fotografe-os junto da mota e acrescente à conversa a lista do que recebeu. O resto da verificação está no guia sobre como [receber a mota alugada](/guia-de-aluguer/receber-a-mota/)."
             },
             {
               "title": "Durante o aluguer",
@@ -276,9 +276,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1941,
+    "words": 1977,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

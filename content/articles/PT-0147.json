@@ -100,7 +100,7 @@
           "checklist": [
             "**Destino aceite**: se a viagem descrita é aceite para aquela mota e se há zonas ou estradas a evitar.",
             "**Modelo**: se a mota que tem é adequada ou se a loja recomenda outra para essa viagem.",
-            "**Preço e caução**: se alguma coisa muda por a mota sair de Hanói.",
+            "**Preço e caução**: se alguma coisa muda por a mota sair de Hanói. O guia sobre [como funciona a caução no aluguer](/precos/como-funciona-a-caucao/) explica o que deve ficar registado.",
             "**Avaria longe da loja**: se deve ligar primeiro para a loja, se pode recorrer a uma oficina local, como guarda os recibos e quem paga a reparação.",
             "**Mota imobilizada**: o que acontece se a mota não puder continuar e como regressa a Hanói.",
             "**Regresso**: a hora de devolução e o que fazer se a viagem atrasar.",
@@ -127,7 +127,7 @@
             "**Honda Air Blade**: mais potente, útil para andar a dois ou para saídas mais longas. Confirme a cilindrada da unidade, porque acima de 125 cm³ a carta exigida passa da categoria A1 para a categoria A."
           ]
         },
-        "Se a loja recomendar outro modelo, faça a troca antes de partir, com nova inspeção e novas fotografias. As [scooters automáticas](/tipos-de-motas/scooters/) e os restantes [tipos de motas](/tipos-de-motas/) estão comparados em páginas próprias."
+        "Se a loja recomendar outro modelo, faça a troca antes de partir, com nova inspeção e novas fotografias: o guia sobre [trocar de mota a meio do aluguer](/guia-de-aluguer/trocar-de-mota/) mostra como a pedir e o que confirmar. As [scooters automáticas](/tipos-de-motas/scooters/) e os restantes [tipos de motas](/tipos-de-motas/) estão comparados em páginas próprias."
       ]
     },
     {
@@ -239,9 +239,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1870,
+    "words": 1903,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

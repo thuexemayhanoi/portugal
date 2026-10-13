@@ -30,7 +30,7 @@
             "o **certificado do seguro obrigatório de responsabilidade civil** do proprietário do veículo."
           ]
         },
-        "A carta é sua. O registo e o seguro são da mota: estão em nome do proprietário, mesmo quando é outra pessoa a conduzir. Quanto à inspeção, pergunte à loja se se aplica ao modelo que vai levar.",
+        "A carta é sua, e a categoria que nela consta tem de cobrir a mota, como explica o guia das [categorias A1 e A no Vietname](/guia-de-aluguer/categorias-a1-e-a/). O registo e o seguro são da mota: estão em nome do proprietário, mesmo quando é outra pessoa a conduzir. Quanto à inspeção, pergunte à loja se se aplica ao modelo que vai levar.",
         {
           "note": "O mesmo artigo permite mostrar os documentos através da conta de identificação eletrónica (a aplicação VNeID), quando estão integrados nessa conta. Numa mota alugada, os documentos do veículo estão em nome do proprietário, por isso não conte com esta via: leve os documentos físicos e pergunte à loja o que deve mostrar num controlo.",
           "tone": "info",
@@ -61,7 +61,7 @@
     {
       "h2": "O certificado do seguro obrigatório",
       "body": [
-        "No Vietname, o proprietário de um veículo motorizado tem de ter um seguro obrigatório de responsabilidade civil, regulado pelo Decreto 67/2023/NĐ-CP. No caso das motas, na linguagem corrente, fala-se simplesmente em «bảo hiểm xe máy». Este seguro serve para indemnizar terceiros pelos danos pessoais e materiais que o veículo lhes cause; não é um seguro da própria mota nem um seguro de acidentes para quem a conduz.",
+        "No Vietname, o proprietário de um veículo motorizado tem de ter um seguro obrigatório de responsabilidade civil, regulado pelo Decreto 67/2023/NĐ-CP. No caso das motas, na linguagem corrente, fala-se simplesmente em «bảo hiểm xe máy». Este seguro serve para indemnizar terceiros pelos danos pessoais e materiais que o veículo lhes cause; não é um seguro da própria mota nem um seguro de acidentes para quem a conduz. O que cobre e o que fica de fora está explicado no guia do [seguro obrigatório de mota no Vietname](/guia-de-aluguer/seguro-obrigatorio-de-mota/).",
         "O certificado é emitido pela seguradora, um por veículo, e inclui, entre outros dados:",
         {
           "ul": [
@@ -227,7 +227,7 @@
             "A que número ligo ou escrevo, e por que meio?"
           ]
         },
-        "Se ainda não reservou, junte estas perguntas às da lista de [perguntas a fazer antes de alugar](/guia-de-aluguer/perguntas-antes-de-alugar/) e envie-as numa só mensagem. A morada, o telefone e o horário estão em [contactos](/contactos/)."
+        "Se ainda não reservou, junte estas perguntas às da lista de [perguntas a fazer antes de alugar](/guia-de-aluguer/perguntas-antes-de-alugar/) e envie-as numa só mensagem. Na mesma conversa, esclareça a caução, se existir: o guia sobre [como funciona a caução no aluguer](/precos/como-funciona-a-caucao/) indica o que deve ficar escrito. A morada, o telefone e o horário estão em [contactos](/contactos/)."
       ]
     }
   ],
@@ -303,9 +303,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 2169,
+    "words": 2234,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

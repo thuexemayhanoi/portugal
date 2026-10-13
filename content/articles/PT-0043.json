@@ -57,12 +57,12 @@
       "h2": "Como saber se a mota cabe no limite dos 16 anos",
       "body": [
         "No dia a dia, chama-se «50 cc» a quase tudo o que é pequeno. Para a lei, contam critérios técnicos. Um veículo de duas ou três rodas é um «xe gắn máy» quando o motor não passa de 50 cm³ — ou de 4 kW, se for elétrico — e a velocidade de projeto não ultrapassa 50 km/h. Acima desses valores, é um «xe mô tô», ou seja, um motociclo.",
-        "Isto deixa de fora as scooters mais comuns em Hanói. A [Honda Vision](/tipos-de-motas/honda-vision-em-hanoi/) tem cerca de 110 cm³ e a Honda Air Blade é vendida em versões de 125 e de 160 cm³: são motociclos das categorias A1 ou A. Para quem tem 16 ou 17 anos, estes modelos correspondem a cartas que a lei vietnamita só emite aos 18.",
+        "Isto deixa de fora as scooters mais comuns em Hanói. A [Honda Vision](/tipos-de-motas/honda-vision-em-hanoi/) tem cerca de 110 cm³ e a Honda Air Blade é vendida em versões de 125 e de 160 cm³: são motociclos das categorias A1 ou A. Para quem tem 16 ou 17 anos, estes modelos correspondem a cartas que a lei vietnamita só emite aos 18. Para quem já tem idade e carta para as duas, o guia sobre [scooter de 50 cc ou de 110 cc](/tipos-de-motas/scooter-50cc-ou-110cc/) mostra o que muda no dia a dia.",
         {
           "h3": "E as motas elétricas?"
         },
         "Também aqui manda a ficha técnica, e não o aspeto. Uma mota elétrica até 4 kW, com velocidade de projeto até 50 km/h, fica no mesmo grupo das 50 cc. Acima de 4 kW, passa a motociclo: até 11 kW, entra na categoria A1; acima disso, na A.",
-        "Como a cilindrada e a potência não se adivinham a olhar para a mota, peça à loja os dados da unidade concreta que lhe vão entregar. É a única forma de saber em que grupo está e que idade mínima se aplica."
+        "Como a cilindrada e a potência não se adivinham a olhar para a mota, peça à loja os dados da unidade concreta que lhe vão entregar. É a única forma de saber em que grupo está e que idade mínima se aplica. O guia sobre [como confirmar que a mota é mesmo de 50 cc](/tipos-de-motas/confirmar-que-a-mota-e-50cc/) mostra onde ler a cilindrada no certificado de registo e a velocidade de projeto na ficha técnica."
       ]
     },
     {
@@ -92,7 +92,7 @@
           ]
         },
         "Envie as perguntas numa só mensagem, com as datas, o modelo pretendido e a idade de quem vai conduzir, através dos [contactos da loja](/contactos/). Para não esquecer o resto, junte-lhes a lista de [perguntas a fazer antes de alugar](/guia-de-aluguer/perguntas-antes-de-alugar/).",
-        "Na tabela de referência, uma 50 cc custa {{price.cc50.day}} por dia; semanas e meses são cotados caso a caso. Guarde a resposta da loja por escrito, sobretudo no que toca à idade e aos documentos."
+        "Na tabela de referência, uma 50 cc custa {{price.cc50.day}} por dia; semanas e meses são cotados caso a caso. Como essa linha tanto pode corresponder a uma scooter como a uma pequena mota de mudanças, pergunte também [se a 50 cc é automática ou com mudanças](/tipos-de-motas/50cc-automatica-ou-com-mudancas/). Guarde a resposta da loja por escrito, sobretudo no que toca à idade e aos documentos."
       ]
     },
     {
@@ -106,7 +106,7 @@
             "**Nada de autoestradas**: nenhuma mota pode circular nas autoestradas vietnamitas (cao tốc), seja qual for a cilindrada."
           ]
         },
-        "Para um condutor jovem, pesa ainda a experiência. O trânsito de Hanói é denso e muda de ritmo de minuto para minuto: se nunca conduziu uma mota, não é aqui que deve aprender. Uma 50 cc também não facilita as coisas, porque a velocidade de projeto limitada pode ser pouca em vias com trânsito rápido."
+        "Para um condutor jovem, pesa ainda a experiência. O trânsito de Hanói é denso e muda de ritmo de minuto para minuto: se nunca conduziu uma mota, não é aqui que deve aprender. Uma 50 cc também não facilita as coisas, porque a velocidade de projeto limitada pode ser pouca em vias com trânsito rápido. Se vem fazer um intercâmbio, o guia sobre a [50 cc para estudantes de intercâmbio](/tipos-de-motas/50cc-para-estudantes-de-intercambio/) ajuda a avaliar o trajeto, o seguro e o orçamento de um semestre."
       ]
     },
     {
@@ -178,9 +178,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1719,
+    "words": 1833,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

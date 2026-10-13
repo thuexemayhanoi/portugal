@@ -1,0 +1,312 @@
+{
+  "contract_version": 1,
+  "id": "PT-0209",
+  "slug": "assistencia-na-estrada",
+  "title": "Assistência na estrada de mota no Vietname: o que esperar",
+  "description": "Furo, mota que não pega ou depósito vazio? Que ajuda existe na estrada, o que combinar com a loja antes de sair e o que esperar quando a mota alugada para.",
+  "h1": "Ficou parado com a mota alugada: que ajuda existe e a quem recorrer primeiro",
+  "summary": "Numa mota alugada no Vietname, a assistência na estrada é a que combinar com a loja antes de sair, somada à ajuda que encontra por perto: oficinas de rua, bombas de gasolina, o alojamento. Este site não publica nenhum serviço de assistência da loja, por isso pergunte a quem ligar, o que pode reparar sem esperar e o que fazer se a mota não puder andar.",
+  "key_points": [
+    "Este site não publica nenhum serviço de assistência em viagem da loja: o que ela pode fazer por si combina-se antes de sair, por escrito.",
+    "Quando a mota para, a ordem é sempre a mesma: primeiro a sua segurança, depois a mota, por fim o contacto com a loja.",
+    "Para um furo ou uma avaria simples, a ajuda mais rápida é muitas vezes uma oficina de rua com a placa «sửa xe», dentro do que combinou com a loja.",
+    "A loja atende {{hours}}; fora desse horário, ponha a mota em segurança e resolva o resto de manhã.",
+    "Num acidente com feridos, a primeira chamada é para os serviços de emergência, e não para a loja."
+  ],
+  "intro": [
+    "Quem aluga automóveis pode estar habituado a um número de assistência em viagem indicado no contrato. Numa mota alugada em Hanói, convém não transpor essa ideia sem perguntar. A ajuda tem aqui outra forma: junta o que a loja lhe disser antes de sair e o que encontra à sua volta quando a mota para.",
+    "Este guia explica o que esperar quando fica parado na estrada com a mota alugada: os primeiros minutos, que ajuda procurar para cada problema, o que pode e não pode esperar da loja {{brand}} e o que muda à noite ou longe da cidade. As regras gerais do aluguer estão no [guia de aluguer](/guia-de-aluguer/)."
+  ],
+  "sections": [
+    {
+      "h2": "O que a assistência significa numa mota alugada",
+      "body": [
+        "Num aluguer de mota, «assistência» não é, à partida, um serviço com nome e número próprios. Este site não publica nenhum serviço desse tipo por parte da loja: não indica se a loja envia alguém, se troca a mota no local ou se paga reparações feitas na estrada. Tudo isso se combina com a loja, caso a caso.",
+        "Na prática, a ajuda que pode ter quando a mota para vem de várias fontes, cada uma com o seu papel e os seus limites:",
+        {
+          "table": {
+            "caption": "Quem pode ajudar quando a mota para",
+            "head": [
+              "Quem",
+              "Em que pode ajudar",
+              "Limites"
+            ],
+            "rows": [
+              [
+                "Você",
+                "Pôr-se em segurança, perceber o problema, registá-lo e comunicá-lo",
+                "Não deve forçar a mota nem decidir sozinho reparações que dependem da loja"
+              ],
+              [
+                "A loja",
+                "Dar instruções, autorizar reparações, decidir sobre a troca ou a recolha da mota",
+                "Atende {{hours}}; o que pode fazer depende do caso e do acordo"
+              ],
+              [
+                "Uma oficina de rua («sửa xe»)",
+                "Furos, pneus, lâmpadas e outras reparações simples",
+                "A conversa é em vietnamita; o preço e o trabalho combinam-se antes de começar"
+              ],
+              [
+                "Uma bomba de gasolina",
+                "Combustível",
+                "Não resolve avarias"
+              ],
+              [
+                "O alojamento",
+                "Pode pedir-lhe ajuda para traduzir, guardar a mota ou chamar um táxi",
+                "Não decide nada sobre a mota em nome da loja"
+              ],
+              [
+                "Serviços de emergência",
+                "Feridos, acidentes e situações de perigo",
+                "São a primeira chamada sempre que há feridos"
+              ],
+              [
+                "O seu seguro de viagem, se tiver",
+                "Assistência às pessoas, nos termos da apólice",
+                "Confirme antes de viajar se cobre a condução de mota"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "h2": "Os primeiros minutos depois de a mota parar",
+      "body": [
+        "Uma mota que para no meio do trânsito de Hanói é, antes de mais, um problema de segurança. Antes de pensar no custo ou na loja, siga esta ordem:",
+        {
+          "steps": [
+            {
+              "title": "Saia da via",
+              "text": "Encoste à berma, fora do fluxo do trânsito, e desligue o motor. Se a mota não andar, empurre-a com cuidado, a pé, até um sítio seguro."
+            },
+            {
+              "title": "Afaste-se do trânsito",
+              "text": "Não fique agachado junto à mota do lado da estrada. Se estiver escuro, use a lanterna do telemóvel para ser visto."
+            },
+            {
+              "title": "Perceba o que se passa",
+              "text": "Pneu vazio, depósito na reserva, uma luz acesa no painel, um ruído novo, uma peça solta. Repita os passos de arranque que lhe mostraram na entrega antes de concluir que a mota não pega."
+            },
+            {
+              "title": "Registe",
+              "text": "Fotografe a mota, o problema e o local, com uma referência visível: uma placa, um número de porta, uma loja em frente."
+            },
+            {
+              "title": "Partilhe a localização",
+              "text": "Guarde a sua posição no mapa e tenha-a pronta para enviar, junto com as fotografias."
+            },
+            {
+              "title": "Contacte a loja",
+              "text": "Ligue ou escreva para o {{phone}} com o que viu, a localização e as fotografias, e espere por instruções antes de qualquer reparação que não tenha sido combinada."
+            }
+          ]
+        },
+        "Os comandos que a loja explica no levantamento, do arranque às luzes, estão descritos no guia sobre [receber a mota](/guia-de-aluguer/receber-a-mota/). Conhecer bem a mota evita confundir um descuido com uma avaria."
+      ]
+    },
+    {
+      "h2": "Que ajuda procurar para cada problema",
+      "body": [
+        "Cada problema tem um ponto de ajuda mais adequado. A tabela resume onde procurar e o que confirmar com a loja; em qualquer caso, o que combinou antes de sair prevalece sobre ela.",
+        {
+          "table": {
+            "caption": "Problemas na estrada e onde procurar ajuda",
+            "head": [
+              "Problema",
+              "Onde procurar ajuda",
+              "O que confirmar com a loja"
+            ],
+            "rows": [
+              [
+                "Pneu furado ou vazio",
+                "Uma oficina de rua, levando a mota a pé, sem a conduzir com o pneu vazio",
+                "Se pode reparar logo e quem paga"
+              ],
+              [
+                "Depósito vazio",
+                "A bomba de gasolina mais próxima, empurrando a mota",
+                "Que nível de combustível deve ter na devolução"
+              ],
+              [
+                "Mota que não pega",
+                "Primeiro os passos de arranque; depois, uma oficina",
+                "Se deve esperar por instruções antes de chamar um mecânico"
+              ],
+              [
+                "Lâmpada, espelho ou peça solta",
+                "Uma oficina de rua, se a loja o aceitar",
+                "Se pode trocar a peça e guardar o recibo"
+              ],
+              [
+                "Chave perdida ou comando sem resposta",
+                "A loja, antes de qualquer serralheiro; não force a ignição",
+                "Como chega até si uma solução e quanto custa"
+              ],
+              [
+                "Queda sem feridos",
+                "Pôr-se em segurança e registar o estado da mota",
+                "Se a mota pode continuar e como se trata o dano"
+              ],
+              [
+                "Acidente com feridos",
+                "Os serviços de emergência, antes de mais",
+                "Avise a loja logo que for possível"
+              ]
+            ]
+          }
+        },
+        "Para os casos mais comuns há guias próprios: [furos e pequenas reparações](/precos/custo-de-furos-e-reparacoes/), [combustível no aluguer](/precos/combustivel-no-aluguer/), [chave perdida](/guia-de-aluguer/perdi-a-chave/) e [mota danificada no estacionamento](/guia-de-aluguer/mota-danificada-estacionada/).",
+        {
+          "h3": "Na oficina de rua"
+        },
+        "Uma oficina de rua é muitas vezes a ajuda mais rápida para um problema simples numa scooter comum. Nem sempre passa recibo formal, a conversa é em vietnamita e o preço combina-se no momento. Antes de o mecânico começar, mostre o problema à loja por fotografia, pergunte o preço e peça que o escrevam. Estas frases ajudam a pedir ajuda na rua:",
+        {
+          "table": {
+            "caption": "Frases para pedir ajuda na rua, em vietnamita",
+            "head": [
+              "Em vietnamita",
+              "Em português"
+            ],
+            "rows": [
+              [
+                "Xe tôi bị thủng lốp.",
+                "A minha mota tem um furo."
+              ],
+              [
+                "Xe không nổ máy.",
+                "A mota não pega."
+              ],
+              [
+                "Xe hết xăng.",
+                "A mota ficou sem gasolina."
+              ],
+              [
+                "Gần đây có tiệm sửa xe không?",
+                "Há alguma oficina de motas aqui perto?"
+              ],
+              [
+                "Cây xăng gần nhất ở đâu?",
+                "Onde fica a bomba de gasolina mais próxima?"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "h2": "O que pode esperar da loja, e o que deve perguntar antes",
+      "body": [
+        "A loja é o seu ponto de contacto para tudo o que diga respeito à mota. Dentro do horário, {{hours}}, pode pedir-lhe instruções pelo {{phone}}, por chamada ou Zalo. O que a loja faz a seguir, seja enviar alguém, indicar uma oficina, trocar a mota ou pedir que a leve de volta, depende do problema, do sítio onde está e do acordo. Este site não o publica.",
+        "Por isso, as perguntas fazem-se antes de arrancar, e não à beira da estrada:",
+        {
+          "ul": [
+            "Se a mota parar, prefere uma chamada ou uma mensagem com fotografias e localização?",
+            "Em que casos devo esperar por alguém da loja, e em que casos procuro uma oficina?",
+            "Há um valor até ao qual posso mandar reparar sem pedir autorização?",
+            "Se a mota não puder andar, onde a deixo e quem trata do transporte?",
+            "Se ficar sem mota por causa de uma avaria, há troca por outra unidade? Como se conta esse tempo?",
+            "O que faço se a avaria acontecer depois do fecho?"
+          ]
+        },
+        "Guarde as respostas numa captura de ecrã, para as ter mesmo sem rede. Estas perguntas juntam-se às restantes [perguntas a fazer antes de alugar](/guia-de-aluguer/perguntas-antes-de-alugar/). Se vier a ser preciso trocar de mota, o guia sobre [trocar de mota](/guia-de-aluguer/trocar-de-mota/) explica como registar a troca."
+      ]
+    },
+    {
+      "h2": "Se a mota não puder andar",
+      "body": [
+        "É o cenário que mais preocupa e o que menos se resolve sozinho. Não conte com um reboque: se a loja ou uma oficina tiverem forma de transportar a mota, isso combina-se no momento, com a loja. Até lá:",
+        {
+          "ul": [
+            "não abandone a mota na rua nem a entregue a quem se oferece para a guardar sem que a loja o saiba;",
+            "se tiver de a deixar numa oficina ou num parque, fotografe-a no local, peça um papel com o nome e o contacto de quem a guarda e envie tudo à loja;",
+            "leve consigo os documentos da mota e, salvo indicação contrária da loja, também a chave;",
+            "para regressar, chame um táxi e mostre ao motorista a morada da loja em vietnamita, {{address.vi}}, ou a do seu alojamento."
+          ]
+        },
+        "Se a solução passar por entregar a mota noutro sítio que não a loja, isso também tem de ser aceite por ela. O guia sobre [devolver noutro local](/guia-de-aluguer/devolver-noutro-local/) explica o que combinar."
+      ]
+    },
+    {
+      "h2": "À noite e fora do horário da loja",
+      "body": [
+        "A loja está aberta {{hours}}. Uma avaria às dez da noite muda as prioridades: o objetivo deixa de ser resolver o problema e passa a ser chegar bem ao alojamento, com a mota em segurança.",
+        {
+          "ul": [
+            "envie a mensagem à loja na mesma, com fotografias e localização, para ficar registado que avisou;",
+            "se a mota andar sem risco, leve-a devagar até ao alojamento ou a um parque vigiado;",
+            "se não andar, deixe-a num sítio seguro, registado em fotografia, e volte de táxi;",
+            "não autorize reparações maiores à noite sem acordo, mesmo que o mecânico insista;",
+            "ligue à loja logo à abertura, às {{opens}}."
+          ]
+        },
+        "Se a demora afetar a hora de devolução, diga-o também: o guia sobre [atraso na devolução](/guia-de-aluguer/atraso-na-devolucao/) explica como avisar."
+      ]
+    },
+    {
+      "h2": "Acidentes e feridos: a primeira chamada não é a loja",
+      "body": [
+        "Se houver feridos, a mota passa para segundo plano. Peça ajuda médica e ponha o local em segurança antes de tudo o resto; só depois contacte a loja.",
+        "Este site não publica uma lista de números de emergência do Vietname. Antes de viajar, anote-os a partir de uma fonte oficial e guarde-os no telemóvel, ao lado do contacto da loja. Se tiver seguro de viagem, junte o número de assistência da apólice e confirme se cobre a condução de mota.",
+        "Se a polícia estiver presente, mostre os documentos que lhe pedirem; o guia sobre o [controlo da polícia](/guia-de-aluguer/controlo-da-policia/) explica como agir. O que o seguro obrigatório da mota cobre, e o que deixa de fora, está no guia sobre o [seguro obrigatório de mota](/guia-de-aluguer/seguro-obrigatorio-de-mota/)."
+      ]
+    },
+    {
+      "h2": "Longe de Hanói, a assistência prepara-se antes",
+      "body": [
+        "Fora da cidade, tudo o que ficou dito fica mais lento: a loja fica longe e pode ser mais difícil encontrar uma oficina ou ter rede. Se vai sair de Hanói, a preparação faz-se antes da viagem e está explicada no guia sobre uma [avaria longe de Hanói](/guia-de-aluguer/avaria-longe-de-hanoi/), que inclui uma nota em vietnamita para mostrar numa oficina.",
+        "A própria saída também se combina com a loja, como explica o guia sobre [levar a mota para fora de Hanói](/guia-de-aluguer/autorizacao-para-sair-de-hanoi/)."
+      ]
+    },
+    {
+      "h2": "Um cartão de assistência no telemóvel",
+      "body": [
+        "Quando a mota para, o que mais atrasa a ajuda é não ter a informação certa à mão. Prepare uma nota no telemóvel, com uma cópia em papel, que reúna:",
+        {
+          "checklist": [
+            "o número da loja, {{phone}}, e o nome no Google Maps, «{{gbp}}»;",
+            "a morada da loja em vietnamita, {{address.vi}};",
+            "o modelo e a matrícula da mota, com uma fotografia;",
+            "a captura de ecrã do que combinou sobre avarias e reparações;",
+            "os números de emergência, confirmados numa fonte oficial, e o do seu seguro de viagem, se tiver;",
+            "a morada do alojamento, também em vietnamita."
+          ]
+        },
+        "Junte-lhe o telemóvel carregado e algum dinheiro em notas pequenas, para uma reparação simples ou um táxi. Os documentos da mota que devem seguir consigo estão explicados em [documentos da mota alugada](/guia-de-aluguer/documentos-da-mota-alugada/), e o que pode ser pedido como garantia no guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/)."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "A loja tem assistência na estrada a qualquer hora?",
+      "a": "Este site não publica nenhum serviço desse tipo. A loja atende {{hours}}, pelo {{phone}}. Pergunte antes de sair o que deve fazer se a mota parar fora desse horário e guarde a resposta por escrito."
+    },
+    {
+      "q": "Posso chamar um reboque por minha conta?",
+      "a": "Não avance sem falar com a loja. O transporte de uma mota que não anda, se for preciso, combina-se com ela: quem o organiza, para onde vai a mota e quem paga. Até lá, deixe a mota num sítio seguro e registado em fotografia."
+    },
+    {
+      "q": "Uma oficina de rua pode reparar qualquer avaria?",
+      "a": "É a ajuda mais rápida para problemas simples, como um furo ou uma lâmpada. Para uma avaria maior, ou se a proposta for trocar peças, envie fotografias à loja e espere pela resposta antes de aceitar. Peça sempre o preço antes de o trabalho começar."
+    }
+  ],
+  "sources": [],
+  "legal_note": false,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "PUBLISHED",
+  "date_published": "2026-10-13",
+  "date_modified": "2026-10-13",
+  "editorial": {
+    "qa_score": 100,
+    "qa_warnings": [],
+    "words": 2148,
+    "publish_mode": "review",
+    "approved_at": "2026-10-13",
+    "revisions": []
+  }
+}

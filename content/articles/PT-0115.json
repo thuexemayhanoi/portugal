@@ -85,7 +85,7 @@
     {
       "h2": "O ponto de partida: o registo do levantamento",
       "body": [
-        "Uma avaliação justa precisa de uma referência. Sem imagens do estado inicial, a conversa sobre um risco passa a ser a sua palavra contra a da loja, o que não ajuda nenhuma das partes.",
+        "Uma avaliação justa precisa de uma referência. Sem imagens do estado inicial, a conversa sobre um risco passa a ser a sua palavra contra a da loja, o que não ajuda nenhuma das partes. Essa referência cria-se nos minutos da entrega, descritos no guia sobre [como decorre a receção da mota alugada](/guia-de-aluguer/receber-a-mota/).",
         "O registo vale mais quando:",
         {
           "ul": [
@@ -94,7 +94,7 @@
             "os defeitos mais visíveis ficaram anotados no acordo ou na ficha de entrega."
           ]
         },
-        "O guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/) indica o que fotografar no momento da entrega. Para avaliar um dano, o que importa é que essas imagens existam e que a loja as tenha visto antes de o problema surgir."
+        "O guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/) indica o que fotografar no momento da entrega. Para avaliar um dano, o que importa é que essas imagens existam e que a loja as tenha visto antes de o problema surgir. Se a mota lhe for entregue no hotel, faça o mesmo registo à porta, antes de pagar ou de assinar, como explica o guia sobre a [entrega da mota no hotel](/precos/entrega-da-mota-no-hotel/)."
       ]
     },
     {
@@ -235,9 +235,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1768,
+    "words": 1817,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

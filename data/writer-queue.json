@@ -93,8 +93,16 @@
       "title": "Alugar uma Honda Click em Hanói: vantagens, preço e limites"
     },
     {
+      "url": "/tipos-de-motas/honda-vision-ou-air-blade/",
+      "title": "Vision ou Air Blade em Hanói: comparação lado a lado e escolha por perfil"
+    },
+    {
       "url": "/tipos-de-motas/scooter-ou-semiautomatica/",
       "title": "Com mudanças ou sem elas: como decidir entre scooter e semiautomática em Hanói"
+    },
+    {
+      "url": "/tipos-de-motas/nunca-conduziu-uma-mota/",
+      "title": "Scooter para principiantes em Hanói: uma avaliação honesta antes de alugar"
     },
     {
       "url": "/tipos-de-motas/scooter-para-duas-pessoas/",
@@ -109,20 +117,44 @@
       "title": "A scooter certa para a rotina de quem vive ou trabalha em Hanói"
     },
     {
+      "url": "/tipos-de-motas/melhor-scooter-para-alugar/",
+      "title": "Qual é a melhor scooter para alugar em Hanói? Cinco critérios, por ordem de importância"
+    },
+    {
       "url": "/tipos-de-motas/telemovel-e-gps-na-scooter/",
       "title": "Orientar-se de scooter em Hanói sem infringir a lei: telemóvel, suporte e bateria"
+    },
+    {
+      "url": "/tipos-de-motas/scooter-50cc-ou-110cc/",
+      "title": "Scooter de 50 cc ou de 110 cc: o que muda no trânsito de Hanói"
     },
     {
       "url": "/tipos-de-motas/idade-minima-50cc/",
       "title": "Que idade é preciso ter para conduzir uma 50 cc no Vietname?"
     },
     {
+      "url": "/tipos-de-motas/50cc-para-estudantes-de-intercambio/",
+      "title": "Um semestre de intercâmbio em Hanói com uma 50 cc: faz sentido no seu caso?"
+    },
+    {
       "url": "/tipos-de-motas/50cc-com-passageiro/",
       "title": "Levar passageiro numa 50 cc: é possível e é sensato?"
     },
     {
+      "url": "/tipos-de-motas/50cc-automatica-ou-com-mudancas/",
+      "title": "Scooter ou mota de mudanças: que 50 cc lhe vão entregar e qual consegue conduzir"
+    },
+    {
       "url": "/tipos-de-motas/mitos-sobre-motas-50cc/",
       "title": "Nove ideias feitas sobre as 50 cc no Vietname, verificadas uma a uma"
+    },
+    {
+      "url": "/tipos-de-motas/confirmar-que-a-mota-e-50cc/",
+      "title": "Confirmar que a mota é uma 50 cc: o registo, a cilindrada e a velocidade de projeto"
+    },
+    {
+      "url": "/tipos-de-motas/carta-para-mota-eletrica/",
+      "title": "Mota elétrica no Vietname: que carta exige cada potência de motor"
     },
     {
       "url": "/tipos-de-motas/zona-de-baixas-emissoes-hanoi/",
@@ -139,6 +171,14 @@
     {
       "url": "/precos/aluguer-mensal-de-mota/",
       "title": "Alugar uma mota por um mês em Hanói: preços, condições e manutenção"
+    },
+    {
+      "url": "/precos/aluguer-de-longa-duracao/",
+      "title": "Ficar com uma mota vários meses em Hanói: como planear um aluguer longo"
+    },
+    {
+      "url": "/precos/sair-de-hanoi-a-meio-do-aluguer/",
+      "title": "Ha Long, Sa Pa ou Ninh Bình sem a mota: manter o aluguer ou devolver e voltar a alugar"
     },
     {
       "url": "/precos/prolongar-o-aluguer/",
@@ -161,8 +201,20 @@
       "title": "Reservar antes de chegar ou alugar no momento: como decidir e confirmar a reserva"
     },
     {
+      "url": "/precos/desgaste-normal-num-aluguer-longo/",
+      "title": "Pneus, travões e marcas de uso ao fim de meses: o que é desgaste e o que é dano"
+    },
+    {
+      "url": "/precos/alterar-ou-cancelar-a-reserva/",
+      "title": "O voo atrasou ou a chegada mudou: como alterar a reserva da mota em Hanói"
+    },
+    {
       "url": "/precos/aluguer-com-datas-em-aberto/",
       "title": "Não sabe quantos dias vai precisar da mota? Como alugar com flexibilidade"
+    },
+    {
+      "url": "/precos/varias-motas-para-familias/",
+      "title": "Família em Hanói: quantas motas alugar, quem leva as crianças e como pedir o orçamento"
     },
     {
       "url": "/precos/como-funciona-a-caucao/",
@@ -193,6 +245,10 @@
       "title": "Quando fazer o pagamento do aluguer: no levantamento, na devolução ou por partes"
     },
     {
+      "url": "/precos/burlas-no-aluguer-de-motas/",
+      "title": "Cobranças indevidas numa mota alugada: como as reconhecer e como reagir"
+    },
+    {
       "url": "/precos/multas-de-transito-no-aluguer/",
       "title": "Multas durante o aluguer da mota: o que cabe a quem conduz e o que combinar com a loja"
     },
@@ -203,6 +259,10 @@
     {
       "url": "/precos/combustivel-no-aluguer/",
       "title": "Gasolina na mota alugada: como combinar o nível e devolvê-la sem surpresas"
+    },
+    {
+      "url": "/precos/capacetes-no-aluguer/",
+      "title": "Capacetes no aluguer da mota: quantos pedir, que formato escolher e como acertar o tamanho"
     },
     {
       "url": "/precos/capa-de-chuva-e-acessorios/",
@@ -223,6 +283,10 @@
     {
       "url": "/precos/danos-na-mota-alugada/",
       "title": "Avaliar um dano numa mota alugada: do registo inicial ao orçamento e ao recibo"
+    },
+    {
+      "url": "/precos/uma-mota-ou-duas-para-um-casal/",
+      "title": "Casal em Hanói: partilhar uma mota ou alugar duas? Custos, carta e dia a dia"
     },
     {
       "url": "/precos/vision-ou-click-no-aluguer-mensal/",
@@ -265,6 +329,10 @@
       "title": "Sem falar vietnamita: como combinar o aluguer da mota por escrito e com tradução"
     },
     {
+      "url": "/guia-de-aluguer/alugar-para-outra-pessoa/",
+      "title": "Quando quem aluga não é quem conduz: acordo, documentos e responsabilidades"
+    },
+    {
       "url": "/guia-de-aluguer/controlo-da-policia/",
       "title": "Controlo da polícia com uma mota alugada: o que mostrar e como agir"
     },
@@ -281,8 +349,16 @@
       "title": "Sair da cidade com a mota alugada: o que dizer à loja e o que deixar por escrito"
     },
     {
+      "url": "/guia-de-aluguer/conduzir-sem-carta-valida/",
+      "title": "Mota sem a habilitação certa no Vietname: as consequências na estrada, no seguro e no aluguer"
+    },
+    {
       "url": "/guia-de-aluguer/loja-de-aluguer-fiavel/",
       "title": "Como reconhecer uma loja de aluguer de motas fiável em Hanói antes de pagar"
+    },
+    {
+      "url": "/guia-de-aluguer/alcool-zero-ao-volante/",
+      "title": "Álcool zero ao guiador: o que a lei vietnamita de 2024 proíbe e como organizar as saídas à noite"
     },
     {
       "url": "/guia-de-aluguer/a-buzina-no-vietname/",
@@ -313,6 +389,10 @@
       "title": "Acabar o aluguer fora da loja: hotel, aeroporto ou outra cidade"
     },
     {
+      "url": "/guia-de-aluguer/assistencia-na-estrada/",
+      "title": "Ficou parado com a mota alugada: que ajuda existe e a quem recorrer primeiro"
+    },
+    {
       "url": "/guia-de-aluguer/mota-danificada-estacionada/",
       "title": "A mota não está como a deixou: pneu vazio, riscos ou peças em falta"
     },
@@ -335,24 +415,28 @@
     {
       "url": "/rotas-e-mobilidade/hanoi-de-mota-num-dia/",
       "title": "Um dia de mota em Hanói: o percurso a partir de Long Biên, paragem a paragem"
+    },
+    {
+      "url": "/rotas-e-mobilidade/quando-nao-conduzir/",
+      "title": "Sete situações em que a mota deve ficar parada em Hanói — e como se deslocar nesses dias"
     }
   ],
   "items": [
     {
-      "id": "PT-0005",
-      "working_title": "Honda Vision ou Air Blade: qual escolher para circular em Hanói?",
-      "slug": "honda-vision-ou-air-blade",
-      "target_url": "/tipos-de-motas/honda-vision-ou-air-blade/",
+      "id": "PT-0026",
+      "working_title": "Honda Wave em Hanói: a semiautomática mais comum para alugar",
+      "slug": "honda-wave-em-hanoi",
+      "target_url": "/tipos-de-motas/honda-wave-em-hanoi/",
       "parent_category": "tipos-de-motas",
-      "child_category": "scooters-automaticas",
-      "primary_keyword": "honda vision ou air blade",
+      "child_category": "motas-semiautomaticas",
+      "primary_keyword": "aluguer honda wave hanói",
       "secondary_keywords": [
-        "vision vs air blade",
-        "melhor scooter honda aluguer"
+        "honda wave preço",
+        "honda wave 110 cc"
       ],
       "search_intent": "commercial",
-      "funnel_stage": "MOFU",
-      "content_brief": "Comparação lado a lado (peso, potência, conforto com passageiro, preço por dia, semana e mês, categoria de carta) com recomendação por perfil de utilizador.",
+      "funnel_stage": "BOFU",
+      "content_brief": "Perfil da Wave, robustez, preço de referência por dia, semana e mês e para quem compensa.",
       "target_words": [
         1500,
         2800
@@ -360,67 +444,64 @@
       "source_requirements": {
         "codes": [
           "B",
-          "M",
-          "L"
+          "M"
         ],
-        "min_sources": 2,
+        "min_sources": 1,
         "notes": [
           "Dados da loja apenas através de {{tokens}} (site/data.json): preços, telefone, morada e horário nunca escritos à mão.",
-          "Especificações do fabricante (Honda Vietnam, Yamaha Motor Vietnam) para dados técnicos dos modelos.",
-          "Legislação vietnamita em vigor (texto da lei/decreto ou base de dados jurídica reconhecida), com data de consulta."
+          "Especificações do fabricante (Honda Vietnam, Yamaha Motor Vietnam) para dados técnicos dos modelos."
         ]
       },
-      "pillar_url": "/tipos-de-motas/scooters/",
+      "pillar_url": "/tipos-de-motas/",
       "required_links": [
-        "/tipos-de-motas/scooters/",
         "/tipos-de-motas/",
-        "/precos/",
+        "/contactos/",
         "/precos/aluguer-de-mota-por-um-dia/"
       ],
       "planned_links_not_live_yet": [
-        "/tipos-de-motas/yamaha-mio-em-hanoi/",
-        "/tipos-de-motas/honda-click-ou-yamaha-mio/"
+        "/tipos-de-motas/yamaha-sirius-em-hanoi/"
       ],
       "rewrite_reason": null
     },
     {
-      "id": "PT-0069",
-      "working_title": "Aluguer de longa duração: ficar com uma mota vários meses em Hanói",
-      "slug": "aluguer-de-longa-duracao",
-      "target_url": "/precos/aluguer-de-longa-duracao/",
+      "id": "PT-0088",
+      "working_title": "Deixar o passaporte como garantia: riscos e alternativas a perguntar",
+      "slug": "passaporte-como-garantia",
+      "target_url": "/precos/passaporte-como-garantia/",
       "parent_category": "precos-e-condicoes",
-      "child_category": "aluguer-por-duracao",
-      "primary_keyword": "aluguer mota longa duração hanói",
+      "child_category": "caucoes-e-pagamentos",
+      "primary_keyword": "passaporte garantia aluguer mota",
       "secondary_keywords": [
-        "alugar mota 3 meses hanói",
-        "aluguer mota expatriados"
+        "deixar passaporte aluguer vietname",
+        "alternativa passaporte caução"
       ],
-      "search_intent": "commercial",
+      "search_intent": "informational",
       "funnel_stage": "MOFU",
-      "content_brief": "Planear 2 a 6 meses: renovação mensal, revisões, documentos e condições a acordar por escrito; preços confirmados caso a caso.",
+      "content_brief": "Porque o passaporte é necessário (alojamento, controlos), riscos de o deixar e alternativas a negociar, com fontes oficiais sobre os documentos de estrangeiros.",
       "target_words": [
         1500,
         2800
       ],
       "source_requirements": {
         "codes": [
-          "B",
-          "L"
+          "L",
+          "P"
         ],
         "min_sources": 2,
         "notes": [
-          "Dados da loja apenas através de {{tokens}} (site/data.json): preços, telefone, morada e horário nunca escritos à mão.",
-          "Legislação vietnamita em vigor (texto da lei/decreto ou base de dados jurídica reconhecida), com data de consulta."
+          "Legislação vietnamita em vigor (texto da lei/decreto ou base de dados jurídica reconhecida), com data de consulta.",
+          "Fonte oficial portuguesa (IMT, Portal Diplomático / MNE) quando o tema envolve documentos portugueses."
         ]
       },
-      "pillar_url": "/precos/",
+      "pillar_url": "/guia-de-aluguer/documentacao-e-caucao/",
       "required_links": [
+        "/guia-de-aluguer/documentacao-e-caucao/",
         "/precos/",
-        "/precos/aluguer-mensal-de-mota/",
-        "/tipos-de-motas/honda-vision-em-hanoi/"
+        "/precos/devolucao-da-caucao/",
+        "/precos/caucao-em-dinheiro/"
       ],
       "planned_links_not_live_yet": [
-        "/precos/mota-para-o-fim-de-semana/"
+        "/guia-de-aluguer/passaporte-e-registo-de-estadia/"
       ],
       "rewrite_reason": null
     },
@@ -545,87 +626,86 @@
       "rewrite_reason": null
     },
     {
-      "id": "PT-0008",
-      "working_title": "Nunca conduziu uma mota? O que considerar antes de alugar uma scooter",
-      "slug": "nunca-conduziu-uma-mota",
-      "target_url": "/tipos-de-motas/nunca-conduziu-uma-mota/",
+      "id": "PT-0029",
+      "working_title": "Como conduzir uma mota semiautomática: mudanças sem embraiagem",
+      "slug": "como-conduzir-uma-semiautomatica",
+      "target_url": "/tipos-de-motas/como-conduzir-uma-semiautomatica/",
       "parent_category": "tipos-de-motas",
-      "child_category": "scooters-automaticas",
-      "primary_keyword": "scooter para principiantes hanói",
+      "child_category": "motas-semiautomaticas",
+      "primary_keyword": "como conduzir mota semiautomática",
       "secondary_keywords": [
-        "primeira vez de mota vietname",
-        "aprender a conduzir scooter"
+        "mudanças com o pé",
+        "embraiagem automática"
       ],
       "search_intent": "informational",
       "funnel_stage": "TOFU",
-      "content_brief": "Avaliação honesta do risco, requisitos legais e seguro, alternativas (mota com condutor, táxi) e como ganhar experiência longe do trânsito intenso.",
+      "content_brief": "Passo a passo do arranque, subida e redução de mudanças e paragem; treino num local tranquilo antes de entrar no trânsito.",
       "target_words": [
         1500,
         2800
       ],
       "source_requirements": {
         "codes": [
-          "L",
+          "M",
           "S"
         ],
         "min_sources": 2,
         "notes": [
-          "Legislação vietnamita em vigor (texto da lei/decreto ou base de dados jurídica reconhecida), com data de consulta.",
+          "Especificações do fabricante (Honda Vietnam, Yamaha Motor Vietnam) para dados técnicos dos modelos.",
           "Fonte oficial de segurança rodoviária (lei, autoridades, OMS) para afirmações sobre risco ou regras."
         ]
       },
-      "pillar_url": "/tipos-de-motas/scooters/",
+      "pillar_url": "/tipos-de-motas/",
       "required_links": [
-        "/tipos-de-motas/scooters/",
         "/tipos-de-motas/",
         "/guia-de-aluguer/documentacao-e-caucao/",
-        "/tipos-de-motas/scooter-ou-semiautomatica/",
-        "/tipos-de-motas/scooter-para-duas-pessoas/",
         "/precos/aluguer-de-mota-por-um-dia/"
       ],
-      "planned_links_not_live_yet": [],
+      "planned_links_not_live_yet": [
+        "/tipos-de-motas/honda-wave-ou-yamaha-sirius/",
+        "/tipos-de-motas/ponto-morto-e-mudancas/"
+      ],
       "rewrite_reason": null
     },
     {
-      "id": "PT-0088",
-      "working_title": "Deixar o passaporte como garantia: riscos e alternativas a perguntar",
-      "slug": "passaporte-como-garantia",
-      "target_url": "/precos/passaporte-como-garantia/",
+      "id": "PT-0098",
+      "working_title": "Quanto dinheiro levar para alugar e usar uma mota em Hanói",
+      "slug": "quanto-dinheiro-levar",
+      "target_url": "/precos/quanto-dinheiro-levar/",
       "parent_category": "precos-e-condicoes",
       "child_category": "caucoes-e-pagamentos",
-      "primary_keyword": "passaporte garantia aluguer mota",
+      "primary_keyword": "orçamento mota hanói",
       "secondary_keywords": [
-        "deixar passaporte aluguer vietname",
-        "alternativa passaporte caução"
+        "custos diários mota hanói",
+        "quanto custa andar de mota hanói"
       ],
-      "search_intent": "informational",
+      "search_intent": "commercial",
       "funnel_stage": "MOFU",
-      "content_brief": "Porque o passaporte é necessário (alojamento, controlos), riscos de o deixar e alternativas a negociar, com fontes oficiais sobre os documentos de estrangeiros.",
+      "content_brief": "Orçamento diário com o preço de referência, combustível estimado, estacionamento e margem para imprevistos; sem caução inventada.",
       "target_words": [
         1500,
         2800
       ],
       "source_requirements": {
         "codes": [
-          "L",
-          "P"
+          "B",
+          "X"
         ],
-        "min_sources": 2,
+        "min_sources": 1,
         "notes": [
-          "Legislação vietnamita em vigor (texto da lei/decreto ou base de dados jurídica reconhecida), com data de consulta.",
-          "Fonte oficial portuguesa (IMT, Portal Diplomático / MNE) quando o tema envolve documentos portugueses."
+          "Dados da loja apenas através de {{tokens}} (site/data.json): preços, telefone, morada e horário nunca escritos à mão.",
+          "Entidade ou operador oficial (metro, autocarros, ferrovia, aeroporto, preços oficiais de combustível, bancos)."
         ]
       },
       "pillar_url": "/guia-de-aluguer/documentacao-e-caucao/",
       "required_links": [
         "/guia-de-aluguer/documentacao-e-caucao/",
         "/precos/",
-        "/precos/devolucao-da-caucao/",
-        "/precos/caucao-em-dinheiro/"
+        "/precos/pagar-no-inicio-ou-no-fim/",
+        "/precos/burlas-no-aluguer-de-motas/",
+        "/guia-de-aluguer/perguntas-antes-de-alugar/"
       ],
-      "planned_links_not_live_yet": [
-        "/guia-de-aluguer/passaporte-e-registo-de-estadia/"
-      ],
+      "planned_links_not_live_yet": [],
       "rewrite_reason": null
     },
     {
@@ -663,11 +743,10 @@
         "/guia-de-aluguer/documentacao-e-caucao/",
         "/guia-de-aluguer/",
         "/guia-de-aluguer/autorizacao-para-sair-de-hanoi/",
+        "/guia-de-aluguer/conduzir-sem-carta-valida/",
         "/precos/como-funciona-a-caucao/"
       ],
-      "planned_links_not_live_yet": [
-        "/guia-de-aluguer/conduzir-sem-carta-valida/"
-      ],
+      "planned_links_not_live_yet": [],
       "rewrite_reason": null
     },
     {
@@ -750,20 +829,20 @@
       "rewrite_reason": null
     },
     {
-      "id": "PT-0020",
-      "working_title": "Qual é a melhor scooter para alugar em Hanói? Critérios para decidir",
-      "slug": "melhor-scooter-para-alugar",
-      "target_url": "/tipos-de-motas/melhor-scooter-para-alugar/",
+      "id": "PT-0056",
+      "working_title": "Alugar uma mota elétrica em Hanói: preço, autonomia e carregamento",
+      "slug": "aluguer-de-mota-eletrica-em-hanoi",
+      "target_url": "/tipos-de-motas/aluguer-de-mota-eletrica-em-hanoi/",
       "parent_category": "tipos-de-motas",
-      "child_category": "scooters-automaticas",
-      "primary_keyword": "melhor scooter para alugar hanói",
+      "child_category": "motas-eletricas",
+      "primary_keyword": "aluguer mota elétrica hanói",
       "secondary_keywords": [
-        "que scooter alugar",
-        "scooter recomendada vietname"
+        "mota elétrica preço hanói",
+        "scooter elétrica aluguer"
       ],
       "search_intent": "commercial",
-      "funnel_stage": "MOFU",
-      "content_brief": "Matriz de decisão por perfil (sozinho, a dois, trajetos curtos, estadias longas) que remete para os guias de cada modelo; não repetir as fichas.",
+      "funnel_stage": "BOFU",
+      "content_brief": "Preço de referência por dia, semana e mês, autonomia a confirmar, carregamento e perfil de utilizador.",
       "target_words": [
         1500,
         2800
@@ -779,34 +858,32 @@
           "Especificações do fabricante (Honda Vietnam, Yamaha Motor Vietnam) para dados técnicos dos modelos."
         ]
       },
-      "pillar_url": "/tipos-de-motas/scooters/",
+      "pillar_url": "/tipos-de-motas/",
       "required_links": [
-        "/tipos-de-motas/scooters/",
         "/tipos-de-motas/",
-        "/precos/",
-        "/tipos-de-motas/scooter-para-o-dia-a-dia/",
-        "/precos/aluguer-de-mota-por-um-dia/"
+        "/contactos/"
       ],
       "planned_links_not_live_yet": [
-        "/tipos-de-motas/postura-e-conforto/"
+        "/tipos-de-motas/bicicleta-eletrica-em-hanoi/",
+        "/rotas-e-mobilidade/epoca-das-chuvas-em-hanoi/"
       ],
       "rewrite_reason": null
     },
     {
-      "id": "PT-0098",
-      "working_title": "Quanto dinheiro levar para alugar e usar uma mota em Hanói",
-      "slug": "quanto-dinheiro-levar",
-      "target_url": "/precos/quanto-dinheiro-levar/",
+      "id": "PT-0116",
+      "working_title": "Mota alugada ou Grab: o que sai mais barato em Hanói?",
+      "slug": "mota-alugada-ou-grab",
+      "target_url": "/precos/mota-alugada-ou-grab/",
       "parent_category": "precos-e-condicoes",
-      "child_category": "caucoes-e-pagamentos",
-      "primary_keyword": "orçamento mota hanói",
+      "child_category": "comparacoes-de-precos",
+      "primary_keyword": "mota alugada vs grab hanói",
       "secondary_keywords": [
-        "custos diários mota hanói",
-        "quanto custa andar de mota hanói"
+        "grab bike preço hanói",
+        "táxi mota vs aluguer"
       ],
       "search_intent": "commercial",
       "funnel_stage": "MOFU",
-      "content_brief": "Orçamento diário com o preço de referência, combustível estimado, estacionamento e margem para imprevistos; sem caução inventada.",
+      "content_brief": "Comparação por cenários (dias, trajetos) com o preço de referência e tarifas atuais das aplicações, com data de consulta.",
       "target_words": [
         1500,
         2800
@@ -822,15 +899,13 @@
           "Entidade ou operador oficial (metro, autocarros, ferrovia, aeroporto, preços oficiais de combustível, bancos)."
         ]
       },
-      "pillar_url": "/guia-de-aluguer/documentacao-e-caucao/",
+      "pillar_url": "/precos/",
       "required_links": [
-        "/guia-de-aluguer/documentacao-e-caucao/",
         "/precos/",
-        "/precos/pagar-no-inicio-ou-no-fim/",
-        "/guia-de-aluguer/perguntas-antes-de-alugar/"
+        "/rotas-e-mobilidade/quando-nao-conduzir/"
       ],
       "planned_links_not_live_yet": [
-        "/precos/burlas-no-aluguer-de-motas/"
+        "/precos/mota-alugada-ou-taxi/"
       ],
       "rewrite_reason": null
     }

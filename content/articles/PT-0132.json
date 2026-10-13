@@ -84,7 +84,7 @@
             ]
           }
         },
-        "Os danos na mota e o furto ficam, portanto, fora do seguro obrigatório. O que acontece nesses casos depende do que combinar com a loja, e é aqui que entram o acordo de aluguer e a caução. Antes de assinar, pergunte o que acontece se a mota for danificada ou furtada e como se calcula o valor a pagar. O guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/) mostra o que confirmar.",
+        "Os danos na mota e o furto ficam, portanto, fora do seguro obrigatório. O que acontece nesses casos depende do que combinar com a loja, e é aqui que entram o acordo de aluguer e a caução, cujas regras de restituição o guia sobre [como funciona a caução no aluguer](/precos/como-funciona-a-caucao/) ajuda a confirmar. Antes de assinar, pergunte o que acontece se a mota for danificada ou furtada e como se calcula o valor a pagar. O guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/) mostra o que confirmar.",
         {
           "note": "Se perguntar apenas se a mota tem seguro, a resposta pode ser verdadeira e, ainda assim, deixá-lo sem proteção para o que mais lhe importa. Pergunte o que acontece em cada caso: danos a terceiros, danos na mota, furto e ferimentos seus.",
           "tone": "warn",
@@ -192,9 +192,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1724,
+    "words": 1740,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

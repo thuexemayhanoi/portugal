@@ -57,7 +57,7 @@
             "um preço mais alto, que já inclui o risco."
           ]
         },
-        "Nenhuma destas opções é, por si, abusiva. O problema surge quando não está escrita, ou quando só a descobre depois de assinar. Perante uma oferta deste tipo, leia o acordo com atenção redobrada e pergunte o que acontece em caso de dano, atraso ou roubo.",
+        "Nenhuma destas opções é, por si, abusiva. O problema surge quando não está escrita, ou quando só a descobre depois de assinar. Perante uma oferta deste tipo, leia o acordo com atenção redobrada e pergunte o que acontece em caso de dano, atraso ou roubo. Se a contrapartida for pagar todo o período à cabeça, veja o que muda entre [pagar o aluguer no início ou no fim](/precos/pagar-no-inicio-ou-no-fim/) antes de aceitar.",
         {
           "note": "Uma caução clara, com montante, forma e regras de restituição escritas, pode proteger melhor quem aluga do que uma ausência de caução com responsabilidades vagas. Compare sempre o acordo completo, e não só a palavra do anúncio.",
           "tone": "info",
@@ -87,7 +87,7 @@
     {
       "h2": "Documentos que não devem servir de garantia",
       "body": [
-        "Há documentos de que precisa sempre que conduz. A lei de trânsito vietnamita de 2024 exige que quem conduz leve consigo a carta adequada à categoria da mota, o registo do veículo e o certificado do seguro obrigatório. Por isso, a sua carta de condução não é uma opção de garantia: sem ela consigo, não pode conduzir a mota que acabou de alugar.",
+        "Há documentos de que precisa sempre que conduz. A lei de trânsito vietnamita de 2024 exige que quem conduz leve consigo a carta adequada à categoria da mota, o registo do veículo e o certificado do seguro obrigatório. Por isso, a sua carta de condução não é uma opção de garantia: sem ela consigo, não pode conduzir a mota que acabou de alugar. O que arrisca ao fazê-lo está no artigo sobre [conduzir sem carta válida no Vietname](/guia-de-aluguer/conduzir-sem-carta-valida/).",
         "O mesmo raciocínio vale para a licença internacional que acompanha a carta, explicada no guia da [licença internacional](/guia-de-aluguer/licenca-internacional-de-conducao/). Leve os dois documentos sempre juntos.",
         "Quanto ao passaporte, pondere o que vai fazer durante o aluguer: mudar de alojamento, apanhar um comboio ou um avião, ou circular onde lhe possam pedir identificação. Se mesmo assim o deixar, peça um recibo que o identifique e confirme quando e a quem será restituído."
       ]
@@ -156,9 +156,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1624,
+    "words": 1665,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

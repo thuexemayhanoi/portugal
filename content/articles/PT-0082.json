@@ -1,0 +1,229 @@
+{
+  "contract_version": 1,
+  "id": "PT-0082",
+  "slug": "desgaste-normal-num-aluguer-longo",
+  "title": "Desgaste normal ou dano na mota alugada num aluguer longo",
+  "description": "Num aluguer de mota de vários meses, o que tende a ser desgaste normal e o que é dano, como registar o estado inicial e o que combinar por escrito com a loja.",
+  "h1": "Pneus, travões e marcas de uso ao fim de meses: o que é desgaste e o que é dano",
+  "summary": "Desgaste normal é a perda gradual que resulta do uso previsto da mota — pneus e travões mais gastos, óleo por mudar, marcas leves de uso —; dano resulta de um acontecimento, como uma queda ou um toque. Num aluguer de meses, a fronteira define-se no acordo: registe o estado inicial e a quilometragem, combine quem trata das peças que se gastam e façam verificações conjuntas.",
+  "key_points": [
+    "Em meses de uso, várias peças chegam ao fim da vida útil durante o aluguer, sem que nenhum acontecimento o explique.",
+    "O que aponta para dano é o sinal de um momento concreto: um corte, uma peça dobrada, riscos num só lado, um espelho partido.",
+    "O site não publica onde passa a fronteira entre os dois: define-se no acordo com a loja, de preferência com exemplos.",
+    "No levantamento, registe a quilometragem, o piso dos pneus, a sensação dos travões e a data da última mudança de óleo.",
+    "Combine quem substitui as peças que se gastam a meio do aluguer e façam verificações conjuntas periódicas, com registo escrito."
+  ],
+  "intro": [
+    "Ao fim de três ou quatro meses de trajetos diários, nenhuma mota está como no primeiro dia. O piso dos pneus baixou, os travões já não respondem da mesma maneira, o assento ganhou marcas e a corrente pede afinação. Nada disto é sinal de descuido: é o resultado de muitos quilómetros. Mas, se não ficar combinado, pode acabar numa discussão no dia da devolução.",
+    "Este guia é para quem aluga uma mota durante várias semanas ou meses e quer perceber o que tende a ser desgaste normal, o que costuma apontar para um dano e o que deixar acordado por escrito com a loja {{brand}} antes de começar. Não indica quem paga cada coisa, porque isso depende do acordo de cada aluguer. A avaliação de um dano concreto, com orçamento e recibo, tem guia próprio: [danos na mota alugada](/precos/danos-na-mota-alugada/)."
+  ],
+  "sections": [
+    {
+      "h2": "Porque é que a pergunta pesa mais num aluguer de meses",
+      "body": [
+        "Num aluguer de fim de semana, o desgaste quase não conta: a mota volta praticamente como saiu. Num aluguer de meses, a situação muda por três razões:",
+        {
+          "ul": [
+            "**Os quilómetros acumulam-se.** Deslocações diárias somam distância depressa, e a mota envelhece ao ritmo do uso, não do calendário.",
+            "**As peças chegam ao fim durante o aluguer.** Pneus, pastilhas, óleo ou uma lâmpada podem ter de ser substituídos antes da devolução, e é preciso saber quem trata disso.",
+            "**A memória do estado inicial apaga-se.** Ao fim de meses, já ninguém se lembra de como estava o assento ou o escape no primeiro dia, e só o registo feito na altura resolve a dúvida."
+          ]
+        },
+        "A [tabela de preços](/precos/) indica o valor do aluguer do veículo e não publica regras sobre manutenção, peças ou desgaste. Essas regras fazem parte do acordo com a loja, e é por isso que convém tratá-las antes do primeiro pagamento, e não no último dia."
+      ]
+    },
+    {
+      "h2": "O que tende a ser desgaste e o que aponta para dano",
+      "body": [
+        "Desgaste é a perda gradual que acontece com o uso previsto da mota, sem nenhum acontecimento que a explique. A tabela seguinte resume as peças que mais mudam ao longo de meses e os sinais que, pelo contrário, costumam apontar para um dano. É uma orientação geral: a forma de tratar cada caso no seu aluguer é a que ficar combinada com a loja.",
+        {
+          "table": {
+            "caption": "Desgaste de uso e sinais de dano nas peças que mais mudam num aluguer longo",
+            "head": [
+              "Peça",
+              "Desgaste com o uso",
+              "Sinais que apontam para dano"
+            ],
+            "rows": [
+              [
+                "Pneus",
+                "Piso mais baixo, de forma regular, em toda a largura",
+                "Corte, bolha no flanco, jante amolgada ou uma zona plana depois de uma travagem brusca"
+              ],
+              [
+                "Travões",
+                "Pastilhas e maxilas mais finas, manete com um pouco mais de curso",
+                "Manete dobrada ou partida, disco torto depois de uma pancada"
+              ],
+              [
+                "Óleo do motor",
+                "Perde qualidade com os quilómetros e tem de ser mudado",
+                "Fuga visível ou parte de baixo do motor tocada numa lomba"
+              ],
+              [
+                "Corrente e carretos (semiautomáticas)",
+                "Folga que aumenta e pede afinação, dentes que se vão gastando",
+                "Corrente saltada ou partida depois de um esticão, dentes partidos"
+              ],
+              [
+                "Bateria e lâmpadas",
+                "Bateria que perde força com a idade, lâmpada que funde",
+                "Farol ou pisca partido, fios soltos depois de um toque"
+              ],
+              [
+                "Assento, punhos e apoios dos pés",
+                "Cor desbotada, superfície gasta, marcas leves de calçado",
+                "Rasgão, corte ou queimadura"
+              ],
+              [
+                "Carroçaria e espelhos",
+                "Plástico baço do sol, marcas finas de limpeza",
+                "Risco fundo, plástico rachado, espelho partido, riscos concentrados num só lado"
+              ]
+            ]
+          }
+        },
+        "Nas scooters automáticas, como a [Honda Vision](/tipos-de-motas/honda-vision-em-hanoi/), não há corrente: a transmissão faz-se por correia, que também se gasta com os quilómetros e só se avalia numa oficina.",
+        "Repare na lógica da tabela: o desgaste é regular e explica-se pelo tempo e pelos quilómetros; o dano costuma ser localizado e remete para um momento concreto. Quando um sinal admite as duas leituras, a resposta está no registo inicial e nas verificações feitas pelo caminho."
+      ]
+    },
+    {
+      "h2": "A zona cinzenta: casos que convém combinar",
+      "body": [
+        "Há situações que não cabem com clareza em nenhum dos lados e que, num aluguer de meses, acabam quase sempre por surgir. Pergunte à loja, antes de começar, como as trata:",
+        {
+          "ul": [
+            "**Furos**: um prego na estrada não é desgaste nem descuido, mas tem um custo. O guia sobre [furos e pequenas reparações](/precos/custo-de-furos-e-reparacoes/) mostra as formas de acertar a conta.",
+            "**Marcas de estacionamento**: em parques cheios, as motas tocam-se. Um risco leve num plástico lateral, ao fim de meses, conta como uso ou como dano?",
+            "**Chuva e humidade**: parafusos, escape e corrente sofrem com a água. Pergunte se a loja espera de si algum cuidado, como secar a mota ou lubrificar a corrente.",
+            "**Uso mais exigente**: andar quase sempre com passageiro ou com carga gasta pneus e travões mais depressa. Diga à loja, logo no início, como vai usar a mota.",
+            "**Peças que falham sem causa aparente**: uma avaria levanta a pergunta entre manutenção e mau uso. Pergunte como a loja distingue os dois casos e quem faz essa avaliação."
+          ]
+        },
+        "Para cada caso, a melhor resposta é um exemplo concreto dado pela loja, escrito na mesma conversa da reserva. «Um risco leve de estacionamento conta como uso» e «conta como dano» são duas regras possíveis; o que importa é saber qual se aplica antes de acontecer."
+      ]
+    },
+    {
+      "h2": "O registo de partida: mais do que fotografias da carroçaria",
+      "body": [
+        "Num aluguer curto, algumas fotografias da carroçaria chegam. Para meses, o registo de partida tem de servir de termo de comparação também para as peças que se gastam. Além da volta habitual à mota, descrita no guia sobre [fotografar a mota alugada](/guia-de-aluguer/fotografar-a-mota/), registe:",
+        {
+          "checklist": [
+            "a **quilometragem** no painel, numa fotografia com data;",
+            "o **piso dos pneus**, com uma fotografia de perto de cada pneu;",
+            "a **sensação dos travões** e o curso das manetes, numa nota escrita;",
+            "a **data ou a quilometragem da última mudança de óleo**, perguntada à loja;",
+            "nas semiautomáticas, o **estado da corrente** e se foi afinada há pouco tempo;",
+            "as **marcas de uso que já existem** no assento, nos punhos e nos apoios dos pés."
+          ]
+        },
+        "Envie este registo à loja no próprio dia e peça que confirme que o recebeu. Com a quilometragem do início e a do fim, qualquer conversa sobre desgaste passa a ter uma base objetiva: quantos quilómetros a mota fez consigo."
+      ]
+    },
+    {
+      "h2": "O que combinar por escrito antes de começar",
+      "body": [
+        "Não precisa de um contrato detalhado. Precisa de respostas claras a algumas perguntas, dadas pela loja por escrito antes do primeiro pagamento:",
+        {
+          "checklist": [
+            "Que peças são tratadas como peças de desgaste no meu aluguer: pneus, pastilhas, óleo, lâmpadas, corrente?",
+            "Quando uma dessas peças chega ao fim a meio do aluguer, quem a substitui, onde e quem paga?",
+            "Posso levar a mota a uma oficina perto de casa, ou é sempre a loja que trata?",
+            "Como devo documentar uma substituição: recibo, fotografia da peça antiga, quilometragem?",
+            "Como são tratadas as marcas de uso pequenas que aparecem ao fim de meses?",
+            "Na devolução, a comparação faz-se com o registo de partida ou com a última verificação conjunta?"
+          ]
+        },
+        "As respostas podem variar de aluguer para aluguer, e o site não publica nenhuma regra sobre estes pontos. Vale o que combinar com a loja, como indicam os [termos e condições](/termos-e-condicoes/). Para ter tudo na mesma conversa, junte estas perguntas às restantes [perguntas a fazer antes de alugar](/guia-de-aluguer/perguntas-antes-de-alugar/). Se a data de chegada ainda puder mudar, veja também como [alterar ou cancelar a reserva da mota](/precos/alterar-ou-cancelar-a-reserva/) caso o voo se atrase."
+      ]
+    },
+    {
+      "h2": "Verificações conjuntas ao longo do aluguer",
+      "body": [
+        "Esperar pela devolução para discutir o desgaste de vários meses é o caminho mais curto para um desacordo. Uma verificação conjunta periódica, por exemplo em cada renovação mensal, divide o aluguer em períodos curtos e fáceis de comparar.",
+        {
+          "steps": [
+            {
+              "title": "Marque a verificação com a renovação",
+              "text": "Aproveite a ida à loja para pagar ou confirmar o mês seguinte e peça dez minutos para olhar para a mota com alguém da loja."
+            },
+            {
+              "title": "Comparem com o último registo",
+              "text": "Abram as fotografias da verificação anterior, ou do levantamento, e vejam pneus, travões, luzes, carroçaria e, nas semiautomáticas, a corrente."
+            },
+            {
+              "title": "Separem o uso das novidades",
+              "text": "O que mudou com o uso fica anotado como desgaste; uma marca nova com origem num acontecimento trata-se logo, e não fica para o fim."
+            },
+            {
+              "title": "Decidam as próximas intervenções",
+              "text": "Se uma peça está perto do fim, combinem quando é substituída e por quem."
+            },
+            {
+              "title": "Fechem por escrito",
+              "text": "Uma mensagem com a data, a quilometragem e o que ficou combinado passa a ser o novo ponto de partida."
+            }
+          ]
+        },
+        "Se não houver renovações mensais, por exemplo porque pagou o período inteiro de uma vez, proponha à loja uma data a meio do aluguer para fazer esta verificação."
+      ]
+    },
+    {
+      "h2": "Quando uma peça chega ao fim a meio do aluguer",
+      "body": [
+        "Pneus lisos ou travões que perderam eficácia não são um assunto para deixar para a devolução: são uma questão de segurança. Se notar que uma peça está a chegar ao fim, avise a loja logo, pelo {{phone}}, com uma fotografia, e siga o que ficar combinado.",
+        "Não conduza com uma peça que já não cumpre a sua função, sobretudo travões e pneus em piso molhado. E não mande substituir peças sem acordo, mesmo que a oficina da esquina o faça em minutos: uma peça escolhida sem a loja saber pode tornar-se, ela própria, motivo de discussão.",
+        "Quando a substituição for feita por si, com autorização da loja, guarde o recibo, fotografe a peça antiga e anote a quilometragem. Tudo isso entra no registo do aluguer e evita que a mesma peça volte a ser discutida no fim."
+      ]
+    },
+    {
+      "h2": "No fim do aluguer: comparar com a referência certa",
+      "body": [
+        "Na devolução de um aluguer longo, a verificação final não deve comparar a mota com o primeiro dia como se os meses não tivessem passado. A referência é o registo de partida, completado pelo desgaste anotado nas verificações conjuntas e pelas peças substituídas pelo caminho.",
+        "Se a loja apontar um problema, pergunte em que registo se baseia e mostre o seu. Se se tratar de um dano, a avaliação segue os passos do guia sobre [danos na mota alugada](/precos/danos-na-mota-alugada/); se deixou caução, o guia da [devolução da caução](/precos/devolucao-da-caucao/) mostra o que conferir antes de sair. Para planear desde o início um aluguer de várias semanas, o guia do [aluguer mensal de mota](/precos/aluguer-mensal-de-mota/) reúne os preços e os restantes pontos a combinar."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Um pneu gasto ao fim de três meses conta como dano?",
+      "a": "Um piso que baixou de forma regular com os quilómetros tem as características do desgaste; um corte, uma bolha ou uma zona gasta de repente apontam para um acontecimento. A forma como é tratado no seu aluguer é a que ficar combinada com a loja, por isso pergunte antes de começar e fotografe os pneus no levantamento."
+    },
+    {
+      "q": "Quem paga a mudança de óleo num aluguer de meses?",
+      "a": "Depende do acordo: o site não publica nenhuma regra sobre isso. Pergunte à loja antes de começar se é ela que trata das mudanças de óleo, onde são feitas e se o custo entra no valor do aluguer ou fica à parte. Anote a quilometragem de cada mudança."
+    },
+    {
+      "q": "E se a loja considerar dano o que eu vejo como desgaste?",
+      "a": "Peça que lhe mostrem o problema e o registo em que se baseiam, e mostre o seu: as fotografias do levantamento, as verificações conjuntas e a quilometragem. Se o desacordo continuar, proponha um método combinado, como o orçamento de uma oficina, e peça que tudo fique por escrito."
+    },
+    {
+      "q": "Pequenos riscos de estacionamento contam como desgaste?",
+      "a": "Não há uma resposta geral. Em meses de parques cheios, é provável que apareça alguma marca leve, mas cada loja pode tratá-la de forma diferente. Pergunte no início, peça um exemplo e fotografe a mota sempre que encontrar uma marca nova."
+    }
+  ],
+  "sources": [
+    "tabela-precos-proprietario"
+  ],
+  "legal_note": false,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "PUBLISHED",
+  "date_published": "2026-10-13",
+  "date_modified": "2026-10-13",
+  "editorial": {
+    "qa_score": 100,
+    "qa_warnings": [],
+    "words": 2019,
+    "publish_mode": "review",
+    "approved_at": "2026-10-13",
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
+  }
+}

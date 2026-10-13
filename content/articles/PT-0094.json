@@ -181,7 +181,7 @@
             ]
           }
         },
-        "Junte estas perguntas numa única mensagem à loja antes de levantar a mota e guarde a resposta. A lista de [perguntas a fazer antes de alugar](/guia-de-aluguer/perguntas-antes-de-alugar/) ajuda a tratar o resto do aluguer na mesma conversa, e a página de [contactos](/contactos/) reúne as formas de falar com a loja."
+        "Junte estas perguntas numa única mensagem à loja antes de levantar a mota e guarde a resposta junto dos [recibos e comprovativos do aluguer](/precos/recibos-e-comprovativos/). A lista de [perguntas a fazer antes de alugar](/guia-de-aluguer/perguntas-antes-de-alugar/) ajuda a tratar o resto do aluguer na mesma conversa, e a página de [contactos](/contactos/) reúne as formas de falar com a loja."
       ]
     }
   ],
@@ -215,9 +215,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1859,
+    "words": 1866,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

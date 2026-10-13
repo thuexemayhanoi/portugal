@@ -95,7 +95,7 @@
         {
           "h3": "E se quiser ficar com a mota mais tempo?"
         },
-        "Se a meio do dia decidir prolongar o aluguer, avise a loja antes da hora combinada e confirme o novo valor. Se já sabe que vai precisar da mota três, quatro ou mais dias, compare logo com a tarifa semanal: em vários modelos, a semana custa menos do que somar dias avulsos."
+        "Se a meio do dia decidir prolongar o aluguer, avise a loja antes da hora combinada e confirme o novo valor. Se já sabe que vai precisar da mota três, quatro ou mais dias, compare logo com a [tarifa do aluguer semanal](/precos/aluguer-semanal-de-mota/): em vários modelos, a semana custa menos do que somar dias avulsos."
       ]
     },
     {
@@ -128,7 +128,7 @@
             "**Mota elétrica**: silenciosa e sem combustível, desde que a autonomia chegue para o percurso do dia."
           ]
         },
-        "Compare as diferenças com mais detalhe no guia de [tipos de motas](/tipos-de-motas/) ou na página das [scooters automáticas](/tipos-de-motas/scooters/)."
+        "Compare as diferenças com mais detalhe no guia de [tipos de motas](/tipos-de-motas/) ou na página das [scooters automáticas](/tipos-de-motas/scooters/). Se está a pensar numa Vision, veja [o que esperar da Honda Vision](/tipos-de-motas/honda-vision-em-hanoi/) em condução, consumo e arrumação."
       ]
     },
     {
@@ -272,14 +272,20 @@
   },
   "status": "PUBLISHED",
   "date_published": "2026-10-12",
-  "date_modified": "2026-10-12",
+  "date_modified": "2026-10-13",
   "editorial": {
     "qa_score": 98,
     "qa_warnings": [
       "literal VND amount \"600.000 VND\": business prices must use {{price.*}} tokens (legal amounts are fine with a source)"
     ],
-    "words": 1555,
+    "words": 1579,
     "publish_mode": "review",
-    "approved_at": "2026-10-12"
+    "approved_at": "2026-10-13",
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

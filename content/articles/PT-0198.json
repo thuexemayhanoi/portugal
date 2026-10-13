@@ -119,7 +119,7 @@
       "h2": "Registar tudo por escrito",
       "body": [
         "Combinado por telefone, confirmado por escrito. Se acertou o novo horário numa chamada, envie logo a seguir uma mensagem a resumir o que ficou decidido e peça à loja que a confirme. Por exemplo: «Como combinámos por telefone, devolvo a mota hoje às 19:00, com o custo de atraso que me indicou. Obrigado.»",
-        "Guarde as capturas de ecrã da conversa até a caução, se existir, ter sido devolvida e o aluguer estar fechado. Na devolução, mostre a mensagem se houver dúvidas sobre o que foi acordado e peça o comprovativo de qualquer valor pago pelo atraso.",
+        "Guarde as capturas de ecrã da conversa até a caução, se existir, ter sido devolvida e o aluguer estar fechado. Na devolução, mostre a mensagem se houver dúvidas sobre o que foi acordado e peça o comprovativo de qualquer valor pago pelo atraso. O resto da entrega final, do combustível à verificação conjunta, está na [checklist para devolver a mota sem surpresas](/guia-de-aluguer/devolver-a-mota/).",
         "Se a loja não responder, guarde a prova de que tentou: o registo das chamadas e a mensagem enviada antes da hora combinada."
       ]
     },
@@ -183,9 +183,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1519,
+    "words": 1538,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }
