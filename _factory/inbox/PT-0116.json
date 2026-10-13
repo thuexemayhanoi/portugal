@@ -1,0 +1,275 @@
+{
+  "contract_version": 1,
+  "id": "PT-0116",
+  "slug": "mota-alugada-ou-grab",
+  "title": "Mota alugada ou Grab em Hanói: o que sai mais barato?",
+  "description": "Alugar uma mota ou andar de GrabBike em Hanói: tarifas de outubro de 2026, preço de referência, ponto de equilíbrio por cenário e o que a conta não mostra.",
+  "h1": "Grab ou mota alugada em Hanói: as contas por cenário, de um dia a um mês",
+  "summary": "Para um dia com duas ou três viagens curtas, o GrabBike sai mais barato do que alugar uma mota; num dia cheio de deslocações, numa semana com saídas diárias ou num mês a viver na cidade, a mota alugada custa menos por viagem. À data de 13 de outubro de 2026, uma viagem curta de GrabBike em Hanói ronda os 30 mil VND, e um dia de mota custa entre {{price.min.day}} e {{price.max.day}} mais gasolina e estacionamento.",
+  "key_points": [
+    "O GrabBike cobra por viagem: em Hanói, à data de 13 de outubro de 2026, a tarifa oficial é de 13 mil VND pelos primeiros 2 km e cerca de 4,2 mil VND por quilómetro seguinte, mais um valor por minuto.",
+    "A mota alugada cobra por dia, semana ou mês, seja qual for o número de viagens: a tabela de referência vai de {{price.min.day}} a {{price.max.day}} por dia.",
+    "O ponto de equilíbrio calcula-se dividindo o custo diário da mota pelo preço médio de uma viagem Grab: com os valores de hoje, fica perto de oito viagens curtas por dia.",
+    "Poucas viagens por dia e estadias curtas favorecem o Grab; dias cheios, semanas inteiras e meses de rotina favorecem a mota.",
+    "Carta de condução e licença internacional, chuva, álcool, bagagem e vontade de conduzir pesam tanto como o preço — e o Grab resolve todos os dias em que a mota deve ficar parada."
+  ],
+  "intro": [
+    "Em Hanói, as duas formas mais comuns de um visitante se deslocar são a mota alugada e a mota com condutor chamada por aplicação, o GrabBike. Uma cobra por dia; a outra cobra por viagem. É por isso que a pergunta «qual sai mais barato?» não tem uma resposta única: depende de quantas viagens faz por dia e de quantos dias fica.",
+    "Este guia põe as duas opções lado a lado com números datados: as tarifas oficiais do GrabBike em Hanói e os preços de referência da loja, à data de 13 de outubro de 2026. Primeiro o método, para que possa refazer a conta quando os preços mudarem; depois quatro cenários, de um dia a um mês; por fim, o que a conta não mostra."
+  ],
+  "sections": [
+    {
+      "h2": "Como cada opção cobra",
+      "body": [
+        {
+          "h3": "GrabBike: por viagem, com tarifa por distância e por tempo"
+        },
+        "A tabela oficial de tarifas da Grab para o Vietname foi publicada em julho de 2026 e atualizada a 7 de outubro de 2026. Para o GrabBike em Hanói indica, em dong: 13.255 pelos primeiros 2 km, 4.222 por cada quilómetro seguinte e 344 por minuto de viagem depois dos primeiros 2 km, já com IVA de 8%. O GrabBike Plus e o GrabBike Tiếng Anh, com condutor que fala inglês, são mais caros; o GrabBike Tiết Kiệm é mais barato, quando existe, e varia com a procura.",
+        "Na prática, uma viagem curta de cerca de 5 km e 15 minutos — do Bairro Antigo ao lago Oeste, por exemplo — fica à volta de 30 mil VND. Uma viagem de 10 km e 25 minutos ronda os 55 mil VND. Em hora de ponta, com chuva ou em dias de festa, a aplicação aplica preços dinâmicos e o valor sobe. A mesma tabela inclui o aluguer de GrabBike à hora, com condutor: cerca de 83 mil VND por uma hora e até 15 km, e 157 mil VND por duas horas e até 30 km.",
+        {
+          "h3": "Mota alugada: por período, seja qual for o número de viagens"
+        },
+        "A mota alugada custa o mesmo faça uma viagem ou dez. Na tabela de referência da loja {{brand}}, verificada a {{pricing.verifiedAt}}, um dia custa entre {{price.min.day}} e {{price.max.day}} e uma semana entre {{price.min.week}} e {{price.max.week}}. Um mês vai de {{price.wave.month}} numa Honda Wave a {{price.vision.month}} numa Honda Vision. A [tabela de preços](/precos/) completa mostra todos os modelos.",
+        "A esse valor somam-se a gasolina e o estacionamento. À data de 13 de outubro de 2026, o litro de E10 RON 95-III custa 28.250 na rede da PVOIL, em dong, e a Honda indica para a Vision um consumo de 1,82 litros por 100 km em ensaio; no trânsito da cidade, conte com o dobro. Para 30 a 40 km por dia, são cerca de 30 a 40 mil VND de gasolina, mais 15 a 40 mil VND de estacionamento num dia de visitas. A garantia, definida pela loja, não é um custo, mas fica indisponível durante o aluguer."
+      ]
+    },
+    {
+      "h2": "O método: o ponto de equilíbrio em viagens por dia",
+      "body": [
+        "A conta é curta e vale para qualquer tabela de preços:",
+        {
+          "steps": [
+            {
+              "title": "Some o custo diário da mota",
+              "text": "Tarifa do dia (ou a tarifa semanal ou mensal a dividir pelos dias), mais gasolina, mais estacionamento. Para uma semana ou um mês, use a tarifa desse período, que fica mais baixa por dia."
+            },
+            {
+              "title": "Estime o preço médio de uma viagem Grab",
+              "text": "Para viagens curtas na cidade, use cerca de 30 mil VND; para viagens de 10 km, cerca de 55 mil VND. Se as suas viagens forem longas ou em hora de ponta, suba o valor."
+            },
+            {
+              "title": "Divida o primeiro valor pelo segundo",
+              "text": "O resultado é o número de viagens por dia a partir do qual a mota fica mais barata. Abaixo desse número, o Grab compensa; acima, a mota."
+            }
+          ]
+        },
+        "Um exemplo com os valores de hoje: uma Honda Vision ao dia custa {{price.vision.day}}; com cerca de 60 mil VND de gasolina e estacionamento, o custo diário anda perto dos 260 mil VND. A dividir por 30 mil VND por viagem curta, dá perto de oito a nove viagens por dia. Com uma Wave, a {{price.wave.day}}, o ponto de equilíbrio desce para cerca de sete. Se a tabela mudar, refaça a conta: o método mantém-se.",
+        "Repare que o ponto de equilíbrio desce muito quando passa a tarifas semanais ou mensais. Uma Vision à semana custa {{price.vision.week}}, o que dá menos por dia do que a tarifa diária, e o comparador abaixo mostra a partir de quantos dias a semana compensa em cada modelo:",
+        {
+          "component": "duration-compare"
+        }
+      ]
+    },
+    {
+      "h2": "Quatro cenários, lado a lado",
+      "body": [
+        "Os cenários seguintes usam as tarifas do GrabBike e os preços de referência da loja à data de 13 de outubro de 2026, com viagens curtas a cerca de 30 mil VND e um uso urbano normal. São ordens de grandeza para decidir, não orçamentos fechados.",
+        {
+          "table": {
+            "caption": "Grab ou mota alugada, por cenário (estimativas à data de 13 de outubro de 2026)",
+            "head": [
+              "Cenário",
+              "GrabBike (estimativa)",
+              "Mota alugada (referência + despesas)",
+              "O que tende a compensar"
+            ],
+            "rows": [
+              [
+                "Um dia, 2 a 3 viagens curtas",
+                "60 a 90 mil VND",
+                "{{price.min.day}} a {{price.max.day}}, mais 50 a 80 mil VND",
+                "Grab"
+              ],
+              [
+                "Três dias de visitas, 6 a 8 viagens por dia, algumas longas",
+                "250 a 350 mil VND por dia",
+                "{{price.min.day}} a {{price.max.day}} por dia, mais 50 a 80 mil VND",
+                "Mota"
+              ],
+              [
+                "Uma semana de trabalho, 2 viagens por dia e saídas ao fim de semana",
+                "500 a 700 mil VND",
+                "{{price.min.week}} a {{price.max.week}}, mais 250 a 400 mil VND",
+                "Equilíbrio: depende das saídas extra"
+              ],
+              [
+                "Um mês a viver em Hanói, 2 a 4 viagens por dia",
+                "1,8 a 3,5 milhões de VND",
+                "{{price.wave.month}} (Wave) a {{price.vision.month}} (Vision), mais 0,6 a 1,2 milhões de VND",
+                "Mota"
+              ]
+            ]
+          }
+        },
+        {
+          "h3": "Um dia com poucas viagens: o Grab ganha"
+        },
+        "Se chega de manhã, visita o centro a pé e só precisa de ir jantar ao lago Oeste e voltar, duas ou três viagens de GrabBike custam menos do que a tarifa diária de qualquer modelo, sem tratar de garantia, documentos nem estacionamento. É também a melhor opção para o dia da chegada, quando o cansaço desaconselha conduzir.",
+        {
+          "h3": "Três dias de visitas: a mota ganha, se gostar de conduzir"
+        },
+        "Com seis a oito deslocações por dia — museu, templo, almoço, café, mercado, jantar — o Grab passa dos 250 mil VND diários e a mota fica mais barata, além de poupar as esperas pelo condutor. Veja como organizar um [aluguer de mota por um dia](/precos/aluguer-de-mota-por-um-dia/) e multiplique; para três dias, pergunte à loja se a tarifa diária se mantém ou se há condições para vários dias.",
+        {
+          "h3": "Uma semana de trabalho: empate técnico"
+        },
+        "Duas viagens por dia entre o alojamento e o escritório, de 5 km, ficam em cerca de 60 mil VND por dia de Grab, ou pouco mais de 400 mil VND por semana útil. Uma mota à semana custa entre {{price.min.week}} e {{price.max.week}} mais gasolina e estacionamento: valores próximos. A diferença fazem-na as saídas extra — almoços fora, fim de semana, um jantar do outro lado da cidade —, que no Grab somam e na mota não. O guia do [aluguer semanal](/precos/aluguer-semanal-de-mota/) ajuda a fechar essa conta.",
+        {
+          "h3": "Um mês a viver na cidade: a mota ganha com folga"
+        },
+        "Trinta dias de Grab, mesmo com só duas viagens curtas por dia, passam de 1,8 milhões de VND, e qualquer vida normal tem mais viagens do que isso. Uma Wave ao mês custa {{price.wave.month}} e uma Vision {{price.vision.month}}, mais 0,6 a 1,2 milhões de VND de gasolina e estacionamento. Para quem fica um mês ou mais, a mota compensa quase sempre; o guia sobre o [aluguer mensal](/precos/aluguer-mensal-de-mota/) explica as condições a combinar."
+      ]
+    },
+    {
+      "h2": "O que a conta não mostra",
+      "body": [
+        "O preço decide menos do que parece. Estes fatores mudam a resposta mesmo quando a conta favorece a mota:",
+        {
+          "table": {
+            "caption": "Fatores fora do preço, de um lado e do outro",
+            "head": [
+              "Fator",
+              "Mota alugada",
+              "GrabBike"
+            ],
+            "rows": [
+              [
+                "Habilitação",
+                "Carta da categoria certa e licença internacional obrigatórias para conduzir no Vietname",
+                "Nenhuma: vai de passageiro"
+              ],
+              [
+                "Capacete",
+                "Obrigatório; a loja pergunta quantos quer",
+                "O condutor fornece um para o passageiro; o uso é obrigatório"
+              ],
+              [
+                "Chuva e calor",
+                "Conduz debaixo de chuva, com capa; na época das chuvas, alguns dias ficam parados",
+                "Também apanha chuva, mas pode esperar e chamar quando abranda"
+              ],
+              [
+                "Estacionamento",
+                "Procurar parque, pagar por paragem, guardar o talão",
+                "Nenhum"
+              ],
+              [
+                "Álcool",
+                "Zero álcool para quem conduz: nas noites com bebida a mota fica parada",
+                "Sem restrição para o passageiro"
+              ],
+              [
+                "Bagagem e passageiros",
+                "Um passageiro e pouca carga",
+                "Uma pessoa por mota; com malas, prefira GrabCar"
+              ],
+              [
+                "Disponibilidade",
+                "Sempre à porta, a qualquer hora",
+                "Depende da oferta: esperas em hora de ponta, com chuva e tarde da noite"
+              ],
+              [
+                "Garantia e documentos",
+                "Garantia definida pela loja, acordo e fotografias no levantamento",
+                "Só a aplicação e um meio de pagamento"
+              ]
+            ]
+          }
+        },
+        "A habilitação é o fator que elimina a opção da mota para muita gente. Desde 1 de janeiro de 2025, a categoria A1 cobre motociclos até 125 cm³ no Vietname, e um visitante precisa da carta do seu país acompanhada de uma licença internacional reconhecida. Sem isso, a resposta não é «a mota é mais barata»: é o Grab, ou o autocarro. O guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/) explica o que levar.",
+        "O álcool é o segundo. A lei vietnamita não admite qualquer concentração de álcool a quem conduz, por isso qualquer noite com cerveja é uma noite de Grab, mesmo para quem tem a mota alugada à porta. O guia sobre [álcool zero ao guiador](/guia-de-aluguer/alcool-zero-ao-volante/) explica como organizar as saídas.",
+        "E há a questão mais simples: quer conduzir? O trânsito de Hanói é denso e pede atenção constante. Quem nunca conduziu uma mota deve ler [a avaliação honesta antes de alugar uma scooter](/tipos-de-motas/nunca-conduziu-uma-mota/) antes de deixar o preço decidir."
+      ]
+    },
+    {
+      "h2": "A combinação que costuma funcionar",
+      "body": [
+        "Para a maior parte das estadias, a resposta não é «um ou outro», mas «qual em cada dia». A mota alugada serve os dias cheios de deslocações, as saídas fora do centro e a rotina de quem fica semanas; o Grab serve o dia da chegada, as noites com bebida, os dias de chuva forte e as idas ao aeroporto com malas.",
+        {
+          "ul": [
+            "**Fim de semana prolongado no centro:** Grab e a pé; a mota só se quiser sair para o lago Oeste ou para os arredores.",
+            "**Cinco a sete dias de visitas:** mota à semana, com um ou dois dias de Grab para as noites e para a chuva.",
+            "**Um mês ou mais a trabalhar:** mota ao mês, Grab como reserva; o guia da [mota para nómadas digitais](/precos/mota-para-nomadas-digitais/) descreve essa rotina.",
+            "**Grupo com uma só carta:** uma mota para quem está habilitado e Grab para os outros, ou GrabCar para irem juntos."
+          ]
+        },
+        "Há ainda uma terceira opção com custo zero no centro: entre 1 de julho de 2026 e 30 de junho de 2027, as viagens nos autocarros públicos dentro do Anel Viário 1 são gratuitas. Para percursos entre o Bairro Antigo e as zonas próximas, pode substituir boa parte das viagens de Grab.",
+        "Os dias em que a mota deve ficar parada — depois de beber, com chuva forte, cansado, com malas — estão descritos em [sete situações em que é melhor não conduzir](/rotas-e-mobilidade/quando-nao-conduzir/). Nesses dias, o Grab não é uma despesa a mais: é a alternativa certa. Se decidir pela mota, confirme a tarifa, a garantia e a disponibilidade com a loja pelo {{phone}}, {{hours}}, ou pelos restantes [contactos](/contactos/)."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "O GrabBike é mais barato do que alugar uma mota em Hanói?",
+      "a": "Para poucas viagens por dia, sim. À data de 13 de outubro de 2026, uma viagem curta de GrabBike ronda os 30 mil VND; duas ou três por dia ficam abaixo da tarifa diária de qualquer modelo da tabela de referência. A partir de sete a nove viagens curtas por dia, ou numa semana ou mês de uso diário, a mota alugada passa a custar menos por viagem."
+    },
+    {
+      "q": "Como calculo o ponto de equilíbrio com os preços atuais?",
+      "a": "Some a tarifa do período que lhe interessa, a dividir pelos dias, com a gasolina e o estacionamento de um dia. Divida esse total pelo preço médio de uma viagem Grab nos seus trajetos habituais. O resultado é o número de viagens por dia a partir do qual a mota compensa. Refaça a conta sempre que a tabela de preços ou as tarifas do Grab mudarem."
+    },
+    {
+      "q": "Preciso de carta de condução para andar de GrabBike?",
+      "a": "Não, porque vai de passageiro. É uma das razões para o Grab ser a escolha certa de quem não tem a carta da categoria adequada nem a licença internacional. Para conduzir uma mota alugada, pelo contrário, os dois documentos são obrigatórios e a polícia pode pedi-los num controlo."
+    },
+    {
+      "q": "O preço do Grab é sempre o da tabela?",
+      "a": "Não. A tabela oficial define a tarifa base por distância e por tempo, mas a aplicação aplica preços dinâmicos em hora de ponta, com chuva e em dias de grande procura, e pode cobrar suplementos. Veja sempre o preço estimado no ecrã antes de confirmar a viagem."
+    },
+    {
+      "q": "Vale a pena alugar a mota e usar o Grab nos mesmos dias?",
+      "a": "Sim, e é a combinação mais comum. A mota serve os dias cheios e a rotina; o Grab serve a noite da chegada, as noites com bebida, a chuva forte e as viagens com malas. Um dia de Grab a meio de um aluguer semanal custa pouco e evita conduzir quando não deve."
+    }
+  ],
+  "sources": [
+    "tabela-precos-proprietario",
+    {
+      "title": "Grab | Bảng dịch vụ cập nhật Thuế suất VAT 8% (bảng giá cước GrabBike Hà Nội)",
+      "publisher": "Grab Việt Nam",
+      "url": "https://www.grab.com/vn/blog/driver/thongtindichvu/",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Bảng giá xăng dầu — Giá điều chỉnh lúc 15:00 ngày 08/10/2026",
+      "publisher": "PVOIL — Tổng Công ty Dầu Việt Nam",
+      "url": "https://www.pvoil.com.vn/tin-gia-xang-dau",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "vi"
+    },
+    {
+      "title": "Thông tin điều hành giá xăng dầu ngày 8/10/2026 (xăng E10 RON95-III không cao hơn 28.254 đồng/lít)",
+      "publisher": "Bộ Công Thương (moit.gov.vn)",
+      "url": "https://moit.gov.vn/tin-tuc/thong-tin-dieu-hanh-gia-xang-dau-ngay-8-10-2026.html",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "vi"
+    },
+    {
+      "title": "Honda Vision — Thông số kỹ thuật (mức tiêu thụ nhiên liệu 1,82 lít/100 km)",
+      "publisher": "Honda Việt Nam",
+      "url": "https://www.honda.com.vn/xe-may/san-pham/vision",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "Ha Noi free bus travel within Ring Road 1 for one year",
+      "publisher": "Cổng Thông tin điện tử Chính phủ (chinhphu.vn)",
+      "url": "https://thanglong.chinhphu.vn/ha-noi-free-bus-travel-within-ring-road-1-for-one-year-110260702104500646.htm",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    },
+    "lei-36-2024-a1",
+    "mfat-conduzir-vietname",
+    "lawnet-proibicoes-2024",
+    "lawnet-capacete-168"
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "READY_FOR_QA"
+}

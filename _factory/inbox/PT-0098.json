@@ -3,9 +3,9 @@
   "id": "PT-0098",
   "slug": "quanto-dinheiro-levar",
   "title": "Quanto dinheiro levar para alugar e usar mota em Hanói",
-  "description": "Orçamento diário para uma mota alugada em Hanói: tarifa de referência, gasolina com o preço de outubro de 2026, estacionamento, margem para imprevistos e quanto ter em numerário.",
+  "description": "Orçamento diário para uma mota alugada em Hanói: tarifa de referência, gasolina ao preço de outubro de 2026, estacionamento, imprevistos e quanto ter em notas.",
   "h1": "Orçamento para uma mota em Hanói: aluguer, gasolina, estacionamento e margem para imprevistos",
-  "summary": "Para um dia de mota em Hanói, o orçamento parte da tarifa de referência da loja, entre {{price.min.day}} e {{price.max.day}} conforme o modelo, a que se somam gasolina, estacionamento e uma margem para imprevistos: à data de 13 de outubro de 2026, cerca de 50 a 90 mil VND por dia para um uso normal na cidade. A garantia é definida pela loja e combina-se à parte; leve numerário em dong para as despesas do dia e confirme com a loja como prefere receber o aluguer.",
+  "summary": "Para um dia de mota em Hanói, o orçamento parte da tarifa de referência da loja, entre {{price.min.day}} e {{price.max.day}} conforme o modelo, a que se somam gasolina, estacionamento e uma margem para imprevistos: à data de 13 de outubro de 2026, cerca de 50 a 90 mil VND por dia num uso urbano normal. A garantia é definida pela loja e combina-se à parte; leve numerário em dong para as despesas do dia.",
   "key_points": [
     "O aluguer é a parcela maior e a mais previsível: veja a tabela de referência por dia, semana e mês antes de fazer contas.",
     "A gasolina custa, à data de 13 de outubro de 2026, cerca de 28 mil VND por litro; uma scooter de 110 cm³ gasta pouco, mesmo no trânsito da cidade.",
@@ -74,7 +74,7 @@
     {
       "h2": "Gasolina: pouco por dia, mas todos os dias",
       "body": [
-        "À data de 13 de outubro de 2026, a gasolina E10 RON 95-III custa 28.250 VND por litro na rede da PVOIL, com o preço ajustado às 15:00 de 8 de outubro de 2026, e a Petrolimex ajustou os seus preços no mesmo dia. Os preços de combustível no Vietname são revistos todas as semanas, por isso conte com pequenas variações durante a estadia.",
+        "À data de 13 de outubro de 2026, o litro de gasolina E10 RON 95-III custa 28.250 na rede da PVOIL, em dong vietnamita, com o preço ajustado às 15:00 de 8 de outubro de 2026. Fica dentro do teto de 28.254 por litro fixado nesse dia pelo Ministério da Indústria e do Comércio, e a Petrolimex ajustou os seus preços na mesma data. Os preços de combustível no Vietname são revistos todas as semanas, por isso conte com pequenas variações durante a estadia.",
         "Quanto gasta uma mota? A Honda indica para a Vision um consumo de 1,82 litros por 100 km, medido em condições de ensaio. No trânsito de Hanói, com paragens constantes e dois ocupantes, o consumo real é maior; uma estimativa prudente, que não vem do fabricante, é contar com 3 a 4 litros por 100 km.",
         {
           "h3": "Um exemplo de conta"
@@ -89,7 +89,7 @@
         "Em Hanói, a mota raramente fica à porta: deixa-se num parque vigiado, com talão, e paga-se por paragem. Segundo o jornal Nhân Dân, em setembro de 2026, o preço regulamentado na cidade para motas e motas elétricas na zona central era de 5 mil VND por paragem durante o dia e 12 mil VND por noite. O mesmo jornal relatava, no entanto, parques junto ao lago Hoàn Kiếm a cobrar 20 a 30 mil VND por paragem em dias de festa, sem preço afixado.",
         "Para o orçamento, conte com três ou quatro paragens por dia de visitas, entre 15 e 40 mil VND no total, e com uma só paragem, ou nenhuma, num dia de rotina em que a mota fica no parque do alojamento. Pergunte sempre o preço antes de deixar a mota, prefira parques com preço afixado e guarde o talão.",
         {
-          "note": "Desde 1 de julho de 2026, Hanói exige que os parques de estacionamento cobrem por meios eletrónicos, e muitos pedem pagamento por código QR. Uma aplicação bancária vietnamita, se a tiver, resolve; sem ela, continue a levar notas pequenas, porque na prática há parques que só aceitam numerário e outros que só aceitam QR.",
+          "note": "Cada vez mais parques em Hanói pedem pagamento por código QR ligado a uma conta bancária vietnamita, e a cidade tem vindo a impor a cobrança eletrónica nos parques de estacionamento. Uma aplicação bancária local, se a tiver, resolve; sem ela, continue a levar notas pequenas, porque na prática há parques que só aceitam numerário e outros que só aceitam QR.",
           "tone": "info",
           "title": "QR ou notas?"
         },
@@ -217,6 +217,14 @@
       "title": "Bảng giá xăng dầu — Giá điều chỉnh lúc 15:00 ngày 08/10/2026",
       "publisher": "PVOIL — Tổng Công ty Dầu Việt Nam",
       "url": "https://www.pvoil.com.vn/tin-gia-xang-dau",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "vi"
+    },
+    {
+      "title": "Thông tin điều hành giá xăng dầu ngày 8/10/2026 (xăng E10 RON95-III không cao hơn 28.254 đồng/lít)",
+      "publisher": "Bộ Công Thương (moit.gov.vn)",
+      "url": "https://moit.gov.vn/tin-tuc/thong-tin-dieu-hanh-gia-xang-dau-ngay-8-10-2026.html",
       "accessed": "2026-10-13",
       "type": "official",
       "lang": "vi"
