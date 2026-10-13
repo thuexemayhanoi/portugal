@@ -11,7 +11,7 @@ Sinh lại bằng `node scripts/audit-content.mjs` (chỉ đọc repo, không g�
 | URL index nhưng thiếu trong sitemap | 0 |
 | Canonical sai | 0 |
 | Bài chưa có liên kết ngữ cảnh trỏ vào | 89 (chỉ có link từ hub/archive) |
-| Cặp có nguy cơ ăn thịt từ khóa | HIGH 1 · MEDIUM 7 · LOW 38 |
+| Cặp có nguy cơ ăn thịt từ khóa | HIGH 1 · MEDIUM 6 · LOW 39 |
 
 **Chưa đo được** (không giả định): HTTP status trên site thật (xem workflow SEO Monitor), Search Console (chưa kết nối), Core Web Vitals thực tế.
 

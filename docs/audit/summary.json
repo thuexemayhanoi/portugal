@@ -14,9 +14,9 @@
     "UTILITY": 4
   },
   "actions": {
-    "KEEP": 173,
+    "KEEP": 174,
     "UPGRADE": 80,
-    "REVIEW": 24,
+    "REVIEW": 23,
     "CREATE": 53
   },
   "indexable_not_in_sitemap": [],
@@ -114,8 +114,8 @@
   ],
   "cannibalization_pairs": {
     "HIGH": 1,
-    "MEDIUM": 7,
-    "LOW": 38
+    "MEDIUM": 6,
+    "LOW": 39
   },
   "guard": {
     "REVIEW_COLLISION": 10,
