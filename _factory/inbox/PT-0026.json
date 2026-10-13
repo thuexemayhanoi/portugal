@@ -1,0 +1,244 @@
+{
+  "contract_version": 1,
+  "id": "PT-0026",
+  "slug": "honda-wave-em-hanoi",
+  "title": "Honda Wave em Hanói: preço de aluguer e para quem compensa",
+  "description": "A Honda Wave de 110 cm³ é a semiautomática mais comum no Vietname: preço de referência por dia, semana e mês, consumo segundo a Honda e a quem compensa.",
+  "h1": "Alugar uma Honda Wave em Hanói: a semiautomática de 110 cm³, do preço ao perfil de quem a leva",
+  "summary": "Na tabela de referência da loja, a Honda Wave custa {{price.wave.day}} por dia, {{price.wave.week}} por semana e {{price.wave.month}} por mês: ao dia, {{cmp.wave.vision.day}} a Honda Vision. É uma semiautomática de 110 cm³, com quatro velocidades e sem manete de embraiagem, robusta e económica. Compensa a quem já conduz motas de mudanças e vai ficar semanas ou sair da cidade; quem só conduziu scooters deve escolher outro modelo.",
+  "key_points": [
+    "Motor Honda de 109,2 cm³ a quatro tempos, caixa de quatro velocidades sem manete de embraiagem e 96 kg: simples de manter e fácil de manobrar.",
+    "Consumo anunciado pela Honda de 1,72 l/100 km, com depósito de 3,7 litros: menos paragens na bomba de gasolina em estadias longas.",
+    "Preço de referência de {{price.wave.day}} por dia; a partir de {{price.wave.weekFrom}} dias de aluguer, a tarifa semanal compensa.",
+    "Ideal para quem já domina as mudanças de pé, fica várias semanas ou planeia estradas fora de Hanói; má escolha para quem só conduziu scooters.",
+    "Com 110 cm³, cabe na categoria A1 da lei vietnamita de 2024 (até 125 cm³); confirme a cilindrada no registo da unidade que receber."
+  ],
+  "intro": [
+    "A Honda Wave é a mota que mais se vê nas estradas do Vietname: leva famílias, carrega mercadoria e aguenta anos de estradas de terra e de chuva. Não é a mais confortável nem a mais rápida, e é precisamente por isso que tantas lojas de aluguer a mantêm na frota. Mecânica simples, peças em qualquer oficina e um consumo que pesa pouco no orçamento.",
+    "Este guia descreve a Wave que a loja {{brand}}, em {{area}}, aluga como semiautomática: o que a ficha do fabricante diz, quanto custa por dia, semana e mês e, sobretudo, a quem faz sentido entregá-la. Não explica como se mudam as mudanças passo a passo nem compara os tipos de mota entre si; para isso há guias próprios na página de [tipos de motas](/tipos-de-motas/)."
+  ],
+  "sections": [
+    {
+      "h2": "A Wave num relance: o que diz a ficha da Honda",
+      "body": [
+        "A tabela da loja identifica o modelo apenas como «Honda Wave». No Vietname, o nome cobre várias gerações e versões, por isso os números abaixo referem-se à Wave Alpha 110 vendida atualmente pela Honda Việt Nam. Peça à loja a versão e o ano da unidade que lhe vão entregar; a mecânica de base é a mesma, mas o estado e os pormenores mudam.",
+        {
+          "table": {
+            "caption": "Honda Wave Alpha 110: ficha técnica publicada pela Honda Việt Nam (consulta de 13 de outubro de 2026)",
+            "head": [
+              "Característica",
+              "Valor",
+              "O que significa para quem aluga"
+            ],
+            "rows": [
+              [
+                "Motor",
+                "109,2 cm³, quatro tempos, um cilindro, arrefecido a ar",
+                "Cabe na categoria A1; pouca manutenção"
+              ],
+              [
+                "Potência máxima",
+                "6,12 kW às 7.500 rpm",
+                "Suficiente para a cidade e para estradas nacionais; não para autoestradas, onde as motas são proibidas"
+              ],
+              [
+                "Transmissão",
+                "Mecânica, quatro velocidades em sistema rotativo",
+                "Mudanças com o pé, sem manete de embraiagem"
+              ],
+              [
+                "Arranque",
+                "Elétrico, com pedal de arranque de reserva",
+                "Arranca mesmo com a bateria fraca"
+              ],
+              [
+                "Peso",
+                "96 kg",
+                "Fácil de pôr no descanso e de empurrar num parque apertado"
+              ],
+              [
+                "Depósito e consumo",
+                "3,7 litros; 1,72 l/100 km",
+                "Mais de 200 km por depósito nas condições do fabricante"
+              ],
+              [
+                "Altura do assento",
+                "770 mm",
+                "Pés no chão para a maioria dos adultos"
+              ],
+              [
+                "Rodas",
+                "17 polegadas, 70/90 à frente e 80/90 atrás",
+                "Rodas altas e pneus finos: estável em piso irregular, menos ágil do que uma scooter"
+              ]
+            ]
+          }
+        },
+        "Dois pormenores da ficha fazem diferença no dia a dia. A distância ao solo, de 134 mm, é maior do que a de muitas scooters, o que ajuda em lombas, buracos e ruas alagadas de pouca profundidade. E as rodas de 17 polegadas atravessam melhor as juntas das pontes e os carris do que as rodas pequenas, à custa de alguma agilidade nas manobras lentas."
+      ]
+    },
+    {
+      "h2": "O que muda ao conduzir: mudanças com o pé, sem embraiagem",
+      "body": [
+        "A Wave é uma semiautomática: tem caixa de quatro velocidades, mas a embraiagem é automática. Não há manete na mão esquerda. Para avançar, engrena-se a primeira com o pé esquerdo e roda-se o acelerador; para subir ou reduzir, fecha-se o acelerador e carrega-se no pedal. Parada, a mota fica em qualquer mudança sem se apagar.",
+        "Para quem já conduziu motas de mudanças, a adaptação demora minutos: a única novidade é não ter manete para apertar. Para quem só conduziu scooters, a diferença é maior, porque cada arranque e cada paragem passam a ter um gesto a mais. No pára-arranca do centro de Hanói, esse gesto repete-se em cada cruzamento.",
+        "A Wave não guarda nada debaixo do assento, ao contrário das scooters: o capacete e a capa de chuva viajam consigo ou presos ao gancho. Em contrapartida, o depósito fica à frente do assento e o espaço entre os joelhos é plano, o que torna a posição de condução direita e confortável em viagens longas.",
+        {
+          "note": "Se nunca conduziu uma mota com mudanças, Hanói não é o sítio para aprender. A loja aluga scooters automáticas pelo mesmo tipo de preço; o guia [scooter ou semiautomática](/tipos-de-motas/scooter-ou-semiautomatica/) ajuda a decidir com honestidade.",
+          "tone": "warn",
+          "title": "Antes de escolher a Wave"
+        }
+      ]
+    },
+    {
+      "h2": "Quanto custa alugar uma Wave: dia, semana e mês",
+      "body": [
+        "Os valores abaixo são os da tabela de referência da loja, verificada a {{pricing.verifiedAt}}. Dizem respeito só ao veículo: caução, entrega, capacetes extra e combustível tratam-se à parte, e a loja confirma o total para as suas datas antes do aluguer.",
+        {
+          "component": "price-table",
+          "category": "motas-semiautomaticas"
+        },
+        "Ao dia, a Wave custa {{price.wave.day}}: {{cmp.wave.vision.day}} a Honda Vision, {{cmp.wave.airblade.day}} a Air Blade e {{cmp.wave.click.day}} a Honda Click. À semana, a referência é de {{price.wave.week}}, e a partir de {{price.wave.weekFrom}} dias de aluguer a tarifa semanal já compensa: quem fica perto de uma semana paga a semana inteira e ganha margem para prolongar.",
+        "Ao mês, a Wave custa {{price.wave.month}}, {{cmp.wave.vision.month}} a Vision e {{cmp.wave.airblade.month}} a Air Blade. É neste intervalo que a semiautomática mais se destaca: a poupança mensal face a uma scooter maior paga muitos depósitos de gasolina. A Yamaha Sirius, a outra semiautomática da loja, custa {{cmp.sirius.wave.day}} a Wave ao dia.",
+        "Como funciona cada duração está explicado nos guias do [aluguer por um dia](/precos/aluguer-de-mota-por-um-dia/), do [aluguer semanal](/precos/aluguer-semanal-de-mota/) e do [aluguer mensal](/precos/aluguer-mensal-de-mota/). Para comparar todos os modelos de uma vez, a [página de preços](/precos/) tem a tabela completa."
+      ]
+    },
+    {
+      "h2": "Consumo e autonomia: os números do fabricante e a prática",
+      "body": [
+        "A Honda Việt Nam anuncia para a Wave Alpha 110 um consumo de 1,72 litros por 100 km. Com um depósito de 3,7 litros, isso dá, em teoria, mais de 200 km entre abastecimentos. Na prática, conte com menos: trânsito denso, passageiro, bagagem e mudanças baixas durante muito tempo fazem subir o consumo, e as unidades de aluguer têm anos de uso.",
+        "Mesmo assim, a Wave é das motas mais económicas que pode alugar em Hanói. Um depósito cheio dura vários dias de deslocações urbanas e chega para uma volta de um dia aos arredores sem parar numa bomba. O guia sobre [gasolina na mota alugada](/precos/combustivel-no-aluguer/) explica como combinar o nível do depósito à partida e à devolução.",
+        "Há dois cuidados que uma scooter não pede. A corrente de transmissão precisa de lubrificação regular e de tensão certa, sobretudo depois de chuva ou de estradas de terra. E a Wave Alpha atual tem um indicador de mudança no painel: confirme que a luz de ponto morto («N») acende, porque é com ela que vai arrancar o motor."
+      ]
+    },
+    {
+      "h2": "Para quem compensa a Wave, e para quem não",
+      "body": [
+        "A Wave não é a mota certa para toda a gente. Veja em que lado da tabela se encaixa:",
+        {
+          "table": {
+            "caption": "Perfis a quem a Honda Wave serve bem, e perfis a quem não serve",
+            "head": [
+              "Perfil",
+              "A Wave faz sentido?",
+              "Porquê"
+            ],
+            "rows": [
+              [
+                "Já conduziu motas de mudanças",
+                "Sim",
+                "Adaptação em minutos; sem manete de embraiagem, o trânsito fica até mais fácil"
+              ],
+              [
+                "Estadia de várias semanas ou meses",
+                "Sim",
+                "Preço mensal baixo, consumo reduzido e mecânica que qualquer oficina conhece"
+              ],
+              [
+                "Saídas de um dia para os arredores de Hanói",
+                "Sim",
+                "Rodas altas, distância ao solo generosa e autonomia confortável em estradas de província"
+              ],
+              [
+                "Orçamento contado",
+                "Sim",
+                "{{price.wave.day}} por dia e {{price.wave.month}} por mês na tabela de referência"
+              ],
+              [
+                "Só conduziu scooters automáticas",
+                "Não",
+                "Aprender as mudanças de pé no trânsito de Hanói é um risco escusado"
+              ],
+              [
+                "Trajetos curtos no Bairro Antigo, sempre a parar",
+                "Prefira uma scooter",
+                "Cada paragem pede uma mudança; a scooter poupa gestos"
+              ],
+              [
+                "Casal com bagagem ou compras",
+                "Prefira uma scooter",
+                "Sem compartimento debaixo do assento e sem piso plano para sacos"
+              ]
+            ]
+          }
+        },
+        "Para quem vai ficar um mês ou mais, a comparação útil é com a [Honda Click](/tipos-de-motas/honda-click-em-hanoi/): ao mês, a Wave custa {{cmp.wave.click.month}} a Click. Se o preço for igual, a scooter oferece arrumação e menos trabalho no trânsito; se for mais baixo, a Wave compensa a quem domina as mudanças. Para passeios fora da cidade, combine-os antes com a loja, como explica o guia sobre [sair de Hanói com a mota alugada](/guia-de-aluguer/autorizacao-para-sair-de-hanoi/)."
+      ]
+    },
+    {
+      "h2": "Carta de condução: a Wave cabe na categoria A1",
+      "body": [
+        "Desde 1 de janeiro de 2025, a Lei n.º 36/2024/QH15 define a categoria A1 como a dos motociclos de duas rodas até 125 cm³. Com 109,2 cm³, a Wave Alpha cabe nessa categoria. Um visitante conduz com a carta do seu país, com categoria de motociclos, acompanhada da Licença Internacional de Condução; a licença não acrescenta categorias à carta que já tem.",
+        "No levantamento, confirme a cilindrada no certificado de registo da unidade, porque é esse valor que conta num controlo. O guia sobre [cilindrada e carta A1](/tipos-de-motas/cilindrada-e-carta-a1/) explica onde passa a fronteira entre as categorias, e o de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/) lista o que levar à loja."
+      ]
+    },
+    {
+      "h2": "O que verificar ao receber uma Wave",
+      "body": [
+        "Além da verificação comum a qualquer mota alugada, a Wave pede atenção a peças que uma scooter não tem:",
+        {
+          "checklist": [
+            "Corrente limpa, lubrificada e com folga moderada; peça para a ver com a mota no descanso central.",
+            "Pedal de mudanças a engrenar as quatro velocidades sem saltar; luz de ponto morto a acender.",
+            "Arranque elétrico a funcionar e pedal de arranque a mover-se livremente.",
+            "Travão de pé (direito) e manete do travão da frente com curso firme; luz de travão a acender nos dois.",
+            "Pneus com piso e sem fendas laterais: as rodas de 17 polegadas usam pneus finos, que se gastam depressa em estradas de terra.",
+            "Espelhos fixos, buzina e piscas a funcionar.",
+            "Versão, ano e cilindrada da unidade escritos na confirmação do aluguer."
+          ]
+        },
+        "Fotografe a mota de todos os lados antes de sair, como descreve o guia sobre [levantar a mota alugada](/guia-de-aluguer/receber-a-mota/). Num aluguer de várias semanas, combine à partida quem trata da corrente e dos pneus; o guia sobre [desgaste num aluguer longo](/precos/desgaste-normal-num-aluguer-longo/) mostra o que é uso normal e o que é dano.",
+        "Para confirmar a disponibilidade de uma Wave nas suas datas, a versão da unidade e o preço final, use os [contactos da loja](/contactos/). A loja está aberta {{hours}}."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "A Honda Wave arranca com botão ou com o pé?",
+      "a": "As duas coisas. Segundo a ficha da Honda Việt Nam, a Wave Alpha 110 tem arranque elétrico, e o manual do proprietário descreve também o pedal de arranque, útil se a bateria estiver fraca. Em ambos os casos, o fabricante indica que se liga o motor em ponto morto, com a luz «N» acesa."
+    },
+    {
+      "q": "Posso levar um passageiro na Wave?",
+      "a": "Sim, um. A regra geral no Vietname é um passageiro por mota, com capacete apertado para os dois; só em situações excecionais, como uma criança com menos de 12 anos, a lei admite dois. A Wave tem um assento comprido e pousa-pés para o passageiro, mas, a dois, os arranques em subida pedem mais suavidade no acelerador."
+    },
+    {
+      "q": "A Wave serve para uma viagem de vários dias fora de Hanói?",
+      "a": "É um dos modelos mais usados para isso no Vietname, pela robustez, pela autonomia e pela facilidade de reparação em qualquer aldeia. Lembre-se de que as motas são proibidas nas autoestradas e de que a saída da cidade deve ser combinada com a loja antes de partir."
+    },
+    {
+      "q": "Wave ou Yamaha Sirius: qual escolher?",
+      "a": "Na tabela de referência, a Sirius custa {{cmp.sirius.wave.day}} a Wave ao dia, por isso a diferença está na unidade concreta e não no preço. Peça à loja o ano e o estado de cada uma nas suas datas e escolha a que estiver em melhores condições; a forma de conduzir é a mesma."
+    }
+  ],
+  "sources": [
+    "tabela-precos-proprietario",
+    {
+      "title": "Wave Alpha 110 — Thông số kỹ thuật (ficha técnica)",
+      "publisher": "Honda Việt Nam (honda.com.vn)",
+      "url": "https://www.honda.com.vn/xe-may/san-pham/wave-alpha-110",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "Hướng dẫn sử dụng Wave Alpha (manual do proprietário, PDF)",
+      "publisher": "Honda Việt Nam (honda.com.vn)",
+      "url": "https://cdn.honda.com.vn/motorbike-manual/September2025/P8qeKg7vdU5RIqpRvC4v.pdf",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    "lei-36-2024-a1",
+    "lawnet-categorias-2025",
+    "imt-lic",
+    "lawnet-passageiros-2025",
+    "lawnet-capacete-168",
+    "dtinews-autoestrada-2026"
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "READY_FOR_QA"
+}

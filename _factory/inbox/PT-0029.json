@@ -1,0 +1,223 @@
+{
+  "contract_version": 1,
+  "id": "PT-0029",
+  "slug": "como-conduzir-uma-semiautomatica",
+  "title": "Como conduzir uma mota semiautomática: mudanças sem embraiagem",
+  "description": "Passo a passo para conduzir uma semiautomática como a Honda Wave: ligar em ponto morto, subir e reduzir mudanças com o pé, parar e arrancar em subida.",
+  "h1": "Conduzir uma semiautomática passo a passo: arrancar, subir e reduzir mudanças, parar",
+  "summary": "Numa mota semiautomática, as mudanças engrenam-se com o pé esquerdo e a embraiagem é automática: liga-se o motor em ponto morto, carrega-se com a ponta do pé no pedal para entrar na primeira, fecha-se o acelerador a cada mudança e usa-se o calcanhar para reduzir. Pratique arranques, mudanças e paragens durante meia hora num local tranquilo antes de enfrentar o trânsito de Hanói.",
+  "key_points": [
+    "Não há manete de embraiagem: a mão esquerda só segura o guiador; o pé esquerdo muda, o pé direito trava atrás e a mão direita acelera e trava à frente.",
+    "A regra de ouro, segundo o manual da Honda: fechar sempre o acelerador antes de carregar no pedal, e não deixar o pé pousado no pedal em andamento.",
+    "Numa Wave, o sistema é rotativo: parada, da quarta volta-se ao ponto morto com mais um toque; em andamento, reduz-se mudança a mudança.",
+    "Reduza só dentro dos limites do fabricante: de quarta para terceira até 80 km/h, de terceira para segunda até 55 km/h, de segunda para primeira até 30 km/h.",
+    "Treine vinte a trinta minutos numa rua calma antes do trânsito; se continuar a procurar a manete, troque por uma scooter."
+  ],
+  "intro": [
+    "Quem recebe pela primeira vez uma Honda Wave ou uma Yamaha Sirius repara logo numa ausência: a mão esquerda não tem manete nenhuma. A mota tem quatro velocidades, mas a embraiagem trabalha sozinha. Isso torna a semiautomática mais fácil do que uma mota de mudanças clássica e, ao mesmo tempo, diferente o suficiente para baralhar quem só conduziu scooters.",
+    "Este guia explica como se conduz, gesto a gesto: ligar o motor, entrar na primeira, subir e reduzir mudanças, parar, encontrar o ponto morto e arrancar numa subida. Segue o manual do proprietário da Wave Alpha, publicado pela Honda Việt Nam, e acrescenta o que muda no trânsito de Hanói. Não ajuda a decidir entre scooter e semiautomática; para essa escolha, veja a página de [tipos de motas](/tipos-de-motas/)."
+  ],
+  "sections": [
+    {
+      "h2": "Os comandos: o que faz cada mão e cada pé",
+      "body": [
+        "Antes de ligar o motor, vale a pena fixar a distribuição dos comandos, porque é diferente da de uma scooter e da de uma mota de mudanças com embraiagem manual:",
+        {
+          "table": {
+            "caption": "Comandos de uma semiautomática como a Honda Wave",
+            "head": [
+              "Comando",
+              "Onde está",
+              "O que faz"
+            ],
+            "rows": [
+              [
+                "Acelerador",
+                "Punho direito",
+                "Roda-se para trás para acelerar; solta-se para fechar"
+              ],
+              [
+                "Travão da frente",
+                "Manete direita",
+                "Trava a roda da frente; usa-se sempre com o de trás"
+              ],
+              [
+                "Travão de trás",
+                "Pedal do pé direito",
+                "Trava a roda de trás; segura a mota parada em subida"
+              ],
+              [
+                "Pedal de mudanças",
+                "Pé esquerdo",
+                "Ponta do pé para a frente: sobe; calcanhar atrás: desce"
+              ],
+              [
+                "Mão esquerda",
+                "Guiador, sem manete",
+                "Só segura e aciona piscas, luzes e buzina"
+              ],
+              [
+                "Luz «N» no painel",
+                "Painel de instrumentos",
+                "Acesa quando a caixa está em ponto morto"
+              ]
+            ]
+          }
+        },
+        "O pedal de mudanças da Wave é basculante: carrega-se na parte da frente com a ponta do pé para subir uma mudança e na parte de trás com o calcanhar para reduzir. Noutras semiautomáticas, há só a parte da frente, e reduz-se levantando-a com a ponta do pé. Pergunte à loja qual é o caso da unidade que recebe e experimente parada, com o motor desligado.",
+        "A embraiagem automática liga o motor à roda quando as rotações sobem e desliga-o quando descem. Por isso, parada e com o acelerador fechado, a mota não avança nem se apaga, mesmo com uma mudança engrenada. É essa a diferença que torna a semiautomática mais tolerante do que uma mota com manete."
+      ]
+    },
+    {
+      "h2": "Antes de arrancar: três verificações",
+      "body": [
+        {
+          "checklist": [
+            "Calçado fechado: as mudanças fazem-se com a ponta do pé e com o calcanhar, e chinelos escorregam no pedal.",
+            "Luz «N» acesa com a chave na posição de ligado: o manual da Honda manda ligar o motor em ponto morto.",
+            "Descanso lateral recolhido, espelhos ajustados e capacete apertado antes de carregar no botão de arranque."
+          ]
+        },
+        "Se a luz «N» não acender, a caixa está numa mudança. Com a mota parada, carregue no pedal com o calcanhar, uma vez de cada vez, até a luz acender; se estiver em quarta, um toque com a ponta do pé para a frente também leva ao ponto morto, graças ao sistema rotativo. Só então ligue o motor."
+      ]
+    },
+    {
+      "h2": "Passo a passo: do arranque à paragem",
+      "body": [
+        "A sequência abaixo segue o manual do proprietário da Wave Alpha. Faça-a devagar nas primeiras vezes, numa rua sem trânsito:",
+        {
+          "steps": [
+            {
+              "title": "Ligue o motor em ponto morto",
+              "text": "Chave em ligado, luz «N» acesa, acelerador fechado. Carregue no botão de arranque. Se a mota tiver pedal de arranque e a bateria estiver fraca, acione-o com um movimento seco de cima para baixo. Deixe o motor aquecer meio minuto."
+            },
+            {
+              "title": "Entre na primeira",
+              "text": "Com o acelerador fechado, carregue na parte da frente do pedal com a ponta do pé até sentir o encaixe. A luz «N» apaga-se. A mota continua parada: a embraiagem só liga quando acelerar."
+            },
+            {
+              "title": "Arranque devagar",
+              "text": "Rode o acelerador com suavidade. A mota começa a andar sem solavanco; se der um salto, foi acelerador a mais. Mantenha os dois pés nos pousa-pés e não deixe o pé esquerdo encostado ao pedal de mudanças."
+            },
+            {
+              "title": "Suba para a segunda, a terceira e a quarta",
+              "text": "A cada mudança, feche o acelerador por completo, carregue com a ponta do pé para a frente e volte a acelerar. Na cidade, a segunda entra pouco depois de arrancar e a terceira em avenidas; a quarta serve para estradas abertas. Subir a mudança antes de o motor «gritar» poupa a mecânica."
+            },
+            {
+              "title": "Reduza quando abrandar",
+              "text": "Feche o acelerador, carregue com o calcanhar na parte de trás do pedal e volte a abrir o acelerador com suavidade. O motor trava e ajuda a controlar a velocidade. Reduza uma mudança de cada vez e só dentro dos limites do fabricante: de quarta para terceira até 80 km/h, de terceira para segunda até 55 km/h, de segunda para primeira até 30 km/h."
+            },
+            {
+              "title": "Pare com os dois travões",
+              "text": "Feche o acelerador, use ao mesmo tempo a manete da frente e o pedal de trás e, enquanto abranda, vá reduzindo até à primeira. Parada em primeira, a mota não se apaga nem avança. Numa paragem longa, passe ao ponto morto."
+            },
+            {
+              "title": "Encontre o ponto morto",
+              "text": "Parada, a caixa da Wave é rotativa: da quarta, um toque com a ponta do pé para a frente leva ao ponto morto; da primeira, um toque com o calcanhar. Em andamento, o sistema não deixa passar da quarta ao ponto morto; confirme sempre pela luz «N»."
+            },
+            {
+              "title": "Arranque em subida",
+              "text": "Parada na rampa, segure a mota com o pedal do travão de trás, engrene a primeira e abra o acelerador com suavidade. Quando sentir a mota a puxar, solte o travão. Com passageiro, a rampa pede um pouco mais de acelerador e o mesmo cuidado em soltar o travão."
+            }
+          ]
+        },
+        {
+          "note": "O manual da Honda insiste em três pontos: fechar sempre o acelerador antes de mudar, carregar no pedal com a ponta do pé até ao fim do curso e não deixar o pé pousado no pedal em andamento, para não danificar o mecanismo de mudanças e a embraiagem.",
+          "tone": "info",
+          "title": "O que o fabricante pede"
+        }
+      ]
+    },
+    {
+      "h2": "Os erros mais comuns nos primeiros minutos",
+      "body": [
+        "Quase todos os principiantes cometem os mesmos erros, e quase todos se corrigem em meia hora de prática:",
+        {
+          "ul": [
+            "**Mudar com o acelerador aberto.** A mota dá um solavanco e a caixa sofre. Solte o punho por completo, mude, volte a acelerar.",
+            "**Arrancar em terceira ou em quarta.** A mota arrasta-se e vibra. Se não tem a certeza da mudança, pare, volte ao ponto morto e recomece da primeira.",
+            "**Procurar a manete da esquerda ao travar.** É um reflexo de quem conduz motas com embraiagem manual; não há nada para apertar. Concentre-se nos dois travões.",
+            "**Reduzir com velocidade a mais.** De quarta para segunda a 60 km/h, o motor sobe de rotações de repente e a roda de trás pode perder aderência. Uma mudança de cada vez, dentro dos limites do manual.",
+            "**Pé pousado no pedal.** Meia mudança engrenada durante quilómetros desgasta a embraiagem. Em andamento, o pé esquerdo descansa no pousa-pés.",
+            "**Ficar em quarta ao parar.** A mota não se apaga, mas o arranque seguinte sai lento e aos solavancos. Reduza enquanto trava."
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "Treinar num sítio tranquilo antes do trânsito",
+      "body": [
+        "Ninguém aprende as mudanças de pé no meio de um cruzamento de Hanói. Reserve vinte a trinta minutos para praticar numa rua residencial, num parque de estacionamento vazio ou numa estrada de pouco movimento, de preferência de manhã cedo ou a meio da tarde, fora das horas de ponta.",
+        "Um plano simples para esse treino:",
+        {
+          "ol": [
+            "Com o motor desligado, percorra as mudanças parado, de olhos no painel, até sentir onde encaixam o ponto morto e a primeira.",
+            "Dez arranques e paragens em primeira, numa linha reta, para afinar a mão no acelerador.",
+            "Passagens de primeira para segunda e de volta, com o acelerador fechado em cada mudança.",
+            "Duas ou três voltas ao quarteirão a usar as três primeiras mudanças, com viragens à esquerda e à direita.",
+            "Um arranque em rampa, se houver uma por perto, e uma paragem de emergência com os dois travões."
+          ]
+        },
+        "Se levantar a mota na loja {{brand}}, as ruas residenciais de Long Biên à volta da loja servem bem para este treino, longe do centro. O guia sobre [alugar mota em Long Biên](/zonas-de-hanoi/aluguer-de-motas-em-long-bien/) descreve a zona e a primeira saída. Peça também que lhe mostrem os comandos na entrega, como sugere o guia sobre [levantar a mota alugada](/guia-de-aluguer/receber-a-mota/).",
+        "Se não tem a certeza de que se vai adaptar, alugue primeiro por um dia: a Honda Wave custa {{price.wave.day}} na tabela de referência da loja, e o guia do [aluguer por um dia](/precos/aluguer-de-mota-por-um-dia/) explica como organizar horários e devolução. Se, ao fim da meia hora, ainda procura a manete ou arranca em terceira, troque por uma scooter automática; o guia sobre [trocar de mota](/guia-de-aluguer/trocar-de-mota/) mostra como pedir a troca."
+      ]
+    },
+    {
+      "h2": "No trânsito de Hanói: mudanças no pára-arranca",
+      "body": [
+        "No centro, uma semiautomática passa a maior parte do tempo em primeira e em segunda. Não force a terceira só porque a avenida parece livre: daí a vinte metros há um semáforo, uma mota a sair de uma loja ou um autocarro a encostar. Antecipe as paragens, reduza enquanto trava e chegue aos cruzamentos já em primeira, pronto para arrancar.",
+        "Com chuva, o manual da Honda avisa que o piso fica escorregadio e que os travões molhados perdem eficácia. Nesses dias, reduza mais cedo e com mais suavidade, evite travagens bruscas e, se os travões estiverem molhados, use-os de leve a baixa velocidade para os secar. Em descidas compridas, como as rampas das pontes sobre o rio Vermelho, use o travão-motor numa mudança mais baixa em vez de ir sempre com os travões apertados.",
+        "Há regras que não mudam com o tipo de mota. A lei vietnamita em vigor desde 1 de janeiro de 2025 proíbe conduzir com qualquer concentração de álcool, usar o telemóvel ao guiador e circular sem capacete apertado. E, com 110 cm³, uma Wave cabe na categoria A1, até 125 cm³; o que levar como visitante está no guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/).",
+        "Por fim, uma nota de honestidade: uma semiautomática não é a mota certa para quem só conduziu scooters e tem dois dias em Hanói. O treino descrito acima funciona para quem tem tempo e alguma prática de duas rodas. Se é a primeira mota da sua vida, o guia [para quem nunca conduziu](/tipos-de-motas/nunca-conduziu-uma-mota/) explica porque Hanói não é o sítio para começar."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "A mota apaga-se se parar com uma mudança engrenada?",
+      "a": "Não. A embraiagem automática desliga o motor da roda quando as rotações descem, por isso a mota fica parada em qualquer mudança sem se apagar, desde que o acelerador esteja fechado. O que convém é reduzir enquanto trava, para arrancar outra vez em primeira e não em terceira ou em quarta."
+    },
+    {
+      "q": "Posso arrancar em segunda para poupar uma mudança?",
+      "a": "Pode, mas não é boa ideia no trânsito. Em segunda, a mota arranca mais devagar e com mais esforço para a embraiagem, sobretudo com passageiro ou em subida. O manual da Honda descreve o arranque a partir da primeira; guarde a segunda para arranques em descida ou já em movimento."
+    },
+    {
+      "q": "O que acontece se mudar sem fechar o acelerador?",
+      "a": "A mota dá um solavanco e a caixa de velocidades recebe um impacto que, repetido, desgasta o mecanismo. O manual do proprietário da Wave Alpha pede que se reduza sempre o acelerador antes de carregar no pedal. Se lhe acontecer uma vez, não há drama; o que importa é não transformar o erro em hábito."
+    },
+    {
+      "q": "Posso passar de quarta para primeira de uma vez ao parar?",
+      "a": "Em andamento, reduza uma mudança de cada vez e respeite as velocidades máximas que o manual indica para cada redução. Só com a mota parada é que a caixa rotativa da Wave permite saltar da quarta para o ponto morto com um toque; da primeira, outro toque com o calcanhar leva igualmente ao ponto morto."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Hướng dẫn sử dụng Wave Alpha (manual do proprietário, PDF): arranque, mudanças e travagem",
+      "publisher": "Honda Việt Nam (honda.com.vn)",
+      "url": "https://cdn.honda.com.vn/motorbike-manual/September2025/P8qeKg7vdU5RIqpRvC4v.pdf",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "Wave Alpha 110 — Thông số kỹ thuật (ficha técnica)",
+      "publisher": "Honda Việt Nam (honda.com.vn)",
+      "url": "https://www.honda.com.vn/xe-may/san-pham/wave-alpha-110",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    "lawnet-proibicoes-2024",
+    "lawnet-capacete-168",
+    "lei-36-2024-a1",
+    "lawnet-categorias-2025",
+    "mfat-conduzir-vietname",
+    "tabela-precos-proprietario"
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "READY_FOR_QA"
+}

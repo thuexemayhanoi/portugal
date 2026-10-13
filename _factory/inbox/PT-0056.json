@@ -1,0 +1,286 @@
+{
+  "contract_version": 1,
+  "id": "PT-0056",
+  "slug": "aluguer-de-mota-eletrica-em-hanoi",
+  "title": "Mota elétrica de aluguer em Hanói: preço, autonomia e carga",
+  "description": "Quanto custa alugar uma mota elétrica em Hanói por dia, semana e mês, que autonomia e tempo de carga confirmar com a loja, onde carregar e a quem compensa.",
+  "h1": "Alugar uma mota elétrica em Hanói: o que custa, quanto anda com uma carga e onde a carregar",
+  "summary": "Na tabela de referência da loja, a mota elétrica custa {{price.eletrica.day}} por dia, {{price.eletrica.week}} por semana e {{price.eletrica.month}} por mês: ao dia, {{cmp.eletrica.vision.day}} a Honda Vision. A autonomia e o tempo de carga dependem da unidade concreta e não constam da tabela, por isso confirme-os com a loja antes de reservar. Compensa para trajetos urbanos curtos, com uma tomada no alojamento; não para sair de Hanói.",
+  "key_points": [
+    "Preço de referência: {{price.eletrica.day}} por dia, {{price.eletrica.week}} por semana e {{price.eletrica.month}} por mês; a partir de {{price.eletrica.weekFrom}} dias de aluguer, a tarifa semanal compensa.",
+    "A tabela da loja diz apenas «mota elétrica»: pergunte o modelo, a potência em kW, a capacidade da bateria, a autonomia realista e o tempo de carga antes de reservar.",
+    "Nas fichas dos fabricantes, a autonomia vai de cerca de 70 km a mais de 200 km por carga, medida a 30 km/h com um só ocupante; na cidade, conte com menos.",
+    "Carregar demora horas numa tomada de 220 V: planeie uma carga por noite e confirme que o alojamento o permite.",
+    "Até 11 kW, a elétrica exige a categoria A1; à data de 13 de outubro de 2026, não dá vantagem nas noites de fim de semana na zona 1 de Hoàn Kiếm, fechada a todas as motas."
+  ],
+  "intro": [
+    "Hanói enche-se de motas elétricas: silenciosas, sem cheiro a gasolina e com um custo por quilómetro muito baixo. Para quem aluga, a pergunta é outra: vale a pena escolher uma elétrica em vez de uma scooter a gasolina para uma estadia de dias ou semanas? A resposta depende de três números, o preço, a autonomia e o tempo de carga, e só o primeiro está na tabela da loja.",
+    "Este guia dá o preço de referência da mota elétrica da loja {{brand}}, explica o que perguntar sobre a autonomia e a carga, mostra o que os fabricantes anunciam a título de exemplo e descreve o perfil de quem fica a ganhar com a elétrica. A carta de condução exigida por cada potência tem guia próprio, e os outros modelos estão na página de [tipos de motas](/tipos-de-motas/)."
+  ],
+  "sections": [
+    {
+      "h2": "Preço de referência: dia, semana e mês",
+      "body": [
+        "A tabela de referência da loja, verificada a {{pricing.verifiedAt}}, inclui uma mota elétrica com preço ao dia, à semana e ao mês. Os valores dizem respeito só ao veículo; caução, entrega e capacetes extra tratam-se à parte, e a loja confirma o total para as suas datas.",
+        {
+          "component": "price-table",
+          "category": "motas-eletricas"
+        },
+        "Ao dia, a elétrica custa {{price.eletrica.day}}: {{cmp.eletrica.vision.day}} a Honda Vision, {{cmp.eletrica.click.day}} a Honda Click e {{cmp.eletrica.wave.day}} a Honda Wave, a semiautomática mais barata da frota. À semana, a referência é de {{price.eletrica.week}}, e a partir de {{price.eletrica.weekFrom}} dias de aluguer a tarifa semanal já compensa.",
+        "Ao mês, custa {{price.eletrica.month}}, {{cmp.eletrica.airblade.month}} a Air Blade e {{cmp.eletrica.vision.month}} a Vision. A conta que falta é a da energia: em vez de gasolina, paga a eletricidade do alojamento, que numa carga de mota custa uma fração de um depósito. Se o alojamento cobrar a carga à parte, pergunte quanto antes de contar com essa poupança.",
+        "As regras de cada duração estão nos guias do [aluguer semanal](/precos/aluguer-semanal-de-mota/) e do [aluguer mensal](/precos/aluguer-mensal-de-mota/); a [página de preços](/precos/) compara todos os modelos de uma vez."
+      ]
+    },
+    {
+      "h2": "Autonomia: porque não damos um número, e o que perguntar",
+      "body": [
+        "A tabela da loja identifica o veículo apenas como «mota elétrica», sem marca, modelo nem bateria. Como a autonomia varia várias vezes entre modelos, qualquer número que escrevêssemos aqui seria um palpite. O que podemos dar é a escala do mercado vietnamita, segundo os próprios fabricantes, e a lista de perguntas que resolve a dúvida para a unidade concreta.",
+        {
+          "table": {
+            "caption": "Exemplos de autonomia e carga anunciados pelos fabricantes no Vietname (ilustrativos; a unidade da loja pode ser outra)",
+            "head": [
+              "Modelo",
+              "Motor e bateria",
+              "Autonomia anunciada",
+              "Carga anunciada"
+            ],
+            "rows": [
+              [
+                "Honda ICON e:",
+                "1,81 kW de potência máxima; bateria de 1,5 kWh, amovível",
+                "Cerca de 71 km por carga, segundo a Honda",
+                "Cerca de 8 horas de 0 a 100 %; 3,5 horas de 25 a 75 % (apresentação de abril de 2025)"
+              ],
+              [
+                "Honda CUV e:",
+                "Cerca de 6 kW; baterias amovíveis",
+                "Cerca de 73 km por carga, segundo a Honda",
+                "Não indicada na página do fabricante"
+              ],
+              [
+                "VinFast Evo200",
+                "Bateria LFP",
+                "Até 203 km a 30 km/h com um ocupante de 65 kg",
+                "Cerca de 4 horas com carregador de 1.000 W"
+              ],
+              [
+                "VinFast Feliz S",
+                "3,5 kWh, LFP",
+                "Até 198 km nas mesmas condições",
+                "Cerca de 6 horas com carregador de 1.000 W"
+              ],
+              [
+                "VinFast Feliz 2025",
+                "2,8 kW; 2,4 kWh, com segunda bateria opcional",
+                "Até 262 km com as duas baterias, a 30 km/h",
+                "Não indicada na ficha"
+              ]
+            ]
+          }
+        },
+        "Repare na escala: a própria Honda Việt Nam anuncia entre cerca de 71 km e 120 km por carga conforme o modelo, e a VinFast entre 198 km e 262 km. Repare também nas condições: 30 km/h constantes, um só ocupante, bateria nova. A VinFast avisa que a autonomia real baixa com a velocidade, a temperatura, o relevo, a carga e o estilo de condução. Numa unidade de aluguer com meses ou anos de ciclos de carga, e no pára-arranca de Hanói, conte com uma margem larga abaixo do valor anunciado.",
+        {
+          "h3": "As perguntas que resolvem a dúvida"
+        },
+        {
+          "checklist": [
+            "Qual é a marca, o modelo e o ano da mota elétrica disponível nas minhas datas?",
+            "Qual é a potência do motor em kW e a capacidade da bateria em kWh?",
+            "Que autonomia anuncia o fabricante, e quantos quilómetros faz na prática a unidade, em cidade, antes de pedir carga?",
+            "A bateria é amovível ou carrega-se na mota? O carregador segue com a mota?",
+            "Quanto tempo demora uma carga completa numa tomada normal?",
+            "O que combinamos se a bateria acabar a meio de um trajeto?",
+            "Estas respostas podem ficar escritas na confirmação da reserva?"
+          ]
+        },
+        "Envie as perguntas numa só mensagem pelos [contactos da loja](/contactos/), com as datas e os trajetos que tem em mente. A lista geral de [perguntas a fazer antes de alugar](/guia-de-aluguer/perguntas-antes-de-alugar/) cobre o resto: caução, documentos e devolução."
+      ]
+    },
+    {
+      "h2": "Carregar: onde, como e quanto tempo",
+      "body": [
+        "As motas elétricas vendidas no Vietname carregam numa tomada doméstica de 220 V, com o carregador do fabricante. Há dois sistemas: bateria amovível, que se tira da mota e se carrega dentro de casa, e bateria fixa, que obriga a levar o carregador até à mota. Pergunte à loja qual é o caso, porque muda onde pode dormir com a mota.",
+        {
+          "h3": "No alojamento"
+        },
+        "Antes de reservar a mota, confirme com o hotel, a pensão ou o senhorio que permite carregar: muitos edifícios de Hanói só autorizam a carga em zonas designadas, e alguns proíbem levar baterias para os quartos. Se a bateria for fixa, precisa de uma tomada no parque ou de um cabo que lá chegue. Uma carga completa demora horas, por isso a rotina habitual é carregar de noite e sair de manhã com a bateria cheia.",
+        {
+          "h3": "Na rua"
+        },
+        "As redes públicas de carga e de troca de baterias existem, mas estão ligadas a marcas e a aplicações concretas, muitas vezes com conta em nome do proprietário. Não conte com elas sem a loja confirmar que a unidade as pode usar. Para um visitante, a tomada do alojamento é a única solução em que pode confiar.",
+        {
+          "h3": "Chuva e ruas alagadas"
+        },
+        "A VinFast, numa recomendação publicada a 10 de outubro de 2026, aconselha a evitar zonas alagadas, a não atravessar água mais alta do que a distância ao solo da mota e, se a mota ficar submersa, a desligar tudo e a não a carregar com a tomada de carga molhada. Guarde este conselho para a época das chuvas: uma mota elétrica alagada é uma avaria cara e perigosa, e a responsabilidade pode ficar do lado de quem alugou. O que fazer numa avaria está no guia sobre [assistência na estrada](/guia-de-aluguer/assistencia-na-estrada/).",
+        {
+          "note": "Um trajeto de ida e volta ao aeroporto de Nội Bài, a partir de Long Biên, anda à volta de 60 km. Com uma autonomia anunciada de 70 km e uma unidade usada, é um trajeto a evitar com uma elétrica; com uma autonomia de 150 km ou mais, é viável, desde que parta com a bateria cheia.",
+          "tone": "warn",
+          "title": "Faça a conta antes de cada trajeto longo"
+        }
+      ]
+    },
+    {
+      "h2": "Carta de condução: até 11 kW, categoria A1",
+      "body": [
+        "Na lei de trânsito vietnamita em vigor desde 1 de janeiro de 2025, uma mota elétrica com motor até 11 kW cabe na categoria A1, a mesma das motas a gasolina até 125 cm³. Acima de 11 kW, é exigida a categoria A. Por isso a potência em kW é uma das perguntas obrigatórias à loja: define que carta tem de levar.",
+        "Os pormenores, incluindo o grupo das elétricas de menos de 4 kW e o que fazer se a ficha técnica indicar mais do que um valor de potência, estão no guia sobre a [carta para mota elétrica](/tipos-de-motas/carta-para-mota-eletrica/). Os documentos a levar à loja estão no guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/)."
+      ]
+    },
+    {
+      "h2": "Zona de baixas emissões: a elétrica não dá vantagem à noite",
+      "body": [
+        "Muitos visitantes pensam na elétrica por causa da zona de baixas emissões de Hoàn Kiếm. À data de 13 de outubro de 2026, a vantagem não existe nas horas que contam. Na zona 1, que abrange o espaço pedonal do lago e as ruas do mercado noturno, motas e automóveis em geral estão proibidos de sexta a domingo, das 19:00 às 24:00. A informação oficial de 1 de julho de 2026 não excetua as elétricas.",
+        "Fora dessas noites, na primeira fase do piloto, as motas a gasolina continuam a circular em Hoàn Kiếm, depois de a cidade ter abandonado a proposta de as proibir à volta do lago. Ou seja, uma elétrica não lhe abre portas que uma scooter a gasolina tenha fechadas. Os horários, os parques e os percursos alternativos estão no guia da [zona de baixas emissões](/tipos-de-motas/zona-de-baixas-emissoes-hanoi/)."
+      ]
+    },
+    {
+      "h2": "A quem compensa a elétrica, e a quem não",
+      "body": [
+        {
+          "table": {
+            "caption": "Perfis a quem a mota elétrica de aluguer serve, e perfis a quem não serve",
+            "head": [
+              "Perfil",
+              "Compensa?",
+              "Porquê"
+            ],
+            "rows": [
+              [
+                "Trajetos urbanos curtos e previsíveis, todos os dias",
+                "Sim",
+                "Autonomia de sobra para a cidade; carga à noite no alojamento"
+              ],
+              [
+                "Estadia de semanas com alojamento fixo e tomada acessível",
+                "Sim",
+                "Preço mensal {{cmp.eletrica.vision.month}} a Vision e energia barata"
+              ],
+              [
+                "Quem quer silêncio e menos trepidação no trânsito lento",
+                "Sim",
+                "Motor silencioso e arranque imediato nos semáforos"
+              ],
+              [
+                "Alojamento sem tomada no parque ou que proíbe carregar",
+                "Não",
+                "Sem carga diária, a elétrica fica parada"
+              ],
+              [
+                "Saídas de um dia para fora de Hanói",
+                "Não",
+                "Autonomia e falta de pontos de carga fora da cidade"
+              ],
+              [
+                "Época das chuvas, com ruas alagadas no caminho diário",
+                "Pondere",
+                "Água alta é risco de avaria; uma scooter com distância ao solo maior aguenta melhor"
+              ],
+              [
+                "Chegada sem reserva e sem perguntas feitas",
+                "Pondere",
+                "Autonomia e carga precisam de confirmação; sem ela, a scooter é mais previsível"
+              ]
+            ]
+          }
+        },
+        "Se trabalha à distância a partir de Hanói, com rotinas fixas entre casa, café e espaço de trabalho, a elétrica encaixa bem; o guia sobre a [mota para nómadas digitais](/precos/mota-para-nomadas-digitais/) ajuda a planear o aluguer de um a três meses. Se o plano inclui o Bairro Antigo com paragens constantes, uma elétrica comporta-se como uma scooter automática: sem mudanças e com arranque suave.",
+        "Para a maioria dos visitantes de poucos dias, com passeios e dúvidas sobre o alojamento, a [Honda Vision](/tipos-de-motas/honda-vision-em-hanoi/), que custa {{cmp.vision.eletrica.day}} a elétrica ao dia, continua a ser a escolha mais simples: abastece-se em cinco minutos em qualquer bomba e não depende de uma tomada."
+      ]
+    },
+    {
+      "h2": "Antes de reservar: a lista final",
+      "body": [
+        {
+          "checklist": [
+            "Respostas da loja sobre modelo, kW, kWh, autonomia realista e tempo de carga, por escrito.",
+            "Confirmação do alojamento de que pode carregar, e onde.",
+            "Carta com categoria de motociclos e licença internacional, se a potência exigir A1.",
+            "Capacete apertado para si e para o passageiro: é obrigatório em qualquer mota, elétrica incluída.",
+            "Plano para os trajetos longos: ou cabem na autonomia com margem, ou fazem-se de táxi.",
+            "Fotos da mota, da bateria e do carregador no levantamento."
+          ]
+        },
+        "Com a lista fechada, confirme a disponibilidade e o preço final pelos [contactos da loja](/contactos/), aberta {{hours}}. Os custos que se podem somar ao preço de referência estão explicados no guia sobre [tudo o que pode somar-se ao custo](/precos/custos-alem-do-preco/)."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Posso carregar a mota elétrica no hotel?",
+      "a": "Depende do hotel. Alguns têm tomadas no parque ou uma zona de carga; outros proíbem carregar baterias nos quartos ou no edifício. Pergunte antes de reservar a mota e diga se a bateria é amovível ou fixa, porque a resposta pode ser diferente para cada caso."
+    },
+    {
+      "q": "Quanto tempo demora a carregar uma mota elétrica?",
+      "a": "Horas, não minutos. Nos exemplos publicados pelos fabricantes no Vietname, uma carga completa vai de cerca de 4 horas, num VinFast Evo200 com carregador de 1.000 W, a cerca de 8 horas, num Honda ICON e:. A unidade da loja pode ter outro valor: confirme-o e planeie uma carga por noite."
+    },
+    {
+      "q": "E se a bateria acabar a meio do caminho?",
+      "a": "Uma elétrica sem carga não se empurra com facilidade nem se abastece numa bomba. Combine com a loja, antes de sair, o que acontece nesse caso e guarde o contacto no telemóvel. Na prática, a melhor proteção é a conta feita à partida: trajeto de ida e volta bem abaixo da autonomia real da unidade."
+    },
+    {
+      "q": "Uma mota elétrica precisa de capacete e de carta?",
+      "a": "Sim às duas. O capacete apertado é obrigatório para quem conduz e para o passageiro, em qualquer mota, com coima de 400 mil a 600 mil VND segundo o Decreto 168/2024/NĐ-CP. A carta depende da potência: até 11 kW, categoria A1; acima, categoria A. As elétricas de menos de 4 kW têm regras próprias, explicadas no guia da carta para mota elétrica."
+    }
+  ],
+  "sources": [
+    "tabela-precos-proprietario",
+    {
+      "title": "Xe máy | Xe điện — Honda ICON e:, CUV e: e UC3 (autonomia, potência e velocidade anunciadas)",
+      "publisher": "Honda Việt Nam (honda.com.vn)",
+      "url": "https://www.honda.com.vn/xe-may/xe-dien",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "VinFast Feliz 2025 — thông số kỹ thuật (ficha técnica)",
+      "publisher": "VinFast (vinfastauto.com)",
+      "url": "https://vinfastauto.com/vn_vi/xe-may-dien-feliz",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "Quãng đường di chuyển xe máy điện VinFast được bao nhiêu km? (autonomia e tempo de carga por modelo)",
+      "publisher": "VinFast (vinfastauto.com)",
+      "url": "https://vinfastauto.com/vn_vi/quang-duong-di-chuyen-xe-may-dien-vinfast",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "VinFast khuyến nghị di chuyển an toàn với xe máy điện trong mùa mưa bão (recomendações para a época das chuvas, 10 de outubro de 2026)",
+      "publisher": "VinFast (vinfastauto.com)",
+      "url": "https://vinfastauto.com/vn_vi/vinfast-khuyen-nghi-di-chuyen-an-toan-voi-xe-may-dien-trong-mua-mua-bao",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "Honda ICON e: - xe máy điện sạc rời, không cần bằng lái (apresentação do modelo, 5 de abril de 2025)",
+      "publisher": "VnExpress",
+      "url": "https://vnexpress.net/honda-icon-e-xe-may-dien-sac-roi-khong-can-bang-lai-4870241.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    "lei-36-2024-a1",
+    "lawnet-categorias-2025",
+    "lawnet-capacete-168",
+    {
+      "title": "Ha Noi begins restricting fossil-fuel vehicles in low-emission zones",
+      "publisher": "Portal do Governo do Vietname (chinhphu.vn) — Hanoi Capital",
+      "url": "https://hanoicapital.chinhphu.vn/ha-noi-begins-restricting-fossil-fuel-vehicles-in-low-emission-zones-110260702082825273.htm",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    },
+    "vietnamnet-zbe-revisao"
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "READY_FOR_QA"
+}
