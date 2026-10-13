@@ -75,7 +75,7 @@
           ]
         },
         "A empresa pode assumir os custos, mas não assume a responsabilidade de quem conduz. Como lembram os [termos e condições](/termos-e-condicoes/), quem conduz é responsável por ter a habilitação exigida para a categoria do veículo e por cumprir as regras de trânsito do Vietname. Num controlo, é a quem está ao guiador que a polícia pede a carta e os documentos da mota.",
-        "Os documentos que a loja pede estão explicados no guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/), e as condições de caução, no guia sobre [como funciona a caução](/precos/como-funciona-a-caucao/). Se for a empresa a adiantar a caução, combine com ela, antes da viagem, como e quando o dinheiro lhe volta."
+        "Os documentos que a loja pede estão explicados no guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/), e as condições de caução, no guia sobre [como funciona a caução](/precos/como-funciona-a-caucao/). Se for a empresa a adiantar a caução, combine com ela, antes da viagem, como e quando o dinheiro lhe volta. Quanto ao passaporte de cada pessoa da equipa, que o alojamento pede à chegada e que convém levar bem guardado quando se conduz, veja o guia sobre [passaporte e registo de estadia](/guia-de-aluguer/passaporte-e-registo-de-estadia/)."
       ]
     },
     {
@@ -236,12 +236,18 @@
   "date_published": "2026-10-13",
   "date_modified": "2026-10-13",
   "editorial": {
-    "qa_score": 100,
-    "qa_warnings": [],
-    "words": 2200,
+    "qa_score": 98,
+    "qa_warnings": [
+      "word count 2232 outside the topic target 1200–2200"
+    ],
+    "words": 2232,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
     "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      },
       {
         "date": "2026-10-13",
         "reason": "Ligações internas para artigos publicados depois"

@@ -61,7 +61,7 @@
         {
           "h3": "Se só chega à loja ao fim do dia"
         },
-        "Se só consegue ir depois das 18:00, considere levantar a mota no sábado de manhã, a partir das {{opens}}. Perde a noite de sexta, a mais limitada para as motas no centro, e ganha um primeiro percurso de dia. Pergunte se a sexta deixa então de contar como dia de aluguer e peça que a data de início fique escrita.",
+        "Se só consegue ir depois das 18:00, considere levantar a mota no sábado de manhã, a partir das {{opens}}. Perde a noite de sexta, a mais limitada para as motas no centro, e ganha um primeiro percurso de dia. Pergunte se a sexta deixa então de contar como dia de aluguer e peça que a data de início fique escrita. Se acabou de chegar a Hanói, o guia sobre [alugar a mota à chegada ou esperar uns dias](/precos/alugar-a-mota-a-chegada/) explica quando compensa começar o aluguer mais tarde.",
         {
           "h3": "Se o alojamento fica dentro da zona 1"
         },
@@ -187,11 +187,18 @@
   "date_published": "2026-10-13",
   "date_modified": "2026-10-13",
   "editorial": {
-    "qa_score": 100,
-    "qa_warnings": [],
-    "words": 1792,
+    "qa_score": 98,
+    "qa_warnings": [
+      "word count 1818 outside the topic target 1100–1800"
+    ],
+    "words": 1818,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

@@ -88,7 +88,7 @@
     {
       "h2": "Quando a mota não reconhece o comando",
       "body": [
-        "Se o botão não responde e o comando está consigo, não perdeu a chave: falta perceber porque é que a mota não o reconhece. O manual da SH Mode aponta causas possíveis. A zona de funcionamento pode ficar maior ou menor do que o normal, e o sistema pode falhar com a pilha do comando fraca ou com aparelhos que causem interferências por perto.",
+        "Se o botão não responde e o comando está consigo, não perdeu a chave: falta perceber porque é que a mota não o reconhece. O manual da SH Mode aponta causas possíveis. A zona de funcionamento pode ficar maior ou menor do que o normal, e o sistema pode falhar com a pilha do comando fraca ou com aparelhos que causem interferências por perto. Se foi o motor que se desligou sozinho ao parar num semáforo, pode ser o Idling Stop e não uma falha do comando: o guia sobre o [Idling Stop da Honda](/tipos-de-motas/sistema-idling-stop/) explica quando é funcionamento normal e quando é avaria.",
         "Com a mota parada num sítio seguro, tente por esta ordem:",
         {
           "ol": [
@@ -152,7 +152,7 @@
             "a quem ligar e como enviar a localização se isso acontecer na rua."
           ]
         },
-        "As restantes verificações da entrega, dos travões aos documentos, estão no guia sobre [receber a mota alugada](/guia-de-aluguer/receber-a-mota/). Para comparar modelos antes de reservar, veja as [scooters automáticas para alugar em Hanói](/tipos-de-motas/scooters/). Para confirmar se a unidade que lhe propõem tem chave inteligente, use os [contactos da loja](/contactos/)."
+        "As restantes verificações da entrega, dos [travões CBS e ABS](/tipos-de-motas/travoes-cbs-e-abs/) aos documentos, estão no guia sobre [receber a mota alugada](/guia-de-aluguer/receber-a-mota/). Para comparar modelos antes de reservar, veja as [scooters automáticas para alugar em Hanói](/tipos-de-motas/scooters/). Para confirmar se a unidade que lhe propõem tem chave inteligente, use os [contactos da loja](/contactos/)."
       ]
     }
   ],
@@ -247,9 +247,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1780,
+    "words": 1823,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

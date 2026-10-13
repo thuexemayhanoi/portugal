@@ -123,7 +123,7 @@
         {
           "h3": "O apoio consular"
         },
-        "O apoio consular português pode facilitar o contacto com hospitais em caso de acidente ou doença, mas não paga contas médicas. Se precisar dessa ajuda, contacte o Gabinete de Emergência Consular: +351 217 929 714, +351 961 706 472 ou [gec@mne.pt](mailto:gec@mne.pt)."
+        "O apoio consular português pode facilitar o contacto com hospitais em caso de acidente ou doença, mas não paga contas médicas. Se precisar dessa ajuda, contacte o Gabinete de Emergência Consular: +351 217 929 714, +351 961 706 472 ou [gec@mne.pt](mailto:gec@mne.pt). O que o apoio consular faz e não faz está no guia sobre [apoio consular português no Vietname](/guia-de-aluguer/apoio-consular-portugues/)."
       ]
     },
     {
@@ -165,7 +165,7 @@
     {
       "h2": "Depois do hospital: a mota, a loja e a polícia",
       "body": [
-        "Logo que a situação médica o permita, avise a loja pelo {{phone}}, mesmo que a mota pareça intacta. Diga onde ficou a mota, em que estado está e se a polícia esteve no local.",
+        "Logo que a situação médica o permita, avise a loja pelo {{phone}}, mesmo que a mota pareça intacta. Diga onde ficou a mota, em que estado está e se a polícia esteve no local. Se o telemóvel se perdeu na queda, o guia sobre [como contactar a loja sem telemóvel a meio do aluguer](/guia-de-aluguer/perdeu-o-telemovel-durante-o-aluguer/) explica como avisar a loja a partir de outro telemóvel.",
         "Não volte a conduzir enquanto o médico o desaconselhar ou se estiver a tomar medicação que afete a atenção. Se não puder devolver a mota na data combinada, avise a loja com antecedência; o guia sobre [atraso na devolução](/guia-de-aluguer/atraso-na-devolucao/) explica como.",
         "Fotografe a mota, guarde os papéis que a polícia lhe entregar e trate os danos com a loja, segundo o que foi combinado. Os guias sobre [danos na mota alugada](/precos/danos-na-mota-alugada/) e sobre o [controlo da polícia](/guia-de-aluguer/controlo-da-policia/) ajudam nos passos seguintes, e o [guia de aluguer](/guia-de-aluguer/) reúne o resto."
       ]
@@ -306,9 +306,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1488,
+    "words": 1536,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

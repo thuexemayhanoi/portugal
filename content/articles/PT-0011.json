@@ -128,7 +128,7 @@
       "h2": "Peso: o que conta quando a mota está parada",
       "body": [
         "Os pesos das fichas são parecidos, entre 93 e 99 kg, e usam definições diferentes. Isto significa que o peso raramente separa um modelo de outro: dificilmente vai notar a diferença entre uma Vision e uma Sirius FI na ficha. O que vai notar é se consegue deslocar a mota com segurança.",
-        "Os gestos em que o peso aparece são sempre os mesmos: tirar a mota de um lugar apertado ao empurrá-la, trocar de sentido num parque cheio, pô-la no descanso central e segurá-la numa paragem em rampa. Se algum destes gestos lhe custar, mesmo com a mota vazia, conte com mais dificuldade quando juntar o combustível, a bagagem ou um passageiro.",
+        "Os gestos em que o peso aparece são sempre os mesmos: tirar a mota de um lugar apertado ao empurrá-la, trocar de sentido num parque cheio, pô-la no descanso central e segurá-la numa paragem em rampa. Se algum destes gestos lhe custar, mesmo com a mota vazia, conte com mais dificuldade quando juntar o combustível, a bagagem ou um passageiro. Quanto esse combustível custa ao fim do dia está no guia sobre o [consumo das scooters de aluguer](/tipos-de-motas/consumo-das-scooters/).",
         "Os dados que reunimos para este guia não incluem a carga máxima, ou seja, o peso que a mota aguenta somando condutor, passageiro e bagagem. É um dado que interessa a quem é mais pesado ou vai levar carga, e só a loja o pode confirmar para a unidade concreta. Pergunte-o por escrito, na mesma mensagem em que pede o modelo."
       ]
     },
@@ -278,9 +278,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 2017,
+    "words": 2035,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

@@ -215,7 +215,7 @@
             "Telemóvel guardado durante a condução, como manda a lei: o mapa consulta-se com a mota parada.",
             "Um passageiro no máximo, salvo as exceções previstas na lei.",
             "Álcool zero para quem conduz, também ao jantar.",
-            "Com chuva forte, encurte o dia e deixe os lagos para outra altura. Vista a capa de chuva antes de arrancar e nunca conduza de guarda-chuva na mão, que também é proibido."
+            "Com chuva forte, encurte o dia e deixe os lagos para outra altura; para essa altura, há um [roteiro com paragens cobertas](/rotas-e-mobilidade/roteiro-para-um-dia-de-chuva/) no centro e em Long Biên. Vista a capa de chuva antes de arrancar e nunca conduza de guarda-chuva na mão, que também é proibido."
           ]
         },
         "Em caso de furo ou avaria, encoste num local seguro e ligue para a loja, {{phone}}, antes de mandar reparar. Para outras dúvidas sobre o aluguer, a página de [contactos](/contactos/) reúne as formas de falar com a loja. Outros percursos e conselhos para se deslocar na cidade vão sendo reunidos em [Rotas e mobilidade](/rotas-e-mobilidade/)."
@@ -345,13 +345,17 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 2766,
+    "words": 2781,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
     "revisions": [
       {
         "date": "2026-10-13",
         "reason": "Ligação à página da categoria Rotas e mobilidade (criada com este artigo) e ao guia do Bairro Antigo."
+      },
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
       }
     ]
   }

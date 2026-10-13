@@ -53,7 +53,7 @@
           "h3": "As férias oficiais ainda dependem de uma decisão"
         },
         "Para a função pública, o Ministério do Interior (Bộ Nội vụ) estudou duas opções, de 7 e de 10 dias seguidos, e propôs a primeira. As férias iriam de 4 de fevereiro, dia 28 do 12.º mês lunar do ano Bính Ngọ, a 10 de fevereiro de 2027, quinto dia do novo ano. A decisão cabe ao Primeiro-Ministro. Nas notícias mais recentes consultadas, de 2 de setembro de 2026, continuava a ser uma proposta, por isso confirme o calendário final antes de marcar viagens ou devoluções.",
-        "Estas datas valem para a função pública. No setor privado, cada empregador escolhe os dias de Tết, respeitando o mínimo de cinco previsto no Código do Trabalho de 2019 — por exemplo, um dia no fim do ano Bính Ngọ e quatro no início do ano Đinh Mùi. Lojas, oficinas e outros serviços podem, por isso, fechar e reabrir em dias diferentes."
+        "Estas datas valem para a função pública. No setor privado, cada empregador escolhe os dias de Tết, respeitando o mínimo de cinco previsto no Código do Trabalho de 2019 — por exemplo, um dia no fim do ano Bính Ngọ e quatro no início do ano Đinh Mùi. Lojas, oficinas e outros serviços podem, por isso, fechar e reabrir em dias diferentes. Os restantes dias feriados do ano, e o que mudam para quem viaja de mota, estão no guia sobre os [feriados oficiais do Vietname](/rotas-e-mobilidade/feriados-nacionais-e-transito/)."
       ]
     },
     {
@@ -115,7 +115,7 @@
     {
       "h2": "O tempo no início de fevereiro",
       "body": [
-        "O Tết de 2027 calha num período fresco em Hanói: segundo o portal oficial de turismo do Vietname, de finais de dezembro a março as mínimas podem rondar os 10 °C. O WeatherSpark indica fevereiro como o mês mais seco do ano, com cerca de 13 mm de chuva.",
+        "O Tết de 2027 calha num período fresco em Hanói: segundo o portal oficial de turismo do Vietname, de finais de dezembro a março as mínimas podem rondar os 10 °C. O WeatherSpark indica fevereiro como o mês mais seco do ano, com cerca de 13 mm de chuva. Seja qual for a data, se houver aviso de tufão ou de chuva muito forte, o guia sobre [tufões e alertas meteorológicos](/rotas-e-mobilidade/tufoes-e-alertas-meteorologicos/) explica onde ver os alertas oficiais e quando deixar a mota parada.",
         "Fevereiro marca também o início do nồm, a humidade extrema típica do Norte, que costuma durar até abril. Nesses episódios, a humidade passa muitas vezes dos 90 % e o vapor condensa nas superfícies frias, que ficam molhadas e escorregadias. Duas consequências práticas:",
         {
           "ul": [
@@ -343,9 +343,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1936,
+    "words": 1994,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

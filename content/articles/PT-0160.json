@@ -14,14 +14,14 @@
     "Álcool: no Vietname, quem conduz uma mota não pode ter qualquer concentração de álcool. Se vai beber, deixe a mota guardada."
   ],
   "intro": [
-    "Quem aluga uma mota em Hanói acaba quase sempre por conduzir depois de escurecer: no regresso de um jantar, de um passeio ou de um mercado. A noite muda o que se vê e o que os outros veem de si, e soma-se ao cansaço de um dia cheio. Este guia reúne o que ajuda a conduzir com mais margem e a decidir quando é melhor deixar a mota parada.",
-    "Uma nota de método: as fontes consultadas não incluem orientação oficial vietnamita específica sobre a condução noturna, como o uso das luzes ou a velocidade adequada ao escuro. Por isso, a técnica apoia-se em manuais de segurança de outros países, sobretudo o Highway Code do Reino Unido, escrito para circulação pela esquerda, e apresenta-se como boa prática estrangeira, nunca como regra do Vietname."
+    "Quem aluga uma mota em Hanói acaba quase sempre por conduzir depois de escurecer: no regresso de um jantar, de um passeio ou de um mercado. A noite muda o que se vê e o que os outros veem de si, e soma-se ao cansaço de um dia cheio. Este guia ajuda a conduzir com mais margem e a decidir quando deixar a mota parada.",
+    "As fontes consultadas não incluem orientação oficial vietnamita específica sobre a condução noturna, como o uso das luzes ou a velocidade adequada ao escuro. Por isso, a técnica apoia-se em manuais de segurança de outros países, sobretudo o Highway Code do Reino Unido, escrito para circulação pela esquerda, e apresenta-se como boa prática estrangeira, nunca como regra do Vietname."
   ],
   "sections": [
     {
       "h2": "A que horas escurece e o que isso muda no aluguer",
       "body": [
-        "O pôr do sol marca o início do escuro, e em Hanói chega cedo no inverno. A tabela reúne as horas aproximadas de duas páginas de referência (a Alpenglow, que usa o dia 15 de cada mês de 2026, e a Geo Countries):",
+        "Em Hanói, o pôr do sol chega cedo no inverno. A tabela reúne as horas aproximadas de duas páginas de referência (a Alpenglow, que usa o dia 15 de cada mês de 2026, e a Geo Countries):",
         {
           "table": {
             "caption": "Pôr do sol aproximado em Hanói, em 2026",
@@ -78,7 +78,7 @@
           ]
         },
         "Se alguma luz falhar, peça a correção ou outra mota antes de sair. Se falhar a meio do aluguer, pare num sítio seguro e avise a loja; o guia da [assistência na estrada](/guia-de-aluguer/assistencia-na-estrada/) descreve os primeiros passos, incluindo o que muda à noite.",
-        "Sempre que possível, faça de dia o caminho que vai repetir de noite e defina a rota antes de arrancar: a lei proíbe usar o telemóvel enquanto se conduz, e o [guia do telemóvel e do GPS na scooter](/tipos-de-motas/telemovel-e-gps-na-scooter/) explica como preparar o percurso sem depender do ecrã."
+        "Sempre que possível, faça de dia o caminho que vai repetir de noite e defina a rota antes de arrancar: a lei proíbe usar o telemóvel enquanto se conduz, e o [guia do telemóvel e do GPS na scooter](/tipos-de-motas/telemovel-e-gps-na-scooter/) explica como preparar o percurso sem depender do ecrã. Se a mota é nova para si, comece pelo [treino de 30 minutos](/guia-de-aluguer/treinar-antes-do-transito/)."
       ]
     },
     {
@@ -90,7 +90,7 @@
         {
           "ul": [
             "a regra 126 pede que nunca se fique mais perto do que a distância total de paragem e que se deixem pelo menos dois segundos em vias com trânsito mais rápido e em túneis com pouca visibilidade;",
-            "com piso molhado, o intervalo deve ser pelo menos o dobro; a regra 227 (versão da Irlanda do Norte) diz que, com chuva, as distâncias de paragem são pelo menos o dobro das de piso seco;",
+            "com [piso molhado](/guia-de-aluguer/piso-molhado-e-chuva/), o intervalo deve ser pelo menos o dobro; a regra 227 (versão da Irlanda do Norte) diz que, com chuva, as distâncias de paragem são pelo menos o dobro das de piso seco;",
             "entre filas de trânsito lento, a regra 88 pede cuidado e velocidade baixa."
           ]
         },
@@ -127,7 +127,7 @@
     {
       "h2": "Quando é melhor deixar a mota e ir de táxi",
       "body": [
-        "Há noites em que a decisão mais segura é não conduzir. Deixe a mota parada quando:",
+        "Há noites em que o mais seguro é não conduzir. Deixe a mota parada quando:",
         {
           "ul": [
             "já bebeu, ou vai beber, qualquer quantidade de álcool;",
@@ -137,7 +137,7 @@
             "o regresso é por ruas desertas, sozinho e tarde."
           ]
         },
-        "O guia [quando é melhor não conduzir em Hanói](/rotas-e-mobilidade/quando-nao-conduzir/) compara o táxi, a mota com condutor, o autocarro e ir a pé. Se deixar a mota para regressar de táxi, estacione-a num sítio vigiado e fotografe-a; veja a [mota danificada no estacionamento](/guia-de-aluguer/mota-danificada-estacionada/)."
+        "O guia [quando é melhor não conduzir em Hanói](/rotas-e-mobilidade/quando-nao-conduzir/) compara o táxi, a mota com condutor, o autocarro e ir a pé. Se deixar a mota para regressar de táxi, estacione-a num sítio vigiado e fotografe-a; veja a [mota danificada no estacionamento](/guia-de-aluguer/mota-danificada-estacionada/). O [ar muito poluído](/guia-de-aluguer/poluicao-do-ar-e-mascara/) é outro motivo para ponderar o táxi."
       ]
     },
     {
@@ -307,9 +307,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1991,
+    "words": 1999,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

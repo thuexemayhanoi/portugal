@@ -74,7 +74,7 @@
       "body": [
         "Se a viagem de mota o levar a dormir fora de Hanói, com uma noite em Ninh Bình e outra em Hà Giang, por exemplo, cada novo alojamento faz a sua própria declaração e volta a pedir-lhe o passaporte. O mesmo acontece se mudar de hotel dentro da cidade.",
         "Por isso, o passaporte é um mau candidato a garantia do aluguer: se ficar na loja, não o terá para mostrar no alojamento seguinte. Se lho pedirem, pergunte que alternativas existem. O guia sobre [como funciona a caução](/precos/como-funciona-a-caucao/) mostra as formas que uma garantia pode assumir, e o artigo sobre [o que pode substituir a caução](/precos/existe-aluguer-sem-caucao/) ajuda a preparar a conversa com a loja.",
-        "Antes de sair da cidade com a mota, combine a viagem com a loja: o que pedir e deixar por escrito está no guia sobre [levar a mota alugada para fora de Hanói](/guia-de-aluguer/autorizacao-para-sair-de-hanoi/)."
+        "Antes de sair da cidade com a mota, combine a viagem com a loja: o que pedir e deixar por escrito está no guia sobre [levar a mota alugada para fora de Hanói](/guia-de-aluguer/autorizacao-para-sair-de-hanoi/). Depois de uma viagem com várias paragens, convém ainda saber se alguma câmara registou uma infração: o guia sobre [como consultar multas por câmara pela matrícula](/guia-de-aluguer/consultar-multas-por-camara/) mostra os passos."
       ]
     },
     {
@@ -257,9 +257,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1456,
+    "words": 1485,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

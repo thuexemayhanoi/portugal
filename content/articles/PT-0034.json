@@ -73,7 +73,7 @@
           }
         },
         "Os números são teóricos. Os fabricantes medem o consumo em condições de teste, e a unidade que levar pode ser de outra versão ou de outro ano: uma geração antiga da Wave Alpha, descrita pelo VnExpress, tinha depósito de 3,5 litros, e a loja anuncia apenas «Honda Wave» e «Yamaha Sirius». Confirme a versão e o depósito da sua unidade antes de planear.",
-        "Para planear, este guia sugere abastecer quando já gastou cerca de 70 % do depósito: é a última coluna da tabela, que dá etapas da ordem dos 150 a 180 km. Se a etapa seguinte for mais longa, abasteça antes de entrar nela. As fichas consultadas não dizem se a unidade tem indicador de nível ou torneira de combustível, por isso pergunte à loja como saber o que resta no depósito. O que fica combinado sobre o combustível no aluguer está em [combustível no aluguer](/precos/combustivel-no-aluguer/)."
+        "Para planear, este guia sugere abastecer quando já gastou cerca de 70 % do depósito: é a última coluna da tabela, que dá etapas da ordem dos 150 a 180 km. Se a etapa seguinte for mais longa, abasteça antes de entrar nela. O cálculo passo a passo, com um dia de estrada como exemplo, está no guia sobre a [autonomia da Honda Wave com um depósito](/tipos-de-motas/autonomia-de-um-deposito/). As fichas consultadas não dizem se a unidade tem indicador de nível ou torneira de combustível, por isso pergunte à loja como saber o que resta no depósito. O que fica combinado sobre o combustível no aluguer está em [combustível no aluguer](/precos/combustivel-no-aluguer/)."
       ]
     },
     {
@@ -83,11 +83,11 @@
           "h3": "A corrente: um intervalo em quilómetros"
         },
         "O manual da Honda para a Wave 110 manda verificar o estado e a folga da corrente e ajustá-la e lubrificá-la quando necessário. Na tabela de manutenção, a verificação é de 500 em 500 km, e com mais frequência em estradas em mau estado ou a alta velocidade. O manual da Wave RSX FI tem uma secção equivalente. Se os dentes dos carretos estiverem gastos ou danificados, a substituição faz-se num concessionário Honda autorizado.",
-        "Numa viagem de vários dias, o intervalo de 500 km pode chegar a meio do percurso, sobretudo se a mota já traz quilómetros acumulados. Pergunte à loja quando a corrente foi verificada e lubrificada pela última vez e peça que o faça antes de partir. O valor da folga não é reproduzido aqui: não foi confirmado para a Wave nem para a Sirius, e os valores de outras motas não se aplicam. Os cuidados a ter num aluguer longo estão no guia sobre o [desgaste normal num aluguer longo](/precos/desgaste-normal-num-aluguer-longo/).",
+        "Numa viagem de vários dias, o intervalo de 500 km pode chegar a meio do percurso, sobretudo se a mota já traz quilómetros acumulados. Pergunte à loja quando a corrente foi verificada e lubrificada pela última vez e peça que o faça antes de partir. Como observar a corrente sem lhe mexer e o que descrever à loja explica-se no guia sobre a [folga e a lubrificação da corrente](/tipos-de-motas/corrente-da-mota/). O valor da folga não é reproduzido aqui: não foi confirmado para a Wave nem para a Sirius, e os valores de outras motas não se aplicam. Os cuidados a ter num aluguer longo estão no guia sobre o [desgaste normal num aluguer longo](/precos/desgaste-normal-num-aluguer-longo/).",
         {
           "h3": "O pedal de arranque: um recurso longe de Hanói"
         },
-        "A ficha da Yamaha indica, para a Sirius FI, arranque elétrico e a pedal. A ficha da Honda para a Wave Alpha indica o elétrico e, nos dados consultados, não menciona o pedal. Longe de Hanói, o pedal é o recurso para uma bateria fraca: segundo o Báo Văn hóa, nas motas de mudanças pode usar-se temporariamente até a bateria ser carregada ou substituída. Se esse recurso conta para si, pergunte à loja se a unidade o tem e peça uma demonstração antes de partir.",
+        "A ficha da Yamaha indica, para a Sirius FI, arranque elétrico e a pedal. A ficha da Honda para a Wave Alpha indica o elétrico e, nos dados consultados, não menciona o pedal. Longe de Hanói, o pedal é o recurso para uma bateria fraca: segundo o Báo Văn hóa, nas motas de mudanças pode usar-se temporariamente até a bateria ser carregada ou substituída. Se esse recurso conta para si, pergunte à loja se a unidade o tem e peça uma demonstração antes de partir. Se a mota alugada não pegar, as verificações a fazer antes de recorrer ao pedal estão no guia sobre a [mota semiautomática que não pega](/tipos-de-motas/semiautomatica-nao-pega/).",
         {
           "h3": "Distância ao solo"
         },
@@ -254,9 +254,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1906,
+    "words": 1979,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

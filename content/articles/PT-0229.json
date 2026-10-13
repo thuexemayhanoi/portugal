@@ -70,7 +70,7 @@
         {
           "h3": "Se o alojamento fica na área do lago"
         },
-        "Nas noites de sexta a domingo, das 19:00 às 24:00, a zona 1 do lago Hoàn Kiếm e do mercado noturno está fechada a motas e a automóveis, à data de 13 de outubro de 2026. A informação oficial só deixa de fora veículos prioritários e alguns veículos oficiais. Se dorme nessa área, combine a recolha numa rua fora dela, para o condutor não ficar impedido de chegar à porta."
+        "Nas noites de sexta a domingo, das 19:00 às 24:00, a zona 1 do lago Hoàn Kiếm e do mercado noturno está fechada a motas e a automóveis, à data de 13 de outubro de 2026. A informação oficial só deixa de fora veículos prioritários e alguns veículos oficiais. Se dorme nessa área, combine a recolha numa rua fora dela, para o condutor não ficar impedido de chegar à porta. Em noites de festa, como a passagem de ano, há ainda mais ruas do centro cortadas: o guia sobre [eventos e cortes de trânsito no centro de Hanói](/zonas-de-hanoi/eventos-e-cortes-de-transito/) reúne as ocasiões documentadas."
       ]
     },
     {
@@ -105,7 +105,7 @@
           }
         },
         "Uma hora sensata para quem fica no centro é a meio da manhã ou no início da tarde: chega à loja com a cidade já em movimento, tem tempo para ver a mota sem pressa e faz a primeira travessia com luz. Evite marcar o levantamento para pouco antes do fecho, às {{closes}}, e não o encaixe entre dois compromissos.",
-        "As janelas de ponta da cidade são uma referência, e não uma regra para motas: se o trânsito estiver parado, espere ou escolha outra hora."
+        "As janelas de ponta da cidade são uma referência, e não uma regra para motas: se o trânsito estiver parado, espere ou escolha outra hora. As noites de fim de semana, a luz do dia e as datas especiais estão detalhadas no guia sobre [quando circular de mota no Bairro Antigo](/zonas-de-hanoi/quando-circular-no-bairro-antigo/)."
       ]
     },
     {
@@ -286,9 +286,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 2051,
+    "words": 2109,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

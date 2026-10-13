@@ -6,19 +6,37 @@
   "in_review": [],
   "processed": [
     {
-      "id": "PT-0299",
-      "result": "PUBLISH",
+      "id": "PT-0208",
+      "result": "UPDATE",
       "warnings": []
     },
     {
-      "id": "PT-0300",
-      "result": "PUBLISH",
+      "id": "PT-0227",
+      "result": "UPDATE",
+      "warnings": []
+    },
+    {
+      "id": "PT-0230",
+      "result": "UPDATE",
+      "warnings": []
+    },
+    {
+      "id": "PT-0266",
+      "result": "UPDATE",
+      "warnings": []
+    },
+    {
+      "id": "PT-0283",
+      "result": "UPDATE",
       "warnings": []
     }
   ],
   "published": [
-    "PT-0299",
-    "PT-0300"
+    "PT-0208",
+    "PT-0227",
+    "PT-0230",
+    "PT-0266",
+    "PT-0283"
   ],
   "failed": []
 }

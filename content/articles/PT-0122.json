@@ -144,7 +144,7 @@
             "**O percurso exige autoestrada.** Se o único caminho prático passa por uma autoestrada, onde as motas não circulam, a viagem faz-se de autocarro ou de carro com motorista."
           ]
         },
-        "Para os dias de cidade, veja as [sete situações em que a mota deve ficar parada](/rotas-e-mobilidade/quando-nao-conduzir/)."
+        "Para os dias de cidade, veja as [sete situações em que a mota deve ficar parada](/rotas-e-mobilidade/quando-nao-conduzir/) e o [custo do autocarro turístico](/precos/autocarro-turistico-ou-mota/)."
       ]
     },
     {
@@ -335,9 +335,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 2192,
+    "words": 2198,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

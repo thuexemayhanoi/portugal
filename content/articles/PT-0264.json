@@ -91,7 +91,7 @@
         {
           "h3": "3. Pagode de Um Pilar: uma paragem curta em Ba Đình"
         },
-        "O pagode de Um Pilar (Chùa Một Cột) é pequeno e fica em Ba Đình, na mesma zona do Mausoléu de Hồ Chí Minh, fechado para manutenção de 4 de setembro a 2 de novembro de 2026. Os guias não dizem se isso muda o acesso ao pagode, e só um dá o horário: confirme à chegada.",
+        "O pagode de Um Pilar (Chùa Một Cột) é pequeno e fica em Ba Đình, na mesma zona do Mausoléu de Hồ Chí Minh, fechado para manutenção de 4 de setembro a 2 de novembro de 2026. Os guias não dizem se isso muda o acesso ao pagode, e só um dá o horário: confirme à chegada. Para o ponto da situação do mausoléu e outros locais de Ba Đình, veja o [roteiro da guerra do Vietname em Hanói](/rotas-e-mobilidade/roteiro-da-guerra-do-vietname/).",
         {
           "h3": "4. Templo da Literatura: a visita mais longa"
         },
@@ -100,7 +100,7 @@
           "h3": "5. Templo Ngọc Sơn: o fecho, no lago Hoàn Kiếm"
         },
         "O templo fica numa ilhota do lago e é monumento nacional especial desde 2013. Venera Trần Hưng Đạo e Văn Xương Đế Quân. O bilhete compra-se no balcão à entrada da ponte Thê Húc. O guia da companhia aérea nacional dá abertura das 7:00 às 21:00 ao fim de semana; os outros terminam às 17:00 ou às 18:00.",
-        "Às sextas, sábados e domingos, das 19:00 às 24:00, motas e automóveis não entram na zona 1 do lago, descrita na página da [zona de baixas emissões](/tipos-de-motas/zona-de-baixas-emissoes-hanoi/). O horário alargado do fim de semana só serve a quem vá a pé ou deixe a mota fora da zona. De dia, estacione na orla; para o regresso pelo Bairro Antigo, veja os sentidos únicos e os peões no guia para [conduzir no Bairro Antigo](/zonas-de-hanoi/conduzir-no-bairro-antigo/)."
+        "Às sextas, sábados e domingos, das 19:00 às 24:00, motas e automóveis não entram na zona 1 do lago, descrita na página da [zona de baixas emissões](/tipos-de-motas/zona-de-baixas-emissoes-hanoi/). O horário alargado do fim de semana só serve a quem vá a pé ou deixe a mota fora da zona. De dia, estacione na orla; para o regresso pelo Bairro Antigo, veja os sentidos únicos e os peões no guia para [conduzir no Bairro Antigo](/zonas-de-hanoi/conduzir-no-bairro-antigo/). Quem quiser jantar por ali depois da visita encontra, no [roteiro de comida de rua](/rotas-e-mobilidade/roteiro-de-comida-de-rua/), as noites em que as motas não entram no Bairro Antigo."
       ]
     },
     {
@@ -142,7 +142,7 @@
             "Combine a hora de devolução: a loja fecha às {{closes}}."
           ]
         },
-        "Para outros percursos pela cidade, [Rotas e mobilidade](/rotas-e-mobilidade/) reúne os itinerários já publicados."
+        "Para uma pausa de café entre templos, o [roteiro de cafés em Hanói](/rotas-e-mobilidade/roteiro-dos-cafes/) explica o café com ovo e o que confirmar. Para outros percursos pela cidade, [Rotas e mobilidade](/rotas-e-mobilidade/) reúne os itinerários já publicados."
       ]
     }
   ],
@@ -344,11 +344,18 @@
   "date_published": "2026-10-13",
   "date_modified": "2026-10-13",
   "editorial": {
-    "qa_score": 100,
-    "qa_warnings": [],
-    "words": 1983,
+    "qa_score": 98,
+    "qa_warnings": [
+      "word count 2053 outside the topic target 1000–2000"
+    ],
+    "words": 2053,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

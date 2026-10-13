@@ -33,7 +33,7 @@
         {
           "h3": "Não quer prender dinheiro durante a viagem"
         },
-        "Se o problema é o orçamento, a questão está menos na existência de caução e mais no montante e na forma. Pergunte o valor exato para o modelo que lhe interessa e veja se o pode ter parado durante o aluguer. Pergunte também se as condições mudam com outro modelo ou outra duração, sem partir do princípio de que mudam.",
+        "Se o problema é o orçamento, a questão está menos na existência de caução e mais no montante e na forma. Pergunte o valor exato para o modelo que lhe interessa e veja se o pode ter parado durante o aluguer. Pergunte também se as condições mudam com outro modelo ou outra duração, sem partir do princípio de que mudam. Se o montante vier em dong, confirme-o por extenso; o guia sobre [como ler preços em dong](/precos/ler-precos-em-dong/) mostra como não se enganar nos zeros.",
         {
           "h3": "Não quer deixar o passaporte"
         },
@@ -156,10 +156,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1665,
+    "words": 1689,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
     "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      },
       {
         "date": "2026-10-13",
         "reason": "Ligações internas para artigos publicados depois"

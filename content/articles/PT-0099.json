@@ -103,7 +103,7 @@
             ]
           }
         },
-        "Cada linha tem um guia próprio neste site: como [fotografar a mota](/guia-de-aluguer/fotografar-a-mota/), o que deve constar do [acordo de aluguer](/guia-de-aluguer/acordo-de-aluguer/), que [custos se somam ao preço](/precos/custos-alem-do-preco/) e como se avaliam os [danos na mota alugada](/precos/danos-na-mota-alugada/). Aqui, o objetivo é juntar tudo num só método."
+        "Cada linha tem um guia próprio neste site: como [fotografar a mota](/guia-de-aluguer/fotografar-a-mota/), o que deve constar do [acordo de aluguer](/guia-de-aluguer/acordo-de-aluguer/), que [custos se somam ao preço](/precos/custos-alem-do-preco/) e como se avaliam os [danos na mota alugada](/precos/danos-na-mota-alugada/). Aqui, o objetivo é juntar tudo num só método. Para fazer as contas ao que vai gastar além do aluguer, o guia sobre [quanto dinheiro levar por dia](/precos/quanto-dinheiro-levar/) propõe uma folha de contas."
       ]
     },
     {
@@ -272,9 +272,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1947,
+    "words": 1971,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

@@ -147,7 +147,7 @@
           "tone": "info",
           "title": "Exemplo de cálculo, com números ilustrativos"
         },
-        "Os 330 km são só um número para a conta. Se a saída for fora de Hanói, fale antes com a loja: veja como [pedir autorização para sair de Hanói](/guia-de-aluguer/autorizacao-para-sair-de-hanoi/)."
+        "Os 330 km são só um número para a conta. Se a saída for fora de Hanói, fale antes com a loja: veja como [pedir autorização para sair de Hanói](/guia-de-aluguer/autorizacao-para-sair-de-hanoi/). Numa saída longa, além do combustível, convém olhar para a corrente: o guia sobre a [folga e a lubrificação da corrente](/tipos-de-motas/corrente-da-mota/) explica o que observar e o que deixar à loja."
       ]
     },
     {
@@ -301,9 +301,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1705,
+    "words": 1736,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

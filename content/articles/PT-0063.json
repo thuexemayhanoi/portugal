@@ -74,7 +74,7 @@
             "**Parece uma bicicleta grande**: algumas motas elétricas têm um ar discreto, mas o aspeto não diz nada sobre a potência do motor."
           ]
         },
-        "A loja aluga também bicicletas elétricas, que são outro tipo de veículo e não são tratadas neste guia. Se lhe interessam, pergunte à loja que regras se aplicam e confirme-as antes de as usar. Uma regra é certa: no Vietname, o capacete também é obrigatório na bicicleta elétrica.",
+        "A loja aluga também bicicletas elétricas, que são outro tipo de veículo e não são tratadas neste guia. Se lhe interessam, pergunte à loja que regras se aplicam e confirme-as antes de as usar. Uma regra é certa: no Vietname, o capacete também é obrigatório na bicicleta elétrica. O que as fontes confirmam e o que deixam em aberto sobre elas está no guia das [regras da bicicleta elétrica no Vietname](/tipos-de-motas/regras-bicicleta-eletrica-vietname/).",
         "Se está a pensar numa elétrica por causa do centro histórico, veja primeiro o guia da [zona de baixas emissões de Hanói](/tipos-de-motas/zona-de-baixas-emissoes-hanoi/), que explica se o tipo de motor faz diferença em 2026. Para comparar a elétrica com as scooters, as semiautomáticas e as 50 cc, consulte a página de [tipos de motas](/tipos-de-motas/)."
       ]
     },
@@ -227,13 +227,17 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1899,
+    "words": 1922,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
     "revisions": [
       {
         "date": "2026-10-13",
         "reason": "Coimas em Hanói: aviso sobre a Resolução 56/2026/NQ-HĐND"
+      },
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
       }
     ]
   }

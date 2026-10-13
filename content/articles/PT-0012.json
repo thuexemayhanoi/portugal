@@ -145,7 +145,7 @@
     {
       "h2": "Porque o consumo real é maior do que o da ficha",
       "body": [
-        "Num dia normal em Hanói, a mota arranca e para muitas vezes, anda em filas, sobe pontes e leva por vezes bagagem ou um passageiro. Nenhum destes fatores faz parte das condições de ensaio. Não encontrámos números oficiais do aumento de consumo no trânsito de Hanói, por isso não aplicámos uma percentagem às contas anteriores.",
+        "Num dia normal em Hanói, a mota arranca e para muitas vezes, anda em filas, sobe pontes e leva por vezes bagagem ou um passageiro. Nenhum destes fatores faz parte das condições de ensaio. Não encontrámos números oficiais do aumento de consumo no trânsito de Hanói, por isso não aplicámos uma percentagem às contas anteriores. Esse arranca-e-para pede também travagens frequentes, e o guia dos [travões CBS e ABS](/tipos-de-motas/travoes-cbs-e-abs/) explica o que faz cada manete.",
         "Se quiser uma folga, escolha uma margem sua. Uma margem de um quarto levaria, por exemplo, os 50 km da Vision de cerca de 25,7 para cerca de 32 mil VND. É uma sugestão nossa, sem medição por trás.",
         {
           "note": "Segundo a Honda, o motor eSP de 110 cc da Vision integra o sistema de paragem temporária do motor (Idling Stop), que a marca apresenta como forma de poupar combustível sem alterar a forma de conduzir. Não sabemos que versões da Vision o têm. Se a mota que receber desligar o motor sozinha quando para, peça que lhe expliquem como volta a arrancar.",
@@ -216,7 +216,7 @@
         {
           "component": "price-table"
         },
-        "Se ainda não escolheu o modelo, compare as scooters na página das [scooters automáticas](/tipos-de-motas/scooters/) e veja os tipos no guia de [tipos de motas](/tipos-de-motas/). Para um só dia, o guia do [aluguer de mota por um dia](/precos/aluguer-de-mota-por-um-dia/) ajuda a planear horários. Pode enviar as perguntas por telefone ou Zalo, para o {{phone}}; a morada e o horário estão na página de [contactos](/contactos/)."
+        "Se ainda não escolheu o modelo, compare as scooters na página das [scooters automáticas](/tipos-de-motas/scooters/) e veja os tipos no guia de [tipos de motas](/tipos-de-motas/). Para escolher também pela estatura, o guia sobre [altura do assento e peso](/tipos-de-motas/altura-do-assento-e-peso/) explica como testar a mota na loja. Para um só dia, o guia do [aluguer de mota por um dia](/precos/aluguer-de-mota-por-um-dia/) ajuda a planear horários. Pode enviar as perguntas por telefone ou Zalo, para o {{phone}}; a morada e o horário estão na página de [contactos](/contactos/)."
       ]
     }
   ],
@@ -368,9 +368,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1923,
+    "words": 1963,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

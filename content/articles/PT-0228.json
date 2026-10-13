@@ -86,6 +86,7 @@
             "Bà Triệu (troço central)"
           ]
         },
+        "A rua Nhà Chung é a da catedral: veja o guia da [catedral de São José de mota](/zonas-de-hanoi/catedral-de-sao-jose/).",
         {
           "h3": "31 de dezembro de 2024"
         },
@@ -163,7 +164,7 @@
             },
             {
               "title": "Não force uma barreira",
-              "text": "Cones, grades e agentes mandam mais do que o mapa. Se não vê alternativa, encoste num sítio seguro e peça indicações."
+              "text": "Cones, grades e agentes mandam mais do que o mapa, e o guia dos [sinais de trânsito vietnamitas](/guia-de-aluguer/sinais-de-transito-vietnamitas/) diz a quem obedecer primeiro. Se não vê alternativa, encoste num sítio seguro e peça indicações."
             },
             {
               "title": "Se vai beber, deixe a mota",
@@ -175,7 +176,7 @@
             }
           ]
         },
-        "Se tiver de regressar à margem de Long Biên depois do evento, veja as travessias do rio no guia da [ponte Long Biên](/zonas-de-hanoi/ponte-long-bien/) e escolha o percurso antes de arrancar."
+        "Se tiver de regressar à margem de Long Biên depois do evento, veja as travessias do rio no guia da [ponte Long Biên](/zonas-de-hanoi/ponte-long-bien/) e escolha o percurso antes de arrancar. O guia para quem [fica no Bairro Antigo e quer alugar](/zonas-de-hanoi/fica-no-bairro-antigo-e-quer-alugar/) trata da ida à loja e do regresso ao centro."
       ]
     },
     {
@@ -355,9 +356,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1928,
+    "words": 1980,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

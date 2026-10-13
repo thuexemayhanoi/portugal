@@ -64,7 +64,7 @@
             ]
           }
         },
-        "A linha da cilindrada é a mais fácil de falhar sem dar por isso. A Honda Air Blade, por exemplo, vende-se no Vietname em versões de 125 e de 160 cm³, e só a primeira cabe na A1. O guia das [categorias A1 e A](/guia-de-aluguer/categorias-a1-e-a/) mostra onde passa a fronteira.",
+        "A linha da cilindrada é a mais fácil de falhar sem dar por isso. A Honda Air Blade, por exemplo, vende-se no Vietname em versões de 125 e de 160 cm³, e só a primeira cabe na A1. O guia das [categorias A1 e A](/guia-de-aluguer/categorias-a1-e-a/) mostra onde passa a fronteira. Quem só tem a carta B encontra o que vale em Portugal e no Vietname no guia sobre [carta B e motas de 125 cc](/guia-de-aluguer/carta-b-e-motas-ate-125cc/).",
         "Há ainda uma dúvida que não depende de si: o modelo da licença portuguesa e a convenção a que corresponde. O guia da [Licença Internacional de Condução](/guia-de-aluguer/licenca-internacional-de-conducao/) explica o que confirmar no balcão do IMT antes de viajar.",
         "Uma mota de 50 cc também não é um atalho. A lei coloca os veículos até 50 cm³ numa categoria própria, mas nenhuma fonte oficial consultada confirma que um visitante os possa conduzir dispensado dos documentos habituais. O artigo sobre os [mitos das motas de 50 cc](/tipos-de-motas/mitos-sobre-motas-50cc/) desfaz esse equívoco."
       ]
@@ -269,10 +269,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 2178,
+    "words": 2203,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
     "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      },
       {
         "date": "2026-10-13",
         "reason": "Ligações internas para artigos publicados depois"

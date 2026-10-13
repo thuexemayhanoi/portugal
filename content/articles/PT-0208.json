@@ -165,7 +165,7 @@
           ]
         },
         "Em nenhum caso deixe a mota estacionada à porta do hotel, com a chave na receção, à espera de que alguém a venha buscar, se a loja não o aceitou por escrito. Sem verificação nem comprovativo, o que acontecer à mota até à recolha fica por esclarecer.",
-        "Se a mota avariar ou ficar imobilizada longe da loja, a lógica é a mesma, mas mais urgente: diga à loja onde está a mota, siga as instruções que lhe derem e não a deixe numa oficina ou num parque sem a loja saber. O guia sobre [assistência na estrada de mota no Vietname](/guia-de-aluguer/assistencia-na-estrada/) mostra o que perguntar à loja antes de sair e que ajuda procurar por perto. A morada e o mapa da loja estão em [contactos](/contactos/)."
+        "Se a mota avariar ou ficar imobilizada longe da loja, a lógica é a mesma, mas mais urgente: diga à loja onde está a mota, siga as instruções que lhe derem e não a deixe numa oficina ou num parque sem a loja saber. Se a causa for uma rua alagada, não volte a ligar o motor: o que fazer está no guia sobre [a mota que apanhou água em Hanói](/guia-de-aluguer/mota-apanhou-agua/). O guia sobre [assistência na estrada de mota no Vietname](/guia-de-aluguer/assistencia-na-estrada/) mostra o que perguntar à loja antes de sair e que ajuda procurar por perto. A morada e o mapa da loja estão em [contactos](/contactos/)."
       ]
     }
   ],
@@ -199,10 +199,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1941,
+    "words": 1968,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
     "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      },
       {
         "date": "2026-10-13",
         "reason": "Ligações internas para artigos publicados depois"

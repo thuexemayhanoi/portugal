@@ -64,7 +64,7 @@
             "o que acontece se devolver a mota antes ou depois da data combinada."
           ]
         },
-        "Se pagar no levantamento, leve o valor certo ou confirme antes a forma de pagamento aceite. Descobrir ao balcão que tem de ir procurar uma caixa automática atrasa o início do dia."
+        "Se pagar no levantamento, leve o valor certo ou confirme antes a forma de pagamento aceite. Descobrir ao balcão que tem de ir procurar uma caixa automática atrasa o início do dia. Para saber quanto numerário levar, o guia sobre o [orçamento diário da mota em Hanói](/precos/quanto-dinheiro-levar/) soma o aluguer, a gasolina e o estacionamento."
       ]
     },
     {
@@ -168,10 +168,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1556,
+    "words": 1579,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
     "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      },
       {
         "date": "2026-10-13",
         "reason": "Ligações internas para artigos publicados depois"

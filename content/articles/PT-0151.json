@@ -32,7 +32,7 @@
         {
           "h3": "1. Travões"
         },
-        "Com a mota parada, aperte cada comando e empurre-a: a roda correspondente deve ficar presa e voltar a rodar livremente quando solta o comando. Depois, a passo de caminhada, num troço livre, trave de leve com cada travão e com os dois. O da frente faz a maior parte do trabalho, cerca de 70% da força de travagem segundo manuais da Honda e 70% ou mais segundo o manual da Geórgia (EUA), por isso nenhum dos dois pode estar fraco.",
+        "Com a mota parada, aperte cada comando e empurre-a: a roda correspondente deve ficar presa e voltar a rodar livremente quando solta o comando. Depois, a passo de caminhada, num troço livre, trave de leve com cada travão e com os dois. O da frente faz a maior parte do trabalho, cerca de 70% da força de travagem segundo manuais da Honda e 70% ou mais segundo o manual da Geórgia (EUA), por isso nenhum dos dois pode estar fraco. O guia sobre [como verificar os travões de uma mota em dois minutos](/guia-de-aluguer/verificar-os-travoes/) detalha este teste passo a passo.",
         "Peça que lhe mostrem qual comando trava qual roda: numa scooter com travagem combinada, um só comando pode atuar nas duas. **Se falhar:** uma roda que não fica presa, um comando que afunda sem resistência ou uma mota que puxa para um lado ao travar são razões para não sair sem a loja ver.",
         {
           "h3": "2. Pneus"
@@ -103,7 +103,7 @@
         {
           "h3": "11. Documentos"
         },
-        "O artigo 56.º da lei de trânsito de 2024 obriga quem conduz a levar consigo o certificado de registo do veículo, a carta de condução adequada e o certificado do seguro obrigatório. Veja onde estão os papéis da mota, compare a matrícula da chapa com a dos documentos e confirme que a validade do seguro cobre todo o aluguer. O guia sobre os [documentos da mota alugada](/guia-de-aluguer/documentos-da-mota-alugada/) mostra como os conferir; os requisitos pessoais e a caução estão em [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/).",
+        "O artigo 56.º da lei de trânsito de 2024 obriga quem conduz a levar consigo o certificado de registo do veículo, a carta de condução adequada e o certificado do seguro obrigatório. Veja onde estão os papéis da mota, compare a matrícula da chapa com a dos documentos e confirme que a validade do seguro cobre todo o aluguer. O guia sobre os [documentos da mota alugada](/guia-de-aluguer/documentos-da-mota-alugada/) mostra como os conferir; os requisitos pessoais e a caução estão em [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/). Quanto à mala e ao telemóvel, que também vão consigo, o guia sobre [roubo por esticão em Hanói](/guia-de-aluguer/roubo-por-esticao/) explica como os proteger.",
         "**Se falhar:** se a matrícula não coincidir, se faltar o certificado de registo ou se o seguro tiver caducado, não saia com essa mota.",
         {
           "h3": "12. Capacete"
@@ -150,7 +150,7 @@
           }
         },
         "Peça sempre por escrito: uma mensagem com data e hora vale mais do que uma promessa à porta. Se a loja disser que um problema «é normal», peça que o demonstre; se continuar com dúvidas, peça outra mota. O guia sobre [trocar de mota](/guia-de-aluguer/trocar-de-mota/) explica como o pedir e registar, e a nova mota passa pela mesma lista.",
-        "Se só der pelo problema depois de sair, pare em segurança e contacte a loja pelo {{phone}}. A {{brand}} está aberta {{hours}}, e o guia de [assistência na estrada](/guia-de-aluguer/assistencia-na-estrada/) mostra a ajuda que existe fora desse horário. Quem paga uma reparação a meio do aluguer depende do acordo: veja [furos e pequenas reparações](/precos/custo-de-furos-e-reparacoes/)."
+        "Se só der pelo problema depois de sair, pare em segurança e contacte a loja pelo {{phone}}. A {{brand}} está aberta {{hours}}, e o guia de [assistência na estrada](/guia-de-aluguer/assistencia-na-estrada/) mostra a ajuda que existe fora desse horário. Numa emergência, os números a marcar estão no guia sobre [números de emergência no Vietname](/guia-de-aluguer/numeros-de-emergencia/). Quem paga uma reparação a meio do aluguer depende do acordo: veja [furos e pequenas reparações](/precos/custo-de-furos-e-reparacoes/)."
       ]
     },
     {
@@ -298,9 +298,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 2440,
+    "words": 2496,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

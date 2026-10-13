@@ -79,7 +79,7 @@
             "**Saídas à noite**: a lei vietnamita não admite qualquer concentração de álcool no sangue ou no ar expirado de quem conduz. Se a noite inclui uma cerveja, a mota fica estacionada e o regresso faz-se de táxi.",
             "**Boleias a colegas**: a regra geral é um passageiro por mota e, numa 50 cc, o peso extra reduz a aceleração e a capacidade de subida. O guia sobre [50 cc com passageiro](/tipos-de-motas/50cc-com-passageiro/) explica o que muda.",
             "**Viagens de fim de semana**: nenhuma mota pode circular nas autoestradas vietnamitas, e uma 50 cc não foi pensada para longas distâncias. Para sair de Hanói, conte com outro meio de transporte.",
-            "**Chuva**: segundo o portal oficial de turismo do Vietname, a época das chuvas em Hanói atinge o auge entre junho e agosto. Nesses meses, cada trajeto pede capa e mais distância de travagem."
+            "**Chuva**: segundo o portal oficial de turismo do Vietname, a época das chuvas em Hanói atinge o auge entre junho e agosto. Nesses meses, cada trajeto pede capa e mais distância de travagem. Para a roupa, os espelhos e a posição na faixa, veja o guia sobre [ser visto numa 50 cc em Hanói](/tipos-de-motas/ser-visto-numa-50cc/)."
           ]
         },
         "Se a mota só vai servir para as aulas e passar o resto da semana parada, um aluguer de vários meses pode não compensar o esforço de a ter, de a estacionar e de cuidar dela."
@@ -213,9 +213,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1877,
+    "words": 1898,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

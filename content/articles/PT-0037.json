@@ -104,7 +104,7 @@
           }
         },
         "Com 60 km por dia, um aluguer de um mês atravessa três ou quatro intervalos de 500 km: a verificação da corrente deixa de ser uma curiosidade técnica e passa a ser uma data na agenda. Se o seu uso for irregular, anote a quilometragem do painel todas as semanas, como mostra o guia para [fotografar a mota alugada](/guia-de-aluguer/fotografar-a-mota/). Os preços e as condições de um mês inteiro estão no guia do [aluguer mensal de mota](/precos/aluguer-mensal-de-mota/).",
-        "Antes de uma saída longa, peça a verificação à loja em vez de esperar pela data seguinte; o guia sobre [pedir autorização para sair de Hanói](/guia-de-aluguer/autorizacao-para-sair-de-hanoi/) mostra como falar do percurso."
+        "Antes de uma saída longa, peça a verificação à loja em vez de esperar pela data seguinte; o guia sobre [pedir autorização para sair de Hanói](/guia-de-aluguer/autorizacao-para-sair-de-hanoi/) mostra como falar do percurso. A conta dos abastecimentos nesse mesmo percurso está no guia sobre a [autonomia da Honda Wave com um depósito](/tipos-de-motas/autonomia-de-um-deposito/)."
       ]
     },
     {
@@ -286,9 +286,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1973,
+    "words": 1992,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

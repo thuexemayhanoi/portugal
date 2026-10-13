@@ -15,7 +15,7 @@
   ],
   "intro": [
     "Os travões são das poucas peças de uma mota alugada que consegue pôr à prova sozinho, em poucos minutos e antes de entrar no trânsito. Não vale a pena descobrir na primeira travagem a sério que um dos comandos responde mal.",
-    "Este guia descreve o teste, explica os sinais de alerta e lista o que pedir à loja. É uma verificação de utilizador: mostra se os travões respondem como deve ser, mas não o desgaste das pastilhas, o estado do fluido ou dos cabos, que só a loja pode avaliar. A inspeção da mota inteira, do levantamento ao primeiro percurso, está no guia sobre [receber a mota alugada](/guia-de-aluguer/receber-a-mota/), e o processo completo no [guia de aluguer passo a passo](/guia-de-aluguer/)."
+    "Este guia descreve o teste, explica os sinais de alerta e lista o que pedir à loja. É uma verificação de utilizador: mostra se os travões respondem como deve ser, mas não o desgaste das pastilhas, o estado do fluido ou dos cabos, que só a loja pode avaliar. A inspeção da mota inteira, do levantamento ao primeiro percurso, está no guia sobre [receber a mota alugada](/guia-de-aluguer/receber-a-mota/), os restantes pontos a conferir estão na [checklist de inspeção da mota alugada](/guia-de-aluguer/checklist-de-inspecao/), e o processo completo no [guia de aluguer passo a passo](/guia-de-aluguer/)."
   ],
   "sections": [
     {
@@ -121,7 +121,7 @@
           ]
         },
         "Se uma roda bloquear, os manuais Honda dizem o que fazer: soltar os travões, manter a direção a direito até recuperar o controlo e voltar a travar com mais suavidade. Se acontecer durante o teste, conte-o à loja.",
-        "Se o chão estiver molhado, deixe o teste para quando secar. O Highway Code do Reino Unido, na versão da Irlanda do Norte, diz que, com chuva, as distâncias de paragem são pelo menos o dobro das de piso seco, porque os pneus têm menos aderência. É uma recomendação britânica, não uma regra vietnamita, mas serve para qualquer mota molhada."
+        "Se o chão estiver molhado, deixe o teste para quando secar. O Highway Code do Reino Unido, na versão da Irlanda do Norte, diz que, com chuva, as distâncias de paragem são pelo menos o dobro das de piso seco, porque os pneus têm menos aderência. É uma recomendação britânica, não uma regra vietnamita, mas serve para qualquer mota molhada. Como a aderência depende também dos pneus, veja no guia sobre [pneus da mota: pressão, desgaste e sinais de alerta](/guia-de-aluguer/pneus-e-pressao/) o que olhar em cada um."
       ]
     },
     {
@@ -301,11 +301,18 @@
   "date_published": "2026-10-13",
   "date_modified": "2026-10-13",
   "editorial": {
-    "qa_score": 100,
-    "qa_warnings": [],
-    "words": 1985,
+    "qa_score": 98,
+    "qa_warnings": [
+      "word count 2024 outside the topic target 1000–2000"
+    ],
+    "words": 2024,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

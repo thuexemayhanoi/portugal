@@ -380,7 +380,7 @@
       "id": "PT-0057",
       "decision": "REVIEW_COLLISION",
       "reasons": [
-        "semantic 0.56 with live /tipos-de-motas/regras-bicicleta-eletrica-vietname/"
+        "semantic 0.57 with live /tipos-de-motas/regras-bicicleta-eletrica-vietname/"
       ],
       "live": {
         "intent": {
@@ -391,7 +391,7 @@
         "semantic": {
           "id": "PT-0062",
           "url": "/tipos-de-motas/regras-bicicleta-eletrica-vietname/",
-          "semantic": 0.56
+          "semantic": 0.57
         }
       },
       "pending": {
@@ -605,8 +605,8 @@
           "intent": 0.2
         },
         "semantic": {
-          "id": "PT-0152",
-          "url": "/guia-de-aluguer/verificar-os-travoes/",
+          "id": "PT-0151",
+          "url": "/guia-de-aluguer/checklist-de-inspecao/",
           "semantic": 0.11
         }
       },
@@ -821,9 +821,9 @@
           "intent": 0.23
         },
         "semantic": {
-          "id": "PT-0103",
-          "url": "/precos/combustivel-no-aluguer/",
-          "semantic": 0.24
+          "id": "PT-0060",
+          "url": "/tipos-de-motas/mota-eletrica-ou-gasolina/",
+          "semantic": 0.29
         }
       },
       "pending": {

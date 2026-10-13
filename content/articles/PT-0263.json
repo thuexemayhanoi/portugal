@@ -119,7 +119,7 @@
             "Guarde o contacto da loja, {{phone}}, e a morada em vietnamita, {{address.vi}}, para pedir indicações; a loja fecha às {{closes}}."
           ]
         },
-        "Para mais percursos pela cidade, [Rotas e mobilidade](/rotas-e-mobilidade/) reúne os itinerários já publicados."
+        "Quem quiser dedicar outro meio dia de mota a templos encontra a ordem de visita e os horários no [roteiro de pagodes e templos de Hanói](/rotas-e-mobilidade/roteiro-de-pagodes-e-templos/). Para mais percursos pela cidade, [Rotas e mobilidade](/rotas-e-mobilidade/) reúne os itinerários já publicados."
       ]
     }
   ],
@@ -276,9 +276,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1668,
+    "words": 1694,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

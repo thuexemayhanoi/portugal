@@ -90,7 +90,7 @@
       "h2": "Chuva, carga e quedas: quando os pneus pedem mais cuidado",
       "body": [
         "Com chuva, os pneus têm menos aderência. O Highway Code do Reino Unido, na versão da Irlanda do Norte, diz que as distâncias de paragem em piso molhado são pelo menos o dobro das de piso seco e manda manter-se bem atrás do veículo da frente. É uma recomendação britânica, não uma regra vietnamita, mas mostra porque um pneu em mau estado pesa mais num dia de chuva. O guia sobre [quando é melhor não conduzir em Hanói](/rotas-e-mobilidade/quando-nao-conduzir/) inclui a chuva forte entre as situações em que a mota deve ficar parada.",
-        "Passageiro e bagagem aumentam a carga, e a recomendação do fabricante tem de a contar. Antes de sair a dois, pergunte à loja se a pressão da sua mota muda com passageiro.",
+        "Passageiro e bagagem aumentam a carga, e a recomendação do fabricante tem de a contar. Antes de sair a dois, pergunte à loja se a pressão da sua mota muda com passageiro. E a dois, o capacete do passageiro também tem de servir: o guia sobre [como escolher e ajustar um capacete de mota](/guia-de-aluguer/escolher-e-ajustar-o-capacete/) explica como acertar o tamanho e a fita.",
         "Se a mota cair ou bater com força num buraco ou num lancil, repita a inspeção: procure cortes e bolhas nos flancos e uma jante amolgada."
       ]
     },
@@ -122,7 +122,7 @@
             "Se vou levar passageiro ou bagagem, perguntei se a pressão muda."
           ]
         },
-        "Se algum ponto falhar, não saia sem a loja resolver. A {{brand}} está aberta {{hours}} e pode ser contactada pelo {{phone}} ou pela página de [contactos](/contactos/)."
+        "Se algum ponto falhar, não saia sem a loja resolver. Antes de arrancar, confirme também os travões com o teste do guia sobre [como verificar os travões de uma mota em dois minutos](/guia-de-aluguer/verificar-os-travoes/). A {{brand}} está aberta {{hours}} e pode ser contactada pelo {{phone}} ou pela página de [contactos](/contactos/)."
       ]
     }
   ],
@@ -237,9 +237,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1599,
+    "words": 1652,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

@@ -167,7 +167,7 @@
           ]
         },
         "Já na rua, a primeira travagem a sério não deve ser a de emergência. Na primeira volta, num sítio calmo e sem trânsito, faça duas ou três travagens suaves a baixa velocidade para sentir como a mota responde a cada manete. Se nunca conduziu uma scooter, leia também o guia para [quem nunca conduziu uma mota](/tipos-de-motas/nunca-conduziu-uma-mota/).",
-        "Se uma manete chegar ao punho, a mota puxar para um lado ao travar ou o painel mostrar uma luz que ninguém lhe sabe explicar, não saia: peça outra unidade ou que a verifiquem. Pode contactar a loja {{brand}} pelo {{phone}}, {{hours}}; a morada está na página de [contactos](/contactos/). A lista de [perguntas a fazer antes de alugar](/guia-de-aluguer/perguntas-antes-de-alugar/) ajuda a tratar também dos documentos e da devolução."
+        "Se uma manete chegar ao punho, a mota puxar para um lado ao travar ou o painel mostrar uma luz que ninguém lhe sabe explicar, não saia: peça outra unidade ou que a verifiquem. Pode contactar a loja {{brand}} pelo {{phone}}, {{hours}}; a morada está na página de [contactos](/contactos/). A lista de [perguntas a fazer antes de alugar](/guia-de-aluguer/perguntas-antes-de-alugar/) ajuda a tratar também dos documentos e da devolução. A gasolina e o nível do depósito têm as suas perguntas no guia do [consumo das scooters de aluguer](/tipos-de-motas/consumo-das-scooters/)."
       ]
     }
   ],
@@ -288,11 +288,18 @@
   "date_published": "2026-10-13",
   "date_modified": "2026-10-13",
   "editorial": {
-    "qa_score": 100,
-    "qa_warnings": [],
-    "words": 1994,
+    "qa_score": 98,
+    "qa_warnings": [
+      "word count 2013 outside the topic target 1000–2000"
+    ],
+    "words": 2013,
     "publish_mode": "review",
     "approved_at": "2026-10-13",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }
