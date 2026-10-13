@@ -94,10 +94,12 @@ test('publishing pace counts only new articles in the last 7 days', async () => 
   assert.equal(roomLeft(entries, undefined, '2026-10-12'), Infinity);
 });
 
-test('a draft that answers the same query as a live page is rejected', () => {
+test('a draft that answers the same query as a live page is rejected', (t) => {
   const { validateArticle, model } = createValidator();
   const published = readJSON('content/articles/PT-0066.json');
-  const queued = [...model.plan.topics].find((t) => t.id === 'PT-0067');
+  // Any topic that is still open for writing; once the whole plan is published there is none left.
+  const queued = model.plan.topics.find((x) => !['PUBLISHED', 'HOLD_FOR_INTENT_REVIEW'].includes(x.editorial_qa_status));
+  if (!queued) return t.skip('every topic is published');
   const draft = { ...published, id: queued.id, slug: queued.slug, status: 'READY_FOR_QA' };
   delete draft.date_published;
   delete draft.date_modified;

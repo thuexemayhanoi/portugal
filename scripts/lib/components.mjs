@@ -1,7 +1,7 @@
 // Reusable UI components. Every component reads business facts from the model (site/data.json),
 // so a change in one place updates every page that uses the component.
 import { esc, formatVND, formatDatePT, fail } from './util.mjs';
-import { inline, plain } from './text.mjs';
+import { inline, plain, weekBreakEven } from './text.mjs';
 import { icon } from './icons.mjs';
 
 export function breadcrumb(page, ctx) {
@@ -50,6 +50,31 @@ export function priceTable(ctx, opts = {}) {
     .join('');
   const caption = opts.caption || `Preços de referência em VND (tabela verificada a ${formatDatePT(pricing.verifiedAt)})`;
   return `<div class="table-wrap price-table" role="region" aria-label="${esc(caption)}" tabindex="0"><table><caption>${esc(caption)}</caption><thead><tr><th scope="col">${esc(ui.model)}</th><th scope="col">${esc(ui.day)}</th><th scope="col">${esc(ui.week)}</th><th scope="col">${esc(ui.month)}</th></tr></thead><tbody>${rows}</tbody></table></div><p class="table-note">${icon('info', 16)}<span>${esc(pricing.note)}</span></p>`;
+}
+
+// Day-by-day vs weekly rate, computed from site/data.json so the conclusion follows any price change.
+// The result column comes right after the model so it stays visible on narrow screens.
+export function durationCompare(ctx, opts = {}) {
+  const { pricing, ui } = ctx;
+  const inCategory = pricing.models.filter((m) => !opts.category || m.category === opts.category);
+  const models = inCategory.filter((m) => weekBreakEven(m) !== null);
+  if (!models.length) fail(`duration-compare: no model with day and week prices${opts.category ? ` in ${opts.category}` : ''}`);
+  const rows = models
+    .map((m) => {
+      const n = weekBreakEven(m);
+      let verdict = esc(ui.weekNever);
+      if (n <= 7) {
+        const total = n * m.day;
+        const detail = `${n} × ${formatVND(m.day)} = ${formatVND(total)}${total === m.week ? `, ${ui.sameAsWeek}` : ''}`;
+        verdict = `${esc(`${n} ${n === 1 ? ui.dayUnit : ui.daysUnit}`)}<span class="cell-sub">${esc(detail)}</span>`;
+      }
+      return `<tr><th scope="row">${esc(m.name)}<span class="cell-sub">${esc(pricing.categories[m.category])}</span></th><td class="compare-cell">${verdict}</td><td>${priceCell(m.day, ctx)}</td><td>${priceCell(m.week, ctx)}</td></tr>`;
+    })
+    .join('');
+  const missing = inCategory.filter((m) => weekBreakEven(m) === null).map((m) => m.name);
+  const caption = opts.caption || `${ui.compareCaption} ${formatDatePT(pricing.verifiedAt)}`;
+  const note = [missing.length ? `${ui.weekMissing} ${missing.join(', ')}.` : '', pricing.note].filter(Boolean).join(' ');
+  return `<div class="table-wrap price-table" role="region" aria-label="${esc(caption)}" tabindex="0"><table><caption>${esc(caption)}</caption><thead><tr><th scope="col">${esc(ui.model)}</th><th scope="col">${esc(ui.weekFrom)}</th><th scope="col">${esc(ui.day)}</th><th scope="col">${esc(ui.week)}</th></tr></thead><tbody>${rows}</tbody></table></div><p class="table-note">${icon('info', 16)}<span>${esc(note)}</span></p>`;
 }
 
 export function modelCards(ctx, opts = {}) {
@@ -195,6 +220,7 @@ export function serviceCards(ctx) {
 export const blockComponents = {
   'price-table': (ctx, b) => priceTable(ctx, b),
   'model-cards': (ctx, b) => modelCards(ctx, b),
+  'duration-compare': (ctx, b) => durationCompare(ctx, b),
   'contact-card': (ctx, b) => contactCard(ctx, b),
   'contact-links': (ctx) => contactLinks(ctx),
   'service-cards': (ctx) => serviceCards(ctx),

@@ -332,6 +332,10 @@
 .price-table thead th:first-child {
   background: var(--surface-2);
 }
+.price-table td.compare-cell {
+  min-width: 10.5rem;
+  white-space: normal;
+}
 .cell-sub {
   display: block;
   color: var(--text-3);

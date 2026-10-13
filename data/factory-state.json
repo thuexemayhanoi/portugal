@@ -2,10 +2,18 @@
   "status": "ACTIVE",
   "published_ids": [
     "PT-0001",
+    "PT-0002",
+    "PT-0003",
     "PT-0066",
-    "PT-0126"
+    "PT-0067",
+    "PT-0068",
+    "PT-0126",
+    "PT-0127",
+    "PT-0131",
+    "PT-0216",
+    "PT-0261"
   ],
   "review_ids": [],
   "rejected_ids": [],
-  "updated_at": "2026-10-12"
+  "updated_at": "2026-10-13"
 }

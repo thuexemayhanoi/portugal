@@ -116,7 +116,7 @@ data/writer-queue.json ──► writer viết PT-XXXX.json ──► _factory/i
 - Trên GitHub: **Actions → Article Factory → Run workflow**, chọn action (status/process/approve/reject/…), nhập IDs. Push bản nháp vào `_factory/inbox/` trên `main` cũng tự kích hoạt `process`.
 - Writer bên ngoài (người hoặc AI): làm đúng `factory/WRITER-CONTRACT.md` + `factory/article.schema.json`.
 - QA bài viết còn kiểm tra: **trùng search intent** với trang đã đăng và các bài cùng lô (≥ 0,6 thì loại), **đối chiếu nguồn** (nội dung luật/phạt phải có nguồn luật hoặc chính thức, nguồn cũ thì cảnh báo hoặc báo lỗi), **chất lượng pt-PT** (pt-BR, Hanói/Vietname, văn bản tiếng Tây Ban Nha/Anh hoặc thiếu dấu = dấu hiệu sao chép/dịch máy).
-- **Nhịp đăng:** tối đa `publishing.max_new_per_7_days` (10) bài mới mỗi 7 ngày; quá mức thì `approve` trả `PACE_LIMIT`.
+- **Nhịp đăng:** tối đa `publishing.max_new_per_7_days` bài mới mỗi 7 ngày; quá mức thì `approve` trả `PACE_LIMIT`. Từ 13/10/2026 chủ site đã tắt giới hạn (`null`) để viết liên tục tới khi đủ kế hoạch; đặt lại một số (vd. 10) để giới hạn.
 - **Sửa bài đã đăng:** bản nháp cùng `id`/`slug` + `"revision": { "reason": "…" }` → giữ URL và ngày đăng gốc, cập nhật `date_modified`, ghi `editorial.revisions`.
 
 ### Writer Claude (API trả phí — TẮT mặc định)

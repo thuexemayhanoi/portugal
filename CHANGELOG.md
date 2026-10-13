@@ -1,5 +1,16 @@
 # Changelog
 
+## 1.2.0 — 2026-10-13 · Conteúdo contínuo e conclusões de preço calculadas
+
+- **8 artigos novos** publicados pela Content Factory (11/300 no total): Honda Air Blade 125 ou 160, Honda Click, aluguer semanal, aluguer mensal, Licença Internacional de Condução, documentos da mota alugada, conduzir no Bairro Antigo e Hanói de mota num dia. As categorias «Zonas de Hanói» e «Rotas e mobilidade» ganham a sua página (noindex até terem três artigos).
+- **Conclusões de preço calculadas** a partir de `site/data.json`, para continuarem certas quando a tabela mudar:
+  - componente `duration-compare`: ao dia ou à semana, modelo a modelo, a partir de quantos dias a semana compensa;
+  - tokens `{{price.<modelo>.weekFrom}}` (por extenso), `{{cmp.<modelo>.<outro>.<período>}}` («menos do que», «o mesmo que», «mais do que») e `{{price.min.week}}` / `{{price.max.week}}`;
+  - um token que deixe de ser verdadeiro (por exemplo, a semana já não compensa em sete dias) faz falhar a compilação, para o texto ser revisto.
+- **QA da fábrica**: o primeiro artigo de uma categoria sem página base pode e deve ligar à página da categoria, que é criada com ele.
+- **Escrita contínua**: limite semanal de publicação desativado a pedido do proprietário (`publishing.max_new_per_7_days = null`).
+- Testes independentes do progresso da publicação.
+
 ## 1.1.2 — 2026-10-12
 
 - SEO Monitor: cada execução do Lighthouse tem um limite de 4 minutos e o passo inteiro de 15, para que um bloqueio nunca prenda o workflow.

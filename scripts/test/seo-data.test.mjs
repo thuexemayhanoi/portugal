@@ -32,7 +32,10 @@ test('maintenance queue: low CTR, striking distance, declining, cannibalization,
   const vision = `${base}/tipos-de-motas/honda-vision-em-hanoi/`;
   const scooters = `${base}/tipos-de-motas/scooters/`;
   const day = `${base}/precos/aluguer-de-mota-por-um-dia/`;
-  const weekly = plan.topics.find((t) => t.id === 'PT-0067');
+  // A topic that is still planned (whatever has been published since): its query is planned demand.
+  const openPlan = structuredClone(plan);
+  const weekly = openPlan.topics.find((t) => t.id === 'PT-0067');
+  weekly.editorial_qa_status = 'PLANNED';
   const rows = [
     { query: 'honda vision hanói', page: vision, clicks: 2, impressions: 400, ctr: 0.005, position: 2.1 },
     { query: 'alugar scooter hanói', page: vision, clicks: 3, impressions: 120, ctr: 0.025, position: 7.4 },
@@ -42,7 +45,7 @@ test('maintenance queue: low CTR, striking distance, declining, cannibalization,
   ];
   const prevRows = [{ query: 'mota por um dia hanói', page: day, clicks: 40, impressions: 300, ctr: 0.13, position: 2.5 }];
   const inspections = [{ url: scooters, indexStatusResult: { verdict: 'NEUTRAL', coverageState: 'Discovered - currently not indexed' } }];
-  const r = analyse({ rows, prevRows, plan, taxonomy, base, inspections, sitemapUrls: [vision, scooters, day, `${base}/tipos-de-motas/`, `${base}/contactos/`] });
+  const r = analyse({ rows, prevRows, plan: openPlan, taxonomy, base, inspections, sitemapUrls: [vision, scooters, day, `${base}/tipos-de-motas/`, `${base}/contactos/`] });
   const types = (t) => r.maintenance.filter((m) => m.type === t).map((m) => m.url);
   assert.deepEqual(types('LOW_CTR'), [vision]);
   assert.ok(types('STRIKING_DISTANCE').includes(vision));

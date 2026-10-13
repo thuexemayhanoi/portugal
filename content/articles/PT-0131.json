@@ -1,0 +1,311 @@
+{
+  "contract_version": 1,
+  "id": "PT-0131",
+  "slug": "documentos-da-mota-alugada",
+  "title": "Documentos da mota alugada: registo, seguro e o que levar",
+  "h1": "Registo e seguro da mota alugada: que papéis levar e como os conferir",
+  "description": "Registo («cà vẹt») e seguro obrigatório da mota alugada: o que exige a lei vietnamita, como confirmar que correspondem à mota e o que fazer se faltarem.",
+  "summary": "Ao conduzir uma mota alugada no Vietname, leve consigo o certificado de registo do veículo (o «cà vẹt»), o certificado do seguro obrigatório de responsabilidade civil e a sua carta de condução, como exige o artigo 56.º da lei de trânsito de 2024. Antes de sair da loja, confirme que a matrícula e os números dos documentos correspondem à mota e que o seguro está dentro da validade.",
+  "key_points": [
+    "A lei de trânsito de 2024 obriga quem conduz a levar o registo do veículo, a carta adequada e o certificado do seguro obrigatório.",
+    "O registo e o seguro estão em nome do proprietário da mota — é o normal num aluguer —, mas é a quem conduz que a polícia os pede.",
+    "Antes de sair, compare a matrícula, os números de quadro e de motor e a validade do seguro com a mota que vai levar.",
+    "Salvo quando a mota foi dada como garantia a um banco, a lei pede o registo original: uma fotocópia simples não está prevista.",
+    "Esquecer o registo é punido com coima; conduzir uma mota que não tem registo custa dez vezes mais."
+  ],
+  "intro": [
+    "Quem planeia alugar uma mota no Vietname trata, com razão, da carta de condução, da licença internacional e do passaporte. Os documentos da própria mota recebem menos atenção, porque não são seus: pertencem ao veículo e estão em nome do proprietário. Ainda assim, a lei vietnamita obriga quem conduz a levá-los consigo, e é a si que a polícia os pede num controlo.",
+    "Este guia explica o que diz a lei, o que é cada documento e o que deve conferir, como os guardar durante o aluguer e o que fazer se algum faltar. Os requisitos pessoais para conduzir e a caução estão explicados no guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/)."
+  ],
+  "sections": [
+    {
+      "h2": "O que a lei exige a quem conduz",
+      "body": [
+        "Desde 1 de janeiro de 2025, o trânsito no Vietname rege-se pela Lei n.º 36/2024/QH15, sobre a ordem e a segurança do trânsito rodoviário. O artigo 56.º enumera os documentos que o condutor tem de levar consigo sempre que circula:",
+        {
+          "ul": [
+            "o **certificado de registo do veículo** — ou, se a mota tiver sido dada como garantia a um banco, uma cópia autenticada acompanhada do original, ainda válido, da declaração do banco;",
+            "a **carta de condução** adequada ao veículo que conduz;",
+            "o **certificado de inspeção técnica e ambiental**, nos casos em que a lei o exige;",
+            "o **certificado do seguro obrigatório de responsabilidade civil** do proprietário do veículo."
+          ]
+        },
+        "A carta é sua. O registo e o seguro são da mota: estão em nome do proprietário, mesmo quando é outra pessoa a conduzir. Quanto à inspeção, pergunte à loja se se aplica ao modelo que vai levar.",
+        {
+          "note": "O mesmo artigo permite mostrar os documentos através da conta de identificação eletrónica (a aplicação VNeID), quando estão integrados nessa conta. Numa mota alugada, os documentos do veículo estão em nome do proprietário, por isso não conte com esta via: leve os documentos físicos e pergunte à loja o que deve mostrar num controlo.",
+          "tone": "info",
+          "title": "E a aplicação VNeID?"
+        }
+      ]
+    },
+    {
+      "h2": "O certificado de registo, ou «cà vẹt»",
+      "body": [
+        "O certificado de registo é o documento que a polícia emite quando regista um veículo e que prova quem é o seu proprietário. No texto da lei chama-se «chứng nhận đăng ký xe»; no dia a dia diz-se «giấy đăng ký xe» ou simplesmente «cà vẹt», uma palavra de origem francesa. Qualquer destes nomes serve para o pedir na loja.",
+        "Além do nome e da morada do proprietário, o certificado indica os dados que identificam a mota:",
+        {
+          "ul": [
+            "a **matrícula** («biển số»), que tem de coincidir com a da chapa;",
+            "a **marca** e o **modelo** («nhãn hiệu», «số loại»);",
+            "o **número de quadro** («số khung»), gravado no quadro da mota;",
+            "o **número de motor** («số máy»), gravado no bloco do motor."
+          ]
+        },
+        "Num aluguer, o certificado está em nome do proprietário e não no seu: é a situação normal. Guarde o acordo de aluguer ou a mensagem da loja que identifica a mota e as datas: num controlo, ajuda a explicar porque conduz um veículo que não está em seu nome.",
+        {
+          "h3": "Original ou cópia?"
+        },
+        "A regra é o original. A lei só admite uma cópia num caso: quando a mota foi dada como garantia de um crédito e o banco ficou com o certificado. Nessa situação, quem conduz leva uma cópia autenticada do registo e o original da declaração do banco, dentro da validade. Uma fotocópia simples não está entre as hipóteses previstas; se for isso que lhe entregarem, pergunte porquê antes de sair."
+      ]
+    },
+    {
+      "h2": "O certificado do seguro obrigatório",
+      "body": [
+        "No Vietname, o proprietário de um veículo motorizado tem de ter um seguro obrigatório de responsabilidade civil, regulado pelo Decreto 67/2023/NĐ-CP. No caso das motas, na linguagem corrente, fala-se simplesmente em «bảo hiểm xe máy». Este seguro serve para indemnizar terceiros pelos danos pessoais e materiais que o veículo lhes cause; não é um seguro da própria mota nem um seguro de acidentes para quem a conduz.",
+        "O certificado é emitido pela seguradora, um por veículo, e inclui, entre outros dados:",
+        {
+          "ul": [
+            "o nome e a morada do proprietário;",
+            "a matrícula e os números de quadro e de motor;",
+            "a identificação da seguradora;",
+            "o período de validade, com as datas de início e de fim."
+          ]
+        },
+        "O decreto admite certificados em papel e eletrónicos; os eletrónicos têm de cumprir a lei vietnamita das transações eletrónicas. Se o da sua mota for eletrónico, peça à loja que lho envie antes de sair e guarde-o no telemóvel de forma a conseguir abri-lo sem rede.",
+        "Confirme duas coisas: que a matrícula do certificado é a da mota e que a data de fim é posterior ao último dia do aluguer, incluindo um eventual prolongamento."
+      ]
+    },
+    {
+      "h2": "Antes de sair: confirmar que os papéis correspondem à mota",
+      "body": [
+        "A verificação demora poucos minutos e faz-se melhor com a mota à frente, no momento do levantamento — o mesmo em que, como se explica no [guia de aluguer passo a passo](/guia-de-aluguer/), inspeciona os travões, os pneus e as luzes. Os documentos estão em vietnamita; estas são as palavras que precisa de reconhecer:",
+        {
+          "table": {
+            "caption": "Termos vietnamitas nos documentos da mota",
+            "head": [
+              "Em vietnamita",
+              "Em português"
+            ],
+            "rows": [
+              [
+                "Chứng nhận đăng ký xe, giấy đăng ký xe, cà vẹt",
+                "Certificado de registo do veículo"
+              ],
+              [
+                "Chủ xe",
+                "Proprietário do veículo"
+              ],
+              [
+                "Biển số",
+                "Matrícula"
+              ],
+              [
+                "Số khung",
+                "Número de quadro"
+              ],
+              [
+                "Số máy",
+                "Número de motor"
+              ],
+              [
+                "Bảo hiểm bắt buộc trách nhiệm dân sự",
+                "Seguro obrigatório de responsabilidade civil"
+              ],
+              [
+                "Thời hạn bảo hiểm",
+                "Período de validade do seguro"
+              ],
+              [
+                "Giấy phép lái xe",
+                "Carta de condução"
+              ]
+            ]
+          }
+        },
+        "Com estas palavras identificadas, siga esta ordem:",
+        {
+          "steps": [
+            {
+              "title": "Compare a matrícula",
+              "text": "A matrícula da chapa tem de ser igual, carácter a carácter, à do certificado de registo e à do certificado do seguro."
+            },
+            {
+              "title": "Confira os números de quadro e de motor",
+              "text": "Estão gravados no próprio veículo, em locais que variam com o modelo. Peça à loja que lhos mostre e compare-os com o certificado de registo; se forem difíceis de ler, confira pelo menos os últimos dígitos."
+            },
+            {
+              "title": "Veja a marca e o modelo",
+              "text": "Têm de corresponder à mota que vai levar — atenção sobretudo se, à última hora, lhe entregarem um modelo diferente do reservado."
+            },
+            {
+              "title": "Verifique a validade do seguro",
+              "text": "A data de fim tem de cobrir todo o aluguer. Se o certificado for eletrónico, confirme que já o tem no telemóvel."
+            },
+            {
+              "title": "Fotografe os documentos",
+              "text": "Com autorização da loja, fotografe a frente e o verso de cada documento e a chapa de matrícula. As imagens ajudam se perder algum papel."
+            }
+          ]
+        },
+        {
+          "note": "Se a matrícula ou os números não coincidirem, se o seguro tiver caducado ou se não houver certificado de registo, não saia com essa mota. Peça os documentos certos ou outra mota e avance só quando tudo estiver em ordem. Conduzir com papéis que não correspondem ao veículo pode trazer-lhe problemas muito mais sérios do que um simples esquecimento.",
+          "tone": "warn",
+          "title": "Se algo não coincidir"
+        }
+      ]
+    },
+    {
+      "h2": "Como guardar os documentos durante o aluguer",
+      "body": [
+        "Os documentos da mota são poucos e pequenos, mas difíceis de substituir. Guarde-os juntos, numa bolsa de plástico com fecho que os proteja da chuva e da humidade, e combine com a loja onde ficam. Há duas opções, cada uma com a sua desvantagem:",
+        {
+          "ul": [
+            "**consigo**, numa bolsa ou na carteira: ficam protegidos e não se perdem se a mota for furtada, mas tem de se lembrar de os levar sempre que conduz;",
+            "**na mota**, no compartimento debaixo do assento: acompanham sempre o veículo, mas ficam expostos ao calor e à humidade e, em caso de furto, desaparecem com ele."
+          ]
+        },
+        "Seja qual for a escolha, guarde no telemóvel, numa pasta acessível sem rede, as fotografias dos documentos e da chapa de matrícula, o acordo de aluguer e o número da loja ({{phone}}). Se perder a bolsa, terá à mão tudo o que precisa para explicar a situação."
+      ]
+    },
+    {
+      "h2": "Se a polícia pedir os documentos da mota",
+      "body": [
+        "Num controlo de trânsito, a polícia pode pedir-lhe os documentos do artigo 56.º. Tenha a bolsa à mão e mostre o certificado de registo, o certificado do seguro e a sua carta de condução, acompanhada da licença internacional.",
+        "Se não perceber o que lhe pedem, mantenha a calma, mostre os documentos e o acordo de aluguer e, dentro do horário da loja ({{hours}}), ligue para o {{phone}}. Combine este procedimento ao levantar a mota.",
+        "A falta de um papel tem consequências diferentes conforme o caso. O Decreto 168/2024/NĐ-CP, que fixa as coimas de trânsito, prevê para quem conduz uma mota:",
+        {
+          "table": {
+            "caption": "Coimas por falta de documentos do veículo (condutores de mota, consulta a 13 de outubro de 2026)",
+            "head": [
+              "Situação",
+              "Coima"
+            ],
+            "rows": [
+              [
+                "Não levar consigo o certificado de registo",
+                "200 mil a 300 mil VND"
+              ],
+              [
+                "Não ter ou não levar o certificado do seguro obrigatório válido",
+                "200 mil a 300 mil VND"
+              ],
+              [
+                "Conduzir uma mota que não tem certificado de registo",
+                "2 a 3 milhões de VND"
+              ]
+            ]
+          }
+        },
+        "A diferença é clara: esquecer o registo no alojamento custa uma fração do que custa circular com uma mota que não o tem. Os montantes podem ser revistos, por isso confirme os que estiverem em vigor quando viajar. As regras sobre carta, capacete e álcool estão resumidas nas [perguntas frequentes](/perguntas-frequentes/)."
+      ]
+    },
+    {
+      "h2": "Se faltar um documento ou o perder",
+      "body": [
+        {
+          "h3": "Antes de sair da loja"
+        },
+        "Se o certificado de registo não estiver disponível, pergunte porquê. Se a resposta for que a mota está dada como garantia a um banco, peça para ver a cópia autenticada e o original da declaração do banco, que são os documentos previstos para esse caso. Se o certificado do seguro não aparecer ou estiver caducado, peça um certificado válido antes de levar a mota — ou escolha outra.",
+        {
+          "h3": "Durante o aluguer"
+        },
+        "Se perder um documento ou lhe furtarem a bolsa, avise a loja de imediato e envie as fotografias que tirou. As segundas vias são pedidas pelo proprietário: a do registo, à polícia; a do seguro, à seguradora. Até o problema estar resolvido, conduzir sem esses documentos expõe-no às coimas indicadas acima, por isso combine com a loja a melhor solução antes de voltar à estrada.",
+        "Se a perda acontecer fora do horário da loja, envie uma mensagem com os pormenores e as fotografias e evite circular até ter resposta."
+      ]
+    },
+    {
+      "h2": "O que perguntar à loja ao levantar a mota",
+      "body": [
+        "O que segue com a mota depende do veículo e do aluguer, por isso confirme estes pontos diretamente com a loja, de preferência por escrito:",
+        {
+          "checklist": [
+            "Que documentos da mota seguem comigo: o registo original ou uma cópia autenticada?",
+            "O certificado do seguro é em papel ou eletrónico, e até quando é válido?",
+            "Onde devo guardar os documentos: comigo ou na mota?",
+            "O que faço se a polícia me mandar parar e eu não perceber o que pede?",
+            "Se eu perder um documento, como se resolve e quem paga a segunda via?",
+            "A que número ligo ou escrevo, e por que meio?"
+          ]
+        },
+        "Se ainda não reservou, junte estas perguntas às da lista de [perguntas a fazer antes de alugar](/guia-de-aluguer/perguntas-antes-de-alugar/) e envie-as numa só mensagem. A morada, o telefone e o horário estão em [contactos](/contactos/)."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Quem paga a coima se faltar um documento da mota?",
+      "a": "As coimas por falta de documentos aplicam-se a quem conduz. Se faltar um papel que devia seguir com a mota, a forma de resolver depende do que tiver combinado com a loja — por isso vale a pena conferir os documentos antes de sair e guardar a resposta da loja por escrito."
+    },
+    {
+      "q": "Posso continuar a conduzir se o seguro da mota caducar a meio do aluguer?",
+      "a": "Não deve. A partir dessa data, circula sem um certificado válido, o que é punido com coima, e os danos que causar a terceiros deixam de estar cobertos por esse seguro. Avise a loja assim que der pela situação e combine a renovação ou a troca de mota antes de voltar a conduzir."
+    },
+    {
+      "q": "Uma fotografia dos documentos no telemóvel substitui os originais?",
+      "a": "Não. Para o registo, o artigo 56.º refere o certificado original — ou, só no caso da mota dada como garantia a um banco, uma cópia autenticada — e a versão integrada na conta de identificação eletrónica. Uma fotografia serve de cópia de segurança, não de documento. O certificado eletrónico do seguro é diferente: é emitido nesse formato pela seguradora."
+    },
+    {
+      "q": "Se outra pessoa conduzir a mota, os documentos vão com ela?",
+      "a": "Sim. A obrigação de levar os documentos é de quem conduz em cada momento: sempre que a outra pessoa pega na mota, os documentos vão com ela, além da sua própria carta de condução. Confirme antes com a loja se essa pessoa pode conduzir a mota e se tem de constar do acordo."
+    }
+  ],
+  "sources": [
+    "lei-36-2024-artigo-56",
+    {
+      "title": "Cà vẹt xe là gì? Không có cà vẹt xe bị phạt thế nào?",
+      "publisher": "LuatVietnam",
+      "url": "https://luatvietnam.vn/giao-thong/ca-vet-xe-la-gi-863-96302-article.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "Không mang giấy tờ xe bị phạt bao nhiêu theo quy định 2026?",
+      "publisher": "LuatVietnam",
+      "url": "https://luatvietnam.vn/giao-thong/khong-mang-giay-to-xe-bi-phat-bao-nhieu-theo-quy-dinh-863-107145-article.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "Tăng mức phạt đối với hành vi không có bảo hiểm xe máy bắt buộc từ 01/01/2025",
+      "publisher": "LuatVietnam",
+      "url": "https://luatvietnam.vn/tin-van-ban-moi/tang-muc-phat-doi-voi-hanh-vi-khong-co-bao-hiem-xe-may-bat-buoc-tu-01-01-2025-186-100606-article.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "Đã có Nghị định 67/2023/NĐ-CP về bảo hiểm bắt buộc của chủ xe cơ giới",
+      "publisher": "LuatVietnam",
+      "url": "https://luatvietnam.vn/tin-van-ban-moi/da-co-nghi-dinh-67-2023-nd-cp-ve-bao-hiem-bat-buoc-cua-chu-xe-co-gioi-186-95475-article.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "What are the contents of compulsory civil liability insurance certificates of motor vehicle owners?",
+      "publisher": "LawNet",
+      "url": "https://lawnet.vn/en/laws/what-are-the-contents-of-compulsory-civil-liability-insurance-certificates-of-motor-vehicle-owners--145244.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "en"
+    }
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "PUBLISHED",
+  "date_published": "2026-10-13",
+  "date_modified": "2026-10-13",
+  "editorial": {
+    "qa_score": 100,
+    "qa_warnings": [],
+    "words": 2169,
+    "publish_mode": "review",
+    "approved_at": "2026-10-13",
+    "revisions": []
+  }
+}

@@ -230,13 +230,18 @@ export function createValidator() {
     if (!faq.length && topic.funnel_stage !== 'BOFU') W('no FAQ: consider 2–4 real questions for this intent');
 
     // --- internal links
+    // A parent hub without a base page is generated together with its first article, so the
+    // draft can (and must) link to its own parent hub even before that hub is live.
+    const parent = model.parents.get(topic.parent_category);
+    const ownHub = parent && !parent.basePage ? parent.url : null;
+    const reachable = (u) => liveUrls.has(u) || batchUrls.has(u) || u === ownHub;
     const internal = links.map((h) => h.split('#')[0]);
-    const broken = internal.filter((u) => !liveUrls.has(u) && !batchUrls.has(u));
+    const broken = internal.filter((u) => !reachable(u));
     for (const u of new Set(broken)) E(`internal link to a page that is not live: ${u}`);
-    const uniqueLive = new Set(internal.filter((u) => liveUrls.has(u) || batchUrls.has(u)));
+    const uniqueLive = new Set(internal.filter(reachable));
     stats.internal_links = uniqueLive.size;
     if (uniqueLive.size < config.min_internal_links) E(`at least ${config.min_internal_links} distinct internal links required (found ${uniqueLive.size})`);
-    if (liveUrls.has(topic.pillar_url) && !uniqueLive.has(topic.pillar_url)) E(`must link to the pillar page ${topic.pillar_url}`);
+    if (reachable(topic.pillar_url) && !uniqueLive.has(topic.pillar_url)) E(`must link to the pillar page ${topic.pillar_url}`);
     if (internal.includes(topic.target_url)) E('article links to itself');
 
     // --- sources
