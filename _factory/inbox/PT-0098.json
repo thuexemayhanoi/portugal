@@ -1,0 +1,271 @@
+{
+  "contract_version": 1,
+  "id": "PT-0098",
+  "slug": "quanto-dinheiro-levar",
+  "title": "Quanto dinheiro levar para alugar e usar mota em Hanói",
+  "description": "Orçamento diário para uma mota alugada em Hanói: tarifa de referência, gasolina com o preço de outubro de 2026, estacionamento, margem para imprevistos e quanto ter em numerário.",
+  "h1": "Orçamento para uma mota em Hanói: aluguer, gasolina, estacionamento e margem para imprevistos",
+  "summary": "Para um dia de mota em Hanói, o orçamento parte da tarifa de referência da loja, entre {{price.min.day}} e {{price.max.day}} conforme o modelo, a que se somam gasolina, estacionamento e uma margem para imprevistos: à data de 13 de outubro de 2026, cerca de 50 a 90 mil VND por dia para um uso normal na cidade. A garantia é definida pela loja e combina-se à parte; leve numerário em dong para as despesas do dia e confirme com a loja como prefere receber o aluguer.",
+  "key_points": [
+    "O aluguer é a parcela maior e a mais previsível: veja a tabela de referência por dia, semana e mês antes de fazer contas.",
+    "A gasolina custa, à data de 13 de outubro de 2026, cerca de 28 mil VND por litro; uma scooter de 110 cm³ gasta pouco, mesmo no trânsito da cidade.",
+    "O estacionamento paga-se por paragem, em numerário ou por código QR: alguns milhares de dong de cada vez, mais junto ao lago Hoàn Kiếm em dias de festa.",
+    "Reserve uma margem para imprevistos — um furo, uma capa de chuva, uma lavagem, um dia a mais — e nunca conte com a garantia como dinheiro disponível.",
+    "No Vietname paga-se sobretudo em dong, em numerário ou por QR; o cartão serve para levantar dinheiro e para pouco mais nas despesas pequenas da mota."
+  ],
+  "intro": [
+    "Quem pergunta «quanto dinheiro levo?» quer, em regra, duas respostas: quanto custa um dia de mota, tudo somado, e quanto desse valor tem de estar em notas no bolso. Este guia responde às duas, com os preços de referência da loja e com os valores de gasolina e estacionamento em vigor à data de 13 de outubro de 2026.",
+    "Não é uma lista de todos os custos possíveis de um aluguer — essa está no artigo sobre [tudo o que pode somar-se ao preço de referência](/precos/custos-alem-do-preco/). Aqui a questão é outra: planear o dinheiro, dia a dia, e saber onde o levantar e em que forma o ter. Os valores que não vêm da loja estão identificados com a fonte e a data, e mudam; refaça as contas com os preços do dia."
+  ],
+  "sections": [
+    {
+      "h2": "As quatro parcelas de um dia de mota",
+      "body": [
+        "Um dia de mota em Hanói tem quatro parcelas. Uma é fixa e conhecida à partida; as outras três dependem de quanto circula e de onde para.",
+        {
+          "table": {
+            "caption": "O que entra no orçamento de um dia de mota (valores de referência à data de 13 de outubro de 2026)",
+            "head": [
+              "Parcela",
+              "Quanto pesa",
+              "De onde vem o valor"
+            ],
+            "rows": [
+              [
+                "Aluguer",
+                "{{price.min.day}} a {{price.max.day}} por dia, conforme o modelo",
+                "Tabela de referência da loja, verificada a {{pricing.verifiedAt}}"
+              ],
+              [
+                "Gasolina",
+                "Cerca de 28 mil VND por litro; 20 a 40 mil VND por dia num uso urbano normal",
+                "Preço de venda ao público da PVOIL e da Petrolimex, ajustado a 8 de outubro de 2026"
+              ],
+              [
+                "Estacionamento",
+                "Preço regulamentado de 5 mil VND por paragem de dia; 20 a 30 mil VND em parques junto ao lago em dias de festa",
+                "Preço regulamentado em Hanói, citado pelo jornal Nhân Dân em setembro de 2026"
+              ],
+              [
+                "Margem para imprevistos",
+                "O equivalente a um dia de aluguer, guardado à parte",
+                "Regra prática deste guia"
+              ]
+            ]
+          }
+        },
+        "A garantia não entra nesta tabela de propósito. Não é um custo: é um valor que entrega no início e recebe no fim, e o montante e a forma são definidos pela loja para cada aluguer. Pergunte-os antes de fazer contas; o guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/) explica o que confirmar. O que este guia diz é que esse dinheiro, enquanto estiver entregue, não conta como dinheiro disponível."
+      ]
+    },
+    {
+      "h2": "Aluguer: a parcela fixa",
+      "body": [
+        "A tarifa do aluguer é a única parcela que conhece ao certo antes de sair de casa. Na tabela de referência da loja {{brand}}, uma semiautomática como a Honda Wave custa {{price.wave.day}} por dia e uma scooter automática como a Honda Vision custa {{price.vision.day}}. À semana e ao mês, a conta por dia desce: a Vision fica em {{price.vision.week}} por semana e entre {{price.vision.month}} por mês.",
+        {
+          "component": "price-table"
+        },
+        "Para escolher a duração que compensa, use o comparador abaixo, que calcula a partir de quantos dias a tarifa semanal custa o mesmo ou menos do que pagar ao dia:",
+        {
+          "component": "duration-compare"
+        },
+        "A [tabela de preços](/precos/) completa inclui os modelos de 50 cc, elétricos e as bicicletas elétricas. Os preços referem-se só ao veículo: não incluem gasolina, estacionamento, entrega nem a garantia."
+      ]
+    },
+    {
+      "h2": "Gasolina: pouco por dia, mas todos os dias",
+      "body": [
+        "À data de 13 de outubro de 2026, a gasolina E10 RON 95-III custa 28.250 VND por litro na rede da PVOIL, com o preço ajustado às 15:00 de 8 de outubro de 2026, e a Petrolimex ajustou os seus preços no mesmo dia. Os preços de combustível no Vietname são revistos todas as semanas, por isso conte com pequenas variações durante a estadia.",
+        "Quanto gasta uma mota? A Honda indica para a Vision um consumo de 1,82 litros por 100 km, medido em condições de ensaio. No trânsito de Hanói, com paragens constantes e dois ocupantes, o consumo real é maior; uma estimativa prudente, que não vem do fabricante, é contar com 3 a 4 litros por 100 km.",
+        {
+          "h3": "Um exemplo de conta"
+        },
+        "Um dia de visitas na cidade raramente passa dos 30 a 40 km: do alojamento ao Bairro Antigo, uma volta ao lago Oeste, um museu e o regresso. Com 3,5 litros por 100 km, são 1 a 1,5 litros, ou seja, cerca de 30 a 40 mil VND de gasolina por dia. Um dia de rotina, casa–trabalho, gasta metade. Só uma saída longa, a Ninh Bình ou a Ba Vì, obriga a encher o depósito mais do que uma vez.",
+        "Convém saber com que nível recebe a mota e com que nível a deve devolver: o guia sobre o [combustível no aluguer](/precos/combustivel-no-aluguer/) explica como registar o indicador e como se acerta uma diferença no fim. Nas bombas de gasolina paga-se em numerário ou por código QR; cartões estrangeiros nem sempre são aceites, por isso leve notas pequenas."
+      ]
+    },
+    {
+      "h2": "Estacionamento: alguns milhares de dong por paragem",
+      "body": [
+        "Em Hanói, a mota raramente fica à porta: deixa-se num parque vigiado, com talão, e paga-se por paragem. Segundo o jornal Nhân Dân, em setembro de 2026, o preço regulamentado na cidade para motas e motas elétricas na zona central era de 5 mil VND por paragem durante o dia e 12 mil VND por noite. O mesmo jornal relatava, no entanto, parques junto ao lago Hoàn Kiếm a cobrar 20 a 30 mil VND por paragem em dias de festa, sem preço afixado.",
+        "Para o orçamento, conte com três ou quatro paragens por dia de visitas, entre 15 e 40 mil VND no total, e com uma só paragem, ou nenhuma, num dia de rotina em que a mota fica no parque do alojamento. Pergunte sempre o preço antes de deixar a mota, prefira parques com preço afixado e guarde o talão.",
+        {
+          "note": "Desde 1 de julho de 2026, Hanói exige que os parques de estacionamento cobrem por meios eletrónicos, e muitos pedem pagamento por código QR. Uma aplicação bancária vietnamita, se a tiver, resolve; sem ela, continue a levar notas pequenas, porque na prática há parques que só aceitam numerário e outros que só aceitam QR.",
+          "tone": "info",
+          "title": "QR ou notas?"
+        },
+        "Nas noites de sexta a domingo, lembre-se de que a zona 1 de baixas emissões, junto ao lago e ao mercado noturno, fecha às motas das 19:00 às 24:00: estacione fora e entre a pé. O guia da [zona de baixas emissões](/tipos-de-motas/zona-de-baixas-emissoes-hanoi/) indica onde deixar a mota."
+      ]
+    },
+    {
+      "h2": "Margem para imprevistos: o que pode aparecer",
+      "body": [
+        "A quarta parcela é a que mais gente esquece. Numa semana de mota, é provável que pelo menos um destes imprevistos apareça:",
+        {
+          "ul": [
+            "um furo ou uma reparação pequena, paga numa oficina de rua — o guia sobre [pequenas reparações durante o aluguer](/precos/custo-de-furos-e-reparacoes/) explica o que combinar antes;",
+            "uma capa de chuva comprada à pressa debaixo de um toldo, na época das chuvas;",
+            "uma lavagem depois de um dia de lama;",
+            "um dia a mais de aluguer, porque o plano mudou;",
+            "uma multa, se cometer uma infração num controlo — o guia sobre [multas durante o aluguer](/precos/multas-de-transito-no-aluguer/) explica o que cabe a quem conduz;",
+            "um táxi para regressar à noite, depois de beber."
+          ]
+        },
+        "A regra prática deste guia é simples: guarde à parte, desde o primeiro dia, o equivalente a um dia de aluguer do modelo que escolheu — {{price.vision.day}} no caso da Vision — e não lhe toque para despesas correntes. Numa estadia de uma semana, essa reserva costuma chegar; num mês, aumente-a.",
+        "Os conselhos aos viajantes do Ministério dos Negócios Estrangeiros vão no mesmo sentido, a uma escala maior: recomendam ter dinheiro suplementar para pagar, no mínimo, mais uma semana de hotel, caso o regresso seja adiado. A mota é uma parte pequena desse plano de contingência, mas obedece à mesma lógica."
+      ]
+    },
+    {
+      "h2": "Juntar as parcelas: um dia, uma semana, um mês",
+      "body": [
+        "Com as quatro parcelas, a conta de um dia faz-se de cabeça: tarifa do modelo, mais 30 a 40 mil VND de gasolina, mais 15 a 40 mil VND de estacionamento num dia de visitas, com a reserva guardada à parte. Com uma Vision, um dia de passeio fica em {{price.vision.day}} mais cerca de 50 a 80 mil VND de despesas correntes; com uma Wave, {{price.wave.day}} mais o mesmo.",
+        {
+          "table": {
+            "caption": "Orçamento por período, para um uso urbano normal (estimativas à data de 13 de outubro de 2026)",
+            "head": [
+              "Período",
+              "Aluguer (referência)",
+              "Gasolina e estacionamento (estimativa)",
+              "Reserva para imprevistos"
+            ],
+            "rows": [
+              [
+                "Um dia de visitas",
+                "{{price.min.day}} a {{price.max.day}}",
+                "50 a 80 mil VND",
+                "Um dia de aluguer"
+              ],
+              [
+                "Uma semana, com saídas diárias",
+                "{{price.min.week}} a {{price.max.week}}",
+                "250 a 450 mil VND",
+                "Um dia de aluguer"
+              ],
+              [
+                "Um mês, em rotina casa–trabalho",
+                "{{price.wave.month}} (Wave) a {{price.vision.month}} (Vision)",
+                "600 mil a 1,2 milhões de VND",
+                "Dois dias de aluguer"
+              ]
+            ]
+          }
+        },
+        "As estimativas de gasolina e estacionamento partem de 30 a 40 km por dia numa semana de visitas, e de 15 a 25 km por dia numa rotina mensal com a mota guardada no alojamento. Se vai sair da cidade, some um depósito cheio por cada 150 km. Para os períodos longos, veja também como organizar um [aluguer mensal](/precos/aluguer-mensal-de-mota/), em que a conta por dia desce e as despesas correntes passam a pesar mais do que a tarifa.",
+        "Se a estadia se concentra no centro, há uma alternativa que pesa zero no orçamento: entre 1 de julho de 2026 e 30 de junho de 2027, as viagens nos autocarros públicos dentro do Anel Viário 1 são gratuitas. Para quem fica no Bairro Antigo e sai pouco, pode fazer sentido alugar a mota só nos dias de passeio."
+      ]
+    },
+    {
+      "h2": "Numerário ou cartão: em que forma ter o dinheiro",
+      "body": [
+        "O Vietname é um país de dong vietnamita, em notas e, cada vez mais, por código QR ligado a uma conta bancária local. Nas despesas da mota — gasolina, estacionamento, uma reparação de rua, uma capa de chuva — o cartão estrangeiro serve pouco. Conte com numerário para tudo o que é pequeno e do dia a dia.",
+        {
+          "h3": "Para o aluguer e a garantia"
+        },
+        "A forma de pagamento do aluguer e da garantia combina-se com a loja, por mensagem, antes do levantamento. Pergunte se prefere receber em numerário, por transferência ou de outra forma, se aceita outra moeda além do dong e que comprovativo dá. O guia sobre [pagar no início ou no fim](/precos/pagar-no-inicio-ou-no-fim/) explica como se organiza o pagamento ao longo do aluguer. Pode fazer estas perguntas pelo {{phone}}, {{hours}}, ou pelos restantes [contactos](/contactos/).",
+        {
+          "h3": "Onde levantar e como repartir"
+        },
+        {
+          "ol": [
+            "**Levante em dong, em caixas automáticos de bancos**, de preferência dentro de uma agência ou de um centro comercial, e não em caixas isolados na rua. Os caixas impõem um limite por operação e cobram uma comissão fixa, pelo que poucos levantamentos grandes ficam mais baratos do que muitos pequenos.",
+            "**Reparta o dinheiro:** o que vai gastar no dia na carteira, o resto no cofre do alojamento. Nunca leve o aluguer de uma semana e a garantia no bolso enquanto conduz.",
+            "**Peça notas pequenas** — de 10, 20 e 50 mil VND — para o estacionamento e para as bombas de gasolina. Uma nota de 500 mil VND num parque de rua cria um problema de troco.",
+            "**Guarde recibos** do aluguer, da garantia e de qualquer reparação. O guia sobre [recibos e comprovativos](/precos/recibos-e-comprovativos/) mostra o que pedir e como arquivar."
+          ]
+        },
+        "Atenção às notas: as de 20 mil e de 500 mil VND têm cores parecidas, azul e azul-esverdeado, e um erro ao pagar o estacionamento à pressa custa caro. Confira sempre o zero a mais antes de entregar."
+      ]
+    },
+    {
+      "h2": "Lista rápida antes de levantar a mota",
+      "body": [
+        "Antes de ir à loja, confirme que tem o dinheiro certo, na forma certa e nos sítios certos:",
+        {
+          "checklist": [
+            "Tarifa do modelo e da duração confirmada por escrito, com a data de verificação da tabela.",
+            "Forma de pagamento do aluguer e da garantia combinada com a loja, e comprovativo prometido.",
+            "Dong em numerário para o primeiro dia de despesas correntes, em notas pequenas.",
+            "Reserva de um dia de aluguer guardada à parte, no cofre do alojamento.",
+            "Gasolina: nível de entrega e de devolução combinados, e uma bomba identificada perto do alojamento.",
+            "Parque de estacionamento do alojamento confirmado, e preço dos parques do centro perguntado antes de deixar a mota."
+          ]
+        },
+        "Se algum valor lhe parecer estranho ao balcão — uma taxa que não estava na mensagem, um acerto de combustível sem explicação —, não pague sem perceber. O guia sobre [cobranças indevidas numa mota alugada](/precos/burlas-no-aluguer-de-motas/) ajuda a reconhecer o que não bate certo, e as [15 perguntas a fazer antes de alugar](/guia-de-aluguer/perguntas-antes-de-alugar/) cobrem o resto do acordo."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Posso pagar o aluguer da mota com cartão?",
+      "a": "Depende da loja e combina-se antes do levantamento. Pergunte à loja que formas de pagamento aceita para o aluguer e para a garantia, se aceita outra moeda além do dong e que comprovativo dá. Para as despesas do dia a dia da mota — gasolina, estacionamento, reparações de rua — conte com numerário ou com pagamento por QR."
+    },
+    {
+      "q": "Quanto gasto de gasolina numa semana em Hanói?",
+      "a": "Com 30 a 40 km por dia numa scooter de 110 cm³ e uma estimativa prudente de 3 a 4 litros por 100 km, gasta cerca de 1 a 1,5 litros por dia, ou seja, 7 a 10 litros por semana. Ao preço de 13 de outubro de 2026, cerca de 28 mil VND por litro, são 200 a 300 mil VND. Saídas longas fora da cidade somam um depósito por cada 150 km."
+    },
+    {
+      "q": "Devo contar com a garantia como parte do orçamento?",
+      "a": "Não como custo, porque é restituída no fim, mas sim como dinheiro que fica indisponível durante o aluguer. O montante e a forma são definidos pela loja para cada caso: pergunte-os antes de chegar e planeie o levantamento de numerário em função disso. Enquanto estiver entregue, não conte com esse valor para as despesas do dia a dia."
+    },
+    {
+      "q": "O estacionamento em Hanói paga-se sempre?",
+      "a": "Quase sempre que deixa a mota fora do alojamento. Alguns cafés e restaurantes guardam as motas dos clientes sem cobrar, mas na rua e nos parques vigiados paga-se por paragem, em numerário ou por QR. Pergunte o preço antes, prefira parques com preço afixado e guarde o talão."
+    }
+  ],
+  "sources": [
+    "tabela-precos-proprietario",
+    {
+      "title": "Bảng giá xăng dầu — Giá điều chỉnh lúc 15:00 ngày 08/10/2026",
+      "publisher": "PVOIL — Tổng Công ty Dầu Việt Nam",
+      "url": "https://www.pvoil.com.vn/tin-gia-xang-dau",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "vi"
+    },
+    {
+      "title": "Petrolimex điều chỉnh giá xăng dầu từ 15 giờ 00 phút ngày 08.10.2026",
+      "publisher": "Petrolimex — Tập đoàn Xăng dầu Việt Nam",
+      "url": "https://www.petrolimex.com.vn/ndi/thong-cao-bao-chi/petrolimex-dieu-chinh-gia-xang-dau-tu-15-gio-00-phut-ngay-08-10-2026.html",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "vi"
+    },
+    {
+      "title": "Honda Vision — Thông số kỹ thuật (mức tiêu thụ nhiên liệu 1,82 lít/100 km)",
+      "publisher": "Honda Việt Nam",
+      "url": "https://www.honda.com.vn/xe-may/san-pham/vision",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "Mãi chẳng có cách (preço regulamentado do estacionamento de motas em Hanói)",
+      "publisher": "Báo Nhân Dân",
+      "url": "https://nhandan.vn/mai-chang-co-cach-post986891.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Ha Noi free bus travel within Ring Road 1 for one year",
+      "publisher": "Cổng Thông tin điện tử Chính phủ (chinhphu.vn)",
+      "url": "https://thanglong.chinhphu.vn/ha-noi-free-bus-travel-within-ring-road-1-for-one-year-110260702104500646.htm",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "title": "Vietname — Conselhos aos Viajantes",
+      "publisher": "Ministério dos Negócios Estrangeiros — Portal das Comunidades Portuguesas",
+      "url": "https://portaldascomunidades.mne.gov.pt/pt/vai-viajar/conselhos-aos-viajantes/asia/vietname",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "pt"
+    }
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "READY_FOR_QA"
+}

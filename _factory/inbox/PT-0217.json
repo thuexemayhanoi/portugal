@@ -1,0 +1,327 @@
+{
+  "contract_version": 1,
+  "id": "PT-0217",
+  "slug": "estacionar-no-bairro-antigo",
+  "title": "Estacionar a mota no Bairro Antigo de Hanói: parques e preços",
+  "description": "Que parques existem no Bairro Antigo e junto ao lago Hoàn Kiếm, como funciona o talão, o preço fixado pela cidade e onde deixar a mota ao fim de semana à noite.",
+  "h1": "Onde deixar a mota no Bairro Antigo e junto ao lago: parques, talões e tarifas",
+  "summary": "Para estacionar a mota no Bairro Antigo, use um parque autorizado com funcionário e talão (vé xe), nunca o passeio. A tabela da cidade fixa, nos bairros centrais, 5 mil VND por entrada de dia e 8 mil VND à noite, embora junto ao lago se cobre com frequência mais. À data de 13 de outubro de 2026, a zona 1 fecha às motas de sexta a domingo, das 19:00 às 24:00: nessas noites, estacione na orla e entre a pé.",
+  "key_points": [
+    "Procure a placa «trông giữ xe» ou «gửi xe» e um funcionário que entregue talão: é o sinal de um parque autorizado.",
+    "O preço máximo fixado pela cidade para uma mota é de 5 mil VND de dia e 8 mil VND à noite por entrada, com o preço afixado no local.",
+    "Junto ao lago, em feriados e nas noites de mercado, é comum pedirem 10 a 20 mil VND; pergunte antes e pague só com o talão na mão.",
+    "À data de 13 de outubro de 2026, a zona 1 fecha a motas e automóveis de sexta a domingo, das 19:00 às 24:00: escolha um parque na orla, nunca no interior.",
+    "Deixar a mota no passeio ou na faixa de rodagem fora de um parque dá coima de 400 mil a 600 mil VND, além do risco de a encontrar danificada."
+  ],
+  "intro": [
+    "No Bairro Antigo de Hanói, a mota serve para chegar; a visita faz-se a pé. O problema é o que fazer com ela entre a chegada e o regresso: as ruas são estreitas, os passeios estão ocupados e, nas noites de fim de semana, um perímetro inteiro fecha ao trânsito. Quem aluga uma mota e a deixa no sítio errado arrisca uma coima ou, pior, um risco novo na carenagem que depois tem de explicar à loja.",
+    "Este guia explica os tipos de parque que vai encontrar, como funciona o talão, o que diz a tabela de preços da cidade, a que horas o centro fecha às motas e como deixar a mota de forma a encontrá-la como a deixou. As regras de circulação no bairro, com os sentidos únicos e os peões, estão no guia sobre [conduzir no Bairro Antigo](/zonas-de-hanoi/conduzir-no-bairro-antigo/); os outros bairros vão sendo reunidos em [Zonas de Hanói](/zonas-de-hanoi/).",
+    "Os horários e os preços desta página foram verificados a 13 de outubro de 2026 em fontes oficiais vietnamitas e na imprensa de referência. Mudam com o calendário e com as decisões da cidade, por isso confirme a sinalização no local antes de deixar a mota."
+  ],
+  "sections": [
+    {
+      "h2": "Os tipos de parque que vai encontrar",
+      "body": [
+        "«Estacionar» no centro de Hanói raramente significa deixar a mota sozinha num lugar marcado. Significa entregá-la a alguém que a guarda, numa das modalidades da tabela abaixo.",
+        {
+          "table": {
+            "caption": "Onde deixar a mota no Bairro Antigo e junto ao lago",
+            "head": [
+              "Tipo de parque",
+              "Como se reconhece",
+              "O que deve saber"
+            ],
+            "rows": [
+              [
+                "Parque de rua autorizado (điểm trông giữ xe)",
+                "Troço de passeio ou de faixa de rodagem delimitado, placa com o nome do operador e funcionário de colete",
+                "Entrega talão e escreve a matrícula; preço afixado; funciona de dia e, em muitos casos, até ao fecho do mercado noturno"
+              ],
+              [
+                "Parque do alojamento",
+                "Entrada do hotel ou pátio interior; às vezes um parque conveniado a poucos metros",
+                "Pergunte na receção onde fica e até que horas aceita entradas; é a opção mais simples para quem dorme no centro"
+              ],
+              [
+                "Cave de centro comercial ou de edifício de escritórios",
+                "Rampa com barreira, cartão ou talão impresso com hora de entrada",
+                "Mais caro do que a rua, mas coberto e com câmaras; confirme a hora de fecho da cave"
+              ],
+              [
+                "Café, restaurante ou loja que guarda as motas dos clientes",
+                "Funcionário que arruma as motas à porta e dá um pequeno talão ou escreve a matrícula a giz",
+                "Só enquanto estiver no estabelecimento; não serve para deixar a mota e ir passear"
+              ],
+              [
+                "Pontos organizados pela cidade para a zona de baixas emissões",
+                "Lista oficial de 220 parques e pontos, divulgada a 1 de julho de 2026, rua a rua",
+                "Pensados para quem deixa a mota e entra a pé na zona 1; prefira os da orla"
+              ]
+            ]
+          }
+        },
+        "Para acompanhar o piloto da zona de baixas emissões, a cidade organizou 220 parques e pontos de estacionamento dentro e à volta da área, além de 44 estações de bicicletas públicas e de parques de transbordo ligados aos autocarros. A lista, publicada pela imprensa vietnamita a 1 de julho de 2026, está organizada por rua: é a forma mais segura de saber onde há um parque legal perto do sítio onde quer ir.",
+        "Na dúvida entre dois parques, escolha o que tem funcionário presente, preço afixado e talão. Um troço de passeio com motas arrumadas, mas sem ninguém a tomar conta, não é um parque: é apenas o lugar onde outros deixaram a mota por conta e risco."
+      ]
+    },
+    {
+      "h2": "Como funciona o talão (vé xe)",
+      "body": [
+        "O sistema é simples, mas tem regras que convém conhecer antes da primeira vez. O talão é a prova de que a mota entrou naquele parque e de que é sua.",
+        {
+          "steps": [
+            {
+              "title": "Entre e espere pelo funcionário",
+              "text": "Não arrume a mota por sua conta. O funcionário indica o lugar e, muitas vezes, arruma-a ele próprio, encostada às outras."
+            },
+            {
+              "title": "Receba o talão com a matrícula",
+              "text": "O funcionário escreve a matrícula no talão e entrega-lhe uma parte; a outra fica com ele ou presa à mota. Em alguns parques, a matrícula é escrita a giz no assento ou na carenagem, o que sai com um pano."
+            },
+            {
+              "title": "Guarde o talão como se fosse dinheiro",
+              "text": "Sem talão, a saída complica-se: vão pedir-lhe que prove que a mota é sua, com os documentos que leva consigo. Fotografe o talão logo que o recebe."
+            },
+            {
+              "title": "Entregue o capacete ou prenda-o",
+              "text": "A tarifa fixada pela cidade já inclui a guarda do capacete, se o parque a fizer. Se preferir levá-lo, leve-o; o que não deve é deixá-lo solto no guiador."
+            },
+            {
+              "title": "Pague à saída, contra o talão",
+              "text": "Na maior parte dos parques de rua paga-se ao sair, em numerário, e o funcionário confere a matrícula com o talão antes de deixar sair a mota."
+            }
+          ]
+        },
+        "Se perder o talão, avise o funcionário antes de tentar sair e mostre a chave, os documentos da mota e a fotografia que tirou à chegada. Os documentos que acompanham uma mota alugada, e que deve trazer sempre consigo, estão explicados no guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/)."
+      ]
+    },
+    {
+      "h2": "Preços: a tabela da cidade e o que se paga na prática",
+      "body": [
+        "Hanói fixa por decisão municipal o preço máximo do serviço de guarda de bicicletas, motas e automóveis. A tabela em vigor foi aprovada em dezembro de 2017 e, à data de consulta, continuava a ser a referência citada pelas autoridades e pela imprensa. Para as motas, nos bairros centrais e nos locais de interesse turístico, os valores são estes:",
+        {
+          "table": {
+            "caption": "Preço máximo fixado pela cidade para guardar uma mota (Decisão 44/2017/QĐ-UBND, verificado a 13 de outubro de 2026)",
+            "head": [
+              "Período",
+              "Horário",
+              "Preço máximo por mota"
+            ],
+            "rows": [
+              [
+                "Dia",
+                "Das 06:00 às 18:00",
+                "5 mil VND por entrada"
+              ],
+              [
+                "Noite",
+                "Depois das 18:00 e antes das 06:00",
+                "8 mil VND por entrada"
+              ],
+              [
+                "Dia e noite seguidos",
+                "Uma entrada que atravessa os dois períodos",
+                "12 mil VND"
+              ],
+              [
+                "Mensal",
+                "Contrato com o parque",
+                "120 mil VND por mês"
+              ]
+            ]
+          }
+        },
+        "Uma «entrada» (lượt) conta-se de cada vez que a mota entra e sai do parque. Em mercados, escolas e hospitais, a tabela é mais baixa (3 mil VND de dia e 5 mil VND à noite). O operador é obrigado a afixar o preço no local e a cobrar o valor afixado.",
+        {
+          "h3": "O que acontece junto ao lago"
+        },
+        "A realidade, sobretudo às sextas, sábados e domingos à noite e em feriados, afasta-se da tabela. A imprensa vietnamita documenta regularmente parques à volta do lago Hoàn Kiếm a cobrar 10 a 20 mil VND por mota, o dobro ou o quádruplo do valor afixado, e a polícia da zona faz operações contra parques sem licença e cobranças acima da tabela. No Tết de 2024, por exemplo, o preço corrente à volta do lago era de 20 mil VND por mota, segundo o jornal da Assembleia Nacional.",
+        "Para quem aluga, a diferença entre 8 mil e 20 mil VND é pequena em euros, mas há duas regras que evitam discussões:",
+        {
+          "ul": [
+            "**Pergunte o preço antes de entregar a mota** e olhe para o preço afixado. Se não há placa nem talão, procure outro parque.",
+            "**Pague só com o talão na mão** e em notas pequenas. Se o valor pedido à saída for muito acima do afixado, aponte para a placa com calma; se não resultar, pague e anote o nome do operador e a rua.",
+            "**Não contorne o problema deixando a mota fora do parque** para poupar alguns milhares de VND: a coima e o risco de dano custam muito mais."
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "Horários: quando o parque fecha e quando o centro fecha à mota",
+      "body": [
+        "Há dois relógios a vigiar. O primeiro é o do parque: os de rua funcionam de dia e, nas ruas do mercado noturno, até ao fecho das barracas; os de alojamento e as caves têm a sua hora de fecho. Pergunte sempre até que horas pode levantar a mota, sobretudo se vai jantar ou ficar até tarde.",
+        "O segundo relógio é o da cidade. À data de 13 de outubro de 2026, está em curso a primeira fase do piloto da zona de baixas emissões em Hoàn Kiếm, de 1 de julho a 31 de dezembro de 2026. Na zona 1, que abrange o espaço pedonal do lago e as ruas do mercado noturno do Bairro Antigo, motas, ciclomotores e automóveis não podem circular às sextas, sábados e domingos, das 19:00 às 24:00. A restrição aplica-se também às motas elétricas.",
+        {
+          "note": "Um parque no interior da zona 1 parece cómodo às 17:00 de sábado, mas às 19:00 a mota fica do lado de dentro das barreiras e só sai depois da meia-noite. Quando a medida arrancou, moradores apanhados lá dentro levaram a mota à mão até à saída. Escolha um parque na orla e, se tenciona ficar para a noite, confirme que a saída do parque dá para uma rua fora da zona.",
+          "tone": "warn",
+          "title": "Nas noites de sexta a domingo, estacione fora da zona 1"
+        },
+        "Fora dessas noites, o Bairro Antigo está aberto à mota, mas as ruas pedonais à volta do lago podem fechar ao trânsito durante o dia ao fim de semana e em feriados, com horários que a cidade ajusta a cada ocasião. As barreiras e os agentes no local prevalecem sobre qualquer horário publicado. Os pormenores do piloto, com o que está previsto para 2027, estão no guia da [zona de baixas emissões](/tipos-de-motas/zona-de-baixas-emissoes-hanoi/).",
+        {
+          "table": {
+            "caption": "Onde estacionar conforme o dia e a hora (verificado a 13 de outubro de 2026)",
+            "head": [
+              "Quando",
+              "Onde deixar a mota",
+              "Porquê"
+            ],
+            "rows": [
+              [
+                "Segunda a quinta-feira",
+                "Qualquer parque autorizado perto do destino",
+                "Sem restrições do piloto; só os encerramentos pontuais de eventos"
+              ],
+              [
+                "Sexta a domingo, até às 19:00",
+                "Parque na orla da zona 1 se vai ficar depois das 19:00",
+                "Evita ficar com a mota presa dentro das barreiras"
+              ],
+              [
+                "Sexta a domingo, das 19:00 às 24:00",
+                "Parque fora da zona 1, ou mota deixada no alojamento",
+                "A zona 1 está fechada a todos os veículos a motor"
+              ],
+              [
+                "Feriados e festivais",
+                "Parque fora do perímetro pedonal, confirmado no dia",
+                "Os horários do espaço pedonal alargam-se e os parques enchem"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "h2": "Segurança: deixar a mota de forma a encontrá-la igual",
+      "body": [
+        "Um parque com funcionário reduz muito o risco de furto, mas a mota continua encostada a dezenas de outras, arrumadas e desarrumadas várias vezes por noite. Os riscos na carenagem e os espelhos tortos são mais frequentes do que os furtos, e são esses que depois têm de ser explicados à loja.",
+        {
+          "checklist": [
+            "Tranque a direção e tire a chave; se a mota tem comando (Smart Key), confirme que ficou bloqueada.",
+            "Não deixe nada no porta-objetos nem debaixo do assento que não possa perder: capa de chuva e lenços, sim; telemóvel, carteira e documentos pessoais, não.",
+            "Capacete preso ao gancho do assento ou entregue ao funcionário; nunca pousado no guiador.",
+            "Fotografe a mota de frente e de lado no lugar onde ficou, com o talão à vista e a placa com o nome da rua. Demora vinte segundos e resolve metade das conversas difíceis.",
+            "Anote o nome da rua e um ponto de referência: ao fim de uma tarde a andar, as ruas do Bairro Antigo parecem todas iguais.",
+            "Guarde o número da loja no telemóvel: {{phone}}."
+          ]
+        },
+        "Se a mota alugada tem um cadeado de disco ou uma corrente fornecidos pela loja, use-os também no parque. Se não tem, pergunte ao levantar a mota se a loja os disponibiliza; a lista de [perguntas a fazer antes de alugar](/guia-de-aluguer/perguntas-antes-de-alugar/) ajuda a não esquecer esse ponto."
+      ]
+    },
+    {
+      "h2": "Se a mota não está como a deixou",
+      "body": [
+        "Um risco novo, um espelho partido, o pneu vazio ou o capacete desaparecido: a primeira reação deve ser fotografar tudo tal como está, sem mexer na mota, com o lugar e o talão à vista. Depois fale com o funcionário do parque, no momento e com calma: o que viu, se há câmaras, quem é o responsável. Peça o nome do operador e guarde o talão.",
+        "Antes de reparar o que quer que seja, contacte a loja e conte o que aconteceu, com as fotografias. A forma de tratar o custo depende do acordo de aluguer, e é a loja que decide onde e como a mota é reparada. O guia sobre a [mota danificada no estacionamento](/guia-de-aluguer/mota-danificada-estacionada/) explica o passo a passo, do registo no local ao acerto de contas.",
+        "Se o parque não aceitar qualquer responsabilidade e o dano for sério, anote a rua, a hora e o nome do operador: a cidade licencia os parques, e a polícia da zona trata das queixas sobre parques que não cumprem as regras."
+      ]
+    },
+    {
+      "h2": "Estacionar fora de um parque: o que a lei diz",
+      "body": [
+        "Vai ver motas em cima de todos os passeios do Bairro Antigo. Não as imite com uma mota alugada. Segundo o Decreto 168/2024/NĐ-CP, em vigor desde 1 de janeiro de 2025, deixar uma mota na faixa de rodagem ou no passeio sem autorização dá coima de 400 mil a 600 mil VND. O mesmo valor aplica-se a quem para junto a um sinal de «proibido parar e estacionar». Conduzir em cima do passeio para chegar a um lugar custa bem mais: de 4 a 6 milhões de VND.",
+        "No espaço pedonal do lago, o regulamento municipal de 2022 proíbe deixar qualquer veículo nos passeios, na faixa de rodagem e nos espaços públicos do perímetro e proíbe parar ou estacionar em frente aos pontos de controlo das entradas, onde estão as barreiras. O mesmo regulamento obriga os parques a terem licença e a não cobrarem acima da tabela da cidade.",
+        "A regra prática é esta: no centro, a mota fica num parque ou fica em casa. Para quem vem de {{area}}, onde fica a loja, uma alternativa é deixar a mota no alojamento ou num parque da margem leste e atravessar o rio de autocarro ou de táxi nas noites de fim de semana. O itinerário de [Hanói de mota num dia](/rotas-e-mobilidade/hanoi-de-mota-num-dia/) mostra onde estacionar em cada paragem quando o plano é percorrer a cidade inteira."
+      ]
+    },
+    {
+      "h2": "Antes de deixar a mota: lista de dois minutos",
+      "body": [
+        {
+          "checklist": [
+            "Parque com funcionário, placa e talão; preço perguntado antes de entregar a mota.",
+            "Dia e hora conferidos: sexta, sábado ou domingo depois das 19:00 significa parque fora da zona 1.",
+            "Hora de fecho do parque confirmada, se vai jantar ou ficar até tarde.",
+            "Direção trancada, nada de valor na mota, capacete preso ou entregue.",
+            "Fotografia da mota, do talão e do nome da rua.",
+            "Documentos da mota consigo, para o caso de perder o talão."
+          ]
+        },
+        "Para dúvidas sobre a mota, a chave ou os documentos, fale com a loja através dos [contactos](/contactos/). As regras gerais do aluguer estão resumidas no [guia de aluguer](/guia-de-aluguer/)."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Posso deixar a mota alugada toda a noite num parque de rua?",
+      "a": "Depende do parque: muitos parques de rua fecham quando o movimento acaba e não guardam motas durante a noite. Pergunte ao funcionário até que horas pode levantar a mota. Para pernoitar, a cave de um edifício ou o parque do alojamento são mais seguros, e a tabela da cidade prevê para esse caso uma tarifa de dia e noite seguidos."
+    },
+    {
+      "q": "O que faço se me pedirem 20 mil VND quando a placa diz 5 mil?",
+      "a": "Aponte para o preço afixado com calma; o operador é obrigado a cobrar o valor afixado. Se não resultar, pague, anote o nome do operador e a rua e, se quiser, apresente queixa junto da polícia da zona. Não deixe a mota fora do parque para fugir à cobrança: a coima por estacionar no passeio é muito mais alta."
+    },
+    {
+      "q": "Preciso de levar o registo da mota para estacionar?",
+      "a": "Para estacionar, não; para circular, os documentos da mota e a sua carta devem acompanhá-lo sempre. Se perder o talão, o funcionário vai pedir-lhe que prove que a mota é sua, e é aí que o registo e a fotografia da mota à chegada fazem a diferença."
+    },
+    {
+      "q": "Há parques dentro da zona 1 nas noites de sexta a domingo?",
+      "a": "Pode haver parques a funcionar lá dentro para quem chega a pé ou já lá tinha a mota, mas de mota não consegue entrar nem sair entre as 19:00 e as 24:00. Por isso, à data de 13 de outubro de 2026, a recomendação é estacionar na orla da zona 1 e fazer o resto a pé."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Quyết định 44/2017/QĐ-UBND ban hành giá dịch vụ trông giữ xe đạp, xe máy, xe ô tô trên địa bàn thành phố Hà Nội",
+      "publisher": "Hệ thống pháp luật Việt Nam (hethongphapluat.com)",
+      "url": "https://hethongphapluat.com/decision-no-44-2017-qd-ubnd-dated-april-15-2017.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "Chi tiết danh sách các điểm gửi xe khi đi vào vùng phát thải thấp ở Hà Nội",
+      "publisher": "VOV — Đài Tiếng nói Việt Nam",
+      "url": "https://vov.vn/xa-hoi/chi-tiet-danh-sach-cac-diem-gui-xe-khi-di-vao-vung-phat-thai-thap-o-ha-noi-post1311206.vov",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Ha Noi begins restricting fossil-fuel vehicles in low-emission zones",
+      "publisher": "Portal do Governo do Vietname (chinhphu.vn) — Hanoi Capital",
+      "url": "https://hanoicapital.chinhphu.vn/ha-noi-begins-restricting-fossil-fuel-vehicles-in-low-emission-zones-110260702082825273.htm",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "title": "Hà Nội thí điểm cấm phương tiện vùng lõi Hoàn Kiếm: Nhiều người dân bỡ ngỡ, xuống xe dắt bộ",
+      "publisher": "VietnamPlus — TTXVN",
+      "url": "https://www.vietnamplus.vn/ha-noi-thi-diem-cam-phuong-tien-vung-loi-hoan-kiem-nhieu-nguoi-dan-bo-ngo-xuong-xe-dat-bo-post1122317.vnp",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Quận Hoàn Kiếm: Kiên quyết xử lý những bãi trông giữ xe vi phạm quy định",
+      "publisher": "Báo Đại biểu Nhân dân",
+      "url": "https://daibieunhandan.vn/quan-hoan-kiem-kien-quyet-xu-ly-nhung-bai-trong-giu-xe-vi-pham-quy-dinh-10330761.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Nghị định 168 đối với xe máy: 10 mức phạt mọi tài xế cần biết",
+      "publisher": "LuatVietnam",
+      "url": "https://luatvietnam.vn/giao-thong/nghi-dinh-168-doi-voi-xe-may-863-100609-article.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "Quyết định 21/2022/QĐ-UBND Hà Nội: Quy chế quản lý hoạt động trong không gian đi bộ khu vực hồ Hoàn Kiếm và phụ cận",
+      "publisher": "HoaTieu.vn (texto integral da decisão municipal)",
+      "url": "https://hoatieu.vn/phap-luat/quyet-dinh-21-2022-qd-ubnd-ha-noi-214727",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    "vietnamnet-zbe-revisao"
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "READY_FOR_QA"
+}
