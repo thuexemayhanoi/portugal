@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.7.4 — 2026-10-14 · assistente local carregado a pedido (Core Web Vitals)
+
+- Os três ficheiros do assistente local (`business-config.js`, `assistant.js`, `pt-assistant-adapter.js`, ~42 KB) deixam de ser executados em todas as páginas no carregamento: são pré-obtidos com `<link rel="prefetch">` a prioridade mínima e só injetados, pela mesma ordem, quando o visitante toca, foca ou abre o botão do assistente (`src/js/app.js`). A interface não muda: o botão, o painel, o Quick Call e o `floating.js` continuam a carregar com a página; a saudação e a pesquisa no índice aparecem na primeira abertura; uma mensagem enviada antes de o motor chegar é respondida assim que ele carrega (sem recarregar a página).
+- Laboratório (mobile, CPU ×4, ~1,6 Mbps): TBT da página inicial 228 ms → 37 ms; todas as 8 páginas-modelo dentro do orçamento (LCP ≤ 0,9 s, CLS 0, TBT ≤ 107 ms). Verificado de ponta a ponta em Chromium: motor ausente no carregamento, saudação, resposta de preço com os dados do proprietário, envio antecipado, Escape e Quick Call.
+- Teste `local-widgets`: o motor tem de estar referenciado por `prefetch` e não por `<script>` no carregamento.
+
 ## 1.7.3 — 2026-10-14 · auditoria do site real tolerante ao deploy
 
 - `scripts/audit-live.mjs` repete (3 s, depois 6 s) os pedidos que recebem 5xx ou um erro de ligação antes de os contar como erro: o GitHub Pages responde 503 durante alguns segundos enquanto um deploy se propaga, o que deixou vermelha a execução do SEO Monitor sobre o #17 sem que o site estivesse avariado. O resumo indica quantas respostas transitórias foram repetidas; `--retries 0` desliga.

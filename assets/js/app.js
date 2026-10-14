@@ -85,6 +85,65 @@
       });
   }
 
+  /* ---------- Local assistant (lazy) ----------
+     The engine (owner data, /web engine, pt-PT adapter) is never executed at page load: the files
+     are prefetched at idle priority by <link rel="prefetch" data-assistant-src> and injected, in
+     document order, on the first hover/press/focus of the button or when the panel opens. */
+  var chatFab = doc.getElementById('chat-fab');
+  var chatPanel = doc.getElementById('chat-panel');
+  var chatForm = chatPanel ? chatPanel.querySelector('.chat-input') : null;
+  var assistantState = 0; // 0 idle · 1 loading · 2 ready
+  var pendingSubmit = false;
+  function assistantReady() {
+    assistantState = 2;
+    if (chatPanel && !chatPanel.hidden) {
+      try {
+        chatPanel.dispatchEvent(new CustomEvent('chat:open')); // greeting + lazy search index
+      } catch (e) {}
+    }
+    if (pendingSubmit && chatForm && chatForm.requestSubmit) chatForm.requestSubmit();
+    pendingSubmit = false;
+  }
+  function loadAssistant() {
+    if (assistantState) return;
+    var sources = Array.prototype.map.call(doc.querySelectorAll('link[data-assistant-src]'), function (link) {
+      return link.getAttribute('href');
+    });
+    if (!sources.length) return;
+    assistantState = 1;
+    (function next(i) {
+      if (i >= sources.length) return assistantReady();
+      var script = doc.createElement('script');
+      script.src = sources[i];
+      script.onload = function () {
+        next(i + 1);
+      };
+      script.onerror = function () {
+        assistantState = 0; // the next interaction tries again
+      };
+      doc.head.appendChild(script);
+    })(0);
+  }
+  if (chatFab && chatPanel) {
+    ['pointerenter', 'pointerdown', 'touchstart', 'focus', 'keydown'].forEach(function (type) {
+      chatFab.addEventListener(type, loadAssistant, { passive: true });
+    });
+    chatPanel.addEventListener('chat:open', loadAssistant);
+    if (chatForm) {
+      // A message sent before the engine has arrived waits for it instead of reloading the page.
+      chatForm.addEventListener(
+        'submit',
+        function (event) {
+          if (assistantState === 2) return;
+          event.preventDefault();
+          pendingSubmit = true;
+          loadAssistant();
+        },
+        true
+      );
+    }
+  }
+
   /* ---------- Events ---------- */
   doc.addEventListener('click', function (event) {
     var target = event.target;

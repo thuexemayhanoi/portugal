@@ -64,6 +64,12 @@ test('no bottom contact dock; both separate accessible floating controls exist',
   assert.match(page,/assets\/js\/assistant\.js/);
   assert.match(page,/assets\/js\/pt-assistant-adapter\.js/);
   assert.match(page,/assets\/js\/floating\.js/);
+  // The engine is prefetched, not executed at page load (Core Web Vitals): app.js injects it on demand.
+  assert.match(page,/<link rel="prefetch" as="script" href="\/assets\/js\/business-config\.js\?v=[0-9a-f]+" data-assistant-src>/);
+  assert.match(page,/<link rel="prefetch" as="script" href="\/assets\/js\/assistant\.js\?v=[0-9a-f]+" data-assistant-src>/);
+  assert.match(page,/<link rel="prefetch" as="script" href="\/assets\/js\/pt-assistant-adapter\.js\?v=[0-9a-f]+" data-assistant-src>/);
+  assert.doesNotMatch(page,/<script src="\/assets\/js\/(assistant|pt-assistant-adapter|business-config)\.js/);
+  assert.match(page,/<script src="\/assets\/js\/floating\.js\?v=[0-9a-f]+" defer>/);
   assert.match(page,/href="https:\/\/wa\.me\/84942467674"/);
   assert.match(page,/aria-label="Contactar no WhatsApp"/);
 });
