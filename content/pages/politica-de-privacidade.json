@@ -95,7 +95,9 @@
         "Para saber quem publica os conteúdos, consulte [Sobre nós](/sobre-nos/). Para compreender o alcance dos preços, das descrições e das condições de utilização do website, leia [Termos e condições](/termos-e-condicoes/). Para solicitar esclarecimentos concretos, vá a [Contactos](/contactos/). O visitante também pode regressar à [página inicial](/) e explorar os guias sem criar uma conta.",
         "A transparência depende de o texto corresponder ao funcionamento efetivo do site. Por isso, se observar uma funcionalidade que pareça recolher dados e não esteja descrita nesta política, agradecemos que o comunique para podermos verificar e, se necessário, atualizar a informação publicada.",
         {
-          "component": "contact-card",
+          "component": "contact-card"
+        },
+        {
           "note": "A identificação oficial, a morada, os contactos e o horário vêm dos dados da loja. Para informações sobre valores de aluguer, consulte a [tabela de preços](/precos/); não envie documentação sensível sem combinar previamente o canal adequado."
         }
       ]
