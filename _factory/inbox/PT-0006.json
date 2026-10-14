@@ -68,7 +68,7 @@
     {
       "h2": "Segundo filtro: ano e estado da unidade",
       "body": [
-        "Tanto a Click como a Mio vendidas no Vietname começaram em 2006. As unidades de aluguer podem ser dessa época ou de gerações importadas mais tarde, e a tabela da loja indica o modelo, não o ano. Uma mota com muitos anos pode estar impecável, e uma mais recente pode estar mal cuidada: o que conta é o estado, e só o vê com a mota à sua frente.",
+        "Tanto a Click como a Mio vendidas no Vietname começaram em 2006, e um comunicado da Honda de 2010 apresenta a Click como o primeiro modelo automático da Honda Vietname. As unidades de aluguer podem ser dessa época ou de gerações importadas mais tarde, e a tabela da loja indica o modelo, não o ano. Uma mota com muitos anos pode estar impecável, e uma mais recente pode estar mal cuidada: o que conta é o estado, e só o vê com a mota à sua frente.",
         "Pergunte o ano de fabrico, o historial de manutenção que a loja conseguir dar e se há dois exemplares para comparar. O guia da [checklist de inspeção](/guia-de-aluguer/checklist-de-inspecao/) tem os doze pontos a verificar antes de sair, e funciona igual nas duas."
       ]
     },
@@ -185,6 +185,14 @@
       "url": "https://en.wikipedia.org/wiki/Honda_Click",
       "accessed": "2026-10-14",
       "type": "reference",
+      "lang": "en"
+    },
+    {
+      "title": "Comunicado de imprensa da Honda sobre a expansão da produção de motas no Vietname, com a Click como primeiro modelo automático da Honda Vietname (29 de junho de 2010)",
+      "publisher": "Honda Motor Co., Ltd.",
+      "url": "https://global.honda/en/newsroom/news/2010/c100629aeng.html",
+      "accessed": "2026-10-14",
+      "type": "manufacturer",
       "lang": "en"
     },
     {
