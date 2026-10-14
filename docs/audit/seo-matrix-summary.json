@@ -5,14 +5,14 @@
   "priority": {
     "P0": 0,
     "P1": 13,
-    "P2": 98,
-    "OK": 221
+    "P2": 96,
+    "OK": 223
   },
   "issues": {
     "P1 canibalização HIGH com …": 2,
     "P1 canibalização MEDIUM com …": 12,
     "P2 página curta (N palavras)": 1,
-    "P2 palavra-chave «…» quase ausente da description": 52,
+    "P2 palavra-chave «…» quase ausente da description": 49,
     "P2 sem fontes citadas (guia de procedimento)": 6,
     "P2 só N fontes": 26,
     "P2 só N ligação contextual de entrada": 26
@@ -59,7 +59,7 @@
       "landing": "/guia-de-aluguer/documentacao-e-caucao/",
       "title": "Documentos e caução para alugar mota em Hanói",
       "title_coverage": 0.8,
-      "h1_coverage": 0.2,
+      "h1_coverage": 0.6,
       "contextual_in": 194,
       "competing_titles": []
     },

@@ -22,7 +22,7 @@ const csv = (rows) => rows.map((r) => r.map((v) => `"${String(v ?? '').replace(/
 const tokens = (s) => [...intentTokens(normalize(s))];
 // Keyword coverage: every word except Portuguese function words, singular/plural folded.
 const STOP = new Set(['de', 'do', 'da', 'dos', 'das', 'em', 'no', 'na', 'nos', 'nas', 'a', 'o', 'as', 'os', 'e', 'ou', 'para', 'por', 'com', 'um', 'uma', 'ao', 'que', 'se']);
-const words = (s) => normalize(s).split(' ').filter((w) => w && !STOP.has(w)).map((w) => (w.length > 3 ? w.replace(/(oes|aes|s)$/, '') : w));
+const words = (s) => normalize(s).split(' ').filter((w) => w && !STOP.has(w)).map((w) => (w.length > 3 ? w.replace(/(oes|aes|s)$/, '').replace(/(?<=\w{4})[aoe]$/, '') : w));
 const jac = (a, b) => {
   const A = new Set(a);
   const B = new Set(b);
@@ -159,7 +159,9 @@ for (const f of facts) {
     const inT = kw.filter((k) => words(`${f.title} ${f.h1.join(' ')}`).includes(k)).length / (kw.length || 1);
     const inD = kw.filter((k) => words(f.description).includes(k)).length / (kw.length || 1);
     if (inT < 0.5) I('P1', `palavra-chave «${f.keyword}» quase ausente do title/H1`);
-    else if (inD < 0.5) I('P2', `palavra-chave «${f.keyword}» quase ausente da description`);
+    // Descriptions are written for the reader and may use synonyms («toque ligeiro» for «colisão ligeira»):
+    // flag only those that share almost nothing with the query.
+    else if (inD < 0.34) I('P2', `palavra-chave «${f.keyword}» quase ausente da description`);
   }
 
   // Content and E-E-A-T
