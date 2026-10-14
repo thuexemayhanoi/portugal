@@ -85,7 +85,7 @@
       "h2": "Motas e bicicletas elétricas",
       "id": "eletricas",
       "body": [
-        "A mota elétrica não usa combustível e é silenciosa, mas a autonomia depende da bateria, do peso transportado e do percurso. O preço de referência é de {{price.eletrica.day}} por dia, {{price.eletrica.week}} por semana e {{price.eletrica.month}} por mês. A bicicleta elétrica é cotada sob consulta.",
+        "A mota elétrica não usa combustível e é silenciosa, mas a autonomia depende da bateria, do peso e do percurso. **Motas elétricas:** {{price.eletrica.day}} por dia, {{price.eletrica.week}} por semana e {{price.eletrica.month}} por mês. **Bicicletas elétricas:** {{price.bicicleta.day}}. Confirme a tarifa diretamente com a loja, sem pressupor valores fixos.",
         "Antes de alugar um veículo elétrico, pergunte qual é a autonomia real da unidade, como e onde a pode carregar e quanto tempo demora uma carga completa. Também na bicicleta elétrica o capacete é obrigatório no Vietname."
       ]
     },
@@ -103,6 +103,15 @@
           ]
         },
         "Com estas respostas, a loja consegue indicar a unidade mais adequada e confirmar o preço final para as suas datas."
+      ]
+    },
+    {
+      "h2": "Contactos oficiais e confirmação",
+      "body": [
+        {
+          "component": "contact-card",
+          "note": "Indique a categoria e as datas. A loja confirma o modelo disponível, o preço do período e as condições; motas e bicicletas elétricas são sob consulta."
+        }
       ]
     }
   ],
