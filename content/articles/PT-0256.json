@@ -5,7 +5,7 @@
   "title": "Terminais de autocarros de Hanói: Mỹ Đình, Giáp Bát e Gia Lâm",
   "description": "O que faz cada terminal de autocarros de Hanói (Mỹ Đình, Giáp Bát e Gia Lâm), o que se sabe do estacionamento e quando faz sentido lá ir de mota.",
   "h1": "Terminais de autocarros de Hanói de mota: para que serve cada um e onde deixar a mota",
-  "summary": "Hanói tem três terminais de autocarros que continuam em funcionamento em 2026: Mỹ Đình, Giáp Bát e Gia Lâm, este último do mesmo lado do rio que a loja. Não encontrámos preços nem regras atuais de estacionamento de motas em nenhum deles; só vale a pena ir de mota para largar ou recolher alguém, não para deixá-la dias.",
+  "summary": "Este guia trata de três terminais de autocarros de Hanói que continuam em funcionamento em 2026: Mỹ Đình, Giáp Bát e Gia Lâm, este último do mesmo lado do rio que a loja. Há outros, como Nước Ngầm e Yên Nghĩa. Não encontrámos preços nem regras atuais de estacionamento de motas em nenhum deles; só vale a pena ir de mota para largar ou recolher alguém, não para deixá-la dias.",
   "key_points": [
     "Em janeiro de 2026, a imprensa noticiou mais de 150 viagens de reforço nos terminais de Giáp Bát, Mỹ Đình e Gia Lâm: os três continuam a funcionar.",
     "Mỹ Đình é o terminal da linha 109 para o aeroporto e, segundo guias comerciais, uma das partidas dos autocarros para Ha Long; Gia Lâm serve as linhas 03 e 22A; a 03 começa em Giáp Bát.",
@@ -243,6 +243,11 @@
     "words": 1684,
     "publish_mode": "review",
     "approved_at": "2026-10-14",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-14",
+        "reason": "Correção editorial após revisão: factos e formulação ajustados às fontes."
+      }
+    ]
   }
 }

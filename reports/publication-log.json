@@ -5024,6 +5024,66 @@
       "mode": "review",
       "type": "new",
       "date": "2026-10-14"
+    },
+    {
+      "id": "PT-0090",
+      "url": "/precos/pagar-em-dong-vietnamita/",
+      "title": "Pagar o aluguer em dong: notas, câmbio e onde trocar",
+      "words": 2182,
+      "qa_score": 100,
+      "writer": "claude",
+      "mode": "review",
+      "type": "update",
+      "reason": "Correção editorial após revisão: factos e formulação ajustados às fontes.",
+      "date": "2026-10-14"
+    },
+    {
+      "id": "PT-0182",
+      "url": "/guia-de-aluguer/sentidos-unicos-e-viragens/",
+      "title": "Sentido único e viragens proibidas em Hanói: ler os sinais",
+      "words": 1987,
+      "qa_score": 100,
+      "writer": "claude",
+      "mode": "review",
+      "type": "update",
+      "reason": "Correção editorial após revisão: factos e formulação ajustados às fontes.",
+      "date": "2026-10-14"
+    },
+    {
+      "id": "PT-0247",
+      "url": "/zonas-de-hanoi/mercado-de-flores-quang-an/",
+      "title": "Mercado de flores de Quảng An de mota: noite e estacionar",
+      "words": 1994,
+      "qa_score": 100,
+      "writer": "claude",
+      "mode": "review",
+      "type": "update",
+      "reason": "Correção editorial após revisão: factos e formulação ajustados às fontes.",
+      "date": "2026-10-14"
+    },
+    {
+      "id": "PT-0256",
+      "url": "/zonas-de-hanoi/terminais-de-autocarros/",
+      "title": "Terminais de autocarros de Hanói: Mỹ Đình, Giáp Bát e Gia Lâm",
+      "words": 1684,
+      "qa_score": 98,
+      "writer": "claude",
+      "mode": "review",
+      "type": "update",
+      "reason": "Correção editorial após revisão: factos e formulação ajustados às fontes.",
+      "date": "2026-10-14"
+    },
+    {
+      "id": "PT-0029",
+      "url": "/tipos-de-motas/como-conduzir-uma-semiautomatica/",
+      "title": "Como conduzir uma mota semiautomática: mudanças de pé",
+      "words": 2169,
+      "qa_score": 100,
+      "writer": "claude",
+      "mode": "review",
+      "type": "update",
+      "reason": "Correção editorial após revisão: factos e formulação ajustados às fontes.",
+      "date": "2026-10-14"
     }
   ]
 }

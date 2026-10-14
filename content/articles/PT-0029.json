@@ -73,7 +73,7 @@
       "h2": "Reduzir mudanças e parar",
       "body": [
         "A regra que o manual dá para subir de mudança vale também para descer: aliviar o acelerador antes de cada passagem. Em termos práticos, trave primeiro, desça uma mudança de cada vez e só depois volte ao acelerador. Não force várias mudanças de uma vez.",
-        "Para parar, use os dois travões ao mesmo tempo. Dois manuais de proprietário da Honda, de motas maiores do que as de aluguer, indicam que o travão da frente dá cerca de 70% da força de travagem e que a máxima eficácia se obtém com os dois em simultâneo. Se uma roda bloquear, o conselho é soltar os travões, manter a direção a direito e voltar a travar com mais suavidade. O guia sobre [como verificar os travões](/guia-de-aluguer/verificar-os-travoes/) trata do teste, e o dos [travões CBS e ABS](/tipos-de-motas/travoes-cbs-e-abs/) das scooters com travagem combinada.",
+        "Para parar, use os dois travões ao mesmo tempo. Dois manuais de proprietário da Honda, de motas maiores do que as de aluguer, indicam que o travão da frente dá cerca de 70% da força de travagem e que a máxima eficácia se obtém com os dois em simultâneo. Se a roda da frente bloquear, solte esse travão e volte a apertá-lo com suavidade. Se bloquear a de trás com a mota direita e a andar em linha reta, o manual oficial de condução de motas do Utah (EUA) aconselha a mantê-la travada até parar: soltá-la com a mota desalinhada pode fazê-la projetar o condutor. O guia sobre [como verificar os travões](/guia-de-aluguer/verificar-os-travoes/) trata do teste, e o dos [travões CBS e ABS](/tipos-de-motas/travoes-cbs-e-abs/) das scooters com travagem combinada.",
         {
           "note": "Segundo o manual da Wave 110, com a mota parada pode passar-se diretamente da 4.ª ao ponto morto; em andamento, o mecanismo de retorno impede-o. Na paragem em semáforo, a posição em que deixa a caixa é uma escolha sua: o que conta é saber em que mudança está antes de arrancar e não ter de procurar o ponto morto com o trânsito atrás de si.",
           "tone": "info",
@@ -242,9 +242,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 2135,
+    "words": 2169,
     "publish_mode": "review",
     "approved_at": "2026-10-14",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-14",
+        "reason": "Correção editorial após revisão: factos e formulação ajustados às fontes."
+      }
+    ]
   }
 }

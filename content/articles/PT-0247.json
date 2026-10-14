@@ -79,7 +79,7 @@
       ]
     },
     {
-      "h2": "A loja fecha às 21:00: combinar a mota antes de levantar",
+      "h2": "A loja fecha às {{closes}}: combinar a mota antes de levantar",
       "body": [
         "A loja está aberta {{hours}}, e o mercado só enche depois do fecho. A primeira pergunta de quem quer ir não é sobre flores, é sobre a mota: o que acontece à hora de devolução se a mota passar a noite consigo. Não sabemos como a loja trata esse caso e não o vamos prometer; pergunte, de preferência por escrito, pelos [contactos](/contactos/), antes de levantar a mota:",
         {
@@ -299,6 +299,11 @@
     "words": 1994,
     "publish_mode": "review",
     "approved_at": "2026-10-14",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-14",
+        "reason": "Correção editorial após revisão: factos e formulação ajustados às fontes."
+      }
+    ]
   }
 }
