@@ -83,7 +83,9 @@
       "h2": "Contactos oficiais e confirmação",
       "body": [
         {
-          "component": "contact-card",
+          "component": "contact-card"
+        },
+        {
           "note": "Antes de levantar a mota, confirme a tarifa da duração escolhida, a caução, os documentos e a entrega ou recolha."
         }
       ]
