@@ -47,7 +47,7 @@
         {
           "h3": "Thanh Niên e Lạc Long Quân"
         },
-        "A Thanh Niên é a estrada curta que passa entre o lago Trúc Bạch e o Lago Oeste, com o pagode Trấn Quốc. Não encontrámos proibições específicas para motas nem dados sobre o trânsito. Na Lạc Long Quân há, nas semanas antes do Tết, um mercado de pessegueiros que a imprensa descreve como o maior de Hanói, e onde o trânsito se complica: o ponto seguinte volta ao assunto."
+        "A Thanh Niên é a estrada curta que passa entre o lago Trúc Bạch e o Lago Oeste, onde fica o pagode Trấn Quốc. Não encontrámos proibições específicas para motas nem dados sobre o trânsito nesta rua, nem na Lạc Long Quân, pelo que o conselho é o habitual: siga a sinalização e observe antes de decidir."
       ]
     },
     {
@@ -57,11 +57,27 @@
         {
           "table": {
             "caption": "Regras de estacionamento em Hanói que encontrámos em 2026 e o que significam para quem tem mota",
-            "head": ["Regra ou dado", "O que diz a notícia", "O que isso quer dizer para si"],
+            "head": [
+              "Regra ou dado",
+              "O que diz a notícia",
+              "O que isso quer dizer para si"
+            ],
             "rows": [
-              ["Taxa de uso de passeios e leito da estrada (Nghị quyết 10/2026/NQ-HĐND, aprovada a 11 de maio de 2026, em vigor desde 21 de maio)", "Para estacionamento de motas e bicicletas, o máximo é 220 mil VND por m² e por mês", "É a taxa que o operador paga à cidade, não o preço do estacionamento. Não a confunda com o valor do talão"],
-              ["Cobrança eletrónica a partir de 1 de julho de 2026", "Os parques de automóveis têm de cobrar sem paragem; para as motas, a cidade pede aos pontos de estacionamento que usem tecnologia na gestão", "Pode haver parques com pagamento eletrónico ou com talão digital; os resumos não dão valores"],
-              ["Preços máximos de guarda de veículos (Decisão 44/2017/QĐ-UBND)", "A cidade fixa tetos por tipo de veículo, zona e modalidade", "Existe um teto, mas não confirmámos os valores atuais para motas: pergunte o preço e guarde o talão"]
+              [
+                "Taxa de uso de passeios e leito da estrada (Nghị quyết 10/2026/NQ-HĐND, aprovada a 11 de maio de 2026, em vigor desde 21 de maio)",
+                "Para estacionamento de motas e bicicletas, o máximo é 220 mil VND por m² e por mês",
+                "É a taxa que o operador paga à cidade, não o preço do estacionamento. Não a confunda com o valor do talão"
+              ],
+              [
+                "Cobrança eletrónica a partir de 1 de julho de 2026",
+                "Os parques de automóveis têm de cobrar sem paragem; para as motas, a cidade pede aos pontos de estacionamento que usem tecnologia na gestão",
+                "Pode haver parques com pagamento eletrónico ou com talão digital; os resumos não dão valores"
+              ],
+              [
+                "Preços máximos de guarda de veículos (Decisão 44/2017/QĐ-UBND)",
+                "A cidade fixa tetos por tipo de veículo, zona e modalidade",
+                "Existe um teto, mas não confirmámos os valores atuais para motas: pergunte o preço e guarde o talão"
+              ]
             ]
           }
         },
@@ -211,6 +227,14 @@
       "url": "https://caselaw.vn/van-ban-phap-luat/305048-quyet-dinh-44-2017-qd-ubnd-ve-gia-dich-vu-trong-giu-xe-dap-xe-may-xe-o-to-tren-dia-ban-thanh-pho-ha-noi",
       "accessed": "2026-10-13",
       "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "Notícia sobre a forma de cobrar o estacionamento em condomínios, em vietnamita (Phí gửi xe chung cư được thu theo quy định nào?)",
+      "publisher": "Luật sư Việt Nam",
+      "url": "https://lsvn.vn/phi-gui-xe-chung-cu-duoc-thu-theo-quy-dinh-nao-a174551.html",
+      "accessed": "2026-10-13",
+      "type": "news",
       "lang": "vi"
     },
     {

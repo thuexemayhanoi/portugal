@@ -21,7 +21,7 @@
   "intro": [
     "O mercado de flores de Quảng An só mostra o que vale depois de a loja de aluguer fechar. Segundo os guias vietnamitas, funciona de noite na rua Âu Cơ, em Tây Hồ, com flores que chegam de várias regiões, como Đà Lạt, o noroeste do país e Mộc Châu, em camiões que se concentram nas horas de maior movimento.",
     "Para quem tem uma mota alugada, a visita levanta problemas que não existem de dia: a hora de devolução, a condução entre camiões e, sobretudo, onde deixar a mota numa rua onde estacionar está proibido. É disso que este guia trata. As flores do Tết, nas aldeias de Nhật Tân e Tứ Liên, têm o seu próprio guia: [aldeias de flores de Nhật Tân e Tứ Liên](/zonas-de-hanoi/aldeias-de-flores-nhat-tan/).",
-    "Os dados vêm de guias de viagem e de notícias da imprensa vietnamita consultados a 13 de outubro de 2026. Os horários variam de fonte para fonte e não são oficiais; as restantes zonas da cidade estão em [Zonas de Hanói](/zonas-de-hanoi/)."
+    "Os dados vêm de guias de viagem e da imprensa vietnamita, consultados a 13 de outubro de 2026. Os horários variam de fonte para fonte e não são oficiais. Outras zonas da cidade estão em [Zonas de Hanói](/zonas-de-hanoi/)."
   ],
   "sections": [
     {
@@ -86,8 +86,7 @@
             "**Da 01:00 às 03:00:** é quando os visitantes dizem encontrar as flores mais frescas, e o auge começa. Também é quando a condução é mais exigente: menos luz, cansaço e mais veículos de carga.",
             "**Depois das 04:00:** os guias não descrevem o que resta nem a que horas as bancas fecham. Não planeie a visita para esta hora sem confirmar no local."
           ]
-        },
-        "A escolha da janela é conselho nosso e não uma regra das fontes: tem em conta o cansaço de quem conduz e a hora a que a mota tem de voltar à loja."
+        }
       ]
     },
     {
@@ -102,8 +101,8 @@
             "Se a loja não permitir, aceita que devolva a mota antes das {{closes}} e que eu vá de outra forma?"
           ]
         },
-        "O guia sobre [horas de levantamento e devolução](/precos/horas-de-levantamento-e-devolucao/) mostra o que perguntar sobre horários, e o de [atraso na devolução](/guia-de-aluguer/atraso-na-devolucao/) explica o que convém combinar antes, para não descobrir as condições depois.",
-        "Se a resposta for não, ou se preferir não conduzir de madrugada, o mercado também se visita sem a mota. Compare as opções em [mota alugada ou Grab](/precos/mota-alugada-ou-grab/) e em [mota alugada ou táxi](/precos/mota-alugada-ou-taxi/), e confirme que há carros disponíveis à hora do regresso."
+        "O guia sobre [horas de levantamento e devolução](/precos/horas-de-levantamento-e-devolucao/) mostra o que perguntar sobre horários, e o de [atraso na devolução](/guia-de-aluguer/atraso-na-devolucao/) o que combinar antes.",
+        "Se a resposta for não, ou se preferir não conduzir de madrugada, o mercado também se visita sem a mota: compare as opções em [mota alugada ou Grab](/precos/mota-alugada-ou-grab/) e [mota alugada ou táxi](/precos/mota-alugada-ou-taxi/)."
       ]
     },
     {
@@ -155,7 +154,7 @@
           "tone": "warn",
           "title": "Passeio e berma: fora de questão"
         },
-        "Uma mota mal estacionada arrisca mais do que a coima: veja o guia sobre [mota rebocada em Hanói](/precos/mota-rebocada-em-hanoi/). Leve o capacete consigo, ou pergunte ao parque se o guarda, e não deixe objetos de valor na mota."
+        "Leve o capacete consigo e não deixe objetos de valor na mota."
       ]
     },
     {
@@ -178,13 +177,6 @@
       ]
     },
     {
-      "h2": "Comprar flores e levá-las na mota",
-      "body": [
-        "Se quer comprar, pense no regresso antes de pensar no ramo. Um ramo grande tapa o campo de visão e apanha o vento, e na mota só deve ir o que se prende sem ocupar as mãos. É conselho nosso, e não uma regra: o guia sobre [bagagem numa scooter](/tipos-de-motas/bagagem-numa-scooter/) mostra onde há espaço e o que não deve ir pendurado no guiador.",
-        "Não encontrámos preços das flores nem regras de pagamento no mercado. Leve notas pequenas e pergunte o preço antes de escolher, em vez de contar com um valor de referência."
-      ]
-    },
-    {
       "h2": "Antes de sair: lista de verificação",
       "body": [
         {
@@ -198,7 +190,7 @@
             "Quem conduz não bebe nada, do princípio ao fim da noite."
           ]
         },
-        "Para um dia mais completo à volta do lago, veja a [volta ao Lago Oeste de mota](/zonas-de-hanoi/volta-ao-lago-oeste/), e para a noite fora do mercado, o guia do [passeio noturno de mota em Hanói](/rotas-e-mobilidade/hanoi-a-noite-de-mota/)."
+        "Para o resto do lago, veja a [volta ao Lago Oeste de mota](/zonas-de-hanoi/volta-ao-lago-oeste/) e o [passeio noturno de mota em Hanói](/rotas-e-mobilidade/hanoi-a-noite-de-mota/)."
       ]
     }
   ],
