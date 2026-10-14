@@ -115,7 +115,7 @@
         {
           "h3": "Onde parar"
         },
-        "Pare onde a mota possa ficar sem estorvar e sem risco de multa: um café com estacionamento, um parque com funcionário ou uma berma larga fora da via. O guia de [onde estacionar em Hanói](/guia-de-aluguer/onde-estacionar-em-hanoi/) lembra o que se perde por estacionar num sítio proibido. Se vai a um destino fora da cidade, marque as paragens no mapa antes de sair, em vez de decidir com sono."
+        "Pare onde a mota possa ficar sem estorvar e sem risco de multa: um café com estacionamento, um parque com funcionário ou uma berma larga fora da via. O guia de [onde estacionar em Hanói](/guia-de-aluguer/onde-estacionar-em-hanoi/) lembra o que se perde por estacionar num sítio proibido."
       ]
     },
     {
@@ -133,12 +133,7 @@
           ]
         },
         "Ao primeiro destes sinais, não espere pelo fim do trajeto. Encoste num sítio seguro, desligue o motor, saia da mota, estique braços e costas e beba água.",
-        "Se a dor for aguda, se persistir depois da pausa ou se vier acompanhada de tonturas, não insista em continuar. Este guia não é aconselhamento médico: procure ajuda de um profissional de saúde e deixe a mota estacionada. O guia dos [hospitais para estrangeiros em Hanói](/guia-de-aluguer/hospitais-para-estrangeiros/) lista onde pedir ajuda, e o dos [números de emergência](/guia-de-aluguer/numeros-de-emergencia/) tem os contactos para uma urgência.",
-        {
-          "note": "Com sono, não conte com a vontade para chegar. Se estiver longe de casa ou da loja, o melhor plano é parar, descansar e, se for preciso, regressar de outra forma. A secção sobre [voltar à noite sem conduzir](/rotas-e-mobilidade/voltar-a-noite-sem-conduzir/) explica as alternativas.",
-          "tone": "warn",
-          "title": "Cansaço e mota não combinam"
-        }
+        "Se a dor for aguda, se persistir depois da pausa ou se vier acompanhada de tonturas, não insista em continuar. Este guia não é aconselhamento médico: procure ajuda de um profissional de saúde e deixe a mota estacionada. O guia dos [hospitais para estrangeiros em Hanói](/guia-de-aluguer/hospitais-para-estrangeiros/) lista onde pedir ajuda, e o dos [números de emergência](/guia-de-aluguer/numeros-de-emergencia/) tem os contactos para uma urgência."
       ]
     },
     {
@@ -181,10 +176,6 @@
     {
       "q": "Posso ajustar sozinho o guiador ou o assento da mota alugada?",
       "a": "O melhor é perguntar à loja o que pode ser regulado e quem o faz. A mota não é sua e um parafuso mal apertado é um risco. Se a posição não lhe servir, pergunte primeiro se há outro modelo disponível."
-    },
-    {
-      "q": "Devo usar luvas numa scooter, mesmo para um passeio curto?",
-      "a": "A ANSR recomenda luvas, casaco com proteções, calças com certificação CE e botas mesmo em trajetos curtos. Em Hanói, escolha peças adequadas ao calor ou ao frio da estação."
     },
     {
       "q": "Sinto dor no pescoço e nos ombros ao fim de uma hora: é normal?",

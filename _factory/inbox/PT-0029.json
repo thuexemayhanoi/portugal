@@ -23,13 +23,13 @@
       "body": [
         "Numa scooter só se acelera e se trava. Numa semiautomática há uma terceira tarefa, escolher a mudança com o pé, mas sem manete: a Honda Wave de aluguer tem, segundo a Honda, uma caixa mecânica de quatro mudanças. A Yamaha indica também quatro velocidades para a Sirius FI.",
         "O que acontece dentro da transmissão quando o motor é ligado às rodas não é descrito nos excertos do manual da Wave que consultámos. Numa análise da Honda Super Cub C125, um modelo diferente da mesma família, a embraiagem engata com o acelerador e solta quando se carrega no pedal de mudanças, e mudar depressa «faz clunk». Não assuma que a Wave ou a Sirius se comportam exatamente assim; o que o manual da Wave confirma é a regra prática da secção seguinte: acelerador aliviado, pedal suave.",
-        "Se ainda não decidiu entre os dois tipos, o guia [scooter ou semiautomática](/tipos-de-motas/scooter-ou-semiautomatica/) compara-os com cenários concretos, e a página das [semiautomáticas](/tipos-de-motas/semiautomaticas/) reúne os modelos da loja. A {{brand}} tem a Wave a {{price.wave.day}} por dia e a Sirius a {{price.sirius.day}}, valores da tabela de referência verificada a {{pricing.verifiedAt}}."
+        "Se ainda não decidiu entre os dois tipos, o guia [scooter ou semiautomática](/tipos-de-motas/scooter-ou-semiautomatica/) compara-os com cenários concretos, e a página das [semiautomáticas](/tipos-de-motas/semiautomaticas/) reúne os modelos da loja e o guia dos [tipos de motas](/tipos-de-motas/) mostra as outras opções. A {{brand}} tem a Wave a {{price.wave.day}} por dia e a Sirius a {{price.sirius.day}}, valores da tabela de referência verificada a {{pricing.verifiedAt}}."
       ]
     },
     {
       "h2": "Antes de arrancar: posição, pés e ponto morto",
       "body": [
-        "Sente-se de modo a alcançar todos os comandos sem esticar o corpo. Os manuais de condução de motas de dois estados norte-americanos pedem que o condutor se sente suficientemente à frente para ter os braços ligeiramente fletidos nos punhos, use os braços para dirigir e não para se segurar, e mantenha os pés perto dos comandos. Numa semiautomática, isso inclui o pé esquerdo junto ao pedal de mudanças, sem o deixar pousado em cima dele.",
+        "Sente-se de modo a alcançar todos os comandos sem esticar o corpo. Os manuais de condução de motas de dois estados norte-americanos pedem que o condutor se sente suficientemente à frente para ter os braços ligeiramente fletidos nos punhos, use os braços para guiar a mota e não para se segurar, e mantenha os pés perto dos comandos. Numa semiautomática, isso inclui o pé esquerdo junto ao pedal de mudanças, sem o deixar pousado em cima dele.",
         "Calce sapatos fechados, com sola firme: um chinelo escapa-se do pedal. O guia do [equipamento de proteção](/guia-de-aluguer/equipamento-de-protecao/) explica o resto do que levar vestido.",
         {
           "h3": "A sequência de arranque da Wave 110"

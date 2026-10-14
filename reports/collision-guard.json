@@ -10,14 +10,14 @@
     "pending_review": 0.6
   },
   "counts": {
-    "ALLOW_CREATE": 62
+    "ALLOW_CREATE": 57
   },
   "results": [
     {
       "id": "PT-0006",
       "decision": "ALLOW_CREATE",
       "reasons": [
-        "semantic 0.54 with live /tipos-de-motas/yamaha-mio-em-hanoi/",
+        "semantic 0.55 with live /tipos-de-motas/yamaha-mio-em-hanoi/",
         "collision reviewed: distinct intent (guard_reviewed)"
       ],
       "live": {
@@ -29,13 +29,13 @@
         "semantic": {
           "id": "PT-0004",
           "url": "/tipos-de-motas/yamaha-mio-em-hanoi/",
-          "semantic": 0.54
+          "semantic": 0.55
         }
       },
       "pending": {
-        "id": "PT-0039",
-        "url": "/tipos-de-motas/honda-wave-ou-honda-click/",
-        "intent": 0.13
+        "id": "PT-0022",
+        "url": "/tipos-de-motas/onde-deixar-o-capacete/",
+        "intent": 0.08
       },
       "working_title": "Honda Click ou Yamaha Mio: duas scooters económicas comparadas",
       "has_draft": false
@@ -297,9 +297,9 @@
         }
       },
       "pending": {
-        "id": "PT-0039",
-        "url": "/tipos-de-motas/honda-wave-ou-honda-click/",
-        "intent": 0.13
+        "id": "PT-0170",
+        "url": "/guia-de-aluguer/fadiga-e-pausas/",
+        "intent": 0.08
       },
       "working_title": "Bagagem numa Honda Wave: bagageiro, mochilas e cintas elásticas",
       "has_draft": false
@@ -317,7 +317,7 @@
         "semantic": {
           "id": "PT-0233",
           "url": "/zonas-de-hanoi/ponte-long-bien/",
-          "semantic": 0.38
+          "semantic": 0.37
         }
       },
       "pending": {
@@ -396,9 +396,9 @@
         }
       },
       "pending": {
-        "id": "PT-0291",
-        "url": "/rotas-e-mobilidade/bicicleta-em-hanoi/",
-        "intent": 0.17
+        "id": "PT-0064",
+        "url": "/tipos-de-motas/seguranca-numa-mota-silenciosa/",
+        "intent": 0.11
       },
       "working_title": "Bicicleta elétrica em Hanói: quando é uma boa alternativa à mota",
       "has_draft": false
@@ -444,35 +444,11 @@
         }
       },
       "pending": {
-        "id": "PT-0039",
-        "url": "/tipos-de-motas/honda-wave-ou-honda-click/",
+        "id": "PT-0090",
+        "url": "/precos/pagar-em-dong-vietnamita/",
         "intent": 0
       },
       "working_title": "Alugar ou comprar uma mota em Hanói para uma estadia longa?",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0090",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0123",
-          "url": "/precos/autocarro-turistico-ou-mota/",
-          "intent": 0.09
-        },
-        "semantic": {
-          "id": "PT-0089",
-          "url": "/precos/caucao-em-dinheiro/",
-          "semantic": 0.26
-        }
-      },
-      "pending": {
-        "id": "PT-0267",
-        "url": "/rotas-e-mobilidade/roteiro-dos-mercados/",
-        "intent": 0.09
-      },
-      "working_title": "Pagar o aluguer em dong vietnamita: câmbio e notas a conhecer",
       "has_draft": false
     },
     {
@@ -488,7 +464,7 @@
         "semantic": {
           "id": "PT-0214",
           "url": "/guia-de-aluguer/perdeu-o-telemovel-durante-o-aluguer/",
-          "semantic": 0.16
+          "semantic": 0.15
         }
       },
       "pending": {
@@ -497,30 +473,6 @@
         "intent": 0.09
       },
       "working_title": "Cartões estrangeiros no Vietname: onde funcionam e o que preparar",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0106",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0067",
-          "url": "/precos/aluguer-semanal-de-mota/",
-          "intent": 0.25
-        },
-        "semantic": {
-          "id": "PT-0179",
-          "url": "/guia-de-aluguer/onde-estacionar-em-hanoi/",
-          "semantic": 0.37
-        }
-      },
-      "pending": {
-        "id": "PT-0186",
-        "url": "/guia-de-aluguer/ir-as-compras-de-mota/",
-        "intent": 0.13
-      },
-      "working_title": "Quanto custa estacionar uma mota em Hanói",
       "has_draft": false
     },
     {
@@ -540,8 +492,8 @@
         }
       },
       "pending": {
-        "id": "PT-0039",
-        "url": "/tipos-de-motas/honda-wave-ou-honda-click/",
+        "id": "PT-0090",
+        "url": "/precos/pagar-em-dong-vietnamita/",
         "intent": 0
       },
       "working_title": "Portagens e motas no Vietname: o que se paga e o que não se paga",
@@ -606,8 +558,8 @@
           "intent": 0.2
         },
         "semantic": {
-          "id": "PT-0151",
-          "url": "/guia-de-aluguer/checklist-de-inspecao/",
+          "id": "PT-0152",
+          "url": "/guia-de-aluguer/verificar-os-travoes/",
           "semantic": 0.11
         }
       },
@@ -656,7 +608,7 @@
         "semantic": {
           "id": "PT-0216",
           "url": "/zonas-de-hanoi/conduzir-no-bairro-antigo/",
-          "semantic": 0.27
+          "semantic": 0.28
         }
       },
       "pending": {
@@ -665,30 +617,6 @@
         "intent": 0.09
       },
       "working_title": "Peões e zonas pedonais: conduzir com cuidado nas ruas mais movimentadas",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0182",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0216",
-          "url": "/zonas-de-hanoi/conduzir-no-bairro-antigo/",
-          "intent": 0.15
-        },
-        "semantic": {
-          "id": "PT-0189",
-          "url": "/guia-de-aluguer/virar-a-esquerda/",
-          "semantic": 0.32
-        }
-      },
-      "pending": {
-        "id": "PT-0259",
-        "url": "/zonas-de-hanoi/centros-comerciais-de-mota/",
-        "intent": 0.09
-      },
-      "working_title": "Ruas de sentido único e proibições de viragem no centro",
       "has_draft": false
     },
     {
@@ -713,30 +641,6 @@
         "intent": 0.1
       },
       "working_title": "Guardar a mota no alojamento: entradas, garagens e regras dos prédios",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0186",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0225",
-          "url": "/zonas-de-hanoi/mercado-dong-xuan-de-mota/",
-          "intent": 0.17
-        },
-        "semantic": {
-          "id": "PT-0225",
-          "url": "/zonas-de-hanoi/mercado-dong-xuan-de-mota/",
-          "semantic": 0.28
-        }
-      },
-      "pending": {
-        "id": "PT-0247",
-        "url": "/zonas-de-hanoi/mercado-de-flores-quang-an/",
-        "intent": 0.2
-      },
-      "working_title": "Ir às compras de mota: mercados, supermercados e estacionamento",
       "has_draft": false
     },
     {
@@ -782,7 +686,7 @@
       "pending": {
         "id": "PT-0106",
         "url": "/precos/estacionamento-em-hanoi-preco/",
-        "intent": 0.13
+        "intent": 0.1
       },
       "working_title": "Atravessar a rua a pé em Hanói depois de estacionar",
       "has_draft": false
@@ -800,7 +704,7 @@
         "semantic": {
           "id": "PT-0233",
           "url": "/zonas-de-hanoi/ponte-long-bien/",
-          "semantic": 0.1
+          "semantic": 0.11
         }
       },
       "pending": {
@@ -824,7 +728,7 @@
         "semantic": {
           "id": "PT-0060",
           "url": "/tipos-de-motas/mota-eletrica-ou-gasolina/",
-          "semantic": 0.29
+          "semantic": 0.28
         }
       },
       "pending": {
@@ -838,10 +742,7 @@
     {
       "id": "PT-0211",
       "decision": "ALLOW_CREATE",
-      "reasons": [
-        "semantic 0.42 with live /guia-de-aluguer/onde-estacionar-em-hanoi/",
-        "collision reviewed: distinct intent (guard_reviewed)"
-      ],
+      "reasons": [],
       "live": {
         "intent": {
           "id": "PT-0179",
@@ -855,8 +756,8 @@
         }
       },
       "pending": {
-        "id": "PT-0259",
-        "url": "/zonas-de-hanoi/centros-comerciais-de-mota/",
+        "id": "PT-0106",
+        "url": "/precos/estacionamento-em-hanoi-preco/",
         "intent": 0.2
       },
       "working_title": "Perdeu a senha do parque de estacionamento: como levantar a mota",
@@ -903,9 +804,9 @@
         }
       },
       "pending": {
-        "id": "PT-0106",
-        "url": "/precos/estacionamento-em-hanoi-preco/",
-        "intent": 0.1
+        "id": "PT-0022",
+        "url": "/tipos-de-motas/onde-deixar-o-capacete/",
+        "intent": 0.09
       },
       "working_title": "Hotel no Bairro Antigo: onde guardar a mota durante a noite",
       "has_draft": false
@@ -947,7 +848,7 @@
         "semantic": {
           "id": "PT-0269",
           "url": "/rotas-e-mobilidade/roteiro-para-um-dia-de-chuva/",
-          "semantic": 0.33
+          "semantic": 0.32
         }
       },
       "pending": {
@@ -971,7 +872,7 @@
         "semantic": {
           "id": "PT-0231",
           "url": "/zonas-de-hanoi/aluguer-de-motas-em-long-bien/",
-          "semantic": 0.21
+          "semantic": 0.2
         }
       },
       "pending": {
@@ -1071,9 +972,9 @@
         }
       },
       "pending": {
-        "id": "PT-0106",
-        "url": "/precos/estacionamento-em-hanoi-preco/",
-        "intent": 0.1
+        "id": "PT-0121",
+        "url": "/precos/hanoi-ou-outras-cidades/",
+        "intent": 0.09
       },
       "working_title": "Tây Hồ para quem vive em Hanói: deslocações e estacionamento de mota",
       "has_draft": false
@@ -1118,13 +1019,13 @@
         "semantic": {
           "id": "PT-0225",
           "url": "/zonas-de-hanoi/mercado-dong-xuan-de-mota/",
-          "semantic": 0.23
+          "semantic": 0.22
         }
       },
       "pending": {
         "id": "PT-0186",
         "url": "/guia-de-aluguer/ir-as-compras-de-mota/",
-        "intent": 0.2
+        "intent": 0.15
       },
       "working_title": "Mercado noturno de flores de Quảng An: ir de mota e estacionar",
       "has_draft": false
@@ -1146,9 +1047,9 @@
         }
       },
       "pending": {
-        "id": "PT-0291",
-        "url": "/rotas-e-mobilidade/bicicleta-em-hanoi/",
-        "intent": 0.13
+        "id": "PT-0254",
+        "url": "/zonas-de-hanoi/estacao-ferroviaria-de-hanoi/",
+        "intent": 0.1
       },
       "working_title": "Lago Trúc Bạch de mota: percurso curto e estacionamento",
       "has_draft": false
@@ -1290,9 +1191,9 @@
         }
       },
       "pending": {
-        "id": "PT-0291",
-        "url": "/rotas-e-mobilidade/bicicleta-em-hanoi/",
-        "intent": 0.14
+        "id": "PT-0249",
+        "url": "/zonas-de-hanoi/lago-truc-bach/",
+        "intent": 0.1
       },
       "working_title": "Primeiro passeio de mota em Hanói: um percurso calmo para começar",
       "has_draft": false
@@ -1368,9 +1269,9 @@
         }
       },
       "pending": {
-        "id": "PT-0186",
-        "url": "/guia-de-aluguer/ir-as-compras-de-mota/",
-        "intent": 0.1
+        "id": "PT-0270",
+        "url": "/rotas-e-mobilidade/hanoi-com-criancas/",
+        "intent": 0.09
       },
       "working_title": "Compras de artesanato em Hanói de mota: seda, cerâmica e lacas",
       "has_draft": false
@@ -1392,9 +1293,9 @@
         }
       },
       "pending": {
-        "id": "PT-0186",
-        "url": "/guia-de-aluguer/ir-as-compras-de-mota/",
-        "intent": 0.09
+        "id": "PT-0033",
+        "url": "/tipos-de-motas/semiautomatica-no-transito/",
+        "intent": 0.08
       },
       "working_title": "Hanói ao amanhecer de mota: mercados, lagos e pequeno-almoço antes do trânsito",
       "has_draft": false
@@ -1421,30 +1322,6 @@
         "intent": 0.1
       },
       "working_title": "Trovoada a meio do caminho: o que fazer quando anda de mota em Hanói",
-      "has_draft": false
-    },
-    {
-      "id": "PT-0291",
-      "decision": "ALLOW_CREATE",
-      "reasons": [],
-      "live": {
-        "intent": {
-          "id": "PT-0062",
-          "url": "/tipos-de-motas/regras-bicicleta-eletrica-vietname/",
-          "intent": 0.1
-        },
-        "semantic": {
-          "id": "PT-0062",
-          "url": "/tipos-de-motas/regras-bicicleta-eletrica-vietname/",
-          "semantic": 0.42
-        }
-      },
-      "pending": {
-        "id": "PT-0057",
-        "url": "/tipos-de-motas/bicicleta-eletrica-em-hanoi/",
-        "intent": 0.17
-      },
-      "working_title": "Bicicleta em Hanói: bicicletas partilhadas e percursos",
       "has_draft": false
     },
     {
