@@ -6,7 +6,7 @@
   "description": "Como este site informativo da Nguyễn Tú trata os dados: sem formulários nem cookies de rastreio, alojamento no GitHub Pages e ligações a serviços externos.",
   "h1": "Política de privacidade",
   "eyebrow": "Informação legal",
-  "lead": "Saiba como funciona a privacidade em pt.rentbikehanoi.com, que informação pode circular quando visita o site e como contactar a Nguyễn Tú. Distinguimos a navegação neste site das conversas realizadas por telefone ou Zalo.",
+  "lead": "Saiba como funciona a privacidade em pt.rentbikehanoi.com, que informação pode circular quando visita o site e como contactar a Nguyễn Tú por telefone, Zalo ou WhatsApp.",
   "updated": "2026-10-14",
   "sections": [
     {
@@ -93,7 +93,13 @@
       "body": [
         "Esta política descreve as funcionalidades conhecidas do site na data apresentada no topo. Poderá ser revista se forem acrescentados formulários, sistemas de reservas, análise de audiência, integrações externas ou outros meios que modifiquem o tratamento de dados. As alterações editoriais devem ser acompanhadas por uma verificação técnica da implementação.",
         "Para saber quem publica os conteúdos, consulte [Sobre nós](/sobre-nos/). Para compreender o alcance dos preços, das descrições e das condições de utilização do website, leia [Termos e condições](/termos-e-condicoes/). Para solicitar esclarecimentos concretos, vá a [Contactos](/contactos/). O visitante também pode regressar à [página inicial](/) e explorar os guias sem criar uma conta.",
-        "A transparência depende de o texto corresponder ao funcionamento efetivo do site. Por isso, se observar uma funcionalidade que pareça recolher dados e não esteja descrita nesta política, agradecemos que o comunique para podermos verificar e, se necessário, atualizar a informação publicada."
+        "A transparência depende de o texto corresponder ao funcionamento efetivo do site. Por isso, se observar uma funcionalidade que pareça recolher dados e não esteja descrita nesta política, agradecemos que o comunique para podermos verificar e, se necessário, atualizar a informação publicada.",
+        {
+          "component": "contact-card"
+        },
+        {
+          "note": "A identificação oficial, a morada, os contactos e o horário vêm dos dados da loja. Para informações sobre valores de aluguer, consulte a [tabela de preços](/precos/); não envie documentação sensível sem combinar previamente o canal adequado."
+        }
       ]
     }
   ],

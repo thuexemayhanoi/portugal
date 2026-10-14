@@ -109,7 +109,9 @@
       "h2": "Contactos oficiais e confirmação",
       "body": [
         {
-          "component": "contact-card",
+          "component": "contact-card"
+        },
+        {
           "note": "Indique a categoria e as datas. A loja confirma o modelo disponível, o preço do período e as condições; motas e bicicletas elétricas são sob consulta."
         }
       ]

@@ -75,7 +75,9 @@
       "h2": "Contactos oficiais e confirmação",
       "body": [
         {
-          "component": "contact-card",
+          "component": "contact-card"
+        },
+        {
           "note": "Peça a tarifa por dia, semana ou mês para a unidade pretendida; o preço final e a disponibilidade são confirmados diretamente."
         }
       ]

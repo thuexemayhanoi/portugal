@@ -4,7 +4,7 @@
   "schemaType": "ContactPage",
   "navLabel": "Contactos",
   "title": "Contactos | Nguyễn Tú, aluguer de motas em Hanói",
-  "description": "Contacte a Nguyễn Tú por telefone ou Zalo: {{phone}}. Loja em {{street}}, Long Biên, Hanói, aberta {{hours}}.",
+  "description": "Contacte a Nguyễn Tú por telefone, Zalo ou WhatsApp: {{phone}}. Loja em {{street}}, Long Biên, Hanói, aberta {{hours}}.",
   "h1": "Contactos",
   "primaryKeyword": "contactos aluguer de motas hanói",
   "eyebrow": "Fale connosco",
@@ -30,7 +30,7 @@
     {
       "h2": "Telefone, Zalo e WhatsApp",
       "body": [
-        "O contacto oficial é **{{phone}}** (número local **{{phone.local}}**), para chamadas e mensagens por Zalo ou WhatsApp. Do estrangeiro, utilize o indicativo +84. Pode [ligar agora]({{tel}}), escrever no [Zalo]({{zalo}}) ou abrir o [WhatsApp](https://wa.me/84942467674).",
+        "O contacto oficial é **{{phone}}** (número local **{{phone.local}}**), para chamadas e mensagens por Zalo ou WhatsApp. Do estrangeiro, utilize o indicativo +84. Pode [ligar agora]({{tel}}), escrever no [Zalo]({{zalo}}) ou abrir o [WhatsApp]({{whatsapp}}).",
         "Por mensagem, indique as datas e o modelo pretendido para poder receber uma resposta clara por escrito. Disponibilidade, caução e condições são confirmadas pela loja."
       ]
     },
@@ -38,7 +38,7 @@
       "h2": "Preços de referência antes de contactar",
       "body": [
         "As referências diárias começam em {{price.wave.day}} para Honda Wave, Yamaha Sirius, Honda Click e Yamaha Mio; Honda Vision, Honda Air Blade e mota de 50 cc têm referência de {{price.vision.day}}/dia. Motas e bicicletas elétricas: **sob consulta**.",
-        "Os preços semanais e mensais são diferentes das diárias. Compare-os na [tabela de preços](/precos/); confirme o total, as datas, a caução e os serviços diretamente com a loja."
+        "Para a Honda Wave e a Yamaha Sirius, a referência semanal é {{price.wave.week}} e a mensal {{price.wave.month}}. A Honda Vision tem referência semanal {{price.vision.week}} e mensal {{price.vision.month}}. Para 50 cc, os períodos semanais e mensais são **sob consulta**, tal como os veículos elétricos. Consulte a [tabela completa](/precos/), indique as datas e confirme o valor final, a caução e a disponibilidade com a loja."
       ]
     },
     {

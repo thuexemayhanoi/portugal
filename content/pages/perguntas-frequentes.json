@@ -29,7 +29,7 @@
         {
           "id": "como-reservar",
           "q": "Como posso reservar uma mota?",
-          "a": "Ligue ou escreva no Zalo para o {{phone}} com as datas, o modelo pretendido e o número de pessoas. Este site não tem reservas nem pagamentos online: a disponibilidade e o preço final são sempre confirmados diretamente pela loja."
+          "a": "Ligue para [{{phone}}]({{tel}}) ou escreva no [Zalo]({{zalo}}) ou [WhatsApp]({{whatsapp}}) com as datas, a duração e o modelo pretendido. A loja é **{{name}}**, em {{address}}, com horário {{hours}}. O site não aceita reservas nem pagamentos online; a disponibilidade, o preço final e a caução são confirmados diretamente."
         },
         {
           "id": "antecedencia",
@@ -50,7 +50,7 @@
         {
           "id": "semana-mes",
           "q": "Há preços por semana e por mês?",
-          "a": "Sim, para vários modelos. A Honda Vision, por exemplo, tem uma referência de {{price.vision.week}} por semana e de {{price.vision.month}} por mês. Nas motas de 50 cc, as semanas e os meses são cotados caso a caso, e a bicicleta elétrica é sempre sob consulta."
+          "a": "Sim, há tarifas semanais e mensais publicadas para vários modelos: Honda Wave {{price.wave.week}} por semana e {{price.wave.month}} por mês; Honda Vision {{price.vision.week}} por semana e {{price.vision.month}} por mês. Nas 50 cc, as semanas e os meses são sob consulta; motas e bicicletas elétricas também não têm preço fixo publicado. Consulte os [preços oficiais de referência](/precos/) e confirme com a loja."
         },
         {
           "id": "incluido",
