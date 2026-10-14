@@ -104,7 +104,9 @@
         "Para esclarecimentos, contacte diretamente **{{name}}** pelo [telefone]({{tel}}) **{{phone}}**, [Zalo]({{zalo}}) ou [WhatsApp]({{whatsapp}}). O horário indicado é **{{hours.display}}** e a morada é **{{address}}**. Se a pergunta disser respeito a uma proposta, inclua as datas e a categoria de veículo para facilitar a resposta.",
         "Consulte ainda [Sobre nós](/sobre-nos/) para identificar a loja, a [Política de privacidade](/politica-de-privacidade/) para conhecer os aspetos relacionados com dados e serviços externos, a página [Contactos](/contactos/) para falar com a loja ou a [página inicial](/) para voltar aos restantes guias. As três páginas institucionais estão ligadas entre si para facilitar a consulta.",
         {
-          "component": "contact-card",
+          "component": "contact-card"
+        },
+        {
           "note": "Para o preço do veículo por dia, semana ou mês, consulte a [tabela de referência](/precos/). Os valores finais, a caução, os documentos e a disponibilidade dependem de confirmação com a loja."
         }
       ]
