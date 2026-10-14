@@ -25,11 +25,27 @@
         {
           "table": {
             "caption": "Três níveis de urgência (proposta deste guia)",
-            "head": ["Nível", "O que fazer", "Exemplos"],
+            "head": [
+              "Nível",
+              "O que fazer",
+              "Exemplos"
+            ],
             "rows": [
-              ["Parar já", "Abrande, sinalize, encoste no primeiro sítio seguro e desligue o motor", "Fumo, cheiro a gasolina ou a queimado, travão mole ou que não solta, direção «pesada» ou traseira a oscilar, luz de injeção a piscar"],
-              ["Parar logo que possível", "Reduza o ritmo, procure um sítio seguro e ouça com o motor desligado", "Ruído metálico ou raspar novo, vibração que não havia, perda de força súbita"],
-              ["Avisar hoje", "Mensagem à loja com fotografia e a descrição do que notou", "Luz de painel que acende e apaga, ruído leve novo, comportamento ligeiramente diferente"]
+              [
+                "Parar já",
+                "Abrande, sinalize, encoste no primeiro sítio seguro e desligue o motor",
+                "Fumo, cheiro a gasolina ou a queimado, travão mole ou que não solta, direção «pesada» ou traseira a oscilar, luz de injeção a piscar"
+              ],
+              [
+                "Parar logo que possível",
+                "Reduza o ritmo, procure um sítio seguro e ouça com o motor desligado",
+                "Ruído metálico ou raspar novo, vibração que não havia, perda de força súbita"
+              ],
+              [
+                "Avisar hoje",
+                "Mensagem à loja com fotografia e a descrição do que notou",
+                "Luz de painel que acende e apaga, ruído leve novo, comportamento ligeiramente diferente"
+              ]
             ]
           }
         },
@@ -60,7 +76,7 @@
             }
           ]
         },
-        "Com um pneu a esvaziar em andamento, os manuais oficiais do Oregon e da Geórgia (EUA) descrevem a reação: segurar bem o guiador, aliviar o acelerador, manter a trajetória a direito, travar gradualmente com o travão da roda que não está vazia, se tiver a certeza de qual é, e encostar. O guia sobre [furo na mota alugada](/guia-de-aluguer/furo-na-mota-alugada/) desenvolve o que fazer a seguir."
+        "Com um pneu a esvaziar em andamento, os manuais oficiais do Oregon e da Geórgia (EUA) descrevem a reação. Segure bem o guiador, alivie o acelerador e mantenha a trajetória a direito. Trave gradualmente com o travão da roda que não está vazia, se tiver a certeza de qual é, e encoste. O guia sobre [furo na mota alugada](/guia-de-aluguer/furo-na-mota-alugada/) desenvolve o que fazer a seguir."
       ]
     },
     {
@@ -70,15 +86,47 @@
         {
           "table": {
             "caption": "Sinais para parar já e o que dizem as fontes",
-            "head": ["Sinal", "O que pode indicar", "Fonte e limites"],
+            "head": [
+              "Sinal",
+              "O que pode indicar",
+              "Fonte e limites"
+            ],
             "rows": [
-              ["Direção «pesada» à frente", "Pneu da frente a esvaziar", "Manuais oficiais do Oregon e da Geórgia"],
-              ["Traseira a oscilar de um lado para o outro", "Pneu de trás a esvaziar", "Os mesmos manuais"],
-              ["Mota «pesada», não ganha velocidade, por vezes com fumo", "Travão preso", "Artigo vietnamita sobre travões, sobretudo de automóveis"],
-              ["Comando do travão «esponjoso» ou que não chega a travar", "Possível ar no circuito de travagem", "Lista de inspeção T-CLOCS, de uma base militar dos EUA: o comando deve ter bom toque, não ficar preso nem «mole»"],
-              ["Cheiro a gasolina", "Possível fuga de combustível", "Artigos vietnamitas sobre automóveis"],
-              ["Cheiro a queimado persistente", "Muitas vezes, travões sobreaquecidos", "Artigos vietnamitas sobre automóveis"],
-              ["Luz de injeção a piscar", "Falha no sistema do motor", "Manuais Honda de outro modelo; confirme com a loja"]
+              [
+                "Direção «pesada» à frente",
+                "Pneu da frente a esvaziar",
+                "Manuais oficiais do Oregon e da Geórgia"
+              ],
+              [
+                "Traseira a oscilar de um lado para o outro",
+                "Pneu de trás a esvaziar",
+                "Os mesmos manuais"
+              ],
+              [
+                "Mota «pesada», não ganha velocidade, por vezes com fumo",
+                "Travão preso",
+                "Artigo vietnamita sobre travões, sobretudo de automóveis"
+              ],
+              [
+                "Comando do travão «esponjoso» ou que não chega a travar",
+                "Possível ar no circuito de travagem",
+                "Lista de inspeção T-CLOCS, de uma base militar dos EUA: o comando deve ter bom toque, não ficar preso nem «mole»"
+              ],
+              [
+                "Cheiro a gasolina",
+                "Possível fuga de combustível",
+                "Artigos vietnamitas sobre automóveis"
+              ],
+              [
+                "Cheiro a queimado persistente",
+                "Muitas vezes, travões sobreaquecidos",
+                "Artigos vietnamitas sobre automóveis"
+              ],
+              [
+                "Luz de injeção a piscar",
+                "Falha no sistema do motor",
+                "Manuais Honda de outro modelo; confirme com a loja"
+              ]
             ]
           }
         },
@@ -92,11 +140,11 @@
         {
           "ul": [
             "**Gasolina.** Indica uma possível fuga de combustível, e a recomendação é parar e verificar de imediato. Não fume, não acenda lume e afaste-se da mota. Se vir um jorro, uma poça a crescer ou chamas, saia de perto e peça ajuda aos bombeiros (114) antes de ligar à loja.",
-            "**Queimado.** Vem muitas vezes dos travões: travar muito, durante muito tempo ou bruscamente sobreaquece-os, e se continuar o fluido ferve e pode haver fumo. Numa descida longa, como as das saídas de Hanói para as montanhas, convém abrandar com antecedência e parar para os deixar arrefecer.",
+            "**Queimado.** Vem muitas vezes dos travões: travar muito, durante muito tempo ou bruscamente sobreaquece-os, e se continuar o fluido ferve e pode haver fumo. Numa descida longa, convém abrandar com antecedência e parar para os deixar arrefecer.",
             "**Líquido de refrigeração.** O risco é o sobreaquecimento e a paragem súbita do motor. Encoste, espere que arrefeça e nunca abra o circuito quente, porque a água a ferver pode queimar. Nem todas as motas têm refrigeração líquida: pergunte à loja se a sua tem e onde se vê o aviso de temperatura."
           ]
         },
-        "Mesmo sem uma fonte que descreva o que a Honda recomenda para uma luz de temperatura da água, o princípio de desligar e deixar arrefecer mantém-se. Não improvise mais do que isso."
+        "Não encontrámos fonte da Honda sobre a luz de temperatura da água. O princípio de desligar e deixar arrefecer mantém-se, e não convém improvisar mais do que isso."
       ]
     },
     {
@@ -117,7 +165,7 @@
             "**A piscar:** pare, desligue o motor, ponha a ignição em ON sem o motor a trabalhar e veja a luz; se continuar a piscar, o manual manda reiniciar e levar a mota à oficina."
           ]
         },
-        "Esse procedimento foi escrito para o dono de uma mota. Numa mota alugada, ligue primeiro à loja e não repita arranques sem a sua indicação. Para a luz de temperatura, o travão ou o ABS, não há fonte com o mesmo nível de detalhe: pergunte na entrega, como explica o guia [receber a mota](/guia-de-aluguer/receber-a-mota/)."
+        "Esse procedimento foi escrito para o dono de uma mota. A Honda Việt Nam, nas perguntas frequentes, também manda levar a mota a uma loja Honda autorizada quando a luz acende. Numa mota alugada, ligue primeiro à loja e não repita arranques sem a sua indicação. Para a luz de temperatura, o travão ou o ABS, não há fonte com o mesmo detalhe: pergunte na entrega, como explica o guia [receber a mota](/guia-de-aluguer/receber-a-mota/)."
       ]
     },
     {
@@ -175,6 +223,14 @@
       "accessed": "2026-10-14",
       "type": "manufacturer",
       "lang": "en"
+    },
+    {
+      "title": "Perguntas frequentes da Honda Việt Nam sobre o uso da mota (em vietnamita)",
+      "publisher": "Honda Việt Nam",
+      "url": "https://www.honda.com.vn/cau-hoi-thuong-gap?category=san-pham&category_child=tu-van-su-dung-xe-may",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
     },
     {
       "title": "Section 7 — Oregon Motorcycle & Moped Manual (online)",
