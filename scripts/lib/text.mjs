@@ -25,6 +25,7 @@ export function buildTokens(data) {
     closes: b.hours.closes,
     maps: b.maps,
     zalo: b.zalo.url,
+    whatsapp: b.whatsapp.enabled && b.whatsapp.verified ? b.whatsapp.url : '',
     website: b.website,
     byline: data.editorial.byline,
     year: String(data.site.copyrightYear),
