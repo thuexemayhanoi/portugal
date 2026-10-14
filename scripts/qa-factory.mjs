@@ -14,6 +14,7 @@ import { loadModel } from './lib/model.mjs';
 import { buildTokens, inline, plain, blocksToText } from './lib/text.mjs';
 import { findBrazilianisms, findRiskyClaims, findStyleIssues, findForeignText, readability } from './lib/language.mjs';
 import { intentFingerprint, jaccard } from './lib/intent.mjs';
+import { bodyText, pageText, shingles, OVERLAP_THRESHOLDS } from './lib/overlap.mjs';
 
 const BLOCK_KEYS = new Set(['p', 'h3', 'ul', 'ol', 'checklist', 'steps', 'dl', 'table', 'note', 'component']);
 const PHONE_LITERAL = /(?:\+?84[\s.]?)?0?942[\s.]?467[\s.]?674/;
@@ -51,11 +52,19 @@ export function createValidator() {
     return set;
   };
   const ctxFor = (where, links = []) => ({ tokens, where, sources: model.sources, components: {}, usedIds: new Set(), headings: [], onInternalLink: (h) => links.push(h) });
+  // Body text with tokens resolved, for the matrix-equivalent overlap (3-word shingles).
+  const txt = (s) => {
+    try {
+      return plain(String(s ?? ''), ctxFor('overlap'));
+    } catch {
+      return String(s ?? '');
+    }
+  };
   for (const p of model.pages) {
     if (p.kind === 'page') {
       const c = ctxFor(p.source);
       const text = [...(p.sections || []).map((s) => `${plain(s.h2, c)} ${blocksToText(s.body, c)}`), ...(p.faq || []).map((f) => `${plain(f.q, c)} ${plain(f.a, c)}`)].join(' ');
-      corpus.push({ id: p.url, set: shingleOf(text), title: p.title, h1: p.h1, description: p.description, intent: intentFingerprint({ primaryKeyword: p.primaryKeyword || '', title: p.title, h1: p.h1 }), keyword: normalize(p.primaryKeyword || ''), answer: trigrams(plain(p.answer || p.lead || '', c)) });
+      corpus.push({ id: p.url, set: shingleOf(text), body: shingles(pageText(p, txt)), title: p.title, h1: p.h1, description: p.description, intent: intentFingerprint({ primaryKeyword: p.primaryKeyword || '', title: p.title, h1: p.h1 }), keyword: normalize(p.primaryKeyword || ''), answer: trigrams(plain(p.answer || p.lead || '', c)) });
     }
   }
   const articleText = (a, c) =>
@@ -67,7 +76,7 @@ export function createValidator() {
     ].join('\n');
   for (const a of model.articles) {
     const t = topics.get(a.id);
-    corpus.push({ id: a.id, set: shingleOf(articleText(a.article, ctxFor(a.source))), title: a.title, h1: a.h1, description: a.description, intent: intentFingerprint({ primaryKeyword: t?.primary_keyword || '', title: a.title, h1: a.h1 }), keyword: normalize(t?.primary_keyword || ''), answer: trigrams(plain(a.article.summary || '', ctxFor(a.source))) });
+    corpus.push({ id: a.id, set: shingleOf(articleText(a.article, ctxFor(a.source))), body: shingles(bodyText(a.article, txt)), title: a.title, h1: a.h1, description: a.description, intent: intentFingerprint({ primaryKeyword: t?.primary_keyword || '', title: a.title, h1: a.h1 }), keyword: normalize(t?.primary_keyword || ''), answer: trigrams(plain(a.article.summary || '', ctxFor(a.source))) });
   }
 
   function validateArticle(draft, { file = 'draft', batchUrls = new Set(), allowPublished = false, peers = [] } = {}) {
@@ -357,6 +366,18 @@ export function createValidator() {
     stats.max_similarity = Number(worst.score.toFixed(3));
     if (worst.score > config.similarity.error) E(`near-duplicate of ${worst.id} (similarity ${worst.score.toFixed(2)})`);
     else if (worst.score > config.similarity.warning) W(`high overlap with ${worst.id} (similarity ${worst.score.toFixed(2)})`);
+    // Same measure as the SEO matrix and the content audit: repeated generic passages (parking,
+    // bridge status, low-emission zone…) make two URLs compete even when they are not copies.
+    const body = shingles(bodyText(draft, txt));
+    let worstBody = { id: null, score: 0 };
+    for (const other of corpus) {
+      if (other.id === draft.id || !body.size || !other.body?.size) continue;
+      const score = jaccard(body, other.body);
+      if (score > worstBody.score) worstBody = { id: other.id, score };
+    }
+    stats.content_overlap = Number(worstBody.score.toFixed(3));
+    if (worstBody.score >= OVERLAP_THRESHOLDS.high) E(`content overlap ${worstBody.score.toFixed(2)} with ${worstBody.id}: rewrite the shared passages in your own words and link to the reference guide (HIGH in the SEO matrix)`);
+    else if (worstBody.score >= OVERLAP_THRESHOLDS.medium) W(`content overlap ${worstBody.score.toFixed(2)} with ${worstBody.id}: repeated passages, prefer a sentence of your own plus a link (MEDIUM in the SEO matrix)`);
 
     stats.score = Math.max(0, 100 - errors.length * 10 - warnings.length * 2);
     return { errors, warnings, stats };

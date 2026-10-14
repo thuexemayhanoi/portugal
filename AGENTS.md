@@ -68,6 +68,8 @@ node scripts/plan.mjs --stats # thống kê ma trận 300 bài
 node scripts/factory.mjs status
 node scripts/audit-live.mjs   # audit site thật: HTTPS, robots, sitemap, canonical, index, schema/NAP, link, 404
 node scripts/seo-data.mjs     # Search Console / Bing theo nhóm từ khóa (cần secret, xem docs/OWNER-ACTIONS.md)
+node scripts/seo-matrix.mjs   # SEO Master Matrix: P0/P1/P2 cho từng URL → docs/audit/ (thêm --check: không ghi file, lỗi nếu còn P0)
+node scripts/audit-content.mjs # inventory, cannibalization, coverage, entities, internal links → docs/audit/
 ```
 
 ---
@@ -115,7 +117,7 @@ data/writer-queue.json ──► writer viết PT-XXXX.json ──► _factory/i
 - Lệnh: `status`, `refresh-queue`, `process`, `approve PT-… [PT-…]`, `reject PT-… "lý do"`, `write` (Claude, tùy chọn).
 - Trên GitHub: **Actions → Article Factory → Run workflow**, chọn action (status/process/approve/reject/…), nhập IDs. Push bản nháp vào `_factory/inbox/` trên `main` cũng tự kích hoạt `process`.
 - Writer bên ngoài (người hoặc AI): làm đúng `factory/WRITER-CONTRACT.md` + `factory/article.schema.json`.
-- QA bài viết còn kiểm tra: **trùng search intent** với trang đã đăng và các bài cùng lô (≥ 0,6 thì loại), **đối chiếu nguồn** (nội dung luật/phạt phải có nguồn luật hoặc chính thức, nguồn cũ thì cảnh báo hoặc báo lỗi), **chất lượng pt-PT** (pt-BR, Hanói/Vietname, văn bản tiếng Tây Ban Nha/Anh hoặc thiếu dấu = dấu hiệu sao chép/dịch máy).
+- QA bài viết còn kiểm tra: **trùng search intent** với trang đã đăng và các bài cùng lô (≥ 0,6 thì loại), **đối chiếu nguồn** (nội dung luật/phạt phải có nguồn luật hoặc chính thức, nguồn cũ thì cảnh báo hoặc báo lỗi), **trùng văn bản với bài đã đăng** theo cùng phép đo của SEO Matrix (cụm 3 từ: ≥ 0,12 cảnh báo, ≥ 0,20 loại — viết lại đoạn chung bằng lời riêng và link tới bài hướng dẫn chính), **chất lượng pt-PT** (pt-BR, Hanói/Vietname, văn bản tiếng Tây Ban Nha/Anh hoặc thiếu dấu = dấu hiệu sao chép/dịch máy).
 - **Nhịp đăng:** tối đa `publishing.max_new_per_7_days` bài mới mỗi 7 ngày; quá mức thì `approve` trả `PACE_LIMIT`. Từ 13/10/2026 chủ site đã tắt giới hạn (`null`) để viết liên tục tới khi đủ kế hoạch; đặt lại một số (vd. 10) để giới hạn.
 - **Sửa bài đã đăng:** bản nháp cùng `id`/`slug` + `"revision": { "reason": "…" }` → giữ URL và ngày đăng gốc, cập nhật `date_modified`, ghi `editorial.revisions`.
 
@@ -137,7 +139,7 @@ Key không bao giờ được ghi vào repo hay log; SDK `@anthropic-ai/sdk` (ph
 
 ## 7. CI/CD
 
-- `.github/workflows/site-qa.yml` (PR + push main): syntax, unit test, `build --check`, `plan --check`, `qa-site`, `qa-factory --published`.
+- `.github/workflows/site-qa.yml` (PR + push main): syntax, unit test, `build --check`, `plan --check`, `qa-site`, `qa-factory --published`, `seo-matrix --check` (không URL nào còn lỗi P0).
 - `.github/workflows/seo-monitor.yml` (**SEO Audit & Monitoring**, độc lập với factory, chỉ đọc): sau mỗi push vào `main` (chờ deploy xong), sau mỗi lần factory đăng bài, và thứ Hai hằng tuần. Việc chạy: `audit-live` trên domain thật, IndexNow cho các trang thay đổi, Lighthouse mobile (theo tuần/thủ công), Search Console/Bing khi có secret. Kết quả ở Summary của bản chạy + artifact. Bản chạy đỏ = site thật có lỗi.
 - `.github/workflows/article-factory.yml`: factory (thủ công / push inbox / lịch). Commit bằng `pt-factory-bot`, dừng an toàn khi conflict. Lịch hằng ngày chạy `process`: inbox trống hoặc factory `PAUSED` → không ghi file nào, không tạo commit. Chỉ chạy trên `main`; sau khi push, workflow gọi API yêu cầu build GitHub Pages (push bằng `GITHUB_TOKEN` có thể không tự kích hoạt build).
 - GitHub Pages tự deploy khi `main` thay đổi (workflow động `pages-build-deployment`).

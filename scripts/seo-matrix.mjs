@@ -2,6 +2,7 @@
 // SEO Master Matrix: one row per generated URL, scored from the built HTML, the sitemap,
 // llms.txt and the content model. Read-only: it changes nothing in the site.
 //   node scripts/seo-matrix.mjs            → docs/audit/seo-master-matrix.csv + seo-matrix-summary.json
+//   node scripts/seo-matrix.mjs --check    → writes nothing; exit 1 if any URL has a P0 issue (CI gate)
 // Priorities: P0 = breaks indexing, correctness or trust (fix now); P1 = clear SEO loss
 // (fix in the next batch); P2 = improvement. Only measured facts: no search volumes, rankings,
 // Search Console or field Core Web Vitals (not connected), and the report says so.
@@ -14,6 +15,10 @@ import { bodyText, pageText, overlapPairs } from './lib/overlap.mjs';
 
 const SITE = 'https://pt.rentbikehanoi.com';
 const OUT = 'docs/audit';
+const CHECK = process.argv.includes('--check');
+const write = (file, content) => {
+  if (!CHECK) fs.writeFileSync(rel(`${OUT}/${file}`), content);
+};
 const model = loadModel();
 const topicById = new Map(model.plan.topics.map((t) => [t.id, t]));
 
@@ -278,12 +283,12 @@ const money = CLUSTERS.map((c) => {
     competing_titles: rivals
   };
 });
-fs.writeFileSync(rel(`${OUT}/money-keywords.csv`), csv([Object.keys(money[0]), ...money.map((m) => Object.values(m).map((v) => (Array.isArray(v) ? v.join(' ') : v)))]));
+write('money-keywords.csv', csv([Object.keys(money[0]), ...money.map((m) => Object.values(m).map((v) => (Array.isArray(v) ? v.join(' ') : v)))]));
 
 const order = { P0: 0, P1: 1, P2: 2, OK: 3 };
 rows.sort((a, b) => order[a.priority] - order[b.priority] || a.url.localeCompare(b.url));
 const cols = Object.keys(rows[0]);
-fs.writeFileSync(rel(`${OUT}/seo-master-matrix.csv`), csv([cols, ...rows.map((r) => cols.map((c) => r[c]))]));
+write('seo-master-matrix.csv', csv([cols, ...rows.map((r) => cols.map((c) => r[c]))]));
 
 const count = (k) => rows.filter((r) => r.priority === k).length;
 const issueCounts = {};
@@ -309,6 +314,10 @@ const summary = {
     'Estado HTTP do site real (workflow SEO Monitor / scripts/audit-live.mjs)'
   ]
 };
-fs.writeFileSync(rel(`${OUT}/seo-matrix-summary.json`), JSON.stringify(summary, null, 2) + '\n');
-console.log(`SEO matrix: ${rows.length} URLs ${JSON.stringify(summary.priority)} → ${OUT}/seo-master-matrix.csv`);
+write('seo-matrix-summary.json', JSON.stringify(summary, null, 2) + '\n');
+console.log(`SEO matrix: ${rows.length} URLs ${JSON.stringify(summary.priority)}${CHECK ? '' : ` → ${OUT}/seo-master-matrix.csv`}`);
 for (const [k, n] of Object.entries(summary.issues)) console.log(`  ${n}× ${k}`);
+if (CHECK) {
+  for (const r of rows.filter((r) => r.priority === 'P0')) console.error(`P0 ${r.url}: ${r.p0}`);
+  if (summary.priority.P0) process.exit(1);
+}
