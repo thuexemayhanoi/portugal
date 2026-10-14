@@ -38,7 +38,7 @@ jobs:
           git config user.name "pt-bubbles-qa-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -u
-          git add assets/chat/search-index.json
+          git add assets/chat/search-index.json assets/js/business-config.js assets/js/assistant.js assets/js/pt-assistant-adapter.js assets/js/floating.js
           if git diff --cached --quiet; then
             echo "Nothing to commit"
             exit 0
