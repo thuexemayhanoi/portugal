@@ -62,12 +62,12 @@
     {
       "h2": "Escolher a duração: uma semana de ensaio antes do mês",
       "body": [
-        "Quem chega para uma estadia longa raramente sabe, no primeiro dia, quantas vezes vai usar a mota. Uma forma prudente de começar é alugar uma semana como ensaio: no fim, já sabe se a mota entrou na rotina ou se ficou parada à porta.",
+        "Quem chega para uma estadia longa raramente sabe, no primeiro dia, quantas vezes vai usar a mota. Uma forma prudente de começar é alugar uma semana como ensaio: no fim, já sabe se a mota entrou na rotina ou se ficou parada à porta. Se [aterra à noite](/precos/chegada-a-noite-a-hanoi/), levante-a na manhã seguinte.",
         {
           "steps": [
             {
               "title": "Alugue a primeira semana",
-              "text": "Escolha o modelo que pensa manter. Numa Honda Vision, a referência é de {{price.vision.week}} por semana; numa Honda Click, de {{price.click.week}}. Se aterra depois do fecho da loja, deixe o levantamento combinado para a manhã seguinte, como explica o guia sobre [chegar a Hanói à noite](/precos/chegada-a-noite-a-hanoi/)."
+              "text": "Escolha o modelo que pensa manter. Numa Honda Vision, a referência é de {{price.vision.week}} por semana; numa Honda Click, de {{price.click.week}}."
             },
             {
               "title": "Registe a rotina",

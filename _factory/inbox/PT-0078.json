@@ -1,0 +1,265 @@
+{
+  "contract_version": 1,
+  "id": "PT-0078",
+  "slug": "chegada-a-noite-a-hanoi",
+  "title": "Chegar a Hanói à noite: quando e como levantar a mota",
+  "description": "Aterra em Hanói à noite e já tem mota reservada? Como ir para o alojamento, onde dormir, a que horas levantar a mota e o que combinar antes com a loja.",
+  "h1": "Aterrar depois do fecho da loja: a primeira noite em Hanói e o levantamento da mota na manhã seguinte",
+  "summary": "Se chega a Hanói à noite, não planeie levantar a mota no próprio dia: a loja está aberta {{hours}}, e um levantamento fora deste horário só acontece se for combinado antes. Siga do aeroporto para o alojamento de táxi, por aplicação ou, até cerca das 22:00, de autocarro, e deixe por escrito o levantamento para a manhã seguinte, a partir das {{opens}}.",
+  "key_points": [
+    "A loja abre às {{opens}} e fecha às {{closes}}: com uma chegada noturna, o levantamento passa para a manhã seguinte.",
+    "À noite, do aeroporto para o alojamento, as opções são o táxi, as aplicações de transporte e, até cerca das 22:00, o autocarro 86.",
+    "Escolha o alojamento da primeira noite a pensar no levantamento: perto da loja, em Long Biên, ou no centro, com entrega combinada.",
+    "Deixe escrito, antes de embarcar, a data e a hora do levantamento e como se conta o primeiro dia de aluguer.",
+    "Tenha dados móveis à chegada: registar um cartão SIM vietnamita exige passaporte e verificação facial."
+  ],
+  "intro": [
+    "Aterrar em Hanói ao fim do dia ou já de noite muda o plano do aluguer. A loja {{brand}}, em {{area}}, trabalha {{hours}}, e entre o avião, o controlo de fronteira, a bagagem e o trajeto até à cidade, uma chegada noturna raramente deixa tempo para levantar a mota antes do fecho.",
+    "Este guia trata de uma chegada à noite prevista desde a reserva. Se o problema é um voo que atrasou, o guia sobre [voo atrasado e reserva da mota](/precos/alterar-ou-cancelar-a-reserva/) explica como alterar o que estava combinado. Aqui, o objetivo é organizar a primeira noite e a primeira manhã: como chegar ao alojamento, onde dormir, a que horas levantar a mota e o que acertar antes de embarcar."
+  ],
+  "sections": [
+    {
+      "h2": "O horário da loja e o que significa para uma chegada noturna",
+      "body": [
+        "A loja está aberta {{hours}}, na hora local do Vietname (UTC+7). Levantar ou devolver a mota fora deste horário só é possível se a loja o confirmar antes, como indicam as [perguntas frequentes](/perguntas-frequentes/). Se a chegada calhar no Tết ou noutro feriado, confirme também o horário desses dias: o guia sobre [alugar mota no Tết e noutros feriados](/precos/alugar-mota-no-tet/) diz o que perguntar. Conforme a hora a que aterra, o plano muda:",
+        {
+          "table": {
+            "caption": "Hora de aterragem em Nội Bài e o plano para a mota",
+            "head": [
+              "Aterragem",
+              "O que é realista",
+              "O que combinar"
+            ],
+            "rows": [
+              [
+                "Ao fim da tarde, com várias horas de margem até às {{closes}}",
+                "Chegar à loja antes do fecho é possível, mas o primeiro percurso será feito cansado e, muitas vezes, já de noite",
+                "Uma hora de levantamento com folga, ou passar o levantamento para a manhã seguinte"
+              ],
+              [
+                "Pouco antes das {{closes}}",
+                "Entre a fronteira, a bagagem e o trajeto, o fecho chega primeiro",
+                "Levantamento na manhã seguinte, a partir das {{opens}}"
+              ],
+              [
+                "Depois das {{closes}}",
+                "A loja já fechou",
+                "Levantamento na manhã seguinte; outra solução só com acordo prévio e escrito"
+              ]
+            ]
+          }
+        },
+        "A hora que conta é a da chegada à cidade, e não a do avião. O tempo entre as duas não é fixo: depende da fila na fronteira, da espera pela bagagem e do trânsito num percurso que, no autocarro 86 até à Estação de Hanói, tem 33 km."
+      ]
+    },
+    {
+      "h2": "Do aeroporto ao alojamento depois de escurecer",
+      "body": [
+        "À noite, as opções de transporte encolhem. Segundo os guias de viagem consultados em outubro de 2026, os autocarros do aeroporto deixam de circular relativamente cedo:",
+        {
+          "ul": [
+            "**Autocarro 86**, até à Estação de Hanói, passando pelo centro: funciona até às 22:10, segundo um guia, ou até às 22:05, segundo outra fonte. O bilhete custava 30 mil VND na inauguração da linha e aparece a 45 mil VND num guia de viagem; confirme o valor ao embarcar.",
+            "**Autocarro 17**, até a um terminal chamado «Long Biên»: circula até às 20:30, com bilhete de 9 mil VND. O nome do terminal não quer dizer que pare perto da loja, em Bồ Đề; confirme no mapa.",
+            "**Táxi e aplicações de transporte**: são a solução depois do último autocarro e a mais prática com malas. O site da companhia aérea nacional vietnamita dá um valor de referência de cerca de 250 mil VND do aeroporto ao centro; nas aplicações, o preço aparece antes de confirmar a viagem."
+          ]
+        },
+        "Para o táxi, tenha a morada do alojamento escrita em vietnamita, com acentos e o número do beco, e mostre-a ao condutor em vez de a ler em voz alta. Recuse ofertas de transporte de quem o aborde à saída do terminal: prefira uma empresa de táxi identificada ou uma viagem pedida na aplicação.",
+        "Fazer este trajeto de mota não é alternativa: o eixo mais direto entre o aeroporto e a cidade, a avenida Võ Nguyên Giáp, tem restrições a motas, e as autoestradas estão-lhes vedadas.",
+        {
+          "note": "À noite, a aplicação de transporte e as mensagens para o alojamento dependem de ter dados. Se conta comprar um cartão SIM vietnamita à chegada, saiba que o registo exige passaporte e uma fotografia do rosto e, desde 15 de abril de 2026, verificação facial. Para não depender disso a meio da noite, ative o roaming ou um eSIM antes de embarcar.",
+          "tone": "info",
+          "title": "Dados móveis à chegada"
+        }
+      ]
+    },
+    {
+      "h2": "Onde dormir na primeira noite",
+      "body": [
+        "O alojamento da primeira noite decide como vai ser a manhã do levantamento. Há duas lógicas possíveis:",
+        {
+          "table": {
+            "caption": "Primeira noite perto da loja ou no centro",
+            "head": [
+              "Opção",
+              "Vantagens",
+              "O que ter em conta"
+            ],
+            "rows": [
+              [
+                "Perto da loja, em {{area}}",
+                "Ida curta à loja de manhã; os primeiros quilómetros fazem-se deste lado do rio, longe das ruas estreitas do Bairro Antigo",
+                "Se o resto da estadia é no centro, terá de mudar de alojamento: as malas seguem de táxi, e não na mota"
+              ],
+              [
+                "No centro, onde fica o resto da estadia",
+                "Não muda de alojamento e pode pedir à loja a entrega da mota à porta",
+                "A entrega depende da confirmação da loja; sem ela, conte com um táxi até {{area}} na manhã seguinte"
+              ]
+            ]
+          }
+        },
+        "Para quem nunca conduziu em Hanói, começar em Long Biên tem uma vantagem: a primeira saída faz-se fora do Bairro Antigo, e a travessia do rio fica para quando já conhece a mota. O guia sobre o [aluguer de motas em Long Biên](/zonas-de-hanoi/aluguer-de-motas-em-long-bien/) descreve essa primeira saída, e o guia da [entrega da mota no hotel](/precos/entrega-da-mota-no-hotel/) explica o que pedir se preferir receber a mota no centro.",
+        "Seja qual for a escolha, avise o alojamento de que chega tarde e pergunte, na mesma mensagem, onde vai ficar a mota a partir do dia seguinte e a que horas fecha a entrada."
+      ]
+    },
+    {
+      "h2": "Na manhã seguinte: a que horas levantar a mota",
+      "body": [
+        "A loja abre às {{opens}}, mas marcar o levantamento logo à abertura nem sempre é a melhor escolha depois de uma noite curta. Alguns critérios:",
+        {
+          "ul": [
+            "**Descanso**: com uma chegada tardia e a diferença horária, a primeira manhã pede calma. O Vietname está mais 7 horas do que Portugal continental no inverno e mais 6 no verão.",
+            "**Trânsito**: o início da manhã e o fim da tarde são as horas mais carregadas; o meio da manhã é mais calmo para os primeiros quilómetros.",
+            "**Luz natural**: a verificação e as fotografias da mota fazem-se melhor de dia, e são elas que o protegem no fim do aluguer.",
+            "**Tempo para a entrega**: conferir a mota, os documentos e os comandos leva tempo; o guia sobre [receber a mota](/guia-de-aluguer/receber-a-mota/) conta com 30 a 45 minutos."
+          ]
+        },
+        "Uma hora a meio da manhã serve bem quem chegou na véspera à noite. Se só precisar da mota a partir da tarde, marque o levantamento para mais tarde e aproveite a manhã a pé ou de táxi."
+      ]
+    },
+    {
+      "h2": "O que combinar com a loja antes de embarcar",
+      "body": [
+        "Uma chegada à noite corre bem quando tudo fica acertado antes de sair de casa. Na conversa da reserva, por telefone ou Zalo para o {{phone}}, deixe por escrito:",
+        {
+          "checklist": [
+            "a data e a hora do levantamento, na hora de Hanói e no formato de 24 horas;",
+            "o modelo reservado e uma alternativa, por exemplo uma [Honda Vision](/tipos-de-motas/honda-vision-em-hanoi/) ou outra scooter automática;",
+            "se o aluguer começa no levantamento, de manhã, e não na data da chegada;",
+            "se o levantamento é na loja ou no alojamento e, neste caso, a morada exata e o eventual custo;",
+            "o número do voo e a hora prevista de aterragem, para a loja saber que chega tarde na véspera;",
+            "que documentos levar e se há caução no seu caso, em que forma e com que comprovativo."
+          ]
+        },
+        "A forma de contar os dias pesa no preço de um aluguer que começa depois de uma chegada noturna: na tabela de referência, um dia de mota custa entre {{price.min.day}} e {{price.max.day}}, conforme o modelo. O guia das [horas de levantamento e devolução](/precos/horas-de-levantamento-e-devolucao/) explica as duas contagens habituais, e o guia sobre [reservar com antecedência](/precos/reservar-com-antecedencia/) mostra como fechar a reserva por escrito. Os valores por dia, semana e mês de cada modelo estão na [página de preços](/precos/)."
+      ]
+    },
+    {
+      "h2": "Um plano de exemplo para uma aterragem depois do fecho",
+      "body": [
+        {
+          "steps": [
+            {
+              "title": "Antes de embarcar",
+              "text": "Reserva confirmada para a manhã seguinte à chegada, morada do alojamento em vietnamita guardada no telemóvel e dados móveis ativos."
+            },
+            {
+              "title": "Aterragem, depois das {{closes}}",
+              "text": "Fronteira e bagagem. Se o último autocarro já tiver passado, siga de táxi ou por aplicação, com a morada pronta a mostrar."
+            },
+            {
+              "title": "Chegada ao alojamento",
+              "text": "Confirme com a receção onde a mota vai ficar a partir do dia seguinte e descanse."
+            },
+            {
+              "title": "Manhã seguinte",
+              "text": "Mensagem curta à loja a confirmar a hora. Se o levantamento é na loja, vá de táxi e mostre ao condutor a morada {{address.vi}}."
+            },
+            {
+              "title": "Levantamento a meio da manhã",
+              "text": "Verificação, fotografias, documentos e explicação dos comandos. Os primeiros quilómetros fazem-se perto da loja, fora da hora de ponta."
+            }
+          ]
+        },
+        "Ajuste o plano ao seu voo e à resposta da loja. Se vem para uma estadia de vários meses, o guia da [mota para nómadas digitais](/precos/mota-para-nomadas-digitais/) ajuda a escolher a duração do aluguer logo desde o primeiro dia."
+      ]
+    },
+    {
+      "h2": "E se quiser mesmo a mota no dia da chegada?",
+      "body": [
+        "Há quem prefira ter a mota logo no primeiro dia. Antes de o pedir, pese o seguinte:",
+        {
+          "ul": [
+            "**Só com acordo prévio**: fora do horário da loja, nada acontece sem confirmação escrita.",
+            "**Cansaço e escuridão**: conduzir cansado e de noite numa cidade que não conhece é uma das situações em que o guia [quando é melhor não conduzir em Hanói](/rotas-e-mobilidade/quando-nao-conduzir/) aconselha a deixar a mota parada.",
+            "**Inspeção com pouca luz**: riscos e defeitos veem-se pior e ficam mal fotografados, e é esse registo que conta na devolução."
+          ]
+        },
+        "Se, ainda assim, a loja aceitar um levantamento ao fim do dia, faça a verificação num local bem iluminado, guarde as fotografias com data e hora e faça apenas o trajeto mais curto até ao alojamento."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Pago o dia da chegada se só levantar a mota na manhã seguinte?",
+      "a": "Depende do que ficar combinado. Se o aluguer começar no levantamento, a noite da chegada não conta; se a reserva foi feita a partir dessa data, pergunte à loja se o início pode passar para a manhã seguinte. Peça que a data de início fique escrita na confirmação."
+    },
+    {
+      "q": "A loja pode deixar a mota no alojamento antes de eu chegar?",
+      "a": "Só se a loja o aceitar e ficar escrito. Mesmo assim, é preferível estar presente na entrega: é nesse momento que verifica e fotografa a mota, confere os documentos e confirma as condições. Combinar a entrega para a manhã seguinte resolve isto sem pressas."
+    },
+    {
+      "q": "Até que horas há autocarro do aeroporto para o centro?",
+      "a": "Segundo os guias consultados em outubro de 2026, o autocarro 86 funciona até cerca das 22:00 (22:10 numa fonte, 22:05 noutra) e a linha 17 até às 20:30. Depois disso, conte com o táxi ou com uma aplicação de transporte."
+    }
+  ],
+  "sources": [
+    "tabela-precos-proprietario",
+    {
+      "title": "Khai trương tuyến xe buýt đến sân bay Nội Bài, giá vé 30.000 đồng",
+      "publisher": "Báo Đấu thầu",
+      "url": "https://baodauthau.vn/khai-truong-tuyen-xe-buyt-den-san-bay-noi-bai-gia-ve-30000-dong-post12927.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "1.1 Tuyến 86: Nội Bài - Ga Hà Nội",
+      "publisher": "MIA.vn (cẩm nang du lịch)",
+      "url": "https://mia.vn/cam-nang-du-lich/danh-sach-xe-buyt-san-bay-noi-bai-18948",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "- 1. Tuyến xe bus 68 sân bay Nội Bài Hà Đông",
+      "publisher": "VinWonders",
+      "url": "https://vinwonders.com/vi/bai-viet-du-lich/tong-hop-day-du-xe-bus-san-bay-noi-bai/",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Vé Máy Bay Đi Hà Nội Chỉ Từ 847.181 VND*",
+      "publisher": "Vietnam Airlines",
+      "url": "https://www.vietnamairlines.com/vi-vn/v%C3%A9-m%C3%A1y-bay-%C4%91%E1%BA%BFn-h%C3%A0-n%E1%BB%99i",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Hình ảnh không đẹp trên đường Võ Nguyên Giáp ngày thông xe",
+      "publisher": "VTC News",
+      "url": "https://vtcnews.vn/hinh-anh-khong-dep-tren-duong-vo-nguyen-giap-ngay-thong-xe-ar188421.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    "dtinews-autoestrada-2026",
+    {
+      "title": "Giấy tờ sử dụng để đăng ký thông tin thuê bao di động mặt đất",
+      "publisher": "Portal de divulgação jurídica de Cần Thơ (pbgdpl.cantho.gov.vn)",
+      "url": "https://pbgdpl.cantho.gov.vn/giay-to-su-dung-de-dang-ky-thong-tin-thue-bao-di-dong-mat-dat",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "vi"
+    },
+    {
+      "title": "Từ hôm nay, 15/4/2026, đăng ký thuê bao di động phải xác thực khuôn mặt",
+      "publisher": "LuatVietnam",
+      "url": "https://luatvietnam.vn/tin-van-ban-moi/moi-dang-ky-thue-bao-di-dong-phai-xac-thuc-khuon-mat-tu-15-4-2026-186-108072-article.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    }
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "READY_FOR_QA",
+  "revision": {
+    "reason": "Ligações internas para artigos publicados depois"
+  }
+}

@@ -62,7 +62,7 @@
     {
       "h2": "Que noite escolher: o que muda de sexta a domingo",
       "body": [
-        "A regra que mais mexe com o serão é a da zona de baixas emissões, cuja primeira fase decorre até 31 de dezembro de 2026. De sexta a domingo, o espaço do lago Hoàn Kiếm e as ruas do mercado noturno ficam vedados a motas e automóveis entre as 19:00 e as 24:00, tanto às motas a gasolina como às elétricas. A lista de ruas, as exceções e o que se prevê para 2027 estão no guia da [zona de baixas emissões](/tipos-de-motas/zona-de-baixas-emissoes-hanoi/); aqui interessa o que isto muda no passeio.",
+        "A regra que mais mexe com o serão é a da zona de baixas emissões, cuja primeira fase decorre até 31 de dezembro de 2026. De sexta a domingo, o espaço do lago Hoàn Kiếm e as ruas do mercado noturno ficam vedados a motas e automóveis entre as 19:00 e as 24:00, e a regra vale também para as motas elétricas. A lista de ruas, as exceções e o que se prevê para 2027 estão no guia da [zona de baixas emissões](/tipos-de-motas/zona-de-baixas-emissoes-hanoi/); aqui interessa o que isto muda no passeio.",
         {
           "table": {
             "caption": "Como a noite muda o passeio de mota, segundo as fontes de 13 de outubro de 2026",
@@ -73,12 +73,12 @@
             ],
             "rows": [
               [
-                "Lago Hoàn Kiếm e ruas do mercado noturno (zona 1)",
-                "Abertas às motas",
-                "Fechadas às motas entre as 19:00 e as 24:00"
+                "Zona 1, em volta do lago Hoàn Kiếm e do mercado noturno",
+                "Aberta às motas",
+                "Fechada às motas entre as 19:00 e as 24:00"
               ],
               [
-                "Mercado noturno do Bairro Antigo (da rua Hàng Đào ao mercado Đồng Xuân)",
+                "Mercado noturno do Bairro Antigo, entre a rua Hàng Đào e o mercado Đồng Xuân",
                 "As fontes só o referem de sexta a domingo",
                 "Começa às 18:00 e acaba às 23:00 ou às 22:30, conforme a fonte"
               ],
@@ -90,7 +90,7 @@
             ]
           }
         },
-        "De segunda a quinta, o lago e o Bairro Antigo estão abertos às motas, mas as ruas continuam estreitas, de sentido único e cheias de peões. Para circular nelas, o guia de [conduzir no Bairro Antigo](/zonas-de-hanoi/conduzir-no-bairro-antigo/) dá o essencial.",
+        "De segunda a quinta, o lago e o Bairro Antigo estão abertos às motas, mas as ruas continuam estreitas, com sentidos únicos e peões a andar pela faixa de rodagem. Para circular nelas, o guia de [conduzir no Bairro Antigo](/zonas-de-hanoi/conduzir-no-bairro-antigo/) dá o essencial.",
         "Nos feriados o calendário muda: em 2024, por exemplo, a zona pedonal do lago esteve em funcionamento desde as 19:00 de sexta-feira, 26 de abril, até às 24:00 de quarta-feira, 1 de maio. Confirme sempre no próprio dia."
       ]
     },
@@ -108,7 +108,7 @@
         {
           "h3": "Lago Hoàn Kiếm e Bairro Antigo, de segunda a quinta"
         },
-        "Nestas noites a zona 1 não está vedada às motas, e o lago e o Bairro Antigo fazem-se de mota, devagar. Depois das 22:00, lembre-se de que a buzina é proibida nas zonas densamente povoadas, como o Bairro Antigo, até às 05:00. Ao fim de semana, o lago faz-se a pé: deixe a mota fora da zona antes das 19:00.",
+        "Nestas noites, o lago e o Bairro Antigo podem percorrer-se de mota, devagar, porque a zona 1 não está fechada. Depois das 22:00, lembre-se de que a buzina é proibida nas zonas densamente povoadas, como o Bairro Antigo, até às 05:00. Ao fim de semana, o lago faz-se a pé: deixe a mota fora da zona antes das 19:00.",
         {
           "h3": "Tống Duy Tân, para comer tarde"
         },
@@ -151,7 +151,7 @@
             ]
           }
         },
-        "Em qualquer parque valem as regras de sempre: senha com o preço impresso, hora de fecho confirmada e os limites de preço da cidade (Decisão 44/2017/QĐ-UBND), todas no guia de [onde estacionar em Hanói](/guia-de-aluguer/onde-estacionar-em-hanoi/). À noite, pergunte sobretudo até que horas o parque está aberto. À porta de uma esplanada, não imite as motas que já estão em cima do passeio: o mesmo guia explica quando isso dá coima, com base no Decreto 168/2024/NĐ-CP."
+        "Em qualquer parque valem as regras de sempre, que o guia de [onde estacionar em Hanói](/guia-de-aluguer/onde-estacionar-em-hanoi/) reúne: senha com o preço impresso, hora de fecho confirmada e os limites de preço fixados pela cidade (Decisão 44/2017/QĐ-UBND). À noite, pergunte sobretudo até que horas o parque está aberto. À porta de uma esplanada, não imite as motas que já estão em cima do passeio: o mesmo guia explica quando isso dá coima, com base no Decreto 168/2024/NĐ-CP."
       ]
     },
     {
@@ -162,10 +162,10 @@
           "ul": [
             "**Se vai beber**, nem leve a mota ao jantar: o regresso faz-se por outros meios, como um táxi ou uma aplicação de transporte, e a mota fica no alojamento.",
             "**Se decidiu beber a meio da noite**, a mota fica no parque onde está; confirme até que horas ele fecha e só a levante no dia seguinte, quando já não tiver álcool no organismo.",
-            "**Se vão vários**, conduz apenas quem não beber nada, do jantar ao regresso."
+            "**Se vão em grupo**, conduz apenas quem não beber nada, do jantar ao regresso."
           ]
         },
-        "A hora de fecho da loja conta mais à noite do que de dia. Com a loja aberta {{hours}}, um serão que começa ao pôr do sol e inclui jantar chega facilmente ao fim do horário: acerte por escrito a hora de devolução e o sítio onde a mota fica se chegar depois do fecho, perguntas que o guia das [horas de levantamento e devolução](/precos/horas-de-levantamento-e-devolucao/) reúne.",
+        "A hora de fecho da loja conta mais à noite do que de dia. Com a loja aberta {{hours}}, um serão que começa ao pôr do sol e inclui jantar chega facilmente ao fim do horário. Acerte por escrito a hora de devolução e o sítio onde a mota fica se chegar depois do fecho; o guia das [horas de levantamento e devolução](/precos/horas-de-levantamento-e-devolucao/) reúne as perguntas a fazer.",
         {
           "checklist": [
             "Reveja os documentos no guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/): o que a loja pede para alugar não é o mesmo que a lei pede para conduzir.",
@@ -174,7 +174,7 @@
             "Quem nunca andou de mota encontra no guia de [nunca conduziu uma mota](/tipos-de-motas/nunca-conduziu-uma-mota/) o que avaliar antes de decidir se este passeio é para si."
           ]
         },
-        "Para ver as mesmas zonas à luz do dia, o itinerário de [Hanói de mota num dia](/rotas-e-mobilidade/hanoi-de-mota-num-dia/) reúne paragens e estacionamento, e o [roteiro dos mercados](/rotas-e-mobilidade/roteiro-dos-mercados/) trata os mercados de dia. Os restantes percursos estão em [Rotas e mobilidade](/rotas-e-mobilidade/), e a loja responde a dúvidas pelos [contactos](/contactos/)."
+        "Para ver estas zonas de dia, o itinerário de [Hanói de mota num dia](/rotas-e-mobilidade/hanoi-de-mota-num-dia/) propõe paragens e sítios onde estacionar; para os mercados, também de dia, há o [roteiro dos mercados](/rotas-e-mobilidade/roteiro-dos-mercados/). Os restantes percursos estão em [Rotas e mobilidade](/rotas-e-mobilidade/), e a loja responde a dúvidas pelos [contactos](/contactos/)."
       ]
     }
   ],
