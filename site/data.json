@@ -256,6 +256,14 @@
     "$comment": "Menu principal. `parent` aponta para site/taxonomy.json (com `label` opcional mais curto); `group` junta vários pais num só menu; `url` é uma ligação direta.",
     "primary": [
       {
+        "label": "Início",
+        "url": "/"
+      },
+      {
+        "label": "Sobre nós",
+        "url": "/sobre-nos/"
+      },
+      {
         "parent": "tipos-de-motas",
         "label": "Motas"
       },
@@ -281,6 +289,14 @@
       {
         "label": "Contactos",
         "url": "/contactos/"
+      },
+      {
+        "label": "Política de privacidade",
+        "url": "/politica-de-privacidade/"
+      },
+      {
+        "label": "Termos e condições",
+        "url": "/termos-e-condicoes/"
       }
     ]
   },

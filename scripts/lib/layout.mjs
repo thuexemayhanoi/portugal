@@ -87,6 +87,7 @@ function navItems(ctx, page, mode) {
     .map((item, i) => {
       if (item.url) {
         const current = page.url === item.url ? ' aria-current="page"' : '';
+        if (mode === 'drawer') return `<li class="drawer-item"><a class="drawer-direct-link" href="${esc(item.url)}"${current}>${esc(item.label)}</a></li>`;
         return `<li class="nav-item"><a class="nav-link" href="${esc(item.url)}"${current}>${esc(item.label)}</a></li>`;
       }
       const parents = (item.parents || [item.parent]).map((id) => {

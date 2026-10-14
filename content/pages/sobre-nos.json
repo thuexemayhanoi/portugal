@@ -8,114 +8,103 @@
   "h1": "Sobre a Nguyễn Tú",
   "primaryKeyword": "nguyễn tú aluguer de motas long biên",
   "eyebrow": "Quem somos",
-  "lead": "Uma loja de aluguer de motas em Long Biên, Hanói, com informação clara em português para quem visita a cidade.",
+  "lead": "Conheça a Nguyễn Tú, uma loja de aluguer de motas em Long Biên, Hanói, e descubra como encontrar informações transparentes sobre veículos, preços, documentos e deslocações na cidade.",
   "updated": "2026-10-14",
   "toc": true,
   "sections": [
     {
-      "h2": "A loja",
+      "h2": "Quem somos e onde nos encontrar",
       "body": [
-        "**{{name}}** — em português, «aluguer de motas Nguyễn Tú» — é uma loja de [aluguer de motas em Hanói](/), em Long Biên. Neste site usamos o nome **{{display}}**, mas é a mesma loja: a mesma morada, o mesmo telefone e o mesmo horário.",
-        {
-          "dl": [
-            [
-              "Nome oficial",
-              "{{name}}"
-            ],
-            [
-              "Nome no Google Maps",
-              "[{{gbp}}]({{maps}})"
-            ],
-            [
-              "Marca",
-              "{{brand}}"
-            ],
-            [
-              "Morada",
-              "{{address}}"
-            ],
-            [
-              "Morada em vietnamita",
-              "{{address.vi}}"
-            ],
-            [
-              "Telefone e Zalo",
-              "[{{phone}}]({{tel}}) · {{phone.local}}"
-            ],
-            [
-              "Horário",
-              "{{hours.display}}"
-            ],
-            [
-              "Site principal",
-              "[thuexemaynguyentu.com]({{website}})"
-            ]
-          ]
-        },
-        "Estes são os dados oficiais da loja e são os mesmos em todas as páginas deste site. Se encontrar noutro sítio uma morada, um número ou um horário diferentes, considere válidos os que estão aqui ou confirme diretamente com a loja."
+        "**{{name}}** é o nome oficial da loja de aluguer de motas que apresentamos neste website. Usamos também **{{display}}** na comunicação em português. Embora os nomes apareçam em línguas diferentes, referem-se ao mesmo negócio, com os mesmos contactos e a mesma localização em Hanói, Vietname.",
+        "A morada indicada é **{{address}}**. Para mostrar o endereço a um motorista de táxi ou usar uma aplicação local, pode copiar a versão vietnamita: **{{address.vi}}**. A designação no Google Maps é [{{gbp}}]({{maps}}), e recomendamos confirmar o destino no mapa antes de se deslocar.",
+        "O telefone de contacto é **{{phone}}**, e a loja disponibiliza contacto por Zalo. O horário indicado é **{{hours.display}}**. Estes elementos são mantidos de forma centralizada no website para evitar que uma página antiga mostre contactos diferentes de outra. Consulte a página [Contactos](/contactos/) para escolher a forma mais conveniente de falar com a loja."
       ]
     },
     {
-      "h2": "O que alugamos",
+      "h2": "O que pode encontrar na nossa oferta",
       "body": [
-        "A frota inclui cinco tipos de veículos, cada um com a sua página ou secção de referência:",
-        {
-          "ul": [
-            "[Scooters automáticas](/tipos-de-motas/scooters/) — Honda Vision, Honda Air Blade, Honda Click e Yamaha Mio.",
-            "[Motas semiautomáticas](/tipos-de-motas/#semiautomaticas) — Honda Wave e Yamaha Sirius.",
-            "[Motas de 50 cc](/tipos-de-motas/motas-50cc/) — para trajetos curtos e velocidades baixas.",
-            "[Motas elétricas e bicicletas elétricas](/tipos-de-motas/#eletricas) — sem combustível, com autonomia a confirmar."
-          ]
-        },
-        "Os [preços de referência](/precos/) por dia, semana e mês vêm da tabela da loja. A unidade concreta, o preço final e as condições são confirmados para as suas datas."
+        "O objetivo principal é ajudar visitantes e residentes a compreenderem as categorias de veículos disponíveis para aluguer em Hanói. Não existe uma mota ideal para todas as pessoas: é necessário considerar experiência de condução, distância prevista, tipo de estrada, duração da estadia, documentação e disponibilidade do modelo.",
+        "As [scooters automáticas](/tipos-de-motas/scooters/) podem ser uma opção para quem já está habituado a esse tipo de transmissão. As [motas semiautomáticas](/tipos-de-motas/semiautomaticas/) exigem familiaridade com as mudanças. A categoria de [50 cc](/tipos-de-motas/motas-50cc/) requer especial atenção às características efetivas do veículo e às regras de circulação.",
+        "O site inclui ainda informação sobre motas elétricas e bicicletas elétricas. No caso dos veículos elétricos, a autonomia, o carregamento, a categoria legal e o preço dependem do modelo concreto. Evitamos tratar especificações de um fabricante como garantia de características da unidade que será entregue. Explore a página de [tipos de motas](/tipos-de-motas/) antes de pedir um orçamento."
       ]
     },
     {
-      "h2": "Como trabalhamos",
+      "h2": "Preços de referência e orçamento individual",
       "body": [
-        "Preferimos responder com dados concretos a fazer promessas genéricas. Por isso, há condições que não publicamos como regra geral, porque dependem do modelo, da duração e da situação de cada cliente:",
-        {
-          "checklist": [
-            "o montante e a forma da caução;",
-            "a entrega ou recolha no alojamento e o respetivo custo;",
-            "os documentos pedidos para o aluguer;",
-            "qualquer exceção ao horário de funcionamento."
-          ]
-        },
-        "Antes de se deslocar à loja, peça a confirmação destes pontos e guarde a resposta. É a forma mais simples de evitar mal-entendidos, de parte a parte."
+        "Publicamos [preços de referência](/precos/) quando existe informação confirmada da loja para determinado tipo de aluguer. Os valores são uma ajuda para planear uma viagem, mas não substituem uma confirmação para as datas, a duração e o modelo pretendidos. A disponibilidade também deve ser confirmada diretamente.",
+        "O custo final pode depender do período de aluguer e de condições acordadas para a situação concreta. Uma diária, uma semana e um mês não são necessariamente calculados multiplicando o mesmo preço. Da mesma forma, uma descrição geral de categoria não significa que todos os veículos tenham a mesma tarifa.",
+        "Para evitar mal-entendidos, recomendamos que o cliente indique datas, tipo de mota, eventual experiência de condução e local pretendido para a entrega ou recolha. A loja poderá então confirmar um orçamento apropriado. Não publicamos promoções, isenções de caução nem condições especiais sem confirmação expressa."
       ]
     },
     {
-      "h2": "Porque existe este site em português",
+      "h2": "Documentos, caução e condições que é preciso esclarecer",
       "body": [
-        "Quem chega a Hanói vindo de Portugal ou de outro país de língua portuguesa encontra sobretudo informação em vietnamita ou em inglês. Este site organiza, em português de Portugal, o que é útil saber antes de alugar: tipos de motas, preços, documentos, segurança e mobilidade na cidade.",
-        "Cada página indica a data da última atualização. As regras legais citadas têm a fonte identificada, e os dados da loja são lidos de um único ficheiro: quando a loja altera um preço ou o horário, o site inteiro é atualizado em conjunto."
+        "Alugar uma mota envolve mais do que escolher um veículo por fotografia. É importante compreender que documentos devem ser apresentados, como funciona a caução, de que forma são organizadas a entrega e a devolução, e que responsabilidades constam do acordo feito com a loja.",
+        "Estas condições não devem ser deduzidas de artigos gerais da Internet. O tipo de documento exigido e a habilitação necessária para conduzir podem variar conforme a categoria do veículo e a situação pessoal. O cliente deverá confirmar os requisitos em vigor e esclarecer as condições específicas antes de assumir que está autorizado a conduzir.",
+        "Para preparar a conversa, consulte o [guia de aluguer](/guia-de-aluguer/) e a página de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/). Recomendamos pedir confirmação escrita do modelo, do período, do total a pagar e dos elementos necessários para concluir o aluguer."
       ]
     },
     {
-      "id": "equipa-editorial",
-      "h2": "Quem escreve e verifica este site",
+      "h2": "A nossa localização em Long Biên",
       "body": [
-        "Os artigos são assinados pela **{{byline}}**, responsável pelos conteúdos deste site em nome da loja {{name}}. Não publicamos opiniões pagas, avaliações nem classificações: o objetivo é explicar, com dados verificáveis, o que é útil saber antes de alugar uma mota em Hanói.",
-        {
-          "checklist": [
-            "Preços, morada, telefone e horário vêm de um único ficheiro de dados da loja e são iguais em todas as páginas.",
-            "As regras legais e de segurança indicam a fonte — lei, decreto ou entidade oficial — e a data em que foi consultada.",
-            "Cada texto passa por um controlo de qualidade automático (português de Portugal, ligações, fontes e afirmações não confirmadas) e por aprovação editorial antes de ser publicado.",
-            "Alguns textos são preparados com o apoio de ferramentas de inteligência artificial; nenhum é publicado sem esse controlo e sem fontes identificadas.",
-            "Cada página mostra a data da última atualização e é revista quando mudam a lei, os preços ou as condições da loja."
-          ]
-        },
-        "Encontrou um erro ou uma informação desatualizada? Avise a loja pelo telefone ou Zalo {{phone}}: a correção é feita na fonte e aplicada a todo o site."
+        "Long Biên situa-se na margem oriental do rio Vermelho, em Hanói. Esta localização é relevante para quem pretende circular na cidade, atravessar uma ponte em direção ao centro ou organizar uma viagem para zonas próximas. A experiência na estrada pode ser muito diferente consoante o bairro e a hora do dia.",
+        "O Bairro Antigo tem ruas movimentadas, interseções e regras de circulação que justificam especial cuidado. Nas vias mais largas, a velocidade e a proximidade de veículos maiores também influenciam a escolha de uma mota. Não recomendamos trajetos apenas com base num mapa: é útil verificar distâncias, condições meteorológicas e o tipo de via.",
+        "Os artigos de [zonas de Hanói](/zonas-de-hanoi/) e [rotas e mobilidade](/rotas-e-mobilidade/) ajudam a preparar deslocações, sem substituírem a observação das condições reais. Pode consultar a [localização no mapa]({{maps}}) para confirmar a morada da loja."
       ]
     },
     {
-      "h2": "Onde estamos",
+      "h2": "Porque criámos um website em português de Portugal",
       "body": [
-        "Long Biên fica na margem leste do rio Vermelho (Sông Hồng), ligada ao centro histórico por várias pontes. É uma zona prática para começar a circular pela cidade ou sair para os arredores sem ter de atravessar logo as ruas estreitas do Bairro Antigo.",
-        {
-          "component": "contact-card"
-        }
+        "Um visitante que procura informações sobre aluguer de motas em Hanói encontra frequentemente textos em vietnamita ou inglês. Este website foi organizado em **português europeu (pt-PT)** para explicar os assuntos mais procurados com palavras familiares a quem pesquisa a partir de Portugal ou utiliza esta variante da língua.",
+        "Usamos termos como *mota*, *aluguer*, *carta de condução* e *contacto*, em vez de misturar indiscriminadamente variantes linguísticas. Não presumimos, no entanto, que todos os visitantes de língua portuguesa tenham as mesmas necessidades: uma pessoa que vive em Hanói pode procurar informações diferentes das de alguém que chega para poucos dias.",
+        "O conteúdo está agrupado por tipos de motas, preços, preparação do aluguer, perguntas frequentes e mobilidade urbana. Esta organização permite encontrar respostas mais específicas sem percorrer uma única página interminável. O menu, a pesquisa e as ligações internas existem para facilitar essa navegação."
+      ]
+    },
+    {
+      "h2": "Equipa editorial",
+      "body": [
+        "A informação relativa à loja, como morada, telefone, horário e preços de referência, é mantida num conjunto central de dados. Isso reduz o risco de uma página mostrar um número antigo enquanto outra apresenta um contacto atualizado. Quando uma condição precisa de confirmação individual, a página deve indicar essa limitação.",
+        "Os artigos podem utilizar fontes de fabricantes, documentos oficiais, guias e outras referências identificadas. Uma especificação de produto não deve ser apresentada como característica de um veículo da frota sem confirmação do modelo. Um texto sobre legislação também deve distinguir a regra verificada de interpretações ou propostas que ainda possam mudar.",
+        "Alguns conteúdos são preparados com apoio de ferramentas de inteligência artificial e passam por verificações editoriais e técnicas. Estes controlos procuram detetar problemas de língua, ligações, coerência e informações não confirmadas, mas não substituem uma atualização contínua quando os factos mudam. Se encontrar um erro, agradecemos que o comunique pelo contacto oficial."
+      ]
+    },
+    {
+      "h2": "O que valorizamos na comunicação com o cliente",
+      "body": [
+        "Uma resposta útil deve esclarecer as condições relevantes antes de alguém assumir um compromisso. Por isso, preferimos apresentar informação verificável a prometer automaticamente que um modelo está disponível, que a caução terá determinado valor ou que um serviço adicional está incluído.",
+        "Quando pede informações, vale a pena indicar a duração pretendida, o tipo de veículo e o trajeto aproximado. Quanto mais concreto for o pedido, mais simples será verificar se o veículo se adequa ao seu plano e que custos e documentos precisam de ser esclarecidos.",
+        "Também procuramos separar o conteúdo editorial do acordo de aluguer. Os guias explicam alternativas e cuidados gerais, mas o veículo, a duração, o preço e as condições efetivas devem constar da confirmação feita com a loja. Pode consultar os [Termos e condições](/termos-e-condicoes/) para compreender esta distinção."
+      ]
+    },
+    {
+      "h2": "Mobilidade responsável em Hanói",
+      "body": [
+        "Conduzir em Hanói exige atenção aos outros veículos, às mudanças de direção, aos peões e às condições das vias. Nem todas as pessoas têm experiência para circular com segurança em trânsito urbano intenso. Escolher uma mota pequena não elimina a necessidade de conhecer as regras legais nem garante que um determinado percurso seja adequado.",
+        "Antes de sair, verifique o estado dos travões, luzes, pneus e restantes comandos, confirme a documentação relevante e esclareça como pedir apoio em caso de dificuldade. Respeite os limites de velocidade, as sinalizações e as restrições aplicáveis ao tipo de veículo.",
+        "A informação do website tem finalidade educativa e não substitui formação de condução nem esclarecimento jurídico individual. Se as suas condições de viagem não permitirem conduzir legalmente ou com segurança, considere outro meio de transporte. Há situações em que não alugar é a decisão mais prudente."
+      ]
+    },
+    {
+      "h2": "Como utilizar melhor este site",
+      "body": [
+        "Comece pela [página inicial](/) para obter uma visão geral e pelas [categorias de motas](/tipos-de-motas/) para distinguir as opções. Depois, veja os [preços](/precos/) e o [guia de aluguer](/guia-de-aluguer/). Se tiver uma dúvida específica, a secção de [perguntas frequentes](/perguntas-frequentes/) pode ajudar a identificar o que deve confirmar antes de contactar a loja.",
+        "A caixa de pesquisa serve para encontrar páginas por assunto, não para efetuar reservas. Os artigos mais detalhados contêm ligações para páginas relacionadas, fontes e temas complementares. Quando uma informação disser respeito à lei ou a regras locais, verifique a data indicada e a fonte original.",
+        "Não precisa de criar conta nem fornecer documentos para ler o website. Caso queira avançar para um pedido de aluguer, utilize a página [Contactos](/contactos/) e confirme a proposta diretamente com a loja. Esta separação ajuda a manter claras as funções do site e do atendimento."
+      ]
+    },
+    {
+      "h2": "Identidade, transparência e páginas institucionais",
+      "body": [
+        "O nome da loja, a morada e o telefone identificam a atividade apresentada neste website. Não publicamos avaliações inventadas, estatísticas de clientes sem prova ou promessas de serviços que não tenham sido confirmadas. Esta opção pode tornar algumas páginas menos promocionais, mas ajuda o visitante a distinguir factos de expectativas.",
+        "Para saber como funciona a navegação, incluindo o alojamento técnico, a pesquisa local e os contactos externos, leia a [Política de privacidade](/politica-de-privacidade/). Os [Termos e condições](/termos-e-condicoes/) explicam como interpretar preços e conteúdos informativos e como estes se distinguem de um contrato de aluguer.",
+        "As três páginas institucionais estão ligadas entre si, à [página inicial](/) e aos [Contactos](/contactos/). Assim, quem descobre o site através de um artigo também consegue identificar a entidade apresentada, compreender a informação disponibilizada e saber como pedir esclarecimentos."
+      ]
+    },
+    {
+      "h2": "Contacte-nos para confirmar o seu plano",
+      "body": [
+        "Para uma proposta concreta, diga à loja quando pretende começar o aluguer, durante quanto tempo, que categoria de mota procura e quais são as suas dúvidas sobre os documentos e o percurso. A resposta deve esclarecer as condições aplicáveis à sua situação antes de aceitar um veículo.",
+        "O contacto principal é **{{phone}}**, por telefone ou Zalo, e a morada é **{{address}}**. O horário publicado é **{{hours.display}}**. Consulte os dados atualizados em [Contactos](/contactos/) ou abra a [localização no Google Maps]({{maps}}). Se preferir continuar a pesquisar, regresse à [página inicial](/) para explorar os guias."
       ]
     }
   ],
