@@ -10,7 +10,7 @@
   "primaryKeyword": "aluguer de scooters em hanói",
   "eyebrow": "Tipos de motas · Scooters",
   "lead": "Sem mudanças, com arrumação debaixo do assento e fáceis de manobrar: as scooters são a escolha mais comum para circular em Hanói. Compare os quatro modelos disponíveis.",
-  "updated": "2026-10-12",
+  "updated": "2026-10-14",
   "toc": true,
   "answer": "A loja aluga quatro scooters automáticas: **Honda Vision** ({{price.vision.day}} por dia), **Honda Air Blade** ({{price.airblade.day}} por dia), **Honda Click** e **Yamaha Mio** ({{price.click.day}} por dia). Para a cidade, a Vision é a mais equilibrada; a Air Blade dá mais folga com passageiro. Confirme a cilindrada da unidade, porque define a categoria de carta exigida.",
   "sections": [
@@ -69,6 +69,15 @@
       "body": [
         "O trânsito de Hanói é denso e muda de ritmo de minuto para minuto. Mantenha uma velocidade constante, evite travagens bruscas, olhe para os espelhos antes de qualquer mudança de direção e conte com motas a ultrapassar pelos dois lados.",
         "Use sempre o capacete apertado — é obrigatório para quem conduz e para o passageiro — e não conduza depois de beber: a lei vietnamita não admite qualquer concentração de álcool. A lei também proíbe usar o telemóvel ou um guarda-chuva enquanto conduz."
+      ]
+    },
+    {
+      "h2": "Contactos oficiais e confirmação",
+      "body": [
+        {
+          "component": "contact-card",
+          "note": "Peça a tarifa por dia, semana ou mês para a unidade pretendida; o preço final e a disponibilidade são confirmados diretamente."
+        }
       ]
     }
   ],
