@@ -88,7 +88,7 @@
         },
         "**Veredicto: não confirmado.** É a ideia mais repetida e a que mais problemas pode causar. Tem um ponto de partida real: a Lei n.º 36/2024/QH15 coloca os veículos até 50 cm³ — ou elétricos até 4 kW, com velocidade de projeto até 50 km/h — numa categoria própria, o «xe gắn máy», separada dos motociclos que exigem carta A1 ou A.",
         "O problema é o salto que se dá a seguir. Da existência de uma categoria própria não se pode concluir que um visitante estrangeiro possa conduzir uma 50 cc sem documentos. Os requisitos dependem do veículo, da idade e da situação de cada condutor, e a lei pode mudar. Para visitantes, a orientação mais citada por fontes oficiais continua a ser a carta do país de origem acompanhada de uma licença internacional reconhecida no Vietname, que aderiu à Convenção de Viena de 1968.",
-        "Antes de conduzir, confirme os requisitos em fontes oficiais e leia o guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/). Veja também a apólice do seguro de viagem: o Governo da Nova Zelândia, por exemplo, recomenda confirmar se o seguro cobre acidentes de mota antes de conduzir no Vietname.",
+        "Antes de conduzir, confirme os requisitos em fontes oficiais e leia o guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/) e o da [carta AM e 50 cc no Vietname](/tipos-de-motas/carta-am-e-50cc-no-vietname/). Veja também a apólice do seguro de viagem: o Governo da Nova Zelândia, por exemplo, recomenda confirmar se o seguro cobre acidentes de mota antes de conduzir no Vietname.",
         {
           "h3": "2. «Se a loja aluga, ninguém vai pedir documentos»"
         },
@@ -136,7 +136,7 @@
         {
           "h3": "8. «Por ser lenta, a 50 cc é a mais segura para principiantes»"
         },
-        "**Veredicto: meia verdade.** Uma 50 cc é leve e pouco potente, o que pode dar confiança a quem circula com calma em ruas tranquilas. Mas a velocidade de projeto, que não passa de 50 km/h, pode ser pouca em vias com trânsito rápido, onde ficar abaixo do ritmo dos outros também é um risco. Com passageiro ou bagagem, a aceleração e a capacidade de subida diminuem ainda mais.",
+        "**Veredicto: meia verdade.** Uma 50 cc é leve e pouco potente, o que pode dar confiança a quem circula com calma em ruas tranquilas. Mas a velocidade de projeto, que não passa de 50 km/h, pode ser pouca em vias com trânsito rápido, onde ficar abaixo do ritmo dos outros também é um risco. Com passageiro ou bagagem, a aceleração e a capacidade de subida diminuem ainda mais. Quem tem pouca estatura encontra no guia da [50 cc para pouca estatura](/tipos-de-motas/50cc-para-pouca-estatura/) o que o peso, o assento e a manobra mudam.",
         "Para trajetos longos, avenidas rápidas ou viagens a dois, uma scooter de maior cilindrada é normalmente mais segura; a página de [scooters automáticas](/tipos-de-motas/scooters/) compara os modelos. Nenhuma mota, porém, substitui a experiência: se nunca conduziu, o trânsito de Hanói não é o lugar para aprender.",
         {
           "h3": "9. «A 50 cc é sempre a opção mais barata»"
@@ -207,17 +207,21 @@
   },
   "status": "PUBLISHED",
   "date_published": "2026-10-13",
-  "date_modified": "2026-10-13",
+  "date_modified": "2026-10-14",
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1794,
+    "words": 1827,
     "publish_mode": "review",
-    "approved_at": "2026-10-13",
+    "approved_at": "2026-10-14",
     "revisions": [
       {
         "date": "2026-10-13",
         "reason": "Coimas em Hanói: aviso sobre a Resolução 56/2026/NQ-HĐND"
+      },
+      {
+        "date": "2026-10-14",
+        "reason": "Ligações internas para artigos publicados depois"
       }
     ]
   }

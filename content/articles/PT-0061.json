@@ -182,7 +182,8 @@
             ]
           }
         },
-        "Nos dias de chuva forte, o caminho mais simples é muitas vezes não sair de mota. O guia das [sete situações em que a mota deve ficar parada](/rotas-e-mobilidade/quando-nao-conduzir/) propõe alternativas, e a [capa de chuva e os outros acessórios](/precos/capa-de-chuva-e-acessorios/) dizem o que levar quando decide sair. Se a mota parar longe do alojamento, veja [que ajuda existe quando fica parado](/guia-de-aluguer/assistencia-na-estrada/)."
+        "Nos dias de chuva forte, o caminho mais simples é muitas vezes não sair de mota. O guia das [sete situações em que a mota deve ficar parada](/rotas-e-mobilidade/quando-nao-conduzir/) propõe alternativas, e a [capa de chuva e os outros acessórios](/precos/capa-de-chuva-e-acessorios/) dizem o que levar quando decide sair. Se a mota parar longe do alojamento, veja [que ajuda existe quando fica parado](/guia-de-aluguer/assistencia-na-estrada/).",
+        "Se a chuva o faz hesitar entre uma elétrica e uma scooter a gasolina, o guia sobre a [mota elétrica ou a gasolina](/tipos-de-motas/mota-eletrica-ou-gasolina/) compara as duas em preço, autonomia e carga."
       ]
     }
   ],
@@ -309,16 +310,21 @@
   },
   "status": "PUBLISHED",
   "date_published": "2026-10-13",
-  "date_modified": "2026-10-13",
+  "date_modified": "2026-10-14",
   "editorial": {
     "qa_score": 96,
     "qa_warnings": [
       "source code M: Especificações do fabricante (Honda Vietnam, Yamaha Motor Vietnam) para dados técnicos dos modelos.",
       "source code W: Dados meteorológicos oficiais (Centro Nacional de Previsão Hidrometeorológica) ou climatologia reconhecida."
     ],
-    "words": 1966,
+    "words": 1997,
     "publish_mode": "review",
-    "approved_at": "2026-10-13",
-    "revisions": []
+    "approved_at": "2026-10-14",
+    "revisions": [
+      {
+        "date": "2026-10-14",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

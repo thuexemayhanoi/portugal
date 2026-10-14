@@ -7,7 +7,7 @@
   "h1": "Pagar o aluguer da mota em dong vietnamita: notas e câmbio",
   "summary": "Para pagar um aluguer de mota em dinheiro no Vietname, troque euros por dong num banco ou numa casa de câmbio licenciada, peça notas em bom estado e confira o algarismo de cada nota, não a cor. Em 10 de outubro de 2026, um euro valia cerca de 28.300 đồng no câmbio de compra do Vietcombank; confirme sempre a taxa do dia e as formas de pagamento aceites com a loja.",
   "key_points": [
-    "As notas em circulação são de polímero e têm valores de 10.000 a 500.000 đồng. Leia o número de cada nota: a cor sozinha engana.",
+    "As notas de polímero vão de 10.000 a 500.000 đồng; as de valor mais baixo continuam em papel de algodão. Leia o número de cada nota: a cor sozinha engana.",
     "Segundo as fontes vietnamitas consultadas, a nota de 500.000 đồng é azul-escura e muito parecida com a de 20.000 đồng; a de 500.000 é mais comprida (152 mm contra 136 mm).",
     "Só as notas de 50.000, 100.000, 200.000 e 500.000 đồng têm uma pequena janela transparente; as de 10.000 e 20.000 não têm.",
     "Em 10 de outubro de 2026, o Vietcombank comprava euros em numerário a cerca de 28.300 đồng por euro, segundo um agregador de câmbios; a taxa muda todos os dias.",
@@ -298,9 +298,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 2177,
+    "words": 2182,
     "publish_mode": "review",
     "approved_at": "2026-10-14",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-14",
+        "reason": "Correção editorial após revisão: factos e formulação ajustados às fontes."
+      }
+    ]
   }
 }

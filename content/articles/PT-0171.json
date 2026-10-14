@@ -85,7 +85,7 @@
           ]
         },
         "Este método vem de guias de condução brasileiros, que falam em três a quatro segundos com chuva: um valor coerente com o do Highway Code.",
-        "Em trânsito denso, em que outra mota pode ocupar o espaço que deixou livre, quatro segundos podem parecer pouco realistas. Em vez de se aproximar para fechar esse espaço, trate a dificuldade como um aviso para baixar a velocidade: uma regra de segurança não deixa de valer porque o trânsito à volta a ignora."
+        "Em trânsito denso, em que outra mota pode ocupar o espaço que deixou livre, quatro segundos podem parecer pouco realistas. Em vez de se aproximar para fechar esse espaço, trate a dificuldade como um aviso para baixar a velocidade: uma regra de segurança não deixa de valer porque o trânsito à volta a ignora. Nas ruas estreitas com peões, a margem extra é ainda mais necessária: veja como [conduzir de mota perto de peões e zonas pedonais](/guia-de-aluguer/peoes-e-zonas-pedonais/)."
       ]
     },
     {
@@ -145,7 +145,7 @@
     {
       "h2": "Quando parar e deixar a mota",
       "body": [
-        "Nenhuma técnica compensa uma chuva que o impede de ver ou de controlar a mota. Se a viseira embacia e não a consegue limpar, se sente a mota a perder aderência ou se o trânsito deixou de ser legível, encoste num sítio seguro e espere que abrande. O guia sobre [quando é melhor não conduzir](/rotas-e-mobilidade/quando-nao-conduzir/) compara as alternativas à mota nesses dias.",
+        "Nenhuma técnica compensa uma chuva que o impede de ver ou de controlar a mota. Se a viseira embacia e não a consegue limpar, se sente a mota a perder aderência ou se o trânsito deixou de ser legível, encoste num sítio seguro e espere que abrande. O guia sobre [quando é melhor não conduzir](/rotas-e-mobilidade/quando-nao-conduzir/) compara as alternativas à mota nesses dias. Com chuva e cansaço ao mesmo tempo, vale a pena ler também os sinais e as pausas no guia sobre [fadiga numa viagem de mota](/guia-de-aluguer/fadiga-e-pausas/).",
         "Se a mota ficar com algum problema depois de uma travagem difícil, não continue. O guia da [assistência na estrada](/guia-de-aluguer/assistencia-na-estrada/) explica o que esperar, e pode contactar a loja pelo {{phone}}."
       ]
     },
@@ -301,13 +301,18 @@
   },
   "status": "PUBLISHED",
   "date_published": "2026-10-13",
-  "date_modified": "2026-10-13",
+  "date_modified": "2026-10-14",
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1765,
+    "words": 1813,
     "publish_mode": "review",
-    "approved_at": "2026-10-13",
-    "revisions": []
+    "approved_at": "2026-10-14",
+    "revisions": [
+      {
+        "date": "2026-10-14",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

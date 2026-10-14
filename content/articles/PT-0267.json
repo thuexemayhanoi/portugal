@@ -15,7 +15,7 @@
   ],
   "intro": [
     "Os mercados de Hanói têm horários muito diferentes: um funciona de madrugada, outro de manhã até ao fim da tarde, outro ainda ao fim de semana à noite. Por isso, o que decide um roteiro é a hora a que cada um abre, e só depois a distância entre eles. Esta página ordena quatro mercados por horário e diz, em cada paragem, o que as fontes confirmam e o que ficou por confirmar.",
-    "As informações vêm de guias de viagem e de notícias vietnamitas consultados a 14 de outubro de 2026. Vários guias são antigos ou sem data, e as moradas podem ter mudado de nome de bairro com a reorganização administrativa de 2025. O mercado [Đồng Xuân tem o seu próprio guia](/zonas-de-hanoi/mercado-dong-xuan-de-mota/), com os horários e o estacionamento; aqui só entra no roteiro, sem repetir esse guia. As outras ideias de itinerário estão em [rotas e mobilidade](/rotas-e-mobilidade/)."
+    "As informações vêm de guias de viagem e de notícias vietnamitas consultados a 14 de outubro de 2026. Vários guias são antigos ou sem data, e as moradas podem ter mudado de nome de bairro com a reorganização administrativa de 2025. O mercado [Đồng Xuân tem o seu próprio guia](/zonas-de-hanoi/mercado-dong-xuan-de-mota/), com os horários e o estacionamento; aqui só entra no roteiro. Outros itinerários, como o [roteiro da arquitetura colonial francesa](/rotas-e-mobilidade/roteiro-da-arquitetura-colonial/), estão em [rotas e mobilidade](/rotas-e-mobilidade/)."
   ],
   "sections": [
     {
@@ -275,6 +275,11 @@
     "words": 1998,
     "publish_mode": "review",
     "approved_at": "2026-10-14",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-14",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

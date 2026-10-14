@@ -62,7 +62,7 @@
     {
       "h2": "Escolher a duração: uma semana de ensaio antes do mês",
       "body": [
-        "Quem chega para uma estadia longa raramente sabe, no primeiro dia, quantas vezes vai usar a mota. Uma forma prudente de começar é alugar uma semana como ensaio: no fim, já sabe se a mota entrou na rotina ou se ficou parada à porta.",
+        "Quem chega para uma estadia longa raramente sabe, no primeiro dia, quantas vezes vai usar a mota. Uma forma prudente de começar é alugar uma semana como ensaio: no fim, já sabe se a mota entrou na rotina ou se ficou parada à porta. Se [aterra à noite](/precos/chegada-a-noite-a-hanoi/), levante-a na manhã seguinte.",
         {
           "steps": [
             {
@@ -169,7 +169,7 @@
             ]
           }
         },
-        "Ponha o total ao lado do que gastaria em aplicações de transporte nos mesmos percursos. Se a diferença for pequena, pesam a liberdade de horários e o cansaço de conduzir todos os dias.",
+        "Ponha o total ao lado do que gastaria em aplicações de transporte nos mesmos percursos (e [alugar ou comprar uma mota](/precos/alugar-ou-comprar-mota/) é outra conta). Se a diferença for pequena, pesam a liberdade de horários e o cansaço de conduzir todos os dias.",
         "Se lhe pedirem caução, não é um custo, mas o valor fica entregue durante toda a estadia. Pergunte o montante e a forma antes de planear o orçamento do mês; o guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/) explica o que ponderar."
       ]
     },
@@ -240,13 +240,22 @@
   },
   "status": "PUBLISHED",
   "date_published": "2026-10-13",
-  "date_modified": "2026-10-13",
+  "date_modified": "2026-10-14",
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 2183,
+    "words": 2200,
     "publish_mode": "review",
-    "approved_at": "2026-10-13",
-    "revisions": []
+    "approved_at": "2026-10-14",
+    "revisions": [
+      {
+        "date": "2026-10-14",
+        "reason": "Ligações internas para artigos publicados depois"
+      },
+      {
+        "date": "2026-10-14",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

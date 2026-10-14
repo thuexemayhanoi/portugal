@@ -14,7 +14,7 @@
     "A entrega no alojamento depende da loja, caso a caso: peça a confirmação por escrito antes de contar com ela."
   ],
   "intro": [
-    "Quem fica no Bairro Antigo tem a loja do outro lado do rio. Não é um passeio a pé nem uma paragem de caminho: é uma travessia que se organiza, com um meio de transporte para ir, uma hora que convém escolher e uma primeira viagem de mota que, para quem fica no Bairro Antigo, termina nas ruas mais apertadas da cidade.",
+    "Quem fica no Bairro Antigo e quer [alugar uma mota em Hanói](/) tem a loja do outro lado do rio. Não é um passeio a pé nem uma paragem de caminho: é uma travessia que se organiza, com um meio de transporte para ir, uma hora que convém escolher e uma primeira viagem de mota que, para quem fica no Bairro Antigo, termina nas ruas mais apertadas da cidade.",
     "Este guia é para quem já decidiu alugar e quer montar o primeiro dia a partir do centro: como chegar ao balcão, a que horas, como fazer a viagem de volta e como contar com o regresso à loja no fim. O que levar e o que confirmar antes de sair está em [aluguer de motas em Long Biên](/zonas-de-hanoi/aluguer-de-motas-em-long-bien/), e as regras da ponte em [ponte Long Biên de mota](/zonas-de-hanoi/ponte-long-bien/). As informações sobre pontes, trânsito e zonas foram verificadas a 13 de outubro de 2026."
   ],
   "sections": [
@@ -282,17 +282,21 @@
   },
   "status": "PUBLISHED",
   "date_published": "2026-10-13",
-  "date_modified": "2026-10-13",
+  "date_modified": "2026-10-14",
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 2109,
+    "words": 2116,
     "publish_mode": "review",
-    "approved_at": "2026-10-13",
+    "approved_at": "2026-10-14",
     "revisions": [
       {
         "date": "2026-10-13",
         "reason": "Ligações internas para artigos publicados depois"
+      },
+      {
+        "date": "2026-10-14",
+        "reason": "Ligação contextual para a página inicial de aluguer de motas em Hanói (página principal do tema)."
       }
     ]
   }

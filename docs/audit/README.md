@@ -1,6 +1,6 @@
 # Audit nội dung & kế hoạch tăng trưởng — 14/10/2026
 
-Sinh lại bằng `node scripts/audit-content.mjs` (chỉ đọc repo, không gọi mạng) và `node scripts/guard.mjs`. Số liệu dưới đây là tại thời điểm commit.
+Sinh lại bằng `node scripts/audit-content.mjs` (chỉ đọc repo, không gọi mạng) và `node scripts/guard.mjs`. Bảng dưới đây là bản tóm tắt; **số liệu hiện hành luôn nằm trong `summary.json` và `seo-matrix-summary.json`** (sinh lại ở mỗi batch). Ma trận theo từng URL: xem `SEO-MATRIX.md`.
 
 ## Tình trạng
 
@@ -10,8 +10,8 @@ Sinh lại bằng `node scripts/audit-content.mjs` (chỉ đọc repo, không g�
 | Bài theo kế hoạch 300 | 300 đã đăng · 0 còn lại |
 | URL index nhưng thiếu trong sitemap | 0 |
 | Canonical sai | 0 |
-| Bài chưa có liên kết ngữ cảnh trỏ vào | 79 (chỉ có link từ hub/archive) |
-| Cặp có nguy cơ ăn thịt từ khóa | HIGH 1 · MEDIUM 6 · LOW 46 |
+| Bài chưa có liên kết ngữ cảnh trỏ vào | 0 (sau SEO batch 1 và 4) |
+| Cặp có nguy cơ ăn thịt từ khóa | HIGH 0 · MEDIUM 0 · LOW 43 (sau SEO batch 2) |
 
 **Chưa đo được** (không giả định): HTTP status trên site thật (xem workflow SEO Monitor), Search Console (chưa kết nối), Core Web Vitals thực tế.
 
@@ -58,8 +58,7 @@ Bản nháp đặt trong `_factory/hold/` luôn là REVIEW và không bao giờ 
 | Luật Việt Nam thay đổi (Nghị định 168, Nghị quyết 56/2026 Hà Nội nhân 1,5–2 lần mức phạt) | Cao | Bài có `legal_note` ghi ngày tra cứu; rà soát định kỳ |
 | Phường Bồ Đề có thể đã đổi tên sau sắp xếp hành chính 2025 | Trung bình | Không sửa NAP — chủ site xác nhận |
 | Giờ mở cửa/giá vé của điểm tham quan lấy từ nguồn du lịch không đồng nhất | Trung bình | Bài ghi rõ là khoảng giá, khuyên kiểm tra lại |
-| Templo da Literatura ↔ Cidadela Imperial (HIGH, trùng đoạn về đường đi/đỗ xe chung khu vực) | Thấp | Hai địa danh, hai intent khác nhau; giữ nguyên, theo dõi Search Console |
-| 79 bài chưa có link ngữ cảnh trỏ vào | Thấp | Lượt liên kết chéo tiếp theo (bản sửa giữ nguyên URL) |
+| Đoạn chung lặp lại giữa các bài cùng khu vực (đỗ xe, cầu Long Biên, vùng phát thải thấp) | Thấp | Đã viết lại ở 6 bài (batch 2): mỗi bài một câu riêng + link về bài hướng dẫn chính. Bài mới nên làm tương tự |
 
 ## Triển khai
 

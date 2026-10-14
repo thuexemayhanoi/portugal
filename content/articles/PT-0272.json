@@ -111,7 +111,7 @@
         {
           "h3": "Rua Hàng Mã antes do Meio do Outono"
         },
-        "Semanas antes da festa, a rua Hàng Mã já está cheia de visitantes a fotografar, segundo a imprensa vietnamita. O festival do Meio do Outono do Bairro Antigo decorreu de 11 a 25 de setembro de 2026, e o mercado ocupa a rua entre os cruzamentos com Hàng Đường e Hàng Cót. A data de 2027 não está confirmada. Estacione fora da rua e vá a pé.",
+        "Semanas antes da festa, a rua Hàng Mã já está cheia de visitantes a fotografar, segundo a imprensa vietnamita. O festival do Meio do Outono do Bairro Antigo decorreu de 11 a 25 de setembro de 2026, e o mercado ocupa a rua entre os cruzamentos com Hàng Đường e Hàng Cót. A data de 2027 não está confirmada. Estacione fora da rua e vá a pé. Para as lojas de seda e as aldeias de lacas, veja o [roteiro de artesanato em Hanói de mota](/rotas-e-mobilidade/roteiro-do-artesanato/).",
         {
           "h3": "Aldeias de flores de Nhật Tân e Tứ Liên"
         },
@@ -388,13 +388,18 @@
   },
   "status": "PUBLISHED",
   "date_published": "2026-10-13",
-  "date_modified": "2026-10-13",
+  "date_modified": "2026-10-14",
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1973,
+    "words": 1992,
     "publish_mode": "review",
-    "approved_at": "2026-10-13",
-    "revisions": []
+    "approved_at": "2026-10-14",
+    "revisions": [
+      {
+        "date": "2026-10-14",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

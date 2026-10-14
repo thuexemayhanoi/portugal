@@ -14,7 +14,7 @@
     "Os preços de referência são por veículo, entre {{price.min.day}} e {{price.max.day}} por dia: o total para várias motas é a loja que o confirma."
   ],
   "intro": [
-    "Há quem precise de uma mota em Hanói por razões profissionais: um técnico que visita fornecedores durante uma semana, uma consultora que passa um mês na cidade, uma pequena equipa de filmagem. Para quem conduz, o aluguer é igual ao de qualquer outro cliente. A diferença está à volta: a despesa tem de ser justificada, às vezes é paga por outra pessoa e pode envolver várias motas.",
+    "Há quem precise de [alugar uma mota em Hanói](/) por razões profissionais: um técnico que visita fornecedores durante uma semana, uma consultora que passa um mês na cidade, uma pequena equipa de filmagem. Para quem conduz, o aluguer é igual ao de qualquer cliente. A diferença está à volta: a despesa tem de ser justificada, às vezes é paga por outra pessoa e pode envolver várias motas.",
     "Este guia reúne o que convém esclarecer quando o aluguer é feito para trabalho ou em nome de uma empresa. Não indica o que a loja {{brand}} emite ou aceita, porque isso não está publicado: diz-lhe o que perguntar e como pedir a resposta por escrito."
   ],
   "sections": [
@@ -234,7 +234,7 @@
   },
   "status": "PUBLISHED",
   "date_published": "2026-10-13",
-  "date_modified": "2026-10-13",
+  "date_modified": "2026-10-14",
   "editorial": {
     "qa_score": 98,
     "qa_warnings": [
@@ -242,7 +242,7 @@
     ],
     "words": 2232,
     "publish_mode": "review",
-    "approved_at": "2026-10-13",
+    "approved_at": "2026-10-14",
     "revisions": [
       {
         "date": "2026-10-13",
@@ -251,6 +251,10 @@
       {
         "date": "2026-10-13",
         "reason": "Ligações internas para artigos publicados depois"
+      },
+      {
+        "date": "2026-10-14",
+        "reason": "Ligação contextual para a página inicial de aluguer de motas em Hanói (página principal do tema)."
       }
     ]
   }

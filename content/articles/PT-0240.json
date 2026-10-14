@@ -145,7 +145,7 @@
         {
           "h3": "Ecopark: uma saída de Hanói"
         },
-        "Segundo os guias de viagem, o Ecopark fica na província vizinha de Hưng Yên, ao passo que Bát Tràng fica em Hanói. Se o destino é o Ecopark, está a sair da cidade com a mota: peça autorização à loja antes de partir, como explica o guia sobre [levar a mota alugada para fora de Hanói](/guia-de-aluguer/autorizacao-para-sair-de-hanoi/)."
+        "Segundo os guias de viagem, o Ecopark fica na província vizinha de Hưng Yên, ao passo que Bát Tràng fica em Hanói. Se o destino é o Ecopark, está a sair da cidade com a mota: peça autorização à loja antes de partir, como explica o guia sobre [levar a mota alugada para fora de Hanói](/guia-de-aluguer/autorizacao-para-sair-de-hanoi/). Os dois percursos e as perguntas a fazer à entrada estão no guia do [Ecopark de mota](/zonas-de-hanoi/ecopark-de-mota/)."
       ]
     },
     {
@@ -162,7 +162,7 @@
             "Levar a carta de condução e os documentos pedidos pela loja; o guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/) explica o que preparar."
           ]
         },
-        "Se for a primeira vez que conduz em Hanói, faça antes uns quilómetros calmos do lado de Long Biên, como sugere o guia sobre o [aluguer de motas em Long Biên](/zonas-de-hanoi/aluguer-de-motas-em-long-bien/). Outros guias por bairro e por saída estão reunidos em [Zonas de Hanói](/zonas-de-hanoi/)."
+        "Se for a primeira vez que conduz em Hanói, faça antes uns quilómetros calmos do lado de Long Biên, como sugere o guia sobre o [aluguer de motas em Long Biên](/zonas-de-hanoi/aluguer-de-motas-em-long-bien/). Para um passeio que não sai de Hanói, veja a [lagoa do Ocean Park de mota](/zonas-de-hanoi/lagoa-do-ocean-park/). Outros guias por bairro e por saída estão reunidos em [Zonas de Hanói](/zonas-de-hanoi/)."
       ]
     }
   ],
@@ -252,13 +252,18 @@
   },
   "status": "PUBLISHED",
   "date_published": "2026-10-13",
-  "date_modified": "2026-10-13",
+  "date_modified": "2026-10-14",
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1903,
+    "words": 1936,
     "publish_mode": "review",
-    "approved_at": "2026-10-13",
-    "revisions": []
+    "approved_at": "2026-10-14",
+    "revisions": [
+      {
+        "date": "2026-10-14",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

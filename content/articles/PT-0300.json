@@ -168,7 +168,8 @@
           "ul": [
             "**Autocarro.** As fontes consultadas não trazem horários, preços nem empresas de autocarro entre Hanói e Mai Châu, por isso não indicamos nenhum. Pergunte no alojamento ou numa agência e confirme onde e a que horas sai.",
             "**A mota fica em Hanói.** Se vai sem ela, compare manter o aluguer com devolvê-lo e voltar a alugar, como explica o guia sobre [uma viagem a meio da estadia](/precos/sair-de-hanoi-a-meio-do-aluguer/).",
-            "**Sem prática de mota.** Se nunca conduziu uma mota, a QL6 não é o sítio para começar; veja o guia para quem [nunca conduziu uma mota](/tipos-de-motas/nunca-conduziu-uma-mota/)."
+            "**Sem prática de mota.** Se nunca conduziu uma mota, a QL6 não é o sítio para começar; veja o guia para quem [nunca conduziu uma mota](/tipos-de-motas/nunca-conduziu-uma-mota/).",
+            "**Uma saída de montanha mais perto.** Tam Đảo fica a 80 a 85 km de Hanói, e o guia de [Tam Đảo de mota a partir de Hanói](/rotas-e-mobilidade/tam-dao-de-mota/) descreve a subida e o clima."
           ]
         }
       ]
@@ -322,13 +323,18 @@
   },
   "status": "PUBLISHED",
   "date_published": "2026-10-13",
-  "date_modified": "2026-10-13",
+  "date_modified": "2026-10-14",
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 2133,
+    "words": 2167,
     "publish_mode": "review",
-    "approved_at": "2026-10-13",
-    "revisions": []
+    "approved_at": "2026-10-14",
+    "revisions": [
+      {
+        "date": "2026-10-14",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

@@ -96,7 +96,7 @@
       "body": [
         "A estação central, a Ga Hà Nội, fica na rua Lê Duẩn, no número 120, a pouco menos de 2 km do centro do Bairro Antigo, segundo sites de viagens. Tem duas secções: a «estação A», do lado da Lê Duẩn, trata dos comboios para sul, e a «estação B», com entrada separada na rua Trần Quý Cáp, trata dos comboios para norte.",
         "Nenhuma fonte cita Lào Cai de forma expressa para a estação B. É plausível que os comboios para Lào Cai partam desse lado, mas não está confirmado. Veja no bilhete a plataforma e o edifício, e pergunte a um funcionário se tiver dúvidas. Um dos sites descreve o caminho de A a B: atravesse a passagem de nível perto da Lê Duẩn, a norte, e siga a rua à esquerda.",
-        "A partir de {{area}}, onde fica a loja, o mais simples é ir de táxi ou de mota com condutor, com a mala ao colo e sem a preocupação de estacionar. O [guia dos táxis em Hanói](/rotas-e-mobilidade/taxis-em-hanoi/) explica como pedir uma viagem e mostrar o destino em vietnamita. Chegue com folga: os balcões e os horários de venda de bilhetes divergem entre as fontes, e não os conseguimos confirmar.",
+        "A partir de {{area}}, onde fica a loja, o mais simples é ir de táxi ou de mota com condutor, com a mala ao colo e sem a preocupação de estacionar. O [guia dos táxis em Hanói](/rotas-e-mobilidade/taxis-em-hanoi/) explica como pedir uma viagem e mostrar o destino em vietnamita. Chegue com folga: os balcões e os horários de venda de bilhetes divergem entre as fontes, e não os conseguimos confirmar. Se sobrarem horas antes da partida da noite, o guia do [xích lô em Hanói](/rotas-e-mobilidade/xich-lo-em-hanoi/) explica como combinar o preço de um passeio pelo Bairro Antigo.",
         "Se tem curiosidade pela linha e pelas ruas que a rodeiam, veja a [rua do comboio de Hanói](/zonas-de-hanoi/rua-do-comboio/), onde explicamos porque o acesso e os controlos mudam."
       ]
     },
@@ -277,9 +277,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1938,
+    "words": 1964,
     "publish_mode": "review",
     "approved_at": "2026-10-14",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-14",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

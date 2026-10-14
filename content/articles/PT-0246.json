@@ -99,7 +99,7 @@
             }
           ]
         },
-        "Se o dia incluir o Phủ Tây Hồ, as regras de lá estão em [Templo Phủ Tây Hồ de mota](/zonas-de-hanoi/templo-phu-tay-ho/): um parque para cada paragem é mais simples."
+        "Se o dia incluir o Phủ Tây Hồ, as regras de lá estão em [Templo Phủ Tây Hồ de mota](/zonas-de-hanoi/templo-phu-tay-ho/): um parque para cada paragem é mais simples. Também junto ao Lago Oeste, o [mercado de flores de Quảng An](/zonas-de-hanoi/mercado-de-flores-quang-an/) é noturno."
       ]
     },
     {
@@ -115,7 +115,7 @@
             "**Tết**: o Tết de 2027 é no sábado, 6 de fevereiro. Na passagem do ano, o pagode fica aberto toda a noite."
           ]
         },
-        "Para encaixar o pagode no resto do dia, veja o [itinerário de Hanói de mota num dia](/rotas-e-mobilidade/hanoi-de-mota-num-dia/). Evite estar à porta às 16:00, quando a versão mais curta já fecha."
+        "Para encaixar o pagode no resto do dia, veja o [itinerário de Hanói de mota num dia](/rotas-e-mobilidade/hanoi-de-mota-num-dia/)."
       ]
     },
     {
@@ -291,6 +291,11 @@
     "words": 1994,
     "publish_mode": "review",
     "approved_at": "2026-10-14",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-14",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

@@ -81,7 +81,7 @@
           "steps": [
             {
               "title": "Deixe ir e confirme que está bem",
-              "text": "Não persiga quem fugiu: o seu bem-estar vale mais do que o telemóvel ou a mala. Se caiu ou está ferido, ligue ao 115, o número da emergência médica."
+              "text": "Não persiga quem fugiu: o seu bem-estar vale mais do que o telemóvel ou a mala. Se caiu ou está ferido, ligue ao 115, o número da emergência médica; o guia de [primeiros socorros na mota](/guia-de-aluguer/kit-de-primeiros-socorros/) explica o que fazer nos primeiros minutos e o que evitar. Se a mota também caiu, veja como [levantá-la e o que verificar antes de arrancar](/guia-de-aluguer/a-mota-caiu/)."
             },
             {
               "title": "Ligue ao 113",
@@ -276,13 +276,18 @@
   },
   "status": "PUBLISHED",
   "date_published": "2026-10-13",
-  "date_modified": "2026-10-13",
+  "date_modified": "2026-10-14",
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1917,
+    "words": 1950,
     "publish_mode": "review",
-    "approved_at": "2026-10-13",
-    "revisions": []
+    "approved_at": "2026-10-14",
+    "revisions": [
+      {
+        "date": "2026-10-14",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

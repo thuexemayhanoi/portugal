@@ -25,7 +25,10 @@ export function searchIndex(entries) {
 export function llmsTxt(pages, ctx) {
   const { business: b, site, pricing } = ctx.data;
   const line = (p) => `- [${p.h1}](${site.baseUrl}${p.url}): ${p.description}`;
-  const base = pages.filter((p) => p.kind === 'page' && p.indexable && p.url !== '/');
+  // Home page first: it is the landing page for «aluguer de motas em Hanói».
+  const base = pages.filter((p) => p.kind === 'page' && p.indexable).sort((a, b) => (a.url === '/' ? -1 : b.url === '/' ? 1 : 0));
+  // Category hubs and archives are entry points for each topic cluster (GEO/AEO): list them too.
+  const categories = pages.filter((p) => (p.kind === 'hub' || p.kind === 'archive') && p.indexable);
   const articles = pages.filter((p) => p.kind === 'article');
   return [
     `# ${site.name}`,
@@ -48,6 +51,7 @@ export function llmsTxt(pages, ctx) {
     '',
     '## Páginas principais',
     ...base.map(line),
+    ...(categories.length ? ['', '## Categorias', ...categories.map(line)] : []),
     ...(articles.length ? ['', '## Artigos', ...articles.map(line)] : []),
     ''
   ].join('\n');

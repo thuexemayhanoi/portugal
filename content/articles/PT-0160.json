@@ -77,7 +77,7 @@
             "os piscas, dos dois lados, e o painel, que tem de se ler à noite."
           ]
         },
-        "Se alguma luz falhar, peça a correção ou outra mota antes de sair. Se falhar a meio do aluguer, pare num sítio seguro e avise a loja; o guia da [assistência na estrada](/guia-de-aluguer/assistencia-na-estrada/) descreve os primeiros passos, incluindo o que muda à noite.",
+        "Se alguma luz falhar, peça a correção ou outra mota antes de sair. Se falhar a meio do aluguer, [pare num sítio seguro e avise a loja](/guia-de-aluguer/sinais-de-avaria-em-andamento/); o guia da [assistência na estrada](/guia-de-aluguer/assistencia-na-estrada/) descreve os primeiros passos, incluindo o que muda à noite.",
         "Sempre que possível, faça de dia o caminho que vai repetir de noite e defina a rota antes de arrancar: a lei proíbe usar o telemóvel enquanto se conduz, e o [guia do telemóvel e do GPS na scooter](/tipos-de-motas/telemovel-e-gps-na-scooter/) explica como preparar o percurso sem depender do ecrã. Se a mota é nova para si, comece pelo [treino de 30 minutos](/guia-de-aluguer/treinar-antes-do-transito/)."
       ]
     },
@@ -303,16 +303,20 @@
   },
   "status": "PUBLISHED",
   "date_published": "2026-10-13",
-  "date_modified": "2026-10-13",
+  "date_modified": "2026-10-14",
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
     "words": 1999,
     "publish_mode": "review",
-    "approved_at": "2026-10-13",
+    "approved_at": "2026-10-14",
     "revisions": [
       {
         "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      },
+      {
+        "date": "2026-10-14",
         "reason": "Ligações internas para artigos publicados depois"
       }
     ]

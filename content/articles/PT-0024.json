@@ -27,7 +27,7 @@
         {
           "h3": "O limite dos 125 cm³ nos dois países"
         },
-        "No Vietname, desde 1 de janeiro de 2025, a categoria A1 abrange os motociclos de duas rodas até 125 cm³, e a categoria A o que fica acima. Em Portugal, o IMT indica que a categoria A1 abrange motociclos até 125 cm³. O limite coincide, o que ajuda a perceber a fronteira: uma scooter de 110 ou de 125 cm³ fica do lado da A1, uma de 160 cm³ não.",
+        "No Vietname, desde 1 de janeiro de 2025, a categoria A1 abrange os motociclos de duas rodas até 125 cm³, e a categoria A o que fica acima. Em Portugal, o IMT indica que a categoria A1 abrange motociclos até 125 cm³. O limite coincide: uma scooter de 110 ou de 125 cm³ fica do lado da A1, uma de 160 cm³ não.",
         "O que decide no Vietname não é o limite em si, mas a categoria que a sua carta e a licença internacional mostram. Como visitante, conduz com a carta do seu país e a licença internacional, que só incluem as categorias que já tem. O guia sobre [cilindrada e carta A1](/tipos-de-motas/cilindrada-e-carta-a1/) mostra como confirmar a cilindrada da mota, e o das [categorias A1 e A](/guia-de-aluguer/categorias-a1-e-a/) explica as duas categorias. Os documentos que a loja pede estão em [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/)."
       ]
     },
@@ -170,7 +170,7 @@
             }
           ]
         },
-        "O guia do [aluguer de mota por um dia](/precos/aluguer-de-mota-por-um-dia/) ajuda a planear horários e devolução: a tabela de referência da loja começa em {{price.min.day}} por dia, verificada a {{pricing.verifiedAt}}. Para tirar dúvidas sobre a unidade que lhe cabe, use os [contactos da loja](/contactos/)."
+        "O guia do [aluguer de mota por um dia](/precos/aluguer-de-mota-por-um-dia/) ajuda a planear horários e devolução: a tabela de referência da loja começa em {{price.min.day}} por dia, verificada a {{pricing.verifiedAt}}. Para tirar dúvidas sobre a unidade que lhe cabe, use os [contactos da loja](/contactos/). Com muitos quilómetros, veja [o que verificar](/tipos-de-motas/scooter-com-muitos-quilometros/)."
       ]
     }
   ],
@@ -295,6 +295,11 @@
     "words": 1999,
     "publish_mode": "review",
     "approved_at": "2026-10-14",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-14",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

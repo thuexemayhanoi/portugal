@@ -175,7 +175,7 @@
           ]
         },
         "Para ter uma medida: uma viagem de 5 km na tarifa publicada do GrabBike Tiếng Anh custa cerca de 33,7 mil VND. A coima mais baixa, de 2 milhões de VND, é cerca de 60 vezes mais. É uma conta nossa, com valores de datas diferentes, mas a ordem de grandeza é esta.",
-        "Pedalar não é saída. Segundo um vídeo do Tuổi Trẻ, quem conduz uma bicicleta, incluindo elétrica, com álcool no sangue ou no ar expirado também é sancionado. O montante não foi confirmado. As consequências para o seguro de viagem e para o acordo de aluguer estão no guia do [álcool zero ao volante](/guia-de-aluguer/alcool-zero-ao-volante/)."
+        "Pedalar não é saída, nem com uma [bicicleta partilhada](/rotas-e-mobilidade/bicicleta-em-hanoi/). Segundo um vídeo do Tuổi Trẻ, quem conduz uma bicicleta, incluindo elétrica, com álcool no sangue ou no ar expirado também é sancionado. O montante não foi confirmado. As consequências para o seguro de viagem e para o acordo de aluguer estão no guia do [álcool zero ao volante](/guia-de-aluguer/alcool-zero-ao-volante/)."
       ]
     }
   ],
@@ -319,15 +319,20 @@
   },
   "status": "PUBLISHED",
   "date_published": "2026-10-13",
-  "date_modified": "2026-10-13",
+  "date_modified": "2026-10-14",
   "editorial": {
     "qa_score": 98,
     "qa_warnings": [
       "source code X: Entidade ou operador oficial (metro, autocarros, ferrovia, aeroporto, preços oficiais de combustível, bancos)."
     ],
-    "words": 1857,
+    "words": 1862,
     "publish_mode": "review",
-    "approved_at": "2026-10-13",
-    "revisions": []
+    "approved_at": "2026-10-14",
+    "revisions": [
+      {
+        "date": "2026-10-14",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

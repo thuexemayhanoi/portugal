@@ -9,13 +9,13 @@
   "primaryKeyword": "nguyễn tú aluguer de motas long biên",
   "eyebrow": "Quem somos",
   "lead": "Uma loja de aluguer de motas em Long Biên, Hanói, com informação clara em português para quem visita a cidade.",
-  "updated": "2026-10-12",
+  "updated": "2026-10-14",
   "toc": true,
   "sections": [
     {
       "h2": "A loja",
       "body": [
-        "**{{name}}** — em português, «aluguer de motas Nguyễn Tú» — é uma loja de aluguer de motas em Long Biên, Hanói. Neste site usamos o nome **{{display}}**, mas é a mesma loja: a mesma morada, o mesmo telefone e o mesmo horário.",
+        "**{{name}}** — em português, «aluguer de motas Nguyễn Tú» — é uma loja de [aluguer de motas em Hanói](/), em Long Biên. Neste site usamos o nome **{{display}}**, mas é a mesma loja: a mesma morada, o mesmo telefone e o mesmo horário.",
         {
           "dl": [
             [

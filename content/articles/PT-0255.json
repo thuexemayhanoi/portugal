@@ -89,7 +89,7 @@
           "steps": [
             {
               "title": "Ir à estação de partida",
-              "text": "Vá a uma estação com serviço de expedição. Em Hanói, o blogue de viagens Coracle fala de gabinetes que abrem, em regra, das 07:00 às 11:30 e das 13:30 às 18:00. Como a fonte é um guia para viajantes, confirme o horário do próprio dia."
+              "text": "Vá a uma estação com serviço de expedição; a [estação ferroviária de Hanói](/zonas-de-hanoi/estacao-ferroviaria-de-hanoi/), por exemplo, tem duas secções, em ruas diferentes. Em Hanói, o blogue de viagens Coracle fala de gabinetes que abrem, em regra, das 07:00 às 11:30 e das 13:30 às 18:00. Como a fonte é um guia para viajantes, confirme o horário do próprio dia."
             },
             {
               "title": "Procurar o balcão certo",
@@ -164,7 +164,7 @@
             "**Prazo curto:** como não temos o prazo de entrega, uma mota enviada no último dia pode chegar depois de si."
           ]
         },
-        "Os preços por dia, semana e mês estão na [página de preços](/precos/), e servem para ver o que custa manter a mota alugada durante a ausência, caso decida não a devolver. As estações e os terminais da capital estão reunidos em [Zonas de Hanói](/zonas-de-hanoi/)."
+        "Os preços por dia, semana e mês estão na [página de preços](/precos/), e servem para ver o que custa manter a mota alugada durante a ausência, caso decida não a devolver. Se preferir seguir de autocarro de longa distância, o guia dos [terminais de autocarros de Hanói](/zonas-de-hanoi/terminais-de-autocarros/) diz para que serve cada um. As estações e os terminais da capital estão reunidos em [Zonas de Hanói](/zonas-de-hanoi/)."
       ]
     },
     {
@@ -280,9 +280,14 @@
     "qa_warnings": [
       "source code X: Entidade ou operador oficial (metro, autocarros, ferrovia, aeroporto, preços oficiais de combustível, bancos)."
     ],
-    "words": 1969,
+    "words": 2004,
     "publish_mode": "review",
     "approved_at": "2026-10-14",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-14",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

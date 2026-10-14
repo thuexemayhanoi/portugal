@@ -38,7 +38,7 @@
     {
       "h2": "Preparar as notas antes de ir à loja",
       "body": [
-        "Levante o dinheiro com antecedência e não à pressa, à porta da loja. Se usar uma caixa automática, prefira fazê-lo de dia, num local movimentado ou dentro de uma agência bancária, e guarde o talão: mostra a data, a hora e o montante levantado. As comissões por levantamentos no estrangeiro variam de banco para banco, por isso convém perguntar ao seu antes de viajar.",
+        "Levante o dinheiro com antecedência e não à pressa, à porta da loja. Se usar uma caixa automática, prefira fazê-lo de dia, num local movimentado ou dentro de uma agência bancária, e guarde o talão: mostra a data, a hora e o montante levantado. As comissões por levantamentos no estrangeiro variam de banco para banco, por isso convém perguntar ao seu antes de viajar. Se ainda tem de trocar euros por dong, o guia sobre [pagar o aluguer em dong](/precos/pagar-em-dong-vietnamita/) explica as notas, o câmbio e onde trocar.",
         "Separe o valor exato da caução do resto do dinheiro, num envelope ou numa bolsa à parte. Assim não tem de abrir a carteira no balcão nem contar notas misturadas com as do dia a dia. Leve apenas o que precisa para esse dia; o restante pode ficar no alojamento.",
         {
           "note": "As notas de dong têm muitos zeros e, com pressa, é fácil trocar valores. Ordene as notas por valor antes de sair do alojamento e conte-as uma vez com calma, para chegar à loja já com o total certo.",
@@ -194,13 +194,18 @@
   },
   "status": "PUBLISHED",
   "date_published": "2026-10-13",
-  "date_modified": "2026-10-13",
+  "date_modified": "2026-10-14",
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1778,
+    "words": 1802,
     "publish_mode": "review",
-    "approved_at": "2026-10-13",
-    "revisions": []
+    "approved_at": "2026-10-14",
+    "revisions": [
+      {
+        "date": "2026-10-14",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

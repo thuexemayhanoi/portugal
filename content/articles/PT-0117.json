@@ -171,7 +171,7 @@
     {
       "h2": "Um plano misto para a estadia",
       "body": [
-        "A escolha não tem de ser total. Muitas estadias ganham com uma mistura: a mota nos dias de muitas paragens ou de saída da cidade, e o táxi na chegada, na partida, à noite e nos dias de chuva. Para a parte do aluguer, esta é a tabela de referência das scooters automáticas:",
+        "A escolha não tem de ser total. Muitas estadias ganham com uma mistura: a mota nos dias de muitas paragens ou de saída da cidade, e o táxi na chegada, na partida, à noite e nos dias de chuva. O metro e o autocarro são outras peças possíveis do plano, e o guia sobre [mota, metro ou autocarro em Hanói](/precos/mota-metro-ou-autocarro/) compara o custo e o tempo de cada um. Para a parte do aluguer, esta é a tabela de referência das scooters automáticas:",
         {
           "component": "price-table",
           "category": "scooters-automaticas"
@@ -326,13 +326,18 @@
   },
   "status": "PUBLISHED",
   "date_published": "2026-10-13",
-  "date_modified": "2026-10-13",
+  "date_modified": "2026-10-14",
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 2030,
+    "words": 2060,
     "publish_mode": "review",
-    "approved_at": "2026-10-13",
-    "revisions": []
+    "approved_at": "2026-10-14",
+    "revisions": [
+      {
+        "date": "2026-10-14",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

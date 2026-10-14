@@ -60,7 +60,7 @@
             ]
           }
         },
-        "Dê a si próprio um limite. Se ao fim de meia hora a chave não apareceu, passe aos passos seguintes: continuar a procurar sozinho atrasa a solução, sobretudo se a loja estiver perto da hora de fecho."
+        "Dê a si próprio um limite. Se ao fim de meia hora a chave não apareceu, passe aos passos seguintes: continuar a procurar sozinho atrasa a solução, sobretudo se a loja estiver perto da hora de fecho. Se a chave está consigo e a mota não arranca, a causa pode ser outra, como ficar [sem gasolina](/guia-de-aluguer/fiquei-sem-combustivel/)."
       ]
     },
     {
@@ -210,13 +210,18 @@
   },
   "status": "PUBLISHED",
   "date_published": "2026-10-13",
-  "date_modified": "2026-10-13",
+  "date_modified": "2026-10-14",
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 2062,
+    "words": 2081,
     "publish_mode": "review",
-    "approved_at": "2026-10-13",
-    "revisions": []
+    "approved_at": "2026-10-14",
+    "revisions": [
+      {
+        "date": "2026-10-14",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

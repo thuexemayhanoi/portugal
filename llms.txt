@@ -17,8 +17,9 @@
 - A loja não publica avaliações, montantes de caução, entrega gratuita nem atendimento 24 horas; não cite estes dados a partir deste site.
 
 ## Páginas principais
+- [Aluguer de motas em Hanói, com condições claras](https://pt.rentbikehanoi.com/): Alugue uma mota em Hanói na Nguyễn Tú, em Long Biên: scooters automáticas, semiautomáticas, 50 cc e elétricas. Preços de referência e guias em português.
 - [Contactos](https://pt.rentbikehanoi.com/contactos/): Contacte a Nguyễn Tú por telefone ou Zalo: +84 942 467 674. Loja em 112 Nguyễn Văn Cừ, Long Biên, Hanói, aberta todos os dias, das 09:00 às 21:00.
-- [Documentação e caução: o que preparar antes de alugar](https://pt.rentbikehanoi.com/guia-de-aluguer/documentacao-e-caucao/): Que documentos levar para alugar e conduzir uma mota em Hanói, como funciona a caução e que perguntas fazer antes de assinar. Com fontes oficiais.
+- [Documentação e caução para alugar mota em Hanói: o que preparar](https://pt.rentbikehanoi.com/guia-de-aluguer/documentacao-e-caucao/): Que documentos levar para alugar e conduzir uma mota em Hanói, como funciona a caução e que perguntas fazer antes de assinar. Com fontes oficiais.
 - [Como alugar uma mota em Hanói, passo a passo](https://pt.rentbikehanoi.com/guia-de-aluguer/): Guia prático para alugar uma mota em Hanói: escolher o modelo, confirmar preço e caução, preparar documentos, inspecionar a mota e devolvê-la sem surpresas.
 - [Motas de 50 cc em Hanói: quando fazem sentido](https://pt.rentbikehanoi.com/tipos-de-motas/motas-50cc/): Aluguer de motas e scooters de 50 cc em Hanói: preço de referência por dia, para quem fazem sentido, limites de velocidade e regras a confirmar.
 - [Perguntas frequentes](https://pt.rentbikehanoi.com/perguntas-frequentes/): Respostas diretas sobre aluguer de motas em Hanói: horário, preços, caução, documentos, carta de condução, capacete, entrega e contacto com a loja Nguyễn Tú.
@@ -28,6 +29,28 @@
 - [Sobre a Nguyễn Tú](https://pt.rentbikehanoi.com/sobre-nos/): Conheça a Nguyễn Tú, loja de aluguer de motas em Long Biên, Hanói: dados oficiais, morada, horário, motas disponíveis e como verificamos a informação.
 - [Termos e condições](https://pt.rentbikehanoi.com/termos-e-condicoes/): Condições de utilização deste site informativo: natureza dos preços de referência, acordo de aluguer feito com a loja e responsabilidades de quem conduz.
 - [Que tipo de mota alugar em Hanói?](https://pt.rentbikehanoi.com/tipos-de-motas/): Scooter automática, semiautomática, 50 cc ou elétrica? Compare os tipos de motas para alugar em Hanói, para quem serve cada um e o que deve confirmar.
+
+## Categorias
+- [Zonas de Hanói](https://pt.rentbikehanoi.com/zonas-de-hanoi/): Guias por zona de Hanói para quem se desloca de mota: Bairro Antigo, Long Biên, Tây Hồ, Ba Đình, estações e pontos de interesse, com regras e estacionamento.
+- [Rotas e mobilidade](https://pt.rentbikehanoi.com/rotas-e-mobilidade/): Itinerários de mota em Hanói, efeito do clima em cada época do ano, alternativas de transporte e o que preparar antes de sair da cidade.
+- [Motas semiautomáticas](https://pt.rentbikehanoi.com/tipos-de-motas/semiautomaticas/): Guias sobre motas semiautomáticas para alugar em Hanói: como funcionam as mudanças, Honda Wave e Yamaha Sirius, preços de referência e cuidados.
+- [Motas elétricas](https://pt.rentbikehanoi.com/tipos-de-motas/eletricas/): Autonomia, carregamento, regras e preços de referência para alugar uma mota ou bicicleta elétrica em Hanói, com o que confirmar antes de sair.
+- [Aluguer por duração](https://pt.rentbikehanoi.com/precos/aluguer-por-duracao/): Como escolher a duração do aluguer de mota em Hanói: tarifas por dia, semana e mês, prolongamentos e estadias longas, com preços de referência.
+- [Cauções e pagamentos](https://pt.rentbikehanoi.com/precos/caucoes-e-pagamentos/): Guias sobre caução e pagamentos no aluguer de motas em Hanói: como funciona a garantia, recibos, devolução e formas de pagamento a confirmar.
+- [Entrega e custos adicionais](https://pt.rentbikehanoi.com/precos/entrega-e-custos-adicionais/): O que pode acrescer ao preço de referência de uma mota alugada em Hanói: entrega, combustível, acessórios, estacionamento e outros custos.
+- [Comparações de preços](https://pt.rentbikehanoi.com/precos/comparacoes-de-precos/): Comparações de custo para decidir com números: modelos de mota entre si, duração do aluguer e mota alugada face a táxi, Grab, metro ou autocarro.
+- [Processo e documentação](https://pt.rentbikehanoi.com/guia-de-aluguer/processo-e-documentacao/): Guias sobre o processo de aluguer de motas em Hanói: orçamento, acordo, carta de condução, licença internacional e documentos do veículo.
+- [Inspeção e segurança](https://pt.rentbikehanoi.com/guia-de-aluguer/inspecao-e-seguranca/): Como inspecionar uma mota alugada e circular com mais segurança em Hanói: travões, pneus, capacete, regras de trânsito e prevenção de riscos.
+- [Condução e utilização diária](https://pt.rentbikehanoi.com/guia-de-aluguer/conducao-e-utilizacao-diaria/): Guias práticos para conduzir uma mota em Hanói: trânsito, cruzamentos, estacionamento, abastecimento, sinais e hábitos que evitam multas.
+- [Entrega, devolução e incidentes](https://pt.rentbikehanoi.com/guia-de-aluguer/entrega-devolucao-e-incidentes/): O que fazer ao receber e devolver uma mota alugada em Hanói e como agir perante um furo, uma avaria, um furto ou um acidente durante o aluguer.
+- [Bairro Antigo e Hoàn Kiếm](https://pt.rentbikehanoi.com/zonas-de-hanoi/bairro-antigo-e-hoan-kiem/): Guias para circular e estacionar de mota no Bairro Antigo e à volta do lago Hoàn Kiếm: zonas pedonais, restrições, horários e alternativas.
+- [Long Biên e Gia Lâm](https://pt.rentbikehanoi.com/zonas-de-hanoi/long-bien-e-gia-lam/): Long Biên e Gia Lâm, na margem leste do rio Vermelho, onde fica a loja: pontes, acessos ao centro, percursos e serviços úteis para quem aluga mota.
+- [Tây Hồ e Ba Đình](https://pt.rentbikehanoi.com/zonas-de-hanoi/tay-ho-e-ba-dinh/): Guias de mota para Tây Hồ e Ba Đình: volta ao Lago Oeste, regras junto a zonas oficiais, estacionamento e conselhos para quem fica alojado.
+- [Estações e pontos de interesse](https://pt.rentbikehanoi.com/zonas-de-hanoi/estacoes-e-pontos-de-interesse/): Como chegar de mota a estações, ao aeroporto e a pontos de interesse de Hanói, onde estacionar e quando é melhor optar por outro transporte.
+- [Itinerários urbanos](https://pt.rentbikehanoi.com/rotas-e-mobilidade/itinerarios-urbanos/): Itinerários urbanos para fazer de mota em Hanói, com ordem de visita, estacionamento em cada paragem e alternativas quando o tempo não ajuda.
+- [Clima e épocas do ano](https://pt.rentbikehanoi.com/rotas-e-mobilidade/clima-e-epocas-do-ano/): Como a chuva, o calor, o inverno húmido e os feriados afetam a condução de mota em Hanói, com dados oficiais e conselhos de preparação.
+- [Alternativas de transporte](https://pt.rentbikehanoi.com/rotas-e-mobilidade/alternativas-de-transporte/): Quando faz sentido não conduzir em Hanói e que alternativas existem: metro, autocarros, táxis, mota com condutor e bicicleta partilhada.
+- [Viagens fora de Hanói](https://pt.rentbikehanoi.com/rotas-e-mobilidade/viagens-fora-de-hanoi/): O que confirmar antes de levar uma mota alugada para fora de Hanói: autorização da loja, estado do veículo, estradas permitidas e planeamento.
 
 ## Artigos
 - [Alugar uma Honda Vision em Hanói: guia prático](https://pt.rentbikehanoi.com/tipos-de-motas/honda-vision-em-hanoi/): Honda Vision para alugar em Hanói: como é a condução, consumo, arrumação, preço de referência por dia, semana e mês e o que verificar na entrega.

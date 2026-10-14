@@ -298,7 +298,7 @@
             }
           ]
         },
-        "Quando tiver as datas, [contacte a loja](/contactos/) por telefone ou Zalo através do {{phone}}. A loja está aberta {{hours}}, o que permite marcar o levantamento para uma hora com menos trânsito."
+        "Quando tiver as datas, [contacte a loja](/contactos/) por telefone ou Zalo através do {{phone}}. A loja está aberta {{hours}}, o que permite marcar o levantamento para uma hora com menos trânsito. Antes de decidir, veja na página inicial a oferta da [loja de aluguer de motas em Hanói](/): tipos de mota, preços de referência e passos do aluguer."
       ]
     }
   ],
@@ -349,17 +349,21 @@
   },
   "status": "PUBLISHED",
   "date_published": "2026-10-13",
-  "date_modified": "2026-10-13",
+  "date_modified": "2026-10-14",
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 2679,
+    "words": 2706,
     "publish_mode": "review",
-    "approved_at": "2026-10-13",
+    "approved_at": "2026-10-14",
     "revisions": [
       {
         "date": "2026-10-13",
         "reason": "Ligações internas para artigos publicados depois"
+      },
+      {
+        "date": "2026-10-14",
+        "reason": "Ligação contextual para a página inicial de aluguer de motas em Hanói (página principal do tema)."
       }
     ]
   }

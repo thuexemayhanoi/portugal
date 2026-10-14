@@ -91,7 +91,7 @@
           "checklist": [
             "**Documentos da mota.** A lei vietnamita exige que quem conduz leve, entre outros, o certificado de registo do veículo e o certificado do seguro obrigatório. Confirme com a loja que seguem consigo; o guia dos [documentos da mota alugada](/guia-de-aluguer/documentos-da-mota-alugada/) explica o que são e como os guardar.",
             "**Os seus documentos.** A carta de condução e o que a loja pediu para o aluguer; o guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/) separa o que conta para alugar do que conta para conduzir.",
-            "**Os contactos da loja, também em papel.** O número {{phone}}, o nome no Google Maps, «{{gbp}}», e a morada em vietnamita, {{address.vi}}.",
+            "**Os contactos da loja, também em papel.** O número {{phone}}, o nome no Google Maps, «{{gbp}}», e a morada em vietnamita, {{address.vi}}. É com este papel que liga à loja a partir de outro telemóvel se perder o seu: o guia sobre [perder o telemóvel durante o aluguer](/guia-de-aluguer/perdeu-o-telemovel-durante-o-aluguer/) explica o que fazer.",
             "**Telemóvel carregado e uma bateria externa.** É com ele que vai pedir ajuda, enviar fotografias e partilhar a localização.",
             "**Mapas descarregados.** A região inteira, para usar sem rede, com o percurso e as localidades marcadas.",
             "**Dinheiro em notas pequenas.** Numa oficina ou bomba de gasolina fora da cidade, pode não haver outra forma de pagar, e o troco nem sempre existe.",
@@ -206,16 +206,20 @@
   },
   "status": "PUBLISHED",
   "date_published": "2026-10-13",
-  "date_modified": "2026-10-13",
+  "date_modified": "2026-10-14",
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1817,
+    "words": 1847,
     "publish_mode": "review",
-    "approved_at": "2026-10-13",
+    "approved_at": "2026-10-14",
     "revisions": [
       {
         "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      },
+      {
+        "date": "2026-10-14",
         "reason": "Ligações internas para artigos publicados depois"
       }
     ]

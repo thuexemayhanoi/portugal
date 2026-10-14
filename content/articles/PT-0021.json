@@ -59,7 +59,7 @@
             },
             {
               "title": "Aperte o capacete e volte a verificar",
-              "text": "Um capacete mal ajustado pesa no pescoço e distrai. Se a fita estiver solta ou o capacete bailar, siga o passo a passo de [como escolher e ajustar um capacete](/guia-de-aluguer/escolher-e-ajustar-o-capacete/)."
+              "text": "Um capacete mal ajustado pesa no pescoço e distrai. Se a fita estiver solta ou o capacete bailar, siga o passo a passo de [como escolher e ajustar um capacete](/guia-de-aluguer/escolher-e-ajustar-o-capacete/). Ao estacionar, veja [onde deixar o capacete](/tipos-de-motas/onde-deixar-o-capacete/)."
             }
           ]
         },
@@ -69,8 +69,8 @@
     {
       "h2": "Quando a scooter não é do seu tamanho",
       "body": [
-        "Nem todas as pessoas cabem bem em todas as scooters. Se, ao fazer os testes acima, algo não encaixar, a solução não é aguentar: é pedir outro modelo, se a loja tiver disponível. O guia da [altura do assento e do peso](/tipos-de-motas/altura-do-assento-e-peso/) ajuda a perceber o que mudar de modelo faz à postura, e os critérios da [melhor scooter para alugar](/tipos-de-motas/melhor-scooter-para-alugar/) incluem o conforto.",
-        "Quanto a mexer na mota, deixe-o à loja. O guiador, o assento e os espelhos de uma mota alugada não são seus: um parafuso mal apertado a meio do dia é pior do que uma postura imperfeita. As fontes consultadas não dizem quais destes elementos se ajustam em cada modelo, por isso pergunte, na reserva ou à entrega, o que pode ser regulado e quem o faz.",
+        "Se, ao fazer os testes acima, algo não encaixar, a solução não é aguentar: é pedir outro modelo, se a loja tiver. O guia da [altura do assento e do peso](/tipos-de-motas/altura-do-assento-e-peso/) ajuda a perceber o que mudar de modelo faz à postura, e os critérios da [melhor scooter para alugar](/tipos-de-motas/melhor-scooter-para-alugar/) incluem o conforto.",
+        "Quanto a mexer na mota, deixe-o à loja. O guiador, o assento e os espelhos de uma mota alugada não são seus: um parafuso mal apertado é pior do que uma postura imperfeita. As fontes consultadas não dizem quais destes elementos se ajustam em cada modelo, por isso pergunte, na reserva ou à entrega, o que pode ser regulado e quem o faz. Se a unidade tiver muitos quilómetros, veja [o que verificar](/tipos-de-motas/scooter-com-muitos-quilometros/).",
         "Se hesita entre uma scooter e uma semiautomática para trajetos longos, veja [scooter ou semiautomática](/tipos-de-motas/scooter-ou-semiautomatica/); os modelos automáticos estão na página das [scooters](/tipos-de-motas/scooters/)."
       ]
     },
@@ -238,9 +238,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1997,
+    "words": 1999,
     "publish_mode": "review",
     "approved_at": "2026-10-14",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-14",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

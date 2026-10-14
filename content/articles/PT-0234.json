@@ -149,7 +149,7 @@
     {
       "h2": "Estacionamento: sem dados, com duas regras de prudência",
       "body": [
-        "Não encontrámos nenhuma fonte sobre onde se estaciona junto à cidadela, nem sobre o preço. Em Hanói, os preços de guarda de motas têm um máximo fixado pela Decisão 44/2017/QĐ-UBND, por tipo de veículo, zona e modalidade (por vez ou por mês). Não confirmámos os montantes atuais e por isso não os indicamos.",
+        "Não encontrámos nenhuma fonte sobre onde se estaciona junto à cidadela, nem sobre o preço. Em Hanói, os preços de guarda de motas têm um máximo fixado pela Decisão 44/2017/QĐ-UBND, por tipo de veículo, zona e modalidade (por vez ou por mês). Não confirmámos os montantes atuais e por isso não os indicamos. Para um estacionamento do lado de Long Biên, veja o guia do [AEON Mall Long Biên de mota](/zonas-de-hanoi/aeon-mall-long-bien/).",
         "À chegada, faça o seguinte:",
         {
           "checklist": [
@@ -295,13 +295,18 @@
   },
   "status": "PUBLISHED",
   "date_published": "2026-10-13",
-  "date_modified": "2026-10-13",
+  "date_modified": "2026-10-14",
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1973,
+    "words": 1991,
     "publish_mode": "review",
-    "approved_at": "2026-10-13",
-    "revisions": []
+    "approved_at": "2026-10-14",
+    "revisions": [
+      {
+        "date": "2026-10-14",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

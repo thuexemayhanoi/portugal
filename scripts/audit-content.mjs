@@ -7,10 +7,10 @@
 //   node scripts/audit-content.mjs
 import fs from 'node:fs';
 import path from 'node:path';
-import { readJSON, listFiles, rel, normalize, wordCount, todayISO } from './lib/util.mjs';
+import { readJSON, listFiles, rel, wordCount, todayISO } from './lib/util.mjs';
 import { loadModel } from './lib/model.mjs';
 import { buildTokens, plain } from './lib/text.mjs';
-import { intentFingerprint, jaccard } from './lib/intent.mjs';
+import { bodyText as articleBody, pageText, overlapPairs } from './lib/overlap.mjs';
 import { runGuard } from './lib/guard.mjs';
 
 const OUT = 'docs/audit';
@@ -25,11 +25,7 @@ const txt = (s) => {
     return String(s ?? '');
   }
 };
-const bodyText = (a) =>
-  [a.summary, ...(a.intro || []), ...(a.key_points || []), ...(a.sections || []).flatMap((s) => [s.h2, ...(s.body || []).flatMap((b) => (typeof b === 'string' ? [b] : [b.p, b.h3, b.note, ...(b.ul || []), ...(b.ol || []), ...(b.checklist || []), ...(b.steps || []).flatMap((x) => [x.title, x.text]), ...(b.table ? [b.table.caption, ...(b.table.rows || []).flat()] : [])]))]), ...(a.faq || []).flatMap((f) => [f.q, f.a])]
-    .filter((x) => typeof x === 'string')
-    .map(txt)
-    .join(' ');
+const bodyText = (a) => articleBody(a, txt);
 const linksIn = (obj) => [...new Set([...JSON.stringify(obj).matchAll(/\]\((\/[^)#\s]*)/g)].map((m) => m[1]))];
 const csv = (rows) => rows.map((r) => r.map((v) => `"${String(v ?? '').replace(/"/g, '""')}"`).join(',')).join('\n') + '\n';
 
@@ -58,7 +54,7 @@ for (const dir of ['_factory/inbox', '_factory/review']) {
 for (const p of [...model.byUrl.values()]) {
   const t = p.kind === 'article' ? p.topic : null;
   const facts = htmlFacts(p.url);
-  const text = p.kind === 'article' ? bodyText(p.article) : p.kind === 'page' ? [p.lead, ...(p.sections || []).flatMap((s) => [s.h2, ...(s.body || []).filter((b) => typeof b === 'string')])].map(txt).join(' ') : '';
+  const text = p.kind === 'article' ? bodyText(p.article) : p.kind === 'page' ? pageText(p, txt) : '';
   rows.push({
     url: p.url,
     id: p.id || '',
@@ -110,31 +106,8 @@ const actionOf = (r) => {
 };
 
 // --- cannibalization among published articles and drafts (intent + content overlap)
-const shingles = (text) => {
-  const w = normalize(text).split(' ').filter(Boolean);
-  const s = new Set();
-  for (let i = 0; i + 3 <= w.length; i++) s.add(w.slice(i, i + 3).join(' '));
-  return s;
-};
 const content = rows.filter((r) => ['article', 'page', 'draft'].includes(r.kind) && r._text && r.status !== 'REVISION_DRAFT');
-for (const r of content) {
-  r._fp = intentFingerprint({ primaryKeyword: r.primary_keyword || '', title: r.title || '', h1: r.h1 || '' });
-  r._sh = shingles(r._text);
-}
-const pairs = [];
-for (let i = 0; i < content.length; i++) {
-  for (let j = i + 1; j < content.length; j++) {
-    const a = content[i];
-    const b = content[j];
-    const intent = jaccard(a._fp, b._fp);
-    const overlap = jaccard(a._sh, b._sh);
-    const sameKw = a.primary_keyword && normalize(a.primary_keyword) === normalize(b.primary_keyword || '');
-    if (intent >= 0.3 || overlap >= 0.08 || sameKw) {
-      const level = sameKw || intent >= 0.6 || overlap >= 0.2 ? 'HIGH' : intent >= 0.45 || overlap >= 0.12 ? 'MEDIUM' : 'LOW';
-      pairs.push([a.url || a.id, b.url || b.id, a.status, b.status, intent.toFixed(2), overlap.toFixed(3), sameKw ? 'yes' : 'no', level, level === 'LOW' ? 'KEEP (intenções distintas)' : 'REVIEW']);
-    }
-  }
-}
+const pairs = overlapPairs(content.map((r) => ({ ...r, key: r.url || r.id, keyword: r.primary_keyword, text: r._text }))).map(({ a, b, intent, overlap, sameKeyword, level }) => [a.url || a.id, b.url || b.id, a.status, b.status, intent.toFixed(2), overlap.toFixed(3), sameKeyword ? 'yes' : 'no', level, level === 'LOW' ? 'KEEP (intenções distintas)' : 'REVIEW']);
 const reviewUrls = new Set(pairs.filter((p) => p[7] !== 'LOW').flatMap((p) => [p[0], p[1]]));
 
 for (const r of rows) {

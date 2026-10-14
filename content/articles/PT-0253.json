@@ -21,7 +21,7 @@
     {
       "h2": "O trajeto entre Nội Bài e o centro",
       "body": [
-        "Para ter uma ordem de grandeza: o percurso do autocarro 86, que liga o aeroporto à Estação de Hanói (Ga Hà Nội), tem 33 km, segundo a notícia da inauguração da linha. De acordo com guias de viagem locais, o autocarro sai dos terminais T1 e T2 e segue pela avenida Võ Nguyên Giáp. Depois atravessa o rio Vermelho pela ponte Nhật Tân e entra na cidade pela rua Âu Cơ, junto ao Lago Oeste, antes de seguir para o centro e para a estação.",
+        "Para ter uma ordem de grandeza: o percurso do autocarro 86, que liga o aeroporto à [Estação de Hanói (Ga Hà Nội)](/zonas-de-hanoi/estacao-ferroviaria-de-hanoi/), tem 33 km, segundo a notícia da inauguração da linha. De acordo com guias de viagem locais, o autocarro sai dos terminais T1 e T2 e segue pela avenida Võ Nguyên Giáp. Depois atravessa o rio Vermelho pela ponte Nhật Tân e entra na cidade pela rua Âu Cơ, junto ao Lago Oeste, antes de seguir para o centro e para a estação.",
         "Para quem pensa ir de mota, é neste eixo que começam as dúvidas. A avenida, a ponte e o terminal foram inaugurados em conjunto, como ligação rápida ao aeroporto. Em setembro de 2025, foi proposto subir para 100 km/h a velocidade máxima na via que liga o aeroporto ao centro, e a Polícia de Trânsito sugeriu sinais de «faixa reservada a automóveis». À data de consulta deste guia, não estava confirmado o que foi aprovado.",
         "As fontes consultadas também não dão um tempo de viagem fiável: depende da hora, do trânsito e do ponto da cidade onde vai ficar. Conte, em qualquer caso, com um trajeto longo para fazer logo depois de aterrar."
       ]
@@ -293,13 +293,18 @@
   },
   "status": "PUBLISHED",
   "date_published": "2026-10-13",
-  "date_modified": "2026-10-13",
+  "date_modified": "2026-10-14",
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
     "words": 2042,
     "publish_mode": "review",
-    "approved_at": "2026-10-13",
-    "revisions": []
+    "approved_at": "2026-10-14",
+    "revisions": [
+      {
+        "date": "2026-10-14",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

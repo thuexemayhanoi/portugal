@@ -218,7 +218,7 @@
             "Com chuva forte, encurte o dia e deixe os lagos para outra altura; para essa altura, há um [roteiro com paragens cobertas](/rotas-e-mobilidade/roteiro-para-um-dia-de-chuva/) no centro e em Long Biên. Vista a capa de chuva antes de arrancar e nunca conduza de guarda-chuva na mão, que também é proibido."
           ]
         },
-        "Em caso de furo ou avaria, encoste num local seguro e ligue para a loja, {{phone}}, antes de mandar reparar. Para outras dúvidas sobre o aluguer, a página de [contactos](/contactos/) reúne as formas de falar com a loja. Outros percursos e conselhos para se deslocar na cidade vão sendo reunidos em [Rotas e mobilidade](/rotas-e-mobilidade/)."
+        "Em caso de furo ou avaria, encoste num local seguro e ligue para a loja, {{phone}}, antes de mandar reparar. Para outras dúvidas sobre o aluguer, a página de [contactos](/contactos/) reúne as formas de falar com a loja. Para uma primeira vez, comece pelo [primeiro passeio de mota em Hanói](/rotas-e-mobilidade/primeiro-passeio-de-mota/), mais calmo. Outros percursos e conselhos para se deslocar na cidade vão sendo reunidos em [Rotas e mobilidade](/rotas-e-mobilidade/)."
       ]
     }
   ],
@@ -341,13 +341,13 @@
   },
   "status": "PUBLISHED",
   "date_published": "2026-10-13",
-  "date_modified": "2026-10-13",
+  "date_modified": "2026-10-14",
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 2781,
+    "words": 2795,
     "publish_mode": "review",
-    "approved_at": "2026-10-13",
+    "approved_at": "2026-10-14",
     "revisions": [
       {
         "date": "2026-10-13",
@@ -355,6 +355,10 @@
       },
       {
         "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      },
+      {
+        "date": "2026-10-14",
         "reason": "Ligações internas para artigos publicados depois"
       }
     ]

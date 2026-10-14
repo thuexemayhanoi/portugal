@@ -113,7 +113,7 @@
             "**Trajetos curtos entre o alojamento e alguns pontos de interesse**: qualquer scooter serve, e pesam mais o preço e a facilidade de estacionar."
           ]
         },
-        "Se a scooter for para a rotina de trabalho de várias semanas, e não para uma viagem, os critérios mudam de peso: o conforto ao fim de dias repetidos, o consumo e o estacionamento passam à frente. O guia da [scooter para o dia a dia](/tipos-de-motas/scooter-para-o-dia-a-dia/) trata desse caso."
+        "Se a scooter for para a rotina de trabalho de várias semanas, e não para uma viagem, os critérios mudam de peso: o conforto ao fim de dias repetidos, o consumo e o estacionamento passam à frente. Sobre o conforto, o guia de [postura e conforto numa scooter](/tipos-de-motas/postura-e-conforto/) explica como aguentar horas ao guiador. O guia da [scooter para o dia a dia](/tipos-de-motas/scooter-para-o-dia-a-dia/) trata desse caso."
       ]
     },
     {
@@ -225,7 +225,7 @@
             "a cilindrada e o ano da unidade proposta, por escrito, com o preço total."
           ]
         },
-        "Pode enviar o pedido pelo {{phone}}, por chamada ou Zalo, ou usar os outros dados da página de [contactos](/contactos/). A loja está aberta {{hours}}."
+        "Pode enviar o pedido pelo {{phone}}, por chamada ou Zalo, ou usar os outros dados da página de [contactos](/contactos/). A loja está aberta {{hours}}. Se quiser rever as [scooters e motas para alugar em Hanói](/) antes de escrever, a página inicial da loja apresenta-as por tipo."
       ]
     }
   ],
@@ -294,13 +294,22 @@
   },
   "status": "PUBLISHED",
   "date_published": "2026-10-13",
-  "date_modified": "2026-10-13",
+  "date_modified": "2026-10-14",
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1979,
+    "words": 2018,
     "publish_mode": "review",
-    "approved_at": "2026-10-13",
-    "revisions": []
+    "approved_at": "2026-10-14",
+    "revisions": [
+      {
+        "date": "2026-10-14",
+        "reason": "Ligações internas para artigos publicados depois"
+      },
+      {
+        "date": "2026-10-14",
+        "reason": "Ligação contextual para a página inicial de aluguer de motas em Hanói (página principal do tema)."
+      }
+    ]
   }
 }

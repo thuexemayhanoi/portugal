@@ -244,7 +244,7 @@
       "body": [
         "Num aluguer longo, convém decidir com antecedência como termina. No último mês, combine a data e a hora da devolução, prepare a verificação final com as fotografias do levantamento e das renovações à mão e peça o comprovativo de tudo o que for acertado. O guia da [devolução da caução](/precos/devolucao-da-caucao/) mostra o que conferir nesse dia.",
         "Se a estadia ficar mais curta do que o previsto, pergunte o que acontece ao mês em curso antes de anunciar a data: o guia sobre [devolver a mota mais cedo](/precos/devolver-a-mota-mais-cedo/) reúne as perguntas. Se ficar mais longa, peça a renovação com a antecedência habitual; o [prolongamento do aluguer](/precos/prolongar-o-aluguer/) tem guia próprio.",
-        "Quando tiver as datas da estadia, [contacte a loja](/contactos/) pelo {{phone}}, por telefone ou Zalo. A loja está aberta {{hours}}, e um pedido com o início, o fim provável e o modelo pretendido permite-lhe responder com tudo o que precisa de saber."
+        "Quando tiver as datas da estadia, [contacte a loja](/contactos/) pelo {{phone}}, por telefone ou Zalo. A loja está aberta {{hours}}, e um pedido com o início, o fim provável e o modelo pretendido permite-lhe responder com tudo o que precisa de saber. Antes de escrever, pode ver na página inicial da [loja de aluguer de motas em Hanói](/) os modelos e como funciona o aluguer."
       ]
     }
   ],
@@ -281,17 +281,21 @@
   },
   "status": "PUBLISHED",
   "date_published": "2026-10-13",
-  "date_modified": "2026-10-13",
+  "date_modified": "2026-10-14",
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 2440,
+    "words": 2463,
     "publish_mode": "review",
-    "approved_at": "2026-10-13",
+    "approved_at": "2026-10-14",
     "revisions": [
       {
         "date": "2026-10-13",
         "reason": "Ligações internas para artigos publicados depois"
+      },
+      {
+        "date": "2026-10-14",
+        "reason": "Ligação contextual para a página inicial de aluguer de motas em Hanói (página principal do tema)."
       }
     ]
   }

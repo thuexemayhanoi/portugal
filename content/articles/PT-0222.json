@@ -94,7 +94,7 @@
       "body": [
         "A única alternativa que podemos indicar com fonte é a ponte Long Biên. A linha de comboio ocupa o centro do tabuleiro e há um passeio para peões de cada lado. Não encontrámos horários de comboios, por isso não prometemos que veja um comboio: vê a linha, a estrutura de ferro e o rio a partir do passeio dos peões.",
         "Deixe a mota num parque do lado do Bairro Antigo, fique sempre no passeio, longe da faixa das motas, e não se aproxime da zona da linha. O guia da [ponte Long Biên de mota](/zonas-de-hanoi/ponte-long-bien/) explica como a ponte está organizada, as datas dos fechos recentes e o que fazer se estiver fechada.",
-        "Se o objetivo é conhecer o Bairro Antigo e as ruas à volta, o itinerário de [Hanói de mota num dia](/rotas-e-mobilidade/hanoi-de-mota-num-dia/) mostra onde estacionar em cada paragem e o que fazer a pé."
+        "Se o objetivo é conhecer o Bairro Antigo e as ruas à volta, o itinerário de [Hanói de mota num dia](/rotas-e-mobilidade/hanoi-de-mota-num-dia/) mostra onde estacionar em cada paragem e o que fazer a pé. Há ainda guias sobre o [teatro de marionetas na água](/zonas-de-hanoi/teatro-de-marionetas-na-agua/) e sobre o [bairro francês e a Ópera](/zonas-de-hanoi/bairro-frances-e-opera/)."
       ]
     },
     {
@@ -199,13 +199,18 @@
   },
   "status": "PUBLISHED",
   "date_published": "2026-10-13",
-  "date_modified": "2026-10-13",
+  "date_modified": "2026-10-14",
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1314,
+    "words": 1332,
     "publish_mode": "review",
-    "approved_at": "2026-10-13",
-    "revisions": []
+    "approved_at": "2026-10-14",
+    "revisions": [
+      {
+        "date": "2026-10-14",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

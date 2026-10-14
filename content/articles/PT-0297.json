@@ -141,9 +141,9 @@
     {
       "h2": "Sem a mota, ou com uma mota alugada no local",
       "body": [
-        "Se a conta de 180 a 200 km não o convence, há outras formas de ver Ninh Bình. Não verificámos horários nem preços de autocarros ou de comboios para Ninh Bình, por isso não os indicamos: peça-os ao alojamento ou a um operador de transporte e confirme-os na véspera.",
+        "Se a conta de 180 a 200 km não o convence, há outras formas de ver Ninh Bình. Para uma saída de mota um pouco mais curta, o guia de [Tam Đảo de mota a partir de Hanói](/rotas-e-mobilidade/tam-dao-de-mota/) trata de um destino a 80 a 85 km. Não verificámos horários nem preços de autocarros ou de comboios para Ninh Bình, por isso não os indicamos: peça-os ao alojamento ou a um operador de transporte e confirme-os na véspera.",
         "Para as distâncias curtas dentro de Ninh Bình, os 7 e 8 km desde a cidade até Tam Cốc e Tràng An, pergunte ao alojamento se há mota ou bicicleta para alugar no local. Não encontrámos dados sobre lojas de aluguer em Ninh Bình, por isso não sabemos o que pedem nem em que condições; a lei da carta aplica-se onde quer que conduza.",
-        "Se for sem a mota de Hanói, decida se a mantém ou a devolve: o guia sobre [manter a mota alugada ou devolvê-la](/precos/sair-de-hanoi-a-meio-do-aluguer/) ajuda a fazer a conta."
+        "Se for sem a mota de Hanói, decida se a mantém ou a devolve: o guia sobre [manter a mota alugada ou devolvê-la](/precos/sair-de-hanoi-a-meio-do-aluguer/) ajuda a fazer a conta. Para uma viagem de montanha mais longa, o guia do [loop de Hà Giang de mota](/rotas-e-mobilidade/loop-de-ha-giang/) compara levar a mota de Hanói com ir de autocarro e alugar no local."
       ]
     },
     {
@@ -306,13 +306,22 @@
   },
   "status": "PUBLISHED",
   "date_published": "2026-10-13",
-  "date_modified": "2026-10-13",
+  "date_modified": "2026-10-14",
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 2176,
+    "words": 2235,
     "publish_mode": "review",
-    "approved_at": "2026-10-13",
-    "revisions": []
+    "approved_at": "2026-10-14",
+    "revisions": [
+      {
+        "date": "2026-10-14",
+        "reason": "Ligações internas para artigos publicados depois"
+      },
+      {
+        "date": "2026-10-14",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

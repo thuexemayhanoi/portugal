@@ -116,7 +116,8 @@
             "**Documentos e telemóvel**: guarde-os num saco com fecho, longe da humidade do compartimento debaixo do assento.",
             "**Fotografias**: se aparecerem bolor ou manchas de humidade no assento ou nos plásticos, fotografe e avise a loja; o método está em [fotografar a mota alugada](/guia-de-aluguer/fotografar-a-mota/)."
           ]
-        }
+        },
+        "Se o céu escurecer e a humidade acabar em trovoada, o guia sobre [trovoada de mota em Hanói](/rotas-e-mobilidade/trovoadas-de-mota/) diz onde parar e quando seguir."
       ]
     },
     {
@@ -238,15 +239,20 @@
   },
   "status": "PUBLISHED",
   "date_published": "2026-10-13",
-  "date_modified": "2026-10-13",
+  "date_modified": "2026-10-14",
   "editorial": {
     "qa_score": 98,
     "qa_warnings": [
       "source code W: Dados meteorológicos oficiais (Centro Nacional de Previsão Hidrometeorológica) ou climatologia reconhecida."
     ],
-    "words": 1683,
+    "words": 1707,
     "publish_mode": "review",
-    "approved_at": "2026-10-13",
-    "revisions": []
+    "approved_at": "2026-10-14",
+    "revisions": [
+      {
+        "date": "2026-10-14",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

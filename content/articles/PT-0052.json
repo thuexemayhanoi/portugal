@@ -160,7 +160,7 @@
             "Leve capacete apertado, também para percursos curtos, e peça à loja, nos [contactos](/contactos/), as respostas por escrito às perguntas que tiver."
           ]
         },
-        "Antes de reservar, a lista de [perguntas a fazer antes de alugar](/guia-de-aluguer/perguntas-antes-de-alugar/) ajuda a não esquecer nada, e o guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/) lembra que ter a mota não prova que está habilitado para a conduzir."
+        "Antes de reservar, a lista de [perguntas a fazer antes de alugar](/guia-de-aluguer/perguntas-antes-de-alugar/) ajuda a não esquecer nada, e o guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/) lembra que ter a mota não prova que está habilitado para a conduzir. Quem tem pouca estatura deve ler também o guia da [50 cc para pouca estatura](/tipos-de-motas/50cc-para-pouca-estatura/), sobre peso, assento e manobra."
       ]
     }
   ],
@@ -323,13 +323,18 @@
   },
   "status": "PUBLISHED",
   "date_published": "2026-10-13",
-  "date_modified": "2026-10-13",
+  "date_modified": "2026-10-14",
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 2053,
+    "words": 2073,
     "publish_mode": "review",
-    "approved_at": "2026-10-13",
-    "revisions": []
+    "approved_at": "2026-10-14",
+    "revisions": [
+      {
+        "date": "2026-10-14",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

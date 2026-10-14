@@ -15,7 +15,7 @@
     "Cores vivas de dia e materiais refletores à noite ajudam os outros condutores a vê-lo."
   ],
   "intro": [
-    "Com o calor de Hanói, a tentação é conduzir de t-shirt, calções e sandálias. Numa queda, porém, a roupa é a única coisa entre a pele e o asfalto, e o capacete só protege a cabeça. Escolher bem o que vestir é uma das medidas de segurança que dependem só de si e que se preparam em casa.",
+    "Com o calor de Hanói, a tentação é conduzir de t-shirt, calções e sandálias. Numa queda, porém, a roupa é a única coisa entre a pele e o asfalto, e o capacete só protege a cabeça. Escolher bem o que vestir é uma das medidas de segurança que dependem só de si e que se preparam em casa; os riscos reais e as outras formas de os reduzir estão no guia sobre [se é seguro andar de mota em Hanói](/guia-de-aluguer/e-seguro-andar-de-mota-em-hanoi/).",
     "Este guia percorre o equipamento da cabeça aos pés e mostra como adaptá-lo às condições que mais pesam em Hanói: o calor, a chuva, a humidade e o frio. Os capacetes têm um guia próprio, sobre [quantos pedir e como acertar o tamanho](/precos/capacetes-no-aluguer/), e a capa de chuva e os restantes acessórios que se pedem à loja estão no guia de [acessórios para a mota alugada](/precos/capa-de-chuva-e-acessorios/)."
   ],
   "sections": [
@@ -330,15 +330,20 @@
   },
   "status": "PUBLISHED",
   "date_published": "2026-10-13",
-  "date_modified": "2026-10-13",
+  "date_modified": "2026-10-14",
   "editorial": {
     "qa_score": 98,
     "qa_warnings": [
       "source code W: Dados meteorológicos oficiais (Centro Nacional de Previsão Hidrometeorológica) ou climatologia reconhecida."
     ],
-    "words": 1957,
+    "words": 1979,
     "publish_mode": "review",
-    "approved_at": "2026-10-13",
-    "revisions": []
+    "approved_at": "2026-10-14",
+    "revisions": [
+      {
+        "date": "2026-10-14",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

@@ -83,7 +83,7 @@
           "tone": "warn",
           "title": "Luz de reserva acesa à saída"
         },
-        "Esta verificação é uma das várias que se fazem na entrega, descritas passo a passo no guia sobre [o que acontece quando recebe a mota](/guia-de-aluguer/receber-a-mota/). As perguntas sobre caução, documentos e capacetes estão reunidas nas [perguntas a fazer antes de alugar](/guia-de-aluguer/perguntas-antes-de-alugar/). Quantos capacetes pedir e como acertar o tamanho é o tema do guia sobre [capacetes no aluguer](/precos/capacetes-no-aluguer/)."
+        "Esta verificação é uma das várias que se fazem na entrega, descritas passo a passo no guia sobre [o que acontece quando recebe a mota](/guia-de-aluguer/receber-a-mota/). As perguntas sobre caução, documentos e capacetes estão reunidas nas [perguntas a fazer antes de alugar](/guia-de-aluguer/perguntas-antes-de-alugar/). Quantos capacetes pedir e como acertar o tamanho é o tema do guia sobre [capacetes no aluguer](/precos/capacetes-no-aluguer/). Se nenhum capacete da loja lhe assentar bem, o guia sobre [comprar capacete em Hanói](/precos/comprar-capacete-em-hanoi/) explica quando compensa ter o seu."
       ]
     },
     {
@@ -217,16 +217,20 @@
   },
   "status": "PUBLISHED",
   "date_published": "2026-10-13",
-  "date_modified": "2026-10-13",
+  "date_modified": "2026-10-14",
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 2007,
+    "words": 2028,
     "publish_mode": "review",
-    "approved_at": "2026-10-13",
+    "approved_at": "2026-10-14",
     "revisions": [
       {
         "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      },
+      {
+        "date": "2026-10-14",
         "reason": "Ligações internas para artigos publicados depois"
       }
     ]

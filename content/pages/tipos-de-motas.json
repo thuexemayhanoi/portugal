@@ -10,7 +10,7 @@
   "primaryKeyword": "tipos de motas para alugar em hanói",
   "eyebrow": "Tipos de motas",
   "lead": "Quatro famílias de veículos, quatro formas de circular. Compare a condução, o preço de referência e os cuidados de cada uma antes de escolher.",
-  "updated": "2026-10-12",
+  "updated": "2026-10-14",
   "toc": true,
   "answer": "Para a maioria das deslocações urbanas, uma **scooter automática** (como a Honda Vision) é a escolha mais simples. A **semiautomática** (Honda Wave) é mais económica, mas tem mudanças. Uma **50 cc** só faz sentido para trajetos curtos e lentos, e uma **elétrica** obriga a planear o carregamento.",
   "sections": [
@@ -60,7 +60,7 @@
       "h2": "Scooters automáticas",
       "id": "scooters",
       "body": [
-        "A scooter automática é o veículo mais procurado por quem visita Hanói: não tem mudanças, tem espaço de arrumação debaixo do assento e é fácil de manobrar a baixa velocidade. Na loja estão disponíveis a Honda Vision, a Honda Air Blade, a Honda Click e a Yamaha Mio, com preços de referência entre {{price.click.day}} e {{price.vision.day}} por dia.",
+        "A scooter automática é o veículo mais procurado por quem visita Hanói e quer [alugar uma mota](/): não tem mudanças, tem espaço de arrumação debaixo do assento e é fácil de manobrar a baixa velocidade. Na loja estão disponíveis a Honda Vision, a Honda Air Blade, a Honda Click e a Yamaha Mio, com preços de referência entre {{price.click.day}} e {{price.vision.day}} por dia.",
         "A Vision é leve e compacta; a Air Blade é maior e mais potente. A diferença conta para a carta: desde 2025, a categoria A1 vietnamita abrange motociclos até 125 cm³, e a Air Blade é vendida no Vietname em versões de 125 cm³ e de 160 cm³ — pergunte qual é a unidade disponível.",
         "[Ver o guia de scooters automáticas](/tipos-de-motas/scooters/)"
       ]

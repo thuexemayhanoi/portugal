@@ -90,7 +90,7 @@
             "que formas de pagamento a loja aceita."
           ]
         },
-        "Para o resto do acordo, a lista de [perguntas a fazer antes de alugar](/guia-de-aluguer/perguntas-antes-de-alugar/) ajuda a não esquecer nada. Se não fala vietnamita, escreva frases curtas, com as datas e as horas em algarismos: uma mensagem simples traduz-se melhor do que uma longa.",
+        "Para o resto do acordo, a lista de [perguntas a fazer antes de alugar](/guia-de-aluguer/perguntas-antes-de-alugar/) ajuda a não esquecer nada. Se não fala vietnamita, escreva frases curtas, com as datas e as horas em algarismos: uma mensagem simples traduz-se melhor do que uma longa. Se ainda não escolheu o modelo, veja os tipos de mota e os preços de referência na página inicial da [loja de aluguer de motas em Long Biên](/).",
         "Se não puder ou não quiser ir a Long Biên, pergunte se a loja entrega ou recolhe a mota no seu alojamento e com que custo. Depende da morada e das datas, e só conta o que for confirmado por escrito. O guia sobre a [entrega da mota no hotel](/precos/entrega-da-mota-no-hotel/) indica que informação enviar e que perguntas fazer antes de marcar."
       ]
     },
@@ -127,7 +127,7 @@
     {
       "h2": "Os primeiros quilómetros do lado de Long Biên",
       "body": [
-        "Começar em Long Biên tem uma vantagem: a primeira saída não obriga a entrar logo nas ruas estreitas do Bairro Antigo. Se é a primeira vez que conduz em Hanói, ou a primeira vez numa [scooter automática](/tipos-de-motas/scooters/), comece por um percurso curto deste lado do rio, fora das horas de ponta.",
+        "Começar em Long Biên tem uma vantagem: a primeira saída não obriga a entrar logo nas ruas estreitas do Bairro Antigo. Se é a primeira vez que conduz em Hanói, ou a primeira vez numa [scooter automática](/tipos-de-motas/scooters/), comece por um percurso curto deste lado do rio, fora das horas de ponta. Se o destino for o bairro residencial do Vinhomes Riverside, veja o guia sobre o [Vinhomes Riverside de mota](/zonas-de-hanoi/vinhomes-riverside-de-mota/).",
         {
           "steps": [
             {
@@ -229,17 +229,25 @@
   },
   "status": "PUBLISHED",
   "date_published": "2026-10-13",
-  "date_modified": "2026-10-13",
+  "date_modified": "2026-10-14",
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1887,
+    "words": 1934,
     "publish_mode": "review",
-    "approved_at": "2026-10-13",
+    "approved_at": "2026-10-14",
     "revisions": [
       {
         "date": "2026-10-13",
         "reason": "Ligações internas para artigos publicados depois"
+      },
+      {
+        "date": "2026-10-14",
+        "reason": "Ligações internas para artigos publicados depois"
+      },
+      {
+        "date": "2026-10-14",
+        "reason": "Ligação contextual para a página inicial de aluguer de motas em Hanói (página principal do tema)."
       }
     ]
   }

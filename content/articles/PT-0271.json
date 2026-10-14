@@ -157,7 +157,7 @@
         {
           "h3": "Lugares de memória"
         },
-        "São lugares de memória, com significado histórico e pessoal para muitos visitantes e moradores. Vá com roupa discreta, fale baixo, não pose para fotografias de brincadeira e respeite as indicações do pessoal.",
+        "São lugares de memória, com significado histórico e pessoal para muitos visitantes e moradores. Vá com roupa discreta, fale baixo, não pose para fotografias de brincadeira e respeite as indicações do pessoal. Com crianças, veja o [roteiro de Hanói com crianças](/rotas-e-mobilidade/hanoi-com-criancas/).",
         {
           "note": "As coimas, as regras de autoestrada e os horários citados foram consultados a 13 de outubro de 2026 e podem mudar. Em caso de dúvida, mandam a sinalização no local e os agentes.",
           "tone": "info",
@@ -408,13 +408,18 @@
   },
   "status": "PUBLISHED",
   "date_published": "2026-10-13",
-  "date_modified": "2026-10-13",
+  "date_modified": "2026-10-14",
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1991,
+    "words": 2000,
     "publish_mode": "review",
-    "approved_at": "2026-10-13",
-    "revisions": []
+    "approved_at": "2026-10-14",
+    "revisions": [
+      {
+        "date": "2026-10-14",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

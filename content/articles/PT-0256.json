@@ -5,7 +5,7 @@
   "title": "Terminais de autocarros de Hanói: Mỹ Đình, Giáp Bát e Gia Lâm",
   "description": "O que faz cada terminal de autocarros de Hanói (Mỹ Đình, Giáp Bát e Gia Lâm), o que se sabe do estacionamento e quando faz sentido lá ir de mota.",
   "h1": "Terminais de autocarros de Hanói de mota: para que serve cada um e onde deixar a mota",
-  "summary": "Hanói tem três terminais de autocarros que continuam em funcionamento em 2026: Mỹ Đình, Giáp Bát e Gia Lâm, este último do mesmo lado do rio que a loja. Não encontrámos preços nem regras atuais de estacionamento de motas em nenhum deles; só vale a pena ir de mota para largar ou recolher alguém, não para deixá-la dias.",
+  "summary": "Este guia trata de três terminais de autocarros de Hanói que continuam em funcionamento em 2026: Mỹ Đình, Giáp Bát e Gia Lâm, este último do mesmo lado do rio que a loja. Há outros, como Nước Ngầm e Yên Nghĩa. Não encontrámos preços nem regras atuais de estacionamento de motas em nenhum deles; só vale a pena ir de mota para largar ou recolher alguém, não para deixá-la dias.",
   "key_points": [
     "Em janeiro de 2026, a imprensa noticiou mais de 150 viagens de reforço nos terminais de Giáp Bát, Mỹ Đình e Gia Lâm: os três continuam a funcionar.",
     "Mỹ Đình é o terminal da linha 109 para o aeroporto e, segundo guias comerciais, uma das partidas dos autocarros para Ha Long; Gia Lâm serve as linhas 03 e 22A; a 03 começa em Giáp Bát.",
@@ -93,7 +93,7 @@
     {
       "h2": "Quando faz sentido ir de mota a um terminal",
       "body": [
-        "A resposta depende do que vai fazer lá. Largar ou recolher alguém é um gesto de poucos minutos e pode justificar a mota. Deixá-la durante uma viagem de vários dias é outra coisa: não confirmámos parques de longa duração nos terminais, nem se a loja o aceita.",
+        "A resposta depende do que vai fazer lá. Largar ou recolher alguém é um gesto de poucos minutos e pode justificar a mota. Deixá-la durante uma viagem de vários dias é outra coisa: não confirmámos parques de longa duração nos terminais, nem se a loja o aceita. Se a ideia for viajar de comboio com a própria mota, o guia sobre [levar a mota no comboio](/zonas-de-hanoi/levar-a-mota-no-comboio/) explica como funciona o despacho.",
         {
           "table": {
             "caption": "Situações habituais e alternativas ao uso da mota nos terminais",
@@ -143,7 +143,7 @@
           ]
         },
         "O guia sobre [horas de levantamento e devolução](/precos/horas-de-levantamento-e-devolucao/) e o de [devolver a mota](/guia-de-aluguer/devolver-a-mota/) mostram o que combinar para uma devolução fora do expediente. Para os documentos que a loja pede, veja [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/).",
-        "Mais pontos de interesse e zonas da cidade estão reunidos em [Zonas de Hanói](/zonas-de-hanoi/)."
+        "Mais pontos de interesse e zonas da cidade estão reunidos em [Zonas de Hanói](/zonas-de-hanoi/). Para uma visita curta de mota, veja o guia do [Templo da Literatura](/zonas-de-hanoi/templo-da-literatura/), com acesso, estacionamento e horário."
       ]
     }
   ],
@@ -240,9 +240,18 @@
     "qa_warnings": [
       "source code X: Entidade ou operador oficial (metro, autocarros, ferrovia, aeroporto, preços oficiais de combustível, bancos)."
     ],
-    "words": 1684,
+    "words": 1726,
     "publish_mode": "review",
     "approved_at": "2026-10-14",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-14",
+        "reason": "Correção editorial após revisão: factos e formulação ajustados às fontes."
+      },
+      {
+        "date": "2026-10-14",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

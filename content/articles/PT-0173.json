@@ -67,7 +67,7 @@
       "h2": "Porque é que uma cidade cheia de motas muda o problema",
       "body": [
         "O manual da OMS põe o trânsito misto, em que motas, automóveis e veículos pesados partilham a mesma estrada, entre os principais fatores de risco para quem anda em duas rodas. Em Hanói, esse trânsito é o dia a dia. Com tantas motas por perto, a zona ao lado e atrás de si raramente está vazia, e o espelho só mostra uma parte dela.",
-        "A situação tem duas faces. A primeira é a sua visão: há quase sempre alguém a passar-lhe rente, e o hábito de olhar não pode ser apenas uma reação a um toque de buzina. A segunda é a visão dos outros: a regra 86 lembra que os condutores podem não o ter visto, sobretudo nos cruzamentos, e a cartilha de Joinville pede muito cuidado aos automobilistas ao atravessarem a via à frente de motas. Ver e ser visto são as duas metades do mesmo cuidado.",
+        "A situação tem duas faces. A primeira é a sua visão: há quase sempre alguém a passar-lhe rente, e o hábito de olhar não pode ser apenas uma reação a um toque de buzina. A segunda é a visão dos outros: a regra 86 lembra que os condutores podem não o ter visto, sobretudo nos cruzamentos, e a cartilha de Joinville pede muito cuidado aos automobilistas ao atravessarem a via à frente de motas. Ver e ser visto são as duas metades do mesmo cuidado. Junto de peões e em ruas pedonais, o cuidado tem regras próprias, explicadas no guia sobre [conduzir de mota perto de peões e zonas pedonais](/guia-de-aluguer/peoes-e-zonas-pedonais/).",
         "Na prática, três atitudes ajudam: regular bem os espelhos, olhar para trás antes de manobrar e ficar onde os outros o veem. As secções seguintes tratam de cada uma."
       ]
     },
@@ -128,7 +128,7 @@
           "title": "O que não está confirmado"
         },
         "Há, porém, uma dedução simples, só nossa: um espelho funciona nos dois sentidos. Se não vê o espelho do condutor, ele provavelmente não o vê a si nesse espelho. Conte com isso e evite demorar-se ao lado de um veículo grande.",
-        "No trânsito lento, a tentação é seguir junto à traseira de um autocarro ou de um camião para aproveitar o espaço. A regra 88 pede cuidado e velocidade baixa ao circular entre filas, e a regra 164 mostra o custo de ir colado. Prefira manter-se um pouco mais atrás, onde vê mais e é mais fácil ser visto."
+        "No trânsito lento, a tentação é seguir junto à traseira de um autocarro ou de um camião para aproveitar o espaço. A regra 88 pede cuidado e velocidade baixa ao circular entre filas, e a regra 164 mostra o custo de ir colado. Prefira manter-se um pouco mais atrás, onde vê mais e é mais fácil ser visto. Quanto mais devagar segue, mais tempo tem para os espelhos; os valores a respeitar estão no guia dos [limites de velocidade para motas no Vietname](/guia-de-aluguer/limites-de-velocidade/)."
       ]
     },
     {
@@ -217,13 +217,18 @@
   },
   "status": "PUBLISHED",
   "date_published": "2026-10-13",
-  "date_modified": "2026-10-13",
+  "date_modified": "2026-10-14",
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1854,
+    "words": 1904,
     "publish_mode": "review",
-    "approved_at": "2026-10-13",
-    "revisions": []
+    "approved_at": "2026-10-14",
+    "revisions": [
+      {
+        "date": "2026-10-14",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

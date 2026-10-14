@@ -9,7 +9,7 @@
   "primaryKeyword": "preços de aluguer de motas em hanói",
   "eyebrow": "Preços e condições",
   "lead": "A tabela de referência da loja, por modelo e por período. Use-a para comparar e peça sempre a confirmação do valor final para as suas datas.",
-  "updated": "2026-10-12",
+  "updated": "2026-10-14",
   "toc": true,
   "answer": "Na tabela de referência da loja, alugar uma mota em Hanói custa entre {{price.min.day}} e {{price.max.day}} por dia. A semana vai de {{price.wave.week}} a {{price.vision.week}} e o mês de {{price.wave.month}} a {{price.vision.month}}, conforme o modelo. A caução, a entrega e os extras não estão incluídos e são confirmados pela loja.",
   "sections": [
@@ -57,7 +57,7 @@
     {
       "h2": "Como pedir um orçamento",
       "body": [
-        "Para receber um preço final rápido e completo, envie à loja:",
+        "Para receber um preço final rápido e completo, envie à [loja de aluguer de motas em Hanói](/):",
         {
           "ol": [
             "as datas e as horas de levantamento e de devolução;",

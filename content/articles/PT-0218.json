@@ -132,7 +132,7 @@
           }
         },
         "Nas grandes noites, os cortes vão além do horário normal. Na noite de 31 de dezembro de 2025, por exemplo, as ruas Đinh Tiên Hoàng, Hàng Khay, Lê Thái Tổ, Tràng Tiền, Hàng Bài, Tràng Thi, Nhà Chung e o troço central da Bà Triệu estiveram cortadas ou condicionadas, segundo o Báo Văn hóa. A passagem de ano é, aliás, o caso mais repetido: houve cortes nesta zona nos últimos anos.",
-        "A conclusão prática é simples. Qualquer feriado nacional, eleição ou festa de rua é motivo para confirmar o horário antes de sair, e uma viagem em dezembro deve contar com cortes na noite de 31."
+        "A conclusão prática é simples. Qualquer feriado nacional, eleição ou festa de rua é motivo para confirmar o horário antes de sair, e uma viagem em dezembro deve contar com cortes na noite de 31. Em setembro, a rua Hàng Mã enche-se para o Festival do Meio do Outono, e o guia sobre o [Festival do Meio do Outono e a mota](/zonas-de-hanoi/festival-do-meio-do-outono/) explica como planear a chegada."
       ]
     },
     {
@@ -312,13 +312,18 @@
   },
   "status": "PUBLISHED",
   "date_published": "2026-10-13",
-  "date_modified": "2026-10-13",
+  "date_modified": "2026-10-14",
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 2124,
+    "words": 2156,
     "publish_mode": "review",
-    "approved_at": "2026-10-13",
-    "revisions": []
+    "approved_at": "2026-10-14",
+    "revisions": [
+      {
+        "date": "2026-10-14",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

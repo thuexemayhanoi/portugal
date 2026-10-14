@@ -133,7 +133,7 @@
         "Com a mota alugada, o metro entra no plano de três maneiras:",
         {
           "ul": [
-            "**Mota até à estação, comboio no troço mais lento.** Se o destino fica perto de uma estação e a viagem cai nas horas de ponta, deixe a mota num parque junto à estação de partida e faça o resto de metro. Só compensa se a estação de chegada ficar a uma distância que se faça a pé.",
+            "**Mota até à estação, comboio no troço mais lento.** Se o destino fica perto de uma estação e a viagem cai nas horas de ponta, deixe a mota num parque junto à estação de partida e faça o resto de metro. Só compensa se a estação de chegada ficar a uma distância que se faça a pé ou, perto do Bairro Antigo, num passeio de [xích lô](/rotas-e-mobilidade/xich-lo-em-hanoi/), cujo preço se combina antes de subir.",
             "**Dias em que a mota fica parada.** Chuva forte, cansaço ou uma saída à noite são razões para não conduzir, como mostra o guia sobre [quando não conduzir em Hanói](/rotas-e-mobilidade/quando-nao-conduzir/). Se o seu destino fica numa das linhas, o metro resolve a deslocação sem volante.",
             "**Menos dias de aluguer.** Se o alojamento fica perto de uma estação e a maior parte dos trajetos segue a linha, talvez não precise da mota todos os dias. Compare as tarifas na [página de preços](/precos/) e veja como funciona o [aluguer de mota por um dia](/precos/aluguer-de-mota-por-um-dia/)."
           ]
@@ -261,13 +261,18 @@
   },
   "status": "PUBLISHED",
   "date_published": "2026-10-13",
-  "date_modified": "2026-10-13",
+  "date_modified": "2026-10-14",
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1717,
+    "words": 1734,
     "publish_mode": "review",
-    "approved_at": "2026-10-13",
-    "revisions": []
+    "approved_at": "2026-10-14",
+    "revisions": [
+      {
+        "date": "2026-10-14",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

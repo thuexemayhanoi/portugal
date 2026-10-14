@@ -156,7 +156,7 @@
             "**Fora da cidade.** A estrada em que seguia, a última localidade por onde passou e o sentido em que ia."
           ]
         },
-        "Se estiver acompanhado, dividam as tarefas: uma pessoa fica com quem precisa de ajuda, outra liga e outra procura referências ou alguém que fale vietnamita."
+        "Se estiver acompanhado, dividam as tarefas: uma pessoa fica com quem precisa de ajuda, outra liga e outra procura referências ou alguém que fale vietnamita. Até a ambulância chegar, veja os [primeiros socorros na mota](/guia-de-aluguer/kit-de-primeiros-socorros/)."
       ]
     },
     {
@@ -245,7 +245,7 @@
             ]
           }
         },
-        "Com alguém ferido ou em perigo, na dúvida, ligue: é para isso que os números de emergência existem."
+        "Com alguém ferido ou em perigo, na dúvida, ligue: é para isso que os números de emergência existem. O cansaço previne-se: veja a [fadiga numa viagem de mota](/guia-de-aluguer/fadiga-e-pausas/)."
       ]
     }
   ],
@@ -329,13 +329,18 @@
   },
   "status": "PUBLISHED",
   "date_published": "2026-10-13",
-  "date_modified": "2026-10-13",
+  "date_modified": "2026-10-14",
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1975,
+    "words": 1995,
     "publish_mode": "review",
-    "approved_at": "2026-10-13",
-    "revisions": []
+    "approved_at": "2026-10-14",
+    "revisions": [
+      {
+        "date": "2026-10-14",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

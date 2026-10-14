@@ -124,7 +124,7 @@
       "body": [
         "O compartimento do assento fecha com a chave, mas as fontes consultadas não dizem nada sobre a sua resistência, e na posição SEAT o assento abre-se pelo botão de ignição. Não deixe lá objetos de valor durante a noite.",
         "Os documentos do veículo podem ir consigo ou no compartimento. O guia dos [documentos da mota alugada](/guia-de-aluguer/documentos-da-mota-alugada/) explica as duas opções, e uma delas desaparece com a mota se esta for furtada.",
-        "Quando conduz, o conselho da polícia recolhido pelo VnExpress é não pendurar sacos na mota nem levá-los ao ombro e, de preferência, guardá-los no compartimento. O artigo é antigo e fala de roubos por esticão, mas o princípio de não deixar nada pendurado serve também quando a mota está parada."
+        "Quando conduz, o conselho da polícia recolhido pelo VnExpress é não pendurar sacos na mota nem levá-los ao ombro e, de preferência, guardá-los no compartimento. O artigo é antigo e fala de roubos por esticão, mas o princípio de não deixar nada pendurado serve também quando a mota está parada. Se pensa levantá-la à chegada, veja se [receber a mota no aeroporto](/precos/entrega-no-aeroporto-noi-bai/) compensa."
       ]
     },
     {
@@ -356,13 +356,18 @@
   },
   "status": "PUBLISHED",
   "date_published": "2026-10-13",
-  "date_modified": "2026-10-13",
+  "date_modified": "2026-10-14",
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 2180,
+    "words": 2193,
     "publish_mode": "review",
-    "approved_at": "2026-10-13",
-    "revisions": []
+    "approved_at": "2026-10-14",
+    "revisions": [
+      {
+        "date": "2026-10-14",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

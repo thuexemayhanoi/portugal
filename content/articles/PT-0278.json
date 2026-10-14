@@ -65,7 +65,7 @@
           }
         },
         "O valor do recorde da capital varia ligeiramente consoante a fonte: o Tiền Phong, numa edição de 2026, dá 42,5 °C e chama-lhe recorde até hoje; na altura, o VietNamNet noticiou 42 °C. A ordem de grandeza é a mesma, e o recorde nacional de Tương Dương mostra que, no Vietname, o calor extremo pode chegar logo em maio.",
-        "A humidade também conta, à volta dos 79 % em média ao longo do ano, segundo os mesmos guias. E o verão é, ao mesmo tempo, a época das chuvas, com agosto como o mês mais chuvoso na maioria das fontes."
+        "A humidade também conta, à volta dos 79 % em média ao longo do ano, segundo os mesmos guias. E o verão é, ao mesmo tempo, a época das chuvas, com agosto como o mês mais chuvoso na maioria das fontes. Para ver o verão ao lado das outras estações, o guia sobre a [melhor época para andar de mota](/rotas-e-mobilidade/melhor-epoca-para-andar-de-mota/) compara os meses do ano em Hanói e no Norte do Vietname."
       ]
     },
     {
@@ -305,15 +305,20 @@
   },
   "status": "PUBLISHED",
   "date_published": "2026-10-13",
-  "date_modified": "2026-10-13",
+  "date_modified": "2026-10-14",
   "editorial": {
     "qa_score": 98,
     "qa_warnings": [
       "source code W: Dados meteorológicos oficiais (Centro Nacional de Previsão Hidrometeorológica) ou climatologia reconhecida."
     ],
-    "words": 1879,
+    "words": 1910,
     "publish_mode": "review",
-    "approved_at": "2026-10-13",
-    "revisions": []
+    "approved_at": "2026-10-14",
+    "revisions": [
+      {
+        "date": "2026-10-14",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }
