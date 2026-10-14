@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.7.1 — 2026-10-14 · a matriz SEO passa a ser uma barreira na CI
+
+- `node scripts/seo-matrix.mjs --check` corre em `npm run check` e no workflow Site QA: qualquer URL com um problema P0 faz falhar a verificação.
+- O QA da fábrica mede a repetição de texto com o mesmo método da matriz (shingles de 3 palavras; ≥ 0,12 aviso, ≥ 0,20 erro), para que um artigo novo não recrie a canibalização corrigida no lote 2.
+- `scripts/lib/overlap.mjs` guarda os limiares num só sítio; testes para a biblioteca.
+
 ## 1.7.0 — 2026-10-14 · auditoria SEO por URL e otimização em lotes
 
 - **SEO Master Matrix** (`node scripts/seo-matrix.mjs`): cada um dos 332 URLs classificado em P0/P1/P2 (técnico, on-page, conteúdo, E-E-A-T, schema, ligações, mobile, AEO/GEO), com a canibalização calculada a partir do conteúdo atual e os grupos de palavras-chave comerciais com uma página de destino cada. Resultado: P0 0 · P1 98 → 0.

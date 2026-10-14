@@ -49,6 +49,10 @@ Mọi mục dưới đây được **sinh tự động** bởi generator và **k
 - Đã đo bằng Playwright: CLS = 0, không tràn ngang ở 390 px và 1440 px (xem báo cáo PR). Điểm Lighthouse chỉ được ghi khi thực sự đo.
 - **SEO Monitor** chạy Lighthouse mobile hằng tuần trên domain thật (ngân sách: Perf ≥ 90, A11y/BP/SEO ≥ 95, LCP ≤ 2,5 s, CLS ≤ 0,1, TBT ≤ 200 ms; INP chỉ đo được bằng dữ liệu người dùng thật, TBT là chỉ số thay thế trong lab).
 
+## SEO Master Matrix (theo từng URL, `scripts/seo-matrix.mjs`)
+
+Mỗi URL đã build được chấm P0/P1/P2 từ HTML sinh ra, sitemap, `llms.txt` và model nội dung: kỹ thuật (canonical, robots, sitemap, `lang`, viewport), on-page (title/description duy nhất và đúng độ dài, 1 H1, từ khóa chính trong title/H1), nội dung và E-E-A-T (độ dài, nguồn, nota legal cũ), schema (JSON-LD hợp lệ, không trường cấm, BlogPosting, BreadcrumbList, FAQPage khớp FAQ hiển thị), liên kết nội bộ (bài mồ côi, số link vào/ra), cannibalization (tính trực tiếp từ nội dung hiện tại), mobile/CWV (alt, width/height, bảng cuộn, dung lượng), AEO/GEO (answer box, `llms.txt`). Kết quả: `docs/audit/seo-master-matrix.csv`, `seo-matrix-summary.json`, `money-keywords.csv` (mỗi cụm từ khóa thương mại một trang đích, không title cạnh tranh). `--check` chạy trong CI: **không URL nào được còn P0**. Định nghĩa mức ưu tiên và nhật ký batch: `docs/audit/SEO-MATRIX.md`.
+
 ## Giám sát site thật (SEO Monitor, `scripts/audit-live.mjs`)
 
 HTTPS và chuyển hướng http→https, github.io→domain riêng, robots.txt, sitemap.xml, mọi URL trong sitemap và mọi link nội bộ (status, chuyển hướng, canonical, robots/X-Robots-Tag, title trùng, meta description, H1, `lang`, JSON-LD và NAP), asset, mixed content, soft 404, trùng URL có/không có `/` cuối, gzip/br, dung lượng, thời gian phản hồi, so sánh nội dung live với repo (phát hiện deploy chậm), link ngoài và độ mới của nguồn (theo tuần). IndexNow báo cho Bing các URL thay đổi.

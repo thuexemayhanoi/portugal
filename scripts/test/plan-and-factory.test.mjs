@@ -118,6 +118,7 @@ test('a draft that answers the same query as a live page is rejected', (t) => {
   assert.ok(r.errors.some((e) => /title duplicates PT-0066/.test(e)), r.errors.join('\n'));
   assert.ok(r.stats.max_intent_overlap >= 0.6, `overlap ${r.stats.max_intent_overlap}`);
   assert.ok(r.errors.some((e) => /same search intent as PT-0066/.test(e)));
+  assert.ok(r.errors.some((e) => /content overlap 1\.00 with PT-0066/.test(e)), r.errors.join('\n'));
 });
 
 test('a published article can be updated in place and keeps its publication date', () => {

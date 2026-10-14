@@ -42,5 +42,8 @@ jobs:
       - name: Published articles still pass the article QA
         run: node scripts/qa-factory.mjs --published
 
+      - name: SEO master matrix (no P0 issue on any URL)
+        run: node scripts/seo-matrix.mjs --check
+
       - name: Factory status
         run: node scripts/factory.mjs status

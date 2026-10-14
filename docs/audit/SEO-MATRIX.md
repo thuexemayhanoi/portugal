@@ -5,6 +5,7 @@ Ma trận đánh giá **từng URL** (332 URL: 12 trang nền, 2 hub, 18 archive
 - **Sinh lại bằng:** `node scripts/seo-matrix.mjs`. Script chỉ đọc HTML đã build, `sitemap.xml`, `llms.txt` và model nội dung, không sửa gì trên site.
 - **Kết quả:** `seo-master-matrix.csv` (1 dòng / URL) và `seo-matrix-summary.json` (số liệu tổng).
 - **Đo hiệu năng (lab):** `node scripts/tools/cwv-lab.mjs` → `cwv-lab.json`.
+- **Cửa chặn CI:** `node scripts/seo-matrix.mjs --check` (trong `npm run check` và Site QA) không ghi file và báo lỗi khi bất kỳ URL nào còn P0.
 
 ## Mức ưu tiên
 
@@ -83,6 +84,7 @@ Tất cả đạt ngân sách (LCP ≤ 2,5 s, CLS ≤ 0,1, TBT ≤ 200 ms) và k
 | 2 | 14/10 | Viết lại đoạn chung lặp lại ở 6 bài: PT-0258, 0227, 0260, 0268, 0047, 0202 (mỗi bài một câu riêng + link về bài hướng dẫn chính). Đổi title archive `/precos/aluguer-por-duracao/` cho khác `/precos/` | Cặp HIGH/MEDIUM 7 → 0 (độ trùng mọi cặp < 0,10) |
 | 3 | 14/10 | Trang chủ thành trang đích của «aluguer de motas em Hanói»: thêm 20 link ngữ cảnh (4 trang trụ cột + 16 bài), anchor đa dạng; H1 của trang giấy tờ & tiền cọc nêu đúng truy vấn; trang chủ có trong `llms.txt` | Link vào trang chủ 0 → 20 |
 | 4 | 14/10 | Thêm 1 link vào cho 24 bài chỉ có 1 link trỏ vào. Sửa 4 góp ý review: cannibalization tính trực tiếp, so khớp `llms.txt` chính xác, đo dung lượng CWV, README | P1 → 0; check và test xanh |
+| 5 | 14/10 | Giữ kết quả bền vững: `seo-matrix --check` vào `npm run check` và CI (chặn khi còn P0); factory QA đo trùng văn bản bằng đúng phép đo của Matrix (cụm 3 từ, ≥ 0,12 cảnh báo, ≥ 0,20 loại) để bài mới không tái tạo cannibalization | CI gate; test cho lib overlap |
 
 ## Chưa đo được (không giả định)
 

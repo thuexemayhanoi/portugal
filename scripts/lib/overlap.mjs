@@ -1,9 +1,12 @@
-// Content overlap between pages (cannibalization signals), shared by scripts/audit-content.mjs and
-// scripts/seo-matrix.mjs so both always score the current content the same way:
+// Content overlap between pages (cannibalization signals), shared by scripts/audit-content.mjs,
+// scripts/seo-matrix.mjs and scripts/qa-factory.mjs so every tool scores content the same way:
 //   intent  = Jaccard of the intent fingerprints (primary keyword + title + H1)
 //   overlap = Jaccard of 3-word shingles of the visible body (sources and links excluded)
 import { normalize } from './util.mjs';
 import { intentFingerprint, jaccard } from './intent.mjs';
+
+// One source of truth for the body-overlap thresholds (audit risk levels and factory QA).
+export const OVERLAP_THRESHOLDS = { high: 0.2, medium: 0.12 };
 
 // Body text of an article or draft: summary, intro, key points, sections and FAQ.
 export const bodyText = (a, txt) =>
@@ -22,7 +25,7 @@ export function shingles(text) {
   return s;
 }
 
-export const riskLevel = ({ sameKeyword, intent, overlap }) => (sameKeyword || intent >= 0.6 || overlap >= 0.2 ? 'HIGH' : intent >= 0.45 || overlap >= 0.12 ? 'MEDIUM' : 'LOW');
+export const riskLevel = ({ sameKeyword, intent, overlap }) => (sameKeyword || intent >= 0.6 || overlap >= OVERLAP_THRESHOLDS.high ? 'HIGH' : intent >= 0.45 || overlap >= OVERLAP_THRESHOLDS.medium ? 'MEDIUM' : 'LOW');
 
 // items: [{ key, keyword, title, h1, text, ...rest }] → pairs worth listing (intent ≥ 0.3, overlap ≥ 0.08
 // or the same primary keyword), each with its risk level.
