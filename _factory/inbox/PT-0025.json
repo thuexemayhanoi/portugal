@@ -93,7 +93,7 @@
         "Uma mota com muitos quilómetros e bom estado é preferível a uma com poucos quilómetros e problemas à vista. Para decidir, ordene o que encontrou por gravidade:",
         {
           "ul": [
-            "**Não saia com ela:** travões que não seguram, pneus gastos até ao indicador ou com cortes, direção com folga, farol ou luz de travão que não acendem, fugas de combustível.",
+            "**Não saia com ela:** travões que não seguram, pneus muito gastos ou com cortes, direção com folga, farol ou luz de travão que não acendem, fugas de combustível.",
             "**Peça arranjo ou troca antes de levantar:** corrente seca ou com folga excessiva, pressão dos pneus incorreta, motor difícil de pôr a trabalhar, ruídos novos.",
             "**Registe e siga em frente:** riscos e mossas na carroçaria, plásticos soltos, assento gasto, espelhos com folga leve."
           ]
@@ -114,7 +114,7 @@
             },
             {
               "title": "Escreva a leitura",
-              "text": "Peça que o número de quilómetros e o nível de combustível figurem no acordo ou numa mensagem da loja, com a data e a hora. Quem diz «já estava assim» perde força se o número estiver registado."
+              "text": "Peça que o número de quilómetros e o nível de combustível figurem no acordo ou numa mensagem da loja, com a data e a hora. Com o número registado, evitam-se discussões no fim."
             },
             {
               "title": "Documente cada defeito encontrado",
