@@ -151,7 +151,7 @@
       "body": [
         "A loja {{brand}} está aberta {{hours}} e fica em Long Biên, em {{address}}. Quem está alojado na urbanização está do mesmo lado do rio, pelo que a ida à loja não implica atravessar o rio Vermelho, ao contrário de quem fica no Bairro Antigo. Para os dois casos, o guia sobre [alugar mota em Long Biên](/zonas-de-hanoi/aluguer-de-motas-em-long-bien/) explica como preparar a visita.",
         "Para ir à loja, o mais simples é um táxi ou uma aplicação, com a morada em vietnamita: {{address.vi}}. Marque a hora de levantamento depois das {{opens}} e deixe tempo para os papéis. A entrega da mota no alojamento não faz parte do preço de referência e não está assegurada: a loja confirma, caso a caso, se é possível numa dada morada. Se pretender essa entrega, envie a morada exata, a subzona e a entrada, e peça à loja que diga por escrito se aceita entregar dentro da urbanização ou apenas à portaria; o guia da [entrega da mota no hotel](/precos/entrega-da-mota-no-hotel/) lista o que perguntar.",
-        "Antes de reservar o alojamento, pergunte também ao anfitrião se o parque aceita a mota alugada e se há cartão ou taxa. Se a resposta for não, combine com a loja levantar a mota no dia da saída e não no da chegada.",
+        "Antes de reservar o alojamento, pergunte também ao anfitrião se o parque aceita a mota alugada e se há cartão ou taxa. Se a resposta for não, combine com a loja levantar a mota no dia da saída e não no da chegada. Para pesar o bairro antes de reservar, leia os [prós e contras de ficar alojado em Long Biên](/zonas-de-hanoi/ficar-alojado-em-long-bien/).",
         "Para quem fica semanas, as tarifas por duração fazem diferença: a referência da loja começa em {{price.min.day}} por dia, verificada a {{pricing.verifiedAt}}, e a página sobre o [aluguer por duração](/precos/aluguer-por-duracao/) compara o dia, a semana e o mês. Combine o dia da devolução com o do regresso ao aeroporto, para não depender de uma ponte ou de uma portaria à última hora."
       ]
     },
@@ -296,9 +296,14 @@
     "qa_warnings": [
       "source code X: Entidade ou operador oficial (metro, autocarros, ferrovia, aeroporto, preços oficiais de combustível, bancos)."
     ],
-    "words": 2218,
+    "words": 2236,
     "publish_mode": "review",
     "approved_at": "2026-10-14",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-14",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

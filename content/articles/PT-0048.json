@@ -226,7 +226,7 @@
       "h2": "Automática ou de mudanças, a categoria legal é a mesma",
       "body": [
         "Para a lei vietnamita, uma 50 cc é um «xe gắn máy»: um veículo de duas ou três rodas com motor até 50 cm³, ou elétrico até 4 kW, cuja velocidade de projeto não passa de 50 km/h. A definição assenta na cilindrada e na velocidade, e não na transmissão. Uma scooter automática e uma mota de mudanças com essas características ficam no mesmo grupo.",
-        "A idade mínima para este grupo é de 16 anos. Os documentos que um visitante deve levar são outra questão, que não depende das mudanças e que tem de confirmar antes de conduzir. Veja o guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/) e, para as ideias feitas mais repetidas, os [mitos sobre as motas de 50 cc](/tipos-de-motas/mitos-sobre-motas-50cc/)."
+        "A idade mínima para este grupo é de 16 anos. Os documentos que um visitante deve levar são outra questão, que não depende das mudanças e que tem de confirmar antes de conduzir. Veja o guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/), o da [carta AM e 50 cc no Vietname](/tipos-de-motas/carta-am-e-50cc-no-vietname/) e, para as ideias feitas mais repetidas, os [mitos sobre as motas de 50 cc](/tipos-de-motas/mitos-sobre-motas-50cc/)."
       ]
     },
     {
@@ -290,13 +290,18 @@
   },
   "status": "PUBLISHED",
   "date_published": "2026-10-13",
-  "date_modified": "2026-10-13",
+  "date_modified": "2026-10-14",
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 2104,
+    "words": 2113,
     "publish_mode": "review",
-    "approved_at": "2026-10-13",
-    "revisions": []
+    "approved_at": "2026-10-14",
+    "revisions": [
+      {
+        "date": "2026-10-14",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

@@ -92,7 +92,7 @@
       "h2": "O que não sabemos: a embraiagem automática e a baixa velocidade",
       "body": [
         "Uma pergunta natural é: se não há manete, como engata a mota? A resposta nas fontes é parcial. Segundo uma página da Honda sobre a história do Cub, esse modelo usa embraiagem centrífuga automática. Uma revisão do Super Cub C125 diz que a embraiagem engata com o acelerador e solta quando se carrega no pedal de mudanças. O Super Cub não é uma Wave nem uma Sirius, e o manual da Wave 110 não menciona o tipo de embraiagem nos excertos que consultámos.",
-        "Por isso, não é possível afirmar, com fonte, como a Wave ou a Sirius se comportam a baixas rotações, no arranque ou em subida, nem se patinam no pára-arranca. É a pergunta mais útil a fazer na loja e a melhor razão para testar a mota antes de a levar. As paragens e os arranques em trânsito lento são um tema à parte; aqui basta saber que a incerteza existe."
+        "Por isso, não é possível afirmar, com fonte, como a Wave ou a Sirius se comportam a baixas rotações, no arranque ou em subida, nem se patinam no pára-arranca. É a pergunta mais útil a fazer na loja e a melhor razão para [testar as mudanças antes de sair da loja](/tipos-de-motas/testar-mudancas-da-semiautomatica/). As paragens e os arranques em trânsito lento são um tema à parte; aqui basta saber que a incerteza existe."
       ]
     },
     {
@@ -221,9 +221,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1759,
+    "words": 1760,
     "publish_mode": "review",
     "approved_at": "2026-10-14",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-14",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

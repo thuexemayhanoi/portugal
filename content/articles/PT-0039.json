@@ -199,7 +199,7 @@
         {
           "h3": "3. O que vai levar consigo?"
         },
-        "Não parta do princípio de que as duas têm o mesmo espaço para o capacete, a capa de chuva e uma mochila. Na loja, abra o assento da Click, veja onde a Wave leva o capacete e decida com o seu equipamento à frente.",
+        "Não parta do princípio de que as duas têm o mesmo espaço para o capacete, a capa de chuva e uma mochila. Na loja, abra o assento da Click, veja onde a Wave leva o capacete e decida com o seu equipamento à frente. Para a Wave, veja a [bagagem numa Honda Wave](/tipos-de-motas/bagagem-numa-semiautomatica/).",
         {
           "h3": "4. Vai levar passageiro?"
         },
@@ -359,9 +359,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 2187,
+    "words": 2196,
     "publish_mode": "review",
     "approved_at": "2026-10-14",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-14",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

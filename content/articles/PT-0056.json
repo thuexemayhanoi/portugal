@@ -124,7 +124,7 @@
         {
           "ul": [
             "**Estadias com base fixa em Hanói**, num alojamento onde pode carregar a mota durante a noite.",
-            "**Deslocações dentro da cidade**, de bairro em bairro, com distâncias que conhece ou que mede no mapa antes de sair.",
+            "**Deslocações dentro da cidade**, de bairro em bairro, com distâncias que conhece ou que mede no mapa antes de sair. Para trajetos muito curtos, veja se a [bicicleta elétrica](/tipos-de-motas/bicicleta-eletrica-em-hanoi/) não lhe serve melhor do que qualquer mota.",
             "**Alugueres de uma semana ou de um mês**, em que ligar a mota à corrente à noite passa a ser um hábito, tal como abastecer numa scooter. O guia da [scooter para o dia a dia](/tipos-de-motas/scooter-para-o-dia-a-dia/) ajuda a pensar essa rotina.",
             "**Quem prefere uma condução silenciosa** e dispensa as idas à bomba de gasolina."
           ]
@@ -321,13 +321,18 @@
   },
   "status": "PUBLISHED",
   "date_published": "2026-10-13",
-  "date_modified": "2026-10-13",
+  "date_modified": "2026-10-14",
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 2090,
+    "words": 2061,
     "publish_mode": "review",
-    "approved_at": "2026-10-13",
-    "revisions": []
+    "approved_at": "2026-10-14",
+    "revisions": [
+      {
+        "date": "2026-10-14",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

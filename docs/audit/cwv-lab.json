@@ -1,0 +1,84 @@
+{
+  "$comment": "Medição de laboratório (Chromium headless, servidor local sem gzip, mobile 390×844, CPU ×4, ~1,6 Mbps, RTT 150 ms). Não é dado de campo (CrUX); INP não é medível aqui.",
+  "generated_at": "2026-10-14",
+  "budget": {
+    "lcp_ms": 2500,
+    "cls": 0.1,
+    "tbt_ms": 200
+  },
+  "results": {
+    "home": {
+      "url": "/",
+      "lcp_ms": 780,
+      "fcp_ms": 780,
+      "cls": 0,
+      "tbt_ms": 90,
+      "transfer_kb": 31,
+      "horizontal_overflow": false
+    },
+    "pillar": {
+      "url": "/precos/",
+      "lcp_ms": 808,
+      "fcp_ms": 808,
+      "cls": 0,
+      "tbt_ms": 60,
+      "transfer_kb": 31,
+      "horizontal_overflow": false
+    },
+    "hub": {
+      "url": "/zonas-de-hanoi/",
+      "lcp_ms": 804,
+      "fcp_ms": 804,
+      "cls": 0,
+      "tbt_ms": 42,
+      "transfer_kb": 69,
+      "horizontal_overflow": false
+    },
+    "archive": {
+      "url": "/tipos-de-motas/semiautomaticas/",
+      "lcp_ms": 660,
+      "fcp_ms": 660,
+      "cls": 0,
+      "tbt_ms": 8,
+      "transfer_kb": 31,
+      "horizontal_overflow": false
+    },
+    "article (tables)": {
+      "url": "/precos/aluguer-semanal-de-mota/",
+      "lcp_ms": 796,
+      "fcp_ms": 796,
+      "cls": 0,
+      "tbt_ms": 86,
+      "transfer_kb": 74,
+      "horizontal_overflow": false
+    },
+    "article (long)": {
+      "url": "/zonas-de-hanoi/teatro-de-marionetas-na-agua/",
+      "lcp_ms": 804,
+      "fcp_ms": 804,
+      "cls": 0,
+      "tbt_ms": 49,
+      "transfer_kb": 70,
+      "horizontal_overflow": false
+    },
+    "faq": {
+      "url": "/perguntas-frequentes/",
+      "lcp_ms": 740,
+      "fcp_ms": 740,
+      "cls": 0,
+      "tbt_ms": 21,
+      "transfer_kb": 31,
+      "horizontal_overflow": false
+    },
+    "contact": {
+      "url": "/contactos/",
+      "lcp_ms": 640,
+      "fcp_ms": 640,
+      "cls": 0,
+      "tbt_ms": 26,
+      "transfer_kb": 31,
+      "horizontal_overflow": false
+    }
+  },
+  "pass": true
+}

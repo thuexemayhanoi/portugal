@@ -175,7 +175,7 @@
             "Se nunca conduziu uma mota, o guia para quem [nunca conduziu uma mota](/tipos-de-motas/nunca-conduziu-uma-mota/) ajuda a decidir se este passeio é para si."
           ]
         },
-        "Outros percursos pela cidade vão sendo reunidos em [Rotas e mobilidade](/rotas-e-mobilidade/), e o itinerário de [Hanói de mota num dia](/rotas-e-mobilidade/hanoi-de-mota-num-dia/) mostra como juntar estas zonas durante o dia. Para falar com a loja, use os [contactos](/contactos/)."
+        "Outros percursos pela cidade vão sendo reunidos em [Rotas e mobilidade](/rotas-e-mobilidade/), e o itinerário de [Hanói de mota num dia](/rotas-e-mobilidade/hanoi-de-mota-num-dia/) mostra como juntar estas zonas durante o dia. Os mercados, de dia, estão no [roteiro dos mercados de Hanói de mota](/rotas-e-mobilidade/roteiro-dos-mercados/). Para falar com a loja, use os [contactos](/contactos/)."
       ]
     }
   ],
@@ -393,13 +393,18 @@
   },
   "status": "PUBLISHED",
   "date_published": "2026-10-13",
-  "date_modified": "2026-10-13",
+  "date_modified": "2026-10-14",
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1985,
+    "words": 1998,
     "publish_mode": "review",
-    "approved_at": "2026-10-13",
-    "revisions": []
+    "approved_at": "2026-10-14",
+    "revisions": [
+      {
+        "date": "2026-10-14",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

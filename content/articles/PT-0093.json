@@ -142,7 +142,7 @@
         {
           "ul": [
             "**Transferência**: faça uma captura de ecrã da confirmação, com a data, a hora, o valor e o nome do destinatário, e envie-a à loja na mesma conversa.",
-            "**Cartão**: guarde o talão do terminal e confira no extrato, já em casa, se o valor e a moeda coincidem.",
+            "**Cartão**: guarde o talão do terminal e confira no extrato, já em casa, se o valor e a moeda coincidem. Onde o cartão funciona e o que preparar está no guia sobre [cartões estrangeiros no Vietname](/precos/cartoes-estrangeiros-no-vietname/).",
             "**Numerário**: o recibo em papel é a única prova; fotografe-o logo à saída."
           ]
         },
@@ -265,16 +265,20 @@
   },
   "status": "PUBLISHED",
   "date_published": "2026-10-13",
-  "date_modified": "2026-10-13",
+  "date_modified": "2026-10-14",
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1618,
+    "words": 1634,
     "publish_mode": "review",
-    "approved_at": "2026-10-13",
+    "approved_at": "2026-10-14",
     "revisions": [
       {
         "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      },
+      {
+        "date": "2026-10-14",
         "reason": "Ligações internas para artigos publicados depois"
       }
     ]

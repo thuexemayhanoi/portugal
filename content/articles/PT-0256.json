@@ -93,7 +93,7 @@
     {
       "h2": "Quando faz sentido ir de mota a um terminal",
       "body": [
-        "A resposta depende do que vai fazer lá. Largar ou recolher alguém é um gesto de poucos minutos e pode justificar a mota. Deixá-la durante uma viagem de vários dias é outra coisa: não confirmámos parques de longa duração nos terminais, nem se a loja o aceita.",
+        "A resposta depende do que vai fazer lá. Largar ou recolher alguém é um gesto de poucos minutos e pode justificar a mota. Deixá-la durante uma viagem de vários dias é outra coisa: não confirmámos parques de longa duração nos terminais, nem se a loja o aceita. Se a ideia for viajar de comboio com a própria mota, o guia sobre [levar a mota no comboio](/zonas-de-hanoi/levar-a-mota-no-comboio/) explica como funciona o despacho.",
         {
           "table": {
             "caption": "Situações habituais e alternativas ao uso da mota nos terminais",
@@ -143,7 +143,7 @@
           ]
         },
         "O guia sobre [horas de levantamento e devolução](/precos/horas-de-levantamento-e-devolucao/) e o de [devolver a mota](/guia-de-aluguer/devolver-a-mota/) mostram o que combinar para uma devolução fora do expediente. Para os documentos que a loja pede, veja [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/).",
-        "Mais pontos de interesse e zonas da cidade estão reunidos em [Zonas de Hanói](/zonas-de-hanoi/)."
+        "Mais pontos de interesse e zonas da cidade estão reunidos em [Zonas de Hanói](/zonas-de-hanoi/). Para uma visita curta de mota, veja o guia do [Templo da Literatura](/zonas-de-hanoi/templo-da-literatura/), com acesso, estacionamento e horário."
       ]
     }
   ],
@@ -240,13 +240,17 @@
     "qa_warnings": [
       "source code X: Entidade ou operador oficial (metro, autocarros, ferrovia, aeroporto, preços oficiais de combustível, bancos)."
     ],
-    "words": 1684,
+    "words": 1726,
     "publish_mode": "review",
     "approved_at": "2026-10-14",
     "revisions": [
       {
         "date": "2026-10-14",
         "reason": "Correção editorial após revisão: factos e formulação ajustados às fontes."
+      },
+      {
+        "date": "2026-10-14",
+        "reason": "Ligações internas para artigos publicados depois"
       }
     ]
   }

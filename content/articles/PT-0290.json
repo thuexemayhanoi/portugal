@@ -143,7 +143,7 @@
     {
       "h2": "Táxi ou mota alugada: quando o táxi é a escolha certa",
       "body": [
-        "O táxi cobra a viagem e a mota cobra o dia. Num dia com um só trajeto, ou com malas, chuva forte ou cansaço, o táxi costuma ser a escolha certa. Num dia com muitas paragens, a mota dá mais liberdade. Os preços da mota por dia, semana e mês estão na [página de preços](/precos/).",
+        "O táxi cobra a viagem e a mota cobra o dia. Num dia com um só trajeto, ou com malas, chuva forte ou cansaço, o táxi costuma ser a escolha certa. Num dia com muitas paragens, a mota dá mais liberdade. Para distâncias curtas, a bicicleta partilhada TNGo é outra alternativa: veja o guia sobre [bicicleta em Hanói](/rotas-e-mobilidade/bicicleta-em-hanoi/). Os preços da mota por dia, semana e mês estão na [página de preços](/precos/).",
         "Depois de beber, o táxi deixa de ser uma opção e passa a ser a única: a lei vietnamita não admite álcool a quem conduz, como explica o guia sobre o [álcool zero ao volante](/guia-de-aluguer/alcool-zero-ao-volante/). Outras situações em que convém deixar a mota parada estão em [rotas e mobilidade](/rotas-e-mobilidade/). Para dúvidas sobre o aluguer, use os [contactos](/contactos/) da loja."
       ]
     }
@@ -227,15 +227,20 @@
   },
   "status": "PUBLISHED",
   "date_published": "2026-10-13",
-  "date_modified": "2026-10-13",
+  "date_modified": "2026-10-14",
   "editorial": {
     "qa_score": 98,
     "qa_warnings": [
       "source code X: Entidade ou operador oficial (metro, autocarros, ferrovia, aeroporto, preços oficiais de combustível, bancos)."
     ],
-    "words": 1614,
+    "words": 1631,
     "publish_mode": "review",
-    "approved_at": "2026-10-13",
-    "revisions": []
+    "approved_at": "2026-10-14",
+    "revisions": [
+      {
+        "date": "2026-10-14",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

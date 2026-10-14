@@ -85,14 +85,14 @@
         "Carregar leva horas. A VinFast indica cerca de 10 horas para uma carga completa da Evo200 com o carregador de 400 W, e cerca de 6 horas na Feliz S e na Vento S com 1000 W. Para a 50 cc, não encontrámos uma ficha técnica verificada (depósito, consumo): a tabela da loja descreve-a como «mota ou scooter de 50 cc», sem modelo fixo.",
         "Para um dia curto na cidade, qualquer das duas tem folga, se a elétrica tiver uma autonomia da ordem das VinFast. A diferença está na logística: a 50 cc repõe-se numa paragem na bomba, enquanto a elétrica carrega durante horas, de preferência à noite, onde dorme.",
         "Quanto à rede pública, em março de 2026 a imprensa vietnamita escrevia que faltava infraestrutura de carregamento em Hanói, e em junho a V-Green e a EVNHANOI acordaram instalar até 10.000 armários de troca de baterias para motas VinFast. É um plano, não uma rede confirmada, e só serviria se a mota da loja usasse essas baterias.",
-        "Não comparamos o custo da energia: não encontrámos preços verificados da eletricidade de uma carga. O guia do [combustível no aluguer](/precos/combustivel-no-aluguer/) explica o que combinar na entrega e na devolução."
+        "Não comparamos o custo da energia: não encontrámos preços verificados da eletricidade. O guia do [combustível no aluguer](/precos/combustivel-no-aluguer/) explica o que combinar na entrega e na devolução."
       ]
     },
     {
       "h2": "Ruído e condução na cidade: o que não conseguimos confirmar",
       "body": [
         "Não encontrámos medições de ruído, em decibéis, das motas de aluguer, nem uma comparação fiável de manutenção ou de avarias entre as duas opções. Sem motor de combustão, é razoável esperar uma elétrica mais silenciosa, mas é uma expectativa, não uma medição. O silêncio tem um reverso prático: peões e outros condutores podem não dar pela chegada da mota, sobretudo em ruas estreitas, como as do [Bairro Antigo](/zonas-de-hanoi/conduzir-no-bairro-antigo/). Com uma elétrica, abrande mais cedo.",
-        "Do lado da 50 cc, o que pesa é a margem de potência: com um limite de 40 km/h e um motor pequeno, perde aceleração com passageiro ou bagagem. O guia [50cc ou 110cc](/tipos-de-motas/scooter-50cc-ou-110cc/) compara-a com uma scooter maior, e há um artigo sobre a [50 cc com passageiro](/tipos-de-motas/50cc-com-passageiro/). Como a 50 cc anda abaixo do ritmo de parte do trânsito, convém escolher bem as vias, como explica o guia dos [trajetos de 50 cc em Hanói](/tipos-de-motas/trajetos-para-uma-50cc/), e saber como [ser visto numa 50 cc](/tipos-de-motas/ser-visto-numa-50cc/), da roupa aos espelhos e à posição na faixa."
+        "Do lado da 50 cc, o que pesa é a margem de potência: com um limite de 40 km/h e um motor pequeno, perde aceleração com passageiro ou bagagem. O guia [50cc ou 110cc](/tipos-de-motas/scooter-50cc-ou-110cc/) compara-a com uma scooter maior, e há um artigo sobre a [50 cc com passageiro](/tipos-de-motas/50cc-com-passageiro/). Como a 50 cc anda abaixo do ritmo de parte do trânsito, convém escolher bem as vias e as [pontes](/tipos-de-motas/50cc-nas-pontes-de-hanoi/), como explica o guia dos [trajetos de 50 cc em Hanói](/tipos-de-motas/trajetos-para-uma-50cc/), e saber como [ser visto numa 50 cc](/tipos-de-motas/ser-visto-numa-50cc/), da roupa aos espelhos e à posição na faixa."
       ]
     },
     {
@@ -154,7 +154,7 @@
     {
       "h2": "Perguntas a fazer à loja antes de reservar",
       "body": [
-        "Junte as perguntas numa só mensagem, com as datas e o percurso, e peça as respostas por escrito:",
+        "Junte as perguntas numa só mensagem e peça as respostas por escrito:",
         {
           "checklist": [
             "Para a 50 cc: que marca, modelo e ano tem disponível nas minhas datas, e posso ver o certificado de registo para confirmar a cilindrada? O guia sobre [como confirmar que a mota é mesmo de 50 cc](/tipos-de-motas/confirmar-que-a-mota-e-50cc/) explica onde a ler.",
@@ -288,18 +288,20 @@
   },
   "status": "PUBLISHED",
   "date_published": "2026-10-13",
-  "date_modified": "2026-10-13",
+  "date_modified": "2026-10-14",
   "editorial": {
-    "qa_score": 98,
-    "qa_warnings": [
-      "word count 2241 outside the topic target 1200–2200"
-    ],
-    "words": 2241,
+    "qa_score": 100,
+    "qa_warnings": [],
+    "words": 2197,
     "publish_mode": "review",
-    "approved_at": "2026-10-13",
+    "approved_at": "2026-10-14",
     "revisions": [
       {
         "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      },
+      {
+        "date": "2026-10-14",
         "reason": "Ligações internas para artigos publicados depois"
       }
     ]

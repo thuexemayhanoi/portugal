@@ -176,8 +176,8 @@ for (const f of facts) {
   if (!f.types.includes('BreadcrumbList') && p.url !== '/') I('P1', 'sem BreadcrumbList');
   if (isArticle && !f.blogPosting) I('P0', 'artigo sem BlogPosting');
   if (f.blogPosting && (!f.blogPosting.datePublished || !f.blogPosting.dateModified || !f.blogPosting.author)) I('P1', 'BlogPosting incompleto (datas/autor)');
-  // A page may show questions marked up on /perguntas-frequentes/ (faqSchema: false): one FAQPage per question.
-  if (f.faqVisible && !f.types.includes('FAQPage') && !(p.faqSchemaIds && !p.faqSchema)) I('P1', 'FAQ visível sem FAQPage');
+  // Pages may reuse questions (by id) that are marked up on /perguntas-frequentes/: one FAQPage per question.
+  if (f.faqVisible && !f.types.includes('FAQPage') && !/"ids":\[/.test(JSON.stringify(p.sections || []))) I('P1', 'FAQ visível sem FAQPage');
   if (!f.faqVisible && f.types.includes('FAQPage')) I('P0', 'FAQPage sem FAQ visível');
 
   // Internal links

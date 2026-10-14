@@ -56,7 +56,8 @@
           "note": "Céu muito escuro, ar a arrefecer de repente e vento forte anunciam trovoada. Os especialistas citados pela imprensa vietnamita aconselham a procurar abrigo dentro de um edifício ou de um veículo fechado e a afastar-se de árvores altas, postes, linhas elétricas e da própria mota, que é um objeto metálico.",
           "tone": "warn",
           "title": "Trovoada: pare e procure um edifício"
-        }
+        },
+        "O que fazer durante a trovoada, onde parar e quando voltar à estrada está no guia sobre [trovoada de mota em Hanói](/rotas-e-mobilidade/trovoadas-de-mota/)."
       ]
     },
     {
@@ -324,15 +325,20 @@
   },
   "status": "PUBLISHED",
   "date_published": "2026-10-13",
-  "date_modified": "2026-10-13",
+  "date_modified": "2026-10-14",
   "editorial": {
     "qa_score": 98,
     "qa_warnings": [
       "source code W: Dados meteorológicos oficiais (Centro Nacional de Previsão Hidrometeorológica) ou climatologia reconhecida."
     ],
-    "words": 1838,
+    "words": 1860,
     "publish_mode": "review",
-    "approved_at": "2026-10-13",
-    "revisions": []
+    "approved_at": "2026-10-14",
+    "revisions": [
+      {
+        "date": "2026-10-14",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

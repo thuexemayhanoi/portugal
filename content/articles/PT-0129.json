@@ -22,7 +22,7 @@
       "h2": "Em viagem: não há troca a fazer",
       "body": [
         "Para um visitante, a resposta é simples. A Lei n.º 36/2024/QH15, em vigor desde 1 de janeiro de 2025, reconhece no artigo 57.º as licenças internacionais emitidas por Estados partes da Convenção de Viena de 1968, à qual o Vietname aderiu. Quem tem uma destas licenças conduz com ela e com a carta do seu país, adequada à categoria da mota, sem passar por nenhuma troca.",
-        "Com carta portuguesa, a licença pede-se num balcão do IMT antes de partir, como explica o guia da [Licença Internacional de Condução](/guia-de-aluguer/licenca-internacional-de-conducao/). A categoria da carta tem de cobrir a mota: no Vietname, a A1 vai até 125 cm³, ou até 11 kW numa elétrica, e a A cobre o que passa desses limites, como se detalha no guia das [categorias A1 e A](/guia-de-aluguer/categorias-a1-e-a/).",
+        "Com carta portuguesa, a licença pede-se num balcão do IMT antes de partir, como explica o guia da [Licença Internacional de Condução](/guia-de-aluguer/licenca-internacional-de-conducao/). A categoria da carta tem de cobrir a mota: no Vietname, a A1 vai até 125 cm³, ou até 11 kW numa elétrica, e a A cobre o que passa desses limites, como se detalha no guia das [categorias A1 e A](/guia-de-aluguer/categorias-a1-e-a/). Com carta brasileira, o que levar está no guia sobre a [carta de condução brasileira no Vietname](/guia-de-aluguer/carta-brasileira-no-vietname/).",
         "Mesmo que quisesse, um turista dificilmente cumpriria as condições da troca, descritas a seguir, porque todas pressupõem um cartão de residência ou um cartão diplomático ou de serviço. É uma leitura das condições, e não uma regra escrita para turistas, mas mostra a quem se dirige o procedimento."
       ]
     },
@@ -254,13 +254,18 @@
   },
   "status": "PUBLISHED",
   "date_published": "2026-10-13",
-  "date_modified": "2026-10-13",
+  "date_modified": "2026-10-14",
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1522,
+    "words": 1539,
     "publish_mode": "review",
-    "approved_at": "2026-10-13",
-    "revisions": []
+    "approved_at": "2026-10-14",
+    "revisions": [
+      {
+        "date": "2026-10-14",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

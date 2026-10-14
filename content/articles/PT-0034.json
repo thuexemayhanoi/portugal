@@ -14,7 +14,7 @@
     "As motas não podem usar autoestradas e a saída só se faz com autorização da loja. Na tabela, a Wave custa {{price.wave.day}} por dia e {{price.wave.week}} por semana."
   ],
   "intro": [
-    "Quem aluga uma mota em Hanói e pensa numa saída, seja de um dia aos arredores ou de vários dias para norte, tem de escolher entre uma scooter automática e uma semiautomática. Para a cidade, o guia [scooter ou semiautomática](/tipos-de-motas/scooter-ou-semiautomatica/) já faz essa escolha. Fora dela, entram outras contas: quantos quilómetros dá um depósito, o que a mota pede à corrente, que recurso há se a bateria falhar e até onde chega o conforto.",
+    "Quem aluga uma mota em Hanói e pensa numa saída, seja de um dia aos arredores ou de vários dias para norte, tem de escolher entre uma scooter automática e uma semiautomática. Para a cidade, o guia [scooter ou semiautomática](/tipos-de-motas/scooter-ou-semiautomatica/) já faz essa escolha, e o pára-arranca com mudanças está na [semiautomática no trânsito de Hanói](/tipos-de-motas/semiautomatica-no-transito/). Fora dela, entram outras contas: quantos quilómetros dá um depósito, o que a mota pede à corrente, que recurso há se a bateria falhar e até onde chega o conforto.",
     "Este guia reúne o que os fabricantes publicam sobre a Honda Wave e a Yamaha Sirius, mostra o que essas fichas permitem concluir (e o que não permitem) e termina com o que pedir à loja. Não é um guia de percursos nem de autorização: esse tema tem página própria, em [pedir autorização para sair de Hanói](/guia-de-aluguer/autorizacao-para-sair-de-hanoi/)."
   ],
   "sections": [
@@ -114,7 +114,7 @@
         "A semiautomática não é a melhor escolha para todas as saídas. Algumas orientações:",
         {
           "ul": [
-            "**Se não domina as mudanças de pé**: uma saída com subidas e camiões não é o sítio para aprender. Fique com uma scooter automática; o guia das [scooters automáticas](/tipos-de-motas/scooters/) compara as da loja.",
+            "**Se não domina as mudanças de pé**: uma saída com subidas e camiões não é o sítio para aprender. Fique com uma scooter automática; o guia das [scooters automáticas](/tipos-de-motas/scooters/) compara as da loja. Quem vem de uma mota com embraiagem pode ler [o que muda para uma semiautomática](/tipos-de-motas/vem-de-uma-mota-com-embraiagem/).",
             "**Se vai a dois ou leva bagagem**: uma scooter com mais potência e compartimento pode servir melhor. O guia [Honda Vision ou Air Blade](/tipos-de-motas/honda-vision-ou-air-blade/) explica a diferença.",
             "**Se pensava numa 50 cc**: foi pensada para percursos curtos e a baixa velocidade, não para viagens fora de Hanói. Veja a página das [motas de 50 cc](/tipos-de-motas/motas-50cc/).",
             "**Se pensava numa elétrica**: pergunte à loja qual é a autonomia real e onde pode carregar a mota durante a viagem."
@@ -250,16 +250,20 @@
   },
   "status": "PUBLISHED",
   "date_published": "2026-10-13",
-  "date_modified": "2026-10-13",
+  "date_modified": "2026-10-14",
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1979,
+    "words": 2006,
     "publish_mode": "review",
-    "approved_at": "2026-10-13",
+    "approved_at": "2026-10-14",
     "revisions": [
       {
         "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      },
+      {
+        "date": "2026-10-14",
         "reason": "Ligações internas para artigos publicados depois"
       }
     ]

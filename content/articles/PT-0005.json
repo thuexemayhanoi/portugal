@@ -216,7 +216,7 @@
           }
         },
         "Quando o seu caso junta dois perfis — sozinho durante a semana e a dois ao fim de semana, por exemplo —, decida pelo uso mais frequente. Uma saída a dois de vez em quando não justifica, por si só, uma mota maior durante todo o aluguer: na cidade, a Vision também transporta um passageiro.",
-        "Se o critério principal for gastar menos, compare também com a Honda Click, que ao dia custa {{cmp.click.vision.day}} a Vision; o guia da [Honda Click](/tipos-de-motas/honda-click-em-hanoi/) mostra os limites dessa opção, e o da [Yamaha Mio](/tipos-de-motas/yamaha-mio-em-hanoi/) apresenta a outra scooter de pequena cilindrada da tabela. E se nunca conduziu uma mota, nenhuma das duas resolve a falta de prática: o trânsito de Hanói não é sítio para aprender, e o guia [quando é melhor não conduzir](/rotas-e-mobilidade/quando-nao-conduzir/) propõe alternativas."
+        "Se o critério principal for gastar menos, compare também com a Honda Click, que ao dia custa {{cmp.click.vision.day}} a Vision; o guia da [Honda Click](/tipos-de-motas/honda-click-em-hanoi/) mostra os limites dessa opção, e o da [Yamaha Mio](/tipos-de-motas/yamaha-mio-em-hanoi/) apresenta a outra scooter de pequena cilindrada da tabela. Se o preço for igual e a dúvida ficar entre estas duas, o guia [Honda Click ou Yamaha Mio](/tipos-de-motas/honda-click-ou-yamaha-mio/) ajuda a escolher. E se nunca conduziu uma mota, nenhuma das duas resolve a falta de prática: o trânsito de Hanói não é sítio para aprender, e o guia [quando é melhor não conduzir](/rotas-e-mobilidade/quando-nao-conduzir/) propõe alternativas."
       ]
     },
     {
@@ -318,16 +318,20 @@
   },
   "status": "PUBLISHED",
   "date_published": "2026-10-13",
-  "date_modified": "2026-10-13",
+  "date_modified": "2026-10-14",
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 2113,
+    "words": 2135,
     "publish_mode": "review",
-    "approved_at": "2026-10-13",
+    "approved_at": "2026-10-14",
     "revisions": [
       {
         "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      },
+      {
+        "date": "2026-10-14",
         "reason": "Ligações internas para artigos publicados depois"
       }
     ]

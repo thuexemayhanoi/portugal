@@ -23,7 +23,7 @@
       "body": [
         "A lei vietnamita sobre a ordem e a segurança do trânsito rodoviário, em vigor desde 1 de janeiro de 2025, proíbe quem conduz uma mota de usar o telemóvel enquanto conduz. A mesma regra afasta o guarda-chuva: com chuva, a solução é a capa.",
         "As fontes consultadas para este guia não detalham se olhar para um telemóvel preso num suporte conta como uso. Seguimos por isso a leitura prudente, a mesma dos outros guias deste site: em andamento, o telemóvel não se usa, nem na mão nem no suporte, e o mapa consulta-se com a mota parada.",
-        "Há também uma razão prática. No trânsito de Hanói, com motas a ultrapassar pelos dois lados e peões a atravessar quando menos se espera, um segundo de olhos no ecrã é tempo de mais. As outras regras de base, como o capacete apertado e o álcool zero, estão no [guia de aluguer passo a passo](/guia-de-aluguer/)."
+        "Há também uma razão prática. No trânsito de Hanói, com motas a ultrapassar pelos dois lados e peões a atravessar quando menos se espera, um segundo de olhos no ecrã é tempo de mais. As outras regras de base, como o capacete apertado e o álcool zero, estão no [guia de aluguer passo a passo](/guia-de-aluguer/). Para quem vem de Portugal, as diferenças mais gerais de guiar no Vietname estão no guia sobre [scooters no Vietname e em Portugal](/tipos-de-motas/scooters-no-vietname-e-em-portugal/)."
       ]
     },
     {
@@ -94,7 +94,7 @@
           "h3": "Sol, calor e chuva"
         },
         "Ao sol, o ecrã perde legibilidade e o telemóvel aquece, sobretudo se estiver a carregar; muitos aparelhos baixam o brilho quando aquecem. Com chuva, um suporte sem proteção deixa o telemóvel exposto: use uma capa impermeável ou guarde-o até a chuva passar.",
-        "Ao estacionar, retire o telemóvel do suporte e leve-o consigo."
+        "Ao estacionar, retire o telemóvel do suporte e leve-o consigo; para o capacete, veja [onde o deixar ao estacionar](/tipos-de-motas/onde-deixar-o-capacete/)."
       ]
     },
     {
@@ -162,13 +162,18 @@
   },
   "status": "PUBLISHED",
   "date_published": "2026-10-13",
-  "date_modified": "2026-10-13",
+  "date_modified": "2026-10-14",
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1469,
+    "words": 1501,
     "publish_mode": "review",
-    "approved_at": "2026-10-13",
-    "revisions": []
+    "approved_at": "2026-10-14",
+    "revisions": [
+      {
+        "date": "2026-10-14",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

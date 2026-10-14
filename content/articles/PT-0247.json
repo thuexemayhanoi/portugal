@@ -177,7 +177,7 @@
             "Quem conduz não bebe nada, do princípio ao fim da noite."
           ]
         },
-        "Para o resto do lago, veja a [volta ao Lago Oeste de mota](/zonas-de-hanoi/volta-ao-lago-oeste/) e o [passeio noturno de mota em Hanói](/rotas-e-mobilidade/hanoi-a-noite-de-mota/)."
+        "Para o resto do lago, veja a [volta ao Lago Oeste de mota](/zonas-de-hanoi/volta-ao-lago-oeste/), o [pagode Trấn Quốc](/zonas-de-hanoi/pagode-tran-quoc/) e o [passeio noturno de mota em Hanói](/rotas-e-mobilidade/hanoi-a-noite-de-mota/)."
       ]
     }
   ],
@@ -296,13 +296,17 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1994,
+    "words": 1998,
     "publish_mode": "review",
     "approved_at": "2026-10-14",
     "revisions": [
       {
         "date": "2026-10-14",
         "reason": "Correção editorial após revisão: factos e formulação ajustados às fontes."
+      },
+      {
+        "date": "2026-10-14",
+        "reason": "Ligações internas para artigos publicados depois"
       }
     ]
   }

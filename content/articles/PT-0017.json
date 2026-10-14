@@ -33,7 +33,7 @@
             },
             {
               "title": "Arranque",
-              "text": "Recolha o descanso lateral e dê o arranque: nos modelos com interruptor do descanso, a mota não arranca com ele em baixo. Espere que o motor estabilize."
+              "text": "Recolha o descanso lateral e dê o arranque: nos modelos com interruptor do descanso, a mota não arranca com ele em baixo. Espere que o motor estabilize. O passo a passo completo está no guia sobre [como ligar uma scooter](/tipos-de-motas/como-ligar-uma-scooter/)."
             },
             {
               "title": "Painel com o motor a trabalhar",
@@ -296,13 +296,18 @@
   },
   "status": "PUBLISHED",
   "date_published": "2026-10-13",
-  "date_modified": "2026-10-13",
+  "date_modified": "2026-10-14",
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1775,
+    "words": 1788,
     "publish_mode": "review",
-    "approved_at": "2026-10-13",
-    "revisions": []
+    "approved_at": "2026-10-14",
+    "revisions": [
+      {
+        "date": "2026-10-14",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

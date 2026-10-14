@@ -185,7 +185,7 @@
             }
           ]
         },
-        "Com a manhã feita, o resto do dia fica livre para outros itinerários, como o de [Hanói de mota num dia](/rotas-e-mobilidade/hanoi-de-mota-num-dia/). A página das [rotas e mobilidade](/rotas-e-mobilidade/) reúne os restantes. Para quem ainda não conduziu em Hanói, os [primeiros dias a conduzir](/guia-de-aluguer/primeiros-dias-a-conduzir/) dizem o que treinar antes."
+        "Com a manhã feita, o resto do dia serve para o [roteiro de artesanato](/rotas-e-mobilidade/roteiro-do-artesanato/) ou para [Hanói de mota num dia](/rotas-e-mobilidade/hanoi-de-mota-num-dia/). A página das [rotas e mobilidade](/rotas-e-mobilidade/) reúne os restantes. Para quem ainda não conduziu em Hanói, os [primeiros dias a conduzir](/guia-de-aluguer/primeiros-dias-a-conduzir/) dizem o que treinar antes."
       ]
     }
   ],
@@ -365,6 +365,11 @@
     "words": 1999,
     "publish_mode": "review",
     "approved_at": "2026-10-14",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-14",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

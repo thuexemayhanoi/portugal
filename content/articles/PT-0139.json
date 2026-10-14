@@ -117,7 +117,7 @@
           }
         },
         "Dois pontos merecem atenção. A licença internacional não passa de uma pessoa para outra: só vale acompanhada da carta nacional do seu titular, por isso a de quem aluga não cobre quem conduz. E a categoria conta: desde 2025, a categoria A1 abrange motociclos até 125 cm³ e, acima disso, é precisa a categoria A. Se quem vai conduzir só tem A1, não deve receber uma Air Blade de 160 cm³, por exemplo.",
-        "Os pormenores estão nos guias da [Licença Internacional de Condução](/guia-de-aluguer/licenca-internacional-de-conducao/) e dos [documentos da mota alugada](/guia-de-aluguer/documentos-da-mota-alugada/). Não é um requisito teórico: a polícia vietnamita fiscaliza estrangeiros que conduzem motas sem licença internacional válida.",
+        "Os pormenores estão nos guias da [Licença Internacional de Condução](/guia-de-aluguer/licenca-internacional-de-conducao/) e dos [documentos da mota alugada](/guia-de-aluguer/documentos-da-mota-alugada/). Não é um requisito teórico: a polícia vietnamita fiscaliza estrangeiros que conduzem motas sem licença internacional válida. Se quem conduz perder a carta ou a licença durante a viagem, os passos a seguir estão no guia sobre [perder a carta de condução ou a licença internacional no Vietname](/guia-de-aluguer/perdeu-a-carta-de-conducao/).",
         {
           "note": "Se a pessoa para quem quer alugar não tem carta de motociclos, ou a carta não abrange a categoria da mota, pôr o aluguer em nome de outra pessoa não muda nada: continua sem poder conduzir. Muitas apólices de viagem excluem, além disso, acidentes ocorridos sem habilitação válida.",
           "tone": "warn",
@@ -256,13 +256,18 @@
   },
   "status": "PUBLISHED",
   "date_published": "2026-10-13",
-  "date_modified": "2026-10-13",
+  "date_modified": "2026-10-14",
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 2010,
+    "words": 2041,
     "publish_mode": "review",
-    "approved_at": "2026-10-13",
-    "revisions": []
+    "approved_at": "2026-10-14",
+    "revisions": [
+      {
+        "date": "2026-10-14",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

@@ -126,7 +126,7 @@
     {
       "h2": "E a mota alugada enquanto está fora",
       "body": [
-        "Se vai a Ha Long sem a mota, tem de decidir o que lhe acontece nesses dias: mantê-la à espera ou devolvê-la e alugar de novo no regresso. O guia sobre a [viagem a meio da estadia](/precos/sair-de-hanoi-a-meio-do-aluguer/) compara as duas opções e lista o que perguntar à loja antes de partir.",
+        "Se vai a Ha Long sem a mota, tem de decidir o que lhe acontece nesses dias: mantê-la à espera ou devolvê-la e alugar de novo no regresso. O guia sobre a [viagem a meio da estadia](/precos/sair-de-hanoi-a-meio-do-aluguer/) compara as duas opções e lista o que perguntar à loja antes de partir. O mesmo raciocínio serve para outras escapadas sem mota, como a ida a Sa Pa descrita no guia do [comboio de Hanói a Lào Cai](/rotas-e-mobilidade/comboio-para-lao-cai/).",
         "Tenha também em conta o horário. A loja está aberta {{hours}}, por isso uma partida de manhã muito cedo ou um regresso a Hanói à noite podem obrigar a combinar a devolução e o levantamento noutra hora. Para acertar datas e condições, use a página de [contactos](/contactos/); os preços de referência por dia, por semana e por mês estão na página de [preços](/precos/)."
       ]
     }
@@ -215,15 +215,20 @@
   },
   "status": "PUBLISHED",
   "date_published": "2026-10-13",
-  "date_modified": "2026-10-13",
+  "date_modified": "2026-10-14",
   "editorial": {
     "qa_score": 98,
     "qa_warnings": [
       "source code X: Entidade ou operador oficial (metro, autocarros, ferrovia, aeroporto, preços oficiais de combustível, bancos)."
     ],
-    "words": 1663,
+    "words": 1688,
     "publish_mode": "review",
-    "approved_at": "2026-10-13",
-    "revisions": []
+    "approved_at": "2026-10-14",
+    "revisions": [
+      {
+        "date": "2026-10-14",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

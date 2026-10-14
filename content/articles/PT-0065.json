@@ -77,7 +77,7 @@
         "Durante a primeira fase, não deve ser o fator decisivo. A restrição das noites de fim de semana não distingue motores e, fora dela, ambos circulam. A escolha deve partir do uso que vai dar à mota, como explica a página de [tipos de motas](/tipos-de-motas/).",
         {
           "ul": [
-            "**Mota elétrica**: silenciosa e sem idas à bomba de gasolina, mas obriga a planear o carregamento. O preço de aluguer é sob consulta e depende do modelo; antes de reservar, pergunte à loja a autonomia real da unidade, a tarifa e onde a pode carregar. O guia sobre [alugar uma mota elétrica em Hanói](/tipos-de-motas/aluguer-de-mota-eletrica-em-hanoi/) explica com mais pormenor a autonomia e a carga.",
+            "**Mota elétrica**: silenciosa e sem idas à bomba de gasolina, mas obriga a planear o carregamento. O preço de aluguer é sob consulta e depende do modelo; antes de reservar, pergunte à loja a autonomia real da unidade, a tarifa e onde a pode carregar. O guia sobre [alugar uma mota elétrica em Hanói](/tipos-de-motas/aluguer-de-mota-eletrica-em-hanoi/) explica com mais pormenor a autonomia e a carga. Como não faz barulho, convém ainda saber [ser ouvido pelos peões numa mota elétrica](/tipos-de-motas/seguranca-numa-mota-silenciosa/), sobretudo nas ruas cheias do centro.",
             "**Scooter automática a gasolina**: abastece em qualquer bomba e não obriga a fazer contas à bateria, o que simplifica dias com muitas travessias da cidade. Compare os modelos na página de [scooters automáticas](/tipos-de-motas/scooters/)."
           ]
         },
@@ -296,13 +296,13 @@
   },
   "status": "PUBLISHED",
   "date_published": "2026-10-13",
-  "date_modified": "2026-10-13",
+  "date_modified": "2026-10-14",
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 2399,
+    "words": 2417,
     "publish_mode": "review",
-    "approved_at": "2026-10-13",
+    "approved_at": "2026-10-14",
     "revisions": [
       {
         "date": "2026-10-13",
@@ -310,6 +310,10 @@
       },
       {
         "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      },
+      {
+        "date": "2026-10-14",
         "reason": "Ligações internas para artigos publicados depois"
       }
     ]

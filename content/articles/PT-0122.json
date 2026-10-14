@@ -66,7 +66,7 @@
         {
           "h3": "Quando vai como passageiro"
         },
-        "Como passageiro, não controla a velocidade, as ultrapassagens nem a distância aos outros veículos. Em troca, não navega nem decide onde parar. Em março de 2026, uma turista britânica de 19 anos morreu num acidente na estrada QL4C, na região do circuito de Hà Giang, quando seguia como passageira na mota de um condutor local, que foi acusado. Um caso isolado não diz nada sobre a segurança de ir como passageiro em geral.",
+        "Como passageiro, não controla a velocidade, as ultrapassagens nem a distância aos outros veículos. Em março de 2026, uma turista britânica de 19 anos morreu num acidente na estrada QL4C, na região do circuito de Hà Giang, quando seguia como passageira na mota de um condutor local, que foi acusado. Um caso isolado não diz nada sobre a segurança de ir como passageiro em geral.",
         "Na sequência, em abril de 2026, o departamento de cultura, desporto e turismo de Tuyên Quang, a província que passou a incluir Hà Giang, passou a exigir às empresas de tours e de aluguer de motas que cumpram as regras de segurança. Os operadores sem licença ficaram proibidos de organizar ou promover tours. Para o viajante, a consequência prática é uma pergunta: o operador tem licença?",
         {
           "h3": "Quando conduz"
@@ -205,7 +205,7 @@
             ]
           }
         },
-        "Se optar pela mota, pergunte à loja, pelos [contactos](/contactos/), que modelo cabe na sua categoria e o que acontece se sair de Hanói. Para um dia só de cidade, veja [Hanói de mota num dia](/rotas-e-mobilidade/hanoi-de-mota-num-dia/)."
+        "Se optar pela mota, pergunte à loja, pelos [contactos](/contactos/), que modelo cabe na sua categoria e o que acontece se sair de Hanói. Para outra cidade, veja [Hanói ou Ho Chi Minh](/precos/hanoi-ou-outras-cidades/). Para um dia só de cidade, veja [Hanói de mota num dia](/rotas-e-mobilidade/hanoi-de-mota-num-dia/)."
       ]
     }
   ],
@@ -331,16 +331,20 @@
   },
   "status": "PUBLISHED",
   "date_published": "2026-10-13",
-  "date_modified": "2026-10-13",
+  "date_modified": "2026-10-14",
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 2198,
+    "words": 2199,
     "publish_mode": "review",
-    "approved_at": "2026-10-13",
+    "approved_at": "2026-10-14",
     "revisions": [
       {
         "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      },
+      {
+        "date": "2026-10-14",
         "reason": "Ligações internas para artigos publicados depois"
       }
     ]

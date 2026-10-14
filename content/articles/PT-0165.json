@@ -79,7 +79,7 @@
             "leva uma máscara de reserva, para trocar se a que usa ficar húmida ou suja."
           ]
         },
-        "A máscara nunca pode pôr em causa o capacete, que continua a ser a proteção que mais conta numa queda: segundo a OMS, o traumatismo craniano é a principal causa de morte dos motociclistas. O guia dos [capacetes no aluguer](/precos/capacetes-no-aluguer/) mostra como confirmar o ajuste e lembra que, sem viseira, uns óculos protegem os olhos do pó.",
+        "A máscara nunca pode pôr em causa o capacete, que continua a ser a proteção que mais conta numa queda: segundo a OMS, o traumatismo craniano é a principal causa de morte dos motociclistas. O guia dos [capacetes no aluguer](/precos/capacetes-no-aluguer/) mostra como confirmar o ajuste e lembra que, sem viseira, uns óculos protegem os olhos do pó. Se houver uma queda, os passos a seguir estão no guia sobre [levantar uma mota caída e o que verificar antes de arrancar](/guia-de-aluguer/a-mota-caiu/).",
         "Pode trazer as máscaras de casa ou comprá-las em Hanói. Em vietnamita, máscara diz-se «khẩu trang»; mostre ao vendedor a indicação PM2.5 escrita no telemóvel. Siga as instruções do fabricante sobre o tempo de uso de cada máscara. Os outros acessórios que dão jeito na mota estão no guia de [acessórios para a mota alugada](/precos/capa-de-chuva-e-acessorios/)."
       ]
     },
@@ -209,15 +209,20 @@
   },
   "status": "PUBLISHED",
   "date_published": "2026-10-13",
-  "date_modified": "2026-10-13",
+  "date_modified": "2026-10-14",
   "editorial": {
     "qa_score": 98,
     "qa_warnings": [
       "source code W: Dados meteorológicos oficiais (Centro Nacional de Previsão Hidrometeorológica) ou climatologia reconhecida."
     ],
-    "words": 1588,
+    "words": 1611,
     "publish_mode": "review",
-    "approved_at": "2026-10-13",
-    "revisions": []
+    "approved_at": "2026-10-14",
+    "revisions": [
+      {
+        "date": "2026-10-14",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

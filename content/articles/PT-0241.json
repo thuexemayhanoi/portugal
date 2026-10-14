@@ -137,7 +137,7 @@
             "Regressar com margem antes das {{closes}}."
           ]
         },
-        "Se estiver alojado do outro lado do rio e preferir não começar o dia a atravessar a cidade, o guia sobre a [entrega da mota no hotel](/precos/entrega-da-mota-no-hotel/) explica o que perguntar. Outros guias por bairro estão reunidos em [Zonas de Hanói](/zonas-de-hanoi/)."
+        "Se estiver alojado do outro lado do rio e preferir não começar o dia a atravessar a cidade, o guia sobre a [entrega da mota no hotel](/precos/entrega-da-mota-no-hotel/) explica o que perguntar. Para escolher onde dormir, veja [ficar alojado em Long Biên](/zonas-de-hanoi/ficar-alojado-em-long-bien/). Mais guias em [Zonas de Hanói](/zonas-de-hanoi/)."
       ]
     }
   ],
@@ -226,9 +226,14 @@
     "qa_warnings": [
       "source code X: Entidade ou operador oficial (metro, autocarros, ferrovia, aeroporto, preços oficiais de combustível, bancos)."
     ],
-    "words": 1992,
+    "words": 1998,
     "publish_mode": "review",
     "approved_at": "2026-10-14",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-14",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

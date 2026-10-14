@@ -120,7 +120,7 @@
       "body": [
         "Não encontrámos nenhuma tabela oficial de preços de estacionamento para a zona do lago. A regra prática é perguntar o preço antes de deixar a mota, escolher um parque com funcionário (em vietnamita, «gửi xe» ou «trông giữ xe») e guardar o talão.",
         "Os valores de referência dos guias são poucos e divergem: no templo Phủ Tây Hồ, 5 a 10 mil VND por vez, ou 5 mil VND num parque junto à porta; no pagode Trấn Quốc, estacionamento gratuito, segundo uma só fonte. Se o preço pedido for muito diferente, procure outro parque em vez de discutir.",
-        "Pare por locais e não por fotografias: uma paragem na berma, mesmo curta, atrapalha quem vem atrás e é onde mais se arrisca. As regras gerais para escolher parques e evitar passeios estão na secção sobre estacionar do [itinerário de Hanói de mota num dia](/rotas-e-mobilidade/hanoi-de-mota-num-dia/)."
+        "Pare por locais e não por fotografias: uma paragem na berma, mesmo curta, atrapalha quem vem atrás e é onde mais se arrisca. As regras gerais para escolher parques e evitar passeios estão na secção sobre estacionar do [itinerário de Hanói de mota num dia](/rotas-e-mobilidade/hanoi-de-mota-num-dia/). Para quem fica semanas na zona, o guia sobre [Tây Hồ para quem vive em Hanói](/zonas-de-hanoi/tay-ho-para-quem-vive-em-hanoi/) trata do estacionamento e das ruas no dia a dia."
       ]
     },
     {
@@ -293,13 +293,18 @@
   },
   "status": "PUBLISHED",
   "date_published": "2026-10-13",
-  "date_modified": "2026-10-13",
+  "date_modified": "2026-10-14",
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 2188,
+    "words": 2214,
     "publish_mode": "review",
-    "approved_at": "2026-10-13",
-    "revisions": []
+    "approved_at": "2026-10-14",
+    "revisions": [
+      {
+        "date": "2026-10-14",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

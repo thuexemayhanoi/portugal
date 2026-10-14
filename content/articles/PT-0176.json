@@ -176,7 +176,7 @@
             "**Olhar para trás antes de manobrar.** O Highway Code britânico pede ao motociclista que saiba o que está atrás e dos lados antes de mudar de direção, olhando para trás e usando os espelhos, e que se posicione onde os outros condutores o vejam nos espelhos (regra 88).",
             "**Contar que os outros não o viram.** A regra 86 do mesmo guia aconselha a contar que outros condutores podem não o ter visto ou ter calculado mal a sua distância ou velocidade, sobretudo nos cruzamentos. Um capacete claro ou de cor viva e roupa fluorescente ajudam a ser visto.",
             "**Ser previsível.** Sinalize cedo, mantenha a linha e evite mudanças bruscas de direção ou de velocidade: quem vem atrás e ao lado tem de poder antecipar o que vai fazer.",
-            "**Dedos nas manetes dos travões** nas ruas mais movimentadas, para reagir mais depressa.",
+            "**Dedos nas manetes dos travões** nas ruas mais movimentadas, para reagir mais depressa. Para animais, buracos e obras que surjam de repente, veja o guia sobre [imprevistos na estrada de mota](/guia-de-aluguer/imprevistos-na-estrada/).",
             "**Não imitar o que vê.** Passar o vermelho e subir ao passeio são erros que vai ver outros condutores cometer, e têm coima de 4 a 6 milhões de VND (Decreto 168/2024); a contramão também é sancionada. O guia [como evitar multas de trânsito](/guia-de-aluguer/como-evitar-multas/) dá a lista completa.",
             "**Buzina com moderação.** A buzina avisa, não abre caminho. O guia sobre [a buzina no Vietname](/guia-de-aluguer/a-buzina-no-vietname/) explica quando é permitida.",
             "**Pausas.** Em saídas longas, pare a descansar: o guia oficial britânico recomenda pelo menos 15 minutos por cada duas horas de condução e desaconselha viagens longas entre a meia-noite e as 06:00, quando o estado de alerta natural é mínimo (regra 91)."
@@ -327,13 +327,18 @@
   },
   "status": "PUBLISHED",
   "date_published": "2026-10-13",
-  "date_modified": "2026-10-13",
+  "date_modified": "2026-10-14",
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 2593,
+    "words": 2611,
     "publish_mode": "review",
-    "approved_at": "2026-10-13",
-    "revisions": []
+    "approved_at": "2026-10-14",
+    "revisions": [
+      {
+        "date": "2026-10-14",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

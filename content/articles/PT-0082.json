@@ -21,7 +21,7 @@
     {
       "h2": "Porque é que a pergunta pesa mais num aluguer de meses",
       "body": [
-        "Num aluguer de fim de semana, o desgaste quase não conta: a mota volta praticamente como saiu. Num aluguer de meses, a situação muda por três razões:",
+        "Num aluguer de fim de semana, ou de umas horas durante uma [escala em Hanói](/precos/escala-em-hanoi-e-aluguer-de-mota/), o desgaste quase não conta: a mota volta praticamente como saiu. Num aluguer de meses, a situação muda por três razões:",
         {
           "ul": [
             "**Os quilómetros acumulam-se.** Deslocações diárias somam distância depressa, e a mota envelhece ao ritmo do uso, não do calendário.",
@@ -212,16 +212,20 @@
   },
   "status": "PUBLISHED",
   "date_published": "2026-10-13",
-  "date_modified": "2026-10-13",
+  "date_modified": "2026-10-14",
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 2019,
+    "words": 2028,
     "publish_mode": "review",
-    "approved_at": "2026-10-13",
+    "approved_at": "2026-10-14",
     "revisions": [
       {
         "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      },
+      {
+        "date": "2026-10-14",
         "reason": "Ligações internas para artigos publicados depois"
       }
     ]

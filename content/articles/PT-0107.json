@@ -134,7 +134,7 @@
     {
       "h2": "O que perguntar à loja antes de partir",
       "body": [
-        "A tabela de preços do aluguer cobre a mota; as despesas de estrada, como uma eventual portagem ou o estacionamento, são pagas a terceiros. Antes de uma saída fora de Hanói, vale a pena fazer três perguntas à loja pelos [contactos](/contactos/):",
+        "A tabela de preços do aluguer cobre a mota; as despesas de estrada, como uma eventual portagem ou o [estacionamento](/precos/estacionamento-em-hanoi-preco/), são pagas a terceiros. Antes de uma saída fora de Hanói, vale a pena fazer três perguntas à loja pelos [contactos](/contactos/):",
         {
           "checklist": [
             "O trajeto que tenho em mente segue estradas permitidas às motas, ou há troços de autoestrada que devo evitar?",
@@ -224,6 +224,11 @@
     "words": 1669,
     "publish_mode": "review",
     "approved_at": "2026-10-14",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-14",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

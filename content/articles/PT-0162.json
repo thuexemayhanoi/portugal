@@ -143,7 +143,7 @@
             "Duplicar o intervalo com chuva e ficar na faixa própria das motas, onde ela existir."
           ]
         },
-        "Na [entrega da mota](/guia-de-aluguer/receber-a-mota/), teste travões e espelhos. Mais regras de base estão no [guia de aluguer](/guia-de-aluguer/) e, nos erros que mais custam multas, em [como evitar multas em Hanói](/guia-de-aluguer/como-evitar-multas/)."
+        "Na [entrega da mota](/guia-de-aluguer/receber-a-mota/), teste travões e espelhos; se durante o percurso o travão ficar mole, o guia dos [sinais de avaria na mota em andamento](/guia-de-aluguer/sinais-de-avaria-em-andamento/) diz quando parar. Mais regras de base estão no [guia de aluguer](/guia-de-aluguer/) e, nos erros que mais custam multas, em [como evitar multas em Hanói](/guia-de-aluguer/como-evitar-multas/)."
       ]
     }
   ],
@@ -271,13 +271,18 @@
   },
   "status": "PUBLISHED",
   "date_published": "2026-10-13",
-  "date_modified": "2026-10-13",
+  "date_modified": "2026-10-14",
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1952,
+    "words": 1973,
     "publish_mode": "review",
-    "approved_at": "2026-10-13",
-    "revisions": []
+    "approved_at": "2026-10-14",
+    "revisions": [
+      {
+        "date": "2026-10-14",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

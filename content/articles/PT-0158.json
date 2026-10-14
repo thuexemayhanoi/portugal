@@ -224,6 +224,7 @@
             "**Jantar fora ou uma noite longa**: [álcool e condução no Vietname](/guia-de-aluguer/alcool-zero-ao-volante/).",
             "**Mandado parar pela polícia**: [o que mostrar e como agir num controlo](/guia-de-aluguer/controlo-da-policia/).",
             "**Dúvidas sobre a carta**: o guia das [categorias A1 e A](/guia-de-aluguer/categorias-a1-e-a/) e o da [Licença Internacional de Condução](/guia-de-aluguer/licenca-internacional-de-conducao/).",
+            "**Os riscos reais do trânsito**: o guia sobre [se é seguro andar de mota em Hanói](/guia-de-aluguer/e-seguro-andar-de-mota-em-hanoi/) mostra o que mais pesa e como reduzi-lo.",
             "**Chuva forte, cansaço ou um trânsito que ainda não domina**: [quando é melhor não conduzir em Hanói](/rotas-e-mobilidade/quando-nao-conduzir/)."
           ]
         }
@@ -454,13 +455,18 @@
   },
   "status": "PUBLISHED",
   "date_published": "2026-10-13",
-  "date_modified": "2026-10-13",
+  "date_modified": "2026-10-14",
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 2222,
+    "words": 2246,
     "publish_mode": "review",
-    "approved_at": "2026-10-13",
-    "revisions": []
+    "approved_at": "2026-10-14",
+    "revisions": [
+      {
+        "date": "2026-10-14",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

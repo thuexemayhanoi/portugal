@@ -150,8 +150,8 @@
             "**Quem quer conhecer os arredores.** Uma saída de Hanói combina-se primeiro com a loja: veja como pedir [autorização para sair da cidade](/guia-de-aluguer/autorizacao-para-sair-de-hanoi/). Em estrada, o manual da Wave 110 manda verificar a corrente a cada 500 km."
           ]
         },
-        "Não compensa se nunca usou mudanças: o trânsito de Hanói não é sítio para aprender, e o guia para [quem nunca conduziu uma mota](/tipos-de-motas/nunca-conduziu-uma-mota/) explica porquê. Também não é a escolha certa se precisa de um compartimento fechado para o capacete e a capa de chuva: não conte com a arrumação de uma scooter e confirme o que a unidade tem.",
-        "Se prefere uma mota sem mudanças, compare com a [Honda Click](/tipos-de-motas/honda-click-em-hanoi/), que custa {{cmp.click.wave.day}} a Wave ao dia."
+        "Não compensa se nunca usou mudanças: o trânsito de Hanói não é sítio para aprender, e o guia para [quem nunca conduziu uma mota](/tipos-de-motas/nunca-conduziu-uma-mota/) explica porquê. Também não é a escolha certa se precisa de um compartimento fechado para o capacete e a capa de chuva: não conte com a arrumação de uma scooter e confirme o que a unidade tem. O que se leva de outra forma está no guia da [bagagem numa semiautomática](/tipos-de-motas/bagagem-numa-semiautomatica/).",
+        "Se prefere uma mota sem mudanças, compare com a [Honda Click](/tipos-de-motas/honda-click-em-hanoi/), que custa {{cmp.click.wave.day}} a Wave ao dia. Se quer manter as mudanças, a outra semiautomática da loja é descrita no guia da [Yamaha Sirius em Hanói](/tipos-de-motas/yamaha-sirius-em-hanoi/)."
       ]
     },
     {
@@ -281,13 +281,18 @@
   },
   "status": "PUBLISHED",
   "date_published": "2026-10-13",
-  "date_modified": "2026-10-13",
+  "date_modified": "2026-10-14",
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1967,
+    "words": 2000,
     "publish_mode": "review",
-    "approved_at": "2026-10-13",
-    "revisions": []
+    "approved_at": "2026-10-14",
+    "revisions": [
+      {
+        "date": "2026-10-14",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

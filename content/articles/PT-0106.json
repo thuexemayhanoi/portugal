@@ -98,7 +98,7 @@
             ]
           }
         },
-        "Para comparar, o aluguer de um dia custa, na tabela da loja, entre {{price.min.day}} e {{price.max.day}}, conforme o modelo. O estacionamento é uma parcela pequena, mas repete-se; o guia do [orçamento diário da mota](/precos/quanto-dinheiro-levar/) junta-o à gasolina e ao aluguer, e a lista dos [custos extra](/precos/custos-alem-do-preco/) mostra o que mais pode aparecer."
+        "Para comparar, o aluguer de um dia custa, na tabela da loja, entre {{price.min.day}} e {{price.max.day}}, conforme o modelo. O estacionamento é uma parcela pequena, mas repete-se; o guia do [orçamento diário da mota](/precos/quanto-dinheiro-levar/) junta-o à gasolina e ao aluguer, e a lista dos [custos extra](/precos/custos-alem-do-preco/) mostra o que mais pode aparecer. Quanto às estradas com portagem, o guia sobre [portagens e motas no Vietname](/precos/portagens-e-motas/) explica o que se paga e o que não."
       ]
     },
     {
@@ -292,9 +292,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 2152,
+    "words": 2174,
     "publish_mode": "review",
     "approved_at": "2026-10-14",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-14",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

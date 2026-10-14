@@ -51,7 +51,7 @@
         {
           "h3": "Quer a mota logo à chegada"
         },
-        "Se pensa levantar a mota no dia em que aterra, a margem é curta: o voo pode atrasar e a loja está aberta {{hours}}. Combinar antes a hora, e o que acontece se chegar mais tarde, evita uma viagem em vão até {{area}}.",
+        "Se pensa levantar a mota no dia em que aterra, a margem é curta: o voo pode atrasar e a loja está aberta {{hours}}. Combinar antes a hora, e o que acontece se chegar mais tarde, evita uma viagem em vão até {{area}}. Se a chegada for só uma escala, o guia sobre [alugar uma mota numa escala em Hanói](/precos/escala-em-hanoi-e-aluguer-de-mota/) explica quando compensa.",
         {
           "h3": "Viaja num feriado prolongado"
         },
@@ -225,13 +225,18 @@
   },
   "status": "PUBLISHED",
   "date_published": "2026-10-13",
-  "date_modified": "2026-10-13",
+  "date_modified": "2026-10-14",
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1786,
+    "words": 1806,
     "publish_mode": "review",
-    "approved_at": "2026-10-13",
-    "revisions": []
+    "approved_at": "2026-10-14",
+    "revisions": [
+      {
+        "date": "2026-10-14",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

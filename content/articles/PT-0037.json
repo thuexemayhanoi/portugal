@@ -110,7 +110,7 @@
     {
       "h2": "Como observar a corrente sem lhe mexer",
       "body": [
-        "Observar não é ajustar. Bastam alguns minutos, a mota parada e estável com o motor desligado, e o telemóvel.",
+        "Observar não é ajustar. Bastam alguns minutos, a mota parada com o motor desligado, e o telemóvel.",
         {
           "steps": [
             {
@@ -235,7 +235,7 @@
             "Como ficam combinados os custos de uma afinação, de uma lubrificação ou de uma peça a meio do aluguer? Pode confirmar por escrito?"
           ]
         },
-        "Junte estas perguntas às [perguntas a fazer antes de alugar](/guia-de-aluguer/perguntas-antes-de-alugar/) e guarde as respostas com as fotografias da entrega. Para um aluguer de várias semanas, o guia do [aluguer de longa duração](/precos/aluguer-de-longa-duracao/) reúne os restantes pontos. Para falar com a loja, use os [contactos](/contactos/) ou o {{phone}}."
+        "Junte estas perguntas às [perguntas a fazer antes de alugar](/guia-de-aluguer/perguntas-antes-de-alugar/) e guarde as respostas com as fotografias da entrega. [Teste as mudanças antes de sair da loja](/tipos-de-motas/testar-mudancas-da-semiautomatica/). Para um aluguer de várias semanas, o guia do [aluguer de longa duração](/precos/aluguer-de-longa-duracao/) reúne os restantes pontos. Para falar com a loja, use os [contactos](/contactos/) ou o {{phone}}."
       ]
     }
   ],
@@ -282,16 +282,20 @@
   },
   "status": "PUBLISHED",
   "date_published": "2026-10-13",
-  "date_modified": "2026-10-13",
+  "date_modified": "2026-10-14",
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1992,
+    "words": 1998,
     "publish_mode": "review",
-    "approved_at": "2026-10-13",
+    "approved_at": "2026-10-14",
     "revisions": [
       {
         "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      },
+      {
+        "date": "2026-10-14",
         "reason": "Ligações internas para artigos publicados depois"
       }
     ]

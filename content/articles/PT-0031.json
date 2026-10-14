@@ -15,7 +15,7 @@
   ],
   "intro": [
     "Quando se solta o acelerador com uma mudança engrenada, o motor continua ligado à roda de trás e resiste ao movimento: a mota abranda sem que toque nos travões. É a travagem com o motor, ou travão-motor, e numa descida longa faz uma diferença que se sente na mão e no pé.",
-    "Este guia trata só desse recurso: quando ajuda, quando não ajuda e que cuidados pede. Não ensina o arranque nem o padrão do pedal de mudanças; parte do princípio de que já sabe engrenar a mota que lhe entregaram. Se ainda não, treine primeiro num sítio sem trânsito, como sugere o [plano de 30 minutos para treinar antes do trânsito](/guia-de-aluguer/treinar-antes-do-transito/).",
+    "Este guia trata só desse recurso: quando ajuda, quando não ajuda e que cuidados pede. Não ensina o arranque nem [o padrão de mudanças e o ponto morto](/tipos-de-motas/ponto-morto-e-mudancas/), que têm guia próprio; parte do princípio de que já sabe engrenar a mota que lhe entregaram. Se ainda não, treine primeiro num sítio sem trânsito, como sugere o [plano de 30 minutos para treinar antes do trânsito](/guia-de-aluguer/treinar-antes-do-transito/).",
     "Uma nota de honestidade: as fontes que encontrámos descrevem o travão-motor em motas de embraiagem manual e em carros. Nenhuma descreve o que faz uma Honda Wave ou uma Yamaha Sirius em descida. O que se segue é, por isso, o princípio geral, com avisos, e não um manual da sua mota."
   ],
   "sections": [
@@ -247,9 +247,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1990,
+    "words": 1996,
     "publish_mode": "review",
     "approved_at": "2026-10-14",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-14",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

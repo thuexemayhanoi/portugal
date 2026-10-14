@@ -40,7 +40,7 @@
             "**Museu de Etnologia (Cầu Giấy).** Fica do outro lado da cidade em relação a Long Biên. Num dia de chuva forte, faz-se melhor de carro do que de mota."
           ]
         },
-        "Se ficar no centro, o guia para [conduzir no Bairro Antigo](/zonas-de-hanoi/conduzir-no-bairro-antigo/) explica o que muda com os sentidos únicos e as ruas pedonais."
+        "Se ficar no centro, o guia para [conduzir no Bairro Antigo](/zonas-de-hanoi/conduzir-no-bairro-antigo/) explica o que muda com os sentidos únicos e as ruas pedonais. Com crianças, veja o [roteiro de Hanói com crianças](/rotas-e-mobilidade/hanoi-com-criancas/), sem mota."
       ]
     },
     {
@@ -403,15 +403,20 @@
   },
   "status": "PUBLISHED",
   "date_published": "2026-10-13",
-  "date_modified": "2026-10-13",
+  "date_modified": "2026-10-14",
   "editorial": {
     "qa_score": 98,
     "qa_warnings": [
       "source code W: Dados meteorológicos oficiais (Centro Nacional de Previsão Hidrometeorológica) ou climatologia reconhecida."
     ],
-    "words": 1987,
+    "words": 1998,
     "publish_mode": "review",
-    "approved_at": "2026-10-13",
-    "revisions": []
+    "approved_at": "2026-10-14",
+    "revisions": [
+      {
+        "date": "2026-10-14",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

@@ -151,7 +151,7 @@
             "**Compare com a Mio** se a Click não estiver livre nas suas datas."
           ]
         },
-        "Em caso de dúvida, pese o que vai fazer na maior parte dos dias, e não a exceção. Uma saída de fim de semana a dois não justifica, por si só, mudar de modelo para o mês inteiro. Se forem dois a viajar o mês todo, pondere antes se compensa [uma mota ou duas para um casal](/precos/uma-mota-ou-duas-para-um-casal/). E, seja qual for o modelo, haverá dias em que o melhor é deixar a mota parada; o guia sobre [as situações em que é melhor não conduzir](/rotas-e-mobilidade/quando-nao-conduzir/) ajuda a reconhecê-los."
+        "Em caso de dúvida, pese o que vai fazer na maior parte dos dias, e não a exceção. Uma saída de fim de semana a dois não justifica, por si só, mudar de modelo para o mês inteiro. Se forem dois a viajar o mês todo, pondere antes se compensa [uma mota ou duas para um casal](/precos/uma-mota-ou-duas-para-um-casal/). E, seja qual for o modelo, haverá dias em que o melhor é deixar a mota parada; o guia sobre [as situações em que é melhor não conduzir](/rotas-e-mobilidade/quando-nao-conduzir/) ajuda a reconhecê-los. E se o mês ainda pode ser noutra cidade, o guia sobre [alugar mota em Hanói ou em Ho Chi Minh](/precos/hanoi-ou-outras-cidades/) resume o que muda de uma para a outra."
       ]
     },
     {
@@ -272,16 +272,20 @@
   },
   "status": "PUBLISHED",
   "date_published": "2026-10-13",
-  "date_modified": "2026-10-13",
+  "date_modified": "2026-10-14",
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1807,
+    "words": 1837,
     "publish_mode": "review",
-    "approved_at": "2026-10-13",
+    "approved_at": "2026-10-14",
     "revisions": [
       {
         "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      },
+      {
+        "date": "2026-10-14",
         "reason": "Ligações internas para artigos publicados depois"
       }
     ]

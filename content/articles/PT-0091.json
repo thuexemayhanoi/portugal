@@ -65,7 +65,7 @@
             "Que comissões e que taxa de câmbio se aplicam a esse pagamento, e como as vejo antes de confirmar?"
           ]
         },
-        "Mesmo que o banco responda que sim, confirme com a loja se aceita pagamento por QR. Uma rede existir não quer dizer que cada comerciante a aceite, e a aceitação de uma loja de aluguer só se sabe perguntando-lhe."
+        "Mesmo que o banco responda que sim, confirme com a loja se aceita pagamento por QR. Uma rede existir não quer dizer que cada comerciante a aceite, e a aceitação de uma loja de aluguer só se sabe perguntando-lhe. Quanto ao cartão, o guia sobre [cartões estrangeiros no Vietname](/precos/cartoes-estrangeiros-no-vietname/) explica onde funciona e o que preparar."
       ]
     },
     {
@@ -96,7 +96,7 @@
     {
       "h2": "Plano alternativo: dinheiro e uma resposta por escrito",
       "body": [
-        "Como as notícias não referem bancos portugueses e a transferência depende do que a loja aceitar, leve um plano alternativo: dinheiro em dong para o essencial. O guia da [caução em dinheiro](/precos/caucao-em-dinheiro/) explica como contar e registar uma entrega em notas, e a página de [preços](/precos/) mostra a tabela de referência, com data de verificação.",
+        "Como as notícias não referem bancos portugueses e a transferência depende do que a loja aceitar, leve um plano alternativo: dinheiro em dong para o essencial. As notas, o câmbio e onde trocar estão no guia sobre [pagar o aluguer em dong](/precos/pagar-em-dong-vietnamita/), e o guia da [caução em dinheiro](/precos/caucao-em-dinheiro/) explica como contar e registar uma entrega em notas, e a página de [preços](/precos/) mostra a tabela de referência, com data de verificação.",
         "Este site não diz que formas de pagamento a loja aceita, e a resposta pode variar com o modelo, com a duração e com a parcela em causa. Pergunte-o antes de viajar, pelo {{phone}}, {{hours}}, ou pela página de [contactos](/contactos/), e guarde a resposta escrita. As outras perguntas essenciais estão na lista das [perguntas a fazer antes de alugar](/guia-de-aluguer/perguntas-antes-de-alugar/)."
       ]
     },
@@ -176,15 +176,20 @@
   },
   "status": "PUBLISHED",
   "date_published": "2026-10-13",
-  "date_modified": "2026-10-13",
+  "date_modified": "2026-10-14",
   "editorial": {
     "qa_score": 98,
     "qa_warnings": [
       "source code X: Entidade ou operador oficial (metro, autocarros, ferrovia, aeroporto, preços oficiais de combustível, bancos)."
     ],
-    "words": 1334,
+    "words": 1368,
     "publish_mode": "review",
-    "approved_at": "2026-10-13",
-    "revisions": []
+    "approved_at": "2026-10-14",
+    "revisions": [
+      {
+        "date": "2026-10-14",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

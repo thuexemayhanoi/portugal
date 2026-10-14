@@ -127,7 +127,7 @@
     {
       "h2": "Os primeiros quilómetros do lado de Long Biên",
       "body": [
-        "Começar em Long Biên tem uma vantagem: a primeira saída não obriga a entrar logo nas ruas estreitas do Bairro Antigo. Se é a primeira vez que conduz em Hanói, ou a primeira vez numa [scooter automática](/tipos-de-motas/scooters/), comece por um percurso curto deste lado do rio, fora das horas de ponta.",
+        "Começar em Long Biên tem uma vantagem: a primeira saída não obriga a entrar logo nas ruas estreitas do Bairro Antigo. Se é a primeira vez que conduz em Hanói, ou a primeira vez numa [scooter automática](/tipos-de-motas/scooters/), comece por um percurso curto deste lado do rio, fora das horas de ponta. Se o destino for o bairro residencial do Vinhomes Riverside, veja o guia sobre o [Vinhomes Riverside de mota](/zonas-de-hanoi/vinhomes-riverside-de-mota/).",
         {
           "steps": [
             {
@@ -229,16 +229,20 @@
   },
   "status": "PUBLISHED",
   "date_published": "2026-10-13",
-  "date_modified": "2026-10-13",
+  "date_modified": "2026-10-14",
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1887,
+    "words": 1906,
     "publish_mode": "review",
-    "approved_at": "2026-10-13",
+    "approved_at": "2026-10-14",
     "revisions": [
       {
         "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      },
+      {
+        "date": "2026-10-14",
         "reason": "Ligações internas para artigos publicados depois"
       }
     ]

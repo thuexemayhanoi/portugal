@@ -124,7 +124,7 @@
           }
         },
         "Registe cada ponto com uma fotografia ou um vídeo curto e uma mensagem escrita à loja, por Zalo ou outra via que a loja use: assim, a descrição fica datada. O guia para [fotografar a mota](/guia-de-aluguer/fotografar-a-mota/) mostra como, e o de [receber a mota alugada](/guia-de-aluguer/receber-a-mota/) descreve o resto do levantamento. Se a unidade não servir, veja o que perguntar sobre [trocar de mota](/guia-de-aluguer/trocar-de-mota/).",
-        "Contacte a loja pela página de [Contactos](/contactos/) ou pelo {{phone}}. Não prometemos que a loja corrija ou troque a mota: o que se confirma por escrito é o que conta. A [semiautomática](/tipos-de-motas/semiautomaticas/) é uma boa escolha para quem já tem mudanças; os [tipos de motas](/tipos-de-motas/) mostram as alternativas."
+        "Contacte a loja pela página de [Contactos](/contactos/) ou pelo {{phone}}. Não prometemos que a loja corrija ou troque a mota: o que se confirma por escrito é o que conta. A [semiautomática](/tipos-de-motas/semiautomaticas/) é uma boa escolha para quem já tem mudanças, e quem vem de uma mota com manete encontra no guia sobre [o que muda de uma mota com embraiagem para uma semiautomática](/tipos-de-motas/vem-de-uma-mota-com-embraiagem/) os hábitos a desaprender; os [tipos de motas](/tipos-de-motas/) mostram as alternativas."
       ]
     }
   ],
@@ -223,9 +223,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1617,
+    "words": 1644,
     "publish_mode": "review",
     "approved_at": "2026-10-14",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-14",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }
