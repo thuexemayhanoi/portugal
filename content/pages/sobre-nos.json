@@ -111,7 +111,9 @@
       "h2": "Contactos oficiais e confirmação",
       "body": [
         {
-          "component": "contact-card",
+          "component": "contact-card"
+        },
+        {
           "note": "Encontre-nos em Long Biên ou contacte-nos por telefone, Zalo ou WhatsApp; para valores publicados consulte [Preços](/precos/)."
         }
       ]
