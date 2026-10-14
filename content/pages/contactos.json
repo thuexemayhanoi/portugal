@@ -8,8 +8,8 @@
   "h1": "Contactos",
   "primaryKeyword": "contactos aluguer de motas hanói",
   "eyebrow": "Fale connosco",
-  "lead": "Telefone ou Zalo, {{hours}}. Confirme a disponibilidade e as condições antes de se deslocar à loja.",
-  "updated": "2026-10-12",
+  "lead": "Telefone, Zalo ou WhatsApp, {{hours}}. Consulte os preços de referência e confirme o valor final, a disponibilidade e as condições antes de se deslocar.",
+  "updated": "2026-10-14",
   "cardNote": "Não há reservas nem pagamentos através deste site: tudo é confirmado diretamente com a loja.",
   "sections": [
     {
@@ -28,10 +28,17 @@
       ]
     },
     {
-      "h2": "Telefone e Zalo",
+      "h2": "Telefone, Zalo e WhatsApp",
       "body": [
-        "O número {{phone}} (em formato local, {{phone.local}}) serve para chamadas e para o Zalo, a aplicação de mensagens mais usada no Vietname. Se ligar de um número estrangeiro, marque o indicativo +84.",
-        "Por mensagem, pode enviar logo as datas e o modelo pretendido; assim fica com a resposta por escrito."
+        "O contacto oficial é **{{phone}}** (número local **{{phone.local}}**), para chamadas e mensagens por Zalo ou WhatsApp. Do estrangeiro, utilize o indicativo +84. Pode [ligar agora]({{tel}}), escrever no [Zalo]({{zalo}}) ou abrir o [WhatsApp](https://wa.me/84942467674).",
+        "Por mensagem, indique as datas e o modelo pretendido para poder receber uma resposta clara por escrito. Disponibilidade, caução e condições são confirmadas pela loja."
+      ]
+    },
+    {
+      "h2": "Preços de referência antes de contactar",
+      "body": [
+        "As referências diárias começam em {{price.wave.day}} para Honda Wave, Yamaha Sirius, Honda Click e Yamaha Mio; Honda Vision, Honda Air Blade e mota de 50 cc têm referência de {{price.vision.day}}/dia. Motas e bicicletas elétricas: **sob consulta**.",
+        "Os preços semanais e mensais são diferentes das diárias. Compare-os na [tabela de preços](/precos/); confirme o total, as datas, a caução e os serviços diretamente com a loja."
       ]
     },
     {
