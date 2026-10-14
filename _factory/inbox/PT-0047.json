@@ -11,18 +11,18 @@
     "Velocidade: a lei limita as 50 cc a 40 km/h; as elétricas dos exemplos VinFast anunciam velocidades máximas de 49 a 89 km/h, conforme o modelo.",
     "Categoria e idade: até 4 kW e 50 km/h, a elétrica fica no grupo das 50 cc, com idade mínima de 16 anos; acima disso é motociclo e exige carta A1 ou A.",
     "Autonomia: um dia curto na cidade cabe em qualquer das duas; a diferença está na reposição, uma paragem na bomba contra horas ligada à tomada.",
-    "Zona de baixas emissões: em 2026, a elétrica não abre mais ruas do centro do que uma 50 cc a gasolina; os horários e as novas fases estão no guia da zona.",
+    "Zona de baixas emissões: em 2026, a elétrica não dá acesso a mais ruas do centro do que uma 50 cc a gasolina; horários e novas fases estão no guia da zona.",
     "Ruído: sem medições verificadas; se a elétrica for mais discreta, abrande mais cedo junto de peões."
   ],
   "intro": [
-    "Entre uma 50 cc a gasolina e uma mota elétrica, a dúvida de quem vai circular só na cidade é quase sempre a mesma: qual é mais simples, qual custa menos e qual traz menos problemas com as regras. A tabela da loja põe-nas lado a lado, mas só a 50 cc tem tarifa diária publicada.",
-    "Este guia fica pelo que decide entre as duas: o preço de referência, a velocidade e a categoria legal, quem pode conduzir cada uma e se a autonomia chega para um dia. O carregamento, o custo da energia e o ruído, que contam em qualquer comparação com a gasolina, estão no guia [mota elétrica ou gasolina](/tipos-de-motas/mota-eletrica-ou-gasolina/). Na tabela da loja, a elétrica surge sem marca nem modelo, por isso os números de autonomia e de velocidade vêm de modelos VinFast à venda no Vietname e servem de exemplo, não de ficha da mota que vai receber. Verificámos tudo a 13 de outubro de 2026. O retrato completo das 50 cc está no [guia de motas de 50 cc](/tipos-de-motas/motas-50cc/); as outras categorias, em [tipos de motas](/tipos-de-motas/)."
+    "Entre uma 50 cc a gasolina e uma elétrica, a dúvida de quem vai circular só na cidade é quase sempre a mesma: qual é mais simples, qual custa menos e qual traz menos problemas com as regras. Na lista de preços da loja aparecem lado a lado, mas só a 50 cc tem tarifa diária publicada.",
+    "Este guia fica pelo que separa as duas na hora de escolher: o preço de referência, a velocidade e a categoria legal, quem as pode conduzir e se a autonomia chega para um dia. O carregamento, o custo da energia e o ruído, que contam em qualquer comparação com a gasolina, estão no guia sobre [mota elétrica ou gasolina](/tipos-de-motas/mota-eletrica-ou-gasolina/). Como a loja não identifica a elétrica na lista de preços, os números de autonomia e de velocidade vêm de modelos VinFast à venda no Vietname e servem de exemplo, não de ficha da mota que vai receber. Verificámos tudo a 13 de outubro de 2026. O retrato completo das 50 cc está no [guia de motas de 50 cc](/tipos-de-motas/motas-50cc/); as outras categorias, em [tipos de motas](/tipos-de-motas/)."
   ],
   "sections": [
     {
       "h2": "Preço de referência: peça orçamento para a elétrica",
       "body": [
-        "A tabela de preços da loja, verificada a {{pricing.verifiedAt}}, indica {{price.cc50.day}} por dia para a 50 cc. Para a elétrica não há tarifa publicada: o valor depende do modelo e do período, e a loja tem de o confirmar antes de reservar.",
+        "Na tabela de preços da loja, a 50 cc custa {{price.cc50.day}} por dia. A elétrica não tem tarifa publicada: o valor depende do modelo e do período, e só a loja o pode confirmar antes da reserva.",
         {
           "component": "price-table",
           "category": "motas-50cc"
@@ -31,12 +31,7 @@
           "component": "price-table",
           "category": "motas-eletricas"
         },
-        "Não há preço semanal ou mensal publicado para a 50 cc, nem tarifa fixa para a elétrica. Em vez de multiplicar a tarifa diária, peça um orçamento com as datas e o modelo exatos. O guia do [aluguer semanal](/precos/aluguer-semanal-de-mota/) explica a contagem dos dias num aluguer longo, e a [página de preços](/precos/) reúne os valores publicados.",
-        {
-          "note": "A tarifa cobre apenas o aluguer da mota. A caução, a entrega, a recolha e os extras combinam-se à parte, e é a loja que confirma o valor final e a disponibilidade para as suas datas.",
-          "tone": "info",
-          "title": "O que o preço não diz"
-        }
+        "Nem a 50 cc tem preço semanal ou mensal publicado, nem a elétrica uma tarifa fixa. Em vez de multiplicar a tarifa diária, peça um orçamento com as datas e o modelo exatos. O guia do [aluguer semanal](/precos/aluguer-semanal-de-mota/) explica a contagem dos dias num aluguer longo, e a [página de preços](/precos/) reúne os valores publicados."
       ]
     },
     {
@@ -46,7 +41,7 @@
         "Na estrada, o limite de velocidade deste grupo é de 40 km/h, segundo a Circular n.º 38/2024/TT-BGTVT, em vigor desde a mesma data, tal como a resume a imprensa vietnamita. É menos do que o permitido às motas maiores em zona povoada, que ronda os 50 a 60 km/h conforme o tipo de via. Uma 50 cc anda, por isso, sempre abaixo do ritmo de parte do trânsito.",
         {
           "table": {
-            "caption": "Categoria legal e velocidade: 50 cc e mota elétrica (consulta de 13 de outubro de 2026)",
+            "caption": "Categoria legal e velocidade: 50 cc e mota elétrica",
             "head": [
               "Critério",
               "Mota de 50 cc",
@@ -56,12 +51,12 @@
               [
                 "Como a lei a classifica",
                 "«Xe gắn máy»: até 50 cm³ e velocidade de projeto até 50 km/h",
-                "Depende da potência do motor e da velocidade de projeto: até 4 kW e 50 km/h é «xe gắn máy»; acima disso, é motociclo"
+                "Depende dos kW do motor e da velocidade de projeto: até 4 kW e 50 km/h, é «xe gắn máy»; acima desses valores, é motociclo"
               ],
               [
                 "Limite de velocidade na estrada",
                 "40 km/h para o grupo «xe gắn máy»",
-                "Segue o grupo em que a lei a põe; um motociclo tem limites mais altos"
+                "Segue o grupo onde a lei a coloca; um motociclo tem limites mais altos"
               ],
               [
                 "Velocidade máxima anunciada",
@@ -71,14 +66,14 @@
             ]
           }
         },
-        "Na tabela da loja, a elétrica vem sem marca, potência nem velocidade de projeto, por isso não dá para saber em que grupo fica a que vai receber. Os exemplos VinFast anunciam velocidades máximas de 49 a 89 km/h, abaixo e acima dos 50 km/h que a lei usa como fronteira."
+        "Na lista de preços da loja, a elétrica vem sem marca, potência nem velocidade de projeto, por isso não dá para saber em que grupo fica a que vai receber. Os exemplos VinFast anunciam velocidades máximas de 49 a 89 km/h, abaixo e acima dos 50 km/h que a lei usa como fronteira."
       ]
     },
     {
       "h2": "Quem pode conduzir: idade mínima e carta",
       "body": [
         "A fronteira dos 50 cm³ ou dos 4 kW decide também quem pode conduzir. Para o grupo «xe gắn máy», a idade mínima é de 16 anos. Para um motociclo, passa a ser de 18 anos, com carta A1 até 125 cm³ ou 11 kW nas elétricas, e carta A acima disso.",
-        "Numa elétrica, a potência do motor e a velocidade de projeto decidem de que lado da fronteira fica a mota. Peça os dois dados por escrito antes de reservar; o guia da [carta para mota elétrica](/tipos-de-motas/carta-para-mota-eletrica/) explica os limites de 4 kW e de 11 kW.",
+        "Numa elétrica, quem decide de que lado da fronteira fica a mota é o motor: os kW e a velocidade de projeto. A loja deve indicar os dois valores por escrito antes da reserva; os limites de 4 kW e de 11 kW estão no guia da [carta para mota elétrica](/tipos-de-motas/carta-para-mota-eletrica/).",
         {
           "note": "A lei trata as 50 cc de forma própria, mas daí não se pode concluir que um visitante as possa conduzir sem documentos; o mesmo vale para uma elétrica pequena. Confirme os requisitos em fontes oficiais e leia o guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/) e os [mitos das motas de 50 cc](/tipos-de-motas/mitos-sobre-motas-50cc/).",
           "tone": "warn",
@@ -89,25 +84,25 @@
     {
       "h2": "Autonomia para um dia: depósito contra tomada",
       "body": [
-        "Para um dia curto na cidade, qualquer das duas tem folga, desde que a elétrica tenha uma autonomia da ordem das VinFast que consultámos: o fabricante anuncia de 160 km (Vento S) a 205 km (Evo200 Lite) por carga, medidos a 30 km/h com um condutor de 65 kg. Fora dessas condições o número desce: a própria VinFast dá 149 km para a Evo200 Lite a 45 km/h com 70 kg, menos 27 % do que os 205 km anunciados (cálculo a partir dos números do fabricante).",
-        "A diferença está na reposição. A 50 cc enche-se numa paragem na bomba; a elétrica pede horas ligada à corrente, de 6 a 10 nos exemplos VinFast, de preferência durante a noite, onde dorme. Fora do alojamento, não conte com a rede pública: em março de 2026, a imprensa vietnamita escrevia que faltava infraestrutura de carregamento em Hanói. A carga e a rede pública têm mais pormenor no guia da elétrica ou gasolina.",
+        "Num dia curto de cidade, as duas chegam, se a elétrica da loja se aproximar dos valores das VinFast que consultámos: de 160 km (Vento S) a 205 km (Evo200 Lite) por carga, números que o fabricante mede a 30 km/h com um condutor de 65 kg. Fora dessas condições o valor desce: a própria VinFast indica 149 km para a Evo200 Lite com um condutor de 70 kg a 45 km/h, menos 27 % do que os 205 km anunciados (cálculo a partir dos números do fabricante).",
+        "A diferença está na reposição. A 50 cc enche-se numa paragem na bomba; a elétrica pede horas ligada à corrente, de 6 a 10 nos exemplos VinFast, de preferência durante a noite, no sítio onde dorme. Fora do alojamento, a rede pública não dá garantias: em março de 2026, a imprensa vietnamita escrevia que faltava infraestrutura de carregamento em Hanói. A carga e a rede pública têm mais pormenor no guia da elétrica ou gasolina.",
         "Para a 50 cc, não encontrámos uma ficha técnica verificada (depósito, consumo): a tabela da loja descreve-a apenas como «mota ou scooter de 50 cc», sem modelo fixo. Sem consumos nem preço da eletricidade verificados, não comparamos o custo da energia; o que combinar sobre o nível de combustível ou de bateria à entrega e à devolução está no guia do [combustível no aluguer](/precos/combustivel-no-aluguer/)."
       ]
     },
     {
       "h2": "Ruído e condução na cidade: o que pesa em cada uma",
       "body": [
-        "O ruído e a manutenção não têm dados verificados para as motas de aluguer, como o guia da elétrica ou gasolina explica. O que interessa à escolha é o efeito na rua: se a elétrica for mais discreta, peões e outros condutores podem não a ouvir chegar, sobretudo em ruas estreitas como as do [Bairro Antigo](/zonas-de-hanoi/conduzir-no-bairro-antigo/), e convém abrandar mais cedo.",
+        "Não há dados verificados sobre o barulho nem sobre as avarias destas motas, como explica o guia da elétrica ou gasolina. O que interessa à escolha é o efeito na rua: se a elétrica for mais discreta, os peões e os outros condutores podem não dar por ela, sobretudo nas ruelas do [Bairro Antigo](/zonas-de-hanoi/conduzir-no-bairro-antigo/), e convém abrandar mais cedo.",
         "Do lado da 50 cc, o que pesa é a margem de potência: com um limite de 40 km/h e um motor pequeno, perde aceleração com passageiro ou bagagem. O guia [50cc ou 110cc](/tipos-de-motas/scooter-50cc-ou-110cc/) compara-a com uma scooter maior, e há um artigo sobre a [50 cc com passageiro](/tipos-de-motas/50cc-com-passageiro/). Como a 50 cc anda abaixo do ritmo de parte do trânsito, convém escolher bem as vias e as [pontes](/tipos-de-motas/50cc-nas-pontes-de-hanoi/), como explica o guia dos [trajetos de 50 cc em Hanói](/tipos-de-motas/trajetos-para-uma-50cc/), e saber como [ser visto numa 50 cc](/tipos-de-motas/ser-visto-numa-50cc/), da roupa aos espelhos e à posição na faixa."
       ]
     },
     {
       "h2": "Zona de baixas emissões: sem vantagem para a elétrica em 2026",
       "body": [
-        "O piloto de Hoàn Kiếm deixou de fora a ideia de proibir as motas a gasolina junto ao lago e, na primeira fase, não distingue o motor: em 2026, escolher a elétrica não abre nenhuma rua do centro que uma 50 cc a gasolina não possa usar. Os horários das noites de fecho, os parques e os percursos estão no guia da [zona de baixas emissões de Hanói](/tipos-de-motas/zona-de-baixas-emissoes-hanoi/).",
+        "Em 2026, escolher a elétrica não abre nenhuma rua do centro que uma 50 cc a gasolina não possa usar. O piloto de Hoàn Kiếm não distingue o motor nesta primeira fase, e a proibição das motas a gasolina junto ao lago, que chegou a ser proposta, ficou de fora. Os horários das noites de fecho, os parques e os percursos estão no guia da [zona de baixas emissões de Hanói](/tipos-de-motas/zona-de-baixas-emissoes-hanoi/).",
         "O que pode mudar é o calendário: estão previstas novas fases a partir de 2027, e o anúncio oficial refere restrições aos veículos a combustíveis fósseis, o que, mais tarde, pode favorecer as elétricas.",
         {
-          "note": "As fontes não dizem o mesmo sobre a extensão de cada fase, e não encontrámos como as seguintes tratarão as 50 cc. Se o aluguer passar de dezembro para janeiro, confirme as regras em vigor antes de escolher o motor.",
+          "note": "Os anúncios não coincidem quanto às fases seguintes, e não encontrámos como tratarão as 50 cc. Se o aluguer passar do fim de 2026, reveja as regras antes de decidir pelo motor.",
           "tone": "warn",
           "title": "Regras ainda em mudança"
         }
@@ -160,15 +155,15 @@
     {
       "h2": "O que pedir por escrito à loja",
       "body": [
-        "Para decidir entre as duas, peça à loja, por escrito, o que a tabela não mostra:",
+        "Antes de escolher, peça por escrito à loja o que a tabela não diz:",
         {
           "checklist": [
-            "Para a 50 cc: que unidade fica reservada para as minhas datas, e posso ver o certificado de registo para confirmar a cilindrada? O guia sobre [como confirmar que a mota é mesmo de 50 cc](/tipos-de-motas/confirmar-que-a-mota-e-50cc/) explica onde a ler.",
-            "Para a elétrica: que marca e modelo é, que potência tem, em kW, e qual é a velocidade de projeto? Podem constar da confirmação da reserva?",
-            "Quanto custa cada opção, no total, nas minhas datas, e o que fica de fora?"
+            "Para a 50 cc: qual é a unidade reservada e posso ver o certificado de registo, para confirmar a cilindrada? O guia sobre [como confirmar que a mota é mesmo de 50 cc](/tipos-de-motas/confirmar-que-a-mota-e-50cc/) explica onde a ler.",
+            "Para a elétrica: qual é o modelo, que potência tem o motor, em kW, e que velocidade de projeto? Pode ficar tudo escrito na confirmação da reserva?",
+            "Quanto custa cada opção, no total, para o meu período de aluguer, e o que fica de fora?"
           ]
         },
-        "Mande o pedido pelos [contactos da loja](/contactos/), por telefone ou Zalo, no {{phone}}; a loja está aberta {{hours}}. Para a autonomia real, a carga, o nível de bateria e o que fazer se a mota parar, use as perguntas do guia da elétrica ou gasolina. As perguntas que servem a qualquer aluguer estão na [lista geral de perguntas antes de alugar](/guia-de-aluguer/perguntas-antes-de-alugar/), e o guia da [assistência na estrada](/guia-de-aluguer/assistencia-na-estrada/) explica o que esperar de uma avaria."
+        "Envie o pedido por Zalo ou por telefone, para o {{phone}}, ou pela página de [contactos](/contactos/); a loja está aberta {{hours}}. Para a autonomia real, a carga, o nível de bateria e o que fazer se a mota parar, use as perguntas do guia que compara a elétrica com a gasolina; as de qualquer aluguer estão na lista geral das [perguntas antes de alugar](/guia-de-aluguer/perguntas-antes-de-alugar/), e o guia da [assistência na estrada](/guia-de-aluguer/assistencia-na-estrada/) explica o que esperar de uma avaria."
       ]
     }
   ],
@@ -183,7 +178,7 @@
     },
     {
       "q": "A zona de baixas emissões obriga-me a alugar uma elétrica?",
-      "a": "Não em 2026. A primeira fase do piloto trata do mesmo modo as motas elétricas e as a gasolina: a zona 1 de Hoàn Kiếm fecha a ambas às sextas, sábados e domingos, das 19:00 às 24:00, e fora desse horário circulam as duas. Para 2027 estão previstas novas fases, por isso confirme as regras se viajar depois."
+      "a": "Não é necessário. Durante 2026, o piloto de Hoàn Kiếm trata do mesmo modo as motas elétricas e as a gasolina: a zona 1 fecha a todas nas noites de sexta, sábado e domingo, entre as 19:00 e as 24:00, e fora desse intervalo circulam as duas. Estão previstas novas fases para 2027, pelo que convém rever as regras se viajar depois."
     },
     {
       "q": "Posso carregar a mota elétrica no alojamento?",
