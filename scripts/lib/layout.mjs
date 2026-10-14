@@ -38,6 +38,10 @@ export function head(page, ctx, { jsonLd }) {
     `<link rel="stylesheet" href="/assets/css/site.css?v=${ctx.assetVersion.css}">`,
     `<script>${THEME_INIT}</script>`,
     `<script src="/assets/js/app.js?v=${ctx.assetVersion.js}" defer></script>`,
+    `<script src="/assets/js/business-config.js?v=${ctx.assetVersion.business}" defer></script>`,
+    `<script src="/assets/js/assistant.js?v=${ctx.assetVersion.assistant}" defer></script>`,
+    `<script src="/assets/js/pt-assistant-adapter.js?v=${ctx.assetVersion.adapter}" defer></script>`,
+    `<script src="/assets/js/floating.js?v=${ctx.assetVersion.floating}" defer></script>`,
     `<meta property="og:type" content="${page.kind === 'article' ? 'article' : 'website'}">`,
     `<meta property="og:site_name" content="${esc(site.name)}">`,
     `<meta property="og:locale" content="${esc(site.ogLocale)}">`,
@@ -153,11 +157,35 @@ export function footer(ctx) {
 
 export function floatingContact(ctx) {
   const b = ctx.data.business;
-  const ui = ctx.ui;
-  const items = [`<a class="fab fab-call" href="${esc(b.phone.tel)}" aria-label="${esc(`${ui.callLong}: ${b.phone.display}`)}">${icon('phone', 20)}<span>${esc(ui.call)}</span></a>`];
-  if (b.zalo.enabled && b.zalo.verified) items.push(`<a class="fab fab-zalo" href="${esc(b.zalo.url)}" rel="noopener noreferrer" target="_blank" aria-label="${esc(ui.zaloLong)}">${icon('chat', 20)}<span>${esc(ui.zalo)}</span></a>`);
-  if (b.whatsapp.enabled && b.whatsapp.verified && b.whatsapp.url) items.push(`<a class="fab fab-wa" href="${esc(b.whatsapp.url)}" rel="noopener noreferrer" target="_blank" aria-label="${esc(ui.whatsapp)}">${icon('whatsapp', 20)}<span>${esc(ui.whatsapp)}</span></a>`);
-  return `<div class="float-contact">${items.join('')}</div>`;
+  const choices = [
+    `<a class="qc-btn" href="${esc(b.phone.tel)}" aria-label="Ligar para ${esc(b.phone.display)}">${icon('phone',20)}<span class="qc-tip">Ligar</span></a>`
+  ];
+  if (b.zalo.enabled && b.zalo.verified && b.zalo.url) {
+    choices.push(`<a class="qc-btn" href="${esc(b.zalo.url)}" rel="noopener noreferrer" target="_blank" aria-label="Contactar no Zalo">${icon('chat',20)}<span class="qc-tip">Zalo</span></a>`);
+  }
+  if (b.whatsapp.enabled && b.whatsapp.verified && b.whatsapp.url) {
+    choices.push(`<a class="qc-btn" href="${esc(b.whatsapp.url)}" rel="noopener noreferrer" target="_blank" aria-label="Contactar no WhatsApp">${icon('whatsapp',20)}<span class="qc-tip">WhatsApp</span></a>`);
+  }
+  choices.push(`<a class="qc-btn" href="${esc(b.maps)}" rel="noopener noreferrer" target="_blank" aria-label="Abrir no Google Maps">${icon('pin',20)}<span class="qc-tip">Maps</span></a>`);
+  const questions = [
+    ['Preços', 'preços de aluguer'],
+    ['Mensal', 'preço mensal de Honda Vision'],
+    ['50 cc', 'preço de mota 50cc'],
+    ['Morada', 'onde fica a loja'],
+    ['Horário', 'horário da loja'],
+    ['Contactos', 'contactos']
+  ].map(([label,question])=>`<button type="button" data-q="${esc(question)}">${esc(label)}</button>`).join('');
+  return `<div class="quick-contact" id="quick-contact" data-open="false">
+    <button class="qc-main" type="button" aria-expanded="false" aria-controls="quick-actions" aria-label="Contacto rápido">${icon('phone',22)}</button>
+    <div class="qc-actions" id="quick-actions">${choices.join('')}</div>
+  </div>
+  <button class="chat-fab" id="chat-fab" type="button" aria-expanded="false" aria-controls="chat-panel" aria-label="Abrir assistente local">${icon('chat',22)}<span class="chat-tip">Assistente</span></button>
+  <div class="chat-panel" id="chat-panel" hidden role="dialog" aria-label="Assistente local Nguyễn Tú">
+    <div class="chat-head"><span class="chat-title">Assistente local · Nguyễn Tú</span><button class="chat-close" type="button" aria-label="Fechar assistente">${icon('close',18)}</button></div>
+    <div class="chat-log" aria-live="polite" aria-relevant="additions"></div>
+    <div class="chat-quick">${questions}</div>
+    <form class="chat-input"><input type="text" maxlength="300" placeholder="Pergunte por preços, motas, morada…" aria-label="A sua mensagem" autocomplete="off" required><button type="submit" aria-label="Enviar mensagem">${icon('chevron',18)}</button></form>
+  </div>`;
 }
 
 export function searchDialog(ctx) {

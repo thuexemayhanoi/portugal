@@ -14,7 +14,7 @@ import { jsonLd } from './lib/schema.mjs';
 import { sitemap, robots, searchIndex, llmsTxt } from './lib/outputs.mjs';
 
 const CHECK = process.argv.includes('--check');
-const CSS_ORDER = ['tokens.css', 'base.css', 'layout.css', 'components.css', 'utilities.css'];
+const CSS_ORDER = ['tokens.css', 'base.css', 'layout.css', 'components.css', 'utilities.css', 'floating.css'];
 // Folders that never contain generated pages (orphan scan skips them).
 const SOURCE_DIRS = new Set(['.git', '.github', 'node_modules', 'assets', 'content', 'data', 'docs', 'factory', '_factory', 'reports', 'scripts', 'site', 'src']);
 
@@ -27,7 +27,7 @@ function minifyCss(css) {
     .trim();
 }
 
-function bundleAssets() {
+function bundleAssets(data) {
   const files = {};
   const cssParts = CSS_ORDER.filter((f) => fs.existsSync(rel('src/css', f))).map((f) => fs.readFileSync(rel('src/css', f), 'utf8'));
   if (!cssParts.length) fail('No CSS sources in src/css');
@@ -39,16 +39,53 @@ function bundleAssets() {
   files['assets/js/search.js'] = banner + search;
   const searchVersion = shortHash(search);
   files['assets/js/app.js'] = banner + app.replace('__SEARCH_SRC__', `/assets/js/search.js?v=${searchVersion}`);
+
+  // Preserve the complete /web assistant, localised by an independent pt-PT adapter.
+  for (const name of ['assistant.js', 'pt-assistant-adapter.js', 'floating.js']) {
+    files[`assets/js/${name}`] = banner + fs.readFileSync(rel('src/js', name), 'utf8');
+  }
+  // Export public, owner-verified facts only. Never import /web prices or email.
+  const b = data.business;
+  const models = Object.fromEntries(data.pricing.models.map((m) => [
+    m.id === 'eletrica' ? 'electric' : m.id,
+    { name: m.name, cat: m.category, day: m.day, week: m.week, month: m.month }
+  ]));
+  const BUSINESS = {
+    name: b.canonicalName, address: b.address.display,
+    phone: b.phone.local, phoneTel: b.phone.e164, mapsUrl: b.maps,
+    hoursText: b.hours.short, timezone: b.hours.timezone,
+    openHour: Number(b.hours.opens.slice(0, 2)),
+    closeHour: Number(b.hours.closes.slice(0, 2)),
+    website: data.site.baseUrl,
+    zaloUrl: b.zalo.enabled && b.zalo.verified ? b.zalo.url : ''
+  };
+  const CONTACT_METHODS = {
+    call: {label:'Ligar',href:b.phone.tel,verified:true},
+    zalo: {label:'Zalo',href:BUSINESS.zaloUrl,verified:!!BUSINESS.zaloUrl},
+    maps: {label:'Maps',href:b.maps,verified:true},
+    whatsapp: {label:'WhatsApp',href:b.whatsapp.url,verified:!!(b.whatsapp.enabled&&b.whatsapp.verified&&b.whatsapp.url)}
+  };
+  files['assets/js/business-config.js'] = banner +
+    'var BUSINESS = ' + JSON.stringify(BUSINESS) + ';\n' +
+    'var PRICES = ' + JSON.stringify(models) + ';\n' +
+    'var CONTACT_METHODS = ' + JSON.stringify(CONTACT_METHODS) + ';\n';
+
   return {
     files,
-    version: { css: shortHash(css), js: shortHash(files['assets/js/app.js']), search: searchVersion }
+    version: {
+      css: shortHash(css), js: shortHash(files['assets/js/app.js']), search: searchVersion,
+      business: shortHash(files['assets/js/business-config.js']),
+      assistant: shortHash(files['assets/js/assistant.js']),
+      adapter: shortHash(files['assets/js/pt-assistant-adapter.js']),
+      floating: shortHash(files['assets/js/floating.js'])
+    }
   };
 }
 
 function build() {
   const model = loadModel();
-  const assets = bundleAssets();
   const data = model.data;
+  const assets = bundleAssets(data);
   const faqPage = model.pages.find((p) => p.template === 'faq');
   const faqById = new Map();
   for (const item of faqPage ? faqPage.groups.flatMap((g) => g.items) : []) {
@@ -114,6 +151,28 @@ function build() {
   out['sitemap.xml'] = sitemap(model.pages, base);
   out['robots.txt'] = robots(base);
   out['assets/search-index.json'] = searchIndex(searchEntries) + '\n';
+
+  // Same rich, entirely local paragraph-search contract as /web's assistant.
+  // Loaded only after the visitor opens the assistant; no third-party API.
+  const chatEntries = searchEntries.map((item) => {
+    const page = model.byUrl.get(item.url);
+    const html = page ? out[page.file] || '' : '';
+    const main = html.match(/<main\b[^>]*>([\s\S]*?)<\/main>/i)?.[1] || '';
+    const heads = [...main.matchAll(/<h2\b[^>]*>([\s\S]*?)<\/h2>/gi)]
+      .map((m) => stripTags(m[1]).replace(/\s+/g, ' ').trim());
+    const chunks = main.split(/<h2\b[^>]*>[\s\S]*?<\/h2>/gi);
+    const paras = (chunk) => [...chunk.matchAll(/<p\b[^>]*>([\s\S]*?)<\/p>/gi)]
+      .map((m) => stripTags(m[1]).replace(/\s+/g, ' ').trim().slice(0, 400))
+      .filter((txt) => txt.length > 35).slice(0, 2);
+    const sections = [{h:'', p:paras(chunks[0] || '')}].concat(
+      heads.slice(0, 20).map((h, i) => ({h, p:paras(chunks[i + 1] || '')}))
+    );
+    return {u:item.url, t:item.title, head:item.headings, s:sections};
+  });
+  out['assets/chat/search-index.json'] = JSON.stringify({
+    version:'pt-PT-1', site:data.site.baseUrl, e:chatEntries
+  }) + '\n';
+
   out['llms.txt'] = llmsTxt(model.pages, base);
   const indexNow = data.site.indexNow;
   if (indexNow?.enabled) {

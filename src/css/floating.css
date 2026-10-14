@@ -1,0 +1,218 @@
+/* Floating UI migrated from /web, isolated to pt-PT Blue Titanium tokens. */
+
+.quick-contact,
+.chat-fab{
+  position:fixed;
+  bottom:calc(16px + env(safe-area-inset-bottom));
+}
+.quick-contact{
+  left:calc(16px + env(safe-area-inset-left));
+  z-index:130;
+}
+.chat-fab{
+  right:calc(16px + env(safe-area-inset-right));
+  z-index:130;
+}
+[data-float-hidden]{display:none!important}
+
+/* ============ Quick contact FAB (bottom-left) ============ */
+.qc-main{
+  width:56px;height:56px;min-width:56px;
+  display:flex;align-items:center;justify-content:center;
+  background:var(--brand);color:var(--on-brand);
+  border:0;border-radius:50%;cursor:pointer;
+  box-shadow:var(--shadow-lg);
+  transition:background .15s,transform .15s;
+}
+.qc-main:hover{background:var(--brand-strong);transform:scale(1.05)}
+.qc-main[aria-expanded="true"]{background:var(--brand-strong)}
+.qc-actions{
+  position:absolute;bottom:calc(56px + 12px);left:0;
+  display:none;flex-direction:column;gap:var(--s-2);
+}
+.quick-contact[data-open="true"] .qc-actions{display:flex}
+.qc-btn{
+  position:relative;
+  width:48px;height:48px;min-width:48px;
+  display:flex;align-items:center;justify-content:center;
+  background:var(--surface);color:var(--text);
+  border:1px solid var(--border);border-radius:50%;
+  box-shadow:var(--shadow-md);
+  transition:border-color .15s,color .15s,transform .15s;
+}
+.qc-btn:hover{border-color:var(--brand);color:var(--brand-strong);transform:scale(1.05)}
+.qc-tip{
+  position:absolute;left:calc(100% + 10px);top:50%;transform:translateY(-50%);
+  background:var(--surface);color:var(--text);
+  border:1px solid var(--border);border-radius:8px;
+  padding:4px 10px;font-size:.8rem;font-weight:600;white-space:nowrap;
+  box-shadow:var(--shadow-md);
+}
+
+/* ============ Chatbot (bottom-right) ============ */
+.chat-fab{
+  width:56px;height:56px;
+  display:flex;align-items:center;justify-content:center;
+  background:var(--brand);color:var(--on-brand);border:0;border-radius:50%;
+  cursor:pointer;box-shadow:var(--shadow-lg);
+  transition:background .15s,transform .15s,bottom .15s ease-out;
+}
+.chat-fab:hover{background:var(--brand-strong);transform:scale(1.05)}
+.chat-fab[aria-expanded="true"]{background:var(--brand-strong)}
+.chat-tip{
+  position:absolute;right:calc(100% + 10px);top:50%;transform:translateY(-50%);
+  background:var(--surface);color:var(--text);
+  border:1px solid var(--border);border-radius:8px;
+  padding:4px 10px;font-size:.8rem;font-weight:600;white-space:nowrap;
+  box-shadow:var(--shadow-md);
+}
+
+.chat-panel{
+  position:fixed;right:16px;z-index:140;
+  /* Normal state sits above the two floating launch buttons. */
+  bottom:calc(84px + env(safe-area-inset-bottom));
+  width:min(360px,calc(100vw - 32px));
+  height:min(480px,calc(var(--vv-h,100dvh) - 120px - env(safe-area-inset-bottom)));
+  display:flex;flex-direction:column;
+  background:var(--surface);
+  border:1px solid var(--border);
+  border-radius:var(--radius-lg);
+  box-shadow:var(--shadow-lg);
+  overflow:hidden;
+  animation:chatIn .18s ease-out;
+}
+@keyframes chatIn{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+.chat-head{
+  display:flex;align-items:center;justify-content:space-between;gap:var(--s-2);
+  padding:var(--s-3) var(--s-4);
+  background:var(--brand);color:var(--on-brand);
+}
+.chat-title{font-weight:600;font-size:.95rem}
+.chat-close{
+  width:44px;height:44px;min-width:44px;
+  display:flex;align-items:center;justify-content:center;
+  background:rgba(0,0,0,.18);border:0;border-radius:10px;
+  color:var(--on-brand);cursor:pointer;
+}
+.chat-close:hover{background:rgba(0,0,0,.3)}
+.chat-log{
+  flex:1;overflow-y:auto;padding:var(--s-4);
+  display:flex;flex-direction:column;gap:var(--s-2);
+}
+.chat-msg{
+  max-width:82%;padding:10px 14px;
+  border-radius:14px;font-size:15px;line-height:1.55;
+  white-space:pre-wrap;overflow-wrap:anywhere;
+}
+.chat-msg.bot{
+  align-self:flex-start;
+  background:var(--surface-2);color:var(--text);
+  border:1px solid var(--border);border-bottom-left-radius:4px;
+}
+.chat-msg.user{
+  align-self:flex-end;
+  background:var(--brand);color:var(--on-brand);border-bottom-right-radius:4px;
+}
+.chat-msg a{color:var(--brand-strong);text-decoration:underline}
+html[data-theme="dark"] .chat-msg.bot a{color:var(--brand)}
+.chat-quick{
+  display:flex;flex-wrap:wrap;gap:6px;
+  padding:0 var(--s-4) var(--s-2);
+}
+.chat-quick button{
+  min-height:44px;padding:0 14px;
+  background:var(--bg);color:var(--text);
+  border:1px solid var(--border);border-radius:999px;
+  font:inherit;font-size:.8rem;cursor:pointer;
+  transition:border-color .15s,color .15s;
+}
+.chat-quick button:hover{border-color:var(--brand);color:var(--brand-strong)}
+/* follow-up suggestion tags after each answer */
+.chat-suggest{
+  display:flex;flex-wrap:wrap;gap:6px;
+  padding:2px 0 10px 44px;
+}
+.chat-suggest button{
+  min-height:36px;padding:0 12px;
+  background:var(--surface);color:var(--text-2);
+  border:1px solid var(--border);border-radius:999px;
+  font:inherit;font-size:.76rem;cursor:pointer;
+  transition:border-color .15s,color .15s;
+}
+.chat-suggest button:hover{border-color:var(--brand);color:var(--brand-strong)}
+html[data-theme="dark"] .chat-suggest button{background:var(--bg);color:var(--text)}
+/* typing indicator */
+.chat-typing{opacity:.7;font-style:normal}
+/* messages wrap correctly */
+.chat-msg{overflow-wrap:anywhere;word-break:break-word}
+.chat-input{
+  display:flex;gap:var(--s-2);
+  padding:var(--s-2) var(--s-3) var(--s-3);
+  border-top:1px solid var(--border);
+}
+.chat-input input{
+  flex:1;min-width:0;min-height:44px;
+  padding:0 var(--s-3);
+  background:var(--bg);color:var(--text);
+  border:1px solid var(--border);border-radius:12px;
+  font:inherit;font-size:16px;
+}
+.chat-input button{
+  width:44px;min-width:44px;
+  display:flex;align-items:center;justify-content:center;
+  background:var(--brand);color:var(--on-brand);border:0;border-radius:12px;
+  cursor:pointer;transition:background .15s;
+}
+.chat-input button:hover{background:var(--brand-strong)}
+
+/* iOS/Android keyboard mode.
+   visualViewport JS supplies an exact top + height so the whole chat follows
+   the visible area instead of sitting behind the keyboard/browser dock. */
+.chat-panel[data-keyboard-open="true"]{
+  top:var(--chat-vv-top,8px);
+  bottom:auto;
+  height:var(--chat-vv-height,420px);
+  max-height:none;
+}
+body.chat-keyboard-open .quick-contact,
+body.chat-keyboard-open .chat-fab{
+  visibility:hidden;
+  pointer-events:none;
+}
+body.chat-keyboard-open .chat-panel{
+  border-radius:var(--radius);
+}
+body.chat-keyboard-open .chat-log{
+  overscroll-behavior:contain;
+}
+
+
+/* Two separate circles, no bottom dock. Scroll-to-top and sticky obstructions
+   are avoided by dynamically adjusting --pt-left-gap and --pt-right-gap. */
+.quick-contact { bottom:calc(16px + env(safe-area-inset-bottom) + var(--pt-left-gap,0px)); }
+.chat-fab { bottom:calc(16px + env(safe-area-inset-bottom) + var(--pt-right-gap,0px)); }
+.qc-main,.chat-fab,.chat-input button {background:var(--metal-blue);color:var(--on-brand)}
+.qc-main[aria-expanded="true"],.chat-fab[aria-expanded="true"] {filter:brightness(1.1)}
+.chat-head {background:var(--metal-blue);color:var(--on-brand)}
+.chat-close {color:var(--on-brand);background:rgba(0,0,0,.16)}
+.chat-msg.user {background:var(--brand);color:var(--on-brand)}
+.chat-tip,.qc-tip { font-size:.78rem; }
+.chat-msg a {color:var(--link)}
+.chat-msg.bot a {color:var(--link)}
+.quick-contact button:focus-visible,.quick-contact a:focus-visible,
+.chat-fab:focus-visible,.chat-panel button:focus-visible,
+.chat-panel input:focus-visible {outline:3px solid var(--focus);outline-offset:3px}
+.chat-log{min-height:0}
+.chat-panel{max-height:calc(var(--vv-h,100dvh) - 110px);overscroll-behavior:contain}
+.chat-panel[hidden]{display:none!important}
+.qc-main,.chat-fab{touch-action:manipulation}
+.chat-input input{font-size:16px}
+@media(max-width:420px){
+  .qc-tip,.chat-tip{display:none}
+  .chat-panel{width:calc(100vw - 24px);right:12px}
+  .quick-contact{left:calc(12px + env(safe-area-inset-left))}
+  .chat-fab{right:calc(12px + env(safe-area-inset-right))}
+}
+@media(prefers-reduced-motion:reduce){
+  .chat-panel,.qc-main,.chat-fab,.qc-btn{animation:none!important;transition:none!important}
+}
