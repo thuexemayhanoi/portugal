@@ -10,7 +10,7 @@
     "Segundo os guias, o Ecopark fica no antigo distrito de Văn Giang, em Hưng Yên, e não em Hanói: levar lá a mota alugada é uma saída da cidade e exige autorização da loja.",
     "Um guia de passeios descreve dois percursos de mota, de cerca de 40 a 45 minutos; um deles passa por uma ponte onde não confirmámos que as motas possam circular.",
     "O outro percurso usa o dique de Bát Tràng, com camiões pesados e piso descrito como degradado.",
-    "Não encontrámos regras oficiais do Ecopark para motas, nem tarifas de estacionamento: as pistas que existem são de blogues e de um agregador de utilizadores, sem data.",
+    "Não encontrámos regras oficiais do Ecopark para motas, nem tarifas de estacionamento: as pistas que existem vêm de um blogue sem data.",
     "Pergunte à entrada se as motas entram, onde estacionam e quanto custa, e guarde o talão e uma fotografia do local."
   ],
   "intro": [
@@ -22,7 +22,7 @@
       "h2": "Onde fica o Ecopark e porque isso muda a conversa com a loja",
       "body": [
         "Os guias situam o Ecopark a cerca de 13 a 14 km a sudeste do centro de Hanói; outra fonte indica cerca de 12,8 km. A localização administrativa é a que mais importa a quem aluga: segundo os guias, o empreendimento fica no antigo distrito de Văn Giang, na província de Hưng Yên, e não dentro de Hanói. Desde 2025, a província de Hưng Yên resulta da junção das antigas Hưng Yên e Thái Bình.",
-        "Na prática, o Ecopark está mesmo ao lado de Hanói, mas é uma saída da cidade. Muitas lojas de aluguer, incluindo condições que só a loja pode confirmar, têm regras próprias para levar a mota para fora de Hanói, e uma deslocação de poucos quilómetros pode ser tratada como uma viagem. Antes de planear o passeio, leia o guia sobre [levar a mota alugada para fora de Hanói](/guia-de-aluguer/autorizacao-para-sair-de-hanoi/) e peça autorização por escrito.",
+        "Na prática, o Ecopark está mesmo ao lado de Hanói, mas é uma saída da cidade. As condições para levar a mota para fora de Hanói são da loja, e uma deslocação de poucos quilómetros pode contar como uma viagem. Antes de planear o passeio, leia o guia sobre [levar a mota alugada para fora de Hanói](/guia-de-aluguer/autorizacao-para-sair-de-hanoi/) e peça autorização por escrito.",
         {
           "note": "A loja {{brand}} fica em {{area}} e está aberta {{hours}}. Se quiser ir ao Ecopark, diga na mensagem para {{phone}} o destino, a data, a hora de saída e o percurso que pensa seguir, e só parta depois de ter a resposta por escrito.",
           "tone": "info",
@@ -38,10 +38,22 @@
         {
           "table": {
             "caption": "Percursos de mota para o Ecopark segundo um guia de passeios (consulta de 13 de outubro de 2026)",
-            "head": ["Percurso", "O que o guia descreve", "O que não está confirmado"],
+            "head": [
+              "Percurso",
+              "O que o guia descreve",
+              "O que não está confirmado"
+            ],
             "rows": [
-              ["1. Pelo Anel Viário 3", "Seguir o Anel Viário 3 até à ponte Thanh Trì, atravessar, virar à direita e fazer mais cerca de 4,3 km", "Que as motas possam circular na ponte Thanh Trì, que faz parte do Anel Viário 3"],
-              ["2. Pelo dique de Bát Tràng", "Atravessar a ponte Chương Dương ou a Vĩnh Tuy, seguir o dique de Bát Tràng até ao pé da ponte Thanh Trì e depois a estrada Hà Nội–Hưng Yên durante mais cerca de 4,2 km", "O estado atual do piso do dique e os horários dos camiões"]
+              [
+                "1. Pelo Anel Viário 3",
+                "Seguir o Anel Viário 3 até à ponte Thanh Trì, atravessar, virar à direita e fazer mais cerca de 4,3 km",
+                "Que as motas possam circular na ponte Thanh Trì, que faz parte do Anel Viário 3"
+              ],
+              [
+                "2. Pelo dique de Bát Tràng",
+                "Atravessar a ponte Chương Dương ou a Vĩnh Tuy, seguir o dique de Bát Tràng até ao pé da ponte Thanh Trì e depois a estrada Hà Nội–Hưng Yên durante mais cerca de 4,2 km",
+                "O estado atual do piso do dique e os horários dos camiões"
+              ]
             ]
           }
         },
@@ -56,12 +68,11 @@
     {
       "h2": "O que as fontes dizem da entrada e do estacionamento (e porque não é regra)",
       "body": [
-        "Procurámos regras do Ecopark sobre motas, condições de entrada e tarifas de estacionamento e não encontrámos nenhum aviso oficial. O que existe são três pistas fracas, que apresentamos para que as reconheça se as encontrar, sem as tratar como garantias:",
+        "Procurámos regras do Ecopark sobre motas, condições de entrada e tarifas de estacionamento e não encontrámos nenhum aviso oficial. O que existe são duas pistas fracas, que apresentamos para que as reconheça se as encontrar, sem as tratar como garantias:",
         {
           "ul": [
             "**Entrada gratuita e autocarro gratuito.** Um blogue de viagens, sem data, diz que a entrada no empreendimento é gratuita, incluindo museu, parques e estacionamento, e que existe um autocarro gratuito entre o Ecopark e Hanói para visitantes. É fonte única e não datada.",
-            "**Bilhetes de parques.** O mesmo blogue refere bilhetes de cerca de 50 000 VND por pessoa para um dos parques, e cerca do mesmo valor na porta Kolorado. Também sem data: os preços de lazer mudam e podem ter mudado.",
-            "**Lista de estacionamento gratuito de motas.** Um agregador de utilizadores inclui o Ecopark numa lista de locais com guarda gratuita de motas em Hưng Yên. Como o conteúdo é escrito pelos utilizadores, a fiabilidade é baixa."
+            "**Bilhetes de parques.** O mesmo blogue refere bilhetes de algumas dezenas de milhares de dong por pessoa para um dos parques e na porta Kolorado. Também sem data: os preços de lazer mudam, por isso confirme à bilheteira."
           ]
         },
         "Nenhuma destas pistas diz se as motas entram nas ruas interiores, onde há parques para motas, se há limites de horário ou se alguma zona está vedada a veículos de visitantes. Pode ser que as motas estacionem à entrada e que o interior se faça a pé, de bicicleta ou em transporte do próprio empreendimento, mas isto é uma possibilidade e não uma informação das fontes.",
@@ -122,10 +133,7 @@
       "body": [
         "Há dias em que a alternativa honesta é não ir de mota. Com chuva forte, com cansaço depois de um voo, ou se nunca conduziu em Hanói, uma saída de 13 a 14 km pelo dique pode ser um primeiro passeio demasiado exigente. O guia sobre [quando é melhor não conduzir em Hanói](/rotas-e-mobilidade/quando-nao-conduzir/) explica as situações em que a mota deve ficar parada.",
         "Para ir ao Ecopark sem conduzir, as opções são as habituais: uma aplicação de transporte, o táxi ou a mota com condutor. O guia sobre [mota alugada ou Grab](/precos/mota-alugada-ou-grab/) compara as duas lógicas de custo e o de [mota com condutor](/rotas-e-mobilidade/mota-com-condutor/) explica como funciona. Não encontrámos preços atuais destes serviços para este trajeto, por isso peça sempre o valor antes de partir.",
-        "Quando o plano é ficar vários dias na zona e voltar ao Ecopark mais do que uma vez, vale a pena pensar na duração do aluguer: a tabela abaixo compara, modelo a modelo, o preço ao dia com a tarifa semanal.",
-        {
-          "component": "duration-compare"
-        }
+        "Outros guias por bairro e por saída estão reunidos em [Zonas de Hanói](/zonas-de-hanoi/), e o resumo da área de Long Biên e Gia Lâm está em [Long Biên e Gia Lâm](/zonas-de-hanoi/long-bien-e-gia-lam/)."
       ]
     }
   ],
@@ -140,7 +148,7 @@
     },
     {
       "q": "Posso estacionar a mota no Ecopark sem pagar?",
-      "a": "Não conseguimos confirmar. Um blogue sem data fala em estacionamento gratuito e um agregador de utilizadores inclui o Ecopark numa lista de guarda gratuita de motas, mas nenhuma é fonte oficial. Pergunte à entrada se é pago, quanto custa e onde deixar a mota, e guarde o talão."
+      "a": "Não conseguimos confirmar. Um blogue sem data fala em estacionamento gratuito, mas não é fonte oficial. Pergunte à entrada se é pago, quanto custa e onde deixar a mota, e guarde o talão."
     },
     {
       "q": "Posso usar a ponte Thanh Trì de mota?",
@@ -158,14 +166,6 @@
       "url": "https://mytour.vn/vi/blog/bai-viet/bi-quyet-cam-trai-da-ngoai-tai-khu-do-thi-ecopark-ha-noi.html",
       "accessed": "2026-10-13",
       "type": "business",
-      "lang": "vi"
-    },
-    {
-      "title": "Lista de locais com guarda gratuita de motas em Hưng Yên, incluindo o Ecopark (em vietnamita)",
-      "publisher": "Foody",
-      "url": "https://www.foody.vn/(A(&amp;amp;amp;amp;amp;amp;amp;amp;gt;))/hung-yen/dia-diem-co-giu-xe-may-mien-phi",
-      "accessed": "2026-10-13",
-      "type": "reference",
       "lang": "vi"
     },
     {
