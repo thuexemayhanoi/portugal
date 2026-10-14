@@ -49,9 +49,9 @@
       ]
     },
     {
-      "h2": "Telefone, Zalo, mapas e outros serviços externos",
+      "h2": "Telefone, Zalo, WhatsApp, mapas e outros serviços externos",
       "body": [
-        "Os botões **Ligar**, **Zalo** e **Maps** têm a finalidade de facilitar o contacto ou a localização. Ao selecionar um deles, poderá abrir a aplicação de chamadas, um serviço de mensagens ou o Google Maps. Nesses ambientes, podem aplicar-se termos, permissões e políticas de privacidade próprios.",
+        "Os botões **Ligar**, **Zalo**, **WhatsApp** e **Maps** têm a finalidade de facilitar o contacto ou a localização. Ao selecionar um deles, poderá abrir a aplicação de chamadas, um serviço de mensagens ou o Google Maps. Nesses ambientes, podem aplicar-se termos, permissões e políticas de privacidade próprios.",
         "Uma aplicação de mensagens poderá mostrar dados da sua conta, identificadores ou informações que decida enviar. O operador telefónico poderá tratar números e dados de comunicação. O Google Maps poderá usar informação técnica ou de localização consoante as suas definições. Consulte as políticas desses serviços antes de partilhar dados que considere sensíveis.",
         "As hiperligações externas são fornecidas por utilidade e não significam que a loja controle a recolha, a conservação ou a eliminação de dados feita por terceiros. Pode consultar os conteúdos do site sem abrir essas aplicações, embora o contacto direto seja necessário para esclarecer as condições concretas de um aluguer."
       ]
@@ -75,7 +75,7 @@
     {
       "h2": "Pedidos de esclarecimento, correção ou eliminação",
       "body": [
-        "Para perguntar que informações comunicou à loja, solicitar a correção de um contacto incorreto ou esclarecer o destino de documentos fornecidos diretamente, utilize **{{phone}}** por telefone ou Zalo. Explique qual foi o canal usado, a data aproximada da conversa e o tipo de pedido, sem divulgar mais dados do que os necessários para localizar a comunicação.",
+        "Para perguntar que informações comunicou à loja, solicitar a correção de um contacto incorreto ou esclarecer o destino de documentos fornecidos diretamente, utilize **{{phone}}** por telefone, Zalo ou WhatsApp. Explique qual foi o canal usado, a data aproximada da conversa e o tipo de pedido, sem divulgar mais dados do que os necessários para localizar a comunicação.",
         "A possibilidade de atender pedidos de acesso, alteração ou eliminação depende da natureza dos dados, das regras aplicáveis e de eventuais deveres de conservação. Não prometemos uma eliminação imediata ou um prazo universal que não tenha sido confirmado. Sempre que a questão diga respeito a um fornecedor externo, poderá ser necessário contactar esse fornecedor diretamente.",
         "Se considerar que uma informação publicada no site expõe indevidamente dados pessoais, indique a página exata na sua mensagem. A loja poderá analisar o conteúdo publicado e corrigir o que esteja incorreto, sem que isso implique modificar registos pertencentes a plataformas externas."
       ]

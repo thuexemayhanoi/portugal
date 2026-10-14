@@ -86,10 +86,10 @@
       "number": "0942 467 674"
     },
     "whatsapp": {
-      "$comment": "Só ativar (enabled + verified = true) quando o proprietário confirmar que o número usa WhatsApp.",
-      "enabled": false,
-      "verified": false,
-      "url": ""
+      "$comment": "Canal WhatsApp ativado a pedido do proprietário em 2026-10-14; usa o mesmo número de contacto publicado em /web. Confirmar atendimento nas aplicações.",
+      "enabled": true,
+      "verified": true,
+      "url": "https://wa.me/84942467674"
     },
     "hours": {
       "opens": "09:00",

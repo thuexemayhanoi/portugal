@@ -64,5 +64,6 @@ test('no bottom contact dock; both separate accessible floating controls exist',
   assert.match(page,/assets\/js\/assistant\.js/);
   assert.match(page,/assets\/js\/pt-assistant-adapter\.js/);
   assert.match(page,/assets\/js\/floating\.js/);
-  assert.doesNotMatch(page,/href="https:\/\/wa\.me\//);
+  assert.match(page,/href="https:\/\/wa\.me\/84942467674"/);
+  assert.match(page,/aria-label="Contactar no WhatsApp"/);
 });
