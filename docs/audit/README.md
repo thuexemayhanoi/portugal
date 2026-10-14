@@ -50,6 +50,7 @@ Bản nháp đặt trong `_factory/hold/` luôn là REVIEW và không bao giờ 
   - 7 chủ đề trả lời câu hỏi khác với bài đang có, đánh dấu `guard_reviewed`: PT-0006, PT-0039, PT-0057, PT-0211, PT-0246, PT-0267, PT-0270.
 - **53 chủ đề thiếu dữ kiện**: có thêm 8 gói nghiên cứu mới, sau đó các bài được viết. Điểm nào chưa xác minh được ghi rõ ngay trong bài («por confirmar» / «o que perguntar»), không trình bày như sự thật.
 - Muốn tăng thêm nội dung thì phải dựa trên khoảng trống có bằng chứng (Search Console và câu hỏi thật của khách), không đặt chỉ tiêu số bài.
+- **Backlog chờ bằng chứng** (14/10/2026, rà soát từ khóa): chưa có trang nào nhắm truy vấn cấp quốc gia «alugar mota no Vietname» / «aluguer de motas no Vietname» (quy tắc, carta, preços, khác gì ở Hanói); các trang hiện có đều nhắm «Hanói». Chỉ viết khi Search Console cho thấy impressions cho nhóm truy vấn này, và viết như bài tổng quan trỏ về `/guia-de-aluguer/` và `/precos/` (không lặp lại nội dung), để không cannibalize trang trụ cột.
 
 ## Rủi ro
 
