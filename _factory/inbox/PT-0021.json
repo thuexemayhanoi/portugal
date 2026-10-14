@@ -63,7 +63,7 @@
             }
           ]
         },
-        "Repita o teste ao fim da primeira hora, numa paragem: uma posição que parecia boa à porta da loja pode revelar-se cansativa depois de uma hora de trânsito."
+        "Repita o teste ao fim da primeira hora, numa paragem: a posição que parecia boa na loja pode cansar depois de uma hora de trânsito."
       ]
     },
     {
@@ -88,11 +88,6 @@
               "Como encaixar no dia"
             ],
             "rows": [
-              [
-                "Até 1 hora",
-                "Sem pausa obrigatória",
-                "Uma paragem para água se o dia estiver quente"
-              ],
               [
                 "2 horas",
                 "15 minutos",

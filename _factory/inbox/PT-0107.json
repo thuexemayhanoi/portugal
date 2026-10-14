@@ -1,0 +1,217 @@
+{
+  "contract_version": 1,
+  "id": "PT-0107",
+  "slug": "portagens-e-motas",
+  "title": "Portagens e motas no Vietname: o que se paga e o que não",
+  "description": "As motas não podem entrar nas autoestradas do Vietname. Veja o que as fontes dizem sobre portagens nas estradas nacionais, o que não está confirmado e o que fazer.",
+  "h1": "Portagens e motas no Vietname: o que se paga e o que não se paga",
+  "summary": "Numa mota, nas autoestradas não se paga portagem porque não se pode lá entrar: a coima é de 4 a 6 milhões de VND e a perda de 6 pontos. Nas estradas nacionais com portagem, as fontes consultadas indicam que as motas estão isentas, mas não lemos o texto do artigo que o confirma, por isso confirme no posto.",
+  "key_points": [
+    "Motociclos e ciclomotores («xe mô tô, xe gắn máy») não podem circular em autoestradas (cao tốc): a coima do Decreto 168/2024 é de 4 a 6 milhões de VND e 6 pontos.",
+    "Em estradas nacionais com portagem de projetos BOT, uma regra antiga previa isenção para motas e a Circular 32/2024 tem uma lista de isentos; o texto exato do artigo ficou por confirmar.",
+    "Portagens locais, em pontes ou túneis, e o caso do BOT «Xa lộ Hà Nội» ficaram sem confirmação: não temos montantes nem isenções para dar.",
+    "Para uma saída de um dia, planeie por estradas nacionais («QL») e confirme o trajeto com a loja antes de partir.",
+    "Qualquer valor cobrado num posto é pago ao operador da estrada, não à loja: peça recibo ou talão e guarde-o."
+  ],
+  "intro": [
+    "Quem vem de Portugal está habituado a pensar em portagens como parte da viagem: a Via Verde, as cabines, o preço por classe de veículo. No Vietname, a ideia de que uma mota possa seguir uma autoestrada de ponta a ponta, pagando a sua portagem, não funciona. A lei distingue entre a autoestrada, vedada a motas, e as estradas nacionais, onde há postos de portagem de projetos financiados por investidores.",
+    "Este guia separa o que está confirmado do que ainda não conseguimos confirmar. A parte segura é curta e clara: não entre numa autoestrada de mota. O resto, as portagens das estradas nacionais e as locais, depende de textos legais que as pesquisas até 14 de outubro de 2026 não nos deixaram ler por inteiro, e vem assinalado como tal."
+  ],
+  "sections": [
+    {
+      "h2": "O resumo: o que se paga e o que não se paga",
+      "body": [
+        "A tabela reúne os quatro casos que um turista de mota pode encontrar, com o grau de confirmação de cada um.",
+        {
+          "table": {
+            "caption": "Portagens e motas: estado das informações a 14 de outubro de 2026",
+            "head": [
+              "Tipo de via",
+              "O que se sabe",
+              "Estado"
+            ],
+            "rows": [
+              [
+                "Autoestradas (cao tốc)",
+                "Proibidas a motociclos e ciclomotores; coima de 4 a 6 milhões de VND e perda de 6 pontos",
+                "Confirmado"
+              ],
+              [
+                "Estradas nacionais com portagem BOT",
+                "As fontes indicam que as motas estão na lista de isentos, mas o texto do artigo não foi lido",
+                "Por confirmar no posto"
+              ],
+              [
+                "Pontes e túneis com portagem local",
+                "Não encontrámos regras nem montantes para motas",
+                "Sem confirmação"
+              ],
+              [
+                "BOT «Xa lộ Hà Nội»",
+                "Um título de notícia fala na retoma da cobrança a 1 de novembro, sem ano visível",
+                "Sem confirmação"
+              ]
+            ]
+          }
+        },
+        "Quando uma fonte diz «isento» e outra não permite ler o artigo, este guia não trata o ponto como certo. Fica a indicação do que as fontes dizem e o conselho de perguntar no local."
+      ]
+    },
+    {
+      "h2": "Autoestradas: nem se paga, nem se entra",
+      "body": [
+        "O Decreto 168/2024/NĐ-CP sanciona quem conduz um motociclo ou ciclomotor («xe mô tô, xe gắn máy») numa autoestrada com uma coima de 4 a 6 milhões de VND e a perda de 6 pontos, segundo a Thư viện Pháp luật. A proibição não depende da cilindrada nem de a mota ser alugada: os dois termos constam da regra.",
+        "Isto tira sentido à pergunta «quanto pago de portagem numa autoestrada de mota?», porque a resposta é que não deve lá estar. A Polícia de Trânsito de Hanói multou vários motociclistas que entraram na autoestrada da avenida Thăng Long, numa notícia sem data visível, e em fevereiro de 2026 houve motociclistas estrangeiros multados na autoestrada Tuyên Quang–Phú Thọ.",
+        "Os valores citados são os do nível nacional. Desde 1 de julho de 2026, a Resolução 56/2026/NQ-HĐND de Hanói multiplica por 1,5 ou 2 as coimas de 28 infrações na cidade, e as fontes consultadas não confirmam se a entrada numa autoestrada está entre elas. A perda de pontos refere-se à carta vietnamita; não confirmámos como se aplica a uma carta estrangeira, mas a coima está documentada.",
+        "O guia sobre as [vias proibidas a motas em Hanói](/guia-de-aluguer/vias-proibidas-a-motas-em-hanoi/) mostra o mapa completo das restrições e o que fazer se entrar por engano numa via vedada."
+      ]
+    },
+    {
+      "h2": "Estradas nacionais com portagem: o que dizem as fontes",
+      "body": [
+        "Fora das autoestradas, o país tem estradas nacionais, as «QL» (de quốc lộ), com alguns postos de portagem («trạm thu phí»). Muitos resultam de projetos BOT: estradas construídas ou melhoradas por um investidor, que recupera o investimento cobrando portagens durante um período. O quadro de preços desses projetos, quando são geridos pelo poder central, está na Circular 32/2024/TT-BGTVT, de 13 de novembro de 2024, que o Ministério dos Transportes emitiu e que está em vigor desde 1 de janeiro de 2025. A circular exclui as autoestradas e inclui as isenções no seu artigo 3.º.",
+        {
+          "h3": "A isenção das motas: três indícios, nenhuma certeza"
+        },
+        {
+          "ul": [
+            "Uma base jurídica (Thư viện Pháp luật) cita a Circular 159/2013/TT-BTC, hoje antiga, que previa a isenção da taxa de uso de estrada nacional para motociclos e ciclomotores de duas e de três rodas.",
+            "O Báo Thanh tra enumera doze grupos de veículos isentos de portagem de estrada. Um dos artigos que consultámos inclui «xe mô tô, xe gắn máy» entre eles, mas o excerto não reproduz o texto do artigo.",
+            "A Circular 32/2024 tem, no artigo 3.º, a sua lista de isentos, e não conseguimos abrir o artigo para confirmar se as motas lá constam."
+          ]
+        },
+        "Juntos, estes indícios apontam para as motas estarem isentas, e é por isso que o resumo deste guia diz que as fontes o indicam. Mas não é uma confirmação: uma regra antiga pode ter mudado, e a prática num posto concreto pode ter regras próprias. Por isso, trate a isenção como provável e confirme no sítio.",
+        {
+          "note": "Não escrevemos montantes de portagem nem asseguramos a isenção porque não conseguimos ler o texto do artigo 3.º da Circular 32/2024. Se for passar por um posto de portagem, olhe para os painéis de preços por tipo de veículo e, se necessário, pergunte ao funcionário.",
+          "tone": "warn",
+          "title": "O que este guia não afirma"
+        }
+      ]
+    },
+    {
+      "h2": "Se chegar a um posto de portagem de mota",
+      "body": [
+        "Num posto de portagem, as indicações práticas são simples e aplicam-se mesmo que a isenção esteja confirmada:",
+        {
+          "steps": [
+            {
+              "title": "Abrande e leia os painéis",
+              "text": "Os postos têm painéis com os preços por tipo de veículo. Procure a linha das motas («xe máy») e veja se indica isenção ou um valor."
+            },
+            {
+              "title": "Siga as filas e os sinais",
+              "text": "Não passe por uma cabine reservada a outro tipo de veículo. Se não houver fila de motas, pergunte ao funcionário para onde deve seguir."
+            },
+            {
+              "title": "Pergunte o valor antes de pagar",
+              "text": "Se lhe pedirem dinheiro, pergunte quanto é e compare com o painel. Leve notas pequenas e conte os zeros antes de entregar."
+            },
+            {
+              "title": "Peça o talão e guarde-o",
+              "text": "Em vietnamita, «vé» é o bilhete e «hóa đơn» é a fatura. Fotografe o painel e o talão, o que dá uma prova do que pagou."
+            }
+          ]
+        },
+        "Se não houver clareza, o melhor é seguir o fluxo dos outros motociclistas e evitar discussões. Qualquer cobrança é feita pelo operador do posto, não pela loja de aluguer."
+      ]
+    },
+    {
+      "h2": "Como planear um trajeto de mota sem autoestradas",
+      "body": [
+        "O perigo mais realista para um turista não é pagar uma portagem a mais: é seguir a navegação e acabar numa autoestrada. As aplicações de mapas nem sempre distinguem veículos, e uma rota «mais rápida» pode apontar para uma via vedada às motas.",
+        {
+          "ul": [
+            "Antes de partir, escolha o modo de transporte para motas na aplicação de mapas, se existir, e confirme que o trajeto segue estradas nacionais («QL»).",
+            "Desconfie de rotas com nomes que incluam «cao tốc» e de entradas com sinais de proibição para motas. Se vir o sinal, não entre.",
+            "Conte com mais tempo do que a navegação indica: nas estradas nacionais há camiões, cruzamentos e trânsito misto.",
+            "Para sair de Hanói, leia primeiro o guia sobre a [autorização para levar a mota para fora de Hanói](/guia-de-aluguer/autorizacao-para-sair-de-hanoi/) e combine o trajeto com a loja."
+          ]
+        },
+        "Se a viagem for longa ou pelas montanhas do norte, considere outras opções: o guia sobre [Hạ Long sem conduzir](/rotas-e-mobilidade/ha-long-sem-conduzir/) mostra uma alternativa à mota para uma excursão de um dia.",
+        "Antes de qualquer saída longa, o guia sobre [como receber a mota](/guia-de-aluguer/receber-a-mota/) lista o que verificar à entrega, e o artigo sobre os [custos de furos e reparações](/precos/custo-de-furos-e-reparacoes/) ajuda a perceber o que pode pesar numa saída mais longa."
+      ]
+    },
+    {
+      "h2": "O que perguntar à loja antes de partir",
+      "body": [
+        "A tabela de preços do aluguer cobre a mota; as despesas de estrada, como uma eventual portagem ou o estacionamento, são pagas a terceiros. Antes de uma saída fora de Hanói, vale a pena fazer três perguntas à loja pelos [contactos](/contactos/):",
+        {
+          "checklist": [
+            "O trajeto que tenho em mente segue estradas permitidas às motas, ou há troços de autoestrada que devo evitar?",
+            "Há postos de portagem nesse trajeto e a loja sabe se as motas pagam?",
+            "Posso levar a mota para essa zona e o que devo combinar antes de sair de Hanói?"
+          ]
+        },
+        "Registe as respostas por escrito. A [página de preços](/precos/) reúne o que a tabela cobre, e a lista dos [custos extra](/precos/custos-alem-do-preco/) ajuda a distinguir o que está dentro e fora do preço do aluguer."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "As motas pagam portagem no Vietname?",
+      "a": "Nas autoestradas não se paga nada, porque as motas não podem entrar. Nas estradas nacionais com portagem BOT, as fontes consultadas indicam que as motas estão isentas, mas não lemos o texto da lei que o confirma. Confirme no painel do posto antes de pagar."
+    },
+    {
+      "q": "Posso entrar numa autoestrada de mota se pagar a portagem?",
+      "a": "Não. Motociclos e ciclomotores estão proibidos nas autoestradas. A coima do Decreto 168/2024 é de 4 a 6 milhões de VND e 6 pontos, e a polícia já multou motociclistas, incluindo estrangeiros, por entrarem nelas."
+    },
+    {
+      "q": "Quanto é a portagem de uma mota numa estrada nacional?",
+      "a": "Não conseguimos confirmar montantes, e as fontes indicam que as motas podem estar isentas. Se lhe pedirem dinheiro num posto, pergunte o valor, compare com o painel de preços por tipo de veículo e peça o talão."
+    },
+    {
+      "q": "Há portagens nas pontes de Hanói?",
+      "a": "Não encontrámos fontes sobre portagens locais em pontes ou túneis para motas, nem sobre a cobrança do BOT «Xa lộ Hà Nội». Por isso, não damos valores nem isenções. Pergunte à loja se o seu trajeto passa por algum posto."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Mức xử phạt năm 2026 đối với hành vi đi xe máy trên cao tốc?",
+      "publisher": "Thư Viện Pháp Luật",
+      "url": "https://thuvienphapluat.vn/ma-so-thue/phap-luat-thue/muc-xu-phat-nam-2026-doi-voi-hanh-vi-di-xe-may-tren-cao-toc-936922-220346.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "Notícia sobre a Polícia de Trânsito de Hanói a multar motociclistas que entraram numa autoestrada (em vietnamita)",
+      "publisher": "Đại biểu Nhân dân",
+      "url": "https://daibieunhandan.vn/canh-sat-giao-thong-ha-noi-xu-phat-nhieu-nguoi-dieu-khien-xe-may-di-vao-duong-cao-toc-10381692.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    "dtinews-autoestrada-2026",
+    {
+      "title": "THÔNG TƯ QUY ĐỊNH VỀ QUẢN LÝ GIÁ DỊCH VỤ SỬ DỤNG ĐƯỜNG BỘ CỦA CÁC DỰ ÁN BOT DO TRUNG ƯƠNG QUẢN LÝ (Thông tư 32/2024/TT-BGTVT)",
+      "publisher": "caselaw.vn",
+      "url": "https://caselaw.vn/van-ban-phap-luat/412280-thong-tu-so-32-2024-tt-bgtvt-ngay-13-11-2024-cua-bo-truong-bo-giao-thong-van-tai-quy-dinh-ve-quan-ly-gia-dich-vu-su-dung-duong-bo-cua-cac-du-an-dau-tu-xay-dung-duong-bo-de-kinh-doanh-do-trung-uong-quan-ly",
+      "accessed": "2026-10-14",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "Xe thô sơ có được miễn phí qua trạm thu phí BOT không?",
+      "publisher": "Thư viện Pháp luật",
+      "url": "https://thuvienphapluat.vn/ma-so-thue/phap-luat-thue/xe-tho-so-co-duoc-mien-phi-qua-tram-thu-phi-bot-khong-283338-194947.html",
+      "accessed": "2026-10-14",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "Nhóm phương tiện nào được miễn phí qua trạm thu phí đường bộ",
+      "publisher": "Báo Thanh tra",
+      "url": "https://thanhtra.com.vn/hoan-thien-the-che-D4AD3DB96/nhom-phuong-tien-nao-duoc-mien-phi-qua-tram-thu-phi-duong-bo-1c04595ae.html",
+      "accessed": "2026-10-14",
+      "type": "news",
+      "lang": "vi"
+    },
+    "hanoi-resolucao-56-2026"
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "READY_FOR_QA"
+}
