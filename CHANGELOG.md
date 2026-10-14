@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.7.3 — 2026-10-14 · auditoria do site real tolerante ao deploy
+
+- `scripts/audit-live.mjs` repete (3 s, depois 6 s) os pedidos que recebem 5xx ou um erro de ligação antes de os contar como erro: o GitHub Pages responde 503 durante alguns segundos enquanto um deploy se propaga, o que deixou vermelha a execução do SEO Monitor sobre o #17 sem que o site estivesse avariado. O resumo indica quantas respostas transitórias foram repetidas; `--retries 0` desliga.
+
 ## 1.7.2 — 2026-10-14 · meta descriptions e os últimos P2 da matriz
 
 - **49 meta descriptions reescritas** (revisões que mantêm URL e data de publicação): cada uma responde à pesquisa principal do artigo com as palavras da própria pesquisa, 120–160 caracteres, sem afirmações que o artigo não faça. Nenhum título, H1 ou corpo mudou.

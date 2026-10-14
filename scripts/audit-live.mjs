@@ -41,7 +41,7 @@ const W = (where, msg) => warnings.push(`${where}: ${msg}`);
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 const sha = (buf) => crypto.createHash('sha256').update(buf).digest('hex');
 
-async function get(url, { redirect = 'manual', timeout = 20000 } = {}) {
+async function fetchOnce(url, { redirect, timeout }) {
   const t0 = performance.now();
   try {
     const res = await fetch(url, { redirect, headers: { 'user-agent': UA, 'accept-language': 'pt-PT,pt;q=0.9', 'accept-encoding': 'gzip, br' }, signal: AbortSignal.timeout(timeout) });
@@ -49,6 +49,21 @@ async function get(url, { redirect = 'manual', timeout = 20000 } = {}) {
     return { url, status: res.status, headers: res.headers, body, text: body.toString('utf8'), ms: Math.round(performance.now() - t0), location: res.headers.get('location') };
   } catch (e) {
     return { url, status: 0, error: e.cause?.code || e.cause?.message || e.name || String(e), ms: Math.round(performance.now() - t0) };
+  }
+}
+
+// GitHub Pages can answer 5xx for a few seconds while a deploy propagates through its CDN. Such
+// answers (and connection errors other than a timeout) are retried with a short back-off before they
+// count, so a red run means the site is really broken and not that the audit raced the deploy.
+const RETRIES = Math.max(0, Number(opt('--retries', 2)) || 0);
+let retried = 0;
+async function get(url, { redirect = 'manual', timeout = 20000, retries = RETRIES } = {}) {
+  for (let attempt = 0; ; attempt++) {
+    const r = await fetchOnce(url, { redirect, timeout });
+    const transient = r.status >= 500 || (r.status === 0 && r.error !== 'TimeoutError');
+    if (!transient || attempt >= retries) return attempt ? { ...r, retries: attempt } : r;
+    retried++;
+    await sleep(3000 * (attempt + 1));
   }
 }
 
@@ -302,6 +317,7 @@ function finish() {
   };
   for (const w of warnings) console.warn(`WARN  ${w}`);
   for (const e of errors) console.error(`ERROR ${e}`);
+  if (retried) notes.push(`${retried} transient answer(s) (5xx or connection error) retried before counting`);
   for (const n of notes) console.log(`note  ${n}`);
   console.log(`Live audit ${BASE}: ${summary.pages} URLs, ${summary.sitemap_urls} in sitemap — ${errors.length} errors, ${warnings.length} warnings`);
   const reportFile = opt('--report');

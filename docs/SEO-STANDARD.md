@@ -55,7 +55,7 @@ Mỗi URL đã build được chấm P0/P1/P2 từ HTML sinh ra, sitemap, `llms.
 
 ## Giám sát site thật (SEO Monitor, `scripts/audit-live.mjs`)
 
-HTTPS và chuyển hướng http→https, github.io→domain riêng, robots.txt, sitemap.xml, mọi URL trong sitemap và mọi link nội bộ (status, chuyển hướng, canonical, robots/X-Robots-Tag, title trùng, meta description, H1, `lang`, JSON-LD và NAP), asset, mixed content, soft 404, trùng URL có/không có `/` cuối, gzip/br, dung lượng, thời gian phản hồi, so sánh nội dung live với repo (phát hiện deploy chậm), link ngoài và độ mới của nguồn (theo tuần). IndexNow báo cho Bing các URL thay đổi.
+HTTPS và chuyển hướng http→https, github.io→domain riêng, robots.txt, sitemap.xml, mọi URL trong sitemap và mọi link nội bộ (status, chuyển hướng, canonical, robots/X-Robots-Tag, title trùng, meta description, H1, `lang`, JSON-LD và NAP), asset, mixed content, soft 404, trùng URL có/không có `/` cuối, gzip/br, dung lượng, thời gian phản hồi, so sánh nội dung live với repo (phát hiện deploy chậm), link ngoài và độ mới của nguồn (theo tuần). Trả lời 5xx hoặc lỗi kết nối được thử lại (3 s rồi 6 s) trước khi tính là lỗi, vì GitHub Pages có thể trả 503 vài giây khi deploy đang lan truyền; Summary ghi số lần thử lại (`--retries 0` để tắt). IndexNow báo cho Bing các URL thay đổi.
 
 ## Ngôn ngữ (qa-site cảnh báo, qa-factory chặn)
 
