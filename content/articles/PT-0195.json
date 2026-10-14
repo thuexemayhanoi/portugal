@@ -1,0 +1,277 @@
+{
+  "contract_version": 1,
+  "id": "PT-0195",
+  "slug": "imprevistos-na-estrada",
+  "title": "Imprevistos na estrada de mota: animais, obras e buracos",
+  "description": "Animais, obras e buracos: como reagir de mota a um obstáculo inesperado, travar a direito e desviar, segundo manuais oficiais, e o que falta confirmar.",
+  "h1": "Quando a estrada surpreende: obstáculos, animais e obras de mota no Vietname",
+  "summary": "Perante um obstáculo inesperado, abrande cedo, olhe para onde quer ir, use os dois travões e trave antes de desviar, nunca ao mesmo tempo. As técnicas vêm de manuais oficiais estrangeiros para motas, e não de regras do Vietname, onde não encontrámos orientação sobre animais, buracos ou obras.",
+  "key_points": [
+    "Numa emergência, use os dois travões: segundo manuais da Honda, o da frente dá cerca de 70% da travagem. Se a roda bloquear, solte, endireite a mota e volte a travar com suavidade.",
+    "Trave antes de desviar ou depois, nunca ao mesmo tempo, porque o desvio exige muita aderência.",
+    "Perante um animal, abrande e mantenha-se na faixa se houver trânsito: atingir um animal pequeno é menos perigoso do que uma colisão com um grande ou com um objeto.",
+    "Num buraco inevitável, abrande antes e segure o guiador com firmeza; depois pare fora da estrada e verifique pneus e jantes.",
+    "Nas obras, os sinais temporários prevalecem sobre os fixos, e barreiras e agentes mandam mais do que o mapa."
+  ],
+  "intro": [
+    "Um cão a atravessar, uma chapa de obras a meio da faixa, um buraco cheio de água: são imprevistos que qualquer pessoa que conduza uma mota encontra mais cedo ou mais tarde, no Vietname como em qualquer lado. O que decide o resultado é quase sempre o que fez nos dois segundos antes de chegar ao obstáculo.",
+    "Este guia junta as técnicas que manuais oficiais ensinam para estes casos e diz com clareza o que não conseguimos confirmar para o Vietname. As técnicas vêm de manuais dos Estados Unidos, de manuais da Honda e de uma norma vietnamita de sinalização, consultados em outubro de 2026. Estão pensadas para motas com pedais, não para scooters, e valem como boas práticas, e não como regras do Vietname."
+  ],
+  "sections": [
+    {
+      "h2": "De onde vêm estas técnicas e o que não cobrem",
+      "body": [
+        "Não encontrámos nenhum manual vietnamita, oficial ou de formação, sobre como reagir a animais, buracos ou obras. As fontes são manuais estatais de motas dos Estados Unidos (Oregon, Nova Iorque, Washington e Geórgia) e manuais de proprietário da Honda.",
+        "Isto tem um limite importante: esses manuais descrevem motas com pedais, e as scooters que mais se alugam em Hanói têm piso plano e travões diferentes. Quando um conselho não se aplica a uma scooter, dizemo-lo. O que fica é o essencial, que é transferível: olhar longe, abrandar cedo, travar a direito.",
+        "Para a técnica de olhar longe e guardar margem, veja a [condução defensiva](/guia-de-aluguer/conducao-defensiva/). Este guia trata do que fazer quando a margem já não chega."
+      ]
+    },
+    {
+      "h2": "A reação de base: abrandar, olhar, travar, desviar",
+      "body": [
+        "Perante qualquer obstáculo, a ordem é a mesma. Primeiro, abrande, porque cada quilómetro por hora a menos encurta a distância de paragem. Depois, olhe para onde quer ir e não para o obstáculo: a mota tende a seguir o olhar. Só então decida entre travar e desviar.",
+        "O manual do Oregon é claro num ponto: trave antes ou depois do desvio, e nunca ao mesmo tempo. Para desviar, o manual de Washington descreve uma pressão firme no punho do lado para onde quer ir e, passado o obstáculo, no punho contrário para voltar à faixa. O desvio exige muita aderência, o que o torna pouco recomendável em piso molhado ou sujo.",
+        {
+          "steps": [
+            {
+              "title": "Abrande e olhe",
+              "text": "Tire o acelerador assim que vir o obstáculo e olhe para o espaço livre ao lado dele, e não para o obstáculo."
+            },
+            {
+              "title": "Trave a direito",
+              "text": "Se houver espaço para parar, trave com os dois travões, com a mota direita, antes de decidir mais alguma coisa."
+            },
+            {
+              "title": "Desvie só se for preciso",
+              "text": "Se não houver espaço para parar, desvie com um movimento curto e suave, sem travar ao mesmo tempo."
+            },
+            {
+              "title": "Volte à faixa",
+              "text": "Depois do obstáculo, regresse à sua faixa com o movimento contrário e olhe para os espelhos antes de acelerar."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "Travagem de emergência: os dois travões",
+      "body": [
+        "Os manuais de proprietário da Honda e o manual da Geórgia coincidem: em regra, o travão da frente dá cerca de 70% da força total de travagem, e para parar com eficácia usam-se os dois ao mesmo tempo. Uma seguradora da Harley-Davidson fala em cerca de 90% à frente numa emergência, mas é uma fonte comercial.",
+        "O quadro do manual da Geórgia compara a mesma situação de ensaio, sem velocidade indicada. Com os dois travões, a distância é de 95 pés, cerca de 29 metros. Só com o da frente, são 130 pés, cerca de 40 metros, e só com o de trás, 180 pés, cerca de 55 metros. As conversões são nossas. O que conta é a ordem: os dois travões param mais depressa do que qualquer um deles sozinho.",
+        "Travar com demasiada força pode bloquear a roda e fazer a mota derrapar. Nesse caso, os manuais da Honda mandam soltar os travões, manter a direção a direito até recuperar o controlo e voltar a travar com mais suavidade. O ABS tem limites: piso molhado e estradas sujas afetam a travagem, mesmo com ele.",
+        "Muitas scooters usam um sistema de travagem combinada (CBS), em que uma só manete trava as duas rodas. O guia sobre [travões CBS e ABS](/tipos-de-motas/travoes-cbs-e-abs/) explica como saber o que a sua tem, e o guia para [verificar os travões](/guia-de-aluguer/verificar-os-travoes/) mostra o teste de dois minutos antes de sair."
+      ]
+    },
+    {
+      "h2": "Animais na estrada",
+      "body": [
+        "Não encontrámos regras vietnamitas sobre animais na estrada, nem sobre búfalos ou cães em particular. O que os manuais estaduais dizem, em resumo, é o seguinte.",
+        {
+          "ul": [
+            "Evite o animal se for seguro. Havendo trânsito, mantenha-se na faixa: atingir um animal pequeno é menos perigoso do que uma colisão com um animal grande ou com um objeto.",
+            "Perante animais grandes, o manual de Nova Iorque diz para travar e preparar-se para parar, porque são imprevisíveis.",
+            "Com um cão, abrande até ele estar perto da mota e acelere ao afastar-se. Não lhe dê pontapés: dificulta o controlo da mota."
+          ]
+        },
+        "Os manuais falam de reduzir mudanças, o que não existe numa scooter automática. O princípio é o mesmo: chegar ao animal devagar, sem movimentos bruscos. Fora das cidades, e ao anoitecer, o risco de um animal surgir na estrada aumenta, por isso reduza a velocidade nesses troços. Este último ponto é conselho nosso, e não vem das fontes. Para a condução fora de Hanói, veja [conduzir de mota à noite](/guia-de-aluguer/conduzir-de-mota-a-noite/)."
+      ]
+    },
+    {
+      "h2": "Buracos e detritos",
+      "body": [
+        "Perante um buraco ou um objeto na estrada, o manual de Nova Iorque manda tentar evitá-lo, abrandando ou contornando. Se passar por cima for inevitável, a sua técnica é levantar-se nos apoios dos pés para absorver o choque, dar um pouco de acelerador para aliviar a roda da frente logo antes do impacto e, depois de parar fora da estrada, verificar pneus e jantes.",
+        "Levantar-se nos apoios dos pés não é possível numa scooter, com piso plano, e não encontrámos o equivalente para elas. Por isso, não transponha esse conselho. O que podemos aconselhar, sem apoio das fontes, é o essencial: abrande antes do buraco, mantenha a mota direita, segure o guiador com firmeza e não trave em cima dele.",
+        "Com chuva, um buraco cheio de água esconde a profundidade, e as tampas de esgoto, as marcas pintadas e as chapas metálicas ficam escorregadias. Não encontrámos dados vietnamitas sobre estes casos, por isso trate-os como piso desconhecido e veja o guia de [conduzir à chuva](/guia-de-aluguer/piso-molhado-e-chuva/).",
+        "Depois de um impacto forte, pare num sítio seguro e olhe para os pneus e para as jantes. Se um pneu ficar danificado, o guia do [furo na mota alugada](/guia-de-aluguer/furo-na-mota-alugada/) diz o que fazer, e o guia [pneus e pressão](/guia-de-aluguer/pneus-e-pressao/) explica o que ver antes de sair."
+      ]
+    },
+    {
+      "h2": "Obras e sinalização no Vietname",
+      "body": [
+        "Sobre obras, temos mais factos, vindos da norma vietnamita de sinalização rodoviária, a QCVN 41:2024/BGTVT, em vigor desde 1 de janeiro de 2025. Reproduzimo-los como os encontrámos em bases jurídicas, que são fontes secundárias.",
+        {
+          "ul": [
+            "As barreiras fixas ficam em estreitamentos da via, em cabeceiras de pontes e de aquedutos e no início de troços proibidos ou sem saída, com refletores ou pintura refletora (artigo 58.º).",
+            "As barreiras móveis têm 0,85 m de altura e servem para controlar a circulação (artigo 59.º).",
+            "Num troço com incidente, coloca-se uma barreira com o sinal P.101, «Đường cấm», que significa estrada proibida (artigo 75.º).",
+            "O sinal de obras tem o código W.227 («biển báo công trường»), mas só encontrámos o título, sem descrição."
+          ]
+        },
+        "A mesma norma fixa a prioridade dos sinais: as indicações do agente, depois os semáforos, os sinais verticais, as marcas no pavimento e, por fim, outros dispositivos como as barreiras. Um sinal temporário prevalece sobre um sinal fixo com significado diferente no mesmo local, o que importa nas obras.",
+        "O que não encontrámos foram as obrigações de quem conduz uma mota ao passar por obras: velocidade a respeitar, desvios ou coimas. A atitude prudente é abrandar, seguir os agentes e as barreiras, e não contornar as barreiras nem subir ao passeio, que dá coima de 4 a 6 milhões de VND. Veja os guias dos [sinais de trânsito vietnamitas](/guia-de-aluguer/sinais-de-transito-vietnamitas/) e das [vias proibidas a motas](/guia-de-aluguer/vias-proibidas-a-motas-em-hanoi/)."
+      ]
+    },
+    {
+      "h2": "Se houver queda ou contacto",
+      "body": [
+        "Se o imprevisto acabar em queda ou em contacto com outro veículo, o essencial vem em primeiro lugar: a segurança de quem está ferido. Ligue para a ambulância se houver feridos, e avise a loja, em {{phone}}, e diga onde está.",
+        "Segundo a imprensa, a Lei n.º 36/2024/QH15 prevê, no local do acidente, parar de imediato, ligar os sinais de perigo, manter o local inalterado, ajudar as vítimas e avisar a polícia, a unidade de saúde ou o Comité Popular mais próximos. O artigo exato e as restantes alíneas não foram confirmados. O guia [acidente com mota alugada](/guia-de-aluguer/acidente-com-mota-alugada/) e a lista dos [números de emergência](/guia-de-aluguer/numeros-de-emergencia/) dizem o que fazer a seguir.",
+        "Antes de alugar, pergunte à loja o que acontece se a mota ficar danificada num buraco ou numa queda. O guia dos [danos na mota alugada](/precos/danos-na-mota-alugada/) e a [documentação e a caução](/guia-de-aluguer/documentacao-e-caucao/) ajudam a preparar as perguntas."
+      ]
+    },
+    {
+      "h2": "Lista rápida para cada saída",
+      "body": [
+        {
+          "checklist": [
+            "Travões testados antes de sair, com os dois comandos.",
+            "Olhar longe, para o fim da rua, e não só para a mota da frente.",
+            "Velocidade que permita parar antes do obstáculo que não vê.",
+            "Dois travões em qualquer emergência, e nunca travar e desviar ao mesmo tempo.",
+            "Em obras, seguir agentes e barreiras e abrandar.",
+            "Contacto da loja, {{phone}}, e morada em vietnamita, {{address.vi}}, no telemóvel."
+          ]
+        },
+        "Se ainda não treinou a mota alugada, o plano de [treinar antes do trânsito](/guia-de-aluguer/treinar-antes-do-transito/) e os [primeiros dias a conduzir](/guia-de-aluguer/primeiros-dias-a-conduzir/) preparam a sua primeira saída. Para as zonas mais densas, o guia sobre [conduzir no Bairro Antigo](/zonas-de-hanoi/conduzir-no-bairro-antigo/) é o próximo passo, e o [guia de aluguer](/guia-de-aluguer/) reúne o resto."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Devo travar ou desviar quando surge um obstáculo?",
+      "a": "Se houver espaço para parar, trave com os dois travões e com a mota direita. Se não houver, desvie com um movimento curto, mas nunca trave ao mesmo tempo: o manual do Oregon manda travar antes ou depois do desvio."
+    },
+    {
+      "q": "Posso usar só o travão de trás numa emergência?",
+      "a": "Não é o mais eficaz. Segundo o manual da Geórgia, só com o de trás a distância é de cerca de 55 metros, contra cerca de 29 com os dois, no mesmo ensaio. Use os dois, com suavidade."
+    },
+    {
+      "q": "O que faço se a roda bloquear ao travar?",
+      "a": "Os manuais da Honda mandam soltar os travões, manter a direção a direito até recuperar o controlo e voltar a travar com mais suavidade. Não tente corrigir a trajetória com a roda bloqueada."
+    },
+    {
+      "q": "Há regras vietnamitas para animais, buracos e obras?",
+      "a": "Não as encontrámos. Só confirmámos a norma de sinalização de obras (QCVN 41:2024/BGTVT). As técnicas deste guia vêm de manuais estrangeiros e valem como boas práticas, e não como lei vietnamita."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Georgia Motorcycle Operator Manual — travagem e distâncias de paragem",
+      "publisher": "Georgia Department of Driver Services (EUA)",
+      "url": "https://dds.georgia.gov/node/33951",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "title": "Honda VT750C2B — manual do proprietário, p. 54",
+      "publisher": "Honda (cópia alojada em bike-parts.fr)",
+      "url": "https://www.bike-parts.fr/thumbs/pdf_url/img/owner_manuals/owner_VT750C2BA/2500_2500/0054.pdf",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "en"
+    },
+    {
+      "title": "Honda VT1300CX — manual do proprietário, p. 55",
+      "publisher": "Honda (cópia alojada em bike-parts.fr)",
+      "url": "https://www.bike-parts.fr/thumbs/pdf_url/img/owner_manuals/owner_VT1300CXA_CXAA/2500_2500/0055.pdf",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "en"
+    },
+    {
+      "title": "Mastering motorcycle braking",
+      "publisher": "Harley-Davidson Insurance",
+      "url": "https://www.insurance.harley-davidson.com/resources/mastering-motorcycle-braking",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "en"
+    },
+    {
+      "title": "What Is The 70/30 Brake Rule For Motorcycles?",
+      "publisher": "SlashGear",
+      "url": "https://www.slashgear.com/2192377/what-is-70-30-brake-rule-motorcycles/",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "en"
+    },
+    {
+      "title": "Oregon Department of Transportation: Section Six - Roadway Management (Online Motorcycle & Moped Manual)",
+      "publisher": "Oregon DMV (oregon.gov)",
+      "url": "https://www.oregon.gov/odot/dmv/pages/online_motorcycle_moped_manual/section_6.aspx",
+      "accessed": "2026-10-14",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "title": "Motorcycle Manual: Ride Within Your Abilities",
+      "publisher": "New York State DMV",
+      "url": "https://dmv.ny.gov/motorcycle-manual/motorcycle-manual-ride-within-your-abilities",
+      "accessed": "2026-10-14",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "title": "Motorcycle Operator Manual (text-only)",
+      "publisher": "Washington State Department of Licensing (dol.wa.gov)",
+      "url": "https://dol.wa.gov/driver-licenses-and-permits/motorcycle/motorcycle-endorsement-training-and-testing/motorcycle-operator-manual/motorcycle-operator-manual-text-only",
+      "accessed": "2026-10-14",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "title": "Điều 58 Quy chuẩn kỹ thuật quốc gia QCVN 41:2024/BGTVT về Báo hiệu đường bộ",
+      "publisher": "hethongphapluat.com",
+      "url": "https://hethongphapluat.com/quy-chuan-ky-thuat-quoc-gia-qcvn-41-2024-bgtvt-ve-bao-hieu-duong-bo/dieu-58",
+      "accessed": "2026-10-14",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "Điều 59 Quy chuẩn kỹ thuật quốc gia QCVN 41:2024/BGTVT về Báo hiệu đường bộ",
+      "publisher": "hethongphapluat.com",
+      "url": "https://hethongphapluat.com/quy-chuan-ky-thuat-quoc-gia-qcvn-41-2024-bgtvt-ve-bao-hieu-duong-bo/dieu-59",
+      "accessed": "2026-10-14",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "Điều 75 Quy chuẩn kỹ thuật quốc gia QCVN 41:2024/BGTVT về Báo hiệu đường bộ",
+      "publisher": "hethongphapluat.com",
+      "url": "https://hethongphapluat.com/quy-chuan-ky-thuat-quoc-gia-qcvn-41-2024-bgtvt-ve-bao-hieu-duong-bo/dieu-75",
+      "accessed": "2026-10-14",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "Biển báo công trường W227",
+      "publisher": "hoatieu.vn",
+      "url": "https://hoatieu.vn/bieu-mau/bien-bao-cong-truong-w227-168081",
+      "accessed": "2026-10-14",
+      "type": "reference",
+      "lang": "vi"
+    },
+    {
+      "title": "Cập nhật QCVN 41:2024/BGTVT về báo hiệu đường bộ",
+      "publisher": "Thư viện Nhà đất",
+      "url": "https://thuviennhadat.vn/phap-luat/cap-nhat-qcvn-412024bgtvt-ve-bao-hieu-duong-bo-641069.html",
+      "accessed": "2026-10-13",
+      "type": "reference",
+      "lang": "vi"
+    },
+    {
+      "title": "Mức phạt đỗ xe máy, đi xe máy trên vỉa hè năm 2026 là bao nhiêu?",
+      "publisher": "Thư viện Pháp luật",
+      "url": "https://thuvienphapluat.vn/phap-luat-nha-dat/muc-phat-do-xe-may-di-xe-may-tren-via-he-nam-2026-la-bao-nhieu-14552.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    }
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "PUBLISHED",
+  "date_published": "2026-10-14",
+  "date_modified": "2026-10-14",
+  "editorial": {
+    "qa_score": 100,
+    "qa_warnings": [],
+    "words": 1921,
+    "publish_mode": "review",
+    "approved_at": "2026-10-14",
+    "revisions": []
+  }
+}

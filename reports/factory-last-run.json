@@ -2,17 +2,23 @@
   "command": "approve",
   "run_on": "2026-10-14",
   "status": "ACTIVE",
-  "published_total": 238,
+  "published_total": 300,
   "in_review": [],
   "processed": [
     {
-      "id": "PT-0039",
+      "id": "PT-0294",
+      "result": "PUBLISH",
+      "warnings": []
+    },
+    {
+      "id": "PT-0295",
       "result": "PUBLISH",
       "warnings": []
     }
   ],
   "published": [
-    "PT-0039"
+    "PT-0294",
+    "PT-0295"
   ],
   "failed": []
 }

@@ -1,0 +1,267 @@
+{
+  "contract_version": 1,
+  "id": "PT-0121",
+  "slug": "hanoi-ou-outras-cidades",
+  "title": "Aluguer de mota em Hanói ou em Ho Chi Minh: o que muda",
+  "description": "As regras de condução são nacionais; o que muda de cidade para cidade é o clima, as restrições locais, as coimas e a loja. Veja o que perguntar.",
+  "h1": "Alugar mota em Hanói ou noutra cidade do Vietname: o que muda de facto",
+  "summary": "As regras de condução que um visitante precisa de conhecer, como a carta, o capacete, o álcool e as autoestradas, são nacionais e não mudam de Hanói para Ho Chi Minh. O que muda é o clima, as restrições locais ao centro das cidades, o agravamento de coimas em Hanói e as condições de cada loja, que convém perguntar sempre.",
+  "key_points": [
+    "A lei da carta, do capacete, do álcool e das autoestradas é a mesma no país inteiro: não muda por mudar de cidade.",
+    "O clima é a diferença mais clara: Hanói tem inverno, com dias frescos e húmidos; Ho Chi Minh tem calor todo o ano e uma estação das chuvas de maio a novembro, segundo guias de viagem.",
+    "Hanói tem regras próprias em 2026: a zona de baixas emissões e coimas agravadas desde 1 de julho. Em Ho Chi Minh, o que encontrámos foram planos para o centro, e não uma regra para turistas.",
+    "Não comparamos preços nem condições de lojas de outras cidades, porque não há fontes verificadas e cada loja define as suas.",
+    "Noutra cidade, faça as mesmas perguntas que faria em Hanói e acrescente as que dependem do clima e do itinerário."
+  ],
+  "intro": [
+    "Quem planeia uma viagem pelo Vietname pergunta com frequência se vale a pena alugar uma mota só em Hanói ou também em Ho Chi Minh, ou noutra cidade. A pergunta esconde duas dúvidas: se as regras mudam e se a experiência é a mesma.",
+    "Este guia separa o que sabemos do que não sabemos. As regras nacionais, o clima e as restrições locais de Hanói têm fontes; sobre o trânsito, as lojas e os preços de outras cidades não temos dados verificados, e por isso não os comparamos. A loja {{brand}} fica em {{area}}, e tudo o que aqui se diz sobre a loja diz respeito apenas a Hanói."
+  ],
+  "sections": [
+    {
+      "h2": "O que não muda: a lei do trânsito é nacional",
+      "body": [
+        "O código da estrada vietnamita, a Lei 36/2024 sobre a ordem e a segurança do trânsito rodoviário, aplica-se ao país inteiro, e os decretos de coimas também. As fontes que consultámos não distinguem Hanói de Ho Chi Minh nestes pontos. Aqui ficam os essenciais, a confirmar sempre na data da sua viagem:",
+        {
+          "table": {
+            "caption": "Regras nacionais para quem aluga uma mota (verificadas a 14 de outubro de 2026)",
+            "head": [
+              "Tema",
+              "O que as fontes dizem"
+            ],
+            "rows": [
+              [
+                "Carta",
+                "Desde 1 de janeiro de 2025, a categoria A1 cobre os motociclos até 125 cm³ e os elétricos até 11 kW; acima disso, é exigida a categoria A"
+              ],
+              [
+                "Licença internacional",
+                "O visitante conduz com a carta do seu país e uma licença internacional reconhecida no Vietname, como explica o guia da [licença internacional de condução](/guia-de-aluguer/licenca-internacional-de-conducao/)"
+              ],
+              [
+                "Capacete",
+                "Obrigatório para o condutor e o passageiro; a coima por não o usar ou não o apertar é de 400 mil a 600 mil VND, segundo o Decreto 168/2024"
+              ],
+              [
+                "Álcool",
+                "Desde 1 de janeiro de 2025, a lei proíbe conduzir com qualquer concentração de álcool, sem margem de tolerância"
+              ],
+              [
+                "Autoestradas",
+                "Vedadas às motas: coima de 4 a 6 milhões de VND e perda de 6 pontos; motociclistas estrangeiros foram multados em fevereiro de 2026"
+              ]
+            ]
+          }
+        },
+        "Por isso, o que levar para alugar uma mota é o mesmo em qualquer cidade. O guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/) lista os documentos, e o artigo sobre [quando não conduzir](/rotas-e-mobilidade/quando-nao-conduzir/) reúne as situações em que a decisão certa é deixar a mota parada, em qualquer cidade."
+      ]
+    },
+    {
+      "h2": "Clima: onde a diferença é maior",
+      "body": [
+        "É no tempo que Hanói e Ho Chi Minh mais se distinguem, e é o que mais muda o dia a dia em cima de uma mota. As temperaturas que se seguem vêm de guias de viagem comerciais, que divergem entre si. Servem como ordem de grandeza e não como previsão.",
+        {
+          "table": {
+            "caption": "Clima de Hanói e de Ho Chi Minh, segundo guias de viagem e o WeatherSpark",
+            "head": [
+              "",
+              "Hanói",
+              "Ho Chi Minh"
+            ],
+            "rows": [
+              [
+                "Estações",
+                "Quatro estações, com um inverno real",
+                "Sem inverno: cerca de 28 °C todo o ano"
+              ],
+              [
+                "Médias de referência",
+                "Janeiro: mínimas de cerca de 14 °C e máximas de 20 °C; junho: mínimas de 26 °C e máximas de 33 °C, segundo o WeatherSpark",
+                "Sem dados comparáveis nas fontes consultadas"
+              ],
+              [
+                "Época fresca",
+                "De dezembro a fevereiro, fresca e húmida, entre 10 e 18 °C, com descidas a cerca de 8 °C nas vagas de frio e chuvisco",
+                "Não existe"
+              ],
+              [
+                "Época quente",
+                "O verão é quente e húmido: um guia fala em 35 °C com 85 % de humidade e sensação de 40 °C",
+                "Quente todo o ano"
+              ],
+              [
+                "Chuva",
+                "Estação quente e chuvosa de maio a setembro, segundo guias de viagem; o auge das chuvas vai de junho a agosto, segundo o portal oficial de turismo do Vietname",
+                "Estação das chuvas de maio a novembro e estação seca de dezembro a abril, com aguaceiros fortes ao fim da tarde"
+              ]
+            ]
+          }
+        },
+        "A melhor época também depende da fonte. Um guia sugere novembro a março para ir ao sul e, em geral, outubro a abril, com Hanói também bom nessa altura; outro diz que o outono, em outubro e novembro, é o melhor período em Hanói. Para Hanói, o artigo sobre a [melhor época para andar de mota](/rotas-e-mobilidade/melhor-epoca-para-andar-de-mota/) reúne as fontes mês a mês.",
+        {
+          "h3": "O que isto muda na mota"
+        },
+        "Estas são sugestões de prudência, e não regras. Em Hanói, de dezembro a fevereiro, a roupa por camadas e o corta-vento contam mais do que o capacete: o [inverno em Hanói](/rotas-e-mobilidade/inverno-em-hanoi/) tem guia próprio. No verão, o calor e as chuvadas fazem parte do planeamento, como descrevem os guias do [verão e calor](/rotas-e-mobilidade/verao-e-calor-em-hanoi/) e da [época das chuvas](/rotas-e-mobilidade/epoca-das-chuvas-em-hanoi/).",
+        "Numa cidade com aguaceiros fortes ao fim da tarde, como Ho Chi Minh na estação das chuvas, convém ter a capa de chuva sempre à mão e planear os percursos longos para a manhã. Pergunte à loja se a capa e as luvas fazem parte do aluguer e peça-as, em vez de contar com isso."
+      ]
+    },
+    {
+      "h2": "Regras locais do centro: Hanói tem as suas, Ho Chi Minh tem planos",
+      "body": [
+        "Além da lei nacional, cada cidade pode aplicar restrições e coimas próprias. Em outubro de 2026, o que está confirmado é sobre Hanói:",
+        {
+          "ul": [
+            "**Zona de baixas emissões**: desde 1 de julho de 2026, na primeira fase, e até 31 de dezembro de 2026, motas, ciclomotores e automóveis não podem circular na zona 1 do Hoàn Kiếm às sextas, sábados e domingos, das 19:00 às 24:00. A proposta de proibir de vez as motas a gasolina junto ao lago foi abandonada nesta fase. O guia da [zona de baixas emissões](/tipos-de-motas/zona-de-baixas-emissoes-hanoi/) tem o detalhe.",
+            "**Coimas agravadas**: segundo a Polícia de Hanói, desde 1 de julho de 2026 a Resolução 56/2026 multiplica por 1,5 ou 2 as coimas de 28 infrações em matéria de ordem pública e urbana. Não conseguimos confirmar quais as infrações de trânsito de motas abrangidas, por isso trate os valores nacionais como mínimos.",
+            "**Vias vedadas**: nas estradas de Hanói, as motas não podem usar as autoestradas nem as faixas reservadas aos automóveis; o guia das [vias proibidas a motas em Hanói](/guia-de-aluguer/vias-proibidas-a-motas-em-hanoi/) mostra o estado de cada via."
+          ]
+        },
+        "Em Ho Chi Minh, o que encontrámos foi uma notícia em que a cidade previa restringir, desde o início de 2026, os veículos a combustível fóssil de transporte comercial e de aplicações no centro. O mesmo artigo fala em estudar a conversão de 400 mil motas a gasolina de estafetas e motoristas de aplicações. É um plano e uma proposta, e não uma regra para turistas; não conseguimos confirmar o seu estado atual. O mesmo vale para outras cidades: as restrições mudam, e a fonte certa é a das autoridades locais ou a da loja.",
+        "Há um ponto em que as duas cidades se parecem: as infrações no passeio já são processadas por imagens de câmara, e o dono do veículo recebe a notificação para pagar. O guia sobre [consultar multas por câmara](/guia-de-aluguer/consultar-multas-por-camara/) explica o processo. Numa mota alugada, pergunte sempre à loja como trata as multas que chegam depois da devolução."
+      ]
+    },
+    {
+      "h2": "Trânsito e perfil da viagem: o que não conseguimos comparar",
+      "body": [
+        "Seria cómodo dizer em que cidade o trânsito é mais difícil, mas não encontrámos dados comparáveis. Sabemos que, segundo o Departamento de Transportes de Hanói, citado pela imprensa, circulavam na cidade cerca de 6,9 milhões de motas registadas em dezembro de 2024. Não encontrámos o número equivalente para Ho Chi Minh, e por isso não podemos comparar a escala.",
+        "O que se pode dizer é que o perfil da viagem pesa mais do que a cidade. Uma mota alugada em Hanói serve bem a quem fica na cidade ou faz saídas curtas pelo Norte, sempre combinadas com a loja; o guia sobre [levar a mota para fora de Hanói](/guia-de-aluguer/autorizacao-para-sair-de-hanoi/) explica como. Uma viagem de norte a sul é outra coisa: levanta a questão de devolver a mota noutro sítio, e o artigo sobre [devolver a mota noutro local](/guia-de-aluguer/devolver-noutro-local/) mostra porque a resposta depende sempre da loja.",
+        "Se o seu plano passa por montanha ou por estradas longas, compare a alternativa de viajar como passageiro: o artigo sobre [mota alugada ou easy rider](/precos/mota-alugada-ou-easy-rider/) explica quando faz sentido. Em Đà Lạt, por exemplo, os passeios de easy rider aparecem com frequência nas páginas dos operadores, que são fontes promocionais."
+      ]
+    },
+    {
+      "h2": "O que perguntar a uma loja noutra cidade",
+      "body": [
+        "As perguntas que faria em Hanói servem em qualquer cidade, e o artigo sobre as [perguntas antes de alugar](/guia-de-aluguer/perguntas-antes-de-alugar/) reúne-as. Há algumas que dependem da cidade e do clima:",
+        {
+          "checklist": [
+            "**Habilitação**: se a loja pede a carta e a licença internacional e que categoria exige para o modelo que lhe oferecem.",
+            "**Restrições locais**: se há ruas ou horas vedadas às motas no centro da cidade e de que forma a loja o avisa.",
+            "**Multas**: como são tratadas as multas por câmara que chegam depois da devolução.",
+            "**Equipamento para a estação**: capa de chuva, capacete com viseira, luvas e o que está incluído no aluguer.",
+            "**Saídas da cidade**: para onde pode ir com aquele modelo e por que estradas.",
+            "**Avarias**: a quem ligar e o que acontece à viagem se a mota parar.",
+            "**Devolução**: o local, a hora e a morada em vietnamita para mostrar a um taxista."
+          ]
+        },
+        "O guia sobre como reconhecer uma [loja de aluguer fiável](/guia-de-aluguer/loja-de-aluguer-fiavel/) tem critérios que se aplicam em qualquer cidade. E, como em Hanói, desconfie de quem não responde a estas perguntas por escrito."
+      ]
+    },
+    {
+      "h2": "O que esta loja pode dizer, e o que não pode",
+      "body": [
+        "A loja {{brand}} fica em Hanói, em {{area}}, e está aberta {{hours}}. Os preços e as condições que o site publica são os desta loja: na tabela de referência, um dia de aluguer custa desde {{price.min.day}}. Não comparamos esses valores com os de lojas de outras cidades, porque não temos tabelas verificadas e cada loja define as suas condições.",
+        "Se está a decidir onde começar a viagem, a pergunta útil é «onde preciso da mota», e não «onde é mais barato». Para o tempo em Hanói, a [página de preços](/precos/) mostra as tarifas por modelo, e a comparação [Vision ou Click no aluguer mensal](/precos/vision-ou-click-no-aluguer-mensal/) ajuda a escolher o modelo de uma estadia longa. Para dúvidas, veja os [contactos](/contactos/)."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "A carta e a licença internacional valem em todas as cidades do Vietname?",
+      "a": "As regras da carta vêm da lei nacional e as fontes consultadas não as distinguem por cidade. O que pode variar é a exigência de cada loja, por isso pergunte, antes de reservar, que documentos pede e que categoria exige para o modelo."
+    },
+    {
+      "q": "Ho Chi Minh proíbe as motas a gasolina?",
+      "a": "Não encontrámos nenhuma regra em vigor que as proíba a turistas. A notícia que consultámos fala de planos para restringir veículos a combustível fóssil de transporte comercial e de aplicações no centro e de converter motas de estafetas, e não confirmámos o seu estado atual. Confirme com a loja."
+    },
+    {
+      "q": "Posso ir de mota de Hanói a Ho Chi Minh?",
+      "a": "Não está previsto neste guia nem temos fontes sobre essa viagem. Qualquer saída de Hanói tem de ser autorizada pela loja, as autoestradas estão vedadas às motas, e devolver a mota noutra cidade só é possível se a loja o aceitar por escrito."
+    },
+    {
+      "q": "Qual é a melhor época para alugar mota, no Norte ou no Sul?",
+      "a": "As fontes divergem. Um guia sugere novembro a março para ir ao sul, outro aponta o outono como a melhor altura em Hanói. A diferença mais segura está no clima: segundo os guias, Hanói tem inverno e Ho Chi Minh não, e a estação das chuvas de Ho Chi Minh vai de maio a novembro."
+    }
+  ],
+  "sources": [
+    "lei-36-2024-a1",
+    "lawnet-categorias-2025",
+    "mfat-conduzir-vietname",
+    "lawnet-capacete-168",
+    "tuoitre-alcool-zero",
+    "dtinews-autoestrada-2026",
+    "vietnamnet-zbe-revisao",
+    "hanoi-resolucao-56-2026",
+    {
+      "title": "Weather and climate in Vietnam",
+      "publisher": "Portal oficial de turismo do Vietname (vietnam.travel)",
+      "url": "https://vietnam.travel/things-to-do/weather-and-climate-vietnam",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "title": "Clima médio em Hanói ao longo do ano (WeatherSpark)",
+      "publisher": "WeatherSpark",
+      "url": "https://weatherspark.com/y/116009/Average-Weather-in-Hanoi-Vietnam-Year-Round",
+      "accessed": "2026-10-13",
+      "type": "reference",
+      "lang": "en"
+    },
+    {
+      "title": "Comparação do tempo em Hanói e em Ho Chi Minh (guia comercial em inglês)",
+      "publisher": "Jackfruit Adventure (site comercial)",
+      "url": "https://jackfruitadventure.com/hanoi-and-ho-chi-minh-city-weather/",
+      "accessed": "2026-10-14",
+      "type": "business",
+      "lang": "en"
+    },
+    {
+      "title": "Best Time To Visit Hanoi – & 12 Month Weather Overview",
+      "publisher": "LocalVietnam",
+      "url": "https://localvietnam.com/?p=94550",
+      "accessed": "2026-10-14",
+      "type": "business",
+      "lang": "en"
+    },
+    {
+      "title": "TP.HCM dự kiến hạn chế xe xăng từ đầu 2026",
+      "publisher": "Nhà đầu tư",
+      "url": "https://nhadautu.vn/tphcm-du-kien-han-che-xe-xang-tu-dau-2026-d99728.html",
+      "accessed": "2026-10-14",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Khoảng 7 triệu xe xăng ở Hà Nội đứng trước nguy cơ bị cấm lưu thông từ 2026",
+      "publisher": "Ngôi Sao",
+      "url": "https://ngoisao.vn/theo-dong-su-kien/tin-nong-trong-ngay/khoang-7-trieu-xe-xang-o-ha-noi-dung-truoc-nguy-co-bi-cam-luu-thong-tu-2026-d460848.html",
+      "accessed": "2026-10-14",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Artigo sobre multas por câmara para quem estaciona a mota no passeio (em vietnamita)",
+      "publisher": "LSVN (Luật sư Việt Nam)",
+      "url": "https://lsvn.vn/do-xe-may-tren-via-he-vao-quan-mua-hang-lieu-co-bi-phat-nguoi-qua-camera-ai-a169199.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "201 chủ xe máy đi trên vỉa hè có biển số sau nhanh chóng nộp phạt nguội theo Nghị định 168",
+      "publisher": "CafeF",
+      "url": "https://cafef.vn/201-chu-xe-may-di-tren-via-he-co-bien-so-sau-nhanh-chong-nop-phat-nguoi-theo-nghi-dinh-168-188250926090620822.chn",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    }
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "PUBLISHED",
+  "date_published": "2026-10-14",
+  "date_modified": "2026-10-14",
+  "editorial": {
+    "qa_score": 98,
+    "qa_warnings": [
+      "source code W: Dados meteorológicos oficiais (Centro Nacional de Previsão Hidrometeorológica) ou climatologia reconhecida."
+    ],
+    "words": 1999,
+    "publish_mode": "review",
+    "approved_at": "2026-10-14",
+    "revisions": []
+  }
+}

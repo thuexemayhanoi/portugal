@@ -1,0 +1,272 @@
+{
+  "contract_version": 1,
+  "id": "PT-0054",
+  "slug": "50cc-a-perder-forca",
+  "title": "50cc sem força: causas comuns e quando ligar à loja",
+  "description": "A 50 cc parece lenta ou sem força? Veja o que é normal numa 50 cc, o que confirmar sem ferramentas, o que não reparar e como descrever o problema à loja.",
+  "h1": "Uma 50 cc a perder força: o que verificar, o que não mexer e o que dizer à loja",
+  "summary": "Uma 50 cc que parece sem força pode ser só uma 50 cc: tem pouca reserva em rampas e com carga. Se anda pior do que no primeiro dia, veja o combustível, os pneus e se um travão ficou preso; o filtro, a vela e o variador são da oficina. Pare de insistir e descreva à loja o que sente.",
+  "key_points": [
+    "Uma 50 cc tem velocidade de projeto até 50 km/h e limite legal de 40 km/h: rampas e carga tiram-lhe fôlego sem avaria.",
+    "O sinal que conta é a mudança: se anda pior do que no primeiro dia, ou pior em plano e sem carga, avise a loja.",
+    "Sem ferramentas, confirme o combustível, o aspeto dos pneus e se um travão não ficou preso.",
+    "Filtro de ar, vela, embraiagem e variador são causas citadas pela imprensa vietnamita, mas são trabalho de oficina, não de quem aluga.",
+    "Cheiro a queimado, fumo, mota «pesada» que não acelera ou ruído metálico: pare e ligue à loja antes de continuar."
+  ],
+  "intro": [
+    "Quem aluga uma 50 cc em Hanói raramente espera potência, mas há uma diferença entre uma mota pequena e uma mota que piorou. A primeira é como é; a segunda está a dar-lhe um sinal que convém levar a sério, sobretudo se o trânsito à volta anda mais depressa do que ela.",
+    "Este guia ajuda a separar as duas coisas. Diz o que é normal numa 50 cc, o que se pode confirmar sem ferramentas, o que a imprensa vietnamita aponta como causas habituais (e porque ficam para a oficina) e como descrever o problema à loja {{brand}}, em {{area}}, de forma que a resposta seja rápida."
+  ],
+  "sections": [
+    {
+      "h2": "É perda de força ou é o normal de uma 50 cc?",
+      "body": [
+        "Antes de procurar uma avaria, convém saber o que esperar. Na lei vietnamita, o «xe gắn máy» é o veículo até 50 cm³ com velocidade de projeto até 50 km/h, e a Circular 38/2024/TT-BGTVT fixa em 40 km/h o limite a que pode circular, como explica o guia sobre a [velocidade de uma 50 cc](/tipos-de-motas/velocidade-de-uma-50cc/). Uma mota assim não acompanha o trânsito rápido por natureza, e isso não é uma avaria.",
+        "Três situações dão a sensação de falta de força sem que nada esteja mal:",
+        {
+          "ul": [
+            "**Rampas de pontes e de viadutos.** Uma 50 cc sobe-as, mas vai perdendo velocidade; o guia [50 cc ou 110 cc](/tipos-de-motas/scooter-50cc-ou-110cc/) explica porque é que as pontes sobre o rio Vermelho são o teste mais exigente de quem parte de Long Biên.",
+            "**Carga e passageiro.** Cada quilo a mais tira aceleração e capacidade de subida, como descreve o guia da [50 cc com passageiro](/tipos-de-motas/50cc-com-passageiro/).",
+            "**Arranques nos semáforos.** Quando o sinal muda, as motas de 110 cm³ saem de uma vez e a 50 cc fica para trás, desde o primeiro dia."
+          ]
+        },
+        "O que distingue uma 50 cc normal de uma 50 cc com problema é a mudança. Se a mota se portava de um modo quando a levantou e hoje se porta de outro (anda pior em plano e sem carga, falha ao acelerar, faz um ruído novo), é isso que deve contar à loja. A tabela é só uma primeira leitura, e não um diagnóstico.",
+        {
+          "table": {
+            "caption": "Sensações comuns e primeira leitura (propostas deste guia, sem diagnóstico)",
+            "head": [
+              "O que sente",
+              "Primeira leitura",
+              "O que fazer"
+            ],
+            "rows": [
+              [
+                "Fica sem fôlego numa rampa, com mochila ou passageiro",
+                "Provavelmente o normal de uma 50 cc",
+                "Aligeire a carga, suba devagar e, se este for o seu percurso diário, peça uma mota maior"
+              ],
+              [
+                "Anda bem em plano e sem carga, mas pior do que no primeiro dia",
+                "Pode haver um problema",
+                "Registe quando acontece e avise a loja"
+              ],
+              [
+                "A mota parece «pesada», não ganha velocidade e há cheiro a quente numa roda",
+                "Pode ser um travão preso",
+                "Pare, deixe arrefecer e ligue à loja"
+              ],
+              [
+                "O motor sobe de rotação mas a mota quase não avança",
+                "Pode haver problema na transmissão",
+                "Não continue; ligue à loja"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "h2": "O que confirmar sem ferramentas",
+      "body": [
+        "Estas verificações não exigem abrir nada. Se alguma lhe mostrar o problema, diga-o à loja; se nenhuma mostrar, passe à secção seguinte.",
+        {
+          "h3": "Combustível"
+        },
+        "Comece pelo óbvio: o nível no painel, se a sua mota tiver indicador, ou o depósito. Os textos de imprensa vietnamita consultados apontam o filtro ou a linha de gasolina entupidos como causa comum de motor fraco, e a tampa do depósito avariada como motivo para o combustível não fluir de modo regular. Isso não se vê por fora, mas pode reparar numa tampa danificada ou mal assente e dizê-lo. O guia sobre [abastecer no Vietname](/guia-de-aluguer/abastecer-no-vietname/) explica o que confirmar na bomba.",
+        {
+          "h3": "Pneus"
+        },
+        "A pressão baixa dos pneus aparece entre as causas citadas para uma mota andar fraca. Se um pneu parecer mais achatado do que o outro, não insista com a mota assim. O [guia dos pneus e da pressão](/guia-de-aluguer/pneus-e-pressao/) explica o que ver em dois minutos e porque é que os valores de pressão são os da loja.",
+        {
+          "h3": "Travão preso"
+        },
+        "Segundo um artigo vietnamita sobre travões presos, escrito sobretudo a pensar em automóveis, quando o travão fica preso a mota fica «pesada» e, mesmo com acelerador, não ganha velocidade, por vezes com fumo. O artigo não ensina um teste para uma 50 cc; a sugestão que se segue é nossa. Com o motor desligado e a mota em piso plano, empurre-a uns passos: deve rolar com facilidade. Depois aperte e solte cada comando e empurre de novo, para ver se a roda se solta ao largar. Se uma roda continuar a arrastar, não conduza a mota.",
+        "O [teste dos travões em dois minutos](/guia-de-aluguer/verificar-os-travoes/) descreve esta verificação com mais pormenor.",
+        "Por fim, tire a mochila pesada ou a segunda pessoa e refaça o mesmo troço: se a mota se portar bem com menos peso, o assunto era a carga."
+      ]
+    },
+    {
+      "h2": "As causas que a imprensa vietnamita aponta, e porque ficam para a oficina",
+      "body": [
+        "Os artigos de imprensa vietnamita sobre scooters que andam «fracas» («chạy yếu») coincidem numa lista de suspeitos habituais. Têm três limites: nenhum é um manual de fabricante, nenhum é específico de uma 50 cc (falam da Honda Lead, da SH, da Vision e de motores em geral) e parte vem de textos sobre automóveis. Servem para perceber a conversa com a oficina, e não para consertar nada.",
+        {
+          "table": {
+            "caption": "Causas citadas na imprensa vietnamita sobre motas que andam fracas",
+            "head": [
+              "Causa citada",
+              "O que dizem as fontes",
+              "Quem trata"
+            ],
+            "rows": [
+              [
+                "Filtro de ar sujo",
+                "O pó impede a entrada de ar na câmara de combustão; um texto, sobre motores em geral, aconselha limpá-lo de três em três a seis meses",
+                "Oficina"
+              ],
+              [
+                "Vela de ignição",
+                "Elétrodos gastos tiram força e o desgaste é difícil de ver a olho nu",
+                "Oficina"
+              ],
+              [
+                "Embraiagem e variador",
+                "Causa «muito frequente» em scooters; travar e acelerar ao mesmo tempo gasta a embraiagem e causa solavancos e atraso na aceleração",
+                "Oficina"
+              ],
+              [
+                "Combustível",
+                "Filtro ou linha de gasolina entupidos; nos modelos de injeção, injetores e corpo do acelerador sujos",
+                "Oficina"
+              ],
+              [
+                "Pneus e outros pontos",
+                "Pressão baixa, corrente demasiado tensa, óleo errado e, nas motas com starter manual, o «choke» puxado com o motor quente",
+                "Pneus: veja e avise; o resto, oficina"
+              ]
+            ]
+          }
+        },
+        "Um dos textos aconselha, com a embraiagem gasta, levar a mota à oficina para a refazer, e a Honda Việt Nam manda levar a mota a uma loja Honda autorizada quando a luz de avaria da injeção acende. Nenhuma fonte diz o que fazer com uma mota alugada: a decisão é de quem a aluga, e ninguém consegue tirar a prova só ao guiador."
+      ]
+    },
+    {
+      "h2": "O que não tentar reparar",
+      "body": [
+        "Nenhuma das fontes consultadas diz o que um cliente de aluguer deve ou não mexer. Esta secção é, por isso, uma recomendação editorial: com uma mota alugada, a prudência manda deixar as peças como estão.",
+        {
+          "ul": [
+            "**Não abra o filtro de ar, não troque a vela nem limpe o corpo do acelerador.** São causas da lista acima, mas só se confirmam com a mota aberta e com ferramentas.",
+            "**Não mexa na embraiagem nem no variador.** Um texto vietnamita aconselha a oficina para refazer a embraiagem gasta.",
+            "**Não tente «limpar» a falha dando gás.** Acelerar a fundo uma mota que perde força só acrescenta calor e desgaste a um problema ainda desconhecido.",
+            "**Não a leve a uma oficina de rua sem falar com a loja.** Pode ser a melhor solução, mas confirme por escrito quem autoriza, quem paga e a que oficina ir, como explica o guia [a mota avariou](/guia-de-aluguer/a-mota-avariou/). As perguntas a fazer antes de levantar a mota estão na página sobre [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/).",
+            "**Não deixe o aviso do painel por tratar.** Se a luz de avaria da injeção ficar acesa com o motor a trabalhar, a Honda manda levar a mota a um concessionário; o guia das [luzes de aviso do painel](/tipos-de-motas/luzes-de-aviso-do-painel/) explica o que fazer, e a decisão de onde a levar é da loja."
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "Quando parar, quando avisar e como descrever o problema",
+      "body": [
+        "Nem todo o sinal pede a mesma pressa, e esta separação é uma proposta deste guia. Com cheiro a queimado, fumo, ruído metálico, uma roda a arrastar, a mota «pesada» que não acelera ou a luz de avaria da injeção acesa, pare em segurança, desligue o motor e ligue à loja antes de continuar. Se a mota anda pior, mas de forma estável, avise hoje por mensagem e pergunte se pode continuar. Se só fica sem fôlego em rampas ou com carga, é o normal de uma 50 cc. Para a mota já parada, veja a [assistência na estrada](/guia-de-aluguer/assistencia-na-estrada/) e, longe de Hanói, a [avaria fora de Hanói](/guia-de-aluguer/avaria-longe-de-hanoi/).",
+        "A loja funciona {{hours}} e atende pelo {{phone}}. Uma mensagem clara poupa idas e vindas, sobretudo se não falar vietnamita: o guia sobre [comunicar sem falar vietnamita](/guia-de-aluguer/comunicar-sem-falar-vietnamita/) mostra como escrever mensagens curtas. Inclua:",
+        {
+          "checklist": [
+            "O modelo da mota e, se a vir, a matrícula;",
+            "Quando começou (hoje, ontem, depois de uma subida, depois de chuva) e se acontece sempre ou só às vezes;",
+            "Em que condições: em plano ou em rampa, sozinho ou com passageiro, com o motor frio ou quente;",
+            "O que sente e ouve: perde velocidade aos poucos, falha ao acelerar, sobe de rotação sem avançar, dá solavancos ou faz algum ruído;",
+            "Se há cheiro, fumo ou luz acesa no painel (uma fotografia do painel ajuda);",
+            "Quando abasteceu pela última vez e se a mota tem pouco combustível;",
+            "A sua localização e se pode, ou não, continuar a andar com ela."
+          ]
+        },
+        "Os títulos dos artigos vietnamitas consultados usam «chạy yếu» (anda fraco) e «hụt ga» (falha ao acelerar), termos úteis num tradutor. Não substituem as fotografias nem uma frase simples: descreva o que sente.",
+        {
+          "note": "«Boa tarde. A minha 50 cc [modelo, matrícula] anda pior desde hoje de manhã: em plano e sem carga perde velocidade ao fim de alguns segundos. Não há luz acesa nem cheiro a queimado. Abasteci ontem. Posso continuar a usá-la até à loja?» Mensagem-modelo proposta por este guia.",
+          "tone": "info",
+          "title": "Uma mensagem-modelo"
+        }
+      ]
+    },
+    {
+      "h2": "Quando a 50 cc não serve o seu percurso",
+      "body": [
+        "Por vezes não há avaria: a mota é pequena para o que lhe pede. Se o seu dia a dia passa por pontes, avenidas largas e bagagem, pergunte à loja se pode trocar por uma scooter maior, e em que condições. Na tabela de referência, verificada a {{pricing.verifiedAt}}, uma 50 cc custa {{price.cc50.day}} por dia, {{cmp.cc50.vision.day}} a Honda Vision ({{price.vision.day}} por dia). O guia sobre [trocar de mota](/guia-de-aluguer/trocar-de-mota/) explica como o pedir e registar.",
+        "Antes de trocar, confirme que a sua carta cobre a categoria da mota proposta: o guia sobre [conduzir sem carta válida](/guia-de-aluguer/conduzir-sem-carta-valida/) explica o que está em causa, e o de [confirmar que a mota é 50 cc](/tipos-de-motas/confirmar-que-a-mota-e-50cc/) mostra como ler o registo. Para andar com uma mota pequena, o guia [ser visto numa 50 cc](/tipos-de-motas/ser-visto-numa-50cc/) reúne os cuidados de visibilidade.",
+        "Mais informação sobre este tipo de mota está na página das [motas de 50 cc](/tipos-de-motas/motas-50cc/) e na [visão geral dos tipos de motas](/tipos-de-motas/)."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Posso limpar o filtro de ar ou trocar a vela para ver se melhora?",
+      "a": "Não aconselhamos. Os textos vietnamitas consultados apontam essas peças como causas habituais de perda de força, mas só se confirmam com a mota aberta. Numa mota alugada, avise primeiro a loja e deixe-a decidir quem faz o quê."
+    },
+    {
+      "q": "Devo continuar a andar até chegar à loja?",
+      "a": "Depende do sinal. Com cheiro a queimado, fumo, ruído metálico ou uma roda a arrastar, pare e ligue. Se só anda mais fraca, mas de forma estável, avise por mensagem e pergunte à loja se pode continuar."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Những nguyên nhân có thể làm xe gắn máy chạy yếu",
+      "publisher": "Tuổi Trẻ (Người Lao Động)",
+      "url": "https://tuoitre.vn/nld/suc-khoe/nhung-nguyen-nhan-co-the-lam-xe-gan-may-chay-yeu-53044.htm",
+      "accessed": "2026-10-14",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Những hỏng hóc thường gặp trên Honda Lead",
+      "publisher": "VnExpress",
+      "url": "https://vnexpress.net/nhung-hong-hoc-thuong-gap-tren-honda-lead-2891606.html",
+      "accessed": "2026-10-14",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Xe máy tăng tốc bị hụt ga phải làm sao đây?",
+      "publisher": "Dân Việt",
+      "url": "https://danviet.vn/xe-may-tang-toc-bi-hut-ga-phai-lam-sao-day-7777868534-d612636.html",
+      "accessed": "2026-10-14",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Những lỗi thường gặp trên xe tay ga sau một thời gian sử dụng",
+      "publisher": "Dân Việt",
+      "url": "https://danviet.vn/nhung-loi-thuong-gap-tren-xe-tay-ga-sau-mot-thoi-gian-su-dung-20210912101556247-d975918.html",
+      "accessed": "2026-10-14",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Những nguyên nhân thường gặp khi động cơ yếu",
+      "publisher": "Znews (Tri thức trực tuyến)",
+      "url": "https://znews.vn/nhung-nguyen-nhan-thuong-gap-khi-dong-co-yeu-post302277.html",
+      "accessed": "2026-10-14",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Artigo sobre travão preso e como o resolver (em vietnamita, sobretudo sobre automóveis)",
+      "publisher": "mytour.vn",
+      "url": "https://mytour.vn/vi/blog/bai-viet/khi-xe-bi-ket-phanh-can-khac-phuc-ngay-de-tranh-tai-nan.html",
+      "accessed": "2026-10-14",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Perguntas frequentes da Honda Việt Nam sobre o uso da mota (em vietnamita)",
+      "publisher": "Honda Việt Nam",
+      "url": "https://www.honda.com.vn/cau-hoi-thuong-gap?category=san-pham&category_child=tu-van-su-dung-xe-may",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "Thông tư 38/2024/TT-BGTVT quy định về tốc độ và khoảng cách an toàn của xe cơ giới, xe máy chuyên dùng tham gia giao thông trên đường bộ",
+      "publisher": "Caselaw Việt Nam",
+      "url": "https://caselaw.vn/van-ban-phap-luat/412364-thong-tu-so-38-2024-tt-bgtvt-ngay-15-11-2024-cua-bo-truong-bo-giao-thong-van-tai-ve-toc-do-va-khoang-cach-an-toan-cua-xe-co-gioi-xe-may-chuyen-dung-tham-gia-giao-thong-tren-duong-bo",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    }
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "PUBLISHED",
+  "date_published": "2026-10-14",
+  "date_modified": "2026-10-14",
+  "editorial": {
+    "qa_score": 100,
+    "qa_warnings": [],
+    "words": 1999,
+    "publish_mode": "review",
+    "approved_at": "2026-10-14",
+    "revisions": []
+  }
+}

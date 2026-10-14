@@ -1,0 +1,327 @@
+{
+  "contract_version": 1,
+  "id": "PT-0172",
+  "slug": "peoes-e-zonas-pedonais",
+  "title": "Zonas pedonais de Hanói: conduzir de mota perto de peões",
+  "description": "Como partilhar a rua com os peões em Hanói, que zonas pedonais fecham às motas e a que horas, e as coimas por entrar onde é proibido (outubro de 2026).",
+  "h1": "Peões e zonas pedonais em Hanói: como partilhar a rua de mota",
+  "summary": "Nas zonas pedonais de Hanói, a mota não entra nas horas em que a rua está fechada: à data de 14 de outubro de 2026, a zona do lago Hoàn Kiếm e do mercado noturno fecha às motas de sexta a domingo, das 19:00 às 24:00. Nas outras ruas, conduza ao ritmo dos peões, não suba ao passeio e não use a buzina para abrir caminho.",
+  "key_points": [
+    "A zona 1 do centro fecha às motas de sexta a domingo, das 19:00 às 24:00, e o horário já mudou em feriados e eleições.",
+    "Entrar numa via com sinal de proibição custa 2 a 3 milhões de VND e a perda de 2 pontos na carta; conduzir no passeio, 4 a 6 milhões de VND.",
+    "A buzina serve para avisar de um perigo ou antes de ultrapassar, e é proibida das 22:00 às 05:00 em zonas densamente povoadas.",
+    "Não encontrámos fonte oficial sobre como os peões atravessam em Hanói nem um limite de velocidade para ruas estreitas: o método deste guia é conselho, não regra.",
+    "Na dúvida sobre o horário de uma rua, estacione fora da zona e continue a pé."
+  ],
+  "intro": [
+    "Em Hanói, os peões são o lado mais frágil de um trânsito feito sobretudo de motas. Para quem conduz uma mota alugada, partilhar a rua com eles tem duas partes: saber onde a mota pode entrar e a que horas, e conduzir com margem quando há gente a pé na faixa de rodagem.",
+    "Este guia trata das duas. Reúne os horários e as coimas que as fontes confirmam, com data, e propõe um método simples para conduzir perto de peões. Tudo o que não conseguimos confirmar fica assinalado, porque os horários das zonas pedonais já mudaram várias vezes. Se quer o detalhe das ruas do centro histórico, o guia [conduzir no Bairro Antigo](/zonas-de-hanoi/conduzir-no-bairro-antigo/) complementa este."
+  ],
+  "sections": [
+    {
+      "h2": "Três tipos de espaço, três comportamentos",
+      "body": [
+        "Quem conduz uma mota em Hanói passa por três tipos de espaço com peões, e cada um pede uma atitude diferente.",
+        {
+          "table": {
+            "caption": "Onde há peões e o que fazer",
+            "head": [
+              "Espaço",
+              "O que se passa",
+              "O que fazer de mota"
+            ],
+            "rows": [
+              [
+                "Rua normal, com peões na faixa de rodagem",
+                "Os peões partilham a faixa com as motas, sobretudo onde o passeio está ocupado",
+                "Abrande, dê espaço e não suba ao passeio"
+              ],
+              [
+                "Zona pedonal com horário",
+                "Fecha ao trânsito em certas horas e dias, e o horário muda com feriados e eleições",
+                "Confirme o horário e estacione fora"
+              ],
+              [
+                "Passeio",
+                "É o espaço dos peões, e as motas só o atravessam para entrar numa casa ou num edifício",
+                "Não circule nele: a coima é de 4 a 6 milhões de VND"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "h2": "Peões na faixa de rodagem: um método para conduzir perto deles",
+      "body": [
+        {
+          "note": "Não encontrámos fonte oficial, vietnamita ou estrangeira, que descreva como os peões atravessam as ruas de Hanói ou que lhes dê prioridade em cada situação. Os passos abaixo são conselho deste guia, apoiado em princípios gerais de segurança, e não uma regra vietnamita.",
+          "tone": "warn",
+          "title": "O que não sabemos"
+        },
+        "O ponto de partida é o das boas práticas de condução defensiva: conte com a possibilidade de os outros não o terem visto ou terem calculado mal a sua velocidade. O guia de [condução defensiva](/guia-de-aluguer/conducao-defensiva/) desenvolve esta ideia.",
+        {
+          "steps": [
+            {
+              "title": "Abrande ao ver o primeiro peão",
+              "text": "Pouse os dedos nas manetes dos travões e reduza a velocidade antes de chegar ao grupo, e não quando já está ao lado dele."
+            },
+            {
+              "title": "Dê espaço lateral",
+              "text": "Não encontrámos uma distância oficial. Passe com folga suficiente para que um passo em falso do peão não o atinja, e abrande mais se a folga for pequena."
+            },
+            {
+              "title": "Passe por trás, não pela frente",
+              "text": "Quando um peão atravessa à sua frente, é mais seguro passar atrás dele do que acelerar para lhe passar à frente: ele pode parar ou recuar."
+            },
+            {
+              "title": "Não confie na buzina",
+              "text": "Um peão com auscultadores, ou que olha para o telemóvel, pode não a ouvir. A solução é abrandar, e não buzinar mais."
+            },
+            {
+              "title": "Pare por completo quando for preciso",
+              "text": "Se um peão ocupa a sua faixa, imobilize a mota em vez de a contornar com o guiador cheio. Uma paragem curta é mais segura do que uma manobra apertada."
+            }
+          ]
+        },
+        "Se a mota for elétrica, tenha em conta que faz pouco ruído e que um peão pode não a ouvir chegar. Não encontrámos uma norma vietnamita sobre o som mínimo das motas elétricas, por isso a prudência é sua. Antes de arrancar, o guia dos [espelhos e ângulos mortos](/guia-de-aluguer/espelhos-e-angulos-mortos/) ajuda a saber quem vem atrás."
+      ]
+    },
+    {
+      "h2": "Velocidade em ruas estreitas: o que sabemos e o que não",
+      "body": [
+        "Não encontrámos um limite de velocidade específico para ruas estreitas ou pedonais de Hanói. O que vale é o sinal que estiver na rua, e, na falta dele, o bom senso: a velocidade certa é a que lhe permite parar antes de um peão que surja de uma porta ou de entre duas motas estacionadas.",
+        "Como referência estrangeira, o Highway Code britânico pede um intervalo de pelo menos dois segundos para o veículo da frente. A 40 km/h, são cerca de 22 metros: um espaço que não existe numa rua cheia de gente. Nesses sítios, a velocidade útil é a de uma bicicleta. O guia de [distância e posição na faixa](/guia-de-aluguer/distancia-e-posicao-na-faixa/) mostra como ganhar espaço.",
+        "Com chuva, as distâncias de paragem são pelo menos o dobro das de piso seco, segundo as mesmas boas práticas. Num piso molhado, com peões a correr para se abrigarem, abrande ainda mais e leia o guia de [conduzir à chuva](/guia-de-aluguer/piso-molhado-e-chuva/)."
+      ]
+    },
+    {
+      "h2": "Zonas pedonais com horário: o que está confirmado",
+      "body": [
+        "Os horários vêm de notícias de datas diferentes. A tabela indica a fonte e o estado de cada um, e o guia da [zona pedonal do lago Hoàn Kiếm](/zonas-de-hanoi/zona-pedonal-do-lago-hoan-kiem/) tem o detalhe.",
+        {
+          "table": {
+            "caption": "Zonas pedonais e horários descritos nas fontes (verificado a 14 de outubro de 2026)",
+            "head": [
+              "Espaço",
+              "Horário descrito",
+              "Estado"
+            ],
+            "rows": [
+              [
+                "Espaço pedonal do lago Hoàn Kiếm e arredores",
+                "De sexta, às 19:00, a domingo, às 24:00, todas as semanas",
+                "VnExpress, 2021; uma notícia sobre 1 de julho confirma 19:00 às 24:00 nos três dias do fim de semana, sem ano visível"
+              ],
+              [
+                "Zona 1 de baixas emissões (lago e ruas do mercado noturno)",
+                "Sexta, sábado e domingo, das 19:00 às 24:00, sem motas",
+                "Em vigor desde 1 de julho de 2026, em fase piloto até 31 de dezembro de 2026"
+              ],
+              [
+                "Seis ruas do Bairro Antigo: Hàng Buồm, Mã Mây, Đào Duy Từ, Hàng Giầy, Lương Ngọc Quyến e Tạ Hiện",
+                "Noites de sexta, sábado e domingo: 19:00 às 24:00 no verão e 18:00 às 24:00 no inverno",
+                "Regra noticiada há anos: confirme"
+              ],
+              [
+                "Feriados",
+                "Horário alargado: em 2024, das 19:00 de sexta, 26 de abril, às 24:00 de quarta, 1 de maio",
+                "Exemplo de uma notícia de 2024"
+              ],
+              [
+                "Eleições e eventos",
+                "Em 2026, suspenso de 13 de março até às 19:00 de 20 de março",
+                "Notícia de 2026"
+              ]
+            ]
+          }
+        },
+        "Não encontrámos horário atual para as ruas Hàng Đào e Đồng Xuân. Em qualquer dos casos, barreiras, sinais e agentes no local prevalecem sobre qualquer horário publicado. O guia sobre a [zona de baixas emissões](/tipos-de-motas/zona-de-baixas-emissoes-hanoi/) explica a restrição às motas e o guia sobre [quando circular no Bairro Antigo](/zonas-de-hanoi/quando-circular-no-bairro-antigo/) ajuda a escolher a hora."
+      ]
+    },
+    {
+      "h2": "Se entrar por engano: as coimas",
+      "body": [
+        "Segundo o Decreto 168/2024/NĐ-CP, em vigor desde 1 de janeiro de 2025, uma mota que entre numa zona ou via com sinal de proibição de entrada arrisca uma coima de 2 a 3 milhões de VND e a perda de 2 pontos na carta. Os resultados que encontrámos não falam de «ruas pedonais» em concreto: se a rua tiver um sinal que proíba motas, a infração é a do sinal de proibição, o que é uma inferência nossa.",
+        "Conduzir em contramão ou numa via com o sinal de sentido proibido custa 4 a 6 milhões de VND e 2 pontos. Conduzir no passeio, exceto para entrar numa casa ou num edifício, também dá 4 a 6 milhões de VND. Desde 1 de julho de 2026, Hanói agrava em 1,5 ou 2 vezes as coimas de 28 infrações, mas não confirmámos quais envolvem motas. Trate os valores nacionais como referência, e consulte [como evitar multas](/guia-de-aluguer/como-evitar-multas/) para o resto.",
+        "Se perceber que entrou numa zona fechada, abrande e não faça inversões de marcha por cima do passeio. Pare onde não bloqueie os peões, veja o sinal e siga as instruções de um agente, se o houver. O guia das [motas em contramão](/guia-de-aluguer/motas-em-contramao/) explica o que fazer quando a infração é de outra pessoa."
+      ]
+    },
+    {
+      "h2": "Buzina e peões: avisar, não empurrar",
+      "body": [
+        "A Lei n.º 36/2024/QH15 só admite a buzina para avisar de uma situação de insegurança ou antes de uma ultrapassagem. Entre as 22:00 e as 05:00, é proibida em zonas de população densa e junto de unidades de saúde, salvo para os veículos prioritários. As fontes divergem quanto ao número do artigo, por isso não o citamos.",
+        "Em ruas cheias de peões, isto tem uma consequência prática: um toque curto, de dia, para avisar de um perigo, é o uso mais próximo do que a lei admite. Buzinar para um peão sair da frente não é. O guia da [buzina no Vietname](/guia-de-aluguer/a-buzina-no-vietname/) explica o que as buzinas dos outros condutores significam e quando as pode usar."
+      ]
+    },
+    {
+      "h2": "Deixar a mota e continuar a pé",
+      "body": [
+        "Nas zonas mais densas, a solução mais simples é estacionar e ir a pé. Estacionar no passeio ou na faixa de rodagem sem autorização dá uma coima de 400 mil a 600 mil VND, segundo o Decreto 168/2024. Só se pode estacionar no passeio onde houver sinal a permitir, marcação de lugares ou autorização escrita da autoridade.",
+        "Prefira um parque com funcionário (procure «gửi xe»), pergunte o preço antes de deixar a mota e guarde o talão. Fotografe o local e o talão, para encontrar a mota no regresso. Os guias [onde estacionar em Hanói](/guia-de-aluguer/onde-estacionar-em-hanoi/) e [estacionar no Bairro Antigo](/zonas-de-hanoi/estacionar-no-bairro-antigo/) têm o resto. Se vai jantar ou beber algo nas ruas pedonais à noite, lembre-se de que a lei não admite álcool ao volante: veja [álcool zero ao volante](/guia-de-aluguer/alcool-zero-ao-volante/)."
+      ]
+    },
+    {
+      "h2": "Como confirmar o horário no próprio dia",
+      "body": [
+        "Como os horários mudam, confirme-os no dia em que vai conduzir perto do centro:",
+        {
+          "ul": [
+            "Procure notícias recentes com «phố đi bộ» (rua pedonal), «tạm dừng» (suspensão) e «cấm xe» (proibição de veículos), junto do nome da zona.",
+            "Olhe para as barreiras, os cones e os agentes à entrada das ruas: valem mais do que qualquer notícia.",
+            "Pergunte na loja, quando levantar a mota, que ruas costumam estar fechadas a essa hora.",
+            "Chegue às ruas do centro antes das 19:00, ao fim de semana, se pretende circular na zona 1."
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "O que ficou por confirmar",
+      "body": [
+        {
+          "ul": [
+            "Como os peões atravessam as ruas de Hanói e a prioridade que a lei lhes dá em cada situação.",
+            "O limite de velocidade em ruas estreitas e pedonais.",
+            "O horário atual das ruas Hàng Đào e Đồng Xuân.",
+            "Se a infração de entrar numa rua pedonal se enquadra no sinal de proibição de entrada.",
+            "O ano exato da notícia que descreve a restrição de 1 de julho em torno do lago."
+          ]
+        },
+        "Antes de sair com a mota, veja ainda a [lista de verificação ao receber a mota](/guia-de-aluguer/receber-a-mota/) e os [documentos e caução](/guia-de-aluguer/documentacao-e-caucao/). Para o resto das regras do aluguer e da condução, volte ao [guia de aluguer](/guia-de-aluguer/) ou fale com a loja nos [contactos](/contactos/), em {{phone}}."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Posso conduzir a mota nas ruas pedonais de Hanói?",
+      "a": "Depende da hora e do dia. À data de 14 de outubro de 2026, a zona 1 do centro fecha às motas de sexta a domingo, das 19:00 às 24:00. Fora desse horário, siga a sinalização e as barreiras no local."
+    },
+    {
+      "q": "O que acontece se entrar numa rua com sinal de proibição?",
+      "a": "Segundo o Decreto 168/2024, a coima para motas é de 2 a 3 milhões de VND, com a perda de 2 pontos na carta. Em Hanói, desde 1 de julho de 2026, algumas coimas estão agravadas: confirme o valor em vigor."
+    },
+    {
+      "q": "Posso buzinar para um peão sair da minha frente?",
+      "a": "A lei só prevê a buzina para avisar de um perigo ou antes de uma ultrapassagem, e proíbe-a das 22:00 às 05:00 em zonas densamente povoadas. Abrande e dê espaço, em vez de buzinar."
+    },
+    {
+      "q": "Posso subir ao passeio se a rua estiver bloqueada?",
+      "a": "Não. Conduzir no passeio dá uma coima de 4 a 6 milhões de VND, e a exceção que encontrámos é atravessá-lo para entrar numa casa ou num edifício. Pare e espere, ou procure outro caminho."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Phố đi bộ hoạt động trở lại",
+      "publisher": "VnExpress",
+      "url": "https://vnexpress.net/pho-di-bo-hoat-dong-tro-lai-4440696.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Thêm 6 tuyến phố đi bộ vào cuối tuần",
+      "publisher": "An ninh Thủ đô",
+      "url": "https://www.anninhthudo.vn/them-6-tuyen-pho-di-bo-vao-cuoi-tuan-post217701.antd",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Lịch tạm dừng phố đi bộ hồ Hoàn Kiếm từ ngày 13.3 đến 20.3",
+      "publisher": "Báo Văn hóa",
+      "url": "https://baovanhoa.vn/doi-song/lich-tam-dung-pho-di-bo-ho-hoan-kiem-tu-ngay-133-den-203-249310.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Kéo dài hoạt động không gian đi bộ hồ Hoàn Kiếm trong dịp nghỉ lễ 30/4 và 1/5",
+      "publisher": "VietnamPlus",
+      "url": "https://www.vietnamplus.vn/keo-dai-hoat-dong-khong-gian-di-bo-ho-hoan-kiem-trong-dip-nghi-le-304-va-15-post941816.vnp",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Notícia da lsvn.vn sobre o piloto da zona de baixas emissões no centro de Hoàn Kiếm a partir de 1 de julho (em vietnamita)",
+      "publisher": "lsvn.vn",
+      "url": "https://lsvn.vn/ha-noi-thi-diem-vung-phat-thai-thap-tai-vung-loi-hoan-kiem-tu-ngay-01-7-a174399.html",
+      "accessed": "2026-10-14",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Ha Noi begins restricting fossil-fuel vehicles in low-emission zones",
+      "publisher": "Portal do Governo do Vietname (chinhphu.vn) — Hanoi Capital",
+      "url": "https://hanoicapital.chinhphu.vn/ha-noi-begins-restricting-fossil-fuel-vehicles-in-low-emission-zones-110260702082825273.htm",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "title": "Xe máy đi vào đường cấm phạt bao nhiêu tiền 2026?",
+      "publisher": "Thư viện Pháp luật",
+      "url": "https://thuvienphapluat.vn/hoi-dap-phap-luat/xe-may-di-vao-duong-cam-phat-bao-nhieu-tien-2026-138069361.html",
+      "accessed": "2026-10-14",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "Mức phạt với hành vi điều khiển xe máy đi ngược chiều",
+      "publisher": "lsvn.vn",
+      "url": "https://lsvn.vn/muc-phat-voi-hanh-vi-dieu-khien-xe-may-di-nguoc-chieu-a154165.html",
+      "accessed": "2026-10-14",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Mức phạt đỗ xe máy, đi xe máy trên vỉa hè năm 2026 là bao nhiêu?",
+      "publisher": "Thư viện Pháp luật",
+      "url": "https://thuvienphapluat.vn/phap-luat-nha-dat/muc-phat-do-xe-may-di-xe-may-tren-via-he-nam-2026-la-bao-nhieu-14552.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "Chạy xe máy lên vỉa hè để nghe điện thoại, vào mua hàng có bị xử phạt?",
+      "publisher": "Tuổi Trẻ",
+      "url": "https://tuoitre.vn/chay-xe-may-len-via-he-de-nghe-dien-thoai-vao-mua-hang-co-bi-xu-phat-20250108150633686.htm",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "What time is it prohibited to use honk in Vietnam from January 1, 2025?",
+      "publisher": "LawNet",
+      "url": "https://lawnet.vn/chinh-sach-thue/en/what-time-is-it-prohibited-to-use-honk-in-vietnam-from-january-1-2025-20284.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "en"
+    },
+    {
+      "title": "The Official Highway Code — Rule 126",
+      "publisher": "theorytest.org.uk (reprodução do texto oficial)",
+      "url": "https://theorytest.org.uk/hwc/highway-code/rule-126.html",
+      "accessed": "2026-10-13",
+      "type": "reference",
+      "lang": "en"
+    },
+    "tuoitre-alcool-zero"
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "PUBLISHED",
+  "date_published": "2026-10-14",
+  "date_modified": "2026-10-14",
+  "editorial": {
+    "qa_score": 100,
+    "qa_warnings": [],
+    "words": 1997,
+    "publish_mode": "review",
+    "approved_at": "2026-10-14",
+    "revisions": []
+  }
+}

@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.6.0 — 2026-10-14 · plano de 300 artigos completo
+
+- **63 artigos novos** (300/300): técnica da semiautomática, notas e cartões, estacionamento e portagens, estações e comboio, Long Biên, Tây Hồ e Ba Đình, mercados, crianças, trovoada, Tam Đảo, entre outros. Todos com 0 erros de QA; o que as fontes não confirmam está dito no texto.
+- **Revisão dos 10 temas em colisão**: 3 substituídos na mesma categoria por temas sem sobreposição (teatro de marionetas na água, Vinhomes Riverside, Tam Đảo); 7 aceites com `guard_reviewed` depois de verificar que respondem a outra pergunta.
+- **Factory**: com o plano completo, `process` continua a tratar revisões de artigos publicados (antes parava com TARGET_REACHED).
+- Testes independentes de haver temas por escrever.
+
 ## 1.5.0 — 2026-10-13 · 237 artigos, guarda de colisões e auditoria
 
 - **152 artigos novos** (237/300), todos com 0 erros de QA; 20 revisões de artigos publicados (ressalva das coimas de Hanói desde julho de 2026, escalões das coimas por álcool, números de emergência 113/114/115/112, ligações internas para os artigos novos).

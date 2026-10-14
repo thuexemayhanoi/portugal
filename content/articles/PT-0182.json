@@ -1,0 +1,274 @@
+{
+  "contract_version": 1,
+  "id": "PT-0182",
+  "slug": "sentidos-unicos-e-viragens",
+  "title": "Sentido único e viragens proibidas em Hanói: ler os sinais",
+  "description": "Como distinguir os sinais de sentido único, sentido proibido, viragem à esquerda e inversão proibidas em Hanói, com as coimas nacionais e os erros mais comuns.",
+  "h1": "Ruas de sentido único e viragens proibidas no centro de Hanói",
+  "summary": "Em Hanói, o sentido único anuncia-se com uma placa quadrada azul com seta branca; o disco vermelho com barra branca, à entrada da rua, proíbe entrar por esse lado. Entrar em contramão numa mota tem coima nacional de 4 a 6 milhões de VND e perda de 2 pontos; a viragem à esquerda proibida custa 600 mil a 800 mil VND.",
+  "key_points": [
+    "Dois sinais diferentes: a placa quadrada azul com seta (sentido único) e o disco vermelho com barra branca (sentido proibido, à entrada da rua).",
+    "Contramão numa mota: 4 a 6 milhões de VND e menos 2 pontos, nos valores nacionais do Decreto 168/2024.",
+    "Viragem à esquerda proibida: 600 mil a 800 mil VND; inversão de marcha proibida: 400 mil a 600 mil VND.",
+    "Um sinal de viragem à esquerda proibida não proíbe, por si só, a inversão de marcha, mas na dúvida não inverta.",
+    "Não encontrámos lista fiável dos sentidos das ruas do Bairro Antigo: confirme cada rua no local, não de memória nem só pelo mapa."
+  ],
+  "intro": [
+    "Quem chega a Hanói de mota percebe depressa que o centro é uma teia de ruas estreitas, muitas com sentido único, e que nem toda a gente à sua volta cumpre as placas. O erro mais fácil de cometer não é o excesso de velocidade: é virar para uma rua onde não se pode entrar.",
+    "Este guia, parte do [guia de aluguer de motas em Hanói](/guia-de-aluguer/), ajuda a ler os sinais mais comuns de sentido único e de viragem proibida, explica as diferenças que a lei faz entre infrações parecidas e indica as coimas aplicáveis, com a data de consulta das fontes. Não traz uma lista de ruas com o respetivo sentido, porque não encontrámos fonte fiável para a escrever."
+  ],
+  "sections": [
+    {
+      "h2": "Dois sinais que não se devem confundir",
+      "body": [
+        "Os sentidos únicos aparecem em dois sinais com funções diferentes. Um diz qual é o sentido permitido; o outro proíbe entrar. Segundo a base de dados jurídica LuatVietnam, o primeiro é o sinal «Đường một chiều» (códigos I.407 e I.407a), quadrado, de fundo azul e seta branca, colocado nos cruzamentos: o condutor segue o sentido da seta. O segundo é o «Cấm đi ngược chiều» (código P.102), redondo, de fundo vermelho e barra branca horizontal, colocado à entrada da rua, que proíbe entrar nesse sentido.",
+        {
+          "table": {
+            "caption": "Os dois sinais de sentido único, segundo as fontes consultadas em 14 de outubro de 2026",
+            "head": [
+              "Sinal",
+              "Código",
+              "Aspeto",
+              "O que lhe pede"
+            ],
+            "rows": [
+              [
+                "Sentido único («Đường một chiều»)",
+                "I.407, I.407a",
+                "Quadrado azul com seta branca, nos cruzamentos",
+                "Seguir só no sentido da seta"
+              ],
+              [
+                "Sentido proibido («Cấm đi ngược chiều»)",
+                "P.102",
+                "Disco vermelho com barra branca horizontal, à entrada da rua",
+                "Não entrar na rua por esse lado"
+              ]
+            ]
+          }
+        },
+        "Uma das fontes acrescenta que o disco P.102 se coloca à entrada das ruas de sentido único, pelo que, na prática, também se lê como sinal de sentido único: se o vir de frente, a rua à sua frente é para sair, não para entrar.",
+        "A norma que fixa o aspeto destes sinais é a QCVN 41:2024/BGTVT, em vigor desde 1 de janeiro de 2025. Os sinais instalados antes continuam válidos se não gerarem confusão, e a substituição tem de estar concluída até 20 de agosto de 2030, por isso vai ver placas de gerações diferentes. Sobre a ordem de prioridade entre agente, semáforo, placa e marcas, veja o guia dos [sinais de trânsito vietnamitas](/guia-de-aluguer/sinais-de-transito-vietnamitas/)."
+      ]
+    },
+    {
+      "h2": "Como ler um sentido único na prática",
+      "body": [
+        "A lição mais útil é ler a rua antes de entrar, não depois. Faça estas verificações em cada cruzamento onde pense virar, com a mota quase parada:",
+        {
+          "steps": [
+            {
+              "title": "Procure primeiro o disco vermelho",
+              "text": "Se a rua onde quer entrar tem um disco vermelho com barra branca virado para si, não entre. Siga em frente e procure outra entrada."
+            },
+            {
+              "title": "Veja o sentido do trânsito parado ou a andar",
+              "text": "Se todas as motas e carros da rua vêm contra si, é sinal de que o sentido é o oposto. Mas não conclua o contrário só porque duas motas entram: pode ser uma infração."
+            },
+            {
+              "title": "Procure a placa azul no cruzamento",
+              "text": "A seta branca mostra o único sentido permitido. Confirme que a seta aponta para onde quer ir."
+            },
+            {
+              "title": "Confirme no mapa só com a mota parada",
+              "text": "Encoste num sítio onde não bloqueie a passagem. A lei proíbe usar o telemóvel com a mota em andamento."
+            }
+          ]
+        },
+        "As aplicações de navegação ajudam, mas nem sempre acompanham obras, eventos e fechos temporários. Um sinal temporário prevalece sobre um sinal fixo com significado diferente no mesmo local: quando o mapa e a rua discordam, vale a rua.",
+        "Os nomes das ruas e os sentidos mudam muitas vezes de um quarteirão para o seguinte, sobretudo no Bairro Antigo. Não encontrámos uma lista oficial dos sentidos únicos do bairro nem das proibições de viragem em ruas concretas, por isso este guia não afirma o sentido de nenhuma rua em particular. Ao levantar a mota, pergunte à loja que cruzamentos do caminho até ao alojamento têm sentido único ou viragem proibida (veja os [contactos](/contactos/)). Para o contexto da zona, veja o guia sobre [conduzir no Bairro Antigo](/zonas-de-hanoi/conduzir-no-bairro-antigo/) e o das [moradas em Hanói](/guia-de-aluguer/moradas-em-hanoi/)."
+      ]
+    },
+    {
+      "h2": "Contramão, ou só pelo lado errado da faixa?",
+      "body": [
+        "A lei distingue duas situações que, para quem chega, parecem iguais. Circular em sentido contrário, por exemplo entrar numa rua de sentido único pelo lado proibido, é uma infração. Circular pelo lado esquerdo da própria faixa, no sentido certo, é outra: a de não circular pelo lado direito da via, com coima mais baixa. A fonte consultada refere esta distinção, mas não dá o montante da segunda, e por isso não o escrevemos.",
+        "Para a contramão, as fontes consultadas indicam, ao abrigo do Decreto 168/2024, 4 a 6 milhões de VND e perda de 2 pontos, valores em vigor desde 1 de janeiro de 2025. Fontes mais antigas dão montantes inferiores, de normas entretanto substituídas.",
+        {
+          "table": {
+            "caption": "Infrações de sentido e de viragem para motas: valores nacionais do Decreto 168/2024/NĐ-CP",
+            "head": [
+              "Infração",
+              "Coima (VND)",
+              "Pontos"
+            ],
+            "rows": [
+              [
+                "Entrar ou circular em contramão (sentido proibido)",
+                "4 a 6 milhões",
+                "Menos 2"
+              ],
+              [
+                "Contramão que cause acidente",
+                "10 a 14 milhões",
+                "Menos 10"
+              ],
+              [
+                "Viragem à esquerda onde há sinal que a proíbe (P.123a)",
+                "600 mil a 800 mil",
+                "Menos 2"
+              ],
+              [
+                "Inversão de marcha onde há sinal que a proíbe (P.124a)",
+                "400 mil a 600 mil",
+                "Menos 2"
+              ]
+            ]
+          }
+        },
+        "A perda de pontos refere-se ao sistema de 12 pontos das cartas vietnamitas. Não está confirmado como se aplica a uma carta estrangeira ou a uma licença internacional: veja o guia sobre os [pontos na carta](/guia-de-aluguer/pontos-na-carta/). Para o que fazer quando é outra mota a vir em sentido contrário, leia o guia sobre [motas em contramão e no passeio](/guia-de-aluguer/motas-em-contramao/).",
+        {
+          "note": "Os montantes desta página são os de nível nacional. Desde 1 de julho de 2026, uma resolução do Conselho Popular de Hanói multiplica por 1,5 ou por 2 as coimas de 28 infrações de ordem pública e de trânsito cometidas na cidade, e não foi possível confirmar se a contramão ou as viragens proibidas estão entre elas. Em Hanói, o valor pode ser superior ao da tabela.",
+          "tone": "warn",
+          "title": "Em Hanói, as coimas podem ser mais altas"
+        }
+      ]
+    },
+    {
+      "h2": "Viragem à esquerda e inversão de marcha proibidas",
+      "body": [
+        "Além do sentido, há placas que proíbem manobras. As duas que mais afetam quem anda de mota no centro são a de viragem à esquerda proibida («Cấm rẽ trái», código P.123a) e a de inversão de marcha proibida («Cấm quay đầu xe», código P.124a). Segundo o portal Thư viện Pháp luật, a viragem à esquerda proibida custa a uma mota 600 mil a 800 mil VND e perda de 2 pontos, ao abrigo do artigo 7.º, n.º 3, do Decreto 168/2024. A inversão proibida custa 400 mil a 600 mil VND e perda de 2 pontos.",
+        "Há uma distinção que evita muitas dúvidas: a placa de viragem à esquerda proibida não proíbe automaticamente a inversão de marcha, segundo as fontes consultadas (a base jurídica e uma notícia do jornal Báo Văn hóa). Mesmo assim, o conselho prudente é outro: numa rua estreita e cheia, inverter a marcha é uma manobra arriscada, e a volta ao quarteirão costuma ser mais segura e mais previsível.",
+        "Não encontrámos nenhuma fonte com a coima da viragem à direita proibida (placa P.123b), pelo que não escrevemos nenhum valor. O que a lei confirma, e que já tratámos no guia dos [semáforos em Hanói](/guia-de-aluguer/semaforos-em-hanoi/), é que virar à direita com a luz vermelha só é permitido com sinal complementar, seta verde ou ordem do agente.",
+        "Quando uma placa proíbe a viragem à esquerda, a alternativa explicada no guia sobre [virar à esquerda em Hanói](/guia-de-aluguer/virar-a-esquerda/) é seguir em frente e dar a volta ao quarteirão com três viragens à direita, confirmando sempre o sentido de cada rua pelo caminho."
+      ]
+    },
+    {
+      "h2": "Erros frequentes de quem acabou de chegar",
+      "body": [
+        "Estes erros não vêm de uma estatística, mas da combinação do que as fontes dizem sobre as regras com o que o trânsito do centro pede a quem não conhece a cidade. São conselhos práticos:",
+        {
+          "ul": [
+            "**Seguir a mota da frente.** Quem vai à frente pode estar a cometer uma infração. Decida pelo sinal, não pelo exemplo dos outros.",
+            "**Confiar só no mapa.** Um percurso que o mapa dá como possível pode ter um sentido proibido ou um fecho temporário. Se a rua e o mapa discordarem, vale a rua.",
+            "**«São só uns metros em contramão».** Um desvio curto em contramão tem a mesma coima nacional de 4 a 6 milhões de VND, e sobe para 10 a 14 milhões se causar um acidente.",
+            "**Inverter a marcha para corrigir uma entrada errada.** Se já entrou num sentido único por engano, não volte para trás em contramão: continue até ao cruzamento seguinte e saia por aí."
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "Se entrou por engano ou o agente o mandar parar",
+      "body": [
+        "Se perceber que entrou numa rua pelo lado errado, não piore a situação: continue devagar até ao primeiro cruzamento e saia por aí, atento às motas e aos peões que vêm de frente. Não faça inversão de marcha a meio da rua.",
+        "Se um agente o mandar parar, mantenha a calma e siga as instruções. O guia sobre o [controlo da polícia](/guia-de-aluguer/controlo-da-policia/) explica o que fazer e que documentos ter à mão, e o dos [documentos da mota alugada](/guia-de-aluguer/documentos-da-mota-alugada/) indica o que confirmar com a loja. Se receber uma multa por câmara mais tarde, veja como [consultar multas pela matrícula](/guia-de-aluguer/consultar-multas-por-camara/) e [quem paga as multas num aluguer](/precos/multas-de-transito-no-aluguer/)."
+      ]
+    },
+    {
+      "h2": "Antes de sair da loja: o que perguntar",
+      "body": [
+        "Estas perguntas não substituem os sinais, mas ajudam a ter um plano. Diga à loja onde fica o alojamento e peça-lhe que lhe indique que cruzamentos do caminho têm sentido único ou viragem proibida, e se alguma rua do percurso costuma estar fechada. Pode falar com a equipa de {{brand}} através dos [contactos](/contactos/); a loja está aberta {{hours}}.",
+        "Para mostrar a um taxista ou a um agente onde fica o alojamento, escreva a morada em vietnamita; a da loja é {{address.vi}}. Se puder, evite o Bairro Antigo logo à chegada e planeie o primeiro dia fora das [horas de ponta](/guia-de-aluguer/horas-de-ponta-em-hanoi/)."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "O disco vermelho com barra branca é o mesmo que a placa azul com seta?",
+      "a": "Não. A placa azul com seta indica o sentido único permitido e coloca-se nos cruzamentos. O disco vermelho com barra branca (P.102) proíbe entrar na rua por esse lado e coloca-se à entrada. Quem o vê de frente não deve entrar."
+    },
+    {
+      "q": "Qual é a coima por entrar numa rua de sentido único em contramão?",
+      "a": "Para uma mota, a coima nacional do Decreto 168/2024 é de 4 a 6 milhões de VND e perda de 2 pontos. Se causar acidente, passa a 10 a 14 milhões de VND. Desde 1 de julho de 2026, Hanói agrava algumas coimas, pelo que o valor pode ser maior."
+    },
+    {
+      "q": "A placa de viragem à esquerda proibida também proíbe a inversão de marcha?",
+      "a": "Segundo as fontes consultadas, não automaticamente: são dois sinais distintos, P.123a e P.124a. Mesmo assim, inverter a marcha numa rua estreita é arriscado e pode haver outro sinal. Na dúvida, dê a volta ao quarteirão."
+    },
+    {
+      "q": "Há uma lista das ruas de sentido único do Bairro Antigo?",
+      "a": "Não encontrámos uma lista oficial nem fiável dos sentidos das ruas do Bairro Antigo. Confirme o sentido de cada rua no local, pelos sinais, e pergunte à loja que cruzamentos do seu caminho têm restrições."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Đường một chiều là đường gì? Chạy xe trên đường 1 chiều cần lưu ý gì?",
+      "publisher": "LuatViet Nam",
+      "url": "https://luatvietnam.vn/giao-thong/duong-mot-chieu-la-gi-chay-xe-tren-duong-1-chieu-luu-y-gi-863-93943-article.html",
+      "accessed": "2026-10-14",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "Lỗi Đi Vào Đường 1 Chiều - Mức Phạt 2026 Theo Nghị Định 168",
+      "publisher": "MoMo",
+      "url": "https://www.momo.vn/phat-nguoi/blog/loi-di-vao-duong-1-chieu-79",
+      "accessed": "2026-10-14",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Lỗi đi ngược chiều xe máy phạt bao nhiêu? Cập nhật mới nhất về mức phạt",
+      "publisher": "MoMo",
+      "url": "https://www.momo.vn/blog/loi-di-nguoc-chieu-xe-may-phat-bao-nhieu-cap-nhat-moi-nhat-ve-muc-phat-c116dt2039",
+      "accessed": "2026-10-14",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Lỗi cấm rẽ trái phạt bao nhiêu tiền 2026?",
+      "publisher": "Thư viện Pháp luật",
+      "url": "https://thuvienphapluat.vn/hoi-dap-phap-luat/loi-cam-re-trai-phat-bao-nhieu-tien-2026-138100852.html",
+      "accessed": "2026-10-14",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "Biển số P.124a Biển cấm quay đầu xe có được rẽ trái không?",
+      "publisher": "Thư viện Pháp luật",
+      "url": "https://thuvienphapluat.vn/hoi-dap-phap-luat/bien-so-p124a-bien-cam-quay-dau-xe-co-duoc-re-trai-khong-138069834.html",
+      "accessed": "2026-10-14",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "Gặp biển cấm rẽ trái, tài xế có được quay đầu xe?",
+      "publisher": "Báo Văn hóa",
+      "url": "https://baovanhoa.vn/xe/gap-bien-cam-re-trai-tai-xe-co-duoc-quay-dau-xe-253759.html",
+      "accessed": "2026-10-14",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Cập nhật QCVN 41:2024/BGTVT về báo hiệu đường bộ",
+      "publisher": "Thư viện Nhà đất",
+      "url": "https://thuviennhadat.vn/phap-luat/cap-nhat-qcvn-412024bgtvt-ve-bao-hieu-duong-bo-641069.html",
+      "accessed": "2026-10-13",
+      "type": "reference",
+      "lang": "vi"
+    },
+    {
+      "title": "Chương 1 Quy chuẩn kỹ thuật quốc gia QCVN 41:2024/BGTVT về Báo hiệu đường bộ",
+      "publisher": "Hệ thống pháp luật",
+      "url": "https://hethongphapluat.com/quy-chuan-ky-thuat-quoc-gia-qcvn-41-2024-bgtvt-ve-bao-hieu-duong-bo/chuong-1",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "Tải Nghị định 168 NĐ CP 2024 pdf: Xử phạt hành chính về giao thông",
+      "publisher": "LuatVietnam",
+      "url": "https://luatvietnam.vn/giao-thong/tai-nghi-dinh-168-nd-cp-2024-pdf-xu-phat-hanh-chinh-ve-giao-thong-863-103957-article.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    "hanoi-resolucao-56-2026"
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "PUBLISHED",
+  "date_published": "2026-10-14",
+  "date_modified": "2026-10-14",
+  "editorial": {
+    "qa_score": 100,
+    "qa_warnings": [],
+    "words": 1969,
+    "publish_mode": "review",
+    "approved_at": "2026-10-14",
+    "revisions": []
+  }
+}

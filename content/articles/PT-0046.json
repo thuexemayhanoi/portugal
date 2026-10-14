@@ -1,0 +1,294 @@
+{
+  "contract_version": 1,
+  "id": "PT-0046",
+  "slug": "50cc-nas-pontes-de-hanoi",
+  "title": "50cc nas pontes de Hanói: que ponte escolher e como atravessar",
+  "description": "Que pontes de Hanói têm faixa para motas, o que muda numa 50cc limitada a 40 km/h e como atravessar rampas e tabuleiros com prudência (outubro de 2026).",
+  "h1": "Atravessar o rio Vermelho numa mota de 50cc: pontes, rampas e vento",
+  "summary": "Numa 50cc, escolha uma ponte com faixa para motas e mantenha-se nos 40 km/h que a lei fixa para a sua mota. Em outubro de 2026, as notícias descrevem faixas de motas a 40 km/h nas pontes Nhật Tân e Vĩnh Tuy 2; a Long Biên e a Chương Dương também recebem motas, mas já tiveram fechos ou desvios.",
+  "key_points": [
+    "O limite legal de uma 50cc é 40 km/h (Circular 38/2024/TT-BGTVT), e a faixa das motas da ponte Nhật Tân está, em piloto, nesses mesmos 40 km/h.",
+    "Quatro pontes têm informação útil nas notícias: Long Biên, Chương Dương, Nhật Tân e Vĩnh Tuy 2. Cada uma tem o seu risco: faixa estreita, desvios ou regras recentes.",
+    "Não encontrámos dados verificados sobre vento nem sobre a inclinação das rampas: o conselho é abrandar antes, manter um ritmo constante e não parar no tabuleiro.",
+    "Quanto ao viaduto da Thanh Trì, na Circular 3, uma decisão de 2010 teria proibido as duas rodas, mas ninguém confirmou que ainda vigora. Sem sinal que admita motas, não suba.",
+    "Teste a 50cc numa subida curta antes da primeira ponte e pergunte à loja que ponte aconselha nesse dia."
+  ],
+  "intro": [
+    "A loja {{brand}} fica na margem leste do rio Vermelho, em {{area}}, pelo que quase todos os percursos para o centro de Hanói passam por uma ponte. Numa mota de 50cc, que a lei limita a 40 km/h, a ponte é o sítio onde a diferença de velocidade para o resto do trânsito mais se nota.",
+    "Este guia compara as pontes onde as notícias descrevem lugar para motas, explica como as atravessar numa 50cc e separa o que está confirmado do que é conselho de condução. As regras foram verificadas em notícias consultadas a 14 de outubro de 2026. As pontes mudam de regras e fecham para obras, por isso confirme no dia em que vai atravessar."
+  ],
+  "sections": [
+    {
+      "h2": "O que a lei e a mota impõem: 40 km/h e pouca reserva",
+      "body": [
+        "A Circular 38/2024/TT-BGTVT, em vigor desde 1 de janeiro de 2025, fixa em 40 km/h a velocidade máxima dos «xe gắn máy», o grupo onde cabem as motas de 50cc. O guia sobre a [velocidade de uma 50cc](/tipos-de-motas/velocidade-de-uma-50cc/) explica a regra e as coimas por excesso.",
+        "Numa ponte, a consequência prática é que a 50cc não tem reserva de velocidade. Se o trânsito à volta acelera, o seu lugar é uma faixa onde 40 km/h seja o ritmo normal, e não uma faixa de automóveis.",
+        "Como boa prática estrangeira, e não como regra vietnamita, o Highway Code britânico pede pelo menos dois segundos de intervalo para o veículo da frente. A 40 km/h, dois segundos são cerca de 22 metros. Numa faixa cheia esse espaço raramente existe: veja a técnica em [distância e posição na faixa](/guia-de-aluguer/distancia-e-posicao-na-faixa/)."
+      ]
+    },
+    {
+      "h2": "As quatro pontes lado a lado",
+      "body": [
+        "A tabela reúne o que as notícias consultadas dizem de cada ponte e o que isso significa para quem vai de 50cc. Nenhuma fonte classifica as pontes por cilindrada, por isso a última coluna é leitura deste guia.",
+        {
+          "table": {
+            "caption": "Pontes sobre o rio Vermelho: o que as fontes dizem (verificado a 14 de outubro de 2026)",
+            "head": [
+              "Ponte",
+              "O que as fontes dizem",
+              "Numa 50cc"
+            ],
+            "rows": [
+              [
+                "Long Biên",
+                "Aberta a motas, bicicletas e peões, sem automóveis. Fechou de 28 de março a 27 de maio de 2026 e reabriu a 28 de maio.",
+                "Faixa estreita partilhada com bicicletas. Confirme que está aberta e mantenha um ritmo constante."
+              ],
+              [
+                "Chương Dương",
+                "Na cheia de setembro de 2024, só restringiu autocarros, veículos de turismo com mais de 9 lugares e camiões. Serviu de desvio nas obras da Long Biên.",
+                "Boa alternativa à Long Biên. Não encontrámos a faixa das motas descrita: siga os sinais."
+              ],
+              [
+                "Nhật Tân",
+                "Duas faixas para motas. Faixa exterior a 40 km/h, num piloto de seis meses anunciado para 27 de setembro de 2026.",
+                "A 50cc cabe no limite. Ao lado, os automóveis seguem a 80 km/h: não saia da sua faixa."
+              ],
+              [
+                "Vĩnh Tuy 2",
+                "Sentido único, de Hai Bà Trưng para Long Biên, com uma faixa mista de 4,8 m para motas e veículos sem motor, a 40 km/h (plano da abertura).",
+                "Útil para voltar à margem leste. Confirme se a organização se mantém."
+              ]
+            ]
+          }
+        },
+        "O guia da [ponte Long Biên de mota](/zonas-de-hanoi/ponte-long-bien/) aprofunda a ponte mais próxima da loja."
+      ]
+    },
+    {
+      "h2": "Nhật Tân: a ponte onde os 40 km/h são a regra da faixa",
+      "body": [
+        "A ponte Nhật Tân tem oito faixas, e a imprensa vietnamita descreve duas delas como faixas para motas e bicicletas, na orla exterior. Num piloto de seis meses, que as notícias situam entre 27 de setembro de 2026 e 27 de março de 2027, a velocidade nessa faixa é de 40 km/h. Os automóveis têm 80 km/h nas três faixas que lhes cabem.",
+        "Para quem conduz uma 50cc, a coincidência é útil: o limite da faixa é o limite da sua mota. A condição do piloto é respeitar os sinais e as marcas no pavimento e manter a distância de segurança ao veículo da frente.",
+        "Na tarde de 27 de setembro, o departamento de construção retirou temporariamente os sinais de distância de segurança, mas disse que o piloto e o limite de velocidade se mantinham. O ano de 2026 vem de resumos de pesquisa, porque o título da notícia só diz «a partir de 27/9»: confirme as datas.",
+        "Se pensa seguir para norte, pela avenida Võ Nguyên Giáp, leia primeiro o guia da [ponte Nhật Tân](/zonas-de-hanoi/ponte-nhat-tan-para-norte/): as fontes apontam restrições às motas nessa avenida."
+      ]
+    },
+    {
+      "h2": "Long Biên e Chương Dương: faixas estreitas e desvios",
+      "body": [
+        "A Long Biên é a ponte antiga de ferro, com o comboio ao centro e faixas laterais para motas e bicicletas. Um guia de viagem de uma companhia aérea vietnamita refere que nesta ponte se circula pela esquerda, ao contrário das outras. Não o confirmámos noutra fonte: siga as marcas no chão e não a mota da frente.",
+        "Quando a Long Biên fecha, as motas passam pela Chương Dương. Segundo notícias de data não indicada, o desvio faz-se pela rua Trần Nhật Duật até à rotunda à entrada da ponte. Em setembro de 2024, com o rio em alerta de cheia, a cidade fechou a Long Biên a peões, bicicletas, motas e triciclos, mas na Chương Dương as motas não estavam entre os veículos proibidos.",
+        "Uma notícia desse fecho listava também a ponte Thanh Trì entre as alternativas de travessia, sem distinguir os veículos. Como a Thanh Trì já teve cortes por horas e o viaduto que lhe segue tem uma proibição por confirmar, não a trate como desvio de mota sem confirmar no local."
+      ]
+    },
+    {
+      "h2": "Rampas e subidas: conselhos para uma 50cc",
+      "body": [
+        {
+          "note": "Não encontrámos dados verificados sobre a inclinação das rampas das pontes de Hanói nem sobre o desempenho de uma 50cc nelas. Os conselhos desta secção são prudência de condução, não factos medidos.",
+          "tone": "warn",
+          "title": "O que não sabemos"
+        },
+        "Convém testar a 50cc numa subida curta, perto da loja, antes de a levar a uma ponte. Veja como responde ao acelerador, se mantém a velocidade e se os travões aguentam uma descida.",
+        {
+          "steps": [
+            {
+              "title": "Antes da rampa",
+              "text": "Abrande com antecedência, saia da fila de motas mais rápidas e escolha a faixa onde o limite seja de 40 km/h."
+            },
+            {
+              "title": "Na subida",
+              "text": "Mantenha o acelerador constante, sem acelerar e largar. Evite parar ou hesitar no pé da rampa, onde quem vem atrás tem menos espaço para reagir."
+            },
+            {
+              "title": "No tabuleiro",
+              "text": "Mantenha um ritmo estável e não pare para fotografar. As fotografias fazem-se a pé, nos passeios ou nos miradouros."
+            },
+            {
+              "title": "Na descida",
+              "text": "Aumente o intervalo para o veículo da frente e trave cedo, com os dois travões e com suavidade."
+            }
+          ]
+        },
+        "Se a mota perder força a meio da subida, mantenha-se na faixa, sem manobras bruscas. Ligue os sinais de perigo, se a mota os tiver, e só encoste onde for seguro. Depois ligue para a loja, em {{phone}}, e diga onde está. Uma [50cc com passageiro](/tipos-de-motas/50cc-com-passageiro/) tem ainda menos folga: pergunte à loja como a mota se comporta com duas pessoas antes de planear uma ponte."
+      ]
+    },
+    {
+      "h2": "Vento, chuva e piso do tabuleiro",
+      "body": [
+        "Não encontrámos nenhuma fonte sobre o efeito do vento nas pontes de Hanói, e uma mota leve é sensível a rajadas. A prudência é a de qualquer ponte: com vento forte, reduza a velocidade, aguente o guiador com as duas mãos e afaste-se de camiões e autocarros, que deslocam ar ao passar. Se não se sentir seguro, adie a travessia.",
+        "Com chuva, aplica-se o que valem as boas práticas estrangeiras: as distâncias de paragem são pelo menos o dobro das de piso seco, segundo o Highway Code. Não temos dados sobre a aderência do tabuleiro das pontes, por isso trate-o como piso desconhecido, trave com mais antecedência e veja o guia sobre [conduzir à chuva](/guia-de-aluguer/piso-molhado-e-chuva/).",
+        "Para saber mais sobre como ser visto por quem circula mais depressa, veja [ser visto numa 50cc](/tipos-de-motas/ser-visto-numa-50cc/)."
+      ]
+    },
+    {
+      "h2": "Viaduto Thanh Trì e vias elevadas: sem sinal, não suba",
+      "body": [
+        "Segundo a imprensa, uma decisão de outubro de 2010 do departamento de transportes de Hanói proíbe os veículos de duas rodas e os peões no viaduto da Circular 3, na zona da Thanh Trì, que só podem circular por baixo. Não encontrámos texto mais recente: continua por confirmar que a decisão está em vigor, e uma notícia refere motas que sobem na mesma.",
+        "As pontes Thanh Trì e Nhật Tân já tiveram, além disso, cortes por horas para inspeção, ensaios de carga e manutenção. Os resumos não trazem datas nem dizem que veículos foram afetados.",
+        "A regra prática é a mesma do guia [vias proibidas a motas em Hanói](/guia-de-aluguer/vias-proibidas-a-motas-em-hanoi/): se à entrada de uma rampa não vir um sinal que admita motas, não suba. Fique ao nível do solo ou pergunte à loja antes de partir. Para os restantes percursos, veja [trajetos para uma 50cc](/tipos-de-motas/trajetos-para-uma-50cc/)."
+      ]
+    },
+    {
+      "h2": "Antes de sair: o que confirmar e perguntar à loja",
+      "body": [
+        "A ponte decide-se à saída da loja, e não à entrada da ponte:",
+        {
+          "checklist": [
+            "Confirme que a ponte que escolheu está aberta nesse dia, em notícias recentes ou com a loja.",
+            "Marque o percurso no mapa antes de arrancar e guarde o telemóvel durante a condução.",
+            "Pergunte à loja que ponte aconselha para a sua 50cc e como a mota sobe uma rampa.",
+            "Verifique pneus e travões da mota antes de sair; o guia dos [travões em dois minutos](/guia-de-aluguer/verificar-os-travoes/) ajuda.",
+            "Leve os documentos pedidos no aluguer: a [documentação e a caução](/guia-de-aluguer/documentacao-e-caucao/) explica o que preparar.",
+            "Guarde no telemóvel o contacto da loja, {{phone}}, e a morada em vietnamita, {{address.vi}}."
+          ]
+        },
+        "Se ainda não escolheu o modelo, leia o guia das [motas de 50cc](/tipos-de-motas/motas-50cc/) ou compare-as com as elétricas em [50cc ou mota elétrica](/tipos-de-motas/50cc-ou-mota-eletrica/). Para dúvidas sobre o levantamento, veja as [perguntas antes de alugar](/guia-de-aluguer/perguntas-antes-de-alugar/) ou fale com a loja pelos [contactos](/contactos/)."
+      ]
+    },
+    {
+      "h2": "O que ficou por confirmar",
+      "body": [
+        "As fontes deixam estas lacunas. Verifique-as no local:",
+        {
+          "ul": [
+            "A inclinação das rampas e o efeito do vento nas pontes.",
+            "As regras atuais para as motas nas pontes Thăng Long e Thanh Trì e se a decisão de 2010 sobre o viaduto está em vigor.",
+            "Se a organização da Vĩnh Tuy 2, descrita nas notícias da abertura, se mantém.",
+            "O ano do piloto da Nhật Tân, que vem de resumos de pesquisa, e o que acontece quando ele termina.",
+            "Se alguma ponte restringe as motas por cilindrada ou por velocidade mínima: nenhuma fonte o diz, e a faixa de 40 km/h da Nhật Tân aplica-se às motas em geral."
+          ]
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Posso atravessar a ponte Long Biên com uma 50cc?",
+      "a": "As notícias descrevem a ponte como aberta a motas, bicicletas e peões, sem distinguir a cilindrada. Confirme que está aberta no dia, porque fechou para obras entre 28 de março e 27 de maio de 2026, e mantenha um ritmo constante na faixa estreita."
+    },
+    {
+      "q": "Qual é a ponte mais indicada para uma 50cc?",
+      "a": "Nenhuma fonte classifica as pontes por cilindrada. A Nhật Tân, com faixa de motas a 40 km/h, e a Long Biên, só para motas, bicicletas e peões, são as que melhor encaixam numa mota limitada a 40 km/h. Pergunte também à loja."
+    },
+    {
+      "q": "O vento é um problema nas pontes de Hanói?",
+      "a": "Não encontrámos dados verificados sobre vento nas pontes. Uma mota leve é sensível a rajadas, por isso reduza a velocidade, agarre o guiador com as duas mãos e adie a travessia se não se sentir seguro."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Từ ngày 27/9, cầu Nhật Tân áp quy định giữ khoảng cách, 3 làn ôtô giới hạn 80 km/h",
+      "publisher": "Báo Lào Cai",
+      "url": "https://baolaocai.vn/tu-ngay-279-cau-nhat-tan-ap-quy-dinh-giu-khoang-cach-3-lan-oto-gioi-han-80-kmh-post910479.html",
+      "accessed": "2026-10-14",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Hà Nội thí điểm tổ chức giao thông trên cầu Nhật Tân",
+      "publisher": "VietnamPlus",
+      "url": "https://www.vietnamplus.vn/ha-noi-thi-diem-to-chuc-giao-thong-tren-cau-nhat-tan-post1138545.vnp",
+      "accessed": "2026-10-14",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Hà Nội tháo dỡ tạm thời biển khoảng cách 0m, 50m... vừa lắp trên cầu Nhật Tân",
+      "publisher": "Báo Lào Cai",
+      "url": "https://baolaocai.vn/ha-noi-thao-do-tam-thoi-bien-khoang-cach-0m-50m-vua-lap-tren-cau-nhat-tan-post910517.html",
+      "accessed": "2026-10-14",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Thông xe cầu Vĩnh Tuy 2",
+      "publisher": "VnExpress",
+      "url": "https://vnexpress.net/thong-xe-cau-vinh-tuy-2-4647538.html",
+      "accessed": "2026-10-14",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Khánh thành cầu Vĩnh Tuy - giai đoạn 2",
+      "publisher": "Báo Đấu thầu",
+      "url": "https://baodauthau.vn/khanh-thanh-cau-vinh-tuy-giai-doan-2-post143074.html",
+      "accessed": "2026-10-14",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Hà Nội chính thức đóng cầu Long Biên, hạn chế qua cầu Đuống",
+      "publisher": "Tạp chí Công Thương",
+      "url": "https://tapchicongthuong.vn/ha-noi-chinh-thuc-dong-cau-long-bien--han-che-qua-cau-duong-126417.htm",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Hà Nội cấm toàn bộ việc đi lại trên cầu Long Biên",
+      "publisher": "VietnamFinance",
+      "url": "https://vietnamfinance.vn/ha-noi-toan-bo-viec-di-lai-tren-cau-long-bien-d115922.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Cầu Long Biên — guia de viagem da Vietnam Airlines",
+      "publisher": "Vietnam Airlines",
+      "url": "https://www.vietnamairlines.com/at/vi/plan-book/travel/travel-guide/long-bien-bridge",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Khôi phục phương án tổ chức giao thông trên cầu Long Biên từ ngày 28/5",
+      "publisher": "Báo Nhân Dân",
+      "url": "https://nhandan.vn/khoi-phuc-phuong-an-to-chuc-giao-thong-tren-cau-long-bien-tu-285-post964788.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Ficha da Circular 38/2024/TT-BGTVT, de 15 de novembro de 2024, sobre a velocidade e a distância de segurança dos veículos (em vietnamita)",
+      "publisher": "Caselaw Việt Nam",
+      "url": "https://caselaw.vn/van-ban-phap-luat/412364-thong-tu-so-38-2024-tt-bgtvt-ngay-15-11-2024-cua-bo-truong-bo-giao-thong-van-tai-ve-toc-do-va-khoang-cach-an-toan-cua-xe-co-gioi-xe-may-chuyen-dung-tham-gia-giao-thong-tren-duong-bo",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "The Official Highway Code — Rule 126",
+      "publisher": "theorytest.org.uk (reprodução do texto oficial)",
+      "url": "https://theorytest.org.uk/hwc/highway-code/rule-126.html",
+      "accessed": "2026-10-13",
+      "type": "reference",
+      "lang": "en"
+    },
+    {
+      "title": "Driving in adverse weather conditions (226 to 237)",
+      "publisher": "nidirect (Governo da Irlanda do Norte)",
+      "url": "https://nidirect.gov.uk/node/5167",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    }
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "PUBLISHED",
+  "date_published": "2026-10-14",
+  "date_modified": "2026-10-14",
+  "editorial": {
+    "qa_score": 100,
+    "qa_warnings": [],
+    "words": 1993,
+    "publish_mode": "review",
+    "approved_at": "2026-10-14",
+    "revisions": []
+  }
+}

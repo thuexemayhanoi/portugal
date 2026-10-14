@@ -1,0 +1,304 @@
+{
+  "contract_version": 1,
+  "id": "PT-0247",
+  "slug": "mercado-de-flores-quang-an",
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "PUBLISHED",
+  "title": "Mercado de flores de Quảng An de mota: noite e estacionar",
+  "description": "Mercado noturno de flores de Quảng An, na Âu Cơ: o horário que os guias dão, a proibição de estacionar na rua, os camiões e como ir de mota à noite.",
+  "h1": "Ir de mota ao mercado noturno de flores de Quảng An, na Âu Cơ",
+  "summary": "O mercado de flores de Quảng An, no n.º 236 da rua Âu Cơ, é noturno: os guias dão aberturas entre as 22:00 e as 23:00 e o auge entre as 02:00 e as 04:00. Não deixe a mota na Âu Cơ, onde estacionar está proibido nos dois sentidos desde 22 de setembro de 2024, nem conte com um parque do mercado: não encontrámos nenhum.",
+  "key_points": [
+    "Morada: 236 Âu Cơ. Os guias divergem no horário: abre às 22:00 ou às 23:00 e fecha entre as 04:00 e as 05:00.",
+    "Desde 22 de setembro de 2024 é proibido estacionar em toda a Âu Cơ, incluindo as duas vias de 5 m, segundo uma notícia da época.",
+    "Não encontrámos parque do mercado: use um parque com funcionário numa rua lateral, confirme até que horas fecha e siga a pé.",
+    "A loja está aberta {{hours}} e o mercado só enche depois: combine por escrito a hora de devolução antes de levantar a mota."
+  ],
+  "intro": [
+    "O mercado de flores de Quảng An só mostra o que vale depois de a loja de aluguer fechar. Segundo os guias vietnamitas, funciona de noite na rua Âu Cơ, em Tây Hồ, com flores que chegam de várias regiões, como Đà Lạt, o noroeste do país e Mộc Châu, em camiões que se concentram nas horas de maior movimento.",
+    "Para quem tem uma mota alugada, a visita levanta problemas que não existem de dia: a hora de devolução, a condução entre camiões e, sobretudo, onde deixar a mota numa rua onde estacionar está proibido. É disso que este guia trata. As flores do Tết, nas aldeias de Nhật Tân e Tứ Liên, têm o seu próprio guia: [aldeias de flores de Nhật Tân e Tứ Liên](/zonas-de-hanoi/aldeias-de-flores-nhat-tan/).",
+    "Os dados vêm de guias de viagem e da imprensa vietnamita, consultados a 13 de outubro de 2026. Os horários variam de fonte para fonte e não são oficiais. Outras zonas da cidade estão em [Zonas de Hanói](/zonas-de-hanoi/)."
+  ],
+  "sections": [
+    {
+      "h2": "O mercado num quadro: morada, horário e estacionamento",
+      "body": [
+        "A tabela reúne o que os guias e uma notícia de 2024 dizem e, na coluna da direita, o que convém confirmar. Não encontrámos nenhum aviso do próprio mercado, por isso o horário deve ser tratado como referência.",
+        {
+          "table": {
+            "caption": "Mercado de flores de Quảng An: dados das fontes (consulta de 13 de outubro de 2026)",
+            "head": [
+              "Tema",
+              "O que dizem as fontes",
+              "O que confirmar"
+            ],
+            "rows": [
+              [
+                "Morada",
+                "236 Âu Cơ; também chamado mercado de flores de Quảng Bá",
+                "Marque o ponto no mapa, em modo mota, e descarregue o mapa para usar sem rede."
+              ],
+              [
+                "Horário",
+                "Abre às 22:00 ou às 23:00 e fecha entre as 04:00 e as 05:00, conforme a fonte; uma fonte diz que se prolonga até cerca do meio-dia",
+                "A hora a que as bancas estão a funcionar no dia em que vai: não há horário oficial."
+              ],
+              [
+                "Estacionamento",
+                "Proibido nos dois sentidos de toda a Âu Cơ desde 22 de setembro de 2024; nenhum parque do mercado encontrado",
+                "Onde deixar a mota e até que horas esse parque está aberto."
+              ],
+              [
+                "Nome do bairro",
+                "Os guias dizem Quảng An, em Tây Hồ: nomes anteriores a 1 de julho de 2025",
+                "Guie-se pelo nome da rua e pelo número, não pelo nome do bairro."
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "h2": "Horário: o que os guias dizem e a que horas chegar",
+      "body": [
+        "As fontes não coincidem. Uma abre o mercado às 23:00 e dá o auge entre as 02:00 e as 05:00; outra fala em abertura às 22:00; uma terceira diz que as bancas se prolongam até cerca do meio-dia. Em comum têm o período mais movimentado: a madrugada, entre as 02:00 e as 04:00 ou 05:00.",
+        "Os visitantes citados pelos guias dão duas dicas: para ver o ambiente, ir depois das 21:00 ou das 22:00; para flores frescas e bom preço, ir entre a 01:00 e as 03:00. Um dos guias aconselha ainda a levar uma lanterna. Os guias notam ainda que a rua é larga e acessível a motas e a automóveis.",
+        {
+          "h3": "Que hora escolher"
+        },
+        {
+          "ul": [
+            "**Das 22:00 à meia-noite:** o mercado já abriu, segundo os guias, mas ainda não está no auge. É a janela mais fácil de gerir numa primeira visita, porque o regresso é mais cedo e há menos camiões em manobra.",
+            "**Da 01:00 às 03:00:** é quando os visitantes dizem encontrar as flores mais frescas, e o auge começa. Também é quando a condução é mais exigente: menos luz, cansaço e mais veículos de carga.",
+            "**Depois das 04:00:** os guias não descrevem o que resta nem a que horas as bancas fecham. Não planeie a visita para esta hora sem confirmar no local."
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "A loja fecha às 21:00: combinar a mota antes de levantar",
+      "body": [
+        "A loja está aberta {{hours}}, e o mercado só enche depois do fecho. A primeira pergunta de quem quer ir não é sobre flores, é sobre a mota: o que acontece à hora de devolução se a mota passar a noite consigo. Não sabemos como a loja trata esse caso e não o vamos prometer; pergunte, de preferência por escrito, pelos [contactos](/contactos/), antes de levantar a mota:",
+        {
+          "checklist": [
+            "Posso ficar com a mota durante a noite? Se sim, até que horas tenho de a devolver no dia seguinte?",
+            "A devolução no dia seguinte tem alguma condição ou custo adicional?",
+            "Se houver um problema de madrugada, com quem falo e por que meio? O número da loja é {{phone}}.",
+            "Se a loja não permitir, aceita que devolva a mota antes das {{closes}} e que eu vá de outra forma?"
+          ]
+        },
+        "O guia sobre [horas de levantamento e devolução](/precos/horas-de-levantamento-e-devolucao/) mostra o que perguntar sobre horários, e o de [atraso na devolução](/guia-de-aluguer/atraso-na-devolucao/) o que combinar antes.",
+        "Se a resposta for não, ou se preferir não conduzir de madrugada, o mercado também se visita sem a mota: compare as opções em [mota alugada ou Grab](/precos/mota-alugada-ou-grab/) e [mota alugada ou táxi](/precos/mota-alugada-ou-taxi/)."
+      ]
+    },
+    {
+      "h2": "Chegar pela Âu Cơ: o que mudou em 2024",
+      "body": [
+        "Segundo uma notícia de 24 de setembro de 2024, o departamento de transportes de Hanói (Sở GTVT) passou, a 22 de setembro, a organizar a Âu Cơ em dois sentidos para todos os veículos. O que a notícia diz e que importa a quem vai de mota:",
+        {
+          "ul": [
+            "**Estacionar:** proibido nos dois sentidos, em toda a Âu Cơ, na via principal e nas duas vias de 5 m, a do lado do dique e a do lado de fora.",
+            "**Inversões de marcha:** os autocarros com mais de 16 lugares e os camiões com mais de 2,5 t não podem inverter a marcha nas aberturas do separador junto aos becos 123, 207 e 231.",
+            "**Via de 5 m do lado de fora do dique:** dois sentidos, com os camiões acima de 2,5 t proibidos no sentido do beco 236 da Âu Cơ para o hotel Thắng Lợi.",
+            "**Via de 5 m do lado de dentro do dique,** da Lạc Long Quân ao beco 399 da Âu Cơ: sentido único, da ponte Nhật Tân para a ponte Long Biên, e camiões acima de 10 t proibidos."
+          ]
+        },
+        "O retrato é o de uma estrada de passagem e de carga, não de um sítio para parar. As regras têm mais de dois anos e podem ter mudado: no local, mandam os sinais. O número 236 aparece na notícia como o de um beco; confirme no mapa onde fica a entrada do mercado.",
+        {
+          "h3": "Do lado de Long Biên"
+        },
+        "Não propomos um percurso rua a rua: as fontes não descrevem o acesso desde a margem leste do rio. O estado da ponte Long Biên e a alternativa estão no guia da [ponte Long Biên de mota](/zonas-de-hanoi/ponte-long-bien/); para o lado norte, veja a [ponte Nhật Tân e a avenida](/zonas-de-hanoi/ponte-nhat-tan-para-norte/)."
+      ]
+    },
+    {
+      "h2": "Onde deixar a mota se não pode ficar na Âu Cơ",
+      "body": [
+        "Não encontrámos nenhum parque do mercado, nenhum preço de estacionamento nem um horário de parque. O que há de verificado é a proibição da Âu Cơ; o resto é método:",
+        {
+          "steps": [
+            {
+              "title": "Procure um parque com funcionário numa rua lateral",
+              "text": "Em vietnamita, «bãi giữ xe» ou «gửi xe». Pergunte «Gửi xe bao nhiêu tiền?», que quer dizer «Quanto custa guardar a mota?», e peça a senha."
+            },
+            {
+              "title": "Pergunte até que horas está aberto",
+              "text": "Um parque que feche antes de voltar deixa a mota retida até de manhã. Se pensa ficar até à madrugada, esta é a pergunta que mais conta."
+            },
+            {
+              "title": "Fotografe a senha, a mota e o nome da rua",
+              "text": "Ao fim de uma noite, as ruas parecem todas iguais. O guia sobre [onde estacionar a mota em Hanói](/guia-de-aluguer/onde-estacionar-em-hanoi/) explica as senhas e o preço máximo fixado pela cidade."
+            },
+            {
+              "title": "Sem parque, pergunte num café ou restaurante aberto",
+              "text": "Alguns guardam motas à porta; só um funcionário pode dizer se o faz. Se nada disto aparecer, volte atrás ou siga de táxi."
+            }
+          ]
+        },
+        {
+          "note": "Estacionar sem autorização na faixa de rodagem ou no passeio dá coima de 400 mil a 600 mil VND (Decreto 168/2024/NĐ-CP, art. 7.º, n.º 2, alínea d)), e circular no passeio custa de 4 a 6 milhões de VND. A estas regras nacionais soma-se a proibição local da Âu Cơ. Consultado a 13 de outubro de 2026.",
+          "tone": "warn",
+          "title": "Passeio e berma: fora de questão"
+        },
+        "Leve o capacete consigo e não deixe objetos de valor na mota."
+      ]
+    },
+    {
+      "h2": "Camiões, cansaço e comportamento: conduzir de madrugada",
+      "body": [
+        "Segundo os guias, os camiões de flores concentram-se nas horas de maior movimento. Para quem conduz, isso quer dizer veículos grandes a parar e a manobrar e pouca margem para improvisar.",
+        {
+          "ul": [
+            "**Abrande e guarde distância.** Não ultrapasse um camião parado ou em manobra; espere. O guia sobre [distância e posição na faixa](/guia-de-aluguer/distancia-e-posicao-na-faixa/) explica a folga a manter.",
+            "**Veja e seja visto.** Mais dicas em [conduzir de mota à noite](/guia-de-aluguer/conduzir-de-mota-a-noite/).",
+            "**Álcool zero.** A lei vietnamita, em vigor desde 1 de janeiro de 2025, não admite álcool a quem conduz. Entre as bancas e os cafés, a bebida de quem conduz é sem álcool: veja o guia sobre o [álcool zero ao volante](/guia-de-aluguer/alcool-zero-ao-volante/).",
+            "**Telemóvel guardado.** Consulte o mapa com a mota parada; veja o guia sobre [roubo por esticão](/guia-de-aluguer/roubo-por-esticao/)."
+          ]
+        },
+        {
+          "h3": "Perto do Tết"
+        },
+        "Uma notícia sem ano descreve a Âu Cơ congestionada todo o dia nas vésperas do Tết, que em 2027 é a 6 de fevereiro. Nessas semanas, não conte com uma rua fluida: veja o guia sobre o [Tết em Hanói](/rotas-e-mobilidade/tet-em-hanoi/)."
+      ]
+    },
+    {
+      "h2": "Antes de sair: lista de verificação",
+      "body": [
+        {
+          "checklist": [
+            "Hora de devolução da mota combinada por escrito com a loja, pelos [contactos](/contactos/).",
+            "Janela da visita escolhida: ambiente (22:00 à meia-noite) ou auge (01:00 às 04:00).",
+            "Morada «236 Âu Cơ» marcada no mapa, em modo mota, com o mapa descarregado.",
+            "Parque com funcionário identificado numa rua lateral e hora de fecho confirmada.",
+            "Carta de condução e documentos consigo; o guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/) explica o que levar.",
+            "Morada da loja em vietnamita guardada no telemóvel, para o táxi: {{address.vi}}.",
+            "Quem conduz não bebe nada, do princípio ao fim da noite."
+          ]
+        },
+        "Para o resto do lago, veja a [volta ao Lago Oeste de mota](/zonas-de-hanoi/volta-ao-lago-oeste/) e o [passeio noturno de mota em Hanói](/rotas-e-mobilidade/hanoi-a-noite-de-mota/)."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "A que horas abre o mercado de flores de Quảng An?",
+      "a": "Segundo os guias consultados, abre às 22:00 ou às 23:00 e fecha entre as 04:00 e as 05:00; uma fonte diz que se prolonga até cerca do meio-dia. O auge é entre as 02:00 e as 04:00. Não há horário oficial, por isso confirme no local."
+    },
+    {
+      "q": "Posso estacionar a mota na rua Âu Cơ?",
+      "a": "Segundo uma notícia de 24 de setembro de 2024, desde 22 de setembro é proibido estacionar nos dois sentidos de toda a Âu Cơ, incluindo as duas vias de 5 m. Confirme os sinais no local e use um parque numa rua lateral."
+    },
+    {
+      "q": "Há parque de estacionamento do mercado?",
+      "a": "Não encontrámos nenhum parque do mercado, nem preços. Procure um parque com funcionário numa rua lateral, peça a senha, pergunte o preço e até que horas fecha, e siga a pé para o mercado."
+    },
+    {
+      "q": "Posso ficar com a mota alugada durante a noite para ir ao mercado?",
+      "a": "Depende da loja, e não o podemos prometer. A loja está aberta {{hours}}: pergunte pelos contactos se pode ficar com a mota de noite e até que horas a devolve no dia seguinte, e peça a resposta por escrito."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Guia do mercado de flores de Quảng An (em vietnamita)",
+      "publisher": "MIA.vn",
+      "url": "https://mia.vn/cam-nang-du-lich/cho-hoa-quang-an-au-co-19960",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Artigo da MIA.vn sobre o mercado de flores de Quảng Bá à noite (em vietnamita)",
+      "publisher": "MIA.vn",
+      "url": "https://mia.vn/cam-nang-du-lich/kham-pha-cho-hoa-quang-ba-ve-dem-co-gi-dac-sac-10429",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Guia da Xanh SM sobre o mercado de flores de Quảng An (em vietnamita)",
+      "publisher": "Xanh SM (GSM)",
+      "url": "https://www.greensm.com/vn-vi/news/cho-hoa-quang-an-ha-noi",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Hấp dẫn chợ hoa Quảng An",
+      "publisher": "Nhân Dân",
+      "url": "https://nhandan.vn/hap-dan-cho-hoa-quang-an-post733459.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Quảng An Flower Market, Hanoi, Vietnam",
+      "publisher": "Almost Landing",
+      "url": "https://almostlanding.com/quang-an-flower-market-hanoi-vietnam/",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "en"
+    },
+    {
+      "title": "Notícia sobre a reorganização do trânsito na rua Âu Cơ, de 24 de setembro de 2024 (em vietnamita)",
+      "publisher": "Luật sư Việt Nam (lsvn.vn)",
+      "url": "https://lsvn.vn/ha-noi-to-chuc-lai-giao-thong-tren-duong-au-co-nguoi-dan-can-luu-y-1727134557.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Notícia da VOH sobre a organização do trânsito na rua Âu Cơ (em vietnamita)",
+      "publisher": "VOH",
+      "url": "https://voh.com.vn/xa-hoi/so-gtvt-ha-noi-phan-luong-giao-thong-duong-au-co-503701.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Đường phố Hà Nội kẹt cứng ngày giáp Tết",
+      "publisher": "Báo Mới",
+      "url": "https://baomoi.com/duong-pho-ha-noi-ket-cung-ngay-giap-tet-c41618164.epi",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Tết âm lịch 2027 là ngày mấy dương lịch?",
+      "publisher": "Thư Viện Pháp Luật",
+      "url": "https://thuvienphapluat.vn/hoi-dap-phap-luat/tet-am-lich-2027-la-ngay-may-duong-lich-138050948.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "Mức phạt đỗ xe máy, đi xe máy trên vỉa hè năm 2026 là bao nhiêu?",
+      "publisher": "THƯ VIỆN PHÁP LUẬT",
+      "url": "https://thuvienphapluat.vn/phap-luat-nha-dat/muc-phat-do-xe-may-di-xe-may-tren-via-he-nam-2026-la-bao-nhieu-14552.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "Điều khiển xe máy vượt đèn đỏ, đi trên vỉa hè bị phạt từ 4-6 triệu đồng",
+      "publisher": "Portal de divulgação jurídica da cidade de Cần Thơ (pbgdpl.cantho.gov.vn)",
+      "url": "https://pbgdpl.cantho.gov.vn/dieu-khien-xe-may-vuot-den-do-di-tren-via-he-bi-phat-tu-4-6-trieu-dong",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "vi"
+    },
+    "tuoitre-alcool-zero"
+  ],
+  "legal_note": true,
+  "date_published": "2026-10-14",
+  "date_modified": "2026-10-14",
+  "editorial": {
+    "qa_score": 100,
+    "qa_warnings": [],
+    "words": 1994,
+    "publish_mode": "review",
+    "approved_at": "2026-10-14",
+    "revisions": []
+  }
+}
