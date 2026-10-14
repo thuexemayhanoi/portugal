@@ -115,7 +115,7 @@
             "**Regras gerais** de documentos, capacete e álcool — ver as [perguntas frequentes](/perguntas-frequentes/)."
           ]
         },
-        "Concentre as suas perguntas no que é específico do seu aluguer: datas, unidade, caução, entrega e devolução."
+        "Vários destes pontos estão resumidos na página inicial da [loja de aluguer de motas em Long Biên](/). Concentre as suas perguntas no que é específico do seu aluguer: datas, unidade, caução, entrega e devolução."
       ]
     },
     {
@@ -213,15 +213,15 @@
   },
   "status": "PUBLISHED",
   "date_published": "2026-10-12",
-  "date_modified": "2026-10-13",
+  "date_modified": "2026-10-14",
   "editorial": {
     "qa_score": 98,
     "qa_warnings": [
       "literal VND amount \"600.000 VND\": business prices must use {{price.*}} tokens (legal amounts are fine with a source)"
     ],
-    "words": 1610,
+    "words": 1627,
     "publish_mode": "review",
-    "approved_at": "2026-10-13",
+    "approved_at": "2026-10-14",
     "revisions": [
       {
         "date": "2026-10-13",
@@ -230,6 +230,10 @@
       {
         "date": "2026-10-13",
         "reason": "Coimas em Hanói: aviso sobre a Resolução 56/2026/NQ-HĐND"
+      },
+      {
+        "date": "2026-10-14",
+        "reason": "Ligação contextual para a página inicial de aluguer de motas em Hanói (página principal do tema)."
       }
     ]
   }

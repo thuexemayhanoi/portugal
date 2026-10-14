@@ -21,7 +21,7 @@
     {
       "h2": "Sexta a domingo: quantos dias paga e como se contam",
       "body": [
-        "«De sexta a domingo» pode querer dizer duas coisas numa loja de aluguer. Se os dias se contam por data de calendário, são três: sexta, sábado e domingo. Se se contam períodos de 24 horas a partir do levantamento, uma mota levantada na sexta à tarde e devolvida à mesma hora de domingo paga dois dias. A diferença altera o total e a hora a que tem de entregar a mota.",
+        "Numa loja de [motas para alugar em Hanói](/), «de sexta a domingo» pode querer dizer duas coisas. Se os dias se contam por data de calendário, são três: sexta, sábado e domingo. Se se contam períodos de 24 horas a partir do levantamento, uma mota levantada na sexta à tarde e devolvida à mesma hora de domingo paga dois dias. A diferença altera o total e a hora limite de entrega.",
         "O site não publica a forma de contagem da loja: pergunte-a ao reservar. O guia sobre a [hora de devolução e a contagem do dia](/precos/horas-de-levantamento-e-devolucao/) explica as duas formas; num fim de semana, vêem-se assim:",
         {
           "table": {
@@ -185,7 +185,7 @@
   },
   "status": "PUBLISHED",
   "date_published": "2026-10-13",
-  "date_modified": "2026-10-13",
+  "date_modified": "2026-10-14",
   "editorial": {
     "qa_score": 98,
     "qa_warnings": [
@@ -193,11 +193,15 @@
     ],
     "words": 1818,
     "publish_mode": "review",
-    "approved_at": "2026-10-13",
+    "approved_at": "2026-10-14",
     "revisions": [
       {
         "date": "2026-10-13",
         "reason": "Ligações internas para artigos publicados depois"
+      },
+      {
+        "date": "2026-10-14",
+        "reason": "Ligação contextual para a página inicial de aluguer de motas em Hanói (página principal do tema)."
       }
     ]
   }

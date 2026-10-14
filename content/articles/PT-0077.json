@@ -62,7 +62,7 @@
     {
       "h2": "Escolher a duração: uma semana de ensaio antes do mês",
       "body": [
-        "Quem chega para uma estadia longa raramente sabe, no primeiro dia, quantas vezes vai usar a mota. Uma forma prudente de começar é alugar uma semana como ensaio: no fim, já sabe se a mota entrou na rotina ou se ficou parada à porta.",
+        "Quem chega para uma estadia longa raramente sabe, no primeiro dia, quantas vezes vai usar a mota. Uma forma prudente de começar é alugar uma semana como ensaio: no fim, já sabe se a mota entrou na rotina ou se ficou parada à porta. Se [aterra à noite](/precos/chegada-a-noite-a-hanoi/), levante-a na manhã seguinte.",
         {
           "steps": [
             {
@@ -244,10 +244,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 2192,
+    "words": 2200,
     "publish_mode": "review",
     "approved_at": "2026-10-14",
     "revisions": [
+      {
+        "date": "2026-10-14",
+        "reason": "Ligações internas para artigos publicados depois"
+      },
       {
         "date": "2026-10-14",
         "reason": "Ligações internas para artigos publicados depois"

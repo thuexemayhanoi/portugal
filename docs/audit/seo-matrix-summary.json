@@ -4,18 +4,16 @@
   "indexable": 332,
   "priority": {
     "P0": 0,
-    "P1": 13,
-    "P2": 96,
-    "OK": 223
+    "P1": 0,
+    "P2": 79,
+    "OK": 253
   },
   "issues": {
-    "P1 canibalização HIGH com …": 2,
-    "P1 canibalização MEDIUM com …": 12,
     "P2 página curta (N palavras)": 1,
     "P2 palavra-chave «…» quase ausente da description": 49,
     "P2 sem fontes citadas (guia de procedimento)": 6,
     "P2 só N fontes": 26,
-    "P2 só N ligação contextual de entrada": 26
+    "P2 só N ligação contextual de entrada": 2
   },
   "money_keywords": [
     {
@@ -24,7 +22,7 @@
       "title": "Aluguer de motas em Hanói | Scooters, 50 cc e preços",
       "title_coverage": 1,
       "h1_coverage": 1,
-      "contextual_in": 4,
+      "contextual_in": 20,
       "competing_titles": []
     },
     {
@@ -83,10 +81,13 @@
     }
   ],
   "home_anchor_texts": {
-    "loja de aluguer de motas em Long Biên": 1,
-    "loja de aluguer de motas em Hanói": 1,
-    "aluguer de motas em Hanói": 1,
-    "alugar uma mota": 1
+    "loja de aluguer de motas em Long Biên": 3,
+    "loja de aluguer de motas em Hanói": 3,
+    "aluguer de motas em Hanói": 5,
+    "alugar uma mota": 1,
+    "motas para alugar em Hanói": 2,
+    "scooters e motas para alugar em Hanói": 1,
+    "alugar uma mota em Hanói": 5
   },
   "not_measured": [
     "Search Console / Bing: impressões, cliques, CTR, posição e estado de indexação (ligação por configurar, ver docs/OWNER-ACTIONS.md)",

@@ -138,7 +138,7 @@
               ],
               [
                 "Cruzamentos e semáforos",
-                "Percurso com três ou quatro cruzamentos; pare antes da linha e arranque só com o verde",
+                "Percurso com três ou quatro cruzamentos; pare antes da linha e arranque só com o verde; veja quem cede a passagem no guia de [cruzamentos e rotundas em Hanói](/guia-de-aluguer/cruzamentos-e-rotundas/)",
                 "Chega aos cruzamentos à velocidade certa, sem travagens bruscas"
               ],
               [
@@ -331,10 +331,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 2611,
+    "words": 2624,
     "publish_mode": "review",
     "approved_at": "2026-10-14",
     "revisions": [
+      {
+        "date": "2026-10-14",
+        "reason": "Ligações internas para artigos publicados depois"
+      },
       {
         "date": "2026-10-14",
         "reason": "Ligações internas para artigos publicados depois"

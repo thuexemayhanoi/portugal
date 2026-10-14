@@ -169,7 +169,7 @@
     {
       "h2": "Autocarro, mota ou táxi: onde cada um faz sentido",
       "body": [
-        "No centro, dentro do Anel Viário 1, o autocarro subsidiado é a opção mais barata até 30 de junho de 2027. Fora das linhas, com várias paragens ou quando quer sair de Hanói, a mota alugada dá liberdade. O táxi serve para malas, chuva forte e noites com bebidas.",
+        "No centro, dentro do Anel Viário 1, o autocarro subsidiado é a opção mais barata até 30 de junho de 2027. Fora das linhas, com várias paragens ou quando quer sair de Hanói, a mota alugada dá liberdade. O táxi serve para malas, chuva forte e noites com bebidas. Sem conduzir, há ainda a [mota com condutor](/rotas-e-mobilidade/mota-com-condutor/), o xe ôm, que se pede por aplicação ou se combina na rua.",
         "Os preços da mota por dia, semana e mês estão na [página de preços](/precos/). O guia sobre [quando é melhor não conduzir](/rotas-e-mobilidade/quando-nao-conduzir/) mostra as situações em que o transporte público ou o táxi são a escolha certa. As duas opções combinam-se: deixe a mota num parque e siga de autocarro entre pontos do centro."
       ]
     },
@@ -348,15 +348,20 @@
   },
   "status": "PUBLISHED",
   "date_published": "2026-10-13",
-  "date_modified": "2026-10-13",
+  "date_modified": "2026-10-14",
   "editorial": {
     "qa_score": 98,
     "qa_warnings": [
       "source code X: Entidade ou operador oficial (metro, autocarros, ferrovia, aeroporto, preços oficiais de combustível, bancos)."
     ],
-    "words": 1964,
+    "words": 1985,
     "publish_mode": "review",
-    "approved_at": "2026-10-13",
-    "revisions": []
+    "approved_at": "2026-10-14",
+    "revisions": [
+      {
+        "date": "2026-10-14",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

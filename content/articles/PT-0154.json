@@ -23,7 +23,7 @@
       "body": [
         "A obrigação tem duas partes: usar capacete e apertá-lo corretamente. Aplica-se a quem conduz e a quem vai atrás, tanto num motociclo como numa mota até 50 cm³ (xe gắn máy). Segundo o Decreto 168/2024/NĐ-CP, em vigor desde 1 de janeiro de 2025, não usar capacete, ou usá-lo com a fita por apertar, dá uma coima de 400 mil a 600 mil VND.",
         "O passageiro também é assunto de quem conduz. Segundo o jornal vietnamita Pháp Luật TP.HCM, se quem vai atrás não usar capacete ou não apertar a fivela como deve, tanto o passageiro como o condutor podem ser multados. Antes de arrancar, olhe para a fivela de quem leva consigo, e não só para a sua.",
-        "As crianças têm de usar capacete a partir dos 6 anos, como qualquer outro passageiro.",
+        "As crianças têm de usar capacete a partir dos 6 anos, como qualquer outro passageiro. O guia sobre [crianças de mota no Vietname](/guia-de-aluguer/criancas-na-mota/) explica as idades que a lei fixa, o capacete à medida de uma criança e as alternativas à mota.",
         {
           "note": "Os montantes acima são os de nível nacional. Desde 1 de julho de 2026, a Resolução 56/2026/NQ-HĐND de Hanói multiplica por 1,5 ou por 2 as coimas de 28 infrações cometidas na cidade. À data de consulta, não foi possível confirmar se a falta de capacete está entre elas.",
           "tone": "info",
@@ -261,13 +261,18 @@
   },
   "status": "PUBLISHED",
   "date_published": "2026-10-13",
-  "date_modified": "2026-10-13",
+  "date_modified": "2026-10-14",
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 2096,
+    "words": 2123,
     "publish_mode": "review",
-    "approved_at": "2026-10-13",
-    "revisions": []
+    "approved_at": "2026-10-14",
+    "revisions": [
+      {
+        "date": "2026-10-14",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

@@ -184,7 +184,7 @@
             "condução só de dia, com paragens, e o percurso partilhado com alguém de confiança."
           ]
         },
-        "Se a viagem exceder o que a mota, a experiência ou o tempo permitem, há alternativas na tabela acima. O resto do aluguer está nas [15 perguntas a fazer antes de alugar](/guia-de-aluguer/perguntas-antes-de-alugar/) e na [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/); mais ideias estão em [rotas e mobilidade](/rotas-e-mobilidade/), e a loja responde pela página de [contactos](/contactos/)."
+        "Se a viagem exceder o que a mota, a experiência ou o tempo permitem, há alternativas na tabela acima. O resto do aluguer está nas [15 perguntas a fazer antes de alugar](/guia-de-aluguer/perguntas-antes-de-alugar/) e na [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/); mais ideias, como [Ninh Bình de mota](/rotas-e-mobilidade/ninh-binh-de-mota/), estão em [rotas e mobilidade](/rotas-e-mobilidade/), e a loja responde pela página de [contactos](/contactos/)."
       ]
     }
   ],
@@ -343,13 +343,18 @@
   },
   "status": "PUBLISHED",
   "date_published": "2026-10-13",
-  "date_modified": "2026-10-13",
+  "date_modified": "2026-10-14",
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 2194,
+    "words": 2199,
     "publish_mode": "review",
-    "approved_at": "2026-10-13",
-    "revisions": []
+    "approved_at": "2026-10-14",
+    "revisions": [
+      {
+        "date": "2026-10-14",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

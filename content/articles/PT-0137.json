@@ -29,7 +29,7 @@
             "**Registo:** a conversa guarda o que foi combinado — preço, datas, documentos — e serve de referência no levantamento e na devolução."
           ]
         },
-        "O número da loja, {{phone}}, serve para chamadas e para o Zalo, a aplicação de mensagens mais usada no Vietname; os dados completos estão em [Contactos](/contactos/). Não parta do princípio de que quem responde fala inglês ou português. Escreva de modo que a mensagem se entenda depois de traduzida, seja qual for a língua em que a escreve."
+        "O número da loja, {{phone}}, serve para chamadas e para o Zalo, a aplicação de mensagens mais usada no Vietname; os dados completos estão em [Contactos](/contactos/). O guia sobre [como usar o Zalo para falar com a loja](/guia-de-aluguer/como-usar-o-zalo/) explica como instalar a aplicação e abrir a conversa. Não parta do princípio de que quem responde fala inglês ou português. Escreva de modo que a mensagem se entenda depois de traduzida, seja qual for a língua em que a escreve."
       ]
     },
     {
@@ -246,12 +246,16 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1835,
+    "words": 1856,
     "publish_mode": "review",
     "approved_at": "2026-10-14",
     "revisions": [
       {
         "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      },
+      {
+        "date": "2026-10-14",
         "reason": "Ligações internas para artigos publicados depois"
       },
       {

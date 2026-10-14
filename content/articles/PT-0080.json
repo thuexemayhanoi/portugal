@@ -21,7 +21,7 @@
     {
       "h2": "O que significa reservar neste caso",
       "body": [
-        "Este site é informativo: não aceita reservas nem pagamentos, como indicam os [termos e condições](/termos-e-condicoes/). Reservar significa combinar diretamente com a loja o modelo, as datas e o preço, e receber essa confirmação por escrito.",
+        "Este site é informativo: não aceita reservas nem pagamentos, como indicam os [termos e condições](/termos-e-condicoes/). Reservar significa combinar diretamente com a loja o modelo, as datas e o preço, e receber essa confirmação por escrito. Os passos gerais para [alugar uma mota em Hanói](/), do primeiro contacto à devolução, estão resumidos na página inicial.",
         "Na prática, uma «reserva» pode querer dizer coisas diferentes, e convém saber qual se aplica ao seu caso:",
         {
           "ul": [
@@ -229,13 +229,17 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1806,
+    "words": 1825,
     "publish_mode": "review",
     "approved_at": "2026-10-14",
     "revisions": [
       {
         "date": "2026-10-14",
         "reason": "Ligações internas para artigos publicados depois"
+      },
+      {
+        "date": "2026-10-14",
+        "reason": "Ligação contextual para a página inicial de aluguer de motas em Hanói (página principal do tema)."
       }
     ]
   }

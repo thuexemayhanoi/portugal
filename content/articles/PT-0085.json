@@ -14,7 +14,7 @@
     "Com malas, chuva forte, à noite ou em trajetos longos, levar parte da família de táxi é muitas vezes mais sensato do que forçar a mota."
   ],
   "intro": [
-    "Explorar Hanói de mota em família segue uma lógica diferente da de um casal ou de quem viaja sozinho. A questão deixa de ser só o modelo: é preciso decidir quantas motas alugar, quem conduz cada uma, onde vão as crianças e o que fazer nos dias em que a mota não serve a todos.",
+    "O [aluguer de motas em Hanói](/), em família, segue uma lógica diferente da de um casal ou de quem viaja sozinho. A questão deixa de ser só o modelo: é preciso decidir quantas motas alugar, quem conduz cada uma, onde vão as crianças e o que fazer nos dias em que a mota não serve a todos.",
     "Este guia ajuda a fazer essas contas pela ordem certa: primeiro os condutores, depois os passageiros, a seguir os capacetes, o orçamento e a organização das deslocações. As regras de passageiros aqui resumidas foram consultadas a 12 de outubro de 2026, e os preços de referência de cada modelo estão na [página de preços](/precos/)."
   ],
   "sections": [
@@ -239,13 +239,13 @@
   },
   "status": "PUBLISHED",
   "date_published": "2026-10-13",
-  "date_modified": "2026-10-13",
+  "date_modified": "2026-10-14",
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 2198,
+    "words": 2200,
     "publish_mode": "review",
-    "approved_at": "2026-10-13",
+    "approved_at": "2026-10-14",
     "revisions": [
       {
         "date": "2026-10-13",
@@ -254,6 +254,10 @@
       {
         "date": "2026-10-13",
         "reason": "Coimas em Hanói: aviso sobre a Resolução 56/2026/NQ-HĐND"
+      },
+      {
+        "date": "2026-10-14",
+        "reason": "Ligação contextual para a página inicial de aluguer de motas em Hanói (página principal do tema)."
       }
     ]
   }

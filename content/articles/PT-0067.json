@@ -100,7 +100,7 @@
           ]
         },
         "As questões comuns a qualquer aluguer — documentos, capacetes, combustível — estão reunidas nas [15 perguntas a fazer antes de alugar](/guia-de-aluguer/perguntas-antes-de-alugar/), e a caução tem explicação própria no guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/).",
-        "Pode juntar tudo numa só mensagem, por telefone ou Zalo, para o {{phone}}. A morada e o horário da loja estão na página de [contactos](/contactos/)."
+        "Pode juntar tudo numa só mensagem, por telefone ou Zalo, para o {{phone}}. A morada e o horário da loja estão na página de [contactos](/contactos/). Se ainda está a conhecer a loja, a página inicial mostra em poucos passos como [alugar uma mota em Hanói](/)."
       ]
     },
     {
@@ -242,17 +242,21 @@
   },
   "status": "PUBLISHED",
   "date_published": "2026-10-13",
-  "date_modified": "2026-10-13",
+  "date_modified": "2026-10-14",
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 2346,
+    "words": 2366,
     "publish_mode": "review",
-    "approved_at": "2026-10-13",
+    "approved_at": "2026-10-14",
     "revisions": [
       {
         "date": "2026-10-13",
         "reason": "Ligações internas para artigos publicados depois"
+      },
+      {
+        "date": "2026-10-14",
+        "reason": "Ligação contextual para a página inicial de aluguer de motas em Hanói (página principal do tema)."
       }
     ]
   }

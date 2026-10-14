@@ -138,7 +138,7 @@
             "Uma fotografia de qualquer papel que lhe entreguem ou lhe peçam para assinar."
           ]
         },
-        "Se a outra parte propuser resolver o assunto com dinheiro no local, diga que precisa primeiro de falar com a loja. Não é o momento de aceitar culpas nem de combinar valores. O guia sobre [danos na mota alugada](/precos/danos-na-mota-alugada/) explica como se avaliam e se documentam, mais tarde e com calma."
+        "Se a outra parte propuser resolver o assunto com dinheiro no local, diga que precisa primeiro de falar com a loja. Não é o momento de aceitar culpas nem de combinar valores. Se foi só um toque e ninguém ficou ferido, veja como agir numa [colisão ligeira de mota](/guia-de-aluguer/colisao-ligeira-sem-feridos/), incluindo o que responder a um pedido de dinheiro no local e o que deve ficar escrito se houver um acordo. O guia sobre [danos na mota alugada](/precos/danos-na-mota-alugada/) explica como se avaliam e se documentam, mais tarde e com calma."
       ]
     },
     {
@@ -344,13 +344,18 @@
   },
   "status": "PUBLISHED",
   "date_published": "2026-10-13",
-  "date_modified": "2026-10-13",
+  "date_modified": "2026-10-14",
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 2628,
+    "words": 2666,
     "publish_mode": "review",
-    "approved_at": "2026-10-13",
-    "revisions": []
+    "approved_at": "2026-10-14",
+    "revisions": [
+      {
+        "date": "2026-10-14",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

@@ -237,7 +237,7 @@
       "h2": "Quando um dia de mota não compensa",
       "body": [
         "Há dias em que alugar uma mota não é a melhor opção. Se vai fazer apenas duas ou três deslocações curtas, um táxi ou uma mota com condutor pode sair mais simples. O mesmo vale para dias de chuva intensa, para planos que incluem bebidas alcoólicas ou para quem nunca conduziu uma mota.",
-        "Se, pelo contrário, quer liberdade para explorar a cidade ao seu ritmo e tem a documentação em ordem, um dia de mota é uma excelente forma de conhecer Hanói. Quando tiver as datas, [contacte a loja](/contactos/) para confirmar o modelo e o preço final."
+        "Se, pelo contrário, quer liberdade para explorar a cidade ao seu ritmo e tem a documentação em ordem, um dia de mota é uma excelente forma de conhecer Hanói. Quando tiver as datas, [contacte a loja](/contactos/) para confirmar o modelo e o preço final. Se ainda estiver a comparar, a página inicial reúne os tipos de mota, os preços de referência e os passos do [aluguer de motas em Hanói](/)."
       ]
     }
   ],
@@ -274,15 +274,15 @@
   },
   "status": "PUBLISHED",
   "date_published": "2026-10-12",
-  "date_modified": "2026-10-13",
+  "date_modified": "2026-10-14",
   "editorial": {
     "qa_score": 98,
     "qa_warnings": [
       "literal VND amount \"600.000 VND\": business prices must use {{price.*}} tokens (legal amounts are fine with a source)"
     ],
-    "words": 1627,
+    "words": 1653,
     "publish_mode": "review",
-    "approved_at": "2026-10-13",
+    "approved_at": "2026-10-14",
     "revisions": [
       {
         "date": "2026-10-13",
@@ -291,6 +291,10 @@
       {
         "date": "2026-10-13",
         "reason": "Coimas em Hanói: aviso sobre a Resolução 56/2026/NQ-HĐND"
+      },
+      {
+        "date": "2026-10-14",
+        "reason": "Ligação contextual para a página inicial de aluguer de motas em Hanói (página principal do tema)."
       }
     ]
   }

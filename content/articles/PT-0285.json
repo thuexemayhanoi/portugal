@@ -54,7 +54,7 @@
             ]
           }
         },
-        "Não há um «mês certo»: a transição entre estações, quando o ar quente e o frio se defrontam, é o que as fontes apontam em comum. Em Hanói houve granizo em 30 de março de 2026, de manhã, e noutra ocasião a 2 de maio, ao fim da tarde, por volta das 18:00–19:00. Quanto à intensidade, numa manhã de 5 de junho de 2024 a imprensa contou milhares de descargas em Hanói e arredores: mais de 7.000 num título, 10.212 noutro, e o SGGP escreveu que mais de 10.000 descargas não são um fenómeno anormal."
+        "Não há um «mês certo»: a transição entre estações, quando o ar quente e o frio se defrontam, é o que as fontes apontam em comum. Em Hanói houve granizo em 30 de março de 2026, de manhã, e noutra ocasião a 2 de maio, ao fim da tarde, por volta das 18:00–19:00. Quanto à intensidade, numa manhã de 5 de junho de 2024 a imprensa contou milhares de descargas em Hanói e arredores: mais de 7.000 num título, 10.212 noutro, e o SGGP escreveu que mais de 10.000 descargas não são um fenómeno anormal. Entre fevereiro e abril, o piso também pode ficar molhado e escorregadio sem chuva: é o nồm, descrito no guia sobre a [humidade nồm em Hanói](/rotas-e-mobilidade/humidade-nom-na-primavera/)."
       ]
     },
     {
@@ -353,9 +353,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1650,
+    "words": 1676,
     "publish_mode": "review",
     "approved_at": "2026-10-14",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-14",
+        "reason": "Ligações internas para artigos publicados depois"
+      }
+    ]
   }
 }

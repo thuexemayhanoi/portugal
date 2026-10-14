@@ -158,7 +158,7 @@
             "como se contactam se algo correr mal, e qual é o número da loja: {{phone}}."
           ]
         },
-        "Partilhe também com quem conduz as fotografias tiradas no levantamento e a conversa com a loja. Se for preciso explicar um risco ou uma avaria, essas imagens servem aos dois; o guia para [fotografar a mota](/guia-de-aluguer/fotografar-a-mota/) mostra como as fazer."
+        "Partilhe também com quem conduz as fotografias tiradas no levantamento e a conversa com a loja. Se for preciso explicar um risco ou uma avaria, essas imagens servem aos dois; o guia para [fotografar a mota](/guia-de-aluguer/fotografar-a-mota/) mostra como as fazer. Se quem vai conduzir precisar de dados móveis ou de um número local para falar com a loja e consigo, o guia do [cartão SIM ou eSIM no Vietname](/guia-de-aluguer/cartao-sim-no-vietname/) explica as opções e o registo com passaporte."
       ]
     },
     {
@@ -260,10 +260,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 2041,
+    "words": 2078,
     "publish_mode": "review",
     "approved_at": "2026-10-14",
     "revisions": [
+      {
+        "date": "2026-10-14",
+        "reason": "Ligações internas para artigos publicados depois"
+      },
       {
         "date": "2026-10-14",
         "reason": "Ligações internas para artigos publicados depois"

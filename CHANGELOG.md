@@ -1,5 +1,15 @@
 # Changelog
 
+## 1.7.0 — 2026-10-14 · auditoria SEO por URL e otimização em lotes
+
+- **SEO Master Matrix** (`node scripts/seo-matrix.mjs`): cada um dos 332 URLs classificado em P0/P1/P2 (técnico, on-page, conteúdo, E-E-A-T, schema, ligações, mobile, AEO/GEO), com a canibalização calculada a partir do conteúdo atual e os grupos de palavras-chave comerciais com uma página de destino cada. Resultado: P0 0 · P1 98 → 0.
+- **Ligações internas:** 0 artigos órfãos (eram 79); +24 ligações para artigos com uma só entrada; a página inicial passa a ser o destino de «aluguer de motas em Hanói», com 20 ligações contextuais e âncoras variadas.
+- **Texto repetido entre artigos:** 6 artigos reescritos para remeter para os guias de referência (estacionamento, ponte Long Biên, zona de baixas emissões, álcool, documentos); nenhum par acima de 0,10 de sobreposição.
+- **Correções de factos** (revisão do lote anterior): pontos na carta, roda bloqueada, notas de polímero, terminais de autocarros, hora de fecho por token.
+- `llms.txt` lista a página inicial e as 18 categorias; título do arquivo de duração distinto da página de preços.
+- **CWV de laboratório** (`scripts/tools/cwv-lab.mjs`): LCP ≤ 0,84 s, CLS 0, TBT ≤ 84 ms nos 8 modelos de página.
+- `docs/OWNER-ACTIONS.md`: o que só o proprietário pode fazer para a palavra-chave principal (Search Console, ligação do site principal, Perfil da Empresa, avaliações reais, fotografias).
+
 ## 1.6.0 — 2026-10-14 · plano de 300 artigos completo
 
 - **63 artigos novos** (300/300): técnica da semiautomática, notas e cartões, estacionamento e portagens, estações e comboio, Long Biên, Tây Hồ e Ba Đình, mercados, crianças, trovoada, Tam Đảo, entre outros. Todos com 0 erros de QA; o que as fontes não confirmam está dito no texto.
