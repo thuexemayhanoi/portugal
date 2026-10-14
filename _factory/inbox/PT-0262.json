@@ -1,0 +1,243 @@
+{
+  "contract_version": 1,
+  "id": "PT-0262",
+  "slug": "primeiro-passeio-de-mota",
+  "title": "Primeiro passeio de mota em Hanói: percurso calmo para começar",
+  "description": "Como planear o primeiro passeio de mota em Hanói: critérios para um percurso calmo, a hora certa, um método para o desenhar no mapa e os passeios seguintes.",
+  "h1": "O seu primeiro passeio de mota em Hanói: como escolher um percurso calmo",
+  "summary": "O primeiro passeio de mota em Hanói deve ser uma volta curta que começa e acaba no mesmo sítio, por avenidas largas e longe do Bairro Antigo, a meio do dia e fora das horas de ponta oficiais (06:00–09:00 e 16:00–19:30). Não há fonte que diga a que horas as ruas ficam vazias: planeie o regresso com luz e use o mapa com o trânsito.",
+  "key_points": [
+    "Escolha um circuito que acabe onde começou, com avenidas largas e poucos cruzamentos; deixe sentidos únicos, pontes e o Bairro Antigo para depois.",
+    "A cidade define as horas de ponta como 06:00–09:00 e 16:00–19:30 para limitar os camiões; a meio do dia, a decisão não permite camiões de 2 t ou mais no interior do anel 3,5.",
+    "No inverno, o sol põe-se por volta das 17:17: planeie estar de volta com pelo menos uma hora de luz.",
+    "O lago Oeste tem cerca de 17 km de volta e é um bom segundo passeio, não o primeiro.",
+    "Capacete apertado, telemóvel guardado e nenhum álcool: valem desde o primeiro quilómetro."
+  ],
+  "intro": [
+    "A pergunta «por onde começo?» é a mais comum de quem levanta uma mota em Hanói pela primeira vez. A resposta honesta é que o melhor percurso de iniciação não é um sítio, é um conjunto de condições: perto, circular, largo, a uma hora tranquila e com saídas se o ânimo falhar.",
+    "Este guia propõe um método em vez de um itinerário inventado. As fontes que consultámos não dizem que ruas têm menos trânsito nem em que estado estão, e não vamos fingir o contrário. Dizem, sim, quando a cidade espera mais movimento e quando o sol se põe, e com isso e com um mapa pode desenhar o seu passeio. Se ainda nunca conduziu uma mota, comece pelo plano de [primeiros dias a conduzir](/guia-de-aluguer/primeiros-dias-a-conduzir/)."
+  ],
+  "sections": [
+    {
+      "h2": "O que faz um percurso calmo: seis critérios",
+      "body": [
+        "Estes critérios são conselhos práticos, não regras nem resultados de estudos. Servem para escolher entre duas ruas que parecem iguais no mapa.",
+        {
+          "ul": [
+            "**Perto do ponto de partida.** Quanto menos se afastar da loja ou do alojamento, mais fácil é voltar quando a confiança cai.",
+            "**Circular.** Um circuito que regressa ao início poupa-lhe inversões de marcha e decisões a meio.",
+            "**Ruas largas e poucos cruzamentos.** Cada cruzamento é uma decisão a tomar com outros veículos à volta; o guia dos [cruzamentos e rotundas](/guia-de-aluguer/cruzamentos-e-rotundas/) explica como os atravessar.",
+            "**Sem sentidos únicos nem ruas pedonais.** O Bairro Antigo tem ambos, e o guia para [conduzir no Bairro Antigo](/zonas-de-hanoi/conduzir-no-bairro-antigo/) é para o segundo ou terceiro dia, não para o primeiro.",
+            "**Sem pontes nem estradas de camiões.** Uma ponte tem uma faixa estreita em que não se pode parar; a estrada do dique do rio Vermelho tem camiões pesados, como descreve o guia do [dique do rio Vermelho](/zonas-de-hanoi/estrada-do-dique-do-rio-vermelho/).",
+            "**Com saídas.** Procure no mapa duas ou três ruas laterais onde possa parar sem estorvar, para o caso de precisar de respirar."
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "A hora certa: o que a cidade diz sobre horas de ponta e camiões",
+      "body": [
+        "Nenhuma fonte consultada define as horas «calmas» de Hanói. O que existe é uma referência oficial das horas de ponta. Segundo a Decisão 01/2026/QĐ-UBND, de 4 de janeiro de 2026, em vigor desde 15 de janeiro de 2026, os camiões com menos de 2 t só circulam no interior da cidade, até ao anel 3,5, fora das horas de ponta, definidas como 06:00 às 09:00 e 16:00 às 19:30. Os camiões de 2 t ou mais só circulam entre as 21:00 e as 06:00.",
+        "Isto dá duas pistas úteis. A primeira é que as horas de ponta oficiais são de manhã e ao fim da tarde, pelo que um passeio de iniciação deve cair fora delas. A segunda é que à noite há mais camiões pesados, razão a mais para não fazer o primeiro passeio depois do jantar. A meio do dia, segundo esta norma, não há camiões de 2 t ou mais nessa área. Não verificámos a fiscalização, e a norma não diz que as ruas fiquem vazias: serve de referência, não de garantia.",
+        "A loja está aberta {{hours}}. Levantar a mota, inspecioná-la e tratar do que for preciso leva o seu tempo, o que faz o primeiro passeio cair naturalmente depois das 09:00, quando acaba a primeira janela de ponta da manhã. O guia das [horas de ponta em Hanói](/guia-de-aluguer/horas-de-ponta-em-hanoi/) reúne as notícias sobre onde apertou o trânsito em 2026.",
+        {
+          "h3": "A luz do dia marca a hora de regresso"
+        },
+        "As tabelas de 2026 para Hanói dão valores aproximados, que diferem em poucos minutos entre fontes.",
+        {
+          "table": {
+            "caption": "Luz do dia em Hanói em 2026 (valores aproximados) e o que implica",
+            "head": [
+              "Época",
+              "Sol",
+              "Hora de regresso sugerida"
+            ],
+            "rows": [
+              [
+                "Junho",
+                "Nasce por volta das 05:13 e põe-se por volta das 18:39",
+                "Antes das 16:00, para não apanhar a janela de ponta da tarde"
+              ],
+              [
+                "Dezembro e janeiro",
+                "Põe-se por volta das 17:17 em dezembro e nasce por volta das 06:35 em janeiro",
+                "Antes das 16:00, para ter pelo menos uma hora de luz"
+              ]
+            ]
+          }
+        },
+        "Em qualquer estação, o mais prudente é fixar uma hora de regresso antes de sair e cumpri-la, mesmo que ainda tenha vontade de continuar. A hora de regresso sugerida é um conselho nosso, não um horário oficial."
+      ]
+    },
+    {
+      "h2": "Desenhar a volta no mapa: um método em cinco passos",
+      "body": [
+        "Faça isto com a mota parada, na loja ou no alojamento, e não com o telemóvel na mão a conduzir.",
+        {
+          "steps": [
+            {
+              "title": "Marque o início e o fim no mesmo ponto",
+              "text": "O circuito começa e acaba onde estaciona, de preferência numa rua lateral onde já esteve a aquecer."
+            },
+            {
+              "title": "Limite a volta a 30 ou 45 minutos",
+              "text": "Como orientação, sem base em nenhuma norma. É o suficiente para sentir o peso da mota e o trânsito sem se cansar."
+            },
+            {
+              "title": "Veja o trânsito no mapa antes de sair",
+              "text": "Os mapas com trânsito em tempo real mostram onde há filas. Se o seu circuito aparecer vermelho, adie ou mude."
+            },
+            {
+              "title": "Procure sentidos únicos e ruas estreitas",
+              "text": "No mapa, evite ruas muito estreitas e confirme se alguma tem sentido único; siga sempre os sinais no local. O guia dos [sinais de trânsito vietnamitas](/guia-de-aluguer/sinais-de-transito-vietnamitas/) ajuda a lê-los."
+            },
+            {
+              "title": "Defina duas saídas",
+              "text": "Escolha duas ruas laterais onde parar a meio. Se hesitar, encoste ali, respire e decida se continua."
+            }
+          ]
+        },
+        "Para saber como ter o mapa à vista sem infringir a lei, veja o guia sobre [telemóvel e GPS na scooter](/tipos-de-motas/telemovel-e-gps-na-scooter/)."
+      ]
+    },
+    {
+      "h2": "Do primeiro passeio aos seguintes: uma escada",
+      "body": [
+        "Um primeiro passeio bem-sucedido é aquele em que volta com vontade de repetir. Daí em diante, pode subir degraus, um de cada vez.",
+        {
+          "table": {
+            "caption": "Uma escada de passeios, do mais simples ao mais exigente",
+            "head": [
+              "Passeio",
+              "O que treina",
+              "Guia"
+            ],
+            "rows": [
+              [
+                "Volta de aquecimento junto à loja, 20 a 30 minutos",
+                "Peso da mota, travões e arranque",
+                "[Treinar antes do trânsito](/guia-de-aluguer/treinar-antes-do-transito/)"
+              ],
+              [
+                "Passeio de uma hora por avenidas largas, circular",
+                "Cruzamentos, distância ao veículo da frente e ritmo",
+                "[Condução defensiva](/guia-de-aluguer/conducao-defensiva/)"
+              ],
+              [
+                "Volta ao lago Oeste, cerca de 17 km segundo o Vinpearl",
+                "Paragens, estacionamento e duração mais longa",
+                "[Volta ao Lago Oeste de mota](/zonas-de-hanoi/volta-ao-lago-oeste/)"
+              ],
+              [
+                "Travessia do rio e visita ao centro",
+                "Pontes, Bairro Antigo e estacionamento",
+                "[Ponte Long Biên de mota](/zonas-de-hanoi/ponte-long-bien/)"
+              ]
+            ]
+          }
+        },
+        "O lago Oeste ocupa cerca de 500 hectares, e as fontes divergem quanto à volta, entre 15 e 20 km. É um circuito óbvio, mas é uma estrada urbana com semáforos, esplanadas e peões, não um percurso reservado a motas. Faça-o quando já tiver feito os primeiros dois passeios com folga. Quando se sentir pronto para uma saída mais longa, o itinerário de [Hanói de mota num dia](/rotas-e-mobilidade/hanoi-de-mota-num-dia/) e o [roteiro dos cafés](/rotas-e-mobilidade/roteiro-dos-cafes/) dão-lhe uma razão para sair."
+      ]
+    },
+    {
+      "h2": "Durante o passeio: o que não negociar",
+      "body": [
+        {
+          "ul": [
+            "**Capacete apertado.** A coima por não o usar vai de 400 a 600 mil VND, segundo o Decreto 168/2024/NĐ-CP.",
+            "**Telemóvel guardado.** A lei proíbe usá-lo durante a condução; consulte o mapa com a mota parada.",
+            "**Álcool zero.** A lei, em vigor desde 1 de janeiro de 2025, não admite qualquer concentração de álcool a quem conduz; se parar para um café, a bebida é sem álcool.",
+            "**Distância e ritmo.** Guarde margem à frente e não tente acompanhar o ritmo das motas locais.",
+            "**Documentos consigo.** O guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/) separa o que conta para alugar do que conta para conduzir."
+          ]
+        },
+        "Se a chuva ou o cansaço aparecerem, abrevie o passeio. O guia sobre [quando é melhor não conduzir em Hanói](/rotas-e-mobilidade/quando-nao-conduzir/) ajuda a decidir sem culpa."
+      ]
+    },
+    {
+      "h2": "Depois do passeio: o que registar",
+      "body": [
+        "Ao regressar, pare uns minutos e tire notas, de cabeça ou no telemóvel. Responda a três perguntas: onde hesitou, o que correu melhor do que esperava e o que gostaria de repetir. A resposta diz-lhe se o passo seguinte é um circuito igual, um pouco mais longo ou mais um treino parado.",
+        "Se algo na mota o incomodou, como um travão esponjoso ou um espelho desajustado, diga-o à loja logo que possa, pelo {{phone}} ou na página de [Contactos](/contactos/). Não conduza uma mota de que não se fia. Para o passeio seguinte, o guia da [Rotas e mobilidade](/rotas-e-mobilidade/) reúne os itinerários urbanos."
+      ]
+    },
+    {
+      "h2": "O que as fontes não dizem",
+      "body": [
+        {
+          "ul": [
+            "As horas em que o trânsito de Hanói é mais calmo: o intervalo entre as duas janelas de ponta é uma inferência nossa, não um facto oficial.",
+            "O estado do piso e o trânsito nas ruas que se escolham: confirme no local e no mapa.",
+            "A fiscalização efetiva dos camiões nas horas definidas pela Decisão 01/2026/QĐ-UBND."
+          ]
+        },
+        "Por isso, o passeio que descrevemos é uma proposta de método. Ajuste-o ao que vir no mapa e na rua."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Qual é a melhor hora para o primeiro passeio de mota em Hanói?",
+      "a": "Nenhuma fonte define horas calmas. A cidade usa 06:00–09:00 e 16:00–19:30 como horas de ponta, pelo que o mais prudente é sair entre elas e regressar com luz do dia. Confirme o trânsito no mapa antes de arrancar."
+    },
+    {
+      "q": "Devo fazer a volta ao lago Oeste no primeiro dia?",
+      "a": "É preferível deixá-la para o segundo ou terceiro passeio. A volta tem cerca de 17 km, segundo o Vinpearl, mas passa por ruas normais da cidade, com semáforos, peões e esplanadas. Comece por um circuito curto perto da loja."
+    },
+    {
+      "q": "Posso usar o telemóvel como GPS durante o passeio?",
+      "a": "A lei proíbe usar o telemóvel durante a condução. Desenhe o percurso com a mota parada e consulte o mapa só nas paragens. O guia sobre telemóvel e GPS na scooter explica como ter o mapa à vista dentro da lei."
+    }
+  ],
+  "sources": [
+    {
+      "title": "1 vòng Hồ Tây bao nhiêu km",
+      "publisher": "Vinpearl",
+      "url": "https://vinpearl.com/vi/1-vong-ho-tay-bao-nhieu-km",
+      "accessed": "2026-10-14",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Hà Nội cấm xe tải 2 tấn vào nội đô từ 15/01/2026 theo khung giờ nào?",
+      "publisher": "Thư viện Pháp luật",
+      "url": "https://thuvienphapluat.vn/phap-luat-nha-dat/ha-noi-cam-xe-tai-2-tan-vao-noi-do-tu-15012026-theo-khung-gio-nao-14237.html",
+      "accessed": "2026-10-14",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "Horas de nascer e pôr do sol em Hanói, 2026 (Alpenglow, em inglês)",
+      "publisher": "Alpenglow",
+      "url": "https://www.alpenglowapp.com/times/hanoi",
+      "accessed": "2026-10-14",
+      "type": "reference",
+      "lang": "en"
+    },
+    {
+      "title": "Horas de nascer e pôr do sol no Vietname (Geo Countries, em inglês)",
+      "publisher": "Geo Countries",
+      "url": "https://www.geocountries.com/sunrise-sunset/vietnam",
+      "accessed": "2026-10-14",
+      "type": "reference",
+      "lang": "en"
+    },
+    {
+      "title": "Hanoi First Light, Sunrise & Sunset Times",
+      "publisher": "sunrisesunsettime.org",
+      "url": "https://www.sunrisesunsettime.org/asia/vietnam/hanoi.htm",
+      "accessed": "2026-10-14",
+      "type": "reference",
+      "lang": "en"
+    },
+    "lawnet-capacete-168",
+    "lawnet-proibicoes-2024",
+    "tuoitre-alcool-zero"
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "READY_FOR_QA"
+}

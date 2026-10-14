@@ -1,0 +1,165 @@
+{
+  "contract_version": 1,
+  "id": "PT-0057",
+  "slug": "bicicleta-eletrica-em-hanoi",
+  "title": "Bicicleta elétrica em Hanói: quando é melhor do que a mota",
+  "description": "Aluguer de bicicleta elétrica em Hanói: em que dias serve melhor do que a mota, quando fica curta, o que perguntar à loja e porque o preço é sob consulta.",
+  "h1": "Aluguer de bicicleta elétrica em Hanói: quando faz sentido em vez da mota",
+  "summary": "A bicicleta elétrica serve melhor do que a mota em dias de poucos quilómetros e ritmo calmo, e serve pior com chuva, calor, pontes, distâncias longas ou passageiro. Na tabela da loja o preço é {{price.bicicleta.day}}, por isso a escolha faz-se pelo uso. Idade, carta e vias permitidas não estão confirmadas: veja as regras e peça respostas por escrito.",
+  "key_points": [
+    "Na tabela de referência da loja, o preço da bicicleta elétrica é {{price.bicicleta.day}}: não dá para dizer que é mais barata do que a mota.",
+    "Serve melhor em dias de poucos quilómetros e ritmo calmo; serve pior com chuva, calor forte, pontes, distâncias longas ou passageiro.",
+    "A única referência concreta de autonomia que encontrámos é a de bicicletas públicas de Hanói: cerca de 90 km por carga, e não vale para a unidade da loja.",
+    "O capacete é obrigatório; a idade mínima, a carta e as vias permitidas não ficaram confirmadas nas fontes.",
+    "Peça por escrito a autonomia, o peso e o que está incluído antes de decidir entre bicicleta e mota."
+  ],
+  "intro": [
+    "Quem chega a Hanói e vê a quantidade de motas a circular pergunta-se se uma bicicleta elétrica não seria mais simples: sem mudanças, sem combustível, a um ritmo mais calmo. Às vezes é, e outras vezes é um erro caro de cansaço e de molha.",
+    "Este guia ajuda a decidir, dia a dia, entre as duas. Não repete as regras do capacete, da idade e das vias, que estão no guia sobre as [regras da bicicleta elétrica no Vietname](/tipos-de-motas/regras-bicicleta-eletrica-vietname/), nem o que se pode esperar de uma mota elétrica, explicado no guia do [aluguer de mota elétrica em Hanói](/tipos-de-motas/aluguer-de-mota-eletrica-em-hanoi/). Foca-se no que decide: quanto vai andar, por onde e com que tempo."
+  ],
+  "sections": [
+    {
+      "h2": "O que se compara: dois modos de andar e um preço por confirmar",
+      "body": [
+        "Na tabela de referência da loja, verificada a {{pricing.verifiedAt}}, a bicicleta elétrica aparece com o preço {{price.bicicleta.day}}. As motas e scooters com preço vão de {{price.min.day}} a {{price.max.day}} por dia. Como o valor da bicicleta não está publicado, não podemos dizer que fica mais barata ou mais cara: peça o orçamento para as suas datas e compare o total.",
+        {
+          "component": "price-table",
+          "category": "bicicletas-eletricas"
+        },
+        "Os valores da tabela referem-se só ao veículo. A caução, a entrega e os extras confirmam-se com a loja, que não os publica neste site. Se o orçamento ainda não chegou, comece por decidir pelo uso, que é o que as secções seguintes ajudam a fazer."
+      ]
+    },
+    {
+      "h2": "Quando a bicicleta elétrica serve melhor do que a mota",
+      "body": [
+        "A bicicleta elétrica faz sentido quando o dia é feito de deslocações curtas e sem pressa. Os cenários em que tende a servir bem são estes:",
+        {
+          "ul": [
+            "**Voltas de poucos quilómetros** entre o alojamento, um café e um ponto de visita, com tempo para parar e voltar atrás.",
+            "**Um ritmo calmo**, para quem prefere a velocidade de uma bicicleta ao fluxo das motas.",
+            "**Estadias longas com trajetos curtos**, em que a mota ficaria quase sempre parada.",
+            "**Quem se sente inseguro com uma mota** e quer um veículo mais leve, desde que as regras da unidade e do local o permitam."
+          ]
+        },
+        "Estes cenários têm um denominador comum: a distância total do dia cabe folgadamente na autonomia da bateria e o percurso evita as vias mais rápidas. Se nunca conduziu uma mota, o guia sobre [nunca conduziu uma mota](/tipos-de-motas/nunca-conduziu-uma-mota/) explica o que pesa nessa decisão.",
+        {
+          "h3": "O argumento da carta: ainda não confirmado"
+        },
+        "É comum ouvir que a bicicleta elétrica dispensa a carta de condução. Não o podemos afirmar: as fontes que consultámos tratam a carta para a mota elétrica, mas não para a bicicleta elétrica, e a definição legal de cada uma não apareceu. Uma mota elétrica de potência baixa pode já exigir carta, como mostra o guia da [carta para mota elétrica](/tipos-de-motas/carta-para-mota-eletrica/). Pergunte à loja se a unidade que lhe propõem exige carta ou idade mínima, e peça a resposta por escrito."
+      ]
+    },
+    {
+      "h2": "Quando a bicicleta elétrica não serve",
+      "body": [
+        "Há dias em que a bicicleta elétrica fica claramente atrás da mota, e convém saber quais antes de pagar o aluguer. A tabela cruza situações comuns com o que costuma pesar em cada uma.",
+        {
+          "table": {
+            "caption": "Situações em que a mota costuma servir melhor",
+            "head": ["Situação", "Porque pesa", "O que verificar"],
+            "rows": [
+              ["Distâncias longas ou saídas de um dia fora da cidade", "A bateria acaba, e o ritmo é mais lento do que o da mota", "A autonomia da unidade, com o seu peso e o seu percurso"],
+              ["Pontes sobre o rio Vermelho", "As rampas pedem esforço e a Long Biên tem circulação pela esquerda; em cheias já foi fechada a bicicletas", "O estado da ponte no dia e o percurso alternativo"],
+              ["Chuva forte", "Piso molhado e visibilidade reduzida, sem a proteção de uma capa de mota", "A previsão e se tem onde se abrigar"],
+              ["Calor do meio-dia", "O esforço soma-se ao calor, sobretudo nas subidas", "Horas do dia e pausas à sombra"],
+              ["Passageiro ou bagagem", "Muitas bicicletas elétricas não têm lugar para dois", "Se a unidade aceita passageiro e carga"],
+              ["Vias rápidas e autoestradas", "As autoestradas estão vedadas a motas e a veículos não motorizados", "Que ruas o percurso inclui"]
+            ]
+          }
+        },
+        "A chuva e o calor têm guias próprios: o da [época das chuvas em Hanói](/rotas-e-mobilidade/epoca-das-chuvas-em-hanoi/) descreve as ruas alagadas e o do [verão e calor em Hanói](/rotas-e-mobilidade/verao-e-calor-em-hanoi/) o que muda ao longo do dia. Para as pontes, o guia da [ponte Long Biên](/zonas-de-hanoi/ponte-long-bien/) explica o sentido de circulação e os encerramentos conhecidos."
+      ]
+    },
+    {
+      "h2": "Autonomia: a única referência concreta que encontrámos",
+      "body": [
+        "Para a bicicleta elétrica de aluguer na loja, não temos dados de autonomia. A única referência concreta vem das bicicletas públicas elétricas da TNGo, lançadas em Hanói em dezembro de 2022 como projeto-piloto: segundo a imprensa vietnamita, têm bateria amovível com cerca de 90 km de autonomia por carga e uma velocidade máxima de cerca de 25 km/h.",
+        "Estes números servem de ordem de grandeza e não valem para a unidade que a loja lhe entregue, que pode ser outro modelo. A autonomia anunciada costuma ser medida em condições favoráveis: o peso do condutor, o vento, as subidas e o uso do motor a plena potência reduzem-na, como explica o guia da [autonomia real de uma mota elétrica](/tipos-de-motas/autonomia-real-mota-eletrica/). Pergunte à loja a autonomia da unidade e peça uma margem para o seu percurso, e onde carrega a bateria, que o guia sobre [carregar uma mota elétrica alugada](/tipos-de-motas/carregar-mota-eletrica/) detalha."
+      ]
+    },
+    {
+      "h2": "A alternativa pública: bicicletas partilhadas em Hanói",
+      "body": [
+        "Não é obrigatório alugar a bicicleta numa loja. A rede pública da TNGo, aprovada pela cidade como projeto-piloto de 12 meses a partir de dezembro de 2022, arrancou com 1.000 bicicletas, metade elétricas, em 79 pontos de seis distritos centrais, e usa-se por aplicação com leitura de código QR. Uma notícia posterior, de data não legível, indicava que a empresa previa pôr mais de 5.000 bicicletas elétricas de duas rodas no centro de Hanói entre dezembro de 2025 e o primeiro trimestre de 2026.",
+        "Não confirmámos se a rede continua assim, onde estão hoje os pontos nem a tabela de preços atual: as fontes dão valores diferentes e sem data uniforme, por isso não os indicamos. Para uma volta curta e pontual, vale a pena abrir a aplicação e ver o que existe na sua zona. Para vários dias seguidos, com o mesmo veículo e a mesma bateria, o aluguer numa loja tende a ser mais previsível, e as perguntas abaixo ajudam a confirmá-lo.",
+        "Outras formas de circular sem mota, como o metro e o autocarro, estão no guia das [alternativas de transporte em Hanói](/rotas-e-mobilidade/alternativas-de-transporte/)."
+      ]
+    },
+    {
+      "h2": "Regras que mudam a decisão",
+      "body": [
+        "Três pontos de regras pesam na escolha e estão explicados no guia dedicado. O capacete é obrigatório na bicicleta elétrica, para quem conduz e para o passageiro, com coima de 400 mil a 600 mil VND ao abrigo do Decreto 168/2024, em vigor desde 1 de janeiro de 2025; a coima aplica-se também ao passageiro, com três exceções. A idade mínima e a carta não ficaram confirmadas. E a mota elétrica é outra categoria, com carta A1 ou A.",
+        "Se o seu plano passa por levar uma criança, o [guia da bicicleta elétrica](/tipos-de-motas/regras-bicicleta-eletrica-vietname/) explica a obrigação do capacete e as exceções. Confirme também com a loja as regras locais de Hanói, que podem ser mais exigentes do que as nacionais: desde 1 de julho de 2026 há coimas de ordem pública e de trânsito agravadas na cidade."
+      ]
+    },
+    {
+      "h2": "O que perguntar à loja antes de escolher",
+      "body": [
+        "As perguntas gerais estão no guia da bicicleta elétrica. Estas são as que ajudam a decidir entre bicicleta e mota, e convém juntá-las numa só mensagem:",
+        {
+          "checklist": [
+            "Qual é a autonomia da unidade, com o meu peso, e em que condições foi medida?",
+            "Quanto pesa a bicicleta e como se tira a bateria para carregar?",
+            "Tem lugar para bagagem, e aceita passageiro?",
+            "Vem com cadeado? Como a devo deixar à noite? O guia do [cadeado e antifurto](/precos/cadeado-e-antifurto/) explica as opções.",
+            "Que luzes e travões tem, e posso testá-los antes de sair?",
+            "Qual é o orçamento total para as minhas datas, e o que fica de fora?"
+          ]
+        },
+        "Para pedir o orçamento, indique as datas, o seu peso aproximado e o percurso do dia. A loja está aberta {{hours}}, e o telefone e Zalo são o {{phone}}. Os restantes dados estão nos [contactos](/contactos/), e a página de [tipos de motas](/tipos-de-motas/) mostra as outras opções que a loja tem."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Quanto custa alugar uma bicicleta elétrica em Hanói?",
+      "a": "Na tabela de referência da loja, verificada a {{pricing.verifiedAt}}, o preço é {{price.bicicleta.day}}. Peça o orçamento para as suas datas e pergunte o que fica incluído e a caução, que este site não publica."
+    },
+    {
+      "q": "A bicicleta elétrica é mais segura do que uma mota?",
+      "a": "Não encontrámos uma fonte que o confirme, e a escolha depende do percurso. O capacete é obrigatório nas duas. Um ritmo mais calmo ajuda, mas o trânsito de Hanói é o mesmo para as duas: avalie o percurso do dia e prefira ruas menos cheias."
+    },
+    {
+      "q": "Posso levar um passageiro na bicicleta elétrica?",
+      "a": "Depende da unidade, e muitas bicicletas elétricas não têm lugar para dois. Pergunte à loja se aceita passageiro. Se levar uma criança, o capacete conta e há uma exceção para menores de 6 anos, explicada no guia das regras."
+    },
+    {
+      "q": "A bicicleta elétrica serve para atravessar as pontes de Hanói?",
+      "a": "Pode servir, mas as rampas pedem esforço e a ponte Long Biên tem circulação pela esquerda. Em cheias, já foi fechada a bicicletas. Verifique o estado da ponte no dia e o percurso alternativo antes de sair."
+    },
+    {
+      "q": "Preciso de carta de condução para uma bicicleta elétrica?",
+      "a": "Não ficou confirmado nas fontes que consultámos. As fontes tratam a carta para a mota elétrica, não para a bicicleta. Peça à loja a resposta por escrito, com a regra em que se baseia, antes de reservar."
+    }
+  ],
+  "sources": [
+    "tabela-precos-proprietario",
+    "lawnet-capacete-168",
+    {
+      "title": "Condução de bicicleta com motor sem capacete: coima de 400 a 600 mil dong (em vietnamita)",
+      "publisher": "Portal de divulgação e educação jurídica da cidade de Cần Thơ",
+      "url": "https://pbgdpl.cantho.gov.vn/dieu-khien-xe-dap-may-khong-doi-mu-bao-hiem-bi-phat-400-600-nghin-dong",
+      "accessed": "2026-10-14",
+      "type": "official",
+      "lang": "vi"
+    },
+    {
+      "title": "Notícia sobre o lançamento do serviço público de bicicletas elétricas e bicicletas em Hanói (em vietnamita)",
+      "publisher": "Báo Nhân Dân",
+      "url": "https://nhandan.vn/chinh-thuc-ra-mat-dich-vu-xe-dap-dien-xe-dap-cong-cong-tai-ha-noi-post768898.html",
+      "accessed": "2026-10-14",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Notícia sobre o piloto de aluguer de bicicletas elétricas inteligentes em Hanói (em vietnamita)",
+      "publisher": "Viettimes",
+      "url": "https://viettimes.vn/ha-noi-sap-thi-diem-cho-thue-xe-dap-dien-thong-minh-post126613.html",
+      "accessed": "2026-10-14",
+      "type": "news",
+      "lang": "vi"
+    }
+  ],
+  "legal_note": true,
+  "writer": { "type": "claude", "name": "Claude (Claude Code)" },
+  "status": "READY_FOR_QA"
+}
