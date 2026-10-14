@@ -14,7 +14,7 @@
     "Num dia de mota, estacione uma vez num parque com funcionário e continue de xích lô ou a pé."
   ],
   "intro": [
-    "Poucas imagens resumem tão bem o Bairro Antigo de Hanói como o xích lô a atravessar as ruas estreitas com o passageiro à frente. É um passeio lento, que se faz sentado e sem ter de olhar para o trânsito, e muitos visitantes querem experimentá-lo uma vez.",
+    "Poucas imagens resumem tão bem o Bairro Antigo de Hanói como o xích lô a atravessar as ruas estreitas com o passageiro à frente. É um passeio lento, feito sentado, e muitos visitantes querem experimentá-lo uma vez.",
     "A dificuldade é saber o que esperar: a oferta mistura serviços organizados por empresas de turismo e condutores que abordam o visitante na rua, e o preço raramente vem escrito. Este guia reúne o que as fontes dizem, aponta o que não conseguimos confirmar e propõe uma forma simples de combinar tudo antes de subir. Faz parte das [rotas e mobilidade](/rotas-e-mobilidade/) de Hanói e foi consultado a 14 de outubro de 2026."
   ],
   "sections": [
@@ -24,7 +24,7 @@
         "O xích lô (ou ciclo) é um triciclo de pedais em que o passageiro vai sentado à frente e o condutor pedala atrás. Já foi um meio de transporte corrente na cidade e é hoje, sobretudo, um passeio turístico no centro. A imprensa vietnamita trata-o como símbolo do Bairro Antigo, e é por isso que o debate sobre o seu futuro tem altos e baixos, como mostram títulos como «Hà Nội sẽ không còn xích lô?» (Hanói deixará de ter xích lô?), do VnEconomy, e «Hà Nội chưa xóa bỏ xích lô», do Báo Pháp luật Việt Nam.",
         "Quantos existem não é claro. Uma síntese de notícias aponta cerca de 80 xích lô de quatro empresas turísticas licenciadas, que circulam à volta do Bairro Antigo e do lago, dentro da área de Hoàn Kiếm que consta da licença. Segundo o VOV, de data não visível, haveria 260 com chapa da polícia, operados por empresas de turismo, e Hanói deixou de emitir matrículas para este tipo de veículo. Os números não batem certo e não temos como os conciliar, por isso não os tome como contagem.",
         {
-          "note": "Os valores sobre regras e números de xích lô de 2009 (por exemplo, itinerários e paragens permitidos) já não valem como regra de 2026. A decisão de 2005 que os fixava consta como revogada.",
+          "note": "As regras e os números sobre xích lô de 2009, como itinerários e paragens permitidos, já não valem como regra de 2026. Uma decisão de 2005 sobre os xích lô turísticos consta como revogada.",
           "tone": "warn",
           "title": "Não aplique regras antigas"
         }
@@ -33,8 +33,8 @@
     {
       "h2": "Serviço organizado ou oferta na rua",
       "body": [
-        "Na prática, o visitante pode encontrar duas situações. Uma é o passeio vendido por uma empresa de turismo licenciada, com veículo identificado. A outra é o condutor que oferece o passeio na rua, mais habitual nas ruas movimentadas à volta do lago, e que combina o preço na hora.",
-        "A imprensa tem acompanhado também os xích lô com motor elétrico improvisado, que aumentam na Cidade Velha. Segundo uma notícia do Znews, são tratados como ilegais e inseguros, e um responsável do Departamento de Turismo diz que, com motor, o xích lô perde o seu valor central. O Báo Mới, por sua vez, noticiou que a polícia de trânsito aperta a fiscalização dos xích lô elétricos à volta do lago; a data e as multas não aparecem no excerto que consultámos.",
+        "Na prática, o visitante pode encontrar duas situações. Uma é o passeio vendido por uma empresa de turismo licenciada, com veículo identificado. A outra é o condutor que oferece o passeio na rua e combina o preço na hora.",
+        "A imprensa tem acompanhado também os xích lô com motor elétrico improvisado, que aumentam na Cidade Velha. Segundo uma notícia do Znews, de data por confirmar, são tratados como ilegais e inseguros, e um responsável do Departamento de Turismo diz que, com motor, o xích lô perde o seu valor central. O Báo Mới, por sua vez, noticiou que a polícia de trânsito aperta a fiscalização dos xích lô elétricos à volta do lago; a data e as multas não aparecem no excerto que consultámos.",
         "Em 9 de março de 2026, o Tuổi Trẻ noticiou que o Departamento de Construção propôs à Câmara um piloto de 12 meses com xích lô elétricos, explorados pela empresa municipal Tổng công ty Du lịch Hà Nội, com cerca de 80 veículos. A aprovação não foi confirmada. A notícia refere que motorizar o xích lô atual para triciclo não cumpriria a norma técnica QCVN 14:2024/BGTVT.",
         "O que isto significa para si: o xích lô tradicional continua a ser um serviço turístico licenciado, enquanto os veículos com motor improvisado são um risco. Se o veículo tiver motor, pergunte quem o opera e prefira recusar o passeio."
       ]
@@ -49,18 +49,18 @@
             "head": ["Fonte", "Passeio", "Preço citado"],
             "rows": [
               ["Guia de viagem Nomadotravel (sem data)", "Volta de cerca de 30 minutos pelo Bairro Antigo", "100 a 150 mil VND, a combinar antes"],
-              ["Blogue de viagens (atualizado em 2025)", "Percurso, sem duração indicada", "150 a 300 mil VND, negociável com o condutor"]
+              ["Vinpearl, página sobre o preço (atualizada em 2025)", "Percurso, sem duração indicada", "150 a 300 mil VND, negociável com o condutor"]
             ]
           }
         },
-        "A Vinpearl tem uma página sobre o preço do xích lô em Hanói, atualizada a 11 de novembro de 2025, mas os valores não são visíveis na versão que consultámos. Não encontrámos preço para uma hora, nem sabemos se o valor é por pessoa ou por veículo.",
+        "A página da Vinpearl está datada de 11 de novembro de 2025, mas não conseguimos confirmar o texto exato da tabela, por isso trate o segundo valor com cautela. Não encontrámos preço para uma hora, nem sabemos se o valor é por pessoa ou por veículo.",
         "A conclusão é simples: trate estes números como ordem de grandeza e peça sempre o preço total antes de subir. Para ler valores em dong sem enganos, o guia sobre [ler preços em dong](/precos/ler-precos-em-dong/) ajuda a contar os zeros."
       ]
     },
     {
       "h2": "Como combinar o preço e a duração antes de subir",
       "body": [
-        "As fontes não trazem um procedimento oficial, por isso o que se segue é um conselho prático, não uma regra. A ideia é deixar tudo claro antes de o condutor começar a pedalar:",
+        "As fontes não trazem um procedimento oficial, por isso o que se segue são conselhos práticos, não regras. A ideia é deixar tudo claro antes de o condutor começar a pedalar:",
         {
           "steps": [
             {
@@ -85,14 +85,14 @@
             }
           ]
         },
-        "Se algum passo for recusado ou o preço parecer sem sentido, deixe passar: há muitas alternativas ao passeio, e um bom passeio a pé custa menos do que uma discussão. A mesma prudência aplica-se a [táxis em Hanói](/rotas-e-mobilidade/taxis-em-hanoi/) e a qualquer serviço sem preço afixado."
+        "Se algum passo for recusado ou o preço parecer sem sentido, deixe passar: há sempre a alternativa de explorar o bairro a pé. A mesma prudência aplica-se a [táxis em Hanói](/rotas-e-mobilidade/taxis-em-hanoi/) e a qualquer serviço sem preço afixado."
       ]
     },
     {
       "h2": "Percursos habituais: o que sabemos e o que não",
       "body": [
         "Não encontrámos uma lista de itinerários atuais publicada pelas empresas ou pela cidade. O que as notícias permitem dizer é que os xích lô turísticos circulam à volta do Bairro Antigo e do lago Hoàn Kiếm, dentro da área que consta da licença, e que o centro histórico é o seu território.",
-        "Em 2009, o VnEconomy referia regras mais apertadas: apenas fora das horas de ponta, apenas em dois itinerários e apenas com duas paragens, uma no passeio da Yên Phụ e outra na Trần Quang Khải. Eram números de 2009 e não valem como regra de 2026, mas ajudam a perceber porque o passeio tradicional é curto e concentrado.",
+        "Em 2009, o VnEconomy referia regras mais apertadas: apenas fora das horas de ponta, apenas em dois itinerários e apenas com duas paragens, uma no passeio da Yên Phụ e outra na Trần Quang Khải. São regras de 2009 e não valem para 2026.",
         "Ao combinar o passeio, peça que lhe digam o itinerário antes de subir. Para ter uma ideia do que ver nas mesmas ruas, o guia do [Bairro Antigo e Hoàn Kiếm](/zonas-de-hanoi/bairro-antigo-e-hoan-kiem/) descreve a zona, e o da [zona pedonal do lago Hoàn Kiếm](/zonas-de-hanoi/zona-pedonal-do-lago-hoan-kiem/) explica o que fecha às noites de fim de semana.",
         "Esse fecho tem uma regra importante. De 1 de julho a 31 de dezembro de 2026, na primeira fase do piloto de baixas emissões, a zona 1 do lago e do mercado noturno fecha às motas, aos ciclomotores e aos automóveis, de sexta a domingo, das 19:00 às 24:00. As fontes não dizem o que acontece aos xích lô nessas horas, e uma segunda fase está prevista para 2027. Pergunte antes de planear um passeio ao fim de semana à noite."
       ]
@@ -105,7 +105,7 @@
           "ul": [
             "**Onde deixar a mota:** num parque com funcionário, de preferência na orla da zona e não no meio. O guia sobre [estacionar no Bairro Antigo](/zonas-de-hanoi/estacionar-no-bairro-antigo/) explica as senhas, os preços máximos e as cobranças a mais já documentadas.",
             "**A que horas:** em dias de semana a mota entra mais à vontade; de sexta a domingo, estacione fora da zona antes das 18:00, como aconselha o guia da [zona de baixas emissões de Hanói](/tipos-de-motas/zona-de-baixas-emissoes-hanoi/), para não ficar do lado errado das barreiras às 19:00.",
-            "**Para voltar à mota:** combine com o condutor deixar-no junto ao parque ou num ponto fácil de reconhecer no mapa.",
+            "**Para voltar à mota:** combine com o condutor deixá-lo junto ao parque ou num ponto fácil de reconhecer no mapa.",
             "**Se beber algo durante a noite:** não regresse de mota. A lei não admite álcool a quem conduz, como explica o guia do [álcool zero ao volante](/guia-de-aluguer/alcool-zero-ao-volante/); para o regresso, veja como [voltar à noite sem conduzir](/rotas-e-mobilidade/voltar-a-noite-sem-conduzir/)."
           ]
         },
@@ -116,7 +116,7 @@
     {
       "h2": "Segurança e boas maneiras durante o passeio",
       "body": [
-        "O passageiro do xích lô vai à frente do veículo, sem proteção, e partilha as ruas com motas que passam muito perto. Por isso, mantenha as mãos e os pés dentro do veículo, e não estenda o braço com o telemóvel para a faixa de rodagem.",
+        "São conselhos de bom senso, não regras escritas. O passageiro do xích lô vai à frente do veículo, sem proteção, e partilha as ruas com motas que passam muito perto. Por isso, mantenha as mãos e os pés dentro do veículo, e não estenda o braço com o telemóvel para a faixa de rodagem.",
         "Guarde os objetos de valor junto a si e evite deixar a mochila no assento ao lado. Se o condutor parar numa loja ou num restaurante que não pediu, diga que prefere seguir o itinerário combinado.",
         "Na época das chuvas e nos dias de calor intenso o passeio é menos agradável: prefira a manhã ou o fim da tarde. E se o condutor propuser um desvio ou uma paragem sem lhe perguntar, lembre o que ficou combinado e peça para voltar ao percurso."
       ]
