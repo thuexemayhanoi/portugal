@@ -44,7 +44,8 @@ Mọi mục dưới đây được **sinh tự động** bởi generator và **k
 ## Performance (Core Web Vitals)
 
 - Không web font (font hệ thống) → không FOIT/CLS; không ảnh hero lớn (hero là CSS gradient + SVG inline nhỏ).
-- 1 file CSS (~25 KB) + 1 JS nhỏ `defer`; **search.js và chỉ mục chỉ tải khi mở tìm kiếm**.
+- 1 file CSS (~39 KB) + 2 JS nhỏ `defer` (`app.js`, `floating.js` cho nút trợ lý và Quick Call); **search.js và chỉ mục chỉ tải khi mở tìm kiếm**; **engine trợ lý local (`business-config.js`, `assistant.js`, `pt-assistant-adapter.js`, ~42 KB) chỉ `prefetch` ở ưu tiên thấp và chỉ chạy khi khách chạm/mở nút trợ lý** (loader trong `app.js`). Không bao giờ thêm engine này dưới dạng `<script>` lúc tải: TBT trang chủ tăng từ 37 lên ~230 ms (test `local-widgets` chặn).
+- Đo lab (`node scripts/tools/cwv-lab.mjs`): bảng trong `docs/audit/SEO-MATRIX.md`; ngân sách LCP ≤ 2,5 s, CLS ≤ 0,1, TBT ≤ 200 ms trên 8 mẫu trang.
 - Theme sáng/tối áp dụng trước khi vẽ (script inline 150 byte) → không nháy.
 - Đã đo bằng Playwright: CLS = 0, không tràn ngang ở 390 px và 1440 px (xem báo cáo PR). Điểm Lighthouse chỉ được ghi khi thực sự đo.
 - **SEO Monitor** chạy Lighthouse mobile hằng tuần trên domain thật (ngân sách: Perf ≥ 90, A11y/BP/SEO ≥ 95, LCP ≤ 2,5 s, CLS ≤ 0,1, TBT ≤ 200 ms; INP chỉ đo được bằng dữ liệu người dùng thật, TBT là chỉ số thay thế trong lab).

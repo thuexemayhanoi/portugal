@@ -62,20 +62,20 @@ Anchor khớp chính xác chỉ chiếm 17%, tức là đa dạng, không nhồi
 
 ## Core Web Vitals (lab, không phải dữ liệu thực địa)
 
-Điều kiện đo: Chromium headless, mobile 390×844, CPU ×4, ~1,6 Mbps, RTT 150 ms, server local không gzip.
+Điều kiện đo: Chromium headless, mobile 390×844, CPU ×4, ~1,6 Mbps, RTT 150 ms, server local không gzip. Đo lại ngày 14/10 sau khi chủ site thêm trợ lý local + Quick Call (PR #16, #17, #19) và sau khi engine trợ lý chuyển sang tải theo yêu cầu (1.7.4).
 
-| Mẫu | LCP | CLS | TBT | Dung lượng (chưa gzip) |
+| Mẫu | LCP | CLS | TBT (trước 1.7.4 → sau) | Dung lượng (chưa gzip, gồm prefetch engine) |
 |---|---|---|---|---|
-| Trang chủ | 772 ms | 0 | 77 ms | 94 KB |
-| Pillar /precos/ | 812 ms | 0 | 69 ms | 103 KB |
-| Hub | 804 ms | 0 | 48 ms | 106 KB |
-| Archive | 684 ms | 0 | 43 ms | 83 KB |
-| Bài có bảng | 768 ms | 0 | 84 ms | 111 KB |
-| Bài dài | 840 ms | 0 | 70 ms | 108 KB |
-| FAQ | 724 ms | 0 | 19 ms | 98 KB |
-| Liên hệ | 672 ms | 0 | 47 ms | 75 KB |
+| Trang chủ | 784 ms | 0 | 228 → 37 ms | 156 KB |
+| Pillar /precos/ | 840 ms | 0 | 141 → 70 ms | 165 KB |
+| Hub | 904 ms | 0 | 127 → 46 ms | 167 KB |
+| Archive | 708 ms | 0 | 45 → 7 ms | 144 KB |
+| Bài có bảng | 840 ms | 0 | 86 → 107 ms | 173 KB |
+| Bài dài | 884 ms | 0 | 82 → 69 ms | 169 KB |
+| FAQ | 804 ms | 0 | 12 → 28 ms | 159 KB |
+| Liên hệ | 668 ms | 0 | 72 → 20 ms | 138 KB |
 
-Tất cả đạt ngân sách (LCP ≤ 2,5 s, CLS ≤ 0,1, TBT ≤ 200 ms) và không tràn ngang. Dữ liệu thực địa (CrUX) và INP cần người dùng thật: theo dõi trong Search Console sau khi kết nối.
+Tất cả đạt ngân sách (LCP ≤ 2,5 s, CLS ≤ 0,1, TBT ≤ 200 ms) và không tràn ngang; TBT dao động ±40 ms giữa các lần đo. Ba file engine trợ lý (~42 KB) được `prefetch` ở mức ưu tiên thấp nhất và chỉ chạy khi khách mở trợ lý, nên không còn chặn luồng chính lúc tải. Dữ liệu thực địa (CrUX) và INP cần người dùng thật: theo dõi trong Search Console sau khi kết nối.
 
 ## Nhật ký batch
 
@@ -88,6 +88,7 @@ Tất cả đạt ngân sách (LCP ≤ 2,5 s, CLS ≤ 0,1, TBT ≤ 200 ms) và k
 | 4 | 14/10 | Thêm 1 link vào cho 24 bài chỉ có 1 link trỏ vào. Sửa 4 góp ý review: cannibalization tính trực tiếp, so khớp `llms.txt` chính xác, đo dung lượng CWV, README | P1 → 0; check và test xanh |
 | 5 | 14/10 | Giữ kết quả bền vững: `seo-matrix --check` vào `npm run check` và CI (chặn khi còn P0); factory QA đo trùng văn bản bằng đúng phép đo của Matrix (cụm 3 từ, ≥ 0,12 cảnh báo, ≥ 0,20 loại) để bài mới không tái tạo cannibalization. Tinh chỉnh 2 quy tắc P2 (nguồn chỉ với bài pháp lý; trang tiện ích không là «trang ngắn») | CI gate; test cho lib overlap; P2 79 → 62 |
 | 6 | 14/10 | Viết lại 49 meta description theo từ khóa chính (49 bản sửa, chỉ đổi `description`, giữ URL và ngày đăng); thêm link thứ hai vào PT-0124 và PT-0220; SEO Monitor in tóm tắt Matrix mỗi tuần | P2 62 → 13; check và test xanh |
+| 7 | 14/10 | Core Web Vitals sau khi chủ site thêm trợ lý local + Quick Call: 3 file engine (~42 KB) chuyển sang `prefetch` + tải theo yêu cầu khi khách mở trợ lý; giao diện giữ nguyên; kiểm chứng e2e trong Chromium | TBT trang chủ 228 → 37 ms; 8/8 mẫu đạt ngân sách |
 
 ## Chưa đo được (không giả định)
 

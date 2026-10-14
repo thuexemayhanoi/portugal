@@ -38,10 +38,13 @@ export function head(page, ctx, { jsonLd }) {
     `<link rel="stylesheet" href="/assets/css/site.css?v=${ctx.assetVersion.css}">`,
     `<script>${THEME_INIT}</script>`,
     `<script src="/assets/js/app.js?v=${ctx.assetVersion.js}" defer></script>`,
-    `<script src="/assets/js/business-config.js?v=${ctx.assetVersion.business}" defer></script>`,
-    `<script src="/assets/js/assistant.js?v=${ctx.assetVersion.assistant}" defer></script>`,
-    `<script src="/assets/js/pt-assistant-adapter.js?v=${ctx.assetVersion.adapter}" defer></script>`,
     `<script src="/assets/js/floating.js?v=${ctx.assetVersion.floating}" defer></script>`,
+    // The local assistant (owner data, /web engine, pt-PT adapter) is fetched at idle priority and
+    // only executed when the visitor reaches for it: the loader in src/js/app.js injects these three
+    // files, in this order, on the first hover/press/focus of the button or when the panel opens.
+    `<link rel="prefetch" as="script" href="/assets/js/business-config.js?v=${ctx.assetVersion.business}" data-assistant-src>`,
+    `<link rel="prefetch" as="script" href="/assets/js/assistant.js?v=${ctx.assetVersion.assistant}" data-assistant-src>`,
+    `<link rel="prefetch" as="script" href="/assets/js/pt-assistant-adapter.js?v=${ctx.assetVersion.adapter}" data-assistant-src>`,
     `<meta property="og:type" content="${page.kind === 'article' ? 'article' : 'website'}">`,
     `<meta property="og:site_name" content="${esc(site.name)}">`,
     `<meta property="og:locale" content="${esc(site.ogLocale)}">`,
