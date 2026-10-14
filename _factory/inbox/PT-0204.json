@@ -1,0 +1,215 @@
+{
+  "contract_version": 1,
+  "id": "PT-0204",
+  "slug": "perdi-a-chave",
+  "title": "Perdi a chave da mota alugada: o que fazer em Hanói",
+  "description": "Perdeu a chave ou o comando Smart Key da mota alugada? Onde procurar, como proteger a mota, o que dizer à loja e que custos confirmar por escrito.",
+  "h1": "Chave ou comando Smart Key perdido: procurar, proteger a mota e avisar a loja",
+  "summary": "Se perdeu a chave ou o comando Smart Key da mota alugada, não force a ignição nem chame um serralheiro por iniciativa própria: refaça o percurso, confirme que a mota está num sítio seguro e contacte a loja pelo {{phone}} com a localização e a matrícula. Se há chave suplente, como chega até si e quanto custa depende da loja: pergunte e guarde a resposta por escrito.",
+  "key_points": [
+    "Antes de dar a chave por perdida, procure com método: ignição, bolsos, acompanhante e os últimos sítios onde esteve.",
+    "Com chave inteligente, o comando tem de estar perto da mota para a ligar: saiba onde está antes de desligar o motor.",
+    "Não force a ignição nem o assento e não chame um serralheiro sem o acordo da loja.",
+    "Envie à loja a localização, a matrícula, o tipo de chave em falta e se os documentos estavam com ela.",
+    "Pergunte pela suplente, pelo prazo e pelo custo, e guarde a resposta por escrito até ao fim do aluguer."
+  ],
+  "intro": [
+    "Perder a chave de uma mota alugada parece um problema enorme no momento em que se dá pela falta dela. Na prática, o caminho para a resolver passa por manter a calma e falar cedo com a loja, que é quem sabe se existe outra chave e como a fazer chegar até si. O que complica a situação são as soluções improvisadas: forçar a ignição, aceitar a ajuda de um desconhecido ou deixar a mota sem vigilância durante a noite.",
+    "Este guia acompanha a primeira hora depois de dar pela falta da chave: onde procurar, o que muda numa mota com chave inteligente (Smart Key), como manter a mota em segurança, o que dizer à loja e que perguntas fazer sobre a solução e o custo. Termina com hábitos simples para não voltar a passar pelo mesmo. As regras gerais do aluguer estão no [guia de aluguer passo a passo](/guia-de-aluguer/)."
+  ],
+  "sections": [
+    {
+      "h2": "Antes de dar a chave por perdida: procurar com método",
+      "body": [
+        "Muitas chaves «perdidas» estão afinal num bolso, na ignição ou na mão de quem viaja consigo. Antes de ligar à loja, procure do sítio mais provável para o menos provável:",
+        {
+          "checklist": [
+            "**Na própria mota**: a chave pode ter ficado na ignição. Se a mota está num parque vigiado (bãi giữ xe), pergunte ao responsável se a guardou.",
+            "**Nos bolsos e na mochila**: todos, incluindo os da capa de chuva e do casaco que despiu.",
+            "**Com quem viaja consigo**: sobretudo se o acompanhante segurou na chave ou no comando enquanto tirava fotografias.",
+            "**Nos últimos sítios onde se sentou**: a mesa do café, o restaurante, a loja onde pagou. Volte lá e pergunte.",
+            "**No alojamento**: no quarto, na casa de banho e na receção, se a deixou lá ao entrar.",
+            "**No compartimento do assento**: se acha que a chave ficou lá fechada, não tente abri-lo à força."
+          ]
+        },
+        "Ao perguntar, mostre uma fotografia da mota e, se a tiver, da chave com o porta-chaves. Em vietnamita, estas frases ajudam a ser entendido à primeira:",
+        {
+          "table": {
+            "caption": "Frases úteis para procurar a chave",
+            "head": [
+              "Em vietnamita",
+              "Em português"
+            ],
+            "rows": [
+              [
+                "Tôi bị mất chìa khóa xe máy.",
+                "Perdi a chave da mota."
+              ],
+              [
+                "Có ai nhặt được chìa khóa không?",
+                "Alguém encontrou uma chave?"
+              ],
+              [
+                "chìa khóa thông minh",
+                "chave inteligente (Smart Key)"
+              ],
+              [
+                "Tôi gửi xe ở đây.",
+                "Deixei a mota neste parque."
+              ]
+            ]
+          }
+        },
+        "Dê a si próprio um limite. Se ao fim de meia hora a chave não apareceu, passe aos passos seguintes: continuar a procurar sozinho atrasa a solução, sobretudo se a loja estiver perto da hora de fecho. Se a chave está consigo e a mota não arranca, a causa pode ser outra, como ficar [sem gasolina](/guia-de-aluguer/fiquei-sem-combustivel/)."
+      ]
+    },
+    {
+      "h2": "Chave convencional ou Smart Key: o que muda",
+      "body": [
+        "Numa chave convencional, a mesma chave liga a mota, bloqueia o guiador e abre o assento. Sem ela, a mota não arranca e, se ficou com o guiador bloqueado, também não se empurra com facilidade. O compartimento do assento, onde podem estar a capa de chuva ou os documentos, fica fechado até haver outra chave.",
+        "Algumas unidades têm chave inteligente. Existe, por exemplo, em versões da [Honda Vision](/tipos-de-motas/honda-vision-em-hanoi/) e da [Honda Air Blade](/tipos-de-motas/honda-air-blade-125-ou-160/). Com o comando por perto, o arranque faz-se num botão rotativo, que também bloqueia o guiador e abre o assento. O ponto crítico é este: **sem o comando por perto, a mota não volta a ligar depois de parar**.",
+        "Daí duas consequências práticas. Se der pela falta do comando com o motor ainda a trabalhar, não desligue a mota no meio da rua: encoste num sítio seguro e só então pare. E se o comando ficou no bolso do passageiro, um erro comum, chame-o antes de desligar o motor.",
+        {
+          "note": "Se tem o comando consigo mas a mota não reage, não perdeu a chave: o problema é outro, e a solução também. Diga-o assim à loja. Como cada unidade tem as suas particularidades, peça na entrega que lhe mostrem como funciona a chave da sua mota e o que fazer se o comando deixar de responder.",
+          "tone": "info",
+          "title": "Comando sem resposta não é comando perdido"
+        }
+      ]
+    },
+    {
+      "h2": "Manter a mota em segurança enquanto espera",
+      "body": [
+        "Uma mota sem chave fica parada onde está. O objetivo agora é que continue em segurança até a solução chegar, e isso depende do sítio:",
+        {
+          "ul": [
+            "**Num parque vigiado**: explique ao responsável que perdeu a chave e que alguém da loja poderá vir. Pergunte até que horas o parque está aberto e guarde o talão (vé xe), que lhe vão pedir à saída.",
+            "**No parque do alojamento**: avise a receção, para que ninguém estranhe quando alguém vier mexer na mota.",
+            "**Na rua**: fique por perto ou peça a um comerciante ao lado que olhe por ela enquanto trata do assunto. Não a arraste para outro sítio com o guiador bloqueado."
+          ]
+        },
+        "A loja funciona {{hours}}. Se der pela falta da chave depois do fecho, envie na mesma uma mensagem com todos os pormenores e combine com o parque ou com o alojamento onde a mota passa a noite. Evite deixá-la na rua sem saber quando alguém a vem buscar.",
+        "Pense também no que estava junto da chave. Se os documentos do veículo andavam no mesmo porta-chaves ou na mesma bolsa, diga-o à loja e leia o guia dos [documentos da mota alugada](/guia-de-aluguer/documentos-da-mota-alugada/). Se ficaram dentro do compartimento do assento, estão protegidos, mas inacessíveis até a mota abrir."
+      ]
+    },
+    {
+      "h2": "Não force a ignição nem chame um serralheiro por conta própria",
+      "body": [
+        "Quando a pressa aperta, a tentação é resolver ali mesmo, com uma chave de fendas ou com a ajuda de quem passa. Resista, por três razões:",
+        {
+          "ol": [
+            "**Uma ignição forçada é uma avaria nova.** O que era uma chave em falta passa a ser uma reparação da fechadura, do assento ou da cablagem.",
+            "**Visto de fora, parece um furto.** Alguém a mexer na ignição de uma mota atrai atenções, e explicar que a mota é alugada sem a loja ao telefone não é simples.",
+            "**A decisão é da loja.** A mota não é sua: é a loja que sabe se há uma chave suplente, se prefere chamar alguém de confiança e se é preciso mudar a fechadura."
+          ]
+        },
+        "Se a loja lhe pedir que chame um serralheiro (thợ khóa) ou lhe indicar um, siga as instruções que lhe derem. Peça um recibo e envie-o à loja, com uma fotografia do trabalho feito, para que fique tudo registado na mesma conversa."
+      ]
+    },
+    {
+      "h2": "O que dizer à loja",
+      "body": [
+        "Ligue para o {{phone}} e envie logo a seguir uma mensagem pelo Zalo, para o mesmo número, a resumir a situação. A mensagem fica com data e hora e permite à loja reencaminhar a localização a quem for ter consigo. Inclua:",
+        {
+          "checklist": [
+            "o seu nome, o modelo da mota e a matrícula;",
+            "a localização exata, partilhada a partir do Google Maps, e o tipo de sítio: parque vigiado, alojamento ou rua;",
+            "o que perdeu: a chave principal, a suplente ou o comando da chave inteligente;",
+            "quando e onde teve a chave na mão pela última vez;",
+            "se o guiador ficou bloqueado e se os documentos do veículo estavam com a chave;",
+            "até que horas pode esperar no local."
+          ]
+        },
+        "Um exemplo, fácil de passar por um tradutor: «Boa tarde. Sou [nome] e tenho a [modelo], matrícula [matrícula]. Perdi a chave. A mota está num parque vigiado nesta localização: [localização]. Há chave suplente? Como podemos resolver, e tem custo?»",
+        "Se preferir ir à loja buscar uma eventual suplente, a morada e o mapa estão na página de [contactos](/contactos/). Para o taxista, mostre a morada em vietnamita: {{address.vi}}."
+      ]
+    },
+    {
+      "h2": "Que perguntas fazer sobre a solução e o custo",
+      "body": [
+        "Este site não publica preços de chaves, comandos ou fechaduras, nem regras sobre quem suporta esse custo: tudo isso depende do acordo de cada aluguer e da solução necessária. Em vez de presumir, faça as perguntas certas e peça as respostas por escrito:",
+        {
+          "checklist": [
+            "Existe uma chave suplente desta unidade?",
+            "Alguém da loja traz a chave até mim, ou tenho de ir buscá-la a {{area}}? Em quanto tempo?",
+            "Há custo pela deslocação, pela chave nova ou por uma eventual troca de fechadura? Qual é o valor?",
+            "Paga-se no momento, à parte ou na devolução? Mexe na caução?",
+            "Posso continuar o aluguer como estava, com a suplente?",
+            "Se eu encontrar a chave entretanto, o que fica sem efeito?"
+          ]
+        },
+        "Se houver caução, o acerto destes custos deve estar previsto no acordo. O guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/) explica em que situações pode haver descontos e o que confirmar. Guarde a conversa, os recibos e as fotografias até o aluguer estar fechado."
+      ]
+    },
+    {
+      "h2": "Casos que pedem atenção redobrada",
+      "body": [
+        {
+          "h3": "No dia da devolução"
+        },
+        "Se a chave desaparece no último dia, avise a loja de imediato: o problema deixa de ser a hora combinada e passa a ser a forma de levar a mota até à loja. Não a deixe num sítio qualquer para apanhar um voo. Combine onde fica, quem a recolhe e quando, e peça a confirmação por escrito.",
+        {
+          "h3": "Longe de Hanói"
+        },
+        "Fora da cidade, uma suplente pode demorar a chegar. Diga à loja onde está exatamente, pergunte se é possível fazer-lhe chegar a chave e de que forma, e combine onde a mota fica entretanto, de preferência num parque vigiado ou no alojamento. Planeie o resto do dia a contar com essa espera.",
+        {
+          "h3": "Se a chave aparecer"
+        },
+        "Avise a loja logo, para que ninguém se desloque em vão, e confirme por escrito o que fica sem efeito. Se a chave esteve perdida num sítio público, pergunte se a loja quer tomar alguma precaução com a fechadura."
+      ]
+    },
+    {
+      "h2": "Como não voltar a perder a chave",
+      "body": [
+        "Uns quantos hábitos tornam a perda muito menos provável:",
+        {
+          "checklist": [
+            "**Sempre o mesmo bolso**, de preferência com fecho: a chave volta para lá assim que desliga a mota.",
+            "**Nunca na ignição** quando se afasta, nem por um minuto.",
+            "**Um porta-chaves visível**, que se note numa mesa de café e faça barulho ao cair.",
+            "**O comando da chave inteligente consigo**, e não com o passageiro; se trocarem de condutor, passe também o comando.",
+            "**A suplente noutro sítio**: se a loja lhe der uma segunda chave, guarde-a no alojamento e não no mesmo porta-chaves.",
+            "**Uma fotografia da chave e do porta-chaves** no telemóvel, para mostrar se tiver de perguntar por ela."
+          ]
+        },
+        "Na entrega, reserve um minuto para a chave: como liga a mota, como bloqueia o guiador, como abre o assento e, numa chave inteligente, o que fazer se o comando deixar de responder. A lista de [perguntas a fazer antes de alugar](/guia-de-aluguer/perguntas-antes-de-alugar/) ajuda a tratar deste e de outros imprevistos antes de sair da loja."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "A loja vai cobrar-me a chave perdida?",
+      "a": "Este site não publica valores nem regras para chaves ou comandos perdidos: depende do acordo de aluguer e da solução de que a mota precisa. Pergunte à loja o valor e a forma de pagamento antes de avançar e peça a resposta por escrito, para que o assunto não volte a ser discutido na devolução."
+    },
+    {
+      "q": "Posso continuar a usar a mota com a chave suplente?",
+      "a": "Confirme com a loja se pode continuar o aluguer como estava e se alguma condição muda, por exemplo na caução. Depois, trate a suplente com cuidado redobrado: se também se perder, a solução complica-se e demora mais."
+    },
+    {
+      "q": "O comando Smart Key deixou de responder, mas está comigo. O que faço?",
+      "a": "Não é uma chave perdida, e convém dizê-lo assim à loja. Encoste num sítio seguro, não force o botão rotativo nem abra o comando e ligue para a loja a explicar que o comando está consigo mas a mota não reage. Siga as instruções que lhe derem para a sua unidade."
+    },
+    {
+      "q": "Perdi a chave fora do horário da loja. O que faço?",
+      "a": "Envie logo uma mensagem com a localização, a matrícula e o que aconteceu, para ficar registado. Entretanto, garanta que a mota passa a noite num parque vigiado ou no alojamento e evite soluções improvisadas. A loja está aberta {{hours}}: volte a ligar à abertura."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Air Blade — Hướng dẫn sử dụng (manual do utilizador, PDF em vietnamita)",
+      "publisher": "Honda Việt Nam",
+      "url": "https://cdn.honda.com.vn/motorbike-manual/September2025/NC8346r3AExXZtAvFuMG.pdf",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    }
+  ],
+  "legal_note": false,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "READY_FOR_QA",
+  "revision": {
+    "reason": "Ligações internas para artigos publicados depois"
+  }
+}

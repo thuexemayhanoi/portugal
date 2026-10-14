@@ -1,0 +1,254 @@
+{
+  "contract_version": 1,
+  "id": "PT-0237",
+  "slug": "bat-trang-de-mota",
+  "title": "Bát Tràng de mota a partir de Long Biên: percurso e cuidados",
+  "description": "Como ir de mota à aldeia de cerâmica de Bát Tràng a partir de Long Biên: distância, caminhos descritos pelos guias, estrada do dique e o que confirmar.",
+  "h1": "Visitar a aldeia de cerâmica de Bát Tràng de mota, a partir da loja em Long Biên",
+  "summary": "Bát Tràng, a aldeia de cerâmica a sudeste do centro de Hanói, fica a cerca de 10 a 14 km conforme a fonte, com 20 a 30 minutos a partir do Bairro Antigo segundo um guia de viagem. O último troço segue o dique do rio Vermelho, onde a imprensa descreve piso degradado e camiões pesados. Não confirmámos horários nem estacionamento na aldeia: pergunte antes de contar com eles.",
+  "key_points": [
+    "Distância: os guias divergem entre cerca de 10, 13 e 14 km desde o centro de Hanói, a sudeste, ao longo do rio Vermelho; trate-a como 10 a 14 km.",
+    "Um guia dá 20 a 30 minutos a partir do Bairro Antigo; é uma estimativa, e o trânsito e as paragens alteram-na.",
+    "Os caminhos descritos seguem a estrada do dique do rio Vermelho até à aldeia, depois de atravessar a ponte Chương Dương ou a ponte Long Biên; a loja fica na margem leste.",
+    "No dique, a imprensa descreve piso degradado, camiões pesados todos os dias e pelo menos três pontos de risco: vá de dia e devagar.",
+    "Não encontrámos horários do mercado de cerâmica nem preços de estacionamento: pergunte o preço antes de deixar a mota e guarde o talão.",
+    "Saia com margem para voltar à loja antes das {{closes}}."
+  ],
+  "intro": [
+    "Bát Tràng é a aldeia de cerâmica (làng gốm) que o portal oficial de turismo do Vietname apresenta como viagem de um dia. Fica a sudeste do centro de Hanói, ao longo do rio Vermelho, e chega-se lá de mota por uma estrada que segue o dique.",
+    "Este guia explica o que as fontes locais dizem sobre a distância e o percurso, o que contam as notícias sobre a estrada do dique, o que não conseguimos confirmar (horários e estacionamento na aldeia) e como organizar a saída a partir da loja.",
+    "A informação vem de guias de viagem comerciais e da imprensa vietnamita, consultados a 13 de outubro de 2026. Distâncias e tempos variam de guia para guia: trate-os como valores de referência e confirme no local."
+  ],
+  "sections": [
+    {
+      "h2": "Onde fica e que distância esperar",
+      "body": [
+        "Bát Tràng fica a sudeste do centro de Hanói, junto ao rio Vermelho. Os guias não concordam na distância:",
+        {
+          "table": {
+            "caption": "Distância do centro de Hanói a Bát Tràng, segundo cada fonte",
+            "head": [
+              "Fonte",
+              "Distância indicada"
+            ],
+            "rows": [
+              [
+                "Guia de viagem de uma companhia aérea vietnamita",
+                "Cerca de 13 km, para sudeste, ao longo do rio Vermelho"
+              ],
+              [
+                "Portal oficial de turismo do Vietname",
+                "Cerca de 14 km"
+              ],
+              [
+                "Alguns guias locais (VinWonders e VTC News)",
+                "Cerca de 10 km"
+              ]
+            ]
+          }
+        },
+        "Use 10 a 14 km como ordem de grandeza. Quanto ao tempo, o guia da companhia aérea indica 20 a 30 minutos a partir do Bairro Antigo; é uma estimativa de guia, que o trânsito e as paragens alteram.",
+        "Os guias medem a partir do centro, não de Long Biên, e não encontrámos a distância a partir da loja. Marque Bát Tràng como destino no mapa do telemóvel, a partir do ponto onde está, e confirme o tempo que a aplicação indica."
+      ]
+    },
+    {
+      "h2": "Os dois caminhos que os guias descrevem",
+      "body": [
+        "Os dois guias que descrevem o percurso partem do centro, do outro lado do rio:",
+        {
+          "table": {
+            "caption": "Caminhos para Bát Tràng descritos pelos guias",
+            "head": [
+              "Guia",
+              "Percurso descrito"
+            ],
+            "rows": [
+              [
+                "Guia de uma empresa de turismo (VinWonders)",
+                "Atravessar a ponte Chương Dương ou a ponte Long Biên, virar à direita e seguir a estrada do dique do rio Vermelho até à entrada da aldeia"
+              ],
+              [
+                "Guia de viagem de uma companhia aérea vietnamita",
+                "Pela rua Nguyễn Khoái, ou pela ponte Long Biên em direção a Gia Lâm, e depois pela estrada de Bát Tràng"
+              ]
+            ]
+          }
+        },
+        "Quem arranca da loja, em Long Biên, já está na margem leste do rio, por isso é provável que não precise de atravessar nenhuma destas pontes: o que conta é chegar à estrada do dique e segui-la para sudeste. As fontes não descrevem esse trajeto a partir da loja. Antes de sair, confirme no mapa que o percurso proposto segue o dique ou a estrada de Bát Tràng.",
+        "Não confirmámos o nome administrativo da comuna de Bát Tràng depois da reorganização de 2025. Procure no mapa pelo nome da aldeia e não pelo da unidade administrativa."
+      ]
+    },
+    {
+      "h2": "A estrada do dique: o que dizem as notícias",
+      "body": [
+        "O último troço do percurso é a estrada do dique de Bát Tràng. Uma notícia do Báo Pháp luật Việt Nam descreve-a com cerca de 10 km, do pé da ponte Chương Dương até ao Ecopark. Diz que se degradou pouco depois de abrir, por causa do tráfego diário de camiões pesados com materiais, e que tem pelo menos três pontos de poluição e alto risco de acidente, um deles em frente à empresa Thép Việt Đức, em Long Biên.",
+        "A notícia não indica o ano nos excertos consultados: não sabemos se o piso foi reparado desde então. Também não encontrámos limites de velocidade nem horários de restrição a camiões.",
+        "Para quem vai de mota, o que isto pede é prudência, sem alarmismo:",
+        {
+          "ul": [
+            "vá de dia e abrande onde o piso estiver degradado;",
+            "guarde distância dos camiões e não os ultrapasse junto a cruzamentos e entradas laterais;",
+            "redobre a atenção em frente à Thép Việt Đức, o ponto de risco que a notícia refere;",
+            "pare num local seguro, fora da faixa, se precisar de ver o mapa."
+          ]
+        },
+        "Outra notícia relata um acidente mortal noutra estrada de dique, em Thượng Thanh (Long Biên), em que um motociclista embateu num camião que atravessava a via. Não indica o ano. O mesmo problema, camiões pesados no piso do dique, é descrito noutros troços do rio Vermelho."
+      ]
+    },
+    {
+      "h2": "Horários e estacionamento: o que não está confirmado",
+      "body": [
+        "As fontes consultadas não dão os horários de abertura das lojas, das oficinas e do mercado de cerâmica de Bát Tràng, nem dizem onde e por quanto se estaciona a mota na aldeia. Em vez de preencher a lacuna com valores que não confirmámos, deixamos uma lista do que verificar no local:",
+        {
+          "checklist": [
+            "Procurar um parque com funcionário (a indicação é «gửi xe»), perguntar o preço antes de deixar a mota e guardar o talão.",
+            "Fotografar o talão e o sítio onde a mota ficou, para a encontrar no regresso.",
+            "Confirmar o horário das lojas ou oficinas que quer visitar antes de planear o regresso.",
+            "Perguntar o preço antes de aceitar qualquer compra ou trabalho."
+          ]
+        },
+        "Não deixe a mota em cima do passeio fora de um parque autorizado. O guia sobre [conduzir no Bairro Antigo](/zonas-de-hanoi/conduzir-no-bairro-antigo/) explica como estacionar sem complicações, e a mesma prudência vale numa aldeia."
+      ]
+    },
+    {
+      "h2": "Organizar a saída a partir da loja",
+      "body": [
+        "A loja abre às {{opens}} e fecha às {{closes}}. Com 20 a 30 minutos de cada lado, segundo o guia, o percurso soma 40 a 60 minutos de estrada. A esse tempo some a visita, que as fontes não indicam, e uma margem para o trânsito, e marque o regresso para chegar à loja com folga antes das {{closes}}.",
+        "Algumas decisões a tomar antes de sair:",
+        {
+          "ul": [
+            "**A hora do levantamento.** O guia sobre [receber a mota alugada](/guia-de-aluguer/receber-a-mota/) calcula 30 a 45 minutos entre chegar à loja e sair para a estrada. Se levanta a mota nesse dia, conte com isso.",
+            "**Os documentos.** Leve a carta de condução, a licença internacional que a acompanha e os documentos pedidos pela loja; o guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/) explica o que preparar.",
+            "**A mota.** Uma [scooter automática](/tipos-de-motas/scooters/) dispensa as mudanças. Os preços de referência da loja estão na [tabela de preços](/precos/), verificada em {{pricing.verifiedAt}}.",
+            "**O regresso.** Evite voltar de noite por um percurso que só conhece de dia."
+          ]
+        },
+        "Se for a primeira vez que conduz em Hanói, faça antes uns quilómetros calmos do lado de Long Biên, como sugere o guia sobre o [aluguer de motas em Long Biên](/zonas-de-hanoi/aluguer-de-motas-em-long-bien/). Quem vive nesta margem encontra as deslocações do dia a dia em [viver em Long Biên com mota](/zonas-de-hanoi/viver-em-long-bien-com-mota/), e para outra saída de um dia há o [templo de Gióng, em Phù Đổng](/zonas-de-hanoi/templo-de-giong-phu-dong/).",
+        {
+          "h3": "Regras que também valem na estrada do dique"
+        },
+        "O capacete apertado é obrigatório para quem conduz e para o passageiro, e a lei vietnamita não admite qualquer álcool em quem conduz desde 1 de janeiro de 2025. Se almoçar em Bát Tràng, o regresso faz-se sem álcool; o guia sobre o [álcool e a condução no Vietname](/guia-de-aluguer/alcool-zero-ao-volante/) explica a regra."
+      ]
+    },
+    {
+      "h2": "Se vem do Bairro Antigo ou do outro lado do rio",
+      "body": [
+        "Quem está alojado do outro lado do rio tem de atravessar uma ponte para chegar a Long Biên ou à estrada do dique. O estado das pontes muda com obras e avisos, por isso confirme-o no dia:",
+        {
+          "ul": [
+            "**Ponte Long Biên.** Esteve fechada para reparações de 28 de março a 27 de maio de 2026 e reabriu a 28 de maio a motas, bicicletas e peões. Nas notícias consultadas a 13 de outubro de 2026 não havia novo fecho anunciado; o guia da [ponte Long Biên](/zonas-de-hanoi/ponte-long-bien/) resume o estado e a alternativa.",
+            "**Ponte Chương Dương.** Um aviso de 10 de setembro de 2024 proibiu, nos dois sentidos, os autocarros interurbanos, os veículos de contrato e de turismo com mais de 9 lugares e os camiões com mais de 0,5 t, até nova comunicação; as motas não constam da lista. Não conseguimos confirmar se o aviso continua em vigor em outubro de 2026."
+          ]
+        },
+        "Se prefere não começar o dia a atravessar uma ponte, pergunte à loja se a mota pode ser entregue no seu alojamento. Depende da morada e das datas, e só conta o que ficar confirmado por escrito; o guia sobre a [entrega da mota no hotel](/precos/entrega-da-mota-no-hotel/) indica que perguntas fazer. Outros guias por bairro e por saída estão reunidos em [Zonas de Hanói](/zonas-de-hanoi/)."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Bát Tràng fica longe de Long Biên?",
+      "a": "Os guias dão entre 10 e 14 km a partir do centro de Hanói, e um deles indica 20 a 30 minutos a partir do Bairro Antigo. Não encontrámos a distância a partir da loja: marque Bát Tràng no mapa do telemóvel para ver o tempo a partir de onde estiver."
+    },
+    {
+      "q": "Preciso de pedir autorização à loja para ir a Bát Tràng?",
+      "a": "Bát Tràng fica em Hanói, por isso não é uma saída da cidade como as que o guia sobre autorização para sair de Hanói trata. Mesmo assim, as condições do aluguer combinam-se com a loja: pergunte, ao levantar a mota, se há zonas ou estradas a evitar."
+    },
+    {
+      "q": "A estrada do dique é segura de mota?",
+      "a": "As notícias consultadas descrevem piso degradado, camiões pesados e pontos de risco no dique de Bát Tràng, mas não trazem estatísticas. Vá de dia, devagar e guarde distância dos camiões."
+    },
+    {
+      "q": "A que horas abre o mercado de cerâmica de Bát Tràng?",
+      "a": "Não encontrámos o horário nas fontes consultadas. Confirme no local, ou nas páginas das lojas que pretende visitar, e só depois marque a hora de regresso à loja."
+    },
+    {
+      "q": "Onde estaciono a mota em Bát Tràng?",
+      "a": "Não encontrámos indicações de estacionamento na aldeia. Procure um parque com funcionário («gửi xe»), pergunte o preço antes de deixar a mota e guarde o talão."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Chuyến đi trong ngày đến Làng gốm Bát Tràng",
+      "publisher": "Vietnam Tourism (vietnam.travel)",
+      "url": "https://vietnam.travel/jp/node/1654",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "vi"
+    },
+    {
+      "title": "Guia de viagem da aldeia de cerâmica de Bát Tràng (em vietnamita)",
+      "publisher": "Vietnam Airlines",
+      "url": "https://www.vietnamairlines.com/at/vi/plan-book/travel/travel-guide/bat-trang-ceramic-village",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Guia da aldeia de cerâmica de Bát Tràng, em Hanói (em vietnamita)",
+      "publisher": "VinWonders",
+      "url": "https://vinwonders.com/vi/bai-viet-du-lich/lang-gom-bat-trang-ha-noi/",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Reportagem sobre o turismo na aldeia de cerâmica de Bát Tràng, de 20 de agosto de 2024 (em vietnamita)",
+      "publisher": "VTC News",
+      "url": "https://vtcnews.vn/du-lich-lang-gom-bat-trang-ar887158.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Xe quá tải “xâm hại” đường đê Bát Tràng",
+      "publisher": "Báo Pháp luật Việt Nam",
+      "url": "https://baophapluat.vn/xe-qua-tai-xam-hai-duong-de-bat-trang-post145135.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Vídeo e notícia da Znews sobre um acidente mortal entre uma mota e um camião que atravessava a estrada (em vietnamita)",
+      "publisher": "Znews",
+      "url": "https://znews.vn/video-lao-thang-vao-xe-tai-dang-sang-duong-tai-xe-xe-may-tu-vong-post1434405.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Aviso de restrição de veículos na ponte Chương Dương a partir de 10 de setembro de 2024 (em vietnamita)",
+      "publisher": "Thị trường Tài chính Tiền tệ",
+      "url": "https://thitruongtaichinhtiente.vn/han-che-phuong-tien-luu-thong-tren-cau-chuong-duong-tu-8h30-sang-ngay-10-9-62458.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Khôi phục phương án tổ chức giao thông trên cầu Long Biên từ ngày 28/5",
+      "publisher": "Báo Nhân Dân",
+      "url": "https://nhandan.vn/khoi-phuc-phuong-an-to-chuc-giao-thong-tren-cau-long-bien-tu-285-post964788.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Hà Nội cấm xe đi qua cầu Long Biên trong 2 tháng để sửa chữa",
+      "publisher": "Tuổi Trẻ",
+      "url": "https://tuoitre.vn/ha-noi-cam-xe-di-qua-cau-long-bien-trong-2-thang-de-sua-chua-20260326083632435.htm",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    "lawnet-capacete-168",
+    "tuoitre-alcool-zero"
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "READY_FOR_QA",
+  "revision": {
+    "reason": "Ligações internas para artigos publicados depois"
+  }
+}

@@ -1,0 +1,326 @@
+{
+  "contract_version": 1,
+  "id": "PT-0056",
+  "slug": "aluguer-de-mota-eletrica-em-hanoi",
+  "title": "Aluguer de mota elétrica em Hanói: preço, autonomia e carga",
+  "description": "Quanto custa alugar a mota elétrica da loja em Hanói ao dia, à semana e ao mês, que autonomia esperar, como a carregar e o que confirmar antes de reservar.",
+  "h1": "Alugar uma mota elétrica em Hanói: quanto custa e a quem convém",
+  "summary": "O preço do aluguer de uma mota elétrica em Hanói depende do modelo e do período: confirme o orçamento com a loja antes de reservar. O modelo não vem indicado na tabela, por isso a autonomia e o tempo de carga confirmam-se para a unidade entregue; modelos VinFast servem apenas de exemplo.",
+  "key_points": [
+    "Preço da mota elétrica: sob consulta. Peça orçamento por dia, semana ou mês para o modelo disponível.",
+    "A tabela da loja diz apenas «Mota elétrica»: peça marca, modelo e ano da unidade antes de contar com qualquer autonomia.",
+    "Os valores da VinFast servem de exemplo: 160 a 205 km por carga a 30 km/h, conforme o modelo, e menos fora dessas condições.",
+    "Uma carga completa demora horas, cerca de 6 a 10 nos exemplos: a elétrica pede um sítio para carregar durante a noite.",
+    "Convém sobretudo a quem fica na cidade e tem onde carregar; para dias longos ou saídas de Hanói, uma scooter a gasolina dá menos trabalho."
+  ],
+  "intro": [
+    "Na lista da loja {{brand}}, em {{area}}, a mota elétrica aparece com um nome genérico, «Mota elétrica», ao lado das scooters, das semiautomáticas e das 50 cc. O preço está publicado; o modelo, não. É isso que muda a forma de alugar uma elétrica: a autonomia, o tempo de carga e até a carta exigida dependem da unidade concreta que lhe vão entregar.",
+    "Este guia separa o que pode decidir já — quanto custa por dia, semana e mês e se uma elétrica serve o seu plano — do que tem de confirmar com a loja. Para dar uma ordem de grandeza, usa os valores que a VinFast publica para modelos à venda no Vietname, sempre como exemplo e nunca como ficha da mota da loja."
+  ],
+  "sections": [
+    {
+      "h2": "Quanto custa alugar a mota elétrica",
+      "body": [
+        "A tabela de referência da loja, verificada a {{pricing.verifiedAt}}, tem uma única linha para as motas elétricas, com preço ao dia, à semana e ao mês:",
+        {
+          "component": "price-table",
+          "category": "motas-eletricas"
+        },
+        "Não é possível comparar diretamente a tarifa da elétrica com a Honda Vision ou a Honda Click sem um preço confirmado para a elétrica. Consulte os preços de referência das scooters na [página de preços](/precos/) e peça orçamento da elétrica para as mesmas datas.",
+        {
+          "h3": "Dias avulsos, semana ou mês"
+        },
+        "Se vai usar a mota vários dias, solicite à loja preços diários, semanais e mensais para o modelo elétrico concreto. Compare o valor total e as condições de carregamento antes de reservar. Os guias do [aluguer semanal](/precos/aluguer-semanal-de-mota/) e do [aluguer mensal](/precos/aluguer-mensal-de-mota/) explicam como se contam os dias e o que deixar combinado.",
+        {
+          "note": "Os preços de referência cobrem o aluguer da mota. Caução, entrega, recolha e extras combinam-se à parte, e o valor final, a unidade disponível e as condições são sempre confirmados pela loja. Numa elétrica, pergunte também se o carregador segue com a mota e, no alojamento, se a eletricidade para a carregar se paga à parte.",
+          "tone": "info",
+          "title": "O que o preço não diz"
+        }
+      ]
+    },
+    {
+      "h2": "Que mota elétrica vai receber",
+      "body": [
+        "A tabela não diz de que marca ou modelo é a mota elétrica, e os modelos à venda no Vietname diferem bastante entre si. Antes de reservar, peça à loja a marca, o modelo, a versão e o ano da unidade disponível nas suas datas. No levantamento, confirme que coincidem com o certificado de registo da mota.",
+        "Para perceber o que essas respostas significam, veja como variam quatro modelos da VinFast, uma marca que vende motas elétricas no Vietname:",
+        {
+          "table": {
+            "caption": "Exemplos: valores anunciados pela VinFast para quatro modelos (não são a ficha da mota da loja)",
+            "head": [
+              "Modelo",
+              "Autonomia por carga",
+              "Velocidade máxima",
+              "Carga completa"
+            ],
+            "rows": [
+              [
+                "Evo200",
+                "203 km",
+                "70 km/h",
+                "cerca de 10 horas, com carregador de 400 W"
+              ],
+              [
+                "Evo200 Lite",
+                "205 km",
+                "49 km/h",
+                "não indicada nas fontes consultadas"
+              ],
+              [
+                "Feliz S",
+                "cerca de 198 km",
+                "78 km/h",
+                "cerca de 6 horas, com carregador de 1000 W"
+              ],
+              [
+                "Vento S",
+                "160 km",
+                "89 km/h",
+                "cerca de 6 horas, com carregador de 1000 W"
+              ]
+            ]
+          }
+        },
+        "A marca mediu estas autonomias a 30 km/h, com uma única pessoa de 65 kg a bordo. Algumas destas páginas têm já alguns anos, e a mota de aluguer pode ser de outra marca ou de outra geração. Use a tabela para fazer as perguntas certas, e não para adivinhar a resposta.",
+        {
+          "h3": "Potência, velocidade e carta"
+        },
+        "Nestes exemplos, a velocidade máxima vai de 49 a 89 km/h, e a potência do motor também muda de modelo para modelo. Os dois dados contam para a carta: numa mota elétrica, a categoria exigida depende da potência do motor e, nos modelos menos potentes, também da velocidade de projeto. Os limites estão explicados no guia sobre a [carta para mota elétrica](/tipos-de-motas/carta-para-mota-eletrica/). Peça à loja a potência da unidade, em kW, antes de reservar."
+      ]
+    },
+    {
+      "h2": "Autonomia: quantos quilómetros contar",
+      "body": [
+        "Numa elétrica, a pergunta mais importante é quantos quilómetros faz com uma carga, e a resposta honesta é que depende das condições. Os valores da tabela acima saem de um teste a velocidade moderada e com uma só pessoa a bordo. A própria VinFast mostra o que acontece fora dessas condições: os 205 km anunciados para a Evo200 Lite descem para 149 km quando o condutor pesa 70 kg e anda a 45 km/h, e para 146 km em condições mistas.",
+        "São cerca de 27 a 29 % menos do que o valor anunciado (cálculo a partir dos números da marca). Para quem aluga, isto traduz-se em três regras simples:",
+        {
+          "ul": [
+            "**Peça uma distância realista**: quantos quilómetros a unidade costuma fazer com uma carga, com uma pessoa e com duas.",
+            "**Conte a ida e o regresso**: some todo o percurso do dia, incluindo a volta ao alojamento, e deixe margem para desvios e trânsito.",
+            "**Não planeie a partir da ficha**: com passageiro, com bagagem ou a velocidades mais altas, as condições ficam longe das do teste."
+          ]
+        },
+        "Se vai circular sobretudo dentro da cidade, compare a autonomia que a loja indicar com a distância do dia medida no mapa. Nos dias longos, a conta aperta depressa: uma ida e volta de 150 km já passa os 146 km que a VinFast indica para a Evo200 Lite em condições mistas. E qualquer saída de Hanói com a mota alugada tem de ser combinada antes com a loja, como explica o guia sobre [levar a mota para fora de Hanói](/guia-de-aluguer/autorizacao-para-sair-de-hanoi/)."
+      ]
+    },
+    {
+      "h2": "Carregar: tempo, local e carregador",
+      "body": [
+        "Numa elétrica, o abastecimento troca minutos por horas. A VinFast indica cerca de 6 horas para carregar por completo a Feliz S e a Vento S, com carregadores de 1000 W, e cerca de 10 horas para a Evo200, com o de 400 W. Na prática, a mota carrega-se durante a noite, enquanto está parada, e não numa pausa a meio do dia.",
+        "Antes de reservar, saiba onde a vai carregar:",
+        {
+          "ul": [
+            "**No alojamento**: pergunte se pode carregar a mota, a que distância fica a tomada do lugar de estacionamento e se a energia é cobrada à parte. Nem todos os alojamentos têm uma tomada junto às motas.",
+            "**Na loja**: confirme se é possível carregar ou trocar a bateria na própria loja e em que condições; a loja abre {{hours}}.",
+            "**Em redes públicas**: Hanói tem redes de carregamento e de troca de baterias em expansão, mas cada uma ligada a marcas concretas. Em junho de 2026, por exemplo, a V-Green anunciou um plano para milhares de armários de troca destinados às motas VinFast, e a Honda Vietname tem planos semelhantes para as suas elétricas. Só contam se a unidade da loja for compatível: pergunte antes."
+          ]
+        },
+        "Pergunte também que carregador segue com a mota, que ficha usa e quanto tempo demora a carga completa daquela unidade. São respostas que ajudam a escolher o alojamento e a organizar os dias, sobretudo num aluguer de uma semana ou mais."
+      ]
+    },
+    {
+      "h2": "A quem convém uma mota elétrica",
+      "body": [
+        "Uma elétrica não é melhor nem pior do que uma scooter a gasolina: serve outro tipo de uso. Pelo que fica dito sobre autonomia e carregamento, encaixa bem nestes casos:",
+        {
+          "ul": [
+            "**Estadias com base fixa em Hanói**, num alojamento onde pode carregar a mota durante a noite.",
+            "**Deslocações dentro da cidade**, de bairro em bairro, com distâncias que conhece ou que mede no mapa antes de sair. Para trajetos muito curtos, veja se a [bicicleta elétrica](/tipos-de-motas/bicicleta-eletrica-em-hanoi/) não lhe serve melhor do que qualquer mota.",
+            "**Alugueres de uma semana ou de um mês**, em que ligar a mota à corrente à noite passa a ser um hábito, tal como abastecer numa scooter. O guia da [scooter para o dia a dia](/tipos-de-motas/scooter-para-o-dia-a-dia/) ajuda a pensar essa rotina.",
+            "**Quem prefere uma condução silenciosa** e dispensa as idas à bomba de gasolina."
+          ]
+        },
+        {
+          "h3": "Quando uma scooter a gasolina é mais simples"
+        },
+        {
+          "ul": [
+            "**Sair de Hanói ou fazer dias muito longos**: a distância pode passar a autonomia realista, e uma carga não se faz numa paragem rápida.",
+            "**Não ter onde carregar**: sem uma tomada autorizada no alojamento, cada carga passa a depender de terceiros.",
+            "**Andar quase sempre a dois e com bagagem**: o peso fica longe das condições de teste, e as fichas consultadas não dizem quanto isso custa em autonomia.",
+            "**Pouca experiência de mota**: o motor elétrico não muda o essencial da condução no trânsito de Hanói. Se nunca conduziu, leia antes o guia para [quem nunca conduziu uma mota](/tipos-de-motas/nunca-conduziu-uma-mota/)."
+          ]
+        },
+        "Para comparar todos os tipos, das scooters automáticas às 50 cc, consulte o guia de [tipos de motas](/tipos-de-motas/); a página das [scooters automáticas](/tipos-de-motas/scooters/) reúne as alternativas a gasolina.",
+        {
+          "h3": "E a zona de baixas emissões?"
+        },
+        "Em 2026, não deve ser o motivo da escolha. À data de 13 de outubro de 2026, a primeira fase do piloto em Hoàn Kiếm decorre até 31 de dezembro. Nesse período, a zona 1 fecha a todas as motas, elétricas incluídas, às sextas, sábados e domingos, das 19:00 às 24:00, e as motas a gasolina circulam fora desse horário. Para 2027 está prevista uma segunda fase, com regras ainda por confirmar. Os pormenores estão no guia da [zona de baixas emissões de Hanói](/tipos-de-motas/zona-de-baixas-emissoes-hanoi/)."
+      ]
+    },
+    {
+      "h2": "As perguntas a fazer antes de reservar",
+      "body": [
+        "Junte as perguntas numa só mensagem, com as datas e o número de pessoas, e peça as respostas por escrito:",
+        {
+          "checklist": [
+            "Que marca, modelo e ano tem a mota elétrica disponível nas minhas datas?",
+            "Qual é a potência do motor, em kW, e a velocidade máxima?",
+            "Que distância faz, de forma realista, com uma carga: com uma pessoa e com duas?",
+            "O carregador segue com a mota? Que potência tem e que ficha usa?",
+            "Quanto tempo demora uma carga completa desta unidade?",
+            "Posso carregar ou trocar a bateria na loja? A unidade pode usar alguma rede pública?",
+            "Com que nível de bateria recebo a mota e com que nível a devolvo?",
+            "O que faço se a bateria acabar a meio do caminho?",
+            "Qual é o preço total para as minhas datas e o que fica fora dele, como a caução?"
+          ]
+        },
+        "Envie-as pelos [contactos da loja](/contactos/), por telefone ou Zalo, para o {{phone}}. As perguntas comuns a qualquer aluguer, dos documentos aos capacetes, estão nas [15 perguntas a fazer antes de alugar](/guia-de-aluguer/perguntas-antes-de-alugar/)."
+      ]
+    },
+    {
+      "h2": "No dia do levantamento",
+      "body": [
+        "Além da inspeção habitual, há três verificações próprias de uma elétrica:",
+        {
+          "steps": [
+            {
+              "title": "Registe o nível da bateria",
+              "text": "Com a mota ligada, fotografe o indicador de bateria. É a referência para a devolução, tal como o ponteiro da gasolina numa scooter."
+            },
+            {
+              "title": "Confira o carregador",
+              "text": "Se o carregador e o cabo seguirem consigo, fotografe-os e confirme que ficam registados no acordo, junto com a mota."
+            },
+            {
+              "title": "Peça uma explicação do painel",
+              "text": "Pergunte como se lê a carga no painel e com que nível deve voltar ou ligar a mota à corrente. Depois, faça um percurso curto perto da loja antes de partir."
+            }
+          ]
+        },
+        "O resto da entrega, dos documentos às fotografias, está descrito no guia sobre [receber a mota](/guia-de-aluguer/receber-a-mota/). Na devolução, o nível da bateria segue a mesma lógica do combustível, explicada no guia do [combustível no aluguer](/precos/combustivel-no-aluguer/)."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Posso reservar um modelo concreto de mota elétrica?",
+      "a": "A tabela de referência publica um único preço para a «Mota elétrica», sem modelo. Indique as datas e pergunte que unidade está disponível; se precisar de uma autonomia ou de uma potência concreta, diga-o logo no primeiro contacto e peça a confirmação do modelo por escrito."
+    },
+    {
+      "q": "De que carta preciso para conduzir a mota elétrica da loja?",
+      "a": "Depende da potência do motor da unidade e, nos modelos menos potentes, também da velocidade de projeto. Peça esses dois dados à loja e compare-os com a categoria da sua carta, seguindo o guia sobre a [carta para mota elétrica](/tipos-de-motas/carta-para-mota-eletrica/)."
+    },
+    {
+      "q": "Posso levar a mota elétrica para fora de Hanói?",
+      "a": "Só com acordo prévio da loja, como qualquer mota alugada. Antes de pedir, compare a distância de ida e volta com a autonomia realista da unidade e lembre-se de que uma carga completa demora horas. Numa viagem longa, uma scooter a gasolina costuma ser mais prática."
+    }
+  ],
+  "sources": [
+    "tabela-precos-proprietario",
+    {
+      "title": "Thông số kỹ thuật xe điện VinFast Evo200 - Mẫu xe điện mới nhiều cải tiến và tính năng thông minh",
+      "publisher": "VinFast",
+      "url": "https://vinfastauto.com/vn_vi/thong-so-ky-thuat-evo200",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "Đánh giá pin xe máy điện VinFast Evo200 sạc 1 lần đi được 203km",
+      "publisher": "VinFast",
+      "url": "https://vinfastauto.com/vn_vi/danh-gia-pin-xe-may-dien-vinfast-evo200",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "Hướng dẫn sạc xe VinFast Evo200 đúng chuẩn",
+      "publisher": "VinFast",
+      "url": "https://vinfastauto.com/vn_vi/huong-dan-sac-xe-vinfast-evo-200",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "Hệ thống pin xe máy điện VinFast Evo200 Lite có gì đặc biệt?",
+      "publisher": "VinFast",
+      "url": "https://vinfastauto.com/vn_vi/he-thong-pin-xe-may-dien-vinfast-evo200-lite",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "Thông số kỹ thuật xe máy điện VinFast Feliz S mới nhất",
+      "publisher": "VinFast",
+      "url": "https://vinfastauto.com/vn_vi/kham-pha-thong-so-ky-thuat-xe-may-dien-vinfast-feliz-s",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "Tìm hiểu hệ thống pin xe máy điện VinFast Feliz S",
+      "publisher": "VinFast",
+      "url": "https://vinfastauto.com/vn_vi/he-thong-pin-xe-may-dien-vinfast-feliz-s",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "Thông số kỹ thuật Vento S vượt trội trong phân khúc",
+      "publisher": "VinFast",
+      "url": "https://vinfastauto.com/vn_vi/thong-so-ky-thuat-vento-s",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "So sánh xe máy điện VinFast Vento và Vento S",
+      "publisher": "VinFast",
+      "url": "https://vinfastauto.com/vn_vi/so-sanh-xe-may-dien-vinfast-vento-va-vento-s",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "V-Green hợp tác với EVNHANOI triển khai 10.000 tủ đổi pin xe máy điện",
+      "publisher": "Mekong ASEAN",
+      "url": "https://mekongasean.vn/v-green-hop-tac-voi-evnhanoi-trien-khai-10000-tu-doi-pin-xe-may-dien-56440.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "V-Green hợp tác EVNHANOI triển khai 10.000 tủ đổi pin xe máy điện",
+      "publisher": "The Leader",
+      "url": "https://theleader.vn/v-green-hop-tac-evnhanoi-trien-khai-10000-tu-doi-pin-xe-may-dien-d46517.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Abertura da venda das motas elétricas Honda CUV e: e UC3 e instalação de estações de troca e de carregamento de baterias nas grandes cidades (notícia em vietnamita)",
+      "publisher": "Honda Việt Nam",
+      "url": "https://www.honda.com.vn/xe-may/tin-tuc/honda-viet-nam-mo-ban-hai-mau-xe-may-dien-honda-cuv-e-va-honda-uc3-trien-khai-he-thong-tram-doi-pin-va-tram-sac-pin-tai-cac-thanh-pho-lon",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    "lei-36-2024-a1",
+    {
+      "title": "Luật Trật tự, an toàn giao thông đường bộ 2024 số 36/2024/QH15",
+      "publisher": "Thư Viện Pháp Luật",
+      "url": "https://thuvienphapluat.vn/van-ban/Giao-thong-Van-tai/Luat-trat-tu-an-toan-giao-thong-duong-bo-444251.aspx",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "Ha Noi begins restricting fossil-fuel vehicles in low-emission zones",
+      "publisher": "Portal do Governo do Vietname (chinhphu.vn) — Hanoi Capital",
+      "url": "https://hanoicapital.chinhphu.vn/ha-noi-begins-restricting-fossil-fuel-vehicles-in-low-emission-zones-110260702082825273.htm",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    },
+    "vietnamnet-zbe-revisao"
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "READY_FOR_QA",
+  "revision": {
+    "reason": "Ligações internas para artigos publicados depois"
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "contract_version": 1,
+  "id": "PT-0181",
+  "slug": "moradas-em-hanoi",
+  "title": "Moradas em Hanói: como ler ngõ, ngách e número",
+  "description": "Como se lê uma morada de Hanói: número, ngách, ngõ, rua e bairro, o que mudou nos nomes dos bairros em 2025 e como chegar de mota à entrada de um beco.",
+  "h1": "Ler uma morada de Hanói: número, ngõ, ngách, rua e bairro",
+  "summary": "Uma morada de Hanói lê-se do pormenor para o geral: número da casa, ngách, ngõ, rua e bairro. Os números separados por barras indicam ngõ ou ngách, a numeração nem sempre é regular e os bairros foram reorganizados em 1 de julho de 2025. Por isso, planeie o trajeto antes de sair e guarde a morada completa, com diacríticos.",
+  "key_points": [
+    "Lê-se do pormenor para o geral: número da casa, ngách, ngõ, nome da rua, bairro (phường) e cidade.",
+    "Nos atalhos escritos com barras, os números depois da barra indicam ngõ ou ngách; como a ordem exata nem sempre é clara, peça a morada por extenso.",
+    "A numeração nem sempre é regular: na avenida Phạm Văn Đồng há números que saltam e números com as letras A, B, C e D.",
+    "Desde 1 de julho de 2025, a Resolução 1656/NQ-UBTVQH15 reorganizou os bairros de Hanói: confirme o nome do bairro em fonte oficial.",
+    "À entrada de um beco estreito, não pare na faixa de rodagem nem no passeio sem autorização: a coima nacional é de 400 mil a 600 mil VND.",
+    "Planeie o último troço antes de sair, com a mota parada, e guarde a morada num formato que possa mostrar a alguém."
+  ],
+  "intro": [
+    "Quem procura um sítio em Hanói descobre depressa que uma morada vietnamita não se lê como uma morada portuguesa. Entre o número da casa e o nome da rua podem aparecer um ngõ e um ngách, duas espécies de ruela, e o último troço do caminho pode ser um beco estreito onde não é óbvio que se possa entrar de mota.",
+    "Este guia explica como ler essas moradas, o que a reorganização administrativa de 2025 mudou nos nomes dos bairros, como pesquisar no mapa e o que fazer à entrada de um beco. A informação foi verificada a 13 de outubro de 2026 e os nomes dos bairros são um tema sensível ao tempo: confirme-os em fonte oficial. O uso do telemóvel a conduzir tem guia próprio, o de [telemóvel e GPS na scooter](/tipos-de-motas/telemovel-e-gps-na-scooter/); aqui o foco é a morada."
+  ],
+  "sections": [
+    {
+      "h2": "Como se lê uma morada: do pormenor para o geral",
+      "body": [
+        "Segundo uma fonte jurídica vietnamita, uma morada urbana lê-se do pormenor para o geral: número da casa, hẻm, ngách, ngõ, nome da rua, bairro (phường), distrito (quận) e cidade. A ordem de leitura deixa ver a hierarquia: o número da casa é o dado mais pequeno, o ngách vem dentro do ngõ e o ngõ sai de uma rua.",
+        {
+          "table": {
+            "caption": "Termos de uma morada de Hanói, do pormenor para o geral",
+            "head": [
+              "Termo",
+              "Em português",
+              "O que convém saber"
+            ],
+            "rows": [
+              [
+                "số",
+                "número",
+                "O número da casa ou do prédio; vem primeiro."
+              ],
+              [
+                "ngách",
+                "ruela mais pequena",
+                "Na ordem de leitura vem antes do ngõ, ou seja, está dentro dele."
+              ],
+              [
+                "ngõ",
+                "ruela ou beco",
+                "Sai de uma rua; um ngách pode estar dentro de um ngõ."
+              ],
+              [
+                "hẻm",
+                "ruela",
+                "Aparece na mesma lista da fonte; a diferença para ngõ e ngách não ficou confirmada."
+              ],
+              [
+                "phường",
+                "bairro",
+                "Unidade administrativa; os nomes mudaram em 2025 (ver abaixo)."
+              ],
+              [
+                "quận",
+                "distrito",
+                "As fontes jurídicas já falam, por exemplo, no «Quận Long Biên cũ», o antigo distrito de Long Biên."
+              ]
+            ]
+          }
+        },
+        "Quanto à diferença exata entre ngõ, ngách e hẻm, as fontes consultadas não a definem; só a ordem de leitura. Na prática, trate-os como ruelas que saem de uma rua maior e confirme sempre as palavras que constam da morada que lhe deram."
+      ]
+    },
+    {
+      "h2": "Números com barras e numeração irregular",
+      "body": [
+        "Nas moradas escritas em atalho, os números separam-se por barras. A fonte dá dois exemplos de forma, «số xx/abc/xyz» e «số xx, ngách abc/xyz», e explica que os números depois da barra indicam ngõ ou ngách. Não ficou confirmada a ordem exata dos números em cada caso, por isso peça sempre a morada por extenso, com as palavras ngõ e ngách escritas.",
+        "A numeração das casas e os nomes dos ngõ, ngách e hẻm seguem a Circular 08/2024/TT-BXD do Ministério da Construção, consolidada no texto 05/VBHN-BXD. Não existe um modelo obrigatório para escrever a morada em todos os documentos, pelo que pode encontrar a mesma morada escrita de formas diferentes.",
+        "Também não conte com uma numeração perfeita. Uma reportagem do VnExpress sobre a confusão dos números de casa em Hanói dá o exemplo da avenida Phạm Văn Đồng, onde há números que saltam e números com as letras A, B, C e D. Se o número seguinte não está onde esperava, não conclua logo que errou o caminho: confirme no mapa ou pergunte a quem estiver por perto.",
+        {
+          "note": "Os resumos legais desta página vêm de portais jurídicos vietnamitas, e não dos textos integrais. Para uma morada num documento, confirme a forma correta em fonte oficial.",
+          "tone": "info",
+          "title": "De onde vêm estes dados"
+        }
+      ]
+    },
+    {
+      "h2": "Bairros e distritos: o que mudou em 1 de julho de 2025",
+      "body": [
+        "A reorganização de 2025 mexeu nos nomes e nos limites dos bairros. A Resolução 1656/NQ-UBTVQH15 da Comissão Permanente da Assembleia Nacional, em vigor desde 1 de julho de 2025, reorganizou as unidades administrativas de Hanói. A imprensa noticiou uma proposta com 126 bairros (phường) e comunas (xã) novos, e as fontes jurídicas já falam em «antigos» distritos e bairros.",
+        "Alguns exemplos, segundo as fontes consultadas:",
+        {
+          "table": {
+            "caption": "Exemplos de novos bairros de Hanói e o que incluem (segundo as fontes consultadas)",
+            "head": [
+              "Novo bairro",
+              "O que inclui"
+            ],
+            "rows": [
+              [
+                "Hoàn Kiếm",
+                "Por inteiro, os antigos Hàng Bạc, Hàng Bồ, Hàng Buồm, Hàng Đào, Hàng Gai, Hàng Mã e Lý Thái Tổ, mais partes de outros bairros."
+              ],
+              [
+                "Cửa Nam",
+                "Por inteiro, os antigos Hàng Bài, Phan Chu Trinh e Trần Hưng Đạo, mais partes de outros bairros."
+              ],
+              [
+                "Long Biên",
+                "O antigo bairro Long Biên e partes de Bồ Đề, Cự Khối, Phúc Đồng, Thạch Bàn e Bát Tràng."
+              ],
+              [
+                "Hồng Hà",
+                "Partes de Ngọc Thụy e de Bồ Đề."
+              ]
+            ]
+          }
+        },
+        "Os bairros Hoàn Kiếm e Cửa Nam abrangem, hoje, o Bairro Antigo e parte do bairro francês. Para os restantes bairros, as fontes consultadas não permitem uma lista completa, e a composição de alguns, como Ba Đình e Bồ Đề, ficou por confirmar: consulte a Resolução ou uma fonte oficial.",
+        "Na prática, um mapa, um site ou um cartão mais antigo pode mostrar um nome de bairro que já não é o oficial. As fontes que consultámos descrevem a reorganização dos bairros e das comunas e não falam de mudanças nos nomes das ruas nem na numeração das casas; por isso, guie-se pela rua, pelo número e pelo ponto no mapa, e use o nome do bairro só como confirmação.",
+        "A morada da loja, neste site, é {{address}}. Para chegar lá, guie-se por {{street}} e pelo [ponto da loja no Google Maps]({{maps}}) em vez de procurar o nome do bairro; o guia do [aluguer de motas em Long Biên](/zonas-de-hanoi/aluguer-de-motas-em-long-bien/) explica como preparar a visita."
+      ]
+    },
+    {
+      "h2": "Pesquisar no mapa: com e sem diacríticos",
+      "body": [
+        "Os conselhos desta secção são do guia, não de uma fonte oficial.",
+        {
+          "steps": [
+            {
+              "title": "Escreva a rua com os diacríticos",
+              "text": "Use o nome como vem na morada, por exemplo «Hàng Bạc». Se o mapa não devolver nada, tente a forma sem diacríticos, «Hang Bac», e vice-versa: as aplicações nem sempre encontram o mesmo resultado nas duas formas."
+            },
+            {
+              "title": "Procure a rua antes do beco",
+              "text": "Para um ngõ ou um ngách, localize primeiro a rua e depois o número do ngõ. Se não aparecer, procure a entrada na vista de satélite ou peça ao alojamento, ao anfitrião ou ao restaurante o ponto do mapa e, se puderem, uma fotografia da entrada do beco."
+            },
+            {
+              "title": "Guarde a morada em dois formatos",
+              "text": "Copie o texto original, com diacríticos e com ngõ e ngách por extenso, e guarde também uma captura do mapa com o ponto marcado. O texto serve para mostrar a alguém; a captura, para o caso de ficar sem rede."
+            }
+          ]
+        },
+        "Para comunicar a morada por mensagem, o guia sobre [comunicar sem falar vietnamita](/guia-de-aluguer/comunicar-sem-falar-vietnamita/) explica como escrevê-la e como evitar que a tradução automática a estrague."
+      ]
+    },
+    {
+      "h2": "À entrada de um beco estreito: onde deixar a mota",
+      "body": [
+        "Um ngõ pode ser demasiado estreito, ou ter demasiada gente, para entrar de mota. Se a entrada lhe parecer apertada, a solução mais simples é deixar a mota fora, num sítio permitido, e fazer o último troço a pé. Se tiver de entrar, confirme também o sentido da rua: o guia sobre [sentido único e viragens proibidas em Hanói](/guia-de-aluguer/sentidos-unicos-e-viragens/) ensina a ler os sinais.",
+        "Segundo resumos jurídicos do Decreto 168/2024/NĐ-CP, em vigor desde 1 de janeiro de 2025, parar ou estacionar na faixa de rodagem de modo a atrapalhar o trânsito, ou estacionar sem autorização na faixa de rodagem ou no passeio, tem coima de 400 mil a 600 mil VND. O estacionamento no passeio só é admitido onde houver sinal que o permita, lugares marcados ou autorização escrita da autoridade.",
+        "Subir ao passeio de mota para entrar no beco também não é solução: conduzir no passeio, exceto para entrar numa casa ou num edifício, tem coima de 4 a 6 milhões de VND. Os valores são os nacionais; em Hanói, desde 1 de julho de 2026, a Resolução 56/2026/NQ-HĐND multiplica por 1,5 ou por 2 as coimas de 28 infrações de ordem pública e de trânsito, e não confirmámos se estas estão entre elas. As infrações mais comuns estão reunidas em [como evitar multas em Hanói](/guia-de-aluguer/como-evitar-multas/).",
+        "Prefira um parque vigiado (bãi giữ xe), o parque do alojamento ou o de um café ou restaurante que guarde as motas dos clientes, como se explica no guia para [conduzir no Bairro Antigo](/zonas-de-hanoi/conduzir-no-bairro-antigo/). Pergunte o preço antes de deixar a mota, guarde o talão e fotografe o local e o nome da rua, porque muitas ruas parecem iguais ao fim de um dia a andar.",
+        "Seja qual for o sítio, não tape a entrada do beco: moradores, entregadores e peões precisam de passar."
+      ]
+    },
+    {
+      "h2": "Planear antes de sair e pedir indicações",
+      "body": [
+        "Planear faz mais diferença do que qualquer truque na rua. Antes de sair:",
+        {
+          "checklist": [
+            "Copiei a morada completa, com ngõ e ngách escritos por extenso e com diacríticos, para uma nota do telemóvel.",
+            "Tenho o ponto do mapa e, se possível, uma fotografia da entrada do beco.",
+            "Escolhi onde deixar a mota antes de chegar: parque, alojamento ou uma rua onde é permitido.",
+            "Vi o percurso e o último troço com a mota parada: em andamento, o telemóvel fica guardado.",
+            "Levo o número da loja, {{phone}}, e a morada da loja em vietnamita, {{address.vi}}, para o regresso.",
+            "Tenho os documentos da mota e da condução comigo, como explica o guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/)."
+          ]
+        },
+        "Se se perder, não pare a meio da rua: encoste num sítio seguro, com a mota parada, e mostre a morada escrita a quem estiver por perto, em vez de a tentar pronunciar.",
+        "Se a dúvida for sobre a mota ou sobre a loja, pode contactá-la {{hours}}; os dados estão em [Contactos](/contactos/). O resto da preparação está no [guia de aluguer](/guia-de-aluguer/)."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "O que é um ngõ e o que é um ngách?",
+      "a": "São dois tipos de ruela. Pela ordem de leitura de uma morada, o ngõ sai da rua e o ngách vem antes do ngõ, ou seja, está dentro dele. A diferença exata para o hẻm, outro termo da mesma lista, não ficou confirmada nas fontes consultadas; por isso, use sempre as palavras que constam da morada."
+    },
+    {
+      "q": "Como escrevo uma morada de Hanói para um mapa ou para um táxi?",
+      "a": "Copie-a com os diacríticos e com ngõ e ngách por extenso, na ordem em que a recebeu: número, ngách, ngõ, rua e bairro. Não existe um modelo obrigatório de escrita, por isso, se o mapa não a reconhecer, tente com e sem diacríticos e use o ponto marcado no mapa."
+    },
+    {
+      "q": "Preciso do nome novo do bairro para encontrar um sítio?",
+      "a": "As fontes consultadas descrevem a reorganização dos bairros e não alterações às ruas nem à numeração. Guie-se pela rua, pelo número e pelo ponto no mapa, e use o nome do bairro como confirmação, tendo em conta que mapas e sites mais antigos podem mostrar um nome diferente."
+    },
+    {
+      "q": "Posso entrar de mota num ngõ muito estreito?",
+      "a": "As fontes consultadas não dizem a partir de que largura um ngõ deixa de ser passável. Se não tiver a certeza de que a mota passa sem incomodar ninguém, deixe-a à entrada, num sítio permitido, e continue a pé. Estacionar na faixa de rodagem ou no passeio sem autorização tem coima de 400 mil a 600 mil VND."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Địa chỉ là gì?",
+      "publisher": "Luật Minh Khuê",
+      "url": "https://luatminhkhue.vn/dia-chi-la-gi.aspx",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "Artigo sobre como escrever a morada de uma casa, de um ngõ e de um ngách (em vietnamita)",
+      "publisher": "Luật Minh Khuê",
+      "url": "https://luatminhkhue.vn/cach-ghi-dia-chi-nha-ngo-ngach.aspx",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "Loạn số nhà ở Hà Nội",
+      "publisher": "VnExpress",
+      "url": "https://vnexpress.net/loan-so-nha-o-ha-noi-4747032.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Phường Đức Giang Quận Long Biên cũ sau sáp nhập thành phường gì? Phường Đức Giang đổi thành phường gì?",
+      "publisher": "THƯ VIỆN PHÁP LUẬT",
+      "url": "https://thuvienphapluat.vn/phap-luat/phuong-duc-giang-quan-long-bien-cu-sau-sap-nhap-thanh-phuong-gi-phuong-duc-giang-doi-thanh-phuong-g-7181-231915.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "Hà Nội: Chi tiết dự kiến 126 phường, xã mới cùng tên gọi sau sắp xếp",
+      "publisher": "Mekong ASEAN",
+      "url": "https://mekongasean.vn/ha-noi-chi-tiet-du-kien-126-phuong-xa-moi-cung-ten-goi-sau-sap-xep-40627.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Artigo sobre a que bairro pertence a rua Ngô Quyền após a fusão de 1 de julho de 2025 (em vietnamita)",
+      "publisher": "Thư viện Nhà đất",
+      "url": "https://thuviennhadat.vn/bat-dong-san/pho-ngo-quyen-thuoc-phuong-nao-sau-sap-nhap-1-7-2025-29142.html",
+      "accessed": "2026-10-13",
+      "type": "reference",
+      "lang": "vi"
+    },
+    {
+      "title": "Nghị định 168 đối với xe máy: 10 mức phạt mọi tài xế cần biết",
+      "publisher": "LuatVietnam",
+      "url": "https://luatvietnam.vn/giao-thong/nghi-dinh-168-doi-voi-xe-may-863-100609-article.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "Mức phạt đỗ xe máy, đi xe máy trên vỉa hè năm 2026 là bao nhiêu?",
+      "publisher": "THƯ VIỆN PHÁP LUẬT",
+      "url": "https://thuvienphapluat.vn/phap-luat-nha-dat/muc-phat-do-xe-may-di-xe-may-tren-via-he-nam-2026-la-bao-nhieu-14552.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "Điều khiển xe máy vượt đèn đỏ, đi trên vỉa hè bị phạt từ 4-6 triệu đồng",
+      "publisher": "Portal de divulgação jurídica da cidade de Cần Thơ (pbgdpl.cantho.gov.vn)",
+      "url": "https://pbgdpl.cantho.gov.vn/dieu-khien-xe-may-vuot-den-do-di-tren-via-he-bi-phat-tu-4-6-trieu-dong",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "vi"
+    },
+    "hanoi-resolucao-56-2026"
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "READY_FOR_QA",
+  "revision": {
+    "reason": "Ligações internas para artigos publicados depois"
+  }
+}

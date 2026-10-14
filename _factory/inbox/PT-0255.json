@@ -1,0 +1,279 @@
+{
+  "contract_version": 1,
+  "id": "PT-0255",
+  "slug": "levar-a-mota-no-comboio",
+  "title": "Levar a mota no comboio no Vietname: como funciona",
+  "description": "Como enviar uma mota de comboio no Vietname: o balcão de expedição, os quilos de cobrança por cilindrada, a preparação da mota e o que pedir à loja antes.",
+  "h1": "Enviar uma mota de comboio no Vietname: balcão, peso de cobrança e autorização da loja",
+  "summary": "No Vietname, a mota despacha-se como bagagem no balcão de expedição de uma estação, e a ferrovia nacional cobra por «quilos de cobrança» que dependem da cilindrada, não do peso real. O preço final só se confirma no balcão e, com uma mota alugada, nada disto se faz sem autorização escrita da loja.",
+  "key_points": [
+    "Procure o balcão de expedição de bagagem e mercadorias (em vietnamita, «vận chuyển»); em Hanói, os gabinetes abrem, em regra, das 07:00 às 11:30 e das 13:30 às 18:00, segundo um guia para viajantes.",
+    "Desde fevereiro de 2024, a ferrovia nacional cobra a mota em «quilos de cobrança» por unidade: 100 kg abaixo de 50 cm³, com valores mais altos nas cilindradas maiores.",
+    "Não encontrámos a tarifa por quilo e por quilómetro, o prazo de entrega nem a regra sobre o depósito: confirme tudo no balcão.",
+    "Retire os espelhos, proteja as partes que riscam e fotografe a mota antes de a entregar.",
+    "Uma mota alugada não é sua: peça à loja autorização escrita e pergunte quem responde por danos durante o transporte."
+  ],
+  "intro": [
+    "Atravessar o Vietname de mota é um plano clássico, mas nem todos querem cumprir centenas de quilómetros ao guiador. Os guias para viajantes descrevem uma alternativa: despachar a mota de comboio e seguir noutro meio de transporte. A pergunta é como isso funciona e o que muda quando a mota é alugada.",
+    "Este guia reúne o que as fontes consultadas a 14 de outubro de 2026 permitem afirmar sobre a regra de cobrança da ferrovia nacional e o procedimento no balcão. Separa o que está confirmado do que não está, porque não encontrámos a tarifa em dong nem uma página do operador que descreva o processo. Para uma mota alugada, acrescenta as perguntas a fazer à loja."
+  ],
+  "sections": [
+    {
+      "h2": "O que é, na prática, despachar uma mota de comboio",
+      "body": [
+        "Nas fontes consultadas, a mota não viaja como passageiro nem como bagagem de mão: é um volume despachado. Entrega-se num balcão da estação de partida, paga-se o transporte e levanta-se na estação de destino. O operador ferroviário nacional é a Đường sắt Việt Nam (VNR), mas quem descreve o processo é, em geral, um guia para viajantes ou uma transportadora privada, e não o próprio operador.",
+        "Não confirmámos se a mota segue no mesmo comboio que o passageiro nem em quantos dias chega. O prazo de entrega não consta de nenhuma das fontes. Pergunte-o no balcão e planeie chegar ao destino com folga, sem contar com a mota à chegada.",
+        {
+          "note": "O Báo Hà Tĩnh descreve a Công ty CP Dịch vụ Vận tải Bắc Nam, uma empresa privada que despacha motas de comboio e, no Norte, tem o endereço na estação de Giáp Bát, em Hoàng Mai. Não é a ferrovia nacional: os preços e as condições podem ser diferentes dos do balcão da estação, por isso compare antes de decidir.",
+          "tone": "info",
+          "title": "Há também operadores privados"
+        }
+      ]
+    },
+    {
+      "h2": "Quanto se cobra: os «quilos de cobrança» da ferrovia nacional",
+      "body": [
+        "Segundo a imprensa vietnamita, a VNR aplica desde fevereiro de 2024 uma regra para a bagagem despachada em que cada mota é cobrada por «quilos de cobrança» (em vietnamita, «kg tính cước») por unidade, definidos pela cilindrada. Não são o peso real da mota: são uma medida de conta, à qual se aplica a tarifa.",
+        {
+          "table": {
+            "caption": "Quilos de cobrança por unidade, segundo a regra da VNR descrita pela imprensa (desde fevereiro de 2024)",
+            "head": [
+              "Tipo de veículo",
+              "Quilos de cobrança",
+              "Grau de confirmação"
+            ],
+            "rows": [
+              [
+                "Bicicleta",
+                "50 kg",
+                "Indicado nas notícias consultadas"
+              ],
+              [
+                "Mota ou bicicleta elétrica abaixo de 50 cm³",
+                "100 kg",
+                "Confirmado nas duas notícias (VOH e Đại Đoàn Kết)"
+              ],
+              [
+                "De 50 a menos de 125 cm³",
+                "150 kg",
+                "Só numa das duas notícias"
+              ],
+              [
+                "De 125 a menos de 250 cm³",
+                "250 kg",
+                "Indicativo: atribuição incerta"
+              ],
+              [
+                "De 250 a menos de 500 cm³",
+                "450 kg",
+                "Indicativo: atribuição incerta"
+              ],
+              [
+                "500 cm³ ou mais",
+                "700 kg",
+                "Indicativo: atribuição incerta"
+              ]
+            ]
+          }
+        },
+        "As faixas acima de 50 cm³ só ficaram confirmadas em parte, porque uma das notícias corta esse trecho. Trate-as como ordem de grandeza e peça ao funcionário a faixa que se aplica à sua mota.",
+        "O que falta é o essencial para pôr um preço: não encontrámos a tarifa em dong por quilo e por quilómetro, por isso não é possível calcular o valor a partir desta tabela. Também não usamos tarifas de transportadoras para carga em geral, que se medem em metros cúbicos e valem para mercadorias, não para motas. Um site comercial dá, para 2026, uma referência de 150 mil a 300 mil VND por 100 km com a ferrovia nacional, mas é um valor sem verificação e sem fonte da tarifa.",
+        "Para uma mota alugada, a conclusão prática é esta: o custo depende da cilindrada, da distância e do operador, e só o balcão o diz com certeza. Uma transportadora refere ainda que o preço pode subir em feriados, no Tết e na época alta."
+      ]
+    },
+    {
+      "h2": "Passo a passo no balcão",
+      "body": [
+        "Os guias consultados descrevem um percurso parecido. Como nenhum é do operador, confirme cada passo no balcão.",
+        {
+          "steps": [
+            {
+              "title": "Ir à estação de partida",
+              "text": "Vá a uma estação com serviço de expedição; a [estação ferroviária de Hanói](/zonas-de-hanoi/estacao-ferroviaria-de-hanoi/), por exemplo, tem duas secções, em ruas diferentes. Em Hanói, o blogue de viagens Coracle fala de gabinetes que abrem, em regra, das 07:00 às 11:30 e das 13:30 às 18:00. Como a fonte é um guia para viajantes, confirme o horário do próprio dia."
+            },
+            {
+              "title": "Procurar o balcão certo",
+              "text": "Pergunte a um funcionário por «vận chuyển xe máy» (transporte de mota) ou procure o balcão «Phòng Vận Chuyển Hành Lý, Hàng Hóa», o das bagagens e mercadorias. A palavra a reter é «vận chuyển»."
+            },
+            {
+              "title": "Levar os documentos",
+              "text": "Não há lista oficial nas fontes. Um guia em inglês indica o passaporte, o registo do veículo («cà vẹt») e o número de telemóvel. Pergunte se pedem mais alguma coisa e leve também uma fotografia dos documentos no telemóvel."
+            },
+            {
+              "title": "Ver a tabela e pedir o valor",
+              "text": "Segundo o blogue Coracle, cada estação tem a sua tabela por tamanho ou peso. Outro guia diz que o preço varia com o tipo de mota (de mudanças ou scooter) e com a estação de destino. Peça o valor com o destino e a data escritos."
+            },
+            {
+              "title": "Assinar o contrato e pagar",
+              "text": "Uma transportadora descreve estas etapas: receção da mota, contrato, entrega, pagamento e assinatura. Leia o que assina. Se não percebe vietnamita, use o tradutor do telemóvel ou peça ajuda ao alojamento."
+            },
+            {
+              "title": "Levantar no destino",
+              "text": "À chegada, a mesma fonte indica que se costuma mostrar um documento de identificação e pagar o que faltar. Confirme no balcão da estação de destino o horário de levantamento e guarde o recibo da partida."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "Preparar a mota antes de a entregar",
+      "body": [
+        "Duas fontes descrevem a preparação. O Pháp Luật TP.HCM manda retirar os dois espelhos e proteger as partes que riscam com facilidade. Um operador privado fala ainda em tirar um pouco de gasolina e retirar acessórios soltos; a fonte não é clara sobre se isso é obrigatório. Não encontrámos regra sobre esvaziar o depósito: pergunte no balcão antes de mexer na mota.",
+        {
+          "checklist": [
+            "Fotografe a mota de todos os lados e o conta-quilómetros, com data e hora, antes de a entregar. O guia sobre [fotografar a mota](/guia-de-aluguer/fotografar-a-mota/) mostra como.",
+            "Retire os espelhos e guarde-os num saco, se o balcão o pedir, e proteja os riscos mais fáceis.",
+            "Tire tudo o que está solto: capacete, cadeado, suporte de telemóvel, impermeável.",
+            "Pergunte o que fazer com a chave e com os documentos da mota durante o transporte.",
+            "Guarde o contrato, o recibo e o número de acompanhamento, se existir."
+          ]
+        },
+        "Estes cuidados valem para qualquer mota. Numa mota alugada, falam-se primeiro com a loja, como se vê a seguir."
+      ]
+    },
+    {
+      "h2": "Se a mota é alugada: o que perguntar à loja antes de tudo",
+      "body": [
+        "Numa mota alugada, a decisão não é sua. A mota, o registo e o seguro estão em nome do proprietário, e as condições do aluguer combinam-se com a loja, como explicam os [termos e condições](/termos-e-condicoes/). Este site não publica nenhuma regra sobre despachar motas de comboio, por isso a resposta tem de vir da loja, por escrito.",
+        "Em {{area}}, a loja é {{brand}}. Escreva-lhe por mensagem ou por telefone, para o {{phone}}, com o destino, as datas e a estação de partida, e peça respostas a estes pontos:",
+        {
+          "checklist": [
+            "Se aceita que a mota seja despachada de comboio e para que destinos.",
+            "Quem entrega o registo («cà vẹt») no balcão, já que está em nome do proprietário; o guia sobre os [documentos da mota alugada](/guia-de-aluguer/documentos-da-mota-alugada/) explica o que é cada papel.",
+            "Quem responde por danos ou perdas durante o transporte e se há seguro da carga. Não confirmámos que o seguro obrigatório da mota cubra o transporte.",
+            "Se o aluguer continua a contar enquanto a mota viaja, e se a caução ou o acordo mudam.",
+            "Quem levanta a mota no destino, em nome de quem fica o recibo e como se faz a devolução no fim."
+          ]
+        },
+        "O pedido é semelhante ao de quem sai de Hanói com a mota: o guia sobre [pedir autorização para sair de Hanói](/guia-de-aluguer/autorizacao-para-sair-de-hanoi/) mostra que informação dar e o que deixar por escrito. Para os documentos pessoais, veja [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/); para a entrega fora da loja, o guia sobre [devolver a mota noutro local](/guia-de-aluguer/devolver-noutro-local/).",
+        {
+          "note": "Sem a resposta da loja, não envie a mota. Despachar uma mota alugada sem acordo deixa-o sem prova de que a viagem foi combinada, se algo correr mal.",
+          "tone": "warn",
+          "title": "Antes de pagar no balcão"
+        }
+      ]
+    },
+    {
+      "h2": "Quando faz sentido e que alternativas há",
+      "body": [
+        "Despachar a mota compensa sobretudo a quem é dono dela e quer poupar muitos dias de estrada. Para quem aluga, o raciocínio é outro: a mota é um serviço que se devolve, e a viagem sem ela pode ser mais simples do que o transporte, a burocracia e o risco de danos.",
+        {
+          "ul": [
+            "**Percurso curto ou a partir de Hanói:** a mota pode não ser necessária. Compare as várias opções em [mota, metro ou autocarro em Hanói](/precos/mota-metro-ou-autocarro/).",
+            "**Viagem longa para outra cidade:** pergunte à loja que opções aceita: devolver a mota antes de partir, mantê-la alugada em Hanói durante a ausência ou outra solução combinada por escrito.",
+            "**Prazo curto:** como não temos o prazo de entrega, uma mota enviada no último dia pode chegar depois de si."
+          ]
+        },
+        "Os preços por dia, semana e mês estão na [página de preços](/precos/), e servem para ver o que custa manter a mota alugada durante a ausência, caso decida não a devolver. Se preferir seguir de autocarro de longa distância, o guia dos [terminais de autocarros de Hanói](/zonas-de-hanoi/terminais-de-autocarros/) diz para que serve cada um. As estações e os terminais da capital estão reunidos em [Zonas de Hanói](/zonas-de-hanoi/)."
+      ]
+    },
+    {
+      "h2": "O que confirmar no balcão, em resumo",
+      "body": [
+        {
+          "checklist": [
+            "Os quilos de cobrança e a tarifa para a cilindrada da sua mota, e o preço final com a estação de destino.",
+            "O prazo de entrega e a data a partir da qual a mota pode ser levantada.",
+            "Se é preciso retirar os espelhos, o acessório mais solto ou esvaziar o depósito.",
+            "Que documentos são pedidos para entregar e para levantar, e quem os apresenta.",
+            "O que acontece em caso de dano e se existe seguro do transporte.",
+            "Uma cópia do contrato e do recibo, com o nome e o número de telefone de quem despachou."
+          ]
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Quanto custa levar uma mota de comboio no Vietname?",
+      "a": "Não encontrámos a tarifa por quilo e por quilómetro, por isso não damos um valor. A regra da ferrovia nacional cobra por «quilos de cobrança» que dependem da cilindrada, e o preço final varia com a distância e o operador. Peça o valor por escrito no balcão."
+    },
+    {
+      "q": "Posso despachar a mota alugada de comboio sem avisar a loja?",
+      "a": "Não: a mota, o registo e o seguro estão em nome do proprietário, e as condições do aluguer combinam-se com a loja. Peça autorização escrita antes de pagar, com o destino, as datas e a pessoa que a levanta, e pergunte quem responde por danos no transporte."
+    },
+    {
+      "q": "A mota viaja no mesmo comboio que eu?",
+      "a": "As fontes consultadas não o dizem, nem indicam o prazo de entrega. Pergunte no balcão em que dia a mota pode ser levantada e não conte com ela à chegada, sobretudo em feriados ou na época alta."
+    },
+    {
+      "q": "Tenho de esvaziar o depósito antes de a entregar?",
+      "a": "Não encontrámos nenhuma regra. Um operador privado fala em tirar um pouco de gasolina, mas sem dizer que é obrigatório. Pergunte no balcão antes de mexer na mota e retire sempre os espelhos e os acessórios soltos."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Quy định mới về hành lý khách đi tàu hỏa",
+      "publisher": "VOH",
+      "url": "https://voh.com.vn/xa-hoi/quy-dinh-moi-ve-hanh-ly-khach-di-tau-hoa-516143.html",
+      "accessed": "2026-10-14",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Quy định về vận tải hành lý khi đi tàu hỏa từ tháng 2/2024",
+      "publisher": "Báo Đại Đoàn Kết",
+      "url": "https://daidoanket.vn/quy-dinh-ve-van-tai-hanh-ly-khi-di-tau-hoa-tu-thang-2-2024-10273405.html",
+      "accessed": "2026-10-14",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "How to Send a Motorbike on a Train in Vietnam",
+      "publisher": "Vietnam Coracle",
+      "url": "https://vietnamcoracle.com/how-to-send-your-motorbike-on-the-train",
+      "accessed": "2026-10-14",
+      "type": "reference",
+      "lang": "en"
+    },
+    {
+      "title": "Guide to Send a Motorbike on the Train",
+      "publisher": "youindanang.com",
+      "url": "https://youindanang.com/?p=5874",
+      "accessed": "2026-10-14",
+      "type": "business",
+      "lang": "en"
+    },
+    {
+      "title": "Guia da GHN sobre como enviar uma mota de comboio (em vietnamita)",
+      "publisher": "GHN (Giao Hàng Nhanh)",
+      "url": "https://ghn.vn/blogs/thong-tin-giao-hang/gui-xe-may-bang-tau-hoa",
+      "accessed": "2026-10-14",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Kinh nghiệm gửi xe máy theo ô tô - tầu hỏa",
+      "publisher": "Pháp Luật TP.HCM (plo.vn)",
+      "url": "https://plo.vn/kinh-nghiem-gui-xe-may-theo-o-to-tau-hoa-post276772.html",
+      "accessed": "2026-10-14",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Gửi xe hàng hóa, máy bằng tàu hỏa an toàn, tiết kiệm cùng Vận tải Bắc Nam",
+      "publisher": "Báo Hà Tĩnh",
+      "url": "https://baohatinh.vn/gui-xe-hang-hoa-may-bang-tau-hoa-an-toan-tiet-kiem-cung-van-tai-bac-nam-post271013.html",
+      "accessed": "2026-10-14",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Cập nhật bảng giá và cách gửi xe máy bằng tàu hỏa chi tiết 2026",
+      "publisher": "Chợ Giá (chogia.vn)",
+      "url": "https://chogia.vn/cap-nhat-bang-gia-va-cach-gui-xe-may-bang-tau-hoa-chi-tiet-nam-50193/",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    }
+  ],
+  "legal_note": false,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "READY_FOR_QA",
+  "revision": {
+    "reason": "Ligações internas para artigos publicados depois"
+  }
+}

@@ -1,0 +1,300 @@
+{
+  "contract_version": 1,
+  "id": "PT-0234",
+  "slug": "cidadela-de-co-loa",
+  "title": "Cidadela de Cổ Loa de mota: horário, bilhetes e o que confirmar",
+  "description": "Horário e bilhetes da cidadela de Cổ Loa, como planear a visita a partir da loja em Long Biên e o que as fontes não confirmam: percurso e estacionamento.",
+  "h1": "Visitar a cidadela de Cổ Loa a partir de Long Biên: o que sabemos e o que falta confirmar",
+  "summary": "Os guias consultados indicam que a cidadela de Cổ Loa abre das 08:00 às 17:00 todos os dias e que o bilhete de adulto custa entre 10 mil e 30 mil VND, conforme o guia. Não encontrámos um percurso de mota a partir de Long Biên, nem dados sobre estacionamento ou duração da visita, e por isso não os inventamos: confirme-os antes de partir.",
+  "key_points": [
+    "Horário: das 08:00 às 17:00, todos os dias, segundo a maioria dos guias consultados; nenhum é um aviso oficial do monumento.",
+    "Bilhete de adulto: entre 10 mil e 30 mil VND, conforme o guia, e as isenções também diferem; pergunte o preço na bilheteira.",
+    "A cidadela fecha às 17:00 e a loja funciona {{hours}}: planeie o dia a partir da hora do levantamento, não da abertura da cidadela.",
+    "Não encontrámos um percurso de mota a partir de Long Biên, informação de estacionamento nem a duração da visita; não os inventamos.",
+    "Marque «thành Cổ Loa» no mapa, evite autoestradas, respeite os sinais de proibição a motas e diga à loja para onde vai."
+  ],
+  "intro": [
+    "A cidadela de Cổ Loa («thành Cổ Loa») tem guias de visita próprios em vários sites de viagens vietnamitas e fica em Đông Anh, a norte do centro de Hanói. Para quem aluga uma mota na loja de Long Biên, é um destino dentro de Hanói, mas fora do centro.",
+    "Este guia trata da visita e não da história da cidadela. Reúne o que as fontes consultadas permitem afirmar, o horário e os bilhetes, e diz com clareza o que não encontrámos: um percurso de mota a partir de Long Biên, informação sobre estacionamento e a duração da visita. Em vez de preencher essas lacunas, indica o que perguntar e verificar.",
+    "As fontes são guias de viagem comerciais, consultados a 13 de outubro de 2026, e não um aviso oficial do monumento. Horários e preços mudam e os guias nem sempre estão atualizados: confirme tudo na bilheteira."
+  ],
+  "sections": [
+    {
+      "h2": "O que está confirmado e o que não está",
+      "body": [
+        "A tabela separa o que os guias consultados dizem do que não encontrámos em nenhuma fonte, à data de 13 de outubro de 2026.",
+        {
+          "table": {
+            "caption": "Visita à cidadela de Cổ Loa: o que as fontes dizem",
+            "head": [
+              "Tema",
+              "O que encontrámos",
+              "Estado"
+            ],
+            "rows": [
+              [
+                "Horário",
+                "Das 08:00 às 17:00, todos os dias, segundo a maioria dos guias",
+                "Referência, a confirmar no local"
+              ],
+              [
+                "Bilhete de adulto",
+                "Entre 10 mil e 30 mil VND, conforme o guia",
+                "Os guias divergem"
+              ],
+              [
+                "Guia local",
+                "150 mil a 300 mil VND por visita, num único guia de 2026",
+                "Fonte única"
+              ],
+              [
+                "Percurso de mota a partir de Long Biên",
+                "Nenhuma fonte o descreve",
+                "Não confirmado"
+              ],
+              [
+                "Estacionamento",
+                "Nenhuma informação encontrada",
+                "Não confirmado"
+              ],
+              [
+                "Duração da visita",
+                "Nenhuma informação encontrada",
+                "Não confirmado"
+              ]
+            ]
+          }
+        },
+        "Nas secções seguintes, cada linha desta tabela tem o seu espaço. As que dizem «não confirmado» não são um esquecimento: são o que preferimos não inventar."
+      ]
+    },
+    {
+      "h2": "Horário: das 08:00 às 17:00, segundo os guias",
+      "body": [
+        "A maioria dos guias consultados dá o mesmo horário: das 08:00 às 17:00, todos os dias. Nenhum é um aviso oficial do monumento. Também não encontrámos a hora da última entrada, os encerramentos em feriados ou durante o Tết, nem horários diferentes no verão e no inverno.",
+        "Trate as 17:00 como a hora a que a visita termina, e não como a hora a que ainda pode entrar. Se o seu dia depende de uma hora exata, por exemplo por ter outra paragem marcada, confirme o horário afixado na bilheteira à chegada e ajuste o resto do dia a isso."
+      ]
+    },
+    {
+      "h2": "A manhã é curta: o horário da loja e o da cidadela",
+      "body": [
+        "A cidadela abre, segundo os guias, às 08:00, e a loja funciona {{hours}}. O dia começa, por isso, pela hora do levantamento e não pela da cidadela. Ao tempo da viagem, que não conseguimos indicar, junta-se o da entrega da mota, que o guia sobre [receber a mota alugada](/guia-de-aluguer/receber-a-mota/) calcula em 30 a 45 minutos entre a chegada à loja e a saída para a estrada.",
+        "Há três maneiras de arrumar o dia:",
+        {
+          "ul": [
+            "**Levantar a mota à abertura da loja e seguir logo para a cidadela.** É o plano mais simples e deixa o resto do dia para a viagem e para a visita, até ao fecho da cidadela.",
+            "**Pedir à loja um levantamento mais cedo.** Levantar ou devolver fora do horário só acontece com acordo prévio, confirmado por escrito. Pergunte também como se conta o dia no seu aluguer: o guia sobre a [hora de devolução](/precos/horas-de-levantamento-e-devolucao/) explica as duas contagens possíveis.",
+            "**Escolher um dia em que já tenha a mota de manhã.** Se fica com ela vários dias, marque a visita para um dia em que parte do alojamento já com a mota, em vez de a fazer no dia do levantamento."
+          ]
+        },
+        "O limite deste dia será, em princípio, o fecho da cidadela e não o da loja, às {{closes}}. Se a devolução da mota é nesse mesmo dia, some o regresso à visita e confirme a hora combinada. Evite voltar de noite por um percurso que só conhece de dia.",
+        "Quem está alojado do outro lado do rio tem ainda de chegar à loja. O guia sobre o [aluguer de motas em Long Biên](/zonas-de-hanoi/aluguer-de-motas-em-long-bien/) explica como preparar a ida, e o da [ponte Long Biên](/zonas-de-hanoi/ponte-long-bien/) resume o estado da ponte e a alternativa."
+      ]
+    },
+    {
+      "h2": "Bilhetes: três tabelas que não coincidem",
+      "body": [
+        "Nenhum dos guias consultados é uma tabela oficial e os valores não coincidem. Para um adulto, vão de 10 mil a 30 mil VND:",
+        {
+          "table": {
+            "caption": "Bilhete da cidadela de Cổ Loa, segundo cada guia",
+            "head": [
+              "Guia",
+              "Adulto",
+              "Estudantes e alunos",
+              "Entrada gratuita"
+            ],
+            "rows": [
+              [
+                "Vinpearl, atualizado em novembro de 2025",
+                "30 mil VND",
+                "15 mil VND (estudantes e idosos)",
+                "Crianças e pessoas com mérito revolucionário"
+              ],
+              [
+                "Hoàng Hà Mobile, 2026",
+                "15 mil VND",
+                "7 mil VND (alunos e estudantes)",
+                "Menores de 6 anos e maiores de 60"
+              ],
+              [
+                "VinWonders e Mytour (artigos mais antigos)",
+                "10 mil VND",
+                "5 mil VND (alunos e crianças)",
+                "Menores de 15 anos e pessoas com mérito revolucionário"
+              ]
+            ]
+          }
+        },
+        "As isenções também variam: um guia dá entrada gratuita aos maiores de 60 anos, outro cobra meio bilhete aos idosos. Use os valores como ordem de grandeza e pergunte o preço na bilheteira antes de pagar. Se conta com uma tarifa reduzida, pergunte que documento lhe pedem.",
+        "O guia de 2026 refere ainda a possibilidade de contratar um guia local por 150 mil a 300 mil VND por visita. É uma fonte única: pergunte o preço e a duração antes de aceitar."
+      ]
+    },
+    {
+      "h2": "O percurso a partir de Long Biên: o que não confirmámos",
+      "body": [
+        "Nenhuma das fontes consultadas descreve um percurso de mota entre a loja, em Long Biên, e a cidadela, nem dá a distância ou o tempo de viagem a partir daí. Preferimos dizê-lo a propor um trajeto que não verificámos: em Hanói, as regras das pontes e das avenidas mudam com obras e avisos, e um trajeto errado pode levar uma mota a uma via que lhe está vedada.",
+        "O que pode fazer, por esta ordem:",
+        {
+          "ol": [
+            "**Marque a cidadela no mapa.** Escreva «thành Cổ Loa» numa aplicação de mapas, com a loja como ponto de partida ({{address}}), e veja o trajeto e o tempo propostos. Se a aplicação tiver modo de mota, escolha-o.",
+            "**Verifique que o trajeto não entra numa autoestrada (cao tốc).** As motas estão proibidas nelas e, em 2026, a imprensa noticiou coimas a motociclistas estrangeiros numa autoestrada.",
+            "**Respeite os sinais, mesmo que a aplicação diga outra coisa.** Uma via com sinal de proibição a motas, ou uma faixa reservada a automóveis, não é para si: abrande e procure outro caminho.",
+            "**Pergunte à loja.** Diga que vai a Cổ Loa e pergunte se há estradas a evitar. Guarde a resposta por escrito, por exemplo no [Zalo]({{zalo}}).",
+            "**Se o mapa o levar por uma estrada de dique, abrande.** Notícias sobre camiões de areia citam diques do rio Vermelho em Đông Anh e Thanh Trì entre os troços com o piso danificado, e não sabemos se foi reparado desde então. Guarde distância dos camiões e não os ultrapasse junto a cruzamentos."
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "Estacionamento: sem dados, com duas regras de prudência",
+      "body": [
+        "Não encontrámos nenhuma fonte sobre onde se estaciona junto à cidadela, nem sobre o preço. Em Hanói, os preços de guarda de motas têm um máximo fixado pela Decisão 44/2017/QĐ-UBND, por tipo de veículo, zona e modalidade (por vez ou por mês). Não confirmámos os montantes atuais e por isso não os indicamos. Para um estacionamento do lado de Long Biên, veja o guia do [AEON Mall Long Biên de mota](/zonas-de-hanoi/aeon-mall-long-bien/).",
+        "À chegada, faça o seguinte:",
+        {
+          "checklist": [
+            "procure um parque com funcionário (a indicação é «gửi xe») e pergunte o preço antes de deixar a mota;",
+            "guarde o talão e fotografe-o, com o local onde a mota ficou;",
+            "não deixe documentos nem objetos de valor na mota."
+          ]
+        },
+        "Estacionar no passeio ou na faixa de rodagem sem autorização dá coima de 400 mil a 600 mil VND (Decreto 168/2024). Só se pode estacionar no passeio onde um sinal, uma marcação de lugares ou uma autorização escrita o permita. Se não houver parque à vista, procure outro sítio em vez de improvisar."
+      ]
+    },
+    {
+      "h2": "Regras que valem em qualquer percurso",
+      "body": [
+        "O capacete apertado é obrigatório para quem conduz e para o passageiro, e a lei vietnamita não admite qualquer álcool em quem conduz desde 1 de janeiro de 2025. Se almoçar perto da cidadela, o regresso faz-se sem álcool: o guia sobre o [álcool e a condução no Vietname](/guia-de-aluguer/alcool-zero-ao-volante/) explica a regra.",
+        "Leve a carta de condução e a licença internacional que a acompanha, bem como os documentos pedidos pela loja. O guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/) explica o que preparar."
+      ]
+    },
+    {
+      "h2": "Perguntas a fazer antes de sair da loja",
+      "body": [
+        "Uma mensagem para {{phone}}, ou uma conversa ao levantar a mota, resolve a maior parte das dúvidas deste guia. Confirme:",
+        {
+          "checklist": [
+            "a que horas levanta a mota e como se conta o dia no seu aluguer, por 24 horas ou até ao fecho da loja;",
+            "se há estradas ou zonas a evitar no caminho para Cổ Loa;",
+            "o que fazer se a mota avariar ou furar um pneu longe da loja, e a quem ligar;",
+            "o nível de combustível à saída, que deve verificar antes de arrancar."
+          ]
+        },
+        "Para o resto do acordo, a lista de [perguntas a fazer antes de alugar](/guia-de-aluguer/perguntas-antes-de-alugar/) ajuda a não esquecer nada, e os preços de referência da loja estão na [tabela de preços](/precos/), verificada em {{pricing.verifiedAt}}.",
+        "Se prefere não conduzir até lá, o guia sobre [quando é melhor não conduzir em Hanói](/rotas-e-mobilidade/quando-nao-conduzir/) lista as alternativas, e o itinerário [Hanói de mota num dia](/rotas-e-mobilidade/hanoi-de-mota-num-dia/) propõe um dia dentro do centro, a partir da loja. Outros guias por bairro e por saída estão reunidos em [Zonas de Hanói](/zonas-de-hanoi/)."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "A cidadela de Cổ Loa abre todos os dias?",
+      "a": "A maioria dos guias consultados indica que sim, das 08:00 às 17:00. Não encontrámos informação sobre feriados, o Tết ou a hora da última entrada, e nenhum guia é um aviso oficial: confirme o horário afixado à chegada."
+    },
+    {
+      "q": "Quanto custa o bilhete da cidadela de Cổ Loa?",
+      "a": "Para um adulto, os guias consultados dão valores entre 10 mil e 30 mil VND, e as isenções também diferem de guia para guia. Pergunte o preço na bilheteira antes de pagar."
+    },
+    {
+      "q": "Preciso de pedir autorização à loja para ir a Cổ Loa?",
+      "a": "Cổ Loa fica em Hanói, por isso não é uma saída da cidade como as que o guia sobre autorização para sair de Hanói trata. Mesmo assim, o aluguer combina-se com a loja: diga-lhe para onde vai e pergunte se há estradas a evitar."
+    },
+    {
+      "q": "Como vou de mota da loja à cidadela?",
+      "a": "Não encontrámos um percurso confirmado a partir de Long Biên. Marque «thành Cổ Loa» numa aplicação de mapas, evite as autoestradas, respeite os sinais de proibição a motas e pergunte à loja se há estradas a evitar."
+    },
+    {
+      "q": "Onde estaciono a mota junto à cidadela?",
+      "a": "Não encontrámos informação sobre o estacionamento. Procure um parque com funcionário («gửi xe»), pergunte o preço antes de deixar a mota, guarde o talão e não estacione no passeio sem autorização."
+    },
+    {
+      "q": "Quanto tempo dura a visita?",
+      "a": "Não encontrámos essa informação nas fontes consultadas. Como a cidadela fecha às 17:00 segundo os guias, chegue com margem e pergunte na bilheteira quanto tempo deve reservar."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Guia de visita da cidadela de Cổ Loa, atualizado em novembro de 2025 (em vietnamita)",
+      "publisher": "Vinpearl",
+      "url": "https://vinpearl.com/vi/cam-nang-tham-quan-thanh-co-loa",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Artigo de 2026 sobre a cidadela de Cổ Loa, com horário e bilhetes (em vietnamita)",
+      "publisher": "Hoàng Hà Mobile",
+      "url": "https://hoanghamobile.com/tin-tuc/thanh-co-loa/",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Dicas para visitar a cidadela de Cổ Loa (em vietnamita)",
+      "publisher": "VinWonders",
+      "url": "https://vinwonders.com/vi/wonderpedia/news/kinh-nghiem-tham-quan-thanh-co-loa/",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Guia prático para visitar a cidadela de Cổ Loa, um local histórico antigo (em vietnamita)",
+      "publisher": "Mytour",
+      "url": "https://mytour.vn/vi/blog/bai-viet/huong-dan-tham-quan-thanh-co-loa-di-tich-co-doc-dao-va-bi-an.html",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Xe tải cày nát đường đê, chính quyền \"bó tay\"?",
+      "publisher": "Báo Pháp luật Việt Nam",
+      "url": "https://baophapluat.vn/xe-tai-cay-nat-duong-de-chinh-quyen-bo-tay-post159880.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Notícia da VietNamNet sobre camiões de areia que estragam a estrada do dique do rio Vermelho (em vietnamita)",
+      "publisher": "VietNamNet",
+      "url": "https://vietnamnet.vn/xe-tai-cho-cat-bam-nat-duong-de-song-hong-50398.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Quyết định 44/2017/QĐ-UBND về giá dịch vụ trông giữ xe đạp, xe máy, xe ô tô trên địa bàn thành phố Hà Nội",
+      "publisher": "caselaw.vn",
+      "url": "https://caselaw.vn/van-ban-phap-luat/305048-quyet-dinh-44-2017-qd-ubnd-ve-gia-dich-vu-trong-giu-xe-dap-xe-may-xe-o-to-tren-dia-ban-thanh-pho-ha-noi",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "Nghị định 168 đối với xe máy: 10 mức phạt mọi tài xế cần biết",
+      "publisher": "LuatVietnam",
+      "url": "https://luatvietnam.vn/giao-thong/nghi-dinh-168-doi-voi-xe-may-863-100609-article.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "Mức phạt đỗ xe máy, đi xe máy trên vỉa hè năm 2026 là bao nhiêu?",
+      "publisher": "THƯ VIỆN PHÁP LUẬT",
+      "url": "https://thuvienphapluat.vn/phap-luat-nha-dat/muc-phat-do-xe-may-di-xe-may-tren-via-he-nam-2026-la-bao-nhieu-14552.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    "dtinews-autoestrada-2026",
+    "lawnet-capacete-168",
+    "tuoitre-alcool-zero"
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "READY_FOR_QA",
+  "revision": {
+    "reason": "Ligações internas para artigos publicados depois"
+  }
+}

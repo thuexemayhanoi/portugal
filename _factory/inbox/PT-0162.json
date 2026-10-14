@@ -1,0 +1,276 @@
+{
+  "contract_version": 1,
+  "id": "PT-0162",
+  "slug": "distancia-e-posicao-na-faixa",
+  "title": "Distância de segurança de mota em Hanói: espaço e faixa",
+  "description": "Quantos segundos e metros deixar para a mota da frente, como se posicionar junto de autocarros e camiões e o que é lei vietnamita ou boa prática estrangeira.",
+  "h1": "Entre milhares de motas: quanto espaço deixar e onde se pôr na faixa",
+  "summary": "Como referência, deixe pelo menos dois segundos para o veículo da frente e o dobro com piso molhado, segundo o Highway Code britânico: é boa prática estrangeira e não uma regra vietnamita. A 40 km/h, dois segundos são cerca de 22 metros; entre motas que fecham qualquer intervalo, abrande, olhe mais longe e não fique ao lado de autocarros e camiões.",
+  "key_points": [
+    "Dois segundos para o veículo da frente é a referência da regra 126 do Highway Code britânico, e o dobro com piso molhado: boa prática estrangeira, não lei vietnamita.",
+    "A 30, 40 e 60 km/h, dois segundos equivalem a cerca de 17, 22 e 33 metros. É uma conta deste guia, não um valor legal.",
+    "O Vietname tem uma circular de 2024 sobre velocidade e distância de segurança dos veículos; não conseguimos confirmar o que ela exige às motas, em metros, nem a coima.",
+    "Quando outra mota ocupa o espaço que deixou, não se aproxime: abrande e olhe para lá da mota da frente.",
+    "Junto de autocarros e camiões, fique mais atrás e fora do lado do veículo, onde o condutor pode não o ver.",
+    "Antes de ultrapassar, veja o espelho e olhe para trás; a lei só admite a buzina para avisar de um perigo ou antes de uma ultrapassagem."
+  ],
+  "intro": [
+    "Em Hanói, o espaço entre veículos é um bem escasso: as motas circulam muito próximas umas das outras e tendem a ocupar os intervalos que aparecem. Mas esse intervalo é a única margem que tem para reagir quando a mota da frente trava ou desvia sem aviso. Este guia explica quanto espaço deixar, como medi-lo sem contas de cabeça e onde se posicionar na faixa, sobretudo perto de autocarros e camiões.",
+    "Uma nota sobre as fontes. As recomendações de distância e de posição vêm de manuais estrangeiros: o Highway Code do Reino Unido, escrito para circulação pela esquerda (usamos só o que não depende do lado da estrada), e material de um curso da Motorcycle Safety Foundation, dos Estados Unidos. São boas práticas, não lei vietnamita. A parte vietnamita, mais curta, vem de fontes jurídicas e da imprensa do país. Foi verificado a 13 de outubro de 2026."
+  ],
+  "sections": [
+    {
+      "h2": "O que o Vietname regula e o que é boa prática estrangeira",
+      "body": [
+        "O Vietname tem uma regra própria sobre o tema: a Circular 38/2024/TT-BGTVT, de 15 de novembro de 2024, regula a velocidade e as distâncias de segurança dos veículos motorizados e está em vigor desde 1 de janeiro de 2025. É a mesma circular que fixa os limites de velocidade das motas.",
+        "Segundo a imprensa vietnamita, esses limites são de 40 km/h para os «xe gắn máy», a categoria vietnamita onde entram as motas de 50 cc, e, em zona povoada, de 50 ou 60 km/h para os motociclos («xe mô tô»), conforme o tipo de via. Siga sempre os limites sinalizados no local.",
+        "O que as fontes consultadas não nos deixaram confirmar é a distância, em metros, que a circular exige às motas, nem a coima por andar demasiado perto do veículo da frente. Por isso, este guia não apresenta nenhum número como mínimo legal: tudo o que se segue é referência de segurança."
+      ]
+    },
+    {
+      "h2": "Dois segundos: o intervalo que os manuais pedem",
+      "body": [
+        "A regra 126 do Highway Code manda nunca ficar mais perto do veículo da frente do que a distância total de paragem. Como referência, pede pelo menos dois segundos de intervalo em vias com trânsito mais rápido e em túneis com pouca visibilidade, e pelo menos o dobro com o piso molhado. A regra não fixa um número para o trânsito lento de uma cidade: usar os dois segundos em Hanói é uma escolha deste guia.",
+        "Para medir o intervalo sem calcular metros, escolha um ponto fixo à beira da via, como um poste ou um sinal. Quando o veículo da frente passar por ele, conte devagar até dois: se chegar ao ponto antes do fim da contagem, está demasiado perto. É o método divulgado por fontes brasileiras, que apontam três a quatro segundos com chuva.",
+        "O que isso representa em metros depende da velocidade. A tabela mostra a distância percorrida em dois segundos e, para o piso molhado, em quatro.",
+        {
+          "table": {
+            "caption": "Distância percorrida em dois e em quatro segundos (conta deste guia: km/h ÷ 3,6 × segundos, valores arredondados)",
+            "head": [
+              "Velocidade",
+              "Dois segundos (piso seco)",
+              "Quatro segundos (piso molhado)"
+            ],
+            "rows": [
+              [
+                "20 km/h",
+                "cerca de 11 m",
+                "cerca de 22 m"
+              ],
+              [
+                "30 km/h",
+                "cerca de 17 m",
+                "cerca de 33 m"
+              ],
+              [
+                "40 km/h",
+                "cerca de 22 m",
+                "cerca de 44 m"
+              ],
+              [
+                "50 km/h",
+                "cerca de 28 m",
+                "cerca de 56 m"
+              ],
+              [
+                "60 km/h",
+                "cerca de 33 m",
+                "cerca de 67 m"
+              ]
+            ]
+          }
+        },
+        "Repare em como a margem cresce depressa: a 60 km/h, o espaço de dois segundos é o triplo do de 20 km/h. Com chuva, a regra 227 do mesmo código acrescenta que as distâncias de paragem são pelo menos o dobro das de piso seco, porque os pneus têm menos aderência."
+      ]
+    },
+    {
+      "h2": "Entre milhares de motas: como ganhar espaço quando ninguém o deixa",
+      "body": [
+        "Na prática, o espaço que deixa à frente é muitas vezes ocupado por outra mota antes de o conseguir contar. Isso não torna a regra inútil, mas muda a forma de a aplicar.",
+        {
+          "h3": "Abrande em vez de se aproximar"
+        },
+        "Fechar o intervalo para que ninguém se meta à frente reduz a sua margem de reação. O contrário é mais seguro: com menos velocidade, a distância de paragem encurta (na tabela, dois segundos são 11 metros a 20 km/h e 22 metros a 40 km/h) e o mesmo espaço passa a valer mais segundos. Se alguém se meter à sua frente, volte a abrandar até recuperar o intervalo.",
+        {
+          "h3": "Olhe para lá da mota da frente"
+        },
+        "Um guia de estudo do curso básico da Motorcycle Safety Foundation, publicado por terceiros, fala em três horizontes: dois segundos para o veículo da frente, quatro para o caminho imediato e doze para o caminho previsto. Não o confirmámos no material oficial, e doze segundos, cerca de 100 metros a 30 km/h, são irrealistas numa rua apertada. A ideia serve na mesma: olhar para lá da mota da frente, para os cruzamentos, os peões e as luzes de travão mais adiante, para travar mais cedo e com suavidade.",
+        {
+          "h3": "A distância é a proteção que pode escolher"
+        },
+        "O manual da Organização Mundial da Saúde sobre veículos de duas e três rodas a motor aponta o trânsito misto e a falta de proteção do veículo num acidente entre os principais fatores de risco. Uma mota não tem carroçaria; a margem que deixa à frente é a proteção que depende de si."
+      ]
+    },
+    {
+      "h2": "Posição na faixa: ser visto e não ficar onde ninguém o vê",
+      "body": [
+        "A regra 86 do Highway Code lembra que os outros condutores podem não o ter visto ou ter calculado mal a sua distância e a sua velocidade, sobretudo nos cruzamentos. A regra 88 pede aos motociclistas que se posicionem de forma a serem vistos nos espelhos dos outros e, ao circular entre filas de trânsito lento, que tenham cuidado e mantenham a velocidade baixa.",
+        {
+          "h3": "Autocarros e camiões"
+        },
+        "A regra 164, sobre veículos grandes, diz que ficar mais atrás aumenta o que vê da estrada à frente e deve permitir ao condutor do veículo grande vê-lo nos espelhos. Demasiado perto, deixa de ver a estrada e arrisca-se a ficar fora do campo de visão dele. Pelo mesmo motivo, o [guia da buzina](/guia-de-aluguer/a-buzina-no-vietname/) aconselha a não ficar ao lado de um autocarro ou de um camião quando ele se aproxima ou manobra.",
+        {
+          "h3": "Faixas por tipo de veículo"
+        },
+        "Em algumas pontes e avenidas de Hanói, a faixa depende do tipo de veículo. A [ponte Long Biên](/zonas-de-hanoi/ponte-long-bien/) é um exemplo, com faixas laterais para motas e bicicletas, como explica o guia dedicado. Segundo o Báo Văn hóa, entrar com a mota na faixa dos automóveis dá coima de 600 mil a 800 mil VND, regra geral em vigor desde 2025. É um valor de nível nacional: desde 1 de julho de 2026, a cidade multiplica por 1,5 ou por 2 as coimas de 28 infrações, e não confirmámos se esta está incluída.",
+        "Nas ruas apertadas do centro, o espaço é ainda mais curto. O guia sobre [conduzir no Bairro Antigo](/zonas-de-hanoi/conduzir-no-bairro-antigo/) explica como abrandar nessas ruas."
+      ]
+    },
+    {
+      "h2": "Ultrapassar: espelho, olhar para trás e um toque curto",
+      "body": [
+        "Antes de ultrapassar ou de mudar de posição, a regra 88 manda saber o que está atrás e dos lados: olhe para trás e use os espelhos, se os tiver. Numa mota, isto inclui confirmar que ninguém o está a ultrapassar a si no mesmo momento.",
+        "Quanto ao aviso sonoro, a Lei n.º 36/2024/QH15 só admite a buzina para alertar de um perigo ou antes de uma ultrapassagem, segundo a análise da base de dados jurídica LawNet. Entre as 22:00 e as 05:00, é proibida em zonas densamente povoadas e junto a unidades de saúde, salvo veículos prioritários em serviço. Se precisar de ultrapassar de noite e não tiver espaço claro, espere: o guia da buzina explica o resto.",
+        "As fontes consultadas não nos deram as regras vietnamitas de ultrapassagem, como o lado por onde se passa ou em que vias é permitido. Na dúvida, não imite o que vê: ultrapasse só quando o espaço à frente e atrás estiver claro."
+      ]
+    },
+    {
+      "h2": "O que não conseguimos confirmar",
+      "body": [
+        "Para não passar por regra o que é só referência, estes são os pontos em aberto, à data de 13 de outubro de 2026:",
+        {
+          "ul": [
+            "a distância mínima, em metros, que a Circular 38/2024/TT-BGTVT exige às motas;",
+            "a coima por andar demasiado perto do veículo da frente;",
+            "as regras de ultrapassagem e de escolha da faixa em vias com várias faixas;",
+            "os limites de velocidade sinalizados em Hanói e os sinais de início e fim de zona povoada;",
+            "o conteúdo dos três horizontes do curso da Motorcycle Safety Foundation no material oficial."
+          ]
+        },
+        "Se alguma destas regras for decisiva para o seu percurso, confirme-a com a loja, pelos [contactos](/contactos/), ou na sinalização local. E se nunca conduziu uma mota, o trânsito de Hanói não é o sítio para aprender: veja o guia para quem [nunca conduziu uma mota](/tipos-de-motas/nunca-conduziu-uma-mota/)."
+      ]
+    },
+    {
+      "h2": "Lista rápida para cada saída",
+      "body": [
+        {
+          "checklist": [
+            "Escolher um ponto fixo e contar dois segundos de vez em quando, para treinar o olho.",
+            "Abrandar, em vez de se aproximar, quando outra mota fecha o espaço à sua frente.",
+            "Olhar para lá da mota da frente: cruzamentos, peões, luzes de travão.",
+            "Ficar mais atrás de autocarros e camiões e fora do lado deles.",
+            "Ver o espelho e olhar para trás antes de mudar de posição ou de ultrapassar.",
+            "Duplicar o intervalo com chuva e ficar na faixa própria das motas, onde ela existir."
+          ]
+        },
+        "Na [entrega da mota](/guia-de-aluguer/receber-a-mota/), teste travões e espelhos; se durante o percurso o travão ficar mole, o guia dos [sinais de avaria na mota em andamento](/guia-de-aluguer/sinais-de-avaria-em-andamento/) diz quando parar. Mais regras de base estão no [guia de aluguer](/guia-de-aluguer/) e, nos erros que mais custam multas, em [como evitar multas em Hanói](/guia-de-aluguer/como-evitar-multas/)."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Quantos metros devo deixar para a mota da frente em Hanói?",
+      "a": "Não conseguimos confirmar um valor legal em metros para as motas. Como referência de boa prática, deixe dois segundos: a 30 km/h são cerca de 17 metros e a 40 km/h cerca de 22. Com o piso molhado, o dobro."
+    },
+    {
+      "q": "Andar demasiado perto da mota da frente dá multa no Vietname?",
+      "a": "Nas fontes consultadas não encontrámos a coima. Sabemos que uma circular de 2024 regula as distâncias de segurança dos veículos, mas não confirmámos o que exige às motas nem a sanção. Trate a distância como segurança, não como mínimo para evitar multa."
+    },
+    {
+      "q": "Posso avisar com a buzina antes de ultrapassar?",
+      "a": "Sim, segundo a Lei n.º 36/2024/QH15, que admite a buzina para alertar de um perigo ou antes de uma ultrapassagem. Entre as 22:00 e as 05:00 é proibida em zonas densamente povoadas e junto a unidades de saúde. Use um toque curto, depois de ver o espelho."
+    },
+    {
+      "q": "Os manuais britânicos e americanos servem para o Vietname?",
+      "a": "Servem como boa prática no que não depende do lado da estrada: o intervalo para o veículo da frente, ser visto nos espelhos e ficar atrás de veículos grandes. Não são lei vietnamita; nas ultrapassagens e nas faixas, mande a sinalização local."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Rules for motorcyclists (83 to 88)",
+      "publisher": "nidirect (Governo da Irlanda do Norte)",
+      "url": "https://nidirect.gov.uk/articles/rules-motorcyclists-83-88",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "title": "Regra 126 do Highway Code britânico: distâncias de paragem (reprodução em inglês)",
+      "publisher": "theorytest.org.uk (reprodução do texto oficial)",
+      "url": "https://theorytest.org.uk/hwc/highway-code/rule-126.html",
+      "accessed": "2026-10-13",
+      "type": "reference",
+      "lang": "en"
+    },
+    {
+      "title": "Driving in adverse weather conditions (226 to 237)",
+      "publisher": "nidirect (Governo da Irlanda do Norte)",
+      "url": "https://nidirect.gov.uk/node/5167",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "title": "Using the road (159 to 203)",
+      "publisher": "GOV.UK — The Highway Code",
+      "url": "https://www.gov.uk/using-the-road-159-to-203",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "title": "Artigo sobre a distância em segundos para o veículo da frente (em português do Brasil)",
+      "publisher": "TNH1 (Brasil)",
+      "url": "https://www.tnh1.com.br/tnh1-variedades/a-quantos-segundos-voce-deve-estar-de-distancia-de-um-carro-se-estiver-dirigindo-na-estrada/",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "pt-BR"
+    },
+    {
+      "title": "Ficha da Circular n.º 38/2024/TT-BGTVT, de 15/11/2024, sobre a velocidade e a distância de segurança dos veículos motorizados em circulação (em vietnamita)",
+      "publisher": "Caselaw Việt Nam",
+      "url": "https://caselaw.vn/van-ban-phap-luat/412364-thong-tu-so-38-2024-tt-bgtvt-ngay-15-11-2024-cua-bo-truong-bo-giao-thong-van-tai-ve-toc-do-va-khoang-cach-an-toan-cua-xe-co-gioi-xe-may-chuyen-dung-tham-gia-giao-thong-tren-duong-bo",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "Tốc độ tối đa của các loại xe từ năm 2025",
+      "publisher": "Báo Quốc tế",
+      "url": "https://baoquocte.vn/toc-do-toi-da-cua-cac-loai-xe-tu-nam-2025-296022.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Powered two-and three-wheeler safety: a road safety manual for decision-makers and practitioners, 2nd ed",
+      "publisher": "World Health Organization",
+      "url": "https://www.who.int/publications/i/item/9789240060562",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "title": "Powered two-and three-wheeler safety: a road safety manual for decision-makers and practitioners",
+      "publisher": "GOV.UK (Research for Development Outputs)",
+      "url": "https://www.gov.uk/research-for-development-outputs/powered-two-and-three-wheeler-safety-a-road-safety-manual-for-decision-makers-and-practitioners",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "title": "Guia de estudo do curso básico da Motorcycle Safety Foundation, publicado por terceiros (em inglês)",
+      "publisher": "Docsity (documento de estudo de terceiros)",
+      "url": "https://www.docsity.com/en/docs/msf-basic-rider-course/10831717/",
+      "accessed": "2026-10-13",
+      "type": "reference",
+      "lang": "en"
+    },
+    {
+      "title": "Xe máy đi vào làn ô tô phạt bao nhiêu theo luật mới nhất?",
+      "publisher": "Báo Văn hóa",
+      "url": "https://baovanhoa.vn/xe/xe-may-di-vao-lan-o-to-phat-bao-nhieu-theo-luat-moi-nhat-186848.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "What time is it prohibited to use honk in Vietnam from January 1, 2025?",
+      "publisher": "LawNet",
+      "url": "https://lawnet.vn/chinh-sach-thue/en/what-time-is-it-prohibited-to-use-honk-in-vietnam-from-january-1-2025-20284.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "en"
+    },
+    "hanoi-resolucao-56-2026"
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "READY_FOR_QA",
+  "revision": {
+    "reason": "Ligações internas para artigos publicados depois"
+  }
+}

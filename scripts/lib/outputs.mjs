@@ -26,6 +26,8 @@ export function llmsTxt(pages, ctx) {
   const { business: b, site, pricing } = ctx.data;
   const line = (p) => `- [${p.h1}](${site.baseUrl}${p.url}): ${p.description}`;
   const base = pages.filter((p) => p.kind === 'page' && p.indexable && p.url !== '/');
+  // Category hubs and archives are entry points for each topic cluster (GEO/AEO): list them too.
+  const categories = pages.filter((p) => (p.kind === 'hub' || p.kind === 'archive') && p.indexable);
   const articles = pages.filter((p) => p.kind === 'article');
   return [
     `# ${site.name}`,
@@ -48,6 +50,7 @@ export function llmsTxt(pages, ctx) {
     '',
     '## Páginas principais',
     ...base.map(line),
+    ...(categories.length ? ['', '## Categorias', ...categories.map(line)] : []),
     ...(articles.length ? ['', '## Artigos', ...articles.map(line)] : []),
     ''
   ].join('\n');

@@ -1,0 +1,239 @@
+{
+  "contract_version": 1,
+  "id": "PT-0256",
+  "slug": "terminais-de-autocarros",
+  "title": "Terminais de autocarros de Hanói: Mỹ Đình, Giáp Bát e Gia Lâm",
+  "description": "O que faz cada terminal de autocarros de Hanói (Mỹ Đình, Giáp Bát e Gia Lâm), o que se sabe do estacionamento e quando faz sentido lá ir de mota.",
+  "h1": "Terminais de autocarros de Hanói de mota: para que serve cada um e onde deixar a mota",
+  "summary": "Este guia trata de três terminais de autocarros de Hanói que continuam em funcionamento em 2026: Mỹ Đình, Giáp Bát e Gia Lâm, este último do mesmo lado do rio que a loja. Há outros, como Nước Ngầm e Yên Nghĩa. Não encontrámos preços nem regras atuais de estacionamento de motas em nenhum deles; só vale a pena ir de mota para largar ou recolher alguém, não para deixá-la dias.",
+  "key_points": [
+    "Em janeiro de 2026, a imprensa noticiou mais de 150 viagens de reforço nos terminais de Giáp Bát, Mỹ Đình e Gia Lâm: os três continuam a funcionar.",
+    "Mỹ Đình é o terminal da linha 109 para o aeroporto e, segundo guias comerciais, uma das partidas dos autocarros para Ha Long; Gia Lâm serve as linhas 03 e 22A; a 03 começa em Giáp Bát.",
+    "Um plano de 2022 prevê substituir os terminais por outros junto às circulares 3 e 4, mas não encontrámos notícia de 2025 ou 2026 que confirme a mudança.",
+    "Os únicos dados de estacionamento são de 2017, em Mỹ Đình: não são preço atual. Peça sempre a senha com o preço impresso.",
+    "Se vai viajar de autocarro de longa distância, trate da mota com a loja antes de partir: a loja abre {{hours}}."
+  ],
+  "intro": [
+    "Os terminais de autocarros interurbanos são o lado de Hanói em que se chega e se parte, e não aquele em que se passeia. Quem aluga uma mota pode ter de lá ir para largar um amigo, recolher alguém ou apanhar um autocarro para uma viagem sem mota, e a pergunta é onde parar, quanto custa e se compensa.",
+    "Este guia apresenta os três terminais que as fontes consultadas a 14 de outubro de 2026 mostram em funcionamento, o que se sabe do estacionamento e o que a cidade planeia para o futuro. Termina com perguntas para a loja. Bilhetes e linhas urbanas não se repetem aqui: estão no guia dos [autocarros de Hanói](/rotas-e-mobilidade/autocarros-de-hanoi/)."
+  ],
+  "sections": [
+    {
+      "h2": "Três terminais, três funções",
+      "body": [
+        "Nas fontes consultadas, cada terminal aparece ligado a linhas e destinos diferentes. A tabela resume o que se confirma; as listas de linhas de 2018 podem ter mudado, por isso trate-as como ponto de partida.",
+        {
+          "table": {
+            "caption": "Os três terminais de autocarros de Hanói e o que as fontes dizem de cada um",
+            "head": [
+              "Terminal",
+              "O que se sabe",
+              "Ainda sem confirmação"
+            ],
+            "rows": [
+              [
+                "Mỹ Đình",
+                "Terminal da linha 109 para o aeroporto de Nội Bài; guias comerciais indicam partidas de autocarros para Ha Long de Mỹ Đình, de Yên Nghĩa ou dos escritórios das empresas",
+                "Morada com número, entradas e horários"
+              ],
+              [
+                "Giáp Bát",
+                "Início da linha urbana 03, que segue pela rua Giải Phóng (lista de 2018)",
+                "Morada com número, entradas e horários"
+              ],
+              [
+                "Gia Lâm",
+                "Terminal das linhas 03 e 22A; chega-se pela Nguyễn Văn Cừ, Nguyễn Sơn, Ngọc Lâm e Ngô Gia Khảm (lista de 2018); fica do mesmo lado do rio que a loja",
+                "Morada com número, entradas e horários"
+              ]
+            ]
+          }
+        },
+        "A linha 03, segundo a lista de 2018, une dois dos três terminais: sai de Giáp Bát, passa pelas ruas Giải Phóng, Lê Duẩn e Trần Hưng Đạo, atravessa a ponte Chương Dương e segue pela Nguyễn Văn Cừ até Gia Lâm. A 22A, entre o terminal de Gia Lâm e Kim Mã, passava pela mesma rua, a cada 7 a 15 minutos. Confirme sempre o número e a direção da linha com o motorista.",
+        "Não encontrámos as moradas oficiais com número nem os horários dos terminais, por isso não os indicamos. No mapa do telemóvel, procure «Bến xe Mỹ Đình», «Bến xe Giáp Bát» e «Bến xe Gia Lâm» («bến xe» é o terminal de autocarros) e mostre o nome ao taxista ou ao condutor da aplicação."
+      ]
+    },
+    {
+      "h2": "Gia Lâm: o terminal do lado da loja",
+      "body": [
+        "Gia Lâm fica do mesmo lado do rio Vermelho que a loja, em {{area}}. As linhas 03 e 22A passavam, em 2018, pela rua Nguyễn Văn Cừ, onde a loja fica ({{street}}), a caminho do terminal. É uma pista útil, não uma promessa: as linhas mudam, e não medimos a distância nem o tempo entre a loja e o terminal.",
+        "Na prática, se vai apanhar um autocarro de longa distância em Gia Lâm, a opção mais simples é tratar da mota na loja e seguir de táxi, de aplicação ou de autocarro. O guia sobre [Long Biên e Gia Lâm](/zonas-de-hanoi/long-bien-e-gia-lam/) descreve esta zona da cidade, e o do [aluguer de motas em Long Biên](/zonas-de-hanoi/aluguer-de-motas-em-long-bien/) explica como ir à loja e voltar.",
+        "Quanto aos autocarros urbanos que servem os terminais: entre 1 de julho de 2026 e 30 de junho de 2027, os autocarros subsidiados são gratuitos dentro do Anel Viário 1, segundo o portal do Governo. Não confirmámos se as linhas que partem dos terminais ficam dentro do anel nem se um visitante tem de mostrar um cartão, por isso pergunte ao entrar."
+      ]
+    },
+    {
+      "h2": "O que a cidade planeia para os terminais",
+      "body": [
+        "Num plano de 2022 (Decisão 1218/QĐ-UBND do Comité Popular de Hanói, segundo a imprensa), os terminais de Gia Lâm, Mỹ Đình, Giáp Bát e Nước Ngầm mantêm-se provisoriamente, só com melhorias na escala atual. No futuro seriam substituídos por terminais junto às circulares 3 e 4, em Đông Anh, Cổ Bi, Nội Bài, Phùng e no sul da cidade, e o terreno passaria a parques públicos ou a pontos de transbordo de autocarros urbanos. Uma fonte propõe que Mỹ Đình se torne um parque e um ponto terminal de autocarros urbanos depois de 2025.",
+        "Nenhuma notícia de 2025 ou 2026 que encontrámos confirma o encerramento ou a mudança de qualquer dos três. Em janeiro de 2026, por exemplo, o Znews noticiou mais de 150 viagens de reforço nos terminais de Giáp Bát, Mỹ Đình e Gia Lâm no feriado de Ano Novo. Alguns agregadores mostram datas de visita, como 12 de julho ou 23 de agosto de 2026, que são a da consulta e não a da notícia.",
+        {
+          "note": "Se vai viajar, o terminal de partida está no bilhete. Uma empresa pode partir de Mỹ Đình, de Yên Nghĩa ou de um escritório próprio; peça o ponto escrito em vietnamita e confirme-o na véspera, porque um plano de mudança pode alterar o sítio.",
+          "tone": "info",
+          "title": "Confirme o ponto de partida"
+        }
+      ]
+    },
+    {
+      "h2": "Estacionamento: dados antigos e como se proteger",
+      "body": [
+        "Não encontrámos tarifa nem regras atuais de estacionamento de motas em nenhum dos três terminais. O único dado é antigo e de Mỹ Đình: segundo a VTC News, de 7 de março de 2017, havia parques informais a cerca de 50 m do terminal, ao longo da rua Phạm Hùng, que cobravam 5 mil VND por mota de dia e 20 mil VND por noite. Muitos fecharam depois da fiscalização desse ano.",
+        "É um retrato de 2017, não um preço de hoje, mas sugere dois riscos que ainda convém ter em conta: parques informais fora do terminal e preços que mudam de dia para noite. Nos terminais de Giáp Bát e Gia Lâm não encontrámos dados.",
+        {
+          "checklist": [
+            "Pergunte «bao nhiêu?» (quanto?) antes de largar a mota e peça a senha com o preço impresso.",
+            "Fotografe a mota, a senha e a placa do parque, e guarde a senha até à saída.",
+            "Pergunte a que horas o parque fecha antes de o escolher para uma noite.",
+            "Escolha um parque com funcionário e preço à vista, e não um espaço improvisado.",
+            "Nunca deixe a mota no passeio: só se estaciona onde um sinal ou uma marcação o permitem."
+          ]
+        },
+        "Os guias sobre [onde estacionar em Hanói](/guia-de-aluguer/onde-estacionar-em-hanoi/) e [estacionar no Bairro Antigo](/zonas-de-hanoi/estacionar-no-bairro-antigo/) explicam as senhas, os tetos de preço e os cuidados com a mota no parque."
+      ]
+    },
+    {
+      "h2": "Quando faz sentido ir de mota a um terminal",
+      "body": [
+        "A resposta depende do que vai fazer lá. Largar ou recolher alguém é um gesto de poucos minutos e pode justificar a mota. Deixá-la durante uma viagem de vários dias é outra coisa: não confirmámos parques de longa duração nos terminais, nem se a loja o aceita. Se a ideia for viajar de comboio com a própria mota, o guia sobre [levar a mota no comboio](/zonas-de-hanoi/levar-a-mota-no-comboio/) explica como funciona o despacho.",
+        {
+          "table": {
+            "caption": "Situações habituais e alternativas ao uso da mota nos terminais",
+            "head": [
+              "Situação",
+              "Ir de mota?",
+              "Alternativa"
+            ],
+            "rows": [
+              [
+                "Largar ou recolher alguém",
+                "Possível, com paragem curta e sem usar o passeio",
+                "Táxi ou aplicação, sobretudo com malas"
+              ],
+              [
+                "Apanhar um autocarro para uma viagem sem mota",
+                "Só se a mota for tratada antes com a loja",
+                "Devolver a mota e seguir de táxi ou de aplicação"
+              ],
+              [
+                "Ir a Ha Long de autocarro",
+                "A mota não é alternativa para esse percurso",
+                "O guia sobre [Ha Long sem conduzir](/rotas-e-mobilidade/ha-long-sem-conduzir/) compara autocarro e limusina"
+              ],
+              [
+                "Noites e madrugadas",
+                "Menos recomendável: cansaço e pouca luz",
+                "O guia sobre [voltar à noite sem conduzir](/rotas-e-mobilidade/voltar-a-noite-sem-conduzir/)"
+              ]
+            ]
+          }
+        },
+        "O guia sobre o [táxi em Hanói](/rotas-e-mobilidade/taxis-em-hanoi/) mostra como pedir o preço antes de entrar e como mostrar a morada. Para comparar o custo com o da mota, veja [mota alugada ou táxi](/precos/mota-alugada-ou-taxi/)."
+      ]
+    },
+    {
+      "h2": "O que perguntar à loja antes de ir",
+      "body": [
+        "Este site não publica regras sobre deixar a mota alugada fora da loja durante uma viagem. A resposta tem de vir da loja, por escrito. Pelo {{phone}} ou pelos [contactos](/contactos/), pergunte:",
+        {
+          "checklist": [
+            "Até que hora a loja recebe a mota, para devolvê-la antes de uma partida ao fim do dia.",
+            "Se a mota pode ficar num parque junto ao terminal, e por quantos dias.",
+            "Se o aluguer continua a contar enquanto a mota está parada, e como fica o acordo.",
+            "Quem responde por um furto ou um dano no parque.",
+            "Se prefere que a mota fique na loja ou no alojamento durante a viagem."
+          ]
+        },
+        "O guia sobre [horas de levantamento e devolução](/precos/horas-de-levantamento-e-devolucao/) e o de [devolver a mota](/guia-de-aluguer/devolver-a-mota/) mostram o que combinar para uma devolução fora do expediente. Para os documentos que a loja pede, veja [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/).",
+        "Mais pontos de interesse e zonas da cidade estão reunidos em [Zonas de Hanói](/zonas-de-hanoi/). Para uma visita curta de mota, veja o guia do [Templo da Literatura](/zonas-de-hanoi/templo-da-literatura/), com acesso, estacionamento e horário."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Qual é o terminal de autocarros mais próximo da loja?",
+      "a": "Pelas fontes, é o de Gia Lâm: fica do mesmo lado do rio Vermelho que a loja, e as linhas 03 e 22A passavam, em 2018, pela rua Nguyễn Văn Cừ a caminho dele. Não medimos a distância e as linhas podem ter mudado, por isso confirme o percurso no mapa e com o motorista."
+    },
+    {
+      "q": "Os terminais de Mỹ Đình, Giáp Bát e Gia Lâm vão fechar?",
+      "a": "Um plano de 2022 prevê substituí-los por terminais junto às circulares 3 e 4, mas mantém-nos provisoriamente. Não encontrámos notícia de 2025 ou 2026 que confirme o encerramento: em janeiro de 2026 receberam viagens de reforço. Confirme o ponto de partida no bilhete."
+    },
+    {
+      "q": "Há estacionamento para motas no terminal de Mỹ Đình?",
+      "a": "Não temos dados atuais. Em 2017, a VTC News descrevia parques informais ao longo da rua Phạm Hùng, a cerca de 50 m do terminal, e muitos fecharam depois da fiscalização. Peça sempre a senha com o preço impresso e fotografe a mota."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Notícia sobre o reforço de mais de 150 viagens nos terminais de Hanói no feriado de Ano Novo de 2026 (em vietnamita)",
+      "publisher": "Znews",
+      "url": "https://znews.vn/tang-cuong-hon-150-luot-xe-phuc-vu-cao-diem-tet-duong-lich-post1607643.html",
+      "accessed": "2026-10-14",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Notícia sobre a deslocalização dos terminais de autocarros interurbanos para a zona da circular 3 de Hanói (em vietnamita)",
+      "publisher": "Báo Nông nghiệp và Môi trường (nongnghiepmoitruong.vn)",
+      "url": "https://nongnghiepmoitruong.vn/ha-noi-se-di-doi-cac-ben-xe-khach-trong-khu-vuc-duong-vanh-dai-3-d811548.html",
+      "accessed": "2026-10-14",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Notícia da VTC News sobre parques de estacionamento de Hanói encerrados após fiscalização, com o caso de Mỹ Đình (em vietnamita)",
+      "publisher": "VTC News",
+      "url": "https://vtcnews.vn/bi-chu-tich-ha-noi-diem-mat-nhieu-bai-giu-xe-dong-loat-dong-cua-ar307918.html",
+      "accessed": "2026-10-14",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Danh sách, lộ trình xe buýt Hà Nội 2018",
+      "publisher": "VietnamFinance",
+      "url": "https://vietnamfinance.vn/danh-sach-lo-trinh-xe-buyt-ha-noi-2018-d12527.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Resumo dos autocarros para o aeroporto de Nội Bài, com a linha 17 e a 68 (em vietnamita)",
+      "publisher": "VinWonders",
+      "url": "https://vinwonders.com/vi/bai-viet-du-lich/tong-hop-day-du-xe-bus-san-bay-noi-bai/",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Hà Nội có thêm tuyến xe buýt chất lượng cao Hà Đông - sân bay Nội Bài",
+      "publisher": "VietnamFinance",
+      "url": "https://vietnamfinance.vn/ha-noi-co-them-tuyen-xe-buyt-chat-luong-cao-ha-dong--san-bay-noi-bai-d34977.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Guia de autocarros de Hanói para Ha Long, com empresas (em vietnamita)",
+      "publisher": "Sun Paradise Land (promotor imobiliário e turístico)",
+      "url": "https://sunparadiseland.com/SunParadiseLandQuangNinh/tin-tuc/di-ha-long-bang-xe-khach-tu-ha-noi-danh-sach-nha-xe-uy-tin-28146",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Ha Noi free bus travel within Ring Road 1 for one year",
+      "publisher": "Cổng Thông tin điện tử Chính phủ (chinhphu.vn)",
+      "url": "https://thanglong.chinhphu.vn/ha-noi-free-bus-travel-within-ring-road-1-for-one-year-110260702104500646.htm",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    }
+  ],
+  "legal_note": false,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "READY_FOR_QA",
+  "revision": {
+    "reason": "Ligações internas para artigos publicados depois"
+  }
+}

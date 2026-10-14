@@ -1,0 +1,277 @@
+{
+  "contract_version": 1,
+  "id": "PT-0025",
+  "slug": "scooter-com-muitos-quilometros",
+  "title": "Scooter alugada com muitos quilómetros: o que verificar",
+  "description": "A quilometragem de uma scooter de aluguer pesa menos do que o estado: que sinais avaliar, o que perguntar à loja e como registar o painel e os danos na entrega.",
+  "h1": "Scooter de aluguer com muitos quilómetros: conta mais o estado",
+  "summary": "Uma scooter alugada com muitos quilómetros não é, só por isso, motivo de recusa: o conta-quilómetros diz quanto a mota andou, mas não como foi tratada. Conta mais o estado (travões, pneus, corrente, luzes, ruídos e fugas) e a manutenção que a loja faz. Veja-os na entrega, fotografe o painel e registe o que encontrou.",
+  "key_points": [
+    "Não encontrámos fonte que ligue uma quilometragem concreta a mais avarias: por isso não há número de quilómetros a partir do qual recusar uma mota.",
+    "Uma fonte de fórum vietnamita sustenta que a manutenção pesa mais do que os quilómetros, mas é uma opinião e não um dado técnico.",
+    "Numa Wave 110, o manual da Honda manda verificar a corrente a cada 500 km, e com mais frequência em estradas más: o desgaste de uma peça segue o uso.",
+    "Na entrega, dê prioridade ao que afeta a segurança: travões, pneus, direção e luzes. O resto pode ser registado e combinado.",
+    "Fotografe o painel com os quilómetros e o combustível e escreva a leitura no acordo: é a referência para o fim do aluguer."
+  ],
+  "intro": [
+    "Ao levantar uma scooter de aluguer, é natural olhar para o painel e reparar num número alto. A dúvida é legítima: uma mota que já andou muito vai dar problemas? A resposta honesta é que o número, sozinho, diz pouco, e que as fontes que encontrámos não o ligam a uma taxa de avarias.",
+    "Este guia ajuda a trocar a pergunta «quantos quilómetros tem?» por outra, mais útil: «em que estado está esta mota e como é mantida?». Mostra o que o conta-quilómetros indica e não indica, que sinais avaliar antes de arrancar, o que perguntar à loja e como registar a quilometragem e o estado à entrega. A lista dos doze pontos de inspeção está no guia da [checklist de inspeção da mota alugada](/guia-de-aluguer/checklist-de-inspecao/); aqui o foco é o desgaste de quem tem a mota há muito tempo em serviço."
+  ],
+  "sections": [
+    {
+      "h2": "O que a quilometragem diz, e o que não diz",
+      "body": [
+        "O conta-quilómetros mede a distância percorrida. Não mede a velocidade a que a mota andou, o estado das estradas, se foi lavada, se as revisões foram feitas a horas nem se alguma peça foi trocada pelo caminho. Dois exemplares com o mesmo número no painel podem estar em estados muito diferentes.",
+        "As fontes vietnamitas que encontrámos vão no mesmo sentido, com a prudência devida:",
+        {
+          "ul": [
+            "Num fórum vietnamita (Tinh tế), a opinião dominante é que a manutenção é o fator mais importante para a duração de uma mota: o manual do fabricante traz o calendário (corrente, óleo, filtro de ar, etc.) e, com óleo de qualidade e revisões, a preocupação com os quilómetros diminui. É a opinião de utilizadores, e não uma regra técnica.",
+            "Noutro tópico do mesmo fórum, o dono de uma Honda Future 125i LED de 2019 com perto de 70.000 km diz que trocou o óleo de 1.500 em 1.500 km e que o motor continua em bom estado, com avarias ocasionais da caixa de velocidades. É um caso isolado, não uma estatística."
+          ]
+        },
+        "Não encontrámos um calendário oficial de revisões da Honda Vietname por quilómetros, nem um limite de quilómetros para aluguer. Por isso, este guia não indica números: ensina a avaliar o estado.",
+        {
+          "h3": "A idade da mota conta tanto como o número"
+        },
+        "Uma mota pode ter poucos quilómetros e muitos anos, ou o contrário. Alguns modelos deixaram de ser uma linha em destaque no mercado vietnamita (um blogue refere-o da Yamaha Mio), o que sugere que as unidades de aluguer desses modelos tenham vários anos. Não é uma certeza, e a loja confirma o ano de cada unidade. Pergunte-o: o ano diz-lhe mais sobre a geração da mota do que os quilómetros, e as fichas atuais dos fabricantes podem não corresponder à unidade que recebe."
+      ]
+    },
+    {
+      "h2": "Onde se nota o uso: o que olhar numa scooter que andou muito",
+      "body": [
+        "Uma mota usada mostra o desgaste nas peças que trabalham todos os dias. Esta tabela junta o que vale a pena verificar com a mota parada ou a passo de caminhada. Só os pneus e a corrente têm base nas fontes consultadas; o resto são verificações de bom senso, e não regras.",
+        {
+          "table": {
+            "caption": "Verificar o desgaste antes de sair: o que olhar e o que pedir",
+            "head": [
+              "Zona",
+              "O que olhar",
+              "Se não estiver bem"
+            ],
+            "rows": [
+              [
+                "Pneus",
+                "Piso, flancos e pressão. A checklist T-CLOCS manda medir a pressão com os pneus frios e ajustá-la à que o fabricante recomenda, tendo em conta a carga.",
+                "Peça para acertar a pressão ou trocar o pneu. Ver [pneus e pressão](/guia-de-aluguer/pneus-e-pressao/)."
+              ],
+              [
+                "Travões",
+                "Manete firme, sem folga excessiva; a mota para a passo de caminhada com cada travão, um de cada vez.",
+                "Não saia com travões fracos ou esponjosos. Ver [como verificar os travões](/guia-de-aluguer/verificar-os-travoes/)."
+              ],
+              [
+                "Corrente (semiautomáticas)",
+                "O manual da Wave 110 manda verificar o estado e a folga da corrente e lubrificá-la quando necessário, com verificação a cada 500 km.",
+                "Pergunte quando foi tratada. Ver [corrente da mota](/tipos-de-motas/corrente-da-mota/)."
+              ],
+              [
+                "Direção e suspensão",
+                "Guiador sem folgas nem pontos duros; a mota não deve ficar a vibrar nem a puxar para um lado.",
+                "Peça outra mota ou uma verificação pela loja."
+              ],
+              [
+                "Motor e escape",
+                "Arranque sem dificuldade, ralenti estável, sem ruídos novos nem fumo anormal.",
+                "Se o arranque falha ou o motor engasga, não insista. Ver [mota que não pega](/tipos-de-motas/semiautomatica-nao-pega/)."
+              ],
+              [
+                "Luzes e painel",
+                "Farol, luz de travão e piscas a funcionar; luzes de aviso apagadas com o motor a trabalhar.",
+                "Fotografe e avise a loja. Ver [luzes de aviso do painel](/tipos-de-motas/luzes-de-aviso-do-painel/)."
+              ],
+              [
+                "Fugas e limpeza",
+                "Manchas de óleo ou líquido sob a mota e nos tubos; cabos e plásticos presos.",
+                "Registe e peça que a loja confirme que não é uma fuga ativa."
+              ]
+            ]
+          }
+        },
+        "Quanto à corrente, o manual da Wave 110 manda verificá-la com mais frequência em estradas em mau estado ou a alta velocidade e, se os dentes dos carretos estiverem gastos ou danificados, mandar substituir na loja Honda autorizada. Não indica a folga da corrente da Wave, por isso o valor deve ser dado pela loja.",
+        "As scooters automáticas têm outras peças de desgaste e a lista exata depende do modelo. Na dúvida, comece pelas que afetam a segurança e peça que lhe mostrem o que a loja verificou. As diferenças entre os modelos estão no guia das [scooters automáticas](/tipos-de-motas/scooters/), e a [Honda Vision](/tipos-de-motas/honda-vision-em-hanoi/) tem um guia próprio, com o que verificar quando a recebe. Para quem vem de Portugal, o que muda ao guiar está no guia sobre [scooters no Vietname e em Portugal](/tipos-de-motas/scooters-no-vietname-e-em-portugal/)."
+      ]
+    },
+    {
+      "h2": "Quilómetros altos e sinais de alarme: o que pesa mais",
+      "body": [
+        "Uma mota com muitos quilómetros e bom estado é preferível a uma com poucos quilómetros e problemas à vista. Para decidir, ordene o que encontrou por gravidade:",
+        {
+          "ul": [
+            "**Não saia com ela:** travões que não seguram, pneus muito gastos ou com cortes, direção com folga, farol ou luz de travão que não acendem, fugas de combustível.",
+            "**Peça arranjo ou troca antes de levantar:** corrente seca ou com folga excessiva, pressão dos pneus incorreta, motor difícil de pôr a trabalhar, ruídos novos.",
+            "**Registe e siga em frente:** riscos e mossas na carroçaria, plásticos soltos, assento gasto, espelhos com folga leve."
+          ]
+        },
+        "Esta ordenação é uma proposta, e não vem de nenhuma norma: mostra a lógica de pesar a segurança antes do aspeto. Num aluguer longo, uma verificação semanal acompanha o desgaste; o guia da [manutenção num aluguer longo](/guia-de-aluguer/manutencao-num-aluguer-longo/) descreve a rotina.",
+        "Uma nota sobre as caixas de velocidades: no caso do dono da Future com 70.000 km, as avarias ocasionais eram da caixa. Se levar uma semiautomática, experimente as mudanças com a mota parada e a passo lento, sem as forçar, e veja se sobem e descem uma de cada vez. O guia sobre [semiautomáticas](/tipos-de-motas/semiautomaticas/) apresenta o tipo."
+      ]
+    },
+    {
+      "h2": "Registar a quilometragem e o estado à entrega",
+      "body": [
+        "O registo à entrega é a sua proteção, qualquer que seja a quilometragem. Sem ele, no fim do aluguer não há como distinguir o que já lá estava do que aconteceu durante o aluguer. O guia de [fotografar a mota alugada](/guia-de-aluguer/fotografar-a-mota/) tem o método completo; para o assunto deste artigo, o essencial é:",
+        {
+          "steps": [
+            {
+              "title": "Fotografe o painel ligado",
+              "text": "Com a ignição ligada, uma fotografia nítida dos quilómetros e do combustível, e outra do painel completo. Se o painel não mostrar os quilómetros, registe isso mesmo."
+            },
+            {
+              "title": "Escreva a leitura",
+              "text": "Peça que o número de quilómetros e o nível de combustível figurem no acordo ou numa mensagem da loja, com a data e a hora. Com o número registado, evitam-se discussões no fim."
+            },
+            {
+              "title": "Documente cada defeito encontrado",
+              "text": "Uma fotografia geral e um plano de pormenor de cada risco, mossa ou desgaste evidente. Se encontrar um defeito de segurança, avise a loja antes de sair e não depois."
+            },
+            {
+              "title": "Anote o modelo, o ano e a cilindrada",
+              "text": "São os dados que permitem pesquisar a ficha da mota e confirmar se serve à sua carta."
+            },
+            {
+              "title": "Envie tudo no próprio dia",
+              "text": "Uma mensagem com as fotografias, por Zalo ou telefone para o {{phone}}, fica registada com data e hora."
+            }
+          ]
+        },
+        "Para perceber a fronteira entre desgaste normal e dano, sobretudo em alugueres de meses, veja o guia do [desgaste normal ou dano na mota alugada](/precos/desgaste-normal-num-aluguer-longo/), e para saber como se avalia e se documenta um dano, o guia dos [danos na mota alugada](/precos/danos-na-mota-alugada/). O que consta do acordo sobre a caução e as responsabilidades está em [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/)."
+      ]
+    },
+    {
+      "h2": "O que perguntar à loja sobre a manutenção",
+      "body": [
+        "A quilometragem preocupa menos quando a loja mostra que a mota é mantida. Estas perguntas não pressupõem uma resposta: servem para perceber como trabalha quem lhe aluga a mota. Envie-as numa só mensagem e guarde as respostas:",
+        {
+          "checklist": [
+            "Que ano e que cilindrada tem esta unidade, e quantos quilómetros tem no painel?",
+            "Quando foi a última revisão e o que incluiu (óleo, travões, corrente, pneus)?",
+            "Quem faz a manutenção, e em que oficina?",
+            "Se a mota avariar durante o aluguer, o que acontece e em quanto tempo me dão outra?",
+            "Se um problema já existia à entrega, como fica registado para que eu não responda por ele?",
+            "Num aluguer longo, quem trata das revisões e quando devo trazer a mota?"
+          ]
+        },
+        "Se as respostas forem vagas ou a loja não quiser registar o estado, é um sinal a ter em conta na escolha. O guia para reconhecer uma [loja de aluguer fiável](/guia-de-aluguer/loja-de-aluguer-fiavel/) desenvolve esta ideia. Para falar com a {{brand}}, use os [contactos](/contactos/): {{hours.display}}"
+      ]
+    },
+    {
+      "h2": "Se não gostar da mota: aceitar, ajustar ou trocar",
+      "body": [
+        "Depois de verificar a mota, tem três saídas. A escolha depende da gravidade do que encontrou e da disponibilidade de outras unidades:",
+        {
+          "table": {
+            "caption": "Decidir depois da inspeção",
+            "head": [
+              "Situação",
+              "Decisão",
+              "Como proceder"
+            ],
+            "rows": [
+              [
+                "Só desgaste estético",
+                "Aceitar",
+                "Registe com fotografias e siga."
+              ],
+              [
+                "Ajuste simples (pressão, corrente, espelho)",
+                "Pedir arranjo",
+                "Peça que a loja o faça antes de arrancar e confirme que ficou resolvido."
+              ],
+              [
+                "Defeito de segurança ou dúvida persistente",
+                "Pedir outra mota",
+                "Peça uma unidade diferente. Se for a meio do aluguer, veja [trocar de mota](/guia-de-aluguer/trocar-de-mota/)."
+              ]
+            ]
+          }
+        },
+        "Se não houver outra unidade livre, o mais prudente é adiar o aluguer. Para quem está a escolher o modelo, a comparação de preços ao dia está no guia do [aluguer de mota por um dia](/precos/aluguer-de-mota-por-um-dia/), e as questões gerais de escolha, no guia das [scooters automáticas](/tipos-de-motas/scooters/) e na [lista de perguntas antes de alugar](/guia-de-aluguer/perguntas-antes-de-alugar/)."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "A partir de quantos quilómetros devo recusar uma scooter de aluguer?",
+      "a": "Não encontrámos fonte que fixe um limite, nem uma ligação entre uma quilometragem concreta e mais avarias, por isso não o indicamos. Avalie o estado: travões, pneus, direção, luzes, ruídos e fugas, e a forma como a loja mantém a mota."
+    },
+    {
+      "q": "Posso confiar no conta-quilómetros de uma mota alugada?",
+      "a": "Só se funcionar, e mesmo assim é uma referência, e não uma prova de como a mota foi usada. Fotografe o painel à entrega e peça que a leitura fique escrita. Se o painel não mostrar os quilómetros, registe-o e pergunte à loja."
+    },
+    {
+      "q": "Uma mota com poucos quilómetros é sempre melhor escolha?",
+      "a": "Não necessariamente. Poucos quilómetros não garantem bom estado: a idade e a manutenção também contam. Faça as mesmas verificações em qualquer unidade e pergunte pelo ano e pela última revisão."
+    },
+    {
+      "q": "Quem trata das revisões durante o aluguer?",
+      "a": "Depende da loja e do acordo, e este site não o pode afirmar. Pergunte à loja antes de reservar quem trata das revisões, o que acontece se a mota avariar e como se conta o tempo parado, e peça a resposta por escrito."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Tuổi thọ tối đa của một chiếc \"hông đa\" là bao nhiêu km?",
+      "publisher": "Tinh tế (fórum)",
+      "url": "https://tinhte.vn/thread/4046821",
+      "accessed": "2026-10-14",
+      "type": "reference",
+      "lang": "vi"
+    },
+    {
+      "title": "Fórum Tinh tế: análise de uma Honda Future 125i LED de 2019 (em vietnamita)",
+      "publisher": "Tinh tế (fórum)",
+      "url": "https://tinhte.vn/thread/review-honda-future-125i-led-doi-2019.3501196/",
+      "accessed": "2026-10-14",
+      "type": "reference",
+      "lang": "vi"
+    },
+    {
+      "title": "WAVE 110 HƯỚNG DẪN SỬ DỤNG",
+      "publisher": "Honda Việt Nam",
+      "url": "https://cdn.honda.com.vn/motorbike-manual/September2025/PIcp8XLSxQmsi5X5Twsy.pdf",
+      "accessed": "2026-10-14",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "ABRC course cards (Motorcycle Safety Foundation)",
+      "publisher": "Cecil College (PDF com cartões de curso da MSF)",
+      "url": "https://www.cecil.edu/wp-content/uploads/abrc-course-cards.pdf",
+      "accessed": "2026-10-13",
+      "type": "reference",
+      "lang": "en"
+    },
+    {
+      "title": "T-CLOCS Checklist Motorcycle Inspection",
+      "publisher": "Marine Corps Base Hawaii (Safety)",
+      "url": "https://www.mcbhawaii.marines.mil/Portals/114/WebDocuments/Safety/T-CLOCSChecklistMotorcycleInspection.pdf",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "title": "Motorcycle safety inspection",
+      "publisher": "Air Force Global Strike Command (EUA)",
+      "url": "https://www.afgsc.af.mil/News/Article-Display/Article/848986/motorcycle-safety-inspection/",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "title": "Artigo do blogue Chợ Tốt Xe sobre as versões da Yamaha Mio (em vietnamita)",
+      "publisher": "Chợ Tốt Xe (blogue)",
+      "url": "https://xe.chotot.com/kinh-nghiem/cac-phien-ban-xe-mio.html",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    }
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "READY_FOR_QA",
+  "revision": {
+    "reason": "Ligações internas para artigos publicados depois"
+  }
+}

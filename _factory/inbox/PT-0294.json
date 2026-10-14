@@ -1,0 +1,278 @@
+{
+  "contract_version": 1,
+  "id": "PT-0294",
+  "slug": "comboio-para-lao-cai",
+  "title": "Comboio de Hanói a Lào Cai: horários e ida a Sa Pa",
+  "description": "Comboio noturno de Hanói a Lào Cai para ir a Sa Pa: horários citados, preços que divergem, a estação e o que fazer com a mota alugada.",
+  "h1": "Comboio noturno Hanói–Lào Cai: alternativa à mota para Sa Pa",
+  "summary": "O comboio noturno é uma forma de ir de Hanói a Sa Pa sem conduzir: as fontes dão o SP1 às 21:35, com chegada às 05:30, e o SP3 às 22:00, com chegada às 06:05 ou 06:10. O comboio termina em Lào Cai, a cerca de 35 km de Sa Pa, e os preços das fontes divergem muito. Confirme horário e tarifa no operador antes de contar com eles.",
+  "key_points": [
+    "As fontes dão duas partidas noturnas de Hanói para Lào Cai: SP1, às 21:35, e SP3, às 22:00.",
+    "A chegada a Lào Cai é de madrugada (cerca das 05:30 a 06:10) e ainda faltam cerca de 35 km até Sa Pa.",
+    "Os preços citados vão de cerca de 195 mil a 790 mil VND por pessoa, conforme a fonte e o tipo de lugar; nenhum é um valor oficial confirmado.",
+    "A época dos tufões, sobretudo em setembro, já levou a anulações: confirme a circulação perto da data da viagem.",
+    "Se mantiver a mota alugada em Hanói durante a ausência, combine antes o que acontece ao aluguer."
+  ],
+  "intro": [
+    "Sa Pa fica nas montanhas do norte, a pouco mais de 300 km de Hanói, e muitos viajantes que alugam uma mota na capital perguntam se devem levá-la até lá. Há quem prefira não o fazer: a distância é grande, o percurso inclui estradas de montanha e a mota é proibida nas autoestradas. O comboio noturno até Lào Cai é uma alternativa que as fontes descrevem com algum pormenor.",
+    "Este guia reúne o que sabemos sobre horários, preços, estação e transferência para Sa Pa, o que as fontes não confirmam e como organizar a mota alugada enquanto está fora. Faz parte das [rotas e mobilidade](/rotas-e-mobilidade/) em Hanói e foi consultado a 14 de outubro de 2026. Não encontrámos a página de horários do operador, por isso trate os horários como orientação."
+  ],
+  "sections": [
+    {
+      "h2": "Os comboios noturnos e os horários que as fontes dão",
+      "body": [
+        "O operador da linha é a Đường sắt Việt Nam, a ferrovia nacional vietnamita. As fontes que encontrámos, dois sites de viagens, coincidem no comboio SP1 e divergem por poucos minutos no SP3:",
+        {
+          "table": {
+            "caption": "Comboios noturnos de Hanói para Lào Cai, segundo as fontes consultadas",
+            "head": [
+              "Comboio",
+              "Partida de Hanói",
+              "Chegada a Lào Cai",
+              "Nota"
+            ],
+            "rows": [
+              [
+                "SP1",
+                "21:35",
+                "05:30",
+                "As duas fontes coincidem"
+              ],
+              [
+                "SP3",
+                "22:00",
+                "06:05 ou 06:10",
+                "Uma fonte dá 06:05, a outra, de 2026, dá 06:10"
+              ]
+            ]
+          }
+        },
+        "A viagem dura, portanto, cerca de oito horas: sai à noite, dorme-se a bordo e chega-se de madrugada. Os comboios circulam em 2026. O Báo Văn hóa relatou que o SP3 chegou a Lào Cai na primeira manhã de 2026 com quase 400 passageiros, e um comunicado do Ministério da Construção abriu a venda de bilhetes para o verão de 2026.",
+        {
+          "note": "Os horários vieram de sites de viagens, não de uma tabela do operador. Confirme-os no operador ou no balcão da estação antes de reservar alojamento em Sa Pa para a manhã seguinte.",
+          "tone": "warn",
+          "title": "Horários a verificar"
+        }
+      ]
+    },
+    {
+      "h2": "Quanto custa: valores que divergem",
+      "body": [
+        "Não encontrámos uma tarifa oficial de 2026. Os valores que aparecem são de sites comerciais, não coincidem, e a própria página de um deles é inconsistente, porque indica preços por lugar e, no texto, uma «média» muito mais alta. Por isso, apresentamo-los como ordem de grandeza e não como preço.",
+        {
+          "table": {
+            "caption": "Preços do comboio Hanói–Lào Cai citados por duas fontes (VND, por pessoa, valores de referência)",
+            "head": [
+              "Tipo de lugar",
+              "MIA.vn",
+              "vietnamtourism.com (2026)"
+            ],
+            "rows": [
+              [
+                "Assento",
+                "cerca de 195 mil (assento mole com ar condicionado)",
+                "cerca de 290 mil (assento duro)"
+              ],
+              [
+                "Cama de 6",
+                "não indicado",
+                "cerca de 540 mil"
+              ],
+              [
+                "Cama de 4",
+                "cerca de 415 mil a 465 mil",
+                "cerca de 790 mil"
+              ]
+            ]
+          }
+        },
+        "A diferença entre as duas colunas é grande, e não podemos saber se se deve à data das fontes, ao comboio ou à classe de lugar. Para planear um orçamento, conte com a gama mais alta e confirme o preço real ao reservar.",
+        "Os bilhetes de verão de 2026, segundo o comunicado do Ministério da Construção, foram vendidos de 15 de maio a 16 de agosto, com descontos para quem comprasse ida e volta em conjunto. Essa campanha já terminou, mas mostra que há promoções com datas, e vale a pena perguntar se existe alguma na sua viagem.",
+        "O vietnamtourism.com estima o custo total da viagem, com comboio e transferência, entre 35 e 75 USD. Para a ida à estação e para os restantes trajetos dentro de Hanói, o [confronto entre a mota alugada e a Grab](/precos/mota-alugada-ou-grab/) ajuda a decidir como se desloca."
+      ]
+    },
+    {
+      "h2": "Chegar à estação de Hanói a partir de Long Biên",
+      "body": [
+        "A estação central, a Ga Hà Nội, fica na rua Lê Duẩn, no número 120, a pouco menos de 2 km do centro do Bairro Antigo, segundo sites de viagens. Tem duas secções: a «estação A», do lado da Lê Duẩn, trata dos comboios para sul, e a «estação B», com entrada separada na rua Trần Quý Cáp, trata dos comboios para norte.",
+        "Nenhuma fonte cita Lào Cai de forma expressa para a estação B. É plausível que os comboios para Lào Cai partam desse lado, mas não está confirmado. Veja no bilhete a plataforma e o edifício, e pergunte a um funcionário se tiver dúvidas. Um dos sites descreve o caminho de A a B: atravesse a passagem de nível perto da Lê Duẩn, a norte, e siga a rua à esquerda.",
+        "A partir de {{area}}, onde fica a loja, o mais simples é ir de táxi ou de mota com condutor, com a mala ao colo e sem a preocupação de estacionar. O [guia dos táxis em Hanói](/rotas-e-mobilidade/taxis-em-hanoi/) explica como pedir uma viagem e mostrar o destino em vietnamita. Chegue com folga: os balcões e os horários de venda de bilhetes divergem entre as fontes, e não os conseguimos confirmar. Se sobrarem horas antes da partida da noite, o guia do [xích lô em Hanói](/rotas-e-mobilidade/xich-lo-em-hanoi/) explica como combinar o preço de um passeio pelo Bairro Antigo.",
+        "Se tem curiosidade pela linha e pelas ruas que a rodeiam, veja a [rua do comboio de Hanói](/zonas-de-hanoi/rua-do-comboio/), onde explicamos porque o acesso e os controlos mudam."
+      ]
+    },
+    {
+      "h2": "De Lào Cai a Sa Pa: o último troço",
+      "body": [
+        "O comboio não chega a Sa Pa: termina em Lào Cai, a cerca de 35 km, segundo o vietnamtourism.com. Chega-se de madrugada, entre as 05:30 e as 06:10, e é preciso continuar por estrada. As fontes que consultámos não detalham como se faz esta ligação nem quanto custa, por isso pergunte ao alojamento de Sa Pa se organiza a transferência ou como recomenda fazê-la.",
+        "Para perceber o lugar do comboio entre as alternativas, o vietnamtourism.com, atualizado em maio de 2026, compara os meios de Hanói a Sa Pa. Os valores são de uma página comercial, não de um operador, e servem apenas de referência:",
+        {
+          "table": {
+            "caption": "Hanói–Sa Pa: alternativas ao comboio, segundo o vietnamtourism.com (maio de 2026)",
+            "head": [
+              "Meio",
+              "Duração indicada",
+              "Custo indicado"
+            ],
+            "rows": [
+              [
+                "Comboio noturno mais transferência",
+                "cerca de 8 a 9 horas no total",
+                "35 a 75 USD no total"
+              ],
+              [
+                "Limusina (carrinha)",
+                "5,5 a 6 horas",
+                "13 a 18 USD"
+              ],
+              [
+                "Autocarro-cama noturno",
+                "não indicada",
+                "11 a 15 USD"
+              ]
+            ]
+          }
+        },
+        "Há ainda guias que dão 250 mil a 750 mil VND para o autocarro, o que reforça a ideia de que os valores variam muito conforme a empresa e a época. O artigo sobre [ir de Hanói a Ha Long sem conduzir](/rotas-e-mobilidade/ha-long-sem-conduzir/) usa a mesma lógica de comparar autocarro, limusina e outros meios."
+      ]
+    },
+    {
+      "h2": "Porquê o comboio em vez da mota",
+      "body": [
+        "Hanói fica a mais de 300 km de Sa Pa (as fontes dão entre 288 e 315 km, conforme o percurso), e a viagem de mota seria longa e cansativa. Não encontrámos, nas fontes, o tempo de mota nem o melhor percurso, e não vamos inventá-los.",
+        "O que está confirmado é que as motas não podem entrar nas autoestradas: a coima é de 4 a 6 milhões de VND, com perda de 6 pontos na carta, e a imprensa noticiou estrangeiros multados por isso em fevereiro de 2026. Para quem segue pelas estradas nacionais, há as condições da montanha: o nevoeiro, descrito no guia sobre o [nevoeiro nas estradas de montanha](/rotas-e-mobilidade/nevoeiro-nas-estradas-de-montanha/), e as tempestades, no guia dos [tufões e alertas meteorológicos](/rotas-e-mobilidade/tufoes-e-alertas-meteorologicos/).",
+        {
+          "ul": [
+            "**Comboio:** sem condução noturna, sem autoestradas, com horário e preço fixados pelo operador; exige chegar de madrugada e organizar a ligação a Sa Pa.",
+            "**Mota:** liberdade de horário e de paragens, mas com distância grande, estradas de montanha e a necessidade de autorização da loja para sair de Hanói.",
+            "**Limusina ou autocarro-cama:** a limusina demora menos do que o comboio segundo a fonte citada; o autocarro-cama também se faz de noite."
+          ]
+        },
+        "Quem prefere mesmo ir de mota ao norte encontra o que está confirmado no guia do [loop de Hà Giang](/rotas-e-mobilidade/loop-de-ha-giang/)."
+      ]
+    },
+    {
+      "h2": "E a mota alugada enquanto está fora",
+      "body": [
+        "Se deixar Hanói por alguns dias, tem duas opções: manter o aluguer e deixar a mota num lugar seguro, ou devolvê-la e voltar a alugar no regresso. O guia da [viagem a meio da estadia](/precos/sair-de-hanoi-a-meio-do-aluguer/) explica as duas, com a conta a fazer. A tabela de referência da loja começa em {{price.min.day}} por dia, e o total para as suas datas é sempre confirmado pela loja.",
+        "Quanto a levar a mota no comboio: a rota da loja não implica transporte de mota, e não encontrámos confirmação de que uma mota alugada possa seguir de comboio. Não parta do princípio de que pode; peça autorização à loja, nos moldes do guia sobre [levar a mota alugada para fora de Hanói](/guia-de-aluguer/autorizacao-para-sair-de-hanoi/), e peça-a por escrito.",
+        "Se pensa alugar uma mota em Sa Pa, lembre-se de que as regras de carta e de licença são as mesmas. A [licença internacional de condução](/guia-de-aluguer/licenca-internacional-de-conducao/) e a documentação estão explicadas nos guias, e o guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/) mostra o que perguntar em qualquer loja. Não encontrámos fontes sobre lojas de aluguer em Sa Pa, por isso não as recomendamos.",
+        "Para decidir com tempo, fale com a loja {{brand}} pelos [contactos](/contactos/), pelo telefone {{phone}}, e a loja está aberta {{hours}}."
+      ]
+    },
+    {
+      "h2": "Antes de comprar o bilhete: lista de verificação",
+      "body": [
+        {
+          "checklist": [
+            "Confirmar no operador, ou no balcão da estação, o horário do comboio e o preço do tipo de lugar que quer.",
+            "Ver se há suspensões por tempestade para a data: a imprensa de Lào Cai noticiou a anulação de uma partida por causa de um tufão e, noutra notícia, o regresso dos comboios a 23 de setembro.",
+            "Anotar a estação e a entrada (A ou B) indicadas no bilhete.",
+            "Combinar com o alojamento de Sa Pa a hora de chegada e a transferência desde Lào Cai.",
+            "Decidir o que acontece à mota alugada e pedir o total das duas opções à loja.",
+            "Guardar o nome da estação em vietnamita, «Ga Hà Nội» e «Ga Lào Cai», para mostrar a um taxista."
+          ]
+        },
+        "Se os planos mudarem, a limusina e o autocarro-cama são as alternativas que a fonte citada compara com o comboio; confirme horários e preços diretamente com a empresa. Com estas verificações feitas, o comboio noturno é uma maneira prática de ir a Sa Pa sem conduzir."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "A que horas parte o comboio noturno de Hanói para Lào Cai?",
+      "a": "As fontes consultadas dão o SP1 às 21:35, com chegada às 05:30, e o SP3 às 22:00, com chegada às 06:05 ou 06:10. Os horários vieram de sites de viagens: confirme-os no operador antes de reservar."
+    },
+    {
+      "q": "O comboio chega a Sa Pa?",
+      "a": "Não. O comboio termina em Lào Cai, a cerca de 35 km de Sa Pa, segundo o vietnamtourism.com. É preciso continuar por estrada, e as fontes consultadas não detalham como se faz essa ligação."
+    },
+    {
+      "q": "Quanto custa o bilhete de comboio para Lào Cai?",
+      "a": "As fontes divergem: cerca de 195 mil a 465 mil VND numa e de 290 mil a 790 mil VND noutra, conforme o lugar. Não encontrámos uma tarifa oficial de 2026, por isso confirme o preço ao reservar."
+    },
+    {
+      "q": "Posso levar a mota alugada no comboio?",
+      "a": "Não conseguimos confirmar que isso seja possível com uma mota alugada, e essa decisão cabe à loja. Peça autorização por escrito antes de qualquer planeamento e pergunte também como fica o aluguer enquanto está fora."
+    },
+    {
+      "q": "Os comboios circulam durante os tufões?",
+      "a": "Não necessariamente. A imprensa de Lào Cai noticiou a anulação de uma partida por causa de um tufão e, noutra notícia, o regresso dos comboios a 23 de setembro. Na época das tempestades, confirme a circulação perto da data."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Informações sobre a estação de Lào Cai, com horários e preços dos comboios (em vietnamita)",
+      "publisher": "MIA.vn (cẩm nang du lịch)",
+      "url": "https://mia.vn/cam-nang-du-lich/thong-tin-ga-lao-cai-15615",
+      "accessed": "2026-10-14",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Hanói a Sa Pa em 2026: comparação de comboios, autocarros e custos (em inglês)",
+      "publisher": "vietnamtourism.com",
+      "url": "https://www.vietnamtourism.com/en/hanoi-to-sapa-in-2026-trains-buses-costs-compared",
+      "accessed": "2026-10-14",
+      "type": "business",
+      "lang": "en"
+    },
+    {
+      "title": "Đường sắt mở bán vé tàu khách dịp Hè năm 2026",
+      "publisher": "moc.gov.vn (Bộ Xây dựng)",
+      "url": "https://moc.gov.vn/vn/tin-tuc/1184/93320/duong-sat-mo-ban-ve-tau-khach-dip-he-nam-2026.aspx",
+      "accessed": "2026-10-14",
+      "type": "official",
+      "lang": "vi"
+    },
+    {
+      "title": "Notícia sobre a chegada do comboio a Lào Cai na manhã de Ano Novo de 2026 (em vietnamita)",
+      "publisher": "Báo Văn hóa",
+      "url": "https://baovanhoa.vn/du-lich/chuyen-tau-mo-nhip-cho-mot-nam-du-lich-khoi-sac-194413.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Chạy lại tàu khách Hà Nội - Lào Cai từ ngày 23/9",
+      "publisher": "Báo Lào Cai",
+      "url": "https://baolaocai.vn/chay-lai-tau-khach-ha-noi-lao-cai-tu-ngay-239-post390778.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Hủy chuyến tàu Lào Cai - Hà Nội chạy tối 8/9 do ảnh hưởng của bão số 3",
+      "publisher": "Báo Lào Cai",
+      "url": "https://baolaocai.vn/huy-chuyen-tau-lao-cai-ha-noi-chay-toi-89-do-anh-huong-cua-bao-so-3-post389761.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Estação ferroviária de Hanói: partidas e conselhos de viagem (em inglês)",
+      "publisher": "Local Vietnam",
+      "url": "https://localvietnam.com/hanoi/hanoi-railway-station/",
+      "accessed": "2026-10-14",
+      "type": "business",
+      "lang": "en"
+    },
+    {
+      "title": "Mức xử phạt năm 2026 đối với hành vi đi xe máy trên cao tốc?",
+      "publisher": "Thư Viện Pháp Luật",
+      "url": "https://thuvienphapluat.vn/ma-so-thue/phap-luat-thue/muc-xu-phat-nam-2026-doi-voi-hanh-vi-di-xe-may-tren-cao-toc-936922-220346.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    "lawnet-proibicoes-2024",
+    "dtinews-autoestrada-2026"
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "READY_FOR_QA",
+  "revision": {
+    "reason": "Ligações internas para artigos publicados depois"
+  }
+}

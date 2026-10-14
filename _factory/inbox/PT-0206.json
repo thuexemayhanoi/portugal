@@ -1,0 +1,330 @@
+{
+  "contract_version": 1,
+  "id": "PT-0206",
+  "slug": "bateria-descarregada",
+  "title": "Bateria descarregada na scooter ou mota elétrica: o que fazer",
+  "description": "Bateria descarregada numa scooter ou mota elétrica em Hanói: a diferença entre bateria de arranque e de tração, o que não fazer e o que perguntar à loja.",
+  "h1": "A scooter não liga e a bateria parece descarregada: que bateria é e quando ligar à loja",
+  "summary": "Numa scooter ou semiautomática a gasolina, a bateria fraca é, segundo a imprensa vietnamita, a principal causa de a mota não pegar: não insista no botão, desligue a chave, espere 3 a 5 minutos e, se continuar sem pegar, contacte a loja. Numa mota elétrica, a bateria que se esgota é a de tração e não se resolve na rua: avise a loja.",
+  "key_points": [
+    "«Bateria descarregada» pode ser a bateria de arranque de uma mota a gasolina, a pilha do comando da chave inteligente ou a bateria de tração de uma mota elétrica. Cada uma pede um gesto diferente.",
+    "Com a bateria de arranque fraca, não insista no botão: segundo artigos e blogues vietnamitas, desligue a chave e espere 3 a 5 minutos; se não pegar, pare e contacte a loja.",
+    "Cabos ligados à bateria de outra mota e arranque a pedal não são soluções a improvisar numa mota alugada: as fontes consultadas não confirmam que a Vision e a Air Blade tenham pedal.",
+    "Numa mota elétrica, a carga completa demora cerca de 6 a 10 horas nos modelos VinFast das fichas consultadas: uma bateria de tração vazia resolve-se com a loja, e não numa paragem rápida.",
+    "Pergunte no levantamento que tipo de arranque tem a mota, se há pedal ou chave inteligente e o que fazer se não pegar, e guarde as respostas por escrito."
+  ],
+  "intro": [
+    "Numa mota de aluguer em Hanói, a frase «a bateria acabou» pode querer dizer três coisas diferentes, e a resposta certa muda de uma para outra. Numa scooter ou semiautomática a gasolina, a bateria que alimenta o arranque pode ficar fraca. Numa mota com chave inteligente, pode falhar a pilha do comando. Numa mota elétrica, o que se esgota é a bateria grande que move a mota.",
+    "Este guia explica a diferença, o que as fontes vietnamitas aconselham fazer (e não fazer) numa mota a gasolina, o que muda numa elétrica e o que perguntar à loja antes de levantar a mota. Não diz quem paga nem o que a loja faz em cada caso, porque isso depende do acordo de aluguer. O processo completo está no [guia de aluguer](/guia-de-aluguer/)."
+  ],
+  "sections": [
+    {
+      "h2": "Três baterias, três problemas diferentes",
+      "body": [
+        "Distinguir a bateria em causa é o primeiro passo, porque a falha de cada uma tem soluções próprias:",
+        {
+          "table": {
+            "caption": "As três baterias de uma mota de aluguer",
+            "head": [
+              "Bateria",
+              "Onde existe e o que se sabe",
+              "Primeiro passo"
+            ],
+            "rows": [
+              [
+                "Bateria de arranque",
+                "Scooters e semiautomáticas a gasolina com arranque elétrico. Segundo a Báo Văn hóa, a bateria fraca ou descarregada é a principal causa de a mota não pegar.",
+                "Não insistir no botão; desligar a chave e esperar 3 a 5 minutos; se não pegar, contactar a loja."
+              ],
+              [
+                "Pilha do comando (chave inteligente)",
+                "Motas com Smart Key, que a Honda indica na Vision. O manual da SH Mode, outro modelo da Honda, avisa que o sistema pode falhar com a pilha do comando fraca ou com aparelhos que causem interferência.",
+                "Afastar o comando de outros aparelhos; se continuar sem resposta, falar com a loja."
+              ],
+              [
+                "Bateria de tração",
+                "Motas elétricas. A VinFast indica baterias LFP de 3,5 kWh na Evo200, na Feliz S e na Vento S.",
+                "Parar em segurança e contactar a loja; a carga completa demora horas."
+              ]
+            ]
+          }
+        },
+        "Nem tudo o que parece bateria o é. Nos modelos com interruptor no descanso lateral, o motor só arranca com o descanso totalmente levantado. E a Honda indica na Vision um sistema, o Idling Stop, que desliga o motor cerca de 3 segundos depois de a mota parar e o volta a ligar quando se roda o acelerador. Confirme estes dois pontos antes de concluir que a bateria acabou. Se o problema for afinal o depósito vazio, veja o guia sobre [ficar sem gasolina na mota](/guia-de-aluguer/fiquei-sem-combustivel/)."
+      ]
+    },
+    {
+      "h2": "Scooter ou semiautomática a gasolina: a bateria de arranque",
+      "body": [
+        "Segundo a Báo Văn hóa, a bateria fraca ou descarregada é a principal causa de falha de arranque em scooters e motas de mudanças com arranque elétrico, e a solução passa por a carregar ou substituir. Para quem aluga, o que as fontes vietnamitas aconselham fazer na rua resume-se a poucos passos:",
+        {
+          "steps": [
+            {
+              "title": "Pare de carregar no botão",
+              "text": "Segundo artigos e blogues vietnamitas, carregar seguidamente no botão de arranque pode danificar o sistema de arranque."
+            },
+            {
+              "title": "Desligue a chave e espere",
+              "text": "Deixe a bateria descansar 3 a 5 minutos e só depois tente de novo."
+            },
+            {
+              "title": "Se continuar sem pegar, pare",
+              "text": "Com a bateria completamente descarregada, as mesmas fontes mandam carregá-la numa oficina. Numa mota alugada, quem escolhe a oficina e autoriza o trabalho é a loja."
+            },
+            {
+              "title": "Diga à loja o que tentou",
+              "text": "Indique o modelo e a matrícula, a localização, quantas vezes tentou, quanto esperou e se há alguma luz acesa no painel, e fotografe o painel."
+            }
+          ]
+        },
+        "A ordem geral dos primeiros minutos, com a mensagem à loja e a ajuda que existe por perto, está no guia sobre [assistência na estrada](/guia-de-aluguer/assistencia-na-estrada/).",
+        {
+          "h3": "Cabos ligados a outra mota: para a loja, não para si"
+        },
+        "Um blogue vietnamita descreve ligar cabos a uma bateria de outra mota com a mesma tensão. Para quem aluga, é um passo a deixar à loja ou a um mecânico que ela indique: pede abrir o assento, conhecer a tensão da bateria e mexer na parte elétrica, o que numa mota que não é sua não se improvisa.",
+        {
+          "h3": "Quem decide trocar a bateria"
+        },
+        "Substituir uma bateria é uma reparação. Se uma oficina propuser uma bateria nova, envie a proposta à loja e espere pela resposta antes de aceitar. O guia sobre [furos e pequenas reparações](/precos/custo-de-furos-e-reparacoes/) mostra como combinar quem paga e que recibo guardar, e inclui a bateria sem carga entre os casos que convém acertar logo com a loja."
+      ]
+    },
+    {
+      "h2": "Arranque a pedal: existe na sua mota?",
+      "body": [
+        "O arranque a pedal é a alternativa que muita gente procura quando a bateria falha, mas depende do modelo. As fontes consultadas dizem o seguinte:",
+        {
+          "table": {
+            "caption": "O que as fontes consultadas dizem sobre o pedal de arranque",
+            "head": [
+              "Modelo",
+              "Pedal de arranque"
+            ],
+            "rows": [
+              [
+                "Yamaha Sirius FI",
+                "Sim: a Yamaha indica arranque elétrico e a pedal."
+              ],
+              [
+                "Honda Wave Alpha",
+                "A ficha atual da Honda indica arranque elétrico; o pedal não aparece confirmado."
+              ],
+              [
+                "Honda Vision e Honda Air Blade",
+                "Não confirmado nas fontes consultadas."
+              ]
+            ]
+          }
+        },
+        "As fichas são as páginas em vigor dos fabricantes, e a mota alugada pode ser de outra geração: a loja confirma o modelo, a versão e o ano.",
+        "Segundo a Báo Văn hóa, nas motas de mudanças o pedal pode ser usado temporariamente quando a bateria falha. Para as scooters, um blogue vietnamita afirma que ainda têm pedal de arranque, mas que o uso prolongado afeta a bateria. Outro descreve pôr a mota no descanso central, dar ao pedal 3 a 5 vezes, ligar a chave e arrancar a pedal, e nota que acima de 150 cc o pedal é muito pesado. Só tente se a loja confirmar que a sua mota tem pedal e lhe mostrou como se usa; sem isso, não improvise."
+      ]
+    },
+    {
+      "h2": "Mota elétrica: quando a bateria de tração se esgota",
+      "body": [
+        "Numa mota elétrica, a bateria que se esgota é a que move a mota, e a falta de carga não se resolve em dois minutos, como um depósito vazio numa bomba de gasolina. Os números da VinFast dão a ordem de grandeza: a Evo200 leva cerca de 10 horas a carregar com o carregador de 400 W, e a Feliz S e a Vento S cerca de 6 horas, de 0 a 100 %, com um carregador de 1000 W. A bateria destes dois últimos pesa 28 kg. São números de fabricante para modelos que a loja pode não ter: o modelo, o carregador e o tempo de carga confirmam-se com ela.",
+        "A autonomia anunciada pode não ser a que vai ter. A VinFast mede-a a 30 km/h com uma pessoa de 65 kg e indica, para a Evo200 Lite, 205 km nessas condições e 149 km a 45 km/h com 70 kg.",
+        "Em Hanói está prevista uma rede de troca de baterias: em junho de 2026, a V-Green e a EVNHANOI acordaram instalar até 10.000 armários de troca para motas elétricas VinFast em 126 comunas e bairros. Não está confirmado que a mota de aluguer use troca de baterias, nem onde há armários perto do seu percurso: pergunte à loja.",
+        {
+          "h3": "Se a bateria acabar na rua"
+        },
+        "Pare em segurança, fotografe o painel e contacte a loja com a localização. Não abra o compartimento da bateria nem use carregadores ou tomadas que a loja não tenha indicado. Se a loja indicar um sítio para carregar, pergunte quanto tempo deve contar esperar."
+      ]
+    },
+    {
+      "h2": "O que perguntar à loja no levantamento",
+      "body": [
+        "A bateria é um tema que se trata melhor com a mota à frente. Peça respostas a estas perguntas e guarde-as:",
+        {
+          "checklist": [
+            "A mota liga por botão, por pedal ou por chave inteligente? Se tem pedal, pode mostrar-me como se usa?",
+            "Se tem chave inteligente: o que faço se o comando deixar de responder e quem troca a pilha?",
+            "Se a mota não pegar, o que posso tentar e o que não devo tentar?",
+            "A quem ligo e a que horas? Se a mota parar fora do horário da loja, o que devo fazer?",
+            "Se a bateria precisar de ser carregada ou substituída, quem trata e quem paga? Mexe na caução?",
+            "Numa mota elétrica: que modelo é, que carregador e que tomada usa, quanto demora uma carga e posso carregá-la no alojamento?",
+            "Numa mota elétrica: com que nível de bateria a recebo e com que nível a devolvo? Há troca de baterias ou só carga?",
+            "Numa mota elétrica: o que faço se a bateria acabar longe da loja?"
+          ]
+        },
+        "A loja atende {{hours}}, pelo {{phone}}. O guia sobre [receber a mota alugada](/guia-de-aluguer/receber-a-mota/) mostra como decorre o levantamento, e o de [combustível no aluguer](/precos/combustivel-no-aluguer/) explica como registar o nível à entrega e à devolução, incluindo o da bateria de uma mota elétrica. As perguntas gerais estão nas [perguntas a fazer antes de alugar](/guia-de-aluguer/perguntas-antes-de-alugar/), e o que fazer se o problema for a chave ou o comando, no guia sobre [perder a chave](/guia-de-aluguer/perdi-a-chave/)."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Devo insistir no botão de arranque até a mota pegar?",
+      "a": "Não. Segundo artigos e blogues vietnamitas, carregar seguidamente no botão pode danificar o sistema de arranque. Desligue a chave, espere 3 a 5 minutos e tente de novo; se continuar sem pegar, pare e contacte a loja."
+    },
+    {
+      "q": "Posso arrancar a mota com cabos ligados à bateria de outra mota?",
+      "a": "Um blogue vietnamita descreve-o para baterias com a mesma tensão, mas numa mota alugada deve ficar para a loja ou para um mecânico que ela indique: implica abrir o assento e mexer na parte elétrica. Fotografe o painel e ligue à loja."
+    },
+    {
+      "q": "A minha scooter tem pedal de arranque?",
+      "a": "Depende do modelo. As fontes consultadas confirmam pedal na Yamaha Sirius FI, mas não na Honda Vision nem na Air Blade. Pergunte à loja, no levantamento, e peça que lhe mostrem como se usa. Sem essa indicação, não force."
+    },
+    {
+      "q": "O comando da chave inteligente deixou de funcionar: é a bateria da mota?",
+      "a": "Pode ser a pilha do comando. O manual da Honda SH Mode avisa que o sistema pode falhar com a pilha do comando fraca ou com aparelhos que causem interferência. Afaste o comando de outros aparelhos e, se continuar sem resposta, fale com a loja. O procedimento de emergência da Honda exige abrir o assento e mexer em fichas elétricas: não é para tentar na rua."
+    },
+    {
+      "q": "A mota elétrica ficou sem bateria longe da loja. O que faço?",
+      "a": "Pare em segurança e contacte a loja com a localização e uma fotografia do painel. Uma carga completa demora cerca de 6 a 10 horas nos modelos VinFast das fichas consultadas, e só a loja sabe se a sua mota pode ser carregada ou trocada no local."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Vì sao xe đề mãi không nổ? Cách xử lý nhanh, ai cũng nên biết",
+      "publisher": "Báo Văn hóa",
+      "url": "https://baovanhoa.vn/xe/vi-sao-xe-de-mai-khong-no-cach-xu-ly-nhanh-ai-cung-nen-biet-190877.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Lý do tại sao xe Air Blade không đề được và cách xử lý hiệu quả",
+      "publisher": "Mua Bán (blogue)",
+      "url": "https://muaban.net/blog/xe-air-blade-khong-de-duoc-537748/",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Hướng dẫn cách nổ máy xe Airblade khi hết bình",
+      "publisher": "Mua Bán (blogue)",
+      "url": "https://muaban.net/blog/cach-no-may-xe-airblade-khi-het-binh-544229/",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Xe tay ga không đề: Vấn đề và giải pháp",
+      "publisher": "Mytour (blogue)",
+      "url": "https://mytour.vn/vi/blog/bai-viet/xe-tay-ga-de-khong-len-nguyen-nhan-va-cach-xu-ly.html",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Sirius FI phiên bản phanh đĩa màu mới - Yamaha Motor Việt Nam",
+      "publisher": "Yamaha Motor Việt Nam",
+      "url": "https://yamaha-motor.com.vn/xe/sirius-fi-phien-ban-phanh-dia-mau-hoan-toan-moi-bsab/",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "Wave Alpha",
+      "publisher": "Honda Việt Nam",
+      "url": "https://www.honda.com.vn/xe-may/san-pham/wave-alpha-110",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "Página do modelo Honda Vision no site da Honda Việt Nam",
+      "publisher": "Honda Việt Nam",
+      "url": "https://www.honda.com.vn/xe-may/san-pham/vision?category=2",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "SH MODE HƯỚNG DẪN SỬ DỤNG",
+      "publisher": "Honda Việt Nam",
+      "url": "https://cdn.honda.com.vn/motorbike-manual/September2025/LqBycQConAOw1xIB2JDJ.pdf",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "Perguntas frequentes da Honda Việt Nam: informações gerais (em vietnamita)",
+      "publisher": "Honda Việt Nam",
+      "url": "https://honda.com.vn/cau-hoi-thuong-gap?category=&category_child=&category_tab=thong-tin-chung",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "Perguntas frequentes da Honda Việt Nam sobre o uso da mota (em vietnamita)",
+      "publisher": "Honda Việt Nam",
+      "url": "https://www.honda.com.vn/cau-hoi-thuong-gap?category=san-pham&category_child=tu-van-su-dung-xe-may",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "Página da Honda sobre o sistema Idling Stop (Índia)",
+      "publisher": "Honda Motorcycle & Scooter India (honda2wheelersindia.com)",
+      "url": "https://www.honda2wheelersindia.com/about/technology/idling-stop-system",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "en"
+    },
+    {
+      "title": "Thông số kỹ thuật xe điện VinFast Evo200 - Mẫu xe điện mới nhiều cải tiến và tính năng thông minh",
+      "publisher": "VinFast",
+      "url": "https://vinfastauto.com/vn_vi/thong-so-ky-thuat-evo200",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "Hướng dẫn sạc xe VinFast Evo200 đúng chuẩn",
+      "publisher": "VinFast",
+      "url": "https://vinfastauto.com/vn_vi/huong-dan-sac-xe-vinfast-evo-200",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "Hệ thống pin xe máy điện VinFast Evo200 Lite có gì đặc biệt?",
+      "publisher": "VinFast",
+      "url": "https://vinfastauto.com/vn_vi/he-thong-pin-xe-may-dien-vinfast-evo200-lite",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "Thông số kỹ thuật xe máy điện VinFast Feliz S mới nhất",
+      "publisher": "VinFast",
+      "url": "https://vinfastauto.com/vn_vi/kham-pha-thong-so-ky-thuat-xe-may-dien-vinfast-feliz-s",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "Tìm hiểu hệ thống pin xe máy điện VinFast Feliz S",
+      "publisher": "VinFast",
+      "url": "https://vinfastauto.com/vn_vi/he-thong-pin-xe-may-dien-vinfast-feliz-s",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "Thông số kỹ thuật Vento S vượt trội trong phân khúc",
+      "publisher": "VinFast",
+      "url": "https://vinfastauto.com/vn_vi/thong-so-ky-thuat-vento-s",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "V-Green hợp tác với EVNHANOI triển khai 10.000 tủ đổi pin xe máy điện",
+      "publisher": "Mekong ASEAN",
+      "url": "https://mekongasean.vn/v-green-hop-tac-voi-evnhanoi-trien-khai-10000-tu-doi-pin-xe-may-dien-56440.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    }
+  ],
+  "legal_note": false,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "READY_FOR_QA",
+  "revision": {
+    "reason": "Ligações internas para artigos publicados depois"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "generated_at": "2026-10-14",
+  "urls": 332,
+  "indexable": 332,
+  "priority": {
+    "P0": 0,
+    "P1": 98,
+    "P2": 75,
+    "OK": 159
+  },
+  "issues": {
+    "P1 artigo sem fontes citadas (E-E-A-T)": 6,
+    "P1 canibalização HIGH com …": 2,
+    "P1 canibalização MEDIUM com …": 12,
+    "P1 FAQ visível sem FAQPage": 1,
+    "P1 órfão: nenhuma ligação contextual de entrada": 79,
+    "P1 title quase igual com …": 2,
+    "P2 página curta (N palavras)": 1,
+    "P2 palavra-chave «…» quase ausente da description": 52,
+    "P2 só N fontes": 26,
+    "P2 só N ligação contextual de entrada": 25
+  },
+  "not_measured": [
+    "Search Console / Bing: impressões, cliques, CTR, posição e estado de indexação (ligação por configurar, ver docs/OWNER-ACTIONS.md)",
+    "Core Web Vitals de campo (CrUX); Lighthouse corre no workflow SEO Monitor sobre o site real",
+    "Estado HTTP do site real (workflow SEO Monitor / scripts/audit-live.mjs)"
+  ]
+}

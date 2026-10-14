@@ -1,0 +1,299 @@
+{
+  "contract_version": 1,
+  "id": "PT-0020",
+  "slug": "melhor-scooter-para-alugar",
+  "title": "Melhor scooter para alugar em Hanói: critérios para decidir",
+  "description": "Qual é a melhor scooter para alugar em Hanói? Cinco critérios por ordem — carta, experiência, passageiro, percurso e preço — e uma matriz de decisão por perfil.",
+  "h1": "Qual é a melhor scooter para alugar em Hanói? Cinco critérios, por ordem de importância",
+  "summary": "Não há uma scooter que seja a melhor para toda a gente: a melhor para si é a que a sua carta permite conduzir, que corresponde à sua experiência e ao que vai transportar e que cabe no orçamento para as suas datas. Aplique os critérios por esta ordem — carta, experiência, passageiro e carga, percurso, duração e preço — e só depois escolha o modelo.",
+  "key_points": [
+    "Não há uma vencedora: Vision, Air Blade, Click e Mio servem perfis diferentes.",
+    "1.º critério, eliminatório: a categoria da sua carta. Só com a A1, as versões de 160 cm³ ficam de fora.",
+    "2.º critério: a experiência. Quem nunca conduziu uma mota não deve começar em Hanói, seja qual for o modelo.",
+    "3.º e 4.º critérios: o passageiro, a carga e o percurso decidem entre uma scooter compacta e uma com mais folga.",
+    "5.º critério: duração e preço. Ao dia, a Click custa {{cmp.click.vision.day}} a Vision; ao mês, a Air Blade custa {{cmp.airblade.vision.month}} a Vision.",
+    "No fim, a unidade conta tanto como o modelo: peça o ano, a cilindrada e o estado da mota."
+  ],
+  "intro": [
+    "«Qual é a melhor scooter?» é das primeiras perguntas de quem pensa alugar uma mota em Hanói. A resposta honesta é que depende, mas não de forma vaga: depende de cinco critérios concretos, e os primeiros eliminam modelos antes de o gosto pessoal entrar na conversa.",
+    "Este guia não faz um ranking nem repete as fichas dos modelos. Propõe uma ordem para decidir, mostra onde cada scooter da loja se encaixa e remete para os guias que tratam cada caso em pormenor. As quatro scooters estão apresentadas lado a lado na página de [scooters automáticas](/tipos-de-motas/scooters/)."
+  ],
+  "sections": [
+    {
+      "h2": "Porque não há uma resposta única",
+      "body": [
+        "A loja tem quatro scooters automáticas: a Honda Vision, a Honda Air Blade, a Honda Click e a Yamaha Mio. Têm porte, cilindrada e preço de referência diferentes, e cada uma está no seu melhor num uso diferente:",
+        {
+          "component": "model-cards",
+          "category": "scooters-automaticas"
+        },
+        "Um ranking esconderia o essencial. A scooter com mais folga pode ser precisamente a que a sua carta não permite conduzir. A mais compacta pode ficar curta para duas pessoas. E um preço de referência menor não compensa se a mota não servir o seu percurso.",
+        "É por isso que a ordem dos critérios importa. Os dois primeiros eliminam, os dois seguintes escolhem o porte e o último decide entre o que sobra."
+      ]
+    },
+    {
+      "h2": "Critério 1: o que a sua carta permite conduzir",
+      "body": [
+        "Este critério é eliminatório. Desde 1 de janeiro de 2025, a lei vietnamita exige a categoria A1 para motociclos de duas rodas até 125 cm³ e a categoria A acima desse limite. Como visitante, conduz com a carta do seu país e a licença internacional, que só incluem as categorias que já tem.",
+        {
+          "ul": [
+            "**A sua carta só cobre motociclos até 125 cm³**: Vision, Air Blade 125 e Click até 125 cm³. A Air Blade 160 e a Click 160 ficam de fora.",
+            "**Tem uma categoria que cobre motociclos acima de 125 cm³**: pode considerar qualquer scooter da loja.",
+            "**Não tem nenhuma categoria de motociclos**: nenhuma scooter é opção. Não alugue para conduzir e desloque-se de outra forma."
+          ]
+        },
+        "O nome do modelo não basta para saber em que lado da fronteira fica a mota. A Air Blade é vendida no Vietname em versões de 125 e de 160 cm³, e o nome Click cobre gerações de cerca de 110 a 160 cm³; na Yamaha Mio, a cilindrada também se confirma com a loja. Peça-a por escrito para a unidade concreta.",
+        "O guia [cilindrada e carta A1](/tipos-de-motas/cilindrada-e-carta-a1/) explica como ler a sua carta e o registo da mota, e o de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/) diz o que levar como visitante."
+      ]
+    },
+    {
+      "h2": "Critério 2: a experiência que traz",
+      "body": [
+        "Depois da carta, a prática. Uma categoria na carta não diz quantos quilómetros fez nem em que trânsito, e é isso que separa uma scooter confortável de uma scooter que o cansa ou o assusta.",
+        {
+          "ul": [
+            "**Nunca conduziu uma mota**: nenhuma scooter é a certa, porque o trânsito de Hanói não é sítio para aprender. O guia [quando é melhor não conduzir](/rotas-e-mobilidade/quando-nao-conduzir/) mostra as alternativas.",
+            "**Conduz scooters pequenas, mas nunca uma de maior porte**: comece por uma compacta e leve, como a Vision, a Click ou a Mio.",
+            "**Conduz motas com mudanças**: as scooters continuam a ser a opção mais simples no pára-arranca, mas uma semiautomática também está ao seu alcance; o guia [scooter ou semiautomática](/tipos-de-motas/scooter-ou-semiautomatica/) ajuda a decidir.",
+            "**Conduz com regularidade, também com passageiro**: a experiência deixa de limitar a escolha, e decidem os critérios seguintes."
+          ]
+        },
+        "Seja qual for o seu caso, faça os primeiros quilómetros num percurso calmo, para conhecer os travões e a largura da mota antes de entrar nas avenidas."
+      ]
+    },
+    {
+      "h2": "Critério 3: quem e o que vai na mota",
+      "body": [
+        "Um segundo adulto e a bagagem mudam a forma como uma scooter arranca, trava e curva. Entre os modelos da loja, as diferenças são estas:",
+        {
+          "table": {
+            "caption": "Passageiro e carga: o que esperar de cada scooter",
+            "head": [
+              "Modelo",
+              "Com um passageiro",
+              "Arrumação"
+            ],
+            "rows": [
+              [
+                "Honda Air Blade",
+                "A que dá mais folga, sobretudo na versão de 160 cm³",
+                "23,2 litros debaixo do assento, segundo a Honda"
+              ],
+              [
+                "Honda Vision",
+                "Serve na cidade, com arranques mais lentos e travagens mais longas",
+                "Compartimento para objetos pequenos"
+              ],
+              [
+                "Honda Click",
+                "Leva um adulto atrás, mas com pouca margem",
+                "Varia com a geração: experimente antes"
+              ],
+              [
+                "Yamaha Mio",
+                "Pergunte à loja como se comporta a dois",
+                "Confirme com a loja"
+              ]
+            ]
+          }
+        },
+        "Há uma regra que vale para todas: no Vietname, a regra geral é um passageiro por mota, com capacete apertado para quem conduz e para quem vai atrás. Se viajam a dois numa só mota, o guia da [scooter para duas pessoas](/tipos-de-motas/scooter-para-duas-pessoas/) trata da escolha e das regras em pormenor. Se viajam três ou mais, pondere várias motas ou um táxi para parte do grupo.",
+        "Na bagagem, conte só com o essencial: o compartimento debaixo do assento leva a capa de chuva e pouco mais, e as malas grandes seguem melhor de táxi."
+      ]
+    },
+    {
+      "h2": "Critério 4: por onde vai circular",
+      "body": [
+        "O mesmo condutor pode precisar de scooters diferentes conforme o percurso que faz na maior parte dos dias:",
+        {
+          "ul": [
+            "**Centro histórico e Bairro Antigo**: ruas estreitas e paragens constantes favorecem uma scooter compacta. O guia sobre [conduzir no Bairro Antigo](/zonas-de-hanoi/conduzir-no-bairro-antigo/) junta as regras locais.",
+            "**Pontes sobre o rio Vermelho**: rampas compridas e vento lateral pedem folga, sobretudo a dois, e a Air Blade é a candidata natural. A loja fica em {{area}}, na margem leste do rio Vermelho: para ir ao centro, é preciso atravessá-lo.",
+            "**Avenidas largas e saídas da cidade**: mais potência ajuda a acompanhar o ritmo do trânsito. Antes de sair de Hanói, combine-o com a loja; o guia sobre [levar a mota para fora de Hanói](/guia-de-aluguer/autorizacao-para-sair-de-hanoi/) diz o que confirmar.",
+            "**Trajetos curtos entre o alojamento e alguns pontos de interesse**: qualquer scooter serve, e pesam mais o preço e a facilidade de estacionar."
+          ]
+        },
+        "Se a scooter for para a rotina de trabalho de várias semanas, e não para uma viagem, os critérios mudam de peso: o conforto ao fim de dias repetidos, o consumo e o estacionamento passam à frente. Sobre o conforto, o guia de [postura e conforto numa scooter](/tipos-de-motas/postura-e-conforto/) explica como aguentar horas ao guiador. O guia da [scooter para o dia a dia](/tipos-de-motas/scooter-para-o-dia-a-dia/) trata desse caso."
+      ]
+    },
+    {
+      "h2": "Critério 5: quantos dias e quanto quer gastar",
+      "body": [
+        "Só agora entra o preço, já com os critérios anteriores resolvidos. Na tabela de referência da loja, verificada a {{pricing.verifiedAt}}:",
+        {
+          "ul": [
+            "ao dia, a Click custa {{price.click.day}}, {{cmp.click.vision.day}} a Vision, e a Mio custa {{cmp.mio.click.day}} a Click;",
+            "ao dia, a Air Blade custa {{price.airblade.day}}, {{cmp.airblade.vision.day}} a Vision;",
+            "ao mês, a Air Blade custa {{price.airblade.month}}, {{cmp.airblade.vision.month}} a Vision ({{price.vision.month}}); a Click custa {{price.click.month}}, {{cmp.click.airblade.month}} a Air Blade."
+          ]
+        },
+        "Para alugueres de alguns dias, a tarifa semanal pode compensar. A comparação seguinte, calculada a partir da tabela, mostra para cada modelo a partir de quantos dias isso acontece:",
+        {
+          "component": "duration-compare"
+        },
+        "Para um mês, a comparação entre a Vision e a Click tem um guia próprio: [Vision ou Click no aluguer mensal](/precos/vision-ou-click-no-aluguer-mensal/). As tarifas de todos os modelos estão na [tabela de preços](/precos/), e a caução, a entrega e os extras confirmam-se à parte com a loja."
+      ]
+    },
+    {
+      "h2": "Matriz de decisão: do perfil à scooter",
+      "body": [
+        "Juntando os cinco critérios, estes são os perfis mais comuns e o ponto de partida para cada um:",
+        {
+          "table": {
+            "caption": "Que scooter considerar conforme o perfil",
+            "head": [
+              "Perfil",
+              "Critério que decide",
+              "Scooters a considerar",
+              "Guia para aprofundar"
+            ],
+            "rows": [
+              [
+                "Sozinho, poucos dias, sobretudo na cidade",
+                "Percurso e orçamento",
+                "Vision, Click ou Mio",
+                "[Honda Vision](/tipos-de-motas/honda-vision-em-hanoi/)"
+              ],
+              [
+                "A dois, com pontes no caminho",
+                "Passageiro e percurso",
+                "Air Blade (a 125, se a carta só cobrir a A1)",
+                "[Air Blade 125 ou 160](/tipos-de-motas/honda-air-blade-125-ou-160/)"
+              ],
+              [
+                "Carta que só cobre até 125 cm³",
+                "Carta",
+                "Vision, Air Blade 125 ou Click até 125 cm³",
+                "[Categorias A1 e A](/guia-de-aluguer/categorias-a1-e-a/)"
+              ],
+              [
+                "A solo e com o orçamento em primeiro lugar",
+                "Preço",
+                "Click ou Mio (ao dia, custam {{cmp.click.vision.day}} a Vision)",
+                "[Honda Click](/tipos-de-motas/honda-click-em-hanoi/)"
+              ],
+              [
+                "Estadia de um mês",
+                "Duração e estado da unidade",
+                "Vision ou Click; Air Blade se houver passageiro frequente",
+                "[Aluguer mensal](/precos/aluguer-mensal-de-mota/)"
+              ],
+              [
+                "Um só dia de passeio",
+                "Experiência",
+                "O tipo de mota que já conduz com à-vontade",
+                "[Aluguer por um dia](/precos/aluguer-de-mota-por-um-dia/)"
+              ],
+              [
+                "Nunca conduziu uma mota",
+                "Experiência",
+                "Nenhuma: use as alternativas",
+                "[Quando não conduzir](/rotas-e-mobilidade/quando-nao-conduzir/)"
+              ]
+            ]
+          }
+        },
+        "Se o seu perfil não está na tabela, volte à ordem dos critérios: a carta e a experiência eliminam, o passageiro e o percurso escolhem o porte, e o preço decide entre as opções que sobram. Se a dúvida final for entre a [Honda Vision](/tipos-de-motas/honda-vision-em-hanoi/) e a Air Blade, os guias de cada modelo mostram o que esperar de cada uma no aluguer."
+      ]
+    },
+    {
+      "h2": "O que pesa menos do que parece",
+      "body": [
+        "Algumas diferenças chamam a atenção na loja, mas pouco mudam no trânsito de Hanói:",
+        {
+          "ul": [
+            "**A potência máxima**: no pára-arranca da cidade, quase não se usa. Conta nas pontes, a dois e nas avenidas, e esses casos já entraram nos critérios 3 e 4.",
+            "**A chave inteligente e o ecrã do painel**: são cómodos, mas variam com a versão e o ano. Não decida por eles sem confirmar que a unidade proposta os tem.",
+            "**A cor e o aspeto**: não pesam na segurança nem no conforto.",
+            "**O nome do modelo, por si só**: duas unidades com o mesmo nome podem ter cilindradas diferentes."
+          ]
+        },
+        "Pesa mais, pelo contrário, o estado da unidade concreta: pneus, travões, luzes e ano de fabrico. Uma scooter bem cuidada do segundo modelo da sua lista serve melhor do que uma unidade cansada do primeiro. A lista de [perguntas a fazer antes de alugar](/guia-de-aluguer/perguntas-antes-de-alugar/) ajuda a obter essa informação antes de reservar."
+      ]
+    },
+    {
+      "h2": "Levar a decisão à loja",
+      "body": [
+        "Com os critérios resolvidos, a mensagem para a loja fica curta e completa:",
+        {
+          "checklist": [
+            "a categoria de motociclos que consta da sua carta;",
+            "a sua experiência com scooters e se vai levar passageiro;",
+            "o percurso principal e se pensa sair de Hanói;",
+            "as datas de levantamento e de devolução;",
+            "o modelo preferido e uma alternativa, caso não esteja livre;",
+            "a cilindrada e o ano da unidade proposta, por escrito, com o preço total."
+          ]
+        },
+        "Pode enviar o pedido pelo {{phone}}, por chamada ou Zalo, ou usar os outros dados da página de [contactos](/contactos/). A loja está aberta {{hours}}."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Uma scooter mais potente é mais segura?",
+      "a": "Não por si só. A potência dá folga a dois e nas rampas das pontes, mas no trânsito de Hanói a segurança depende mais da atenção, da distância ao veículo da frente e da prática de quem conduz. Se nunca conduziu uma scooter de maior porte, comece por uma mais leve."
+    },
+    {
+      "q": "Posso escolher o modelo só quando chegar à loja?",
+      "a": "Pode, mas arrisca não encontrar livre o modelo que procura ou a versão compatível com a sua carta. Indique o modelo e a cilindrada pretendida ao reservar e peça uma alternativa por escrito."
+    },
+    {
+      "q": "A Click ou a Mio servem para circular na cidade?",
+      "a": "Para deslocações urbanas a solo, sim: são compactas e fáceis de manobrar em ruas estreitas. Com passageiro ou bagagem volumosa, a margem fica curta, e convém comparar com a Vision ou com a Air Blade."
+    },
+    {
+      "q": "E se a scooter escolhida não servir ao fim de alguns dias?",
+      "a": "Fale com a loja e pergunte se pode trocá-la por outro modelo e como se acerta a diferença de preço. O guia sobre [trocar de mota](/guia-de-aluguer/trocar-de-mota/) mostra como fazer o pedido e o que verificar na mota nova."
+    }
+  ],
+  "sources": [
+    "tabela-precos-proprietario",
+    {
+      "title": "Air Blade 160",
+      "publisher": "Honda Việt Nam",
+      "url": "https://www.honda.com.vn/xe-may/san-pham/air-blade-160125?category=2",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    "chotot-air-blade-125-160",
+    {
+      "title": "Bảng giá xe Honda Vision mới nhất tháng 9/2026",
+      "publisher": "CafeF",
+      "url": "https://cafef.vn/bang-gia-xe-honda-vision-moi-nhat-thang-9-2026-188260909071440813.chn",
+      "accessed": "2026-10-12",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "A.P. Honda Co., Ltd. to Release New Click 125i (125-cc scooter) in Thailand",
+      "publisher": "Honda Motor Co., Ltd.",
+      "url": "https://global.honda/en/newsroom/worldnews/2012/2120110New-Click-125i-Thailand.html",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "en"
+    },
+    {
+      "title": "Honda Click 160 2026 ra mắt, giá khoảng 55 triệu đồng",
+      "publisher": "Thương hiệu và Công luận",
+      "url": "https://thuonghieucongluan.com.vn/honda-click-160-2026-ra-mat-gia-tu-55-trieu-dong-a329531.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    "lei-36-2024-a1",
+    "lawnet-categorias-2025",
+    "lawnet-passageiros-2025",
+    "lawnet-capacete-168"
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "READY_FOR_QA",
+  "revision": {
+    "reason": "Ligações internas para artigos publicados depois"
+  }
+}

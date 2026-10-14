@@ -1,0 +1,298 @@
+{
+  "contract_version": 1,
+  "id": "PT-0243",
+  "slug": "volta-ao-lago-oeste",
+  "title": "Volta ao Lago Oeste de mota: percurso, paragens e estacionamento",
+  "description": "Como dar a volta ao Lago Oeste de Hanói de mota: ruas, distância, paragens com morada, estacionamento e as épocas em que o trânsito aperta.",
+  "h1": "Dar a volta ao Lago Oeste de mota: as ruas, as paragens e quando evitar",
+  "summary": "A volta ao Lago Oeste (Hồ Tây) de mota segue as ruas que contornam a água, entre elas a Thanh Niên, a Âu Cơ e a Lạc Long Quân, e mede cerca de 15 a 20 km, conforme o traçado. Faz-se com paragens no pagode Trấn Quốc e no templo Phủ Tây Hồ, estacionando uma vez em cada, e o trânsito aperta sobretudo nas semanas antes do Tết.",
+  "key_points": [
+    "A volta tem cerca de 15 a 20 km: as fontes divergem entre 14,8 e 20 km, conforme as ruas escolhidas.",
+    "Segundo os guias de viagem, as ruas que contornam o lago são a Thanh Niên, a Thụy Khuê, a Âu Cơ, a Nghi Tàm e a Lạc Long Quân.",
+    "Paragens com morada: pagode Trấn Quốc (46 Thanh Niên), templo Phủ Tây Hồ (52 Đặng Thai Mai) e mercado de flores de Quảng An (236 Âu Cơ).",
+    "Há mais gente nos templos no 1.º e no 15.º dia de cada mês lunar, e a Âu Cơ fica congestionada nas vésperas do Tết, que em 2027 cai a 6 de fevereiro.",
+    "As fontes não indicam horas de menos trânsito: o artigo diz o que se sabe e o que deve confirmar no local.",
+    "Estacione uma vez por local e pergunte o preço antes: os guias citam 5 a 10 mil VND no Phủ Tây Hồ e estacionamento gratuito no pagode."
+  ],
+  "intro": [
+    "O Lago Oeste (Hồ Tây, em vietnamita) é o grande lago do norte de Hanói, com cerca de 500 hectares segundo os guias de viagem; algumas fontes falam em mais de 526. Dar a volta de mota é um passeio natural para quem quer ver a cidade fora do Bairro Antigo: uma estrada junto à água, templos, cafés e mercados que mudam com a hora e com a época do ano.",
+    "Este guia descreve o percurso, as paragens com morada e as alturas em que a volta se complica. Os números, como distâncias, horários e preços de estacionamento, vêm de guias de viagem e da imprensa vietnamita consultados a 13 de outubro de 2026 e nem sempre coincidem, por isso aparecem como intervalos. Para encaixar o lago num dia mais completo, veja o [itinerário de Hanói de mota num dia](/rotas-e-mobilidade/hanoi-de-mota-num-dia/); as restantes zonas da cidade estão em [Zonas de Hanói](/zonas-de-hanoi/)."
+  ],
+  "sections": [
+    {
+      "h2": "O percurso: ruas, distância e sentido da volta",
+      "body": [
+        "Segundo os guias de viagem, a estrada que contorna o lago passa pelas ruas Thanh Niên, Thụy Khuê, Âu Cơ, Nghi Tàm e Lạc Long Quân. Não é um circuito fechado ao trânsito: são ruas normais da cidade, com semáforos, cruzamentos, peões, esplanadas e todo o tipo de veículos, e devem ser conduzidas como tal.",
+        "Quanto mede a volta? As fontes não coincidem e apontam cerca de 20 km, 18 km, 17 km ou 14,8 km. Em termos práticos, conte com **cerca de 15 a 20 km**, conforme as ruas que escolher e o ponto onde fechar o circuito. A estrada não é o que mais demora: o tempo vai-se nas paragens e no trânsito.",
+        {
+          "h3": "Que sentido escolher"
+        },
+        "Em Hanói conduz-se pela direita. Se fizer a volta no sentido dos ponteiros do relógio, o lago fica sempre à sua direita e, em regra, as entradas do lado da água ficam também à direita, sem obrigar a cortar o trânsito contrário. É uma questão de conforto e não uma regra: confirme no mapa se algum troço tem sentido único ou desvios e siga sempre a sinalização.",
+        {
+          "h3": "Como chegar a partir de Long Biên"
+        },
+        "A partir de {{area}}, o caminho mais direto atravessa a ponte Long Biên e segue o dique do rio Vermelho pela rua Yên Phụ, o mesmo eixo que o itinerário de um dia usa no regresso. Se a ponte estiver fechada, use a ponte Chương Dương; o estado da Long Biên e a alternativa estão no guia da [ponte Long Biên de mota](/zonas-de-hanoi/ponte-long-bien/). A preparação da primeira saída, do lado de Long Biên, está em [alugar mota em Long Biên](/zonas-de-hanoi/aluguer-de-motas-em-long-bien/)."
+      ]
+    },
+    {
+      "h2": "Paragens ao longo da volta",
+      "body": [
+        "A tabela reúne os pontos mais citados pelos guias, com a morada e o que as fontes dizem sobre horário e estacionamento. São guias comerciais e não avisos oficiais dos locais, e em vários pontos divergem entre si: use os valores como referência e confirme à porta.",
+        {
+          "table": {
+            "caption": "Paragens citadas pelos guias, com horário e estacionamento (consulta de 13 de outubro de 2026)",
+            "head": [
+              "Paragem",
+              "Morada",
+              "Horário segundo os guias",
+              "Estacionamento segundo os guias"
+            ],
+            "rows": [
+              [
+                "Pagode Trấn Quốc",
+                "46 Thanh Niên",
+                "08:00–16:00 todos os dias; 06:00–18:00 no 1.º e no 15.º dia lunar",
+                "Gratuito, segundo uma só fonte"
+              ],
+              [
+                "Templo Phủ Tây Hồ",
+                "52 Đặng Thai Mai",
+                "05:00–19:00 todos os dias",
+                "5 a 10 mil VND por vez, ou 5 mil num parque à porta, conforme a fonte"
+              ],
+              [
+                "Mercado de flores de Quảng An",
+                "236 Âu Cơ",
+                "Noturno: abre entre as 22:00 e as 23:00 e fecha entre as 04:00 e as 05:00, conforme a fonte",
+                "Sem dados"
+              ],
+              [
+                "Lago Trúc Bạch",
+                "Do outro lado da Thanh Niên",
+                "Não se aplica: é um lago",
+                "Sem dados"
+              ]
+            ]
+          }
+        },
+        {
+          "h3": "Pagode Trấn Quốc, na Thanh Niên"
+        },
+        "A Thanh Niên é a estrada que passa entre o lago Trúc Bạch e o Lago Oeste, e o pagode fica do lado do Lago Oeste. Segundo os guias, abre das 08:00 às 16:00 todos os dias, das 06:00 às 18:00 no 1.º e no 15.º dia do mês lunar e toda a noite na passagem do ano lunar. A entrada é gratuita segundo uma fonte e custa 5 mil VND segundo outra. Não encontrámos nenhuma regra de vestuário publicada; num templo, a roupa discreta é a escolha prudente.",
+        {
+          "h3": "Templo Phủ Tây Hồ, na rua Đặng Thai Mai"
+        },
+        "O templo abre das 05:00 às 19:00 todos os dias, segundo os guias, e enche-se no Tết e no 1.º e no 15.º dia de cada mês lunar. É também o local para o qual os guias dão valores concretos de estacionamento: 5 a 10 mil VND por vez, ou 5 mil VND num parque mesmo à porta. Como as fontes divergem, pergunte o preço antes de deixar a mota.",
+        {
+          "h3": "Mercado de flores de Quảng An, na Âu Cơ"
+        },
+        "O mercado, no número 236 da Âu Cơ, também é conhecido como mercado de flores de Quảng Bá. É um mercado noturno: as fontes dão aberturas entre as 22:00 e as 23:00 e fechos entre as 04:00 e as 05:00, e dizem que o período mais movimentado vai das 02:00 às 04:00. Quem faz a volta de dia não o vê em atividade.",
+        {
+          "h3": "Só um troço: a Thanh Niên"
+        },
+        "Se não quiser dar a volta completa, a Thanh Niên é uma opção curta: tem água dos dois lados, o pagode Trấn Quốc e, do outro lado da estrada, o lago Trúc Bạch. Pode percorrê-la e voltar para onde veio."
+      ]
+    },
+    {
+      "h2": "Quando fazer a volta: horas, calendário lunar, Tết e tempo",
+      "body": [
+        {
+          "h3": "As horas de menos trânsito: o que não conseguimos confirmar"
+        },
+        "Nenhuma das fontes consultadas diz a que horas o trânsito à volta do lago é mais calmo, e por isso não propomos uma «hora ideal». Como referência prudente, a cidade usa no centro as janelas de ponta das 06:00 às 09:00 e das 16:00 às 19:30 para limitar os autocarros grandes na zona 2 de Hoàn Kiếm, como se explica no guia da [zona de baixas emissões](/tipos-de-motas/zona-de-baixas-emissoes-hanoi/). Não são horários do Lago Oeste, mas mostram quando se espera mais movimento. Se tem flexibilidade, evite-as e observe o trânsito nos primeiros quilómetros antes de decidir se faz a volta completa.",
+        {
+          "h3": "O 1.º e o 15.º dia do mês lunar"
+        },
+        "No 1.º e no 15.º dia de cada mês lunar há grande afluência no templo Phủ Tây Hồ e no pagode Trấn Quốc, que nesses dias alarga o horário. As datas mudam todos os meses no calendário gregoriano, por isso consulte um calendário lunar vietnamita antes de marcar o passeio. Nesses dias, conte com mais gente à volta dos templos.",
+        {
+          "h3": "As semanas antes do Tết"
+        },
+        "É a época mais difícil. Uma notícia sem data visível descreve a Âu Cơ congestionada durante todo o dia nas vésperas do Tết; é a via principal para as aldeias de flores de Nhật Tân, Phú Thượng e Tứ Liên. Segundo a imprensa vietnamita, nas semanas anteriores o eixo Nghi Tàm, Âu Cơ e Lạc Long Quân transforma-se num enorme mercado de flores, e na Lạc Long Quân há um mercado de pessegueiros descrito como o maior de Hanói, com cerca de 2 km.",
+        "O Tết de 2027 começa a sábado, 6 de fevereiro de 2027, segundo as fontes consultadas, que concordam nesta data. Se viaja nessas semanas, não conte com uma volta fluida: deixe a mota num parque e visite os mercados a pé.",
+        {
+          "h3": "Chuva e trovoada"
+        },
+        "Em Hanói, agosto é o mês mais chuvoso, com uma média de cerca de 226 mm segundo o WeatherSpark. Se uma trovoada o apanhar à volta do lago, as fontes aconselham procurar abrigo dentro de um edifício e afastar-se de árvores altas, de terreno aberto e de massas de água. Esperar num café é melhor do que continuar à beira do lago."
+      ]
+    },
+    {
+      "h2": "Estacionar à volta do lago",
+      "body": [
+        "Não encontrámos nenhuma tabela oficial de preços de estacionamento para a zona do lago. A regra prática é perguntar o preço antes de deixar a mota, escolher um parque com funcionário (em vietnamita, «gửi xe» ou «trông giữ xe») e guardar o talão.",
+        "Os valores de referência dos guias são poucos e divergem: no templo Phủ Tây Hồ, 5 a 10 mil VND por vez, ou 5 mil VND num parque junto à porta; no pagode Trấn Quốc, estacionamento gratuito, segundo uma só fonte. Se o preço pedido for muito diferente, procure outro parque em vez de discutir.",
+        "Pare por locais e não por fotografias: uma paragem na berma, mesmo curta, atrapalha quem vem atrás e é onde mais se arrisca. As regras gerais para escolher parques e evitar passeios estão na secção sobre estacionar do [itinerário de Hanói de mota num dia](/rotas-e-mobilidade/hanoi-de-mota-num-dia/). Para quem fica semanas na zona, o guia sobre [Tây Hồ para quem vive em Hanói](/zonas-de-hanoi/tay-ho-para-quem-vive-em-hanoi/) trata do estacionamento e das ruas no dia a dia."
+      ]
+    },
+    {
+      "h2": "Segurança e regras durante a volta",
+      "body": [
+        "A volta é uma estrada urbana com muito movimento de peões, ciclistas e esplanadas, o que pesa mais do que a distância. Os pontos que mais fazem diferença:",
+        {
+          "ul": [
+            "**Capacete bem apertado**, para quem conduz e para o passageiro. A coima por não o usar vai de 400 a 600 mil VND, segundo o Decreto 168/2024/NĐ-CP.",
+            "**Passeio fora de questão**: subir ao passeio para fugir à fila custa 4 a 6 milhões de VND, segundo um portal jurídico oficial de Cần Thơ.",
+            "**Álcool zero**: a lei, em vigor desde 1 de janeiro de 2025, não admite qualquer concentração de álcool a quem conduz. Se parar num café junto à água, a bebida é sem álcool até chegar à loja.",
+            "**Telemóvel guardado**: consulte o mapa com a mota parada; o guia sobre [telemóvel e GPS na scooter](/tipos-de-motas/telemovel-e-gps-na-scooter/) explica como o fazer dentro da lei.",
+            "**Documentos consigo**: o guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/) separa o que conta para alugar do que conta para conduzir."
+          ]
+        },
+        "Para o resumo das infrações em que os visitantes mais caem, veja [como evitar multas de trânsito em Hanói](/guia-de-aluguer/como-evitar-multas/)."
+      ]
+    },
+    {
+      "h2": "A mota certa e o que confirmar antes de sair",
+      "body": [
+        "Para um circuito com várias paragens e arranques, uma [scooter automática](/tipos-de-motas/scooters/) é a escolha mais simples, porque dispensa as mudanças e deixa as mãos livres para o trânsito. A tabela de referência da loja mostra preços a partir de {{price.min.day}} por dia, verificados a {{pricing.verifiedAt}}; o guia do [aluguer de mota por um dia](/precos/aluguer-de-mota-por-um-dia/) explica o que confirmar antes de levantar a mota.",
+        "Antes de sair, confirme três coisas: se o pagode e o templo estão abertos à hora a que lá chega, se o dia coincide com o 1.º ou o 15.º dia lunar e se a previsão do tempo aguenta o passeio. Para falar com a loja, use a página de [contactos](/contactos/)."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Quantos quilómetros tem a volta ao Lago Oeste de mota?",
+      "a": "Cerca de 15 a 20 km, conforme as ruas escolhidas. Os guias de viagem consultados indicam valores entre 14,8 e 20 km, sem coincidirem. Para saber a distância exata do seu percurso, trace-o num mapa antes de sair."
+    },
+    {
+      "q": "Posso deixar a mota à porta do pagode Trấn Quốc?",
+      "a": "Uma fonte indica estacionamento gratuito no pagode, mas é fonte única e pode estar desatualizada. Procure um parque com funcionário, pergunte se aceita motas e qual é o preço, e guarde o talão."
+    },
+    {
+      "q": "A zona de baixas emissões afeta a volta ao lago?",
+      "a": "Segundo o guia da zona de baixas emissões, a primeira fase, de 1 de julho a 31 de dezembro de 2026, decorre em Hoàn Kiếm: a restrição às motas aplica-se à zona 1, de sexta a domingo, das 19:00 às 24:00. Para 2027 está prevista uma segunda fase numa área maior, por isso confirme as regras se viajar mais tarde."
+    },
+    {
+      "q": "E se começar a chover durante a volta?",
+      "a": "Com chuva forte ou trovoada, pare e abrigue-se num edifício, de preferência longe da beira do lago e de árvores altas. Em Hanói, agosto é o mês mais chuvoso; nesses dias, encurte o passeio e deixe a volta completa para outro dia."
+    },
+    {
+      "q": "Qual é a melhor hora para fazer a volta?",
+      "a": "As fontes consultadas não indicam a hora de menos trânsito à volta do lago, e não vamos inventá-la. Evite as horas de ponta do centro e as semanas antes do Tết, e observe o trânsito nos primeiros quilómetros antes de seguir."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Guia do Lago Oeste (Hồ Tây) em Hanói (em vietnamita)",
+      "publisher": "Vinpearl",
+      "url": "https://vinpearl.com/vi/ho-tay-ha-noi",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Artigo sobre os quilómetros da volta ao Lago Oeste (em vietnamita)",
+      "publisher": "Xanh SM (GSM)",
+      "url": "https://www.greensm.com/vn-vi/news/1-vong-ho-tay-bao-nhieu-km",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Visita ao pagode Trấn Quốc, junto ao Lago Oeste (em vietnamita)",
+      "publisher": "MIA.vn",
+      "url": "https://mia.vn/cam-nang-du-lich/tham-quan-chua-tran-quoc-co-tu-ngan-nam-tuoi-ben-ho-tay-2644",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Guia do pagode Trấn Quốc, em Hanói (em vietnamita)",
+      "publisher": "Vinpearl",
+      "url": "https://vinpearl.com/vi/chua-tran-quoc-ha-noi",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Guia do templo Phủ Tây Hồ (em vietnamita)",
+      "publisher": "MIA.vn",
+      "url": "https://mia.vn/cam-nang-du-lich/phu-tay-ho-13093",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Guia do templo Phủ Tây Hồ, em Hanói (em vietnamita)",
+      "publisher": "Vinpearl",
+      "url": "https://vinpearl.com/vi/phu-tay-ho-ha-noi",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Guia do mercado de flores de Quảng An (em vietnamita)",
+      "publisher": "MIA.vn",
+      "url": "https://mia.vn/cam-nang-du-lich/cho-hoa-quang-an-au-co-19960",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Đường phố Hà Nội kẹt cứng ngày giáp Tết",
+      "publisher": "Báo Mới",
+      "url": "https://baomoi.com/duong-pho-ha-noi-ket-cung-ngay-giap-tet-c41618164.epi",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "5 chợ Tết nổi tiếng",
+      "publisher": "VnExpress",
+      "url": "https://vnexpress.net/5-cho-tet-noi-tieng-4039746.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Tết âm lịch 2027 là ngày mấy dương lịch?",
+      "publisher": "Thư Viện Pháp Luật",
+      "url": "https://thuvienphapluat.vn/hoi-dap-phap-luat/tet-am-lich-2027-la-ngay-may-duong-lich-138050948.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "Clima médio em Hanói ao longo do ano (WeatherSpark)",
+      "publisher": "WeatherSpark",
+      "url": "https://weatherspark.com/y/116009/Average-Weather-in-Hanoi-Vietnam-Year-Round",
+      "accessed": "2026-10-13",
+      "type": "reference",
+      "lang": "en"
+    },
+    {
+      "title": "Đang đi đường Hà Nội gặp mưa dông, người dân cần làm gì để tránh sét đánh?",
+      "publisher": "Báo Pháp Luật Việt Nam",
+      "url": "https://baophapluat.vn/dang-di-duong-ha-noi-gap-mua-dong-nguoi-dan-can-lam-gi-de-tranh-set-danh-post413187.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Hanoi rolls out inner-city traffic plan to support low-emission zone pilot",
+      "publisher": "VietnamPlus — Vietnam News Agency (VNA)",
+      "url": "https://en.vietnamplus.vn/hanoi-rolls-out-inner-city-traffic-plan-to-support-low-emission-zone-pilot-post347526.vnp",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "en"
+    },
+    "vietnamnet-zbe-revisao",
+    "lawnet-capacete-168",
+    "tuoitre-alcool-zero",
+    {
+      "title": "Điều khiển xe máy vượt đèn đỏ, đi trên vỉa hè bị phạt từ 4-6 triệu đồng",
+      "publisher": "Portal de divulgação jurídica da cidade de Cần Thơ (pbgdpl.cantho.gov.vn)",
+      "url": "https://pbgdpl.cantho.gov.vn/dieu-khien-xe-may-vuot-den-do-di-tren-via-he-bi-phat-tu-4-6-trieu-dong",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "vi"
+    }
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "READY_FOR_QA",
+  "revision": {
+    "reason": "Ligações internas para artigos publicados depois"
+  }
+}

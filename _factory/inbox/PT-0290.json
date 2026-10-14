@@ -1,0 +1,232 @@
+{
+  "contract_version": 1,
+  "id": "PT-0290",
+  "slug": "taxis-em-hanoi",
+  "title": "Como apanhar táxi em Hanói: aplicação, empresa ou rua",
+  "description": "Aplicações, empresas e praças de táxis em Hanói: como pedir, o que se sabe do preço, os angariadores do aeroporto e o que verificar antes de entrar no carro.",
+  "h1": "Táxis em Hanói: pedir pela aplicação, chamar uma empresa e evitar abusos no aeroporto",
+  "summary": "Em Hanói apanha-se um táxi pela aplicação (Grab, Xanh SM), chamando uma empresa como a Mai Linh ou numa praça de táxis. Nas aplicações o preço aparece antes da viagem. No aeroporto de Nội Bài, angariadores pedem duas a três vezes o preço, e as fontes não trazem tarifas por quilómetro nem regras do taxímetro.",
+  "key_points": [
+    "Há três maneiras de apanhar um táxi em Hanói: pela aplicação, chamando uma empresa ou numa praça de táxis.",
+    "Segundo um guia de transportes atualizado em setembro de 2026, com a Grab ou a Xanh SM o preço fica fechado na aplicação antes de a viagem começar.",
+    "A Xanh SM usa apenas carros elétricos VinFast; a Mai Linh, uma das empresas que servem o aeroporto, tem a linha nacional 1055.",
+    "Do aeroporto de Nội Bài ao centro, a referência é de cerca de 250 mil VND; os angariadores à saída pedem duas a três vezes mais.",
+    "Não encontrámos tarifas por quilómetro de 2026 nem regras do taxímetro: os conselhos deste guia são de bom senso, não regras confirmadas."
+  ],
+  "intro": [
+    "Um táxi resolve o que a mota alugada não resolve: malas, chuva forte, uma noite com bebidas ou o primeiro dia depois de um voo longo. Mas quem não fala vietnamita tem de decidir como o pedir, e é aí que aparecem os abusos mais falados.",
+    "Este guia explica as três maneiras de apanhar um táxi em Hanói, o que as fontes consultadas a 13 de outubro de 2026 dizem sobre o preço e o aeroporto, e que verificações fazer antes de entrar. Onde as fontes são mudas, dizemo-lo."
+  ],
+  "sections": [
+    {
+      "h2": "Três maneiras de apanhar um táxi em Hanói",
+      "body": [
+        "A escolha depende de onde está, da hora e de quanto quer saber do preço antes de arrancar. A tabela resume o que as fontes dizem de cada maneira.",
+        {
+          "table": {
+            "caption": "Como apanhar um táxi em Hanói e o que se sabe de cada maneira",
+            "head": [
+              "Maneira",
+              "Como funciona",
+              "O que as fontes dizem"
+            ],
+            "rows": [
+              [
+                "Aplicação",
+                "Escolhe o destino no telemóvel, vê o preço e espera pelo carro",
+                "Grab e Xanh SM; o preço fica fechado antes da viagem, segundo um guia de setembro de 2026"
+              ],
+              [
+                "Chamar uma empresa",
+                "Telefone, ou pedido feito pelo alojamento ou pelo restaurante",
+                "Mai Linh (linha 1055), G7, Thăng Long e Thành Công, entre outras, nas listas do aeroporto"
+              ],
+              [
+                "Praça de táxis ou rua",
+                "Sobe para o carro disponível",
+                "Há praça oficial em Nội Bài; as fontes não descrevem regras de taxímetro nem tarifas de 2026"
+              ]
+            ]
+          }
+        },
+        "Para quem não fala vietnamita, a aplicação é a mais simples: o destino fica escrito e o preço à vista. As outras duas funcionam, mas obrigam a explicar o trajeto e a confiar no que o condutor disser."
+      ]
+    },
+    {
+      "h2": "Pela aplicação: o preço fica à vista antes de entrar",
+      "body": [
+        "Segundo um guia de transportes atualizado em setembro de 2026, com a Grab ou a Xanh SM o preço fica fechado na aplicação antes de a viagem começar. É a razão principal para a preferir no aeroporto e em qualquer momento em que não saiba quanto deve custar o trajeto.",
+        "A Xanh SM usa apenas carros elétricos VinFast, segundo as fontes consultadas. Um estudo da Q&Me, de setembro de 2025, comparou viagens de carro no Vietname e concluiu que a Xanh SM saiu mais barata do que a Grab em 60% delas. Os preços mudam com a hora e com a procura, por isso o estudo não substitui uma comparação sua: abra as duas aplicações com o mesmo trajeto e veja os valores.",
+        {
+          "steps": [
+            {
+              "title": "Instale e registe-se antes de sair do alojamento",
+              "text": "Faça-o com Wi-Fi. Veja que meios de pagamento a aplicação aceita: as fontes consultadas não dizem se os cartões estrangeiros são aceites."
+            },
+            {
+              "title": "Marque o ponto de recolha",
+              "text": "Confirme o pino no mapa. Numa rua movimentada ou muito estreita, caminhe até um sítio onde o carro possa parar."
+            },
+            {
+              "title": "Confira o preço e o carro",
+              "text": "Anote o valor mostrado. Quando o carro chegar, compare a matrícula e o nome do condutor com o que a aplicação indica."
+            },
+            {
+              "title": "Guarde uma captura de ecrã",
+              "text": "O ecrã com o destino e o preço serve de referência se, no fim, o valor pedido for diferente."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "Chamar uma empresa de táxi",
+      "body": [
+        "As listas de empresas que servem o aeroporto de Nội Bài incluem a Mai Linh, a G7, a Thăng Long e a Thành Công, entre outras. A Mai Linh tem uma linha nacional, a 1055, e faz o trajeto entre o aeroporto e o centro. Uma lista dessas empresas acrescenta que muitos condutores da «Hà Nội Airport» falam algum inglês e cobram um pouco acima da média.",
+        "O alojamento ou o restaurante podem chamar um táxi por si. Peça-lhes o nome da empresa e que escrevam o destino em vietnamita. Assim, se alguma coisa correr mal, sabe a quem ligar.",
+        "Uma das listas anuncia tarifas de referência por empresa, mas não encontrámos tarifas por quilómetro de 2026 em fontes fiáveis. Por isso este guia não diz quanto custa um trajeto curto no centro."
+      ]
+    },
+    {
+      "h2": "No aeroporto de Nội Bài: praça oficial e angariadores",
+      "body": [
+        "O guia de setembro de 2026 aponta Nội Bài como um dos pontos de Hanói com mais armadilhas. Há uma praça de táxis oficial, mas os angariadores à saída pedem duas a três vezes o preço. Na aplicação, o preço fica fechado antes da viagem.",
+        "Há duas referências de preço para o trajeto do aeroporto, e nenhuma é uma tarifa oficial:",
+        {
+          "ul": [
+            "cerca de 250 mil VND do aeroporto ao centro, numa página de voos da companhia aérea nacional, que a apresenta como valor de referência;",
+            "cerca de 260 mil VND por um carro de quatro lugares, em listas de empresas de táxi do aeroporto, sem percurso nem data claros."
+          ]
+        },
+        "Se o valor que lhe pedem à saída for o dobro ou o triplo destes, é o padrão que o guia descreve. Siga para a praça oficial ou peça o carro pela aplicação e veja o preço antes de sair do terminal. Para o dia da chegada, o guia sobre [quando é melhor não conduzir](/rotas-e-mobilidade/quando-nao-conduzir/) explica porque a mota deve ficar para o dia seguinte."
+      ]
+    },
+    {
+      "h2": "Taxímetro e preço: o que não conseguimos confirmar",
+      "body": [
+        "Procurámos regras do taxímetro em Hanói e tarifas por quilómetro de 2026 e não as encontrámos em fontes fiáveis. Por isso não dizemos que valor inicial é normal, quanto custa o quilómetro nem se há suplemento noturno ou de bagagem.",
+        "O que segue é prudência geral, não regras confirmadas por fonte:",
+        {
+          "ul": [
+            "Se o táxi tem taxímetro, veja que está ligado quando o carro arranca. Se não estiver, ou se o condutor propuser um preço fixo, combine o valor total antes de arrancar e escreva-o no telemóvel para os dois o verem.",
+            "Confirme como vai pagar antes de arrancar. As fontes consultadas não dizem se os táxis chamados por telefone ou apanhados na rua aceitam cartões estrangeiros.",
+            "Se tiver dúvidas sobre o preço pedido no fim, mostre o valor que combinou ou o ecrã da aplicação e peça ao condutor que o confirme."
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "Oito verificações para evitar abusos",
+      "body": [
+        "Nenhuma garante nada, mas juntas reduzem o risco de pagar a mais, sobretudo no aeroporto:",
+        {
+          "checklist": [
+            "Prefira a aplicação, ou uma empresa cujo nome consiga confirmar, a um táxi que lhe oferecem na rua.",
+            "No aeroporto, siga para a praça oficial e ignore quem o aborda dentro do terminal a oferecer táxi.",
+            "Mostre o destino escrito em vietnamita e peça ao condutor que confirme que sabe onde fica.",
+            "Veja o preço na aplicação ou combine-o antes de arrancar.",
+            "Compare a matrícula e o nome do condutor com os dados da aplicação.",
+            "Tire uma captura de ecrã do preço e do destino.",
+            "Confirme como vai pagar antes de arrancar.",
+            "Se desconfiar, saia num sítio movimentado e peça outro carro ou ligue à empresa; a Mai Linh tem a linha 1055."
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "Mostrar o destino: a morada em vietnamita",
+      "body": [
+        "Escreva o destino no telemóvel, com os acentos, e mostre-o ao condutor. Não confie só no nome em português, que ninguém reconhece.",
+        "Se o destino é a loja, use a morada em vietnamita, **{{address.vi}}**, ou partilhe a localização no [Google Maps]({{maps}}). O guia da [visita à loja em Long Biên](/zonas-de-hanoi/aluguer-de-motas-em-long-bien/) mostra o que guardar no telemóvel antes de sair e como atravessar o rio. Se não falar vietnamita, o guia sobre [comunicar sem falar vietnamita](/guia-de-aluguer/comunicar-sem-falar-vietnamita/) tem métodos e algumas palavras em vietnamita que também servem num táxi."
+      ]
+    },
+    {
+      "h2": "Táxi ou mota alugada: quando o táxi é a escolha certa",
+      "body": [
+        "O táxi cobra a viagem e a mota cobra o dia. Num dia com um só trajeto, ou com malas, chuva forte ou cansaço, o táxi costuma ser a escolha certa. Num dia com muitas paragens, a mota dá mais liberdade. Para distâncias curtas, a bicicleta partilhada TNGo é outra alternativa: veja o guia sobre [bicicleta em Hanói](/rotas-e-mobilidade/bicicleta-em-hanoi/). Os preços da mota por dia, semana e mês estão na [página de preços](/precos/).",
+        "Depois de beber, o táxi deixa de ser uma opção e passa a ser a única: a lei vietnamita não admite álcool a quem conduz, como explica o guia sobre o [álcool zero ao volante](/guia-de-aluguer/alcool-zero-ao-volante/). Outras situações em que convém deixar a mota parada estão em [rotas e mobilidade](/rotas-e-mobilidade/). Para dúvidas sobre o aluguer, use os [contactos](/contactos/) da loja."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Os táxis de Hanói aceitam cartão estrangeiro?",
+      "a": "As fontes consultadas não respondem. Na aplicação, veja os meios de pagamento aceites ao registar-se. Num táxi chamado por telefone ou apanhado na rua, pergunte como pode pagar antes de arrancar, para não ter surpresas no fim da viagem."
+    },
+    {
+      "q": "É mais barato pedir pela Grab ou pela Xanh SM?",
+      "a": "Um estudo da Q&Me, de setembro de 2025, concluiu que a Xanh SM saiu mais barata do que a Grab em 60% das viagens de carro comparadas no Vietname. Os preços mudam com a hora e a procura: abra as duas aplicações com o mesmo trajeto e compare."
+    },
+    {
+      "q": "Quanto custa um táxi do aeroporto de Nội Bài ao centro?",
+      "a": "Há duas referências: cerca de 250 mil VND ao centro, numa página de voos da companhia aérea nacional, e cerca de 260 mil VND por um carro de quatro lugares, em listas de empresas do aeroporto, sem percurso nem data claros. O valor real depende do destino e do trânsito: veja o preço na aplicação."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Guia dos táxis no Vietname: Mai Linh, Vinasun, Xanh SM e como os reconhecer (em vietnamita)",
+      "publisher": "vietnamtourism.com",
+      "url": "https://www.vietnamtourism.com/vi/taxi-o-viet-nam-mai-linh-vinasun-xanh-sm-va-cach-nhan-biet-t",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Điểm tên 10 hãng taxi Nội Bài đưa đón tại sân bay uy tín, an toàn và chuyên nghiệp",
+      "publisher": "FPT Shop",
+      "url": "https://fptshop.com.vn/tin-tuc/danh-gia/diem-ten-10-hang-taxi-noi-bai-170538",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Treze empresas de táxi de Hanói, com contactos e tarifas de referência (em vietnamita)",
+      "publisher": "MIA.vn (cẩm nang du lịch)",
+      "url": "https://mia.vn/cam-nang-du-lich/13-hang-taxi-ha-noi-12500",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Página «Táxi Hà Nội» da Xanh SM, sobre o serviço de táxi elétrico em Hanói (em vietnamita)",
+      "publisher": "Xanh SM (greensm.com)",
+      "url": "https://www.greensm.com/vn-vi/news/taxi-ha-noi",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Guia de transportes de Hanói (em inglês)",
+      "publisher": "Cities Insider",
+      "url": "https://citiesinsider.com/country/vietnam/hanoi/guides/hanoi-transport/en",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "en"
+    },
+    {
+      "title": "Estudo comparativo de preços entre a Xanh SM e a Grab no Vietname (em inglês)",
+      "publisher": "Q&Me",
+      "url": "https://qandme.net/en/report/car-ride-hailing-showdown-xanh-sm-vs-grab-in-vietnam.html",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "en"
+    },
+    {
+      "title": "Vé Máy Bay Đi Hà Nội Chỉ Từ 847.181 VND*",
+      "publisher": "Vietnam Airlines",
+      "url": "https://www.vietnamairlines.com/vi-vn/v%C3%A9-m%C3%A1y-bay-%C4%91%E1%BA%BFn-h%C3%A0-n%E1%BB%99i",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    }
+  ],
+  "legal_note": false,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "READY_FOR_QA",
+  "revision": {
+    "reason": "Ligações internas para artigos publicados depois"
+  }
+}

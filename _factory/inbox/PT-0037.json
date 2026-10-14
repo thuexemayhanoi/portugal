@@ -1,0 +1,287 @@
+{
+  "contract_version": 1,
+  "id": "PT-0037",
+  "slug": "corrente-da-mota",
+  "title": "Corrente da mota: folga e lubrificação num aluguer longo",
+  "description": "O que o manual da Honda Wave 110 diz sobre a corrente, como notar folga e ruído sem lhe mexer e quando pedir à loja a afinação e a lubrificação.",
+  "h1": "Corrente da semiautomática: o que observar, o que não ajustar e quando avisar a loja",
+  "summary": "Segundo o manual da Honda Wave 110, a corrente verifica-se a cada 500 km, e com mais frequência em estradas em mau estado ou a alta velocidade. Num aluguer longo, olhe, ouça e anote os quilómetros; a afinação e a lubrificação ficam com a loja, porque a folga certa não foi confirmada para a mota que vai receber.",
+  "key_points": [
+    "O manual da Honda Wave 110 manda verificar o estado e a folga da corrente e, quando necessário, ajustá-la e lubrificá-la; na tabela de manutenção, a verificação é de 500 em 500 km.",
+    "O manual manda verificar mais vezes em estradas em mau estado ou a alta velocidade, e deixar a substituição de carretos gastos a uma loja Honda autorizada.",
+    "O valor certo da folga não foi confirmado para a Wave, e o de outras motas não se aplica: peça-o à loja e peça que lhe mostre como o mede.",
+    "A quem conduz cabe ver, ouvir, anotar a quilometragem e avisar; a afinação e a lubrificação combinam-se com a loja.",
+    "Pergunte quando foi a última verificação, a que quilometragem e como se combinam os custos de uma revisão a meio do aluguer; peça as respostas por escrito."
+  ],
+  "intro": [
+    "Num aluguer de um dia, ninguém pensa na corrente da mota. Num aluguer de várias semanas ou meses, é uma das poucas peças à vista que mudam com os quilómetros, e encontra-a nas semiautomáticas, como a Honda Wave e a Yamaha Sirius (veja os [tipos de motas](/tipos-de-motas/) da loja). Este guia explica o que o fabricante manda fazer, o que pode observar sem ferramentas e o que deve deixar à loja {{brand}}.",
+    "Não é um manual de oficina: não dá valores de folga nem procedimentos de afinação, porque nenhuma das fontes consultadas os indica para a mota que vai receber. As fontes são os manuais de utilizador da Honda para a Wave 110 e para a Wave RSX FI, lidos a 13 de outubro de 2026; o manual da Yamaha Sirius não foi consultado. A fronteira entre desgaste e dano tem outro guia: o do [desgaste normal num aluguer longo](/precos/desgaste-normal-num-aluguer-longo/)."
+  ],
+  "sections": [
+    {
+      "h2": "O que o fabricante manda fazer à corrente",
+      "body": [
+        "O manual de utilizador da Honda Wave 110, em vietnamita, tem uma secção sobre a corrente (página 66). Manda verificar o estado da corrente e a sua folga e, quando necessário, ajustá-la e lubrificá-la. Na tabela de manutenção, a verificação está marcada a cada 500 km.",
+        "O manual acrescenta duas indicações: verificar a corrente com mais frequência em estradas em mau estado ou a alta velocidade e, se os dentes dos carretos estiverem gastos ou danificados, fazer a substituição numa loja Honda autorizada. O manual da Wave RSX FI tem uma secção equivalente (página 74).",
+        {
+          "table": {
+            "caption": "O que as fontes dizem sobre a corrente e o que fica por perguntar à loja",
+            "head": [
+              "Ponto",
+              "O que as fontes dizem",
+              "O que perguntar à loja"
+            ],
+            "rows": [
+              [
+                "Intervalo de verificação",
+                "A cada 500 km, e mais vezes em mau piso ou a alta velocidade (Wave 110)",
+                "Se a loja segue o mesmo intervalo e onde o regista"
+              ],
+              [
+                "Folga",
+                "O manual manda verificá-la; o valor não foi confirmado para a Wave, e o manual da Sirius não foi consultado",
+                "O valor para a sua mota e como a loja o mede"
+              ],
+              [
+                "Lubrificação",
+                "O manual manda lubrificar quando necessário",
+                "Que produto se usa, de quanto em quanto tempo e quem o aplica"
+              ],
+              [
+                "Carretos gastos ou danificados",
+                "Substituição numa loja Honda autorizada",
+                "Onde se faz, quanto demora e como se combinam os custos"
+              ]
+            ]
+          }
+        },
+        {
+          "note": "O manual consultado é o atual. A mota que vai receber pode ser de outra versão ou de outro ano: o valor e o intervalo que contam são os da sua unidade, e é a loja que os confirma.",
+          "tone": "info",
+          "title": "Versão da mota"
+        }
+      ]
+    },
+    {
+      "h2": "Quantos dias são 500 km",
+      "body": [
+        "O manual fala em quilómetros, não em dias: para saber quando chega a próxima verificação, divida 500 pelos quilómetros que faz por dia. A conta só funciona se souber a que quilometragem a corrente foi verificada pela última vez. Por isso, essa é a primeira pergunta a fazer à loja.",
+        {
+          "table": {
+            "caption": "Exemplo de cálculo: quanto tempo demoram 500 km (valores ilustrativos, não uma previsão do seu uso)",
+            "head": [
+              "Quilómetros por dia",
+              "Quilómetros num mês de 30 dias",
+              "Intervalos de 500 km num mês",
+              "Dias até aos 500 km"
+            ],
+            "rows": [
+              [
+                "15 km",
+                "450 km",
+                "0,9",
+                "cerca de 33"
+              ],
+              [
+                "30 km",
+                "900 km",
+                "1,8",
+                "cerca de 17"
+              ],
+              [
+                "60 km",
+                "1.800 km",
+                "3,6",
+                "cerca de 8"
+              ],
+              [
+                "100 km",
+                "3.000 km",
+                "6",
+                "5"
+              ]
+            ]
+          }
+        },
+        "Com 60 km por dia, um aluguer de um mês atravessa três ou quatro intervalos de 500 km: a verificação da corrente deixa de ser uma curiosidade técnica e passa a ser uma data na agenda. Se o seu uso for irregular, anote a quilometragem do painel todas as semanas, como mostra o guia para [fotografar a mota alugada](/guia-de-aluguer/fotografar-a-mota/). Os preços e as condições de um mês inteiro estão no guia do [aluguer mensal de mota](/precos/aluguer-mensal-de-mota/).",
+        "Antes de uma saída longa, peça a verificação à loja em vez de esperar pela data seguinte; o guia sobre [pedir autorização para sair de Hanói](/guia-de-aluguer/autorizacao-para-sair-de-hanoi/) mostra como falar do percurso. A conta dos abastecimentos nesse mesmo percurso está no guia sobre a [autonomia da Honda Wave com um depósito](/tipos-de-motas/autonomia-de-um-deposito/)."
+      ]
+    },
+    {
+      "h2": "Como observar a corrente sem lhe mexer",
+      "body": [
+        "Observar não é ajustar. Bastam alguns minutos, a mota parada com o motor desligado, e o telemóvel.",
+        {
+          "steps": [
+            {
+              "title": "Registe a corrente no dia da entrega",
+              "text": "Peça à loja que lhe mostre a corrente e como mede a folga nessa unidade. Fotografe-a de cada lado e filme uns segundos, com a mota parada e o motor desligado. É o seu ponto de comparação."
+            },
+            {
+              "title": "Olhe para o aspeto",
+              "text": "Veja se a corrente está seca ou com ferrugem, se tem muita sujidade agarrada e se os dentes dos carretos se parecem com os da fotografia da entrega. Não precisa de interpretar o desgaste: precisa de notar a diferença."
+            },
+            {
+              "title": "Compare a folga com a da entrega",
+              "text": "Veja quanto a corrente cai ou oscila entre os dois carretos e compare com o vídeo. Sem o valor do fabricante, não sabe se uma folga é boa ou má; sabe se mudou."
+            },
+            {
+              "title": "Ouça numa volta curta",
+              "text": "Numa rua sem trânsito e a baixa velocidade, repare em ruídos vindos da corrente ao arrancar, ao acelerar e ao largar o acelerador. Anote a data, a quilometragem do painel e o que ouviu: um ruído novo é informação útil para a loja, mesmo sem saber a causa."
+            }
+          ]
+        },
+        {
+          "note": "Não ponha os dedos nem a roupa perto da corrente e dos carretos com o motor ligado.",
+          "tone": "warn",
+          "title": "Segurança"
+        }
+      ]
+    },
+    {
+      "h2": "Ruído na corrente: o que descrever à loja",
+      "body": [
+        "Um ruído vindo da zona da corrente pode ter mais de uma causa, e as fontes consultadas não associam cada tipo de ruído a uma avaria. Este guia não faz diagnósticos: ajuda a descrever o que se ouve, para a loja decidir se o assunto pode esperar.",
+        "Antes de enviar a mensagem, responda a quatro perguntas:",
+        {
+          "ul": [
+            "**Quando se ouve:** ao arrancar, a acelerar, ao largar o acelerador ou com a mota parada e o motor a trabalhar.",
+            "**Desde quando:** o dia e a quilometragem do painel.",
+            "**O que mudou antes:** chuva forte, uma lavagem, uma estrada em mau estado ou uma saída longa.",
+            "**Como é:** constante ou só de vez em quando, e se há outros sinais na corrente ou no comportamento da mota."
+          ]
+        },
+        {
+          "note": "Bom dia, tenho a mota [modelo]. Aos [quilometragem] km comecei a ouvir um ruído na zona da corrente ao [arrancar/acelerar]. Envio um vídeo, filmado com a mota parada. Posso continuar a usá-la até passar pela loja? Envie-a por mensagem ou ligue para {{phone}}; a loja está aberta {{hours}}.",
+          "tone": "info",
+          "title": "Mensagem de exemplo"
+        }
+      ]
+    },
+    {
+      "h2": "Porque não ajustar a corrente por conta própria",
+      "body": [
+        "Uma corrente solta vê-se, e a ideia de a apertar com uma chave é compreensível. Num aluguer, há quatro razões para esperar pela loja.",
+        {
+          "ul": [
+            "**Não tem o valor certo.** O manual manda ajustar a folga, mas o valor não foi confirmado para a Wave, e os de outras motas não se aplicam. Sem ele, não sabe se ajustou bem.",
+            "**Parte do trabalho é de oficina.** Se o problema estiver nos carretos, o manual manda a substituição para uma loja autorizada, e não para um ajuste feito na rua.",
+            "**A mota é da loja.** O que pode ou não fazer-lhe deve constar do [acordo de aluguer](/guia-de-aluguer/acordo-de-aluguer/). Se o acordo não diz nada sobre a corrente, pergunte em vez de presumir.",
+            "**Uma oficina da rua não sabe o que ficou combinado.** Pode oferecer-se para afinar a corrente em poucos minutos. Ligue primeiro à loja: o que for feito sem o conhecimento dela pode vir a ser mais um assunto a esclarecer na devolução."
+          ]
+        },
+        "Isto não significa que nunca possa fazer nada: a loja pode preferir que seja você a lubrificar a corrente, e então diz-lhe como. O que não deve é decidi-lo sozinho."
+      ]
+    },
+    {
+      "h2": "Lubrificação: o que o manual pede e o que perguntar",
+      "body": [
+        "O manual da Wave 110 manda lubrificar a corrente quando necessário. Este guia não indica produto, quantidade nem intervalo, porque as fontes consultadas não os dão para a mota que vai receber. Em vez de números, ficam quatro perguntas para o início do aluguer: quem lubrifica (a loja, uma oficina que ela indique ou você), com que produto, de quanto em quanto tempo ou quilómetros e que cuidado a loja espera de si, por exemplo depois de chuva forte.",
+        "Guarde a resposta junto do registo da mota, com a quilometragem da última lubrificação, para saber de onde partir na verificação seguinte."
+      ]
+    },
+    {
+      "h2": "Quando pedir uma verificação à loja",
+      "body": [
+        {
+          "table": {
+            "caption": "Situações em que a corrente justifica um contacto com a loja",
+            "head": [
+              "Situação",
+              "O que fazer"
+            ],
+            "rows": [
+              [
+                "Passaram 500 km desde a última verificação, ou não sabe quando foi",
+                "Peça a verificação e anote a quilometragem"
+              ],
+              [
+                "Vai fazer uma saída longa ou andar em estradas em mau estado",
+                "Peça a verificação antes de partir: o manual manda verificar mais vezes"
+              ],
+              [
+                "Ouviu um ruído novo na zona da corrente",
+                "Avise no próprio dia, com a quilometragem e, se puder, um vídeo"
+              ],
+              [
+                "A corrente parece diferente do vídeo da entrega",
+                "Envie fotografia e vídeo e pergunte se pode continuar a usar a mota"
+              ],
+              [
+                "Os carretos parecem gastos ou danificados",
+                "Avise a loja: o manual manda substituí-los numa loja autorizada"
+              ],
+              [
+                "A corrente parte-se ou salta dos carretos",
+                "Pare em segurança, não continue a conduzir e telefone à loja"
+              ]
+            ]
+          }
+        },
+        "Se a mota ficar parada longe de casa, o guia de [assistência na estrada](/guia-de-aluguer/assistencia-na-estrada/) explica a quem recorrer primeiro, e o de [avaria longe de Hanói](/guia-de-aluguer/avaria-longe-de-hanoi/) o que combinar antes de uma viagem."
+      ]
+    },
+    {
+      "h2": "O que perguntar à loja antes de levantar a mota",
+      "body": [
+        "Estas perguntas cabem numa só mensagem:",
+        {
+          "checklist": [
+            "Quando foi verificada e lubrificada a corrente pela última vez, e a que quilometragem?",
+            "Que versão e que ano é esta mota, para saber a que manual corresponde?",
+            "Qual é a folga certa nesta mota e como a mede? Pode mostrar-me?",
+            "De quantos em quantos quilómetros a loja quer fazer a verificação?",
+            "Quem lubrifica e afina a corrente durante o aluguer, onde, e com que antecedência devo avisar? Posso fazer alguma coisa eu, ou prefere que não lhe toque?",
+            "Como ficam combinados os custos de uma afinação, de uma lubrificação ou de uma peça a meio do aluguer? Pode confirmar por escrito?"
+          ]
+        },
+        "Junte estas perguntas às [perguntas a fazer antes de alugar](/guia-de-aluguer/perguntas-antes-de-alugar/) e guarde as respostas com as fotografias da entrega. [Teste as mudanças antes de sair da loja](/tipos-de-motas/testar-mudancas-da-semiautomatica/). Para um aluguer de várias semanas, o guia do [aluguer de longa duração](/precos/aluguer-de-longa-duracao/) reúne os restantes pontos. Para falar com a loja, use os [contactos](/contactos/) ou o {{phone}}."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Quanta folga deve ter a corrente de uma Honda Wave?",
+      "a": "O valor depende do modelo, e este guia não o indica: não o conseguimos confirmar para a Wave, e o dos manuais de outras motas Honda não se aplica a ela. Peça o valor à loja e que lhe mostre como o mede."
+    },
+    {
+      "q": "A corrente a fazer barulho está mal afinada?",
+      "a": "Não dá para saber só pelo ruído: as fontes consultadas não ligam cada tipo a uma causa. Descreva à loja quando o ouve, desde quando e a que quilometragem, envie um vídeo e pergunte se pode continuar a usar a mota até a verem."
+    },
+    {
+      "q": "Posso lubrificar a corrente da mota alugada?",
+      "a": "O manual da Honda manda lubrificá-la quando necessário, mas o produto e quem a lubrifica são assunto do acordo com a loja. Pergunte antes de aplicar o que quer que seja."
+    },
+    {
+      "q": "De quantos em quantos quilómetros se verifica a corrente?",
+      "a": "Na tabela de manutenção do manual da Honda Wave 110, a verificação está marcada a cada 500 km, e mais vezes em estradas em mau estado ou a alta velocidade. O manual da Yamaha Sirius não foi consultado: pergunte à loja que intervalo segue para essa mota."
+    }
+  ],
+  "sources": [
+    {
+      "title": "WAVE 110 HƯỚNG DẪN SỬ DỤNG",
+      "publisher": "Honda Việt Nam",
+      "url": "https://cdn.honda.com.vn/motorbike-manual/September2025/PIcp8XLSxQmsi5X5Twsy.pdf",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "SÁCH HƯỚNG DẪN SỬ DỤNG Wave RSX FI",
+      "publisher": "Honda Việt Nam",
+      "url": "https://cdn.honda.com.vn/motorbike-manual/September2025/EzA6x0gXYsjvv9AhkVm2.pdf",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    }
+  ],
+  "legal_note": false,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "READY_FOR_QA",
+  "revision": {
+    "reason": "Ligações internas para artigos publicados depois"
+  }
+}

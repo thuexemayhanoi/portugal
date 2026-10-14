@@ -1,0 +1,243 @@
+{
+  "contract_version": 1,
+  "id": "PT-0029",
+  "slug": "como-conduzir-uma-semiautomatica",
+  "title": "Como conduzir uma mota semiautomática: mudanças de pé",
+  "description": "Passo a passo para arrancar, mudar de mudança, reduzir e parar numa semiautomática sem manete de embraiagem, e o que as fontes ainda não confirmam.",
+  "h1": "Conduzir uma semiautomática: arrancar, mudar de mudança e parar sem manete",
+  "summary": "Numa semiautomática não há manete de embraiagem: arranca-se em ponto morto, escolhe-se a mudança com a ponta do pé e alivia-se o acelerador antes de cada passagem, como pede o manual da Honda Wave 110. As velocidades certas para mudar não constam das fontes consultadas, por isso aprenda-as de ouvido, num local calmo, antes do trânsito.",
+  "key_points": [
+    "Não há manete de embraiagem: o pé esquerdo escolhe a mudança e a mão direita, com o acelerador, faz o trabalho que noutras motas cabe à manete.",
+    "O manual da Honda Wave 110 manda aliviar sempre o acelerador antes de mudar, carregar suavemente no pedal com a ponta do pé e não deixar o pé apoiado no pedal em andamento.",
+    "O arranque faz-se em ponto morto, com a luz N acesa; em mudança, a mota pode avançar ou o motor pode parar.",
+    "As fontes não dão velocidades para subir de mudança, nem confirmam a técnica de arranque em subida ou o comportamento no pára-arranca: treine esses pontos num sítio calmo e pergunte à loja.",
+    "Quem nunca usou mudanças não deve aprender no trânsito de Hanói: uma scooter automática é a escolha mais segura."
+  ],
+  "intro": [
+    "Quem vem de uma scooter automática, ou de uma mota com manete de embraiagem, estranha a primeira semiautomática. Há pedal de mudanças como numa mota «a sério», mas a mão esquerda fica sem manete. O resultado é uma condução com um gesto a menos, e um erro possível a mais: mudar de mudança sem aliviar o acelerador.",
+    "Este guia segue o que o manual oficial da Honda Wave 110 diz sobre as mudanças e junta conselhos de técnica geral, sempre assinalados como conselhos. Onde as fontes consultadas não dizem nada, como as velocidades de passagem ou o arranque em subida, o texto di-lo e remete para o treino e para a loja. Antes de tudo, confirme que tem a carta adequada à mota: veja a [documentação e a caução](/guia-de-aluguer/documentacao-e-caucao/) e as [categorias A1 e A](/guia-de-aluguer/categorias-a1-e-a/)."
+  ],
+  "sections": [
+    {
+      "h2": "O que muda face a uma scooter automática",
+      "body": [
+        "Numa scooter só se acelera e se trava. Numa semiautomática há uma terceira tarefa, escolher a mudança com o pé, mas sem manete: a Honda Wave de aluguer tem, segundo a Honda, uma caixa mecânica de quatro mudanças. A Yamaha indica também quatro velocidades para a Sirius FI; as outras diferenças entre as duas motas estão em [Honda Wave ou Yamaha Sirius](/tipos-de-motas/honda-wave-ou-yamaha-sirius/).",
+        "O que acontece dentro da transmissão quando o motor é ligado às rodas não é descrito nos excertos do manual da Wave que consultámos. Numa análise da Honda Super Cub C125, um modelo diferente da mesma família, a embraiagem engata com o acelerador e solta quando se carrega no pedal de mudanças, e mudar depressa «faz clunk». Não assuma que a Wave ou a Sirius se comportam exatamente assim; o que o manual da Wave confirma é a regra prática da secção seguinte: acelerador aliviado, pedal suave.",
+        "Se ainda não decidiu entre os dois tipos, o guia [scooter ou semiautomática](/tipos-de-motas/scooter-ou-semiautomatica/) compara-os com cenários concretos, e a página das [semiautomáticas](/tipos-de-motas/semiautomaticas/) reúne os modelos da loja e o guia dos [tipos de motas](/tipos-de-motas/) mostra as outras opções. A {{brand}} tem a Wave a {{price.wave.day}} por dia e a Sirius a {{price.sirius.day}}, valores da tabela de referência verificada a {{pricing.verifiedAt}}."
+      ]
+    },
+    {
+      "h2": "Antes de arrancar: posição, pés e ponto morto",
+      "body": [
+        "Sente-se de modo a alcançar todos os comandos sem esticar o corpo. Os manuais de condução de motas de dois estados norte-americanos pedem que o condutor se sente suficientemente à frente para ter os braços ligeiramente fletidos nos punhos, use os braços para guiar a mota e não para se segurar, e mantenha os pés perto dos comandos. Numa semiautomática, isso inclui o pé esquerdo junto ao pedal de mudanças, sem o deixar pousado em cima dele.",
+        "Calce sapatos fechados, com sola firme: um chinelo escapa-se do pedal. O guia do [equipamento de proteção](/guia-de-aluguer/equipamento-de-protecao/) explica o resto do que levar vestido.",
+        {
+          "h3": "A sequência de arranque da Wave 110"
+        },
+        "Segundo o resumo do manual da Honda Wave 110, o arranque faz-se com a torneira de combustível em ON, a ignição em ON, a caixa em ponto morto (N), com a luz N acesa no painel, e só depois o botão de arranque. O resumo que lemos pode não trazer todos os passos, e a sua unidade pode ser de outra versão: peça na entrega que lha mostrem com a mota à frente. O padrão das mudanças e a luz N têm explicação própria no guia do [ponto morto e das mudanças](/tipos-de-motas/ponto-morto-e-mudancas/).",
+        "Se a luz N não acende, não force: veja o guia da [semiautomática que não pega](/tipos-de-motas/semiautomatica-nao-pega/), que explica o que verificar primeiro."
+      ]
+    },
+    {
+      "h2": "Passo a passo: do arranque à última mudança",
+      "body": [
+        "Os passos seguintes juntam o que o manual da Wave 110 diz com conselhos de técnica geral. Repare no que é regra do fabricante e no que é conselho deste guia, indicado em cada passo.",
+        {
+          "steps": [
+            {
+              "title": "Arranque em ponto morto",
+              "text": "Motor ligado, luz N acesa, mota direita e travão acionado. É a sequência do manual da Wave 110."
+            },
+            {
+              "title": "Engrene a primeira com a mota parada",
+              "text": "O manual separa o procedimento de mudança com a mota parada do procedimento em andamento. Parado, carregue no pedal com a ponta do pé até sentir a mudança entrar. Mostre o gesto à loja antes de sair: o curso e o sentido do pedal não constam das fontes consultadas."
+            },
+            {
+              "title": "Largue o travão e acelere pouco",
+              "text": "Conselho do guia: rode o acelerador devagar, porque a mota avança assim que a transmissão apanha o motor. O aviso comum a quem vem das scooters é o mesmo do guia [Nunca conduziu uma mota?](/tipos-de-motas/nunca-conduziu-uma-mota/): um punho rodado de mais faz a mota saltar."
+            },
+            {
+              "title": "Alivie, mude, acelere",
+              "text": "Quando o motor pedir a mudança seguinte, alivie o acelerador, carregue de leve com a ponta do pé e volte a acelerar. Aliviar antes de mudar é regra do manual da Wave 110."
+            },
+            {
+              "title": "Tire o pé do pedal",
+              "text": "Depois de cada mudança, regresse o pé à posição de repouso. O manual avisa que apoiar o pé no pedal durante a condução pode danificar o mecanismo."
+            }
+          ]
+        },
+        "Quanto à altura certa para subir de mudança, não encontrámos velocidades nem rotações no manual da Wave nem nas outras fontes consultadas. Um conselho de ouvido, sem números: se o motor soa a esforço, com a mota a pedir mudança, suba; se o motor roda solto e agudo, está na mudança certa para o ritmo ou já passou a hora. Treine-o a baixa velocidade antes de depender dele."
+      ]
+    },
+    {
+      "h2": "Reduzir mudanças e parar",
+      "body": [
+        "A regra que o manual dá para subir de mudança vale também para descer: aliviar o acelerador antes de cada passagem. Em termos práticos, trave primeiro, desça uma mudança de cada vez e só depois volte ao acelerador. Não force várias mudanças de uma vez.",
+        "Para parar, use os dois travões ao mesmo tempo. Dois manuais de proprietário da Honda, de motas maiores do que as de aluguer, indicam que o travão da frente dá cerca de 70% da força de travagem e que a máxima eficácia se obtém com os dois em simultâneo. Se a roda da frente bloquear, solte esse travão e volte a apertá-lo com suavidade. Se bloquear a de trás com a mota direita e a andar em linha reta, o manual oficial de condução de motas do Utah (EUA) aconselha a mantê-la travada até parar: soltá-la com a mota desalinhada pode fazê-la projetar o condutor. O guia sobre [como verificar os travões](/guia-de-aluguer/verificar-os-travoes/) trata do teste, e o dos [travões CBS e ABS](/tipos-de-motas/travoes-cbs-e-abs/) das scooters com travagem combinada.",
+        {
+          "note": "Segundo o manual da Wave 110, com a mota parada pode passar-se diretamente da 4.ª ao ponto morto; em andamento, o mecanismo de retorno impede-o. Na paragem em semáforo, a posição em que deixa a caixa é uma escolha sua: o que conta é saber em que mudança está antes de arrancar e não ter de procurar o ponto morto com o trânsito atrás de si.",
+          "tone": "info",
+          "title": "Parar não é o mesmo que ficar em ponto morto"
+        },
+        "Uma fonte vietnamita sobre paragens longas, escrita para carros de caixa manual, cita duas práticas, ponto morto com travão de mão ou primeira engrenada, sem eleger uma. O mesmo vale aqui: não há resposta única nas fontes. O conselho prático é decidir uma vez, treinar e manter."
+      ]
+    },
+    {
+      "h2": "Pára-arranca, semáforos e subidas: o que as fontes não dizem",
+      "body": [
+        "Três situações do dia a dia de Hanói ficam sem resposta nas fontes consultadas: como gerir a primeira e a segunda no pára-arranca, o que acontece ao motor a baixas rotações e como arrancar numa subida. Não encontrámos texto de fabricante nem de autoridade de segurança que as trate numa semiautomática do Vietname, por isso este guia não lhes dá regras.",
+        "O que se pode fazer é preparar-se. Antes de entrar em ruas movimentadas, treine arranques e paragens a passo de caminhada, repetindo a primeira engrenada e o regresso ao ponto morto até serem automáticos. Procure uma ligeira inclinação num local sem trânsito para ensaiar o arranque a subir, de preferência depois de a loja lhe explicar a técnica da sua unidade. Em horas de ponta, o guia das [horas de ponta em Hanói](/guia-de-aluguer/horas-de-ponta-em-hanoi/) ajuda a escolher quando sair.",
+        "Se o pára-arranca lhe parecer um esforço, não é falha sua: é para isso que existem as scooters automáticas. O guia para [trocar de mota](/guia-de-aluguer/trocar-de-mota/) explica o que perguntar quando a escolha inicial não resulta."
+      ]
+    },
+    {
+      "h2": "Os erros mais comuns de quem começa",
+      "body": [
+        "Com base no manual e nas diferenças para outros tipos de mota, estes são os deslizes mais prováveis no início. A lista é um conselho do guia: as fontes consultadas não trazem estatísticas de erros em semiautomáticas.",
+        {
+          "ul": [
+            "**Mudar sem aliviar o acelerador.** O manual da Wave 110 pede o contrário. Sente-se como um solavanco ou um ruído seco.",
+            "**Mudar a mais.** O manual manda evitar mudanças desnecessárias. Em ritmo constante, mantenha a mudança.",
+            "**Pé apoiado no pedal.** Pode danificar o mecanismo, segundo o manual.",
+            "**Procurar o ponto morto em andamento.** Em andamento, o mecanismo de retorno da Wave não deixa passar da 4.ª ao ponto morto. Não insista.",
+            "**Olhar para o pé ou para o painel.** O olhar deve ficar à frente; confirme a mudança pelo som e pelo indicador num relance.",
+            "**Arrancar em mudança por engano.** O arranque faz-se em ponto morto, com a luz N acesa."
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "Treinar antes de entrar no trânsito",
+      "body": [
+        "Um plano geral de treino, com travagem e curvas, está no guia [treinar antes do trânsito](/guia-de-aluguer/treinar-antes-do-transito/). Para uma semiautomática, acrescente um bloco próprio de mudanças, num sítio plano e livre:",
+        {
+          "ol": [
+            "arranque em ponto morto, engrene a primeira com a mota parada e pare três vezes seguidas sem calar o motor;",
+            "suba da primeira à segunda a passo lento, aliviando o acelerador antes do toque de pé, e desça de novo, até o gesto sair sem solavanco;",
+            "repita com a terceira, só depois de a segunda estar segura;",
+            "pare com os dois travões, volte ao ponto morto e verifique a luz N;",
+            "repita a sequência com calçado fechado e capacete postos, como vai conduzir."
+          ]
+        },
+        "Mantenha o objetivo modesto: o treino serve para o gesto ficar automático, não para tirar o máximo da mota. Se ao fim de vinte minutos continuar a hesitar na mudança, aceite a conclusão e peça uma scooter. Não encontrámos fonte que dê um tempo mínimo de treino: o critério é o gesto sair sem pensar. Os [primeiros dias a conduzir](/guia-de-aluguer/primeiros-dias-a-conduzir/) têm outros conselhos para ganhar confiança."
+      ]
+    },
+    {
+      "h2": "O que perguntar à loja antes de levar a mota",
+      "body": [
+        "A resposta certa depende da unidade que vai levar. Peça à loja, ao levantar a mota:",
+        {
+          "checklist": [
+            "que lhe mostre, com a mota parada, o gesto do pedal e a sequência das mudanças da unidade;",
+            "onde fica o ponto morto e se o painel tem luz N e indicador de mudança;",
+            "se a unidade tem pedal de arranque além do botão;",
+            "se há algo que esta mota em concreto faça de diferente, como um pedal duro ou uma mudança que custe a entrar;",
+            "se pode trocá-la por uma scooter caso a semiautomática não lhe sirva, e em que condições."
+          ]
+        },
+        "O contacto da loja, a morada e o horário estão na página de [Contactos](/contactos/); também pode ligar para {{phone}}. A [tabela de preços por dia](/precos/aluguer-de-mota-por-um-dia/) mostra o valor de cada modelo, e o resto do que levar em conta ao receber a mota está em [Receber a mota alugada](/guia-de-aluguer/receber-a-mota/)."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Preciso de apertar alguma manete para mudar de mudança?",
+      "a": "Não. A semiautomática não tem manete de embraiagem: muda-se com o pedal, com a ponta do pé, depois de aliviar o acelerador, segundo o manual da Honda Wave 110. Peça à loja que lhe mostre o gesto exato na sua unidade antes de sair."
+    },
+    {
+      "q": "A que velocidade devo subir de mudança?",
+      "a": "Não encontrámos velocidades nem rotações no manual da Wave nem noutras fontes oficiais consultadas. Treine num local calmo e oiça o motor: se soar a esforço, está na altura de subir. A resposta final é da loja, que conhece a unidade."
+    },
+    {
+      "q": "Posso passar da quarta ao ponto morto a andar?",
+      "a": "Segundo o manual da Wave 110, não: em andamento, o mecanismo de retorno impede a passagem direta da 4.ª ao ponto morto, que só é possível com a mota parada. Noutras motas e unidades o padrão pode ser diferente, por isso confirme na entrega."
+    },
+    {
+      "q": "A semiautomática serve para quem nunca conduziu com mudanças?",
+      "a": "Só com treino prévio num sítio sem trânsito. O trânsito de Hanói não é lugar para aprender: se nunca usou mudanças, a scooter automática é a escolha mais segura, e a loja pode orientá-lo."
+    }
+  ],
+  "sources": [
+    {
+      "title": "WAVE 110 HƯỚNG DẪN SỬ DỤNG",
+      "publisher": "Honda Việt Nam",
+      "url": "https://cdn.honda.com.vn/motorbike-manual/September2025/PIcp8XLSxQmsi5X5Twsy.pdf",
+      "accessed": "2026-10-14",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "«NÂNG TẦM PHONG CÁCH MỚI» CÙNG SIRIUS FI 2021",
+      "publisher": "Yamaha Motor Việt Nam",
+      "url": "https://yamaha-motor.com.vn/tin-tuc/nang-tam-phong-cach-moi-cung-sirius-fi-2021/",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "MOTORCYCLE SECTION 4: RIDE WITHIN YOUR ABILITIES",
+      "publisher": "Utah Driver License Division (dld.utah.gov)",
+      "url": "https://dld.utah.gov/motorcycle-handbook-section-4-ride-within-your-abilities/",
+      "accessed": "2026-10-14",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "title": "Motorcycle Manual — Ride within your abilities",
+      "publisher": "New York State DMV",
+      "url": "https://dmvsearch.webnycdn.ny.gov/motorcycle-manual/motorcycle-manual-ride-within-your-abilities",
+      "accessed": "2026-10-14",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "title": "Georgia Motorcycle Operator Manual — travagem e distâncias de paragem",
+      "publisher": "Georgia Department of Driver Services (EUA)",
+      "url": "https://dds.georgia.gov/node/33951",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "title": "Honda VT750C2B — manual do proprietário, p. 54",
+      "publisher": "Honda (cópia alojada em bike-parts.fr)",
+      "url": "https://www.bike-parts.fr/thumbs/pdf_url/img/owner_manuals/owner_VT750C2BA/2500_2500/0054.pdf",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "en"
+    },
+    {
+      "title": "Honda VT1300CX — manual do proprietário, p. 55",
+      "publisher": "Honda (cópia alojada em bike-parts.fr)",
+      "url": "https://www.bike-parts.fr/thumbs/pdf_url/img/owner_manuals/owner_VT1300CXA_CXAA/2500_2500/0055.pdf",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "en"
+    },
+    {
+      "title": "2019 Honda Super Cub C125 ABS | First Ride Review",
+      "publisher": "Rider Magazine",
+      "url": "https://ridermagazine.com/2019/02/08/2019-honda-super-cub-c125-abs-first-ride-review/",
+      "accessed": "2026-10-14",
+      "type": "news",
+      "lang": "en"
+    },
+    {
+      "title": "Cách sử dụng số «mo» (artigo em vietnamita sobre o ponto morto em carros de caixa manual)",
+      "publisher": "Báo Pháp luật Việt Nam",
+      "url": "https://baophapluat.vn/cach-su-dung-so-mo-post82642.html",
+      "accessed": "2026-10-14",
+      "type": "news",
+      "lang": "vi"
+    }
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "READY_FOR_QA",
+  "revision": {
+    "reason": "Ligações internas para artigos publicados depois"
+  }
+}
