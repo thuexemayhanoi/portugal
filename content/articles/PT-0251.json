@@ -8,7 +8,7 @@
   },
   "status": "PUBLISHED",
   "title": "Lago do B-52 em Hanói de mota: becos, horário e museu",
-  "description": "Como chegar de mota ao lago Hữu Tiệp, dos destroços do B-52: moradas dos becos, onde deixar a mota, horário do museu vizinho e o que não está confirmado.",
+  "description": "Como chegar de mota ao lago do B-52 em Hanói (Hữu Tiệp): moradas dos becos, onde deixar a mota, horário do museu vizinho e o que não está confirmado.",
   "h1": "Os destroços do B-52 no lago Hữu Tiệp: chegar de mota pelos becos de Ba Đình",
   "summary": "O lago Hữu Tiệp fica num bairro residencial de Ba Đình, a que se chega por becos: as fontes dão o beco 135 da rua Đội Cấn e, numa passagem, o beco 55. Não encontrámos horário nem parque oficial do lago; o Museu da Vitória B-52, no n.º 157 da Đội Cấn, abre de manhã e de tarde e fecha à segunda e à sexta.",
   "key_points": [
@@ -348,6 +348,11 @@
     "words": 1987,
     "publish_mode": "review",
     "approved_at": "2026-10-14",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-14",
+        "reason": "Meta description reescrita para refletir a pesquisa principal; conteúdo inalterado."
+      }
+    ]
   }
 }

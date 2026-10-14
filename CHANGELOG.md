@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.7.2 — 2026-10-14 · meta descriptions e os últimos P2 da matriz
+
+- **49 meta descriptions reescritas** (revisões que mantêm URL e data de publicação): cada uma responde à pesquisa principal do artigo com as palavras da própria pesquisa, 120–160 caracteres, sem afirmações que o artigo não faça. Nenhum título, H1 ou corpo mudou.
+- **+2 ligações contextuais** para os dois artigos que só tinham uma entrada (custo por quilómetro → preço da gasolina; Bairro Antigo a pé → atravessar a rua).
+- **Regras da matriz afinadas** para não assinalar o que não é um problema: páginas utilitárias (contactos, sobre nós, privacidade, termos) não contam como «página curta»; «< 3 fontes» só se aplica a artigos com nota legal (um guia de procedimento pode assentar na informação da loja).
+- O workflow **SEO Audit & Monitoring** acrescenta, na execução semanal, o resumo da matriz ao Summary (só leitura, não falha a execução).
+- Matriz: P0 0 · P1 0 · P2 62 → 13 (7 artigos legais com 1–2 fontes e 6 guias de procedimento sem fontes externas: aceites, só se acrescentam fontes reais).
+
 ## 1.7.1 — 2026-10-14 · a matriz SEO passa a ser uma barreira na CI
 
 - `node scripts/seo-matrix.mjs --check` corre em `npm run check` e no workflow Site QA: qualquer URL com um problema P0 faz falhar a verificação.

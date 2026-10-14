@@ -3,7 +3,7 @@
   "id": "PT-0192",
   "slug": "conducao-defensiva",
   "title": "Condução defensiva de mota em Hanói: antecipar os outros",
-  "description": "Como antecipar o que os outros vão fazer em Hanói: contar que não o viram, olhar longe, guardar margem e travar bem, com técnica de manuais estrangeiros.",
+  "description": "Em Hanói, a condução defensiva de mota passa por contar que não o viram, olhar longe, guardar margem e travar bem, com boas práticas de manuais estrangeiros.",
   "h1": "Condução defensiva em Hanói: ver cedo, dar margem e contar com o erro dos outros",
   "summary": "Condução defensiva é contar que os outros podem não o ver, olhar bem à frente e guardar espaço, velocidade e travões para o erro de alguém. Este guia reúne essas ideias do Highway Code, de manuais da Honda e de um guia de estudo da MSF e aplica-as a Hanói: são boas práticas estrangeiras, e não regras vietnamitas.",
   "key_points": [
@@ -238,17 +238,21 @@
   },
   "status": "PUBLISHED",
   "date_published": "2026-10-13",
-  "date_modified": "2026-10-13",
+  "date_modified": "2026-10-14",
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
     "words": 1625,
     "publish_mode": "review",
-    "approved_at": "2026-10-13",
+    "approved_at": "2026-10-14",
     "revisions": [
       {
         "date": "2026-10-13",
         "reason": "Ligações internas para artigos publicados depois"
+      },
+      {
+        "date": "2026-10-14",
+        "reason": "Meta description reescrita para refletir a pesquisa principal; conteúdo inalterado."
       }
     ]
   }

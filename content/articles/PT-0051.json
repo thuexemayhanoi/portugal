@@ -3,7 +3,7 @@
   "id": "PT-0051",
   "slug": "50cc-para-pouca-estatura",
   "title": "50 cc para pouca estatura: peso, assento e manobra",
-  "description": "Uma 50 cc é mesmo mais leve e mais baixa? Pesos e alturas de assento das fichas, como testar a manobra a baixa velocidade e quando uma 110 cc ainda serve.",
+  "description": "Uma 50cc para pouca estatura é mesmo mais leve e mais baixa? Veja pesos e alturas de assento, o teste de manobra e quando uma 110 cm³ ainda serve.",
   "h1": "Uma 50 cc para quem tem pouca estatura: leveza e manobra",
   "summary": "Uma 50 cc nem sempre é mais leve nem mais baixa do que uma 110 cm³: entre os dados que encontrámos, a diferença de peso vai de cerca de 2 a 18 kg e o assento depende do modelo, não da cilindrada. Para pouca estatura, conte com o teste dos pés no chão e da manobra parada, feito na loja antes de aceitar a mota.",
   "key_points": [
@@ -344,6 +344,11 @@
     "words": 2168,
     "publish_mode": "review",
     "approved_at": "2026-10-14",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-14",
+        "reason": "Meta description reescrita para refletir a pesquisa principal; conteúdo inalterado."
+      }
+    ]
   }
 }

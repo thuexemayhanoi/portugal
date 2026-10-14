@@ -3,7 +3,7 @@
   "id": "PT-0162",
   "slug": "distancia-e-posicao-na-faixa",
   "title": "Distância de segurança de mota em Hanói: espaço e faixa",
-  "description": "Quantos segundos e metros deixar para a mota da frente, como se posicionar junto de autocarros e camiões e o que é lei vietnamita ou boa prática estrangeira.",
+  "description": "Que distância de segurança deixar para a mota da frente? Segundos e metros, a posição junto de autocarros e camiões e o que é lei ou boa prática estrangeira.",
   "h1": "Entre milhares de motas: quanto espaço deixar e onde se pôr na faixa",
   "summary": "Como referência, deixe pelo menos dois segundos para o veículo da frente e o dobro com piso molhado, segundo o Highway Code britânico: é boa prática estrangeira e não uma regra vietnamita. A 40 km/h, dois segundos são cerca de 22 metros; entre motas que fecham qualquer intervalo, abrande, olhe mais longe e não fique ao lado de autocarros e camiões.",
   "key_points": [
@@ -282,6 +282,10 @@
       {
         "date": "2026-10-14",
         "reason": "Ligações internas para artigos publicados depois"
+      },
+      {
+        "date": "2026-10-14",
+        "reason": "Meta description reescrita para refletir a pesquisa principal; conteúdo inalterado."
       }
     ]
   }

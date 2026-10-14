@@ -3,7 +3,7 @@
   "id": "PT-0043",
   "slug": "idade-minima-50cc",
   "title": "Idade mínima para conduzir uma 50 cc no Vietname: 16 anos",
-  "description": "No Vietname, um veículo até 50 cm³ exige pelo menos 16 anos e as cartas A1 e A só são emitidas aos 18. Como ler esta regra e o que confirmar antes de conduzir.",
+  "description": "Qual é a idade mínima para uma 50cc no Vietname? São 16 anos, mas as cartas A1 e A só são emitidas aos 18. O que confirmar antes de conduzir.",
   "h1": "Que idade é preciso ter para conduzir uma 50 cc no Vietname?",
   "summary": "No Vietname, a idade mínima para conduzir um veículo até 50 cm³ — o «xe gắn máy» — é de 16 anos; as cartas de motociclo das categorias A1 e A só são emitidas a partir dos 18. A idade é só um dos requisitos: os documentos exigidos a um visitante estrangeiro são outra questão, que deve confirmar antes de conduzir.",
   "key_points": [
@@ -176,13 +176,13 @@
   },
   "status": "PUBLISHED",
   "date_published": "2026-10-13",
-  "date_modified": "2026-10-13",
+  "date_modified": "2026-10-14",
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
     "words": 1901,
     "publish_mode": "review",
-    "approved_at": "2026-10-13",
+    "approved_at": "2026-10-14",
     "revisions": [
       {
         "date": "2026-10-13",
@@ -195,6 +195,10 @@
       {
         "date": "2026-10-13",
         "reason": "Ligações internas para artigos publicados depois"
+      },
+      {
+        "date": "2026-10-14",
+        "reason": "Meta description reescrita para refletir a pesquisa principal; conteúdo inalterado."
       }
     ]
   }

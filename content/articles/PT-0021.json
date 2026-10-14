@@ -3,7 +3,7 @@
   "id": "PT-0021",
   "slug": "postura-e-conforto",
   "title": "Postura e conforto numa scooter: aguentar horas ao guiador",
-  "description": "Como sentar-se, regular a posição e planear pausas para conduzir uma scooter durante horas em Hanói, com os sinais de cansaço que pedem para parar.",
+  "description": "Que postura adotar para conduzir uma scooter com conforto durante horas em Hanói? Como regular a posição, planear pausas e reconhecer os sinais de cansaço.",
   "h1": "Conduzir uma scooter durante horas: postura, pausas e sinais de cansaço",
   "summary": "Para aguentar horas numa scooter, sente-se de modo a ter os braços ligeiramente fletidos e a guiar com eles, sem se agarrar ao guiador, e pare pelo menos 15 minutos por cada duas horas, como recomenda o código da estrada britânico. Dores que a pausa não alivia, mãos dormentes ou sono são motivos para parar e rever o plano.",
   "key_points": [
@@ -245,6 +245,10 @@
       {
         "date": "2026-10-14",
         "reason": "Ligações internas para artigos publicados depois"
+      },
+      {
+        "date": "2026-10-14",
+        "reason": "Meta description reescrita para refletir a pesquisa principal; conteúdo inalterado."
       }
     ]
   }

@@ -111,7 +111,7 @@
     {
       "h2": "Caminhar no meio das motas: boas maneiras de peão",
       "body": [
-        "Ao largar a mota, passa a ser um dos peões com quem os condutores têm de contar. Os conselhos que se seguem são práticos e não regras escritas.",
+        "Ao largar a mota, passa a ser um dos peões com quem os condutores têm de contar. Os conselhos que se seguem são práticos e não regras escritas. Para cruzar uma avenida, veja o guia sobre [atravessar a rua em Hanói](/guia-de-aluguer/atravessar-a-rua-a-pe/).",
         {
           "ul": [
             "**Caminhe a ritmo constante.** Quem conduz contorna uma linha previsível; um peão que para, recua ou muda de direção sem aviso é o que causa sustos.",
@@ -339,10 +339,14 @@
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 1986,
+    "words": 1999,
     "publish_mode": "review",
     "approved_at": "2026-10-14",
     "revisions": [
+      {
+        "date": "2026-10-14",
+        "reason": "Ligações internas para artigos publicados depois"
+      },
       {
         "date": "2026-10-14",
         "reason": "Ligações internas para artigos publicados depois"

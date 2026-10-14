@@ -3,7 +3,7 @@
   "id": "PT-0030",
   "slug": "ponto-morto-e-mudancas",
   "title": "Ponto morto de uma semiautomática: padrão de mudanças e luz N",
-  "description": "Como reconhecer o padrão de mudanças da semiautomática que vai levar, a luz N no painel e a caixa rotativa da Honda Wave, e o que perguntar à loja.",
+  "description": "Onde fica o ponto morto da semiautomática que vai levar? O padrão de mudanças, a luz N no painel, a caixa rotativa da Honda Wave e o que perguntar à loja.",
   "h1": "Ponto morto e padrão de mudanças: como ler a semiautomática antes de a conduzir",
   "summary": "Numa Honda Wave, a luz N do painel acende quando a caixa está em ponto morto, e o manual da Wave 110 diz que a caixa é rotativa: com a mota parada pode passar-se diretamente da 4.ª ao ponto morto, em andamento não. Outras motas têm padrões diferentes, por isso confirme o da sua unidade na entrega, antes de arrancar.",
   "key_points": [
@@ -234,6 +234,10 @@
       {
         "date": "2026-10-14",
         "reason": "Ligações internas para artigos publicados depois"
+      },
+      {
+        "date": "2026-10-14",
+        "reason": "Meta description reescrita para refletir a pesquisa principal; conteúdo inalterado."
       }
     ]
   }

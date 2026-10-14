@@ -91,7 +91,7 @@ node scripts/audit-content.mjs # inventory, cannibalization, coverage, entities,
 
 **Cấm khẳng định khi chưa có xác nhận bằng văn bản của chủ cửa hàng:** mức caução, thuê không caução, giao xe miễn phí, không cần bằng lái (kể cả 50 cc), hỗ trợ 24/7, bảo hiểm bao gồm, giảm giá, đánh giá/sao/xếp hạng, số khách, chi nhánh khác, giấy phép, trải nghiệm cá nhân. QA (`scripts/lib/language.mjs`) tự phát hiện các câu dạng này.
 
-- **WhatsApp**: đang tắt (`business.whatsapp.enabled=false`) vì chưa xác minh. Chỉ bật khi chủ xác nhận → đổi `enabled` + `verified` = true + `url`. QA site sẽ báo lỗi nếu có link WhatsApp khi chưa bật.
+- **WhatsApp**: **bật từ 14/10/2026 theo yêu cầu của chủ site** (PR #17: `business.whatsapp.enabled` + `verified` = true, `url` = `https://wa.me/84942467674`, cùng số điện thoại đã công bố). Muốn tắt: đặt `enabled=false` rồi `npm run build`. QA site sẽ báo lỗi nếu có link WhatsApp khi `enabled=false`.
 - Giá là **giá tham khảo** lấy từ bảng giá đã xác minh của chủ (nguồn: `pricing.$comment`). Khi giá đổi: sửa `pricing` + `verifiedAt`.
 - Nội dung pháp lý/an toàn phải có nguồn trong `site/sources.json` (ưu tiên nguồn chính thức) và ngày tra cứu. Luật Việt Nam thay đổi: rà soát định kỳ các trang có `legal_note`.
 - Văn phong **pt-PT** (không pt-BR): aluguer, mota, telemóvel, autocarro, comboio, carta de condução, travões, contacto… QA cảnh báo từ ngữ pt-BR.
@@ -140,7 +140,7 @@ Key không bao giờ được ghi vào repo hay log; SDK `@anthropic-ai/sdk` (ph
 ## 7. CI/CD
 
 - `.github/workflows/site-qa.yml` (PR + push main): syntax, unit test, `build --check`, `plan --check`, `qa-site`, `qa-factory --published`, `seo-matrix --check` (không URL nào còn lỗi P0).
-- `.github/workflows/seo-monitor.yml` (**SEO Audit & Monitoring**, độc lập với factory, chỉ đọc): sau mỗi push vào `main` (chờ deploy xong), sau mỗi lần factory đăng bài, và thứ Hai hằng tuần. Việc chạy: `audit-live` trên domain thật, IndexNow cho các trang thay đổi, Lighthouse mobile (theo tuần/thủ công), Search Console/Bing khi có secret. Kết quả ở Summary của bản chạy + artifact. Bản chạy đỏ = site thật có lỗi.
+- `.github/workflows/seo-monitor.yml` (**SEO Audit & Monitoring**, độc lập với factory, chỉ đọc): sau mỗi push vào `main` (chờ deploy xong), sau mỗi lần factory đăng bài, và thứ Hai hằng tuần. Việc chạy: `audit-live` trên domain thật, IndexNow cho các trang thay đổi, Lighthouse mobile (theo tuần/thủ công), SEO Master Matrix (`seo-matrix --check`, theo tuần, chỉ ghi vào Summary), Search Console/Bing khi có secret. Kết quả ở Summary của bản chạy + artifact. Bản chạy đỏ = site thật có lỗi.
 - `.github/workflows/article-factory.yml`: factory (thủ công / push inbox / lịch). Commit bằng `pt-factory-bot`, dừng an toàn khi conflict. Lịch hằng ngày chạy `process`: inbox trống hoặc factory `PAUSED` → không ghi file nào, không tạo commit. Chỉ chạy trên `main`; sau khi push, workflow gọi API yêu cầu build GitHub Pages (push bằng `GITHUB_TOKEN` có thể không tự kích hoạt build).
 - GitHub Pages tự deploy khi `main` thay đổi (workflow động `pages-build-deployment`).
 - Khuyến nghị: bật **branch protection** cho `main` (bắt buộc check "Site QA" cho Pull Request). Bot factory push thẳng vào `main`, nên nếu quy tắc chặn push trực tiếp thì phải cho bot bypass.

@@ -3,7 +3,7 @@
   "id": "PT-0214",
   "slug": "perdeu-o-telemovel-durante-o-aluguer",
   "title": "Perdi o telemóvel no Vietname durante o aluguer: o que fazer",
-  "description": "Perdeu ou roubaram-lhe o telemóvel a meio do aluguer em Hanói? Como ligar à loja, proteger o SIM, pagar sem o aparelho e fazer a participação na polícia.",
+  "description": "Perdi o telemóvel no Vietname, e agora? Peça um emprestado para ligar à loja, bloqueie o SIM, pague em numerário e, se foi roubado, faça a participação.",
   "h1": "Sem telemóvel a meio do aluguer: contactar a loja e continuar a viagem",
   "summary": "Se perder o telemóvel a meio do aluguer, peça um telemóvel emprestado e ligue para a loja, {{phone}}: é o contacto que convém ter também em papel. Depois bloqueie o cartão SIM e as contas, pague em numerário durante uns dias e, se o telemóvel foi roubado, faça a participação na polícia.",
   "key_points": [
@@ -301,13 +301,18 @@
   },
   "status": "PUBLISHED",
   "date_published": "2026-10-13",
-  "date_modified": "2026-10-13",
+  "date_modified": "2026-10-14",
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
     "words": 2181,
     "publish_mode": "review",
-    "approved_at": "2026-10-13",
-    "revisions": []
+    "approved_at": "2026-10-14",
+    "revisions": [
+      {
+        "date": "2026-10-14",
+        "reason": "Meta description reescrita para refletir a pesquisa principal; conteúdo inalterado."
+      }
+    ]
   }
 }

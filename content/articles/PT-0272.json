@@ -3,7 +3,7 @@
   "id": "PT-0272",
   "slug": "roteiro-fotografico",
   "title": "Roteiro de fotografia em Hanói de mota: horas de luz e locais",
-  "description": "Quando e onde fotografar Hanói de mota: nascer e pôr do sol face ao trânsito e à loja, cinco cenários e as regras de quem pára para fotografar.",
+  "description": "Roteiro de fotografia em Hanói para quem anda de mota: nascer e pôr do sol face ao trânsito e à loja, cinco cenários e as regras para parar e fotografar.",
   "h1": "Hanói para fotógrafos de mota: a luz, o trânsito e onde se pode parar",
   "summary": "Para fotografar Hanói de mota, o fim da tarde é a janela mais prática: o pôr do sol cai entre cerca das 17:17 e as 18:40, dentro da ponta do trânsito, e a loja só abre às {{opens}}, muito depois do nascer do sol. Estacione, fotografe a pé e nunca fotografe a conduzir.",
   "key_points": [
@@ -399,6 +399,10 @@
       {
         "date": "2026-10-14",
         "reason": "Ligações internas para artigos publicados depois"
+      },
+      {
+        "date": "2026-10-14",
+        "reason": "Meta description reescrita para refletir a pesquisa principal; conteúdo inalterado."
       }
     ]
   }

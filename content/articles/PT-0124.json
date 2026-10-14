@@ -85,7 +85,7 @@
             ]
           }
         },
-        "O preço muda por revisões que, em setembro e outubro de 2026, caíram todas numa quinta-feira (10 e 17 de setembro, 1 e 8 de outubro). Antes de fazer contas, veja o valor do dia no visor da bomba ou nos comunicados do Ministério.",
+        "O preço muda por revisões que, em setembro e outubro de 2026, caíram todas numa quinta-feira (10 e 17 de setembro, 1 e 8 de outubro). Antes de fazer contas, veja o valor do dia no visor da bomba ou nos comunicados do Ministério. O guia sobre [como se fixa o preço da gasolina](/precos/preco-da-gasolina-no-vietname/) explica quem anuncia as revisões e onde ver o valor em vigor.",
         {
           "h3": "O consumo real"
         },
@@ -355,16 +355,20 @@
   },
   "status": "PUBLISHED",
   "date_published": "2026-10-13",
-  "date_modified": "2026-10-13",
+  "date_modified": "2026-10-14",
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
-    "words": 2031,
+    "words": 2053,
     "publish_mode": "review",
-    "approved_at": "2026-10-13",
+    "approved_at": "2026-10-14",
     "revisions": [
       {
         "date": "2026-10-13",
+        "reason": "Ligações internas para artigos publicados depois"
+      },
+      {
+        "date": "2026-10-14",
         "reason": "Ligações internas para artigos publicados depois"
       }
     ]

@@ -3,7 +3,7 @@
   "id": "PT-0023",
   "slug": "telemovel-e-gps-na-scooter",
   "title": "Telemóvel e GPS na scooter em Hanói: suporte, carregamento e lei",
-  "description": "A lei vietnamita proíbe usar o telemóvel ao conduzir. Como preparar o percurso, onde parar para ver o mapa, que suporte usar e como manter a bateria.",
+  "description": "Usar o GPS do telemóvel na scooter: a lei vietnamita proíbe usá-lo ao conduzir. Como preparar o percurso, onde parar, que suporte usar e como manter a bateria.",
   "h1": "Orientar-se de scooter em Hanói sem infringir a lei: telemóvel, suporte e bateria",
   "summary": "A lei vietnamita proíbe usar o telemóvel enquanto conduz uma mota. Para se orientar de scooter em Hanói, estude o percurso antes de arrancar, encoste num local seguro sempre que precisar de ver o mapa e, se usar um suporte, deixe a rota definida e não toque no ecrã em andamento. Pergunte à loja se a mota tem suporte ou tomada para carregar.",
   "key_points": [
@@ -173,6 +173,10 @@
       {
         "date": "2026-10-14",
         "reason": "Ligações internas para artigos publicados depois"
+      },
+      {
+        "date": "2026-10-14",
+        "reason": "Meta description reescrita para refletir a pesquisa principal; conteúdo inalterado."
       }
     ]
   }
