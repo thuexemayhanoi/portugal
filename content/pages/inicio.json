@@ -77,7 +77,7 @@
         {
           "component": "price-table"
         },
-        "Honda Wave e Yamaha Sirius: {{price.wave.day}}/dia. Honda Vision e Honda Air Blade: {{price.vision.day}}/dia. Mota de 50 cc: {{price.cc50.day}}/dia. Motas e bicicletas elétricas: sob consulta. Veja as tarifas de semana e mês na [tabela completa](/precos/)."
+        "Honda Wave e Yamaha Sirius: {{price.wave.day}}/dia; Honda Click e Yamaha Mio: {{price.click.day}}/dia; Honda Vision e Honda Air Blade: {{price.vision.day}}/dia; mota de 50 cc: {{price.cc50.day}}/dia. Para a Honda Wave, a semana é {{price.wave.week}} e o mês é {{price.wave.month}}; para a Honda Vision, a semana é {{price.vision.week}} e o mês é {{price.vision.month}}. Motas e bicicletas elétricas, assim como períodos sem tarifa publicada, são **sob consulta**. Consulte a [tabela completa](/precos/) e confirme o orçamento final."
       ],
       "link": {
         "label": "O que está e o que não está incluído no preço",
@@ -93,7 +93,7 @@
           "steps": [
             {
               "title": "Contacte a loja",
-              "text": "Ligue, use o Zalo ou o WhatsApp no {{phone}} e indique as datas, o modelo e o número de pessoas."
+              "text": "Contacte a loja por [telefone]({{tel}}), [Zalo]({{zalo}}) ou [WhatsApp]({{whatsapp}}) no número {{phone}} e indique as datas, a duração e o modelo pretendido."
             },
             {
               "title": "Confirme as condições",
