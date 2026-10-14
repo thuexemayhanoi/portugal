@@ -15,14 +15,14 @@
   ],
   "intro": [
     "Quem se instala em Long Biên por meses ou anos descobre depressa que a vida aqui se organiza à volta do rio Vermelho: o distrito fica na margem leste, e quase tudo o que se faz no centro obriga a atravessar uma ponte. A mota deixa de ser uma curiosidade de turista e passa a ser a ferramenta que decide se a rotina é leve ou cansativa.",
-    "Este guia é para quem arrenda ou compra casa nesta zona e quer perceber as deslocações, o estacionamento dos prédios e o que perguntar antes de assinar. Não é um guia para visitantes: se vai ficar poucos dias, o artigo sobre o [aluguer de motas em Long Biên](/zonas-de-hanoi/aluguer-de-motas-em-long-bien/) responde melhor. A informação foi verificada a 13 de outubro de 2026 e, onde não há fonte, diz-se o que perguntar."
+    "Este guia é para quem arrenda ou compra casa nesta zona e quer perceber as deslocações, o estacionamento dos prédios e o que perguntar antes de assinar. Se vai ficar poucos dias, o artigo sobre o [aluguer de motas em Long Biên](/zonas-de-hanoi/aluguer-de-motas-em-long-bien/) responde melhor. A informação foi verificada a 13 de outubro de 2026 e, onde não há fonte, diz-se o que perguntar."
   ],
   "sections": [
     {
       "h2": "Os nomes mudaram em julho de 2025",
       "body": [
         "A 1 de julho de 2025, Hanói reorganizou as unidades administrativas de nível comuna: passou a ter 126, das quais 51 são phường e 75 são xã, segundo as bases jurídicas vietnamitas que consultámos (Resolução 1656/NQ-UBTVQH15). O antigo quận Long Biên repartiu-se por vários phường novos, entre eles Long Biên, Việt Hưng e Phúc Lợi, e o antigo distrito de Gia Lâm passou a ter xã como Gia Lâm e Thuận An. As fontes são artigos de bases de dados jurídicas, não o texto da resolução.",
-        "Na prática, isto afeta quem vive cá. Anúncios, mapas e contratos mais antigos usam os nomes anteriores, e uma mesma rua pode aparecer com bairros diferentes conforme a data da página. Ao arrendar, peça ao senhorio que escreva no contrato a morada atual e, entre parênteses, a antiga. Para a mota, use sempre o nome da rua e o número, que não mudaram.",
+        "Na prática, isto afeta quem vive cá. Anúncios, mapas e contratos antigos usam os nomes anteriores, e a mesma rua pode aparecer com bairros diferentes conforme a data da página. Ao arrendar, peça ao senhorio que escreva no contrato a morada atual e, entre parênteses, a antiga. Para a mota, use o nome da rua e o número, que não mudaram.",
         "O nome «Long Biên» aparece ainda no distrito, num dos phường novos e na ponte. Quando alguém lhe disser que mora em Long Biên, pergunte a que rua se refere. A morada da loja {{brand}}, em {{address}}, mostra como se escreve hoje uma morada da zona, e a página de [contactos](/contactos/) tem sempre a versão atualizada."
       ]
     },
@@ -33,18 +33,38 @@
         {
           "table": {
             "caption": "Ligações de Long Biên ao centro para quem vai de mota (verificado a 13 de outubro de 2026)",
-            "head": ["Ligação", "O que dizem as fontes", "O que fica por confirmar"],
+            "head": [
+              "Ligação",
+              "O que dizem as fontes",
+              "O que fica por confirmar"
+            ],
             "rows": [
-              ["Ponte Long Biên", "Aberta a motas, bicicletas e peões; os automóveis não circulam. Esteve fechada de 28 de março a 27 de maio de 2026 e reabriu a 28 de maio", "Novos fechos; já houve mais de um em poucos meses"],
-              ["Ponte Chương Dương", "Aviso de 10 de setembro de 2024, «até nova comunicação»: restrições a autocarros interurbanos, veículos de turismo com mais de 9 lugares e camiões com mais de 0,5 t; as motas não são visadas", "Se o aviso continua em vigor em outubro de 2026"],
-              ["Pontes Vĩnh Tuy 1 e 2", "Notícia de 29 de agosto de 2023: cada ponte é de sentido único, com uma faixa mista para motas; a Vĩnh Tuy 1 no sentido Long Biên – Hai Bà Trưng e a Vĩnh Tuy 2 no sentido contrário", "Houve mudanças posteriores de faixas, velocidades e desvios, sem ano nos textos que vimos: confirme antes"],
-              ["Estrada do dique", "Piso degradado e camiões pesados, com pelo menos três pontos de risco em cerca de 10 km, segundo a imprensa", "Limites de velocidade e horários dos camiões"]
+              [
+                "Ponte Long Biên",
+                "Aberta a motas, bicicletas e peões; os automóveis não circulam. Esteve fechada de 28 de março a 27 de maio de 2026 e reabriu a 28 de maio",
+                "Novos fechos; já houve mais de um em poucos meses"
+              ],
+              [
+                "Ponte Chương Dương",
+                "Aviso de 10 de setembro de 2024, «até nova comunicação»: restrições a autocarros interurbanos, veículos de turismo com mais de 9 lugares e camiões com mais de 0,5 t; as motas não são visadas",
+                "Se o aviso continua em vigor em outubro de 2026"
+              ],
+              [
+                "Pontes Vĩnh Tuy 1 e 2",
+                "Notícia de 29 de agosto de 2023: cada ponte é de sentido único, com uma faixa mista para motas; a Vĩnh Tuy 1 no sentido Long Biên – Hai Bà Trưng e a Vĩnh Tuy 2 no sentido contrário",
+                "Houve mudanças posteriores de faixas, velocidades e desvios, sem ano nos textos que vimos: confirme antes"
+              ],
+              [
+                "Estrada do dique",
+                "Piso degradado e camiões pesados, com pelo menos três pontos de risco em cerca de 10 km, segundo a imprensa",
+                "Limites de velocidade e horários dos camiões"
+              ]
             ]
           }
         },
-        "Antes de fechar um arrendamento, faça o teste. Atravesse de mota, ou de aplicação se ainda não conduz, na hora a que vai fazer a viagem todos os dias, e conte o tempo de porta a porta, incluindo o estacionamento do lado de lá. Faça-o numa segunda-feira de manhã e numa sexta ao fim da tarde. A diferença entre os dois ensina mais do que qualquer anúncio que diga «a cinco minutos do centro».",
+        "Antes de fechar um arrendamento, faça o teste: atravesse na hora a que vai viajar todos os dias, de mota ou de aplicação, e conte o tempo de porta a porta, incluindo o estacionamento do lado de lá. Faça-o numa segunda-feira de manhã e numa sexta ao fim da tarde. A diferença ensina mais do que um anúncio que diga «a cinco minutos do centro».",
         "Há um segundo teste, mais discreto: o regresso à noite. Do lado do centro, a zona 1 do Hoàn Kiếm fecha a motas de sexta a domingo, das 19:00 às 24:00, desde o piloto de 1 de julho de 2026; se quer sair à sexta e voltar de mota, estacione fora dela e siga a pé. Para o álcool, a lei vietnamita de tolerância zero aplica-se também aos residentes, e o guia sobre [voltar à noite sem conduzir](/rotas-e-mobilidade/voltar-a-noite-sem-conduzir/) é uma alternativa prática.",
-        "Para estudar cada ligação, comece pela [ponte Long Biên de mota](/zonas-de-hanoi/ponte-long-bien/) e pelo guia do [dique do rio Vermelho](/zonas-de-hanoi/estrada-do-dique-do-rio-vermelho/). Para ir para norte, a [ponte Nhật Tân](/zonas-de-hanoi/ponte-nhat-tan-para-norte/) tem faixas para motas, mas a avenida que a continua tem restrições. As horas em que o trânsito aperta estão em [horas de ponta em Hanói](/guia-de-aluguer/horas-de-ponta-em-hanoi/)."
+        "Para estudar cada ligação, comece pela [ponte Long Biên de mota](/zonas-de-hanoi/ponte-long-bien/) e pelo [dique do rio Vermelho](/zonas-de-hanoi/estrada-do-dique-do-rio-vermelho/). Para norte, a [ponte Nhật Tân](/zonas-de-hanoi/ponte-nhat-tan-para-norte/) tem faixas para motas, mas a avenida seguinte tem restrições. As horas de aperto estão em [horas de ponta em Hanói](/guia-de-aluguer/horas-de-ponta-em-hanoi/)."
       ]
     },
     {
@@ -54,16 +74,15 @@
           "h3": "O quadro de preços da cidade"
         },
         "Em Hanói, o preço da guarda de veículos segue um quadro fixado pela cidade: a Decisão 44/2017/QĐ-UBND põe tetos por tipo de veículo, zona e modalidade, por vez ou ao mês. Segundo publicações jurídicas vietnamitas, é esse quadro que continua a servir de base em 2026, e em março de 2025 os condomínios cobravam 1,25 a 2 milhões VND por mês por automóvel, em geral dentro desses limites. Isto vale para automóveis. Para motas em prédios de Long Biên, não encontrámos nenhum valor.",
-        "A cidade tem também um quadro para os custos de gestão e operação dos condomínios (Decisão 33/2025/QĐ-UBND, de 21 de abril de 2025), mas esse quadro não abrange o estacionamento. A taxa de condomínio e o preço do lugar da mota são, portanto, duas coisas diferentes e devem estar em linhas separadas no contrato.",
+        "Os custos de gestão e operação dos condomínios têm outro quadro municipal (Decisão 33/2025/QĐ-UBND, de 21 de abril de 2025), que não abrange o estacionamento. A taxa de condomínio e o preço do lugar da mota são coisas diferentes e devem estar em linhas separadas no contrato.",
         {
           "h3": "O que mudou em 2026"
         },
-        "Uma resolução da cidade (Nghị quyết 10/2026/NQ-HĐND, aprovada a 11 de maio de 2026 e em vigor desde 21 de maio) fixa um máximo de 220.000 VND por m² e por mês para a taxa de ocupação temporária de passeios e leitos de estrada com estacionamento de motas e bicicletas. Não é o preço que o utilizador paga: é a taxa que o operador paga à cidade, e pode refletir-se no que lhe cobram. Desde 1 de julho de 2026, os parques de automóveis têm de cobrar eletronicamente, sem paragem, e a cidade exige que todos os pontos de estacionamento de motas apliquem tecnologia à gestão, sem indicar valores.",
-        "Uma página jurídica refere ainda uma circular do Ministério da Construção (31/2026/TT-BXD) com novos requisitos de estacionamento, zonas de carregamento ou troca de baterias e câmaras nos prédios a partir de 15 de dezembro de 2026. Não lemos o texto, por isso não sabemos o que muda para os moradores de motas: pergunte à administração do seu prédio se já recebeu instruções.",
+        "Uma resolução da cidade, aprovada a 11 de maio de 2026 e em vigor desde 21 de maio (Nghị quyết 10/2026/NQ-HĐND), fixa um máximo de 220 mil dong por m² e por mês para a ocupação de passeios e leitos de estrada com estacionamento de motas. Não é o preço que o utilizador paga: é a taxa que o operador paga à cidade, e pode refletir-se no que lhe cobram. Desde 1 de julho de 2026, os parques de automóveis cobram eletronicamente, e a cidade exige tecnologia de gestão em todos os pontos de estacionamento de motas, sem indicar valores.",
         {
           "h3": "Urbanizações grandes, como a Vinhomes Riverside"
         },
-        "Long Biên tem urbanizações grandes e fechadas, como a Vinhomes Riverside, que os anúncios situam no distrito. Não encontrámos regras públicas de entrada para visitantes nem tarifas de estacionamento: o que vale é o que a administração disser e o que estiver no contrato. Quando a regra for só oral, peça-a por escrito, nem que seja uma mensagem.",
+        "Long Biên tem urbanizações grandes e fechadas, como a Vinhomes Riverside, que os anúncios situam no distrito. Não encontrámos regras públicas de entrada para visitantes nem tarifas de estacionamento: vale o que a administração disser e o que estiver no contrato, de preferência por escrito.",
         {
           "h3": "Perguntas para o senhorio ou a administração"
         },
@@ -78,15 +97,15 @@
             "Há ponto de carregamento para bicicletas e motas elétricas, e quanto custa?"
           ]
         },
-        "Sobre a pergunta dos papéis: numa mota alugada, a matrícula e o certificado de registo estão em nome do proprietário. O guia dos [documentos da mota alugada](/guia-de-aluguer/documentos-da-mota-alugada/) explica o que deve levar consigo, e o [acordo de aluguer](/guia-de-aluguer/acordo-de-aluguer/) mostra o que ficar escrito. Peça à loja, por escrito, o que ela pode fornecer ao prédio. Se a administração do prédio recusar, a loja não pode alterar essa regra."
+        "Numa mota alugada, a matrícula e o certificado de registo estão em nome do proprietário. O guia dos [documentos da mota alugada](/guia-de-aluguer/documentos-da-mota-alugada/) explica o que levar consigo e o [acordo de aluguer](/guia-de-aluguer/acordo-de-aluguer/) o que deve ficar escrito. Peça à loja, por escrito, o que ela pode fornecer ao prédio; se a administração recusar, a loja não pode alterar essa regra."
       ]
     },
     {
       "h2": "O metro ainda não chega a Long Biên",
       "body": [
-        "Em outubro de 2026, o metro de Hanói tem duas linhas a funcionar e nenhuma chega a Long Biên: o guia do [metro de Hanói](/rotas-e-mobilidade/metro-de-hanoi/) detalha-as. A 22 de junho de 2026, a cidade deu início às obras de cinco linhas novas, as 1, 2, 8, 10 e 14, com cerca de 303,5 km no total. O empreiteiro geral é o consórcio Vinhomes–VinSpeed, e a conclusão «básica» está prevista para 2030, segundo a imprensa vietnamita.",
-        "A linha 1, com cerca de 81 km, passa pela estação de Yên Viên, no trajeto entre a Estação de Hanói, Thư Lâm e o aeroporto de Nội Bài. Nenhum dos textos que consultámos dá datas de abertura por linha, nem diz que haja metro em funcionamento em Long Biên. Por isso, para um contrato de dois ou três anos, planeie como se o metro não fosse existir.",
-        "Os autocarros urbanos existem, mas as linhas e as paragens mudam: veja o guia dos [autocarros de Hanói](/rotas-e-mobilidade/autocarros-de-hanoi/) e confirme a paragem mais próxima da sua casa no mapa, não num anúncio."
+        "Em outubro de 2026, o metro de Hanói tem duas linhas a funcionar e nenhuma chega a Long Biên: o guia do [metro de Hanói](/rotas-e-mobilidade/metro-de-hanoi/) detalha-as. A 22 de junho de 2026 começaram as obras de cinco linhas novas (1, 2, 8, 10 e 14), com cerca de 303,5 km. O empreiteiro geral é o consórcio Vinhomes–VinSpeed e a conclusão «básica» está prevista para 2030, segundo a imprensa vietnamita.",
+        "A linha 1, com cerca de 81 km, passa pela estação de Yên Viên, no trajeto entre a Estação de Hanói, Thư Lâm e o aeroporto de Nội Bài. Nenhum texto que consultámos dá datas de abertura por linha ou fala de metro em funcionamento em Long Biên. Para um contrato de dois ou três anos, planeie como se o metro não existisse.",
+        "Os autocarros urbanos existem, mas as linhas e as paragens mudam: veja o guia dos [autocarros de Hanói](/rotas-e-mobilidade/autocarros-de-hanoi/) e confirme a paragem mais próxima no mapa, não num anúncio."
       ]
     },
     {
@@ -97,8 +116,8 @@
           "component": "price-table",
           "category": "scooters-automaticas"
         },
-        "A diferença para uma visita de poucos dias não está só no preço. Num aluguer longo contam a manutenção, o desgaste normal e a data em que se devolve a mota: o guia do [aluguer de longa duração](/precos/aluguer-de-longa-duracao/) e o do [aluguer mensal](/precos/aluguer-mensal-de-mota/) explicam cada ponto, e o de [manutenção num aluguer longo](/guia-de-aluguer/manutencao-num-aluguer-longo/) diz o que perguntar antes de assinar. Para quem trabalha à distância, o de [mota para nómadas digitais](/precos/mota-para-nomadas-digitais/) junta custos e rotina.",
-        "Duas questões ficam fora do preço e são sempre da loja: a caução e o que acontece se a mota avariar longe de casa. O guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/) e o da [avaria longe de Hanói](/guia-de-aluguer/avaria-longe-de-hanoi/) ajudam a fazer as perguntas certas. Quanto à carta de condução de quem vive cá, as regras para residentes são outro assunto: comece por [converter a carta no Vietname](/guia-de-aluguer/converter-a-carta-no-vietname/)."
+        "A diferença para uma visita não está só no preço. Num aluguer longo contam a manutenção e o desgaste normal: veja o [aluguer de longa duração](/precos/aluguer-de-longa-duracao/), o [aluguer mensal](/precos/aluguer-mensal-de-mota/) e a [manutenção num aluguer longo](/guia-de-aluguer/manutencao-num-aluguer-longo/). Para quem trabalha à distância, o guia de [mota para nómadas digitais](/precos/mota-para-nomadas-digitais/) junta custos e rotina.",
+        "A caução e o que acontece se a mota avariar longe de casa ficam fora do preço: veja [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/) e a [avaria longe de Hanói](/guia-de-aluguer/avaria-longe-de-hanoi/). Quanto à carta de quem vive cá, as regras para residentes são outro assunto: comece por [converter a carta no Vietname](/guia-de-aluguer/converter-a-carta-no-vietname/)."
       ]
     },
     {
@@ -108,10 +127,8 @@
           "checklist": [
             "A morada do contrato tem o nome atual do phường ou xã e, entre parênteses, o nome anterior.",
             "Fez a viagem de teste ao centro, de manhã e ao fim da tarde, e sabe que ponte vai usar.",
-            "O lugar da mota está no contrato, com preço próprio, e sabe como se entra e quem vigia.",
-            "A administração disse por escrito se aceita uma mota alugada e que papéis exige.",
-            "Sabe onde deixa a mota quando vai ao centro: parque com funcionário e senha, e não o passeio. O guia de [onde estacionar em Hanói](/guia-de-aluguer/onde-estacionar-em-hanoi/) explica como.",
-            "Tem um plano para a época das chuvas e para os dias de ponte fechada; o [piso molhado e a chuva](/guia-de-aluguer/piso-molhado-e-chuva/) é a leitura certa para a primeira estação."
+            "O lugar da mota está no contrato, com preço próprio, e a administração disse por escrito se aceita uma mota alugada.",
+            "Sabe onde deixa a mota no centro: parque com funcionário e senha, e não o passeio. O guia de [onde estacionar em Hanói](/guia-de-aluguer/onde-estacionar-em-hanoi/) explica como."
           ]
         },
         "Os guias sobre cada zona estão reunidos em [Zonas de Hanói](/zonas-de-hanoi/), incluindo o resumo de [Long Biên e Gia Lâm](/zonas-de-hanoi/long-bien-e-gia-lam/)."
@@ -129,7 +146,7 @@
     },
     {
       "q": "Quanto custa guardar uma mota num prédio de Long Biên?",
-      "a": "Não encontrámos nenhum valor para motas. Sabemos apenas que o preço segue o quadro da cidade e que, em março de 2025, os condomínios cobravam 1,25 a 2 milhões VND por mês por automóvel. Peça o preço do lugar da mota por escrito, separado da taxa de condomínio."
+      "a": "Não encontrámos nenhum valor para motas. Sabemos que o preço segue o quadro da cidade e que, em março de 2025, os condomínios cobravam 1,25 a 2 milhões VND por mês por automóvel. Peça o preço do lugar da mota por escrito, separado da taxa de condomínio."
     },
     {
       "q": "Posso levar uma mota alugada para o estacionamento do meu prédio?",
@@ -215,14 +232,6 @@
       "url": "https://lsvn.vn/ha-noi-se-thu-phi-dien-tu-khong-dung-toan-bo-bai-do-xe-tu-ngay-01-7-a173253.html",
       "accessed": "2026-10-13",
       "type": "news",
-      "lang": "vi"
-    },
-    {
-      "title": "Página de etiqueta sobre a Circular 31/2026/TT-BXD, do Ministério da Construção (em vietnamita)",
-      "publisher": "Luật sư Việt Nam (lsvn.vn)",
-      "url": "https://lsvn.vn/tag/thong-tu-312026ttbxd.html",
-      "accessed": "2026-10-14",
-      "type": "legal-database",
       "lang": "vi"
     },
     {
