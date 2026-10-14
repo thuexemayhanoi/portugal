@@ -6,43 +6,96 @@
   "description": "Como este site informativo da Nguyễn Tú trata os dados: sem formulários nem cookies de rastreio, alojamento no GitHub Pages e ligações a serviços externos.",
   "h1": "Política de privacidade",
   "eyebrow": "Informação legal",
-  "lead": "Este é um site informativo e estático. Explicamos, de forma simples, que dados são — e que dados não são — tratados quando o visita.",
-  "updated": "2026-10-12",
+  "lead": "Saiba como funciona a privacidade em pt.rentbikehanoi.com, que informação pode circular quando visita o site e como contactar a Nguyễn Tú. Distinguimos a navegação neste site das conversas realizadas por telefone ou Zalo.",
+  "updated": "2026-10-14",
   "sections": [
     {
-      "h2": "Quem é responsável",
-      "body": ["Este site é publicado por {{name}} ({{display}}), {{address}}. Para qualquer questão sobre privacidade, contacte-nos pelo telefone ou Zalo {{phone}}."]
-    },
-    {
-      "h2": "Sem formulários, contas ou pagamentos",
-      "body": ["O site não tem formulários de contacto, registo de utilizadores, reservas nem pagamentos online. Não recolhemos através do site o seu nome, e-mail, número de telefone ou outros dados pessoais."]
-    },
-    {
-      "h2": "Cookies e armazenamento local",
+      "h2": "Âmbito desta política e identificação da loja",
       "body": [
-        "O site não utiliza cookies de publicidade nem ferramentas de análise de audiência ou de rastreio.",
-        "Se escolher o tema claro ou escuro, essa preferência fica guardada apenas no seu navegador (armazenamento local, com a chave «pt-theme») para ser aplicada nas visitas seguintes. Não é enviada para nenhum servidor e pode apagá-la limpando os dados do site no navegador."
+        "Esta política aplica-se à navegação em **pt.rentbikehanoi.com**, um site de informação sobre aluguer de motas em Hanói, publicado por **{{name}}**, também apresentado como **{{display}}**. A nossa morada é {{address}} e o contacto direto é {{phone}}. A página [Sobre nós](/sobre-nos/) explica a identidade da loja, enquanto os [Termos e condições](/termos-e-condicoes/) esclarecem a natureza informativa do site.",
+        "É importante distinguir o que acontece **dentro deste website** daquilo que acontece quando decide telefonar, abrir uma aplicação externa ou contratar um aluguer presencialmente. Os sistemas utilizados pelos fornecedores de telecomunicações, pelas aplicações de mensagens e pelo serviço de alojamento podem tratar informações técnicas necessárias ao seu funcionamento. Não controlamos os sistemas dessas empresas nem devemos apresentar as suas práticas como se fossem nossas."
       ]
     },
     {
-      "h2": "Pesquisa no site",
-      "body": ["A pesquisa funciona no seu navegador: ao abri-la, é descarregado um ficheiro com os títulos, descrições e subtítulos das páginas, e o texto que escreve não é enviado para nenhum servidor."]
+      "h2": "Que dados o site pede ao visitante",
+      "body": [
+        "Na versão descrita nesta política, o site não disponibiliza criação de contas, registo de clientes, formulário para pedido de orçamento, pagamento online nem área privada. Não pedimos que escreva nome, endereço de correio eletrónico, número de passaporte ou dados bancários para ler os guias, consultar os preços indicativos ou procurar uma página.",
+        "Esta descrição não significa que toda a navegação na Internet seja anónima. Ao solicitar uma página, o dispositivo comunica dados técnicos à infraestrutura que a entrega, como acontece com outros sites. A ligação à Internet e o alojamento podem necessitar de dados como o endereço IP, o agente de utilizador e o momento do pedido. As condições aplicáveis a estes tratamentos dependem dos respetivos fornecedores.",
+        "Se encontrar um formulário ou uma funcionalidade de recolha que não esteja descrita aqui, contacte-nos antes de enviar informações sensíveis. A página da política deve ser revista sempre que forem introduzidas novas funcionalidades, e não apenas quando o texto editorial do site for atualizado."
+      ]
     },
     {
-      "h2": "Alojamento",
-      "body": ["O site está alojado no GitHub Pages. Como qualquer servidor web, o serviço de alojamento pode registar dados técnicos dos pedidos — por exemplo, o endereço IP e o navegador utilizado — para servir as páginas e proteger a infraestrutura, nos termos da [declaração de privacidade do GitHub](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement)."]
+      "h2": "Alojamento no GitHub Pages e registos técnicos",
+      "body": [
+        "O site é servido através do **GitHub Pages**. Este serviço pode receber dados técnicos necessários para disponibilizar os ficheiros, gerir pedidos de rede, investigar problemas e proteger a infraestrutura. Não temos acesso irrestrito a eventuais registos internos do fornecedor e não podemos afirmar que nenhum dado técnico seja tratado durante a entrega das páginas.",
+        "Para compreender a forma como o fornecedor gere esses dados, consulte a [declaração de privacidade do GitHub](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement). As políticas e os procedimentos do GitHub são definidos pelo próprio serviço e podem mudar. Se necessitar de esclarecimentos sobre uma operação realizada diretamente pelo GitHub, use os canais de contacto indicados na documentação do fornecedor.",
+        "O domínio é utilizado para disponibilizar conteúdos públicos: uma visita normal não cria uma conta pessoal na loja. O facto de uma página ser estática não elimina as operações técnicas necessárias à transmissão pela rede, pelo navegador ou por serviços que o utilizador decida abrir."
+      ]
     },
     {
-      "h2": "Ligações e serviços externos",
-      "body": ["Algumas ligações abrem serviços de terceiros, como o Google Maps, o Zalo ou a aplicação de telefone do seu dispositivo. A partir desse momento, aplicam-se as políticas de privacidade desses serviços."]
+      "h2": "Cookies, publicidade e preferência visual",
+      "body": [
+        "Na configuração atualmente descrita, este site não inclui ferramentas próprias de análise de audiência, publicidade comportamental, pixels de acompanhamento, formulários nem um sistema de contas. Não usamos cookies publicitários no código da página. A ausência dessas funcionalidades refere-se ao que publicamos no website e não às configurações de outros serviços que possa abrir através de uma ligação.",
+        "Existe uma preferência de apresentação: se escolher o tema claro ou escuro, o navegador pode guardar localmente o valor **pt-theme**. Este valor serve apenas para apresentar a interface no tema selecionado na visita seguinte. Não identifica uma pessoa nem contém o seu nome, e a escolha não precisa de ser enviada para a loja.",
+        "Pode alterar o tema no próprio menu. Também pode apagar os dados locais associados ao domínio através das definições do navegador. Nesse caso, o site regressará ao comportamento visual normal do seu dispositivo ou a uma escolha feita posteriormente. Se desativar o armazenamento local, algumas preferências poderão não persistir entre visitas."
+      ]
     },
     {
-      "h2": "Quando nos contacta",
-      "body": ["Se ligar ou escrever para a loja, a conversa decorre fora deste site, através do operador telefónico ou da aplicação escolhida. Os dados que partilhar — por exemplo, o nome, as datas ou o modelo pretendido — servem para responder ao seu pedido e preparar o aluguer."]
+      "h2": "Como funciona a pesquisa interna",
+      "body": [
+        "A pesquisa apresentada no menu foi concebida para funcionar no navegador. Quando a abre, o navegador carrega um índice público com títulos, descrições e outras informações de páginas do site. A pesquisa percorre esse índice localmente e mostra resultados com ligações para os conteúdos publicados.",
+        "Os termos que escreve não são enviados para um serviço de pesquisa da loja na implementação aqui descrita. Ainda assim, a descarga do ficheiro de índice é um pedido normal ao alojamento, sujeito às considerações técnicas explicadas anteriormente. Não inclua dados pessoais na caixa de pesquisa: basta escrever palavras sobre os assuntos que procura, como documentos, preços ou tipos de motas.",
+        "Os resultados da pesquisa são páginas informativas, não uma confirmação automática de disponibilidade ou de reserva. Para uma pergunta específica sobre um veículo, o contacto deverá ser feito pelos canais indicados na página [Contactos](/contactos/)."
+      ]
     },
     {
-      "h2": "Alterações a esta política",
-      "body": ["Se o site passar a incluir formulários, reservas, análise de audiência ou outra funcionalidade que trate dados pessoais, esta política será atualizada antes de essa funcionalidade entrar em funcionamento. A data da última atualização está indicada no topo da página."]
+      "h2": "Telefone, Zalo, mapas e outros serviços externos",
+      "body": [
+        "Os botões **Ligar**, **Zalo** e **Maps** têm a finalidade de facilitar o contacto ou a localização. Ao selecionar um deles, poderá abrir a aplicação de chamadas, um serviço de mensagens ou o Google Maps. Nesses ambientes, podem aplicar-se termos, permissões e políticas de privacidade próprios.",
+        "Uma aplicação de mensagens poderá mostrar dados da sua conta, identificadores ou informações que decida enviar. O operador telefónico poderá tratar números e dados de comunicação. O Google Maps poderá usar informação técnica ou de localização consoante as suas definições. Consulte as políticas desses serviços antes de partilhar dados que considere sensíveis.",
+        "As hiperligações externas são fornecidas por utilidade e não significam que a loja controle a recolha, a conservação ou a eliminação de dados feita por terceiros. Pode consultar os conteúdos do site sem abrir essas aplicações, embora o contacto direto seja necessário para esclarecer as condições concretas de um aluguer."
+      ]
+    },
+    {
+      "h2": "Informações partilhadas durante um pedido de aluguer",
+      "body": [
+        "Se entrar em contacto com a loja, poderá optar por indicar datas, duração prevista do aluguer, categoria de veículo, local de recolha pretendido e outras informações necessárias para responder ao pedido. A conversa decorre fora do website, pelo canal de comunicação escolhido. Não presuma que uma mensagem enviada através de uma aplicação de terceiros fica registada apenas no seu dispositivo.",
+        "Alguns alugueres podem exigir confirmação de documentos e de condições específicas. Este website não solicita o envio de fotografias de documentos numa página pública. Antes de transmitir informações de identificação por mensagem, pergunte à loja que documentos são necessários, para que fim serão utilizados e qual o meio adequado para os apresentar.",
+        "Partilhe apenas as informações proporcionais ao que pretende resolver. Não inclua palavras-passe, dados bancários desnecessários ou cópias de documentos em comentários públicos ou em canais que não tenha confirmado como sendo os oficiais. O número de contacto da loja indicado no website é **{{phone}}**."
+      ]
+    },
+    {
+      "h2": "Finalidade, conservação e acesso à informação de contacto",
+      "body": [
+        "Quando comunica diretamente com a loja, os dados que voluntariamente fornece podem ser utilizados para esclarecer preços e disponibilidade, organizar a comunicação e preparar um eventual contrato de aluguer. O conteúdo da conversa e o tratamento feito pela aplicação usada para a transmitir devem ser distinguidos do funcionamento do website estático.",
+        "Não publicamos nesta página um período fixo de conservação aplicável a todas as conversas ou a todos os documentos, porque isso dependeria do tipo de informação, do canal utilizado e de obrigações concretas que não estão integralmente descritas neste site. Para saber como um pedido específico será tratado, contacte a loja diretamente antes de enviar documentação.",
+        "Se lhe for solicitada informação que não pareça necessária ao pedido, poderá pedir uma explicação sobre a finalidade e o destinatário. O objetivo é que a comunicação sobre o aluguer seja clara e que o visitante saiba distinguir informação pública de dados pessoais enviados numa conversa individual."
+      ]
+    },
+    {
+      "h2": "Pedidos de esclarecimento, correção ou eliminação",
+      "body": [
+        "Para perguntar que informações comunicou à loja, solicitar a correção de um contacto incorreto ou esclarecer o destino de documentos fornecidos diretamente, utilize **{{phone}}** por telefone ou Zalo. Explique qual foi o canal usado, a data aproximada da conversa e o tipo de pedido, sem divulgar mais dados do que os necessários para localizar a comunicação.",
+        "A possibilidade de atender pedidos de acesso, alteração ou eliminação depende da natureza dos dados, das regras aplicáveis e de eventuais deveres de conservação. Não prometemos uma eliminação imediata ou um prazo universal que não tenha sido confirmado. Sempre que a questão diga respeito a um fornecedor externo, poderá ser necessário contactar esse fornecedor diretamente.",
+        "Se considerar que uma informação publicada no site expõe indevidamente dados pessoais, indique a página exata na sua mensagem. A loja poderá analisar o conteúdo publicado e corrigir o que esteja incorreto, sem que isso implique modificar registos pertencentes a plataformas externas."
+      ]
+    },
+    {
+      "h2": "Menores, segurança e utilização responsável",
+      "body": [
+        "Os guias deste site destinam-se a pessoas que procuram informação sobre mobilidade e aluguer de motas. Não existe um processo online de registo dirigido a crianças ou adolescentes. A leitura dos conteúdos não constitui autorização para conduzir um veículo nem substitui os requisitos legais de idade, documentação e habilitação.",
+        "Evite enviar documentos de menores, dados de saúde ou informações financeiras através de aplicações de mensagens sem compreender por que razão são solicitados e que proteções se aplicam. Se estiver a organizar uma viagem em família, pode pedir primeiro informação geral à loja, sem remeter documentação individual.",
+        "Também recomendamos que mantenha o navegador e o dispositivo atualizados e que confirme o domínio antes de seguir ligações recebidas fora do site. O endereço oficial desta versão portuguesa é **pt.rentbikehanoi.com**."
+      ]
+    },
+    {
+      "h2": "Atualizações desta política e outras páginas úteis",
+      "body": [
+        "Esta política descreve as funcionalidades conhecidas do site na data apresentada no topo. Poderá ser revista se forem acrescentados formulários, sistemas de reservas, análise de audiência, integrações externas ou outros meios que modifiquem o tratamento de dados. As alterações editoriais devem ser acompanhadas por uma verificação técnica da implementação.",
+        "Para saber quem publica os conteúdos, consulte [Sobre nós](/sobre-nos/). Para compreender o alcance dos preços, das descrições e das condições de utilização do website, leia [Termos e condições](/termos-e-condicoes/). Para solicitar esclarecimentos concretos, vá a [Contactos](/contactos/). O visitante também pode regressar à [página inicial](/) e explorar os guias sem criar uma conta.",
+        "A transparência depende de o texto corresponder ao funcionamento efetivo do site. Por isso, se observar uma funcionalidade que pareça recolher dados e não esteja descrita nesta política, agradecemos que o comunique para podermos verificar e, se necessário, atualizar a informação publicada."
+      ]
     }
-  ]
+  ],
+  "toc": true
 }

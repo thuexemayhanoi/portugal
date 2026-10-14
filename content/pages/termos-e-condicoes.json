@@ -6,32 +6,105 @@
   "description": "Condições de utilização deste site informativo: natureza dos preços de referência, acordo de aluguer feito com a loja e responsabilidades de quem conduz.",
   "h1": "Termos e condições",
   "eyebrow": "Informação legal",
-  "lead": "As condições de utilização deste site. O aluguer propriamente dito rege-se pelo acordo feito diretamente com a loja.",
-  "updated": "2026-10-12",
+  "lead": "Consulte as regras de utilização de pt.rentbikehanoi.com e saiba como distinguir informação geral, preços de referência e condições que têm de ser confirmadas diretamente com a Nguyễn Tú.",
+  "updated": "2026-10-14",
   "sections": [
     {
-      "h2": "Natureza do site",
-      "body": ["Este site é informativo. Apresenta a loja {{name}}, os tipos de motas disponíveis, preços de referência e guias práticos. Não é possível reservar, contratar nem pagar através do site."]
+      "h2": "Quem publica o website e a quem se destina",
+      "body": [
+        "Este website apresenta informações sobre a loja de aluguer de motas **{{name}}**, também identificada como **{{display}}**, situada em {{address}}. A finalidade é ajudar pessoas que procuram conhecer veículos, preços orientativos, documentação, circulação e mobilidade em Hanói antes de entrar em contacto com a loja.",
+        "O conteúdo está redigido em português de Portugal para tornar a informação mais acessível a visitantes que utilizam esta variante da língua. Pode ler as páginas públicas, consultar a pesquisa e seguir as hiperligações sem criar uma conta. Se quiser saber mais sobre a identidade e os contactos da entidade apresentada, visite [Sobre nós](/sobre-nos/) e [Contactos](/contactos/).",
+        "A utilização do website pressupõe que compreende a natureza informativa das páginas. A simples leitura de um artigo, a seleção de um botão ou a abertura de uma página de preços não constitui um contrato de aluguer nem confirma que um veículo esteja reservado."
+      ]
     },
     {
-      "h2": "Preços e disponibilidade",
-      "body": ["Os preços publicados são valores de referência da tabela da loja e podem mudar. Não constituem uma oferta vinculativa nem garantem disponibilidade. O preço final, o modelo, a caução e as restantes condições são confirmados pela loja para cada aluguer."]
+      "h2": "Informação editorial e limite das explicações gerais",
+      "body": [
+        "Os guias descrevem assuntos úteis para organizar uma deslocação ou um eventual aluguer: categorias de motas, preços publicados, preparação da viagem, documentos e regras de circulação. Procuramos distinguir factos confirmados de exemplos, hipóteses e informações que dependem do veículo específico.",
+        "Um artigo pode citar uma lei, a ficha técnica de um fabricante ou uma notícia sobre mobilidade. Esses elementos devem ser interpretados no respetivo contexto, tendo em conta a data da consulta. Uma regra aplicável a determinada categoria de veículo pode não se aplicar a outra, e uma alteração legislativa pode modificar a informação anteriormente publicada.",
+        "O website não substitui aconselhamento jurídico, uma avaliação profissional de segurança rodoviária nem a consulta das autoridades competentes. Em caso de dúvida sobre documentos, carta de condução, idade mínima ou circulação, verifique as regras oficiais em vigor antes de tomar uma decisão."
+      ]
     },
     {
-      "h2": "O acordo de aluguer",
-      "body": ["As condições do aluguer — veículo, datas, preço, caução, entrega, devolução e responsabilidades — são acordadas diretamente com a loja no momento do aluguer. Se houver diferenças entre a informação do site e o acordo, prevalece o acordo."]
+      "h2": "Preços de referência, propostas e disponibilidade",
+      "body": [
+        "Os valores apresentados em [Preços](/precos/) são referências informativas baseadas nos dados publicados da loja. A tabela pode abranger categorias de veículos e durações diferentes, mas não constitui garantia de disponibilidade, reserva automática ou preço final para qualquer pessoa e qualquer data.",
+        "Para obter uma proposta concreta, informe o período pretendido, a categoria ou o modelo desejado e outros detalhes relevantes. A loja deverá confirmar diretamente o veículo disponível, a tarifa aplicável e os serviços ou condições associados. O custo de uma semana ou de um mês não tem de ser o produto da tarifa diária pelo número de dias.",
+        "Quando um valor não estiver confirmado, o website pode indicar que o preço é sob consulta. Isto não autoriza a presumir uma tarifa com base num exemplo de fabricante ou num artigo de outra região. Antes de decidir, peça sempre o total para o período pretendido e esclareça eventuais custos adicionais."
+      ]
     },
     {
-      "h2": "Responsabilidade de quem conduz",
-      "body": ["Quem conduz é responsável por ter a habilitação exigida para a categoria do veículo, por cumprir as regras de trânsito do Vietname e por verificar o estado da mota antes de circular. As informações legais do site são gerais, indicam as fontes consultadas e não substituem a legislação em vigor nem aconselhamento jurídico."]
+      "h2": "Como se forma um eventual acordo de aluguer",
+      "body": [
+        "Este website não disponibiliza um processo de checkout, assinatura eletrónica, reserva online vinculativa ou pagamento na própria página. Os botões de contacto permitem iniciar uma conversa fora do site, mas não significam, por si só, que a loja aceitou uma reserva.",
+        "Se ambas as partes avançarem para um aluguer, os elementos práticos deverão ser confirmados diretamente: veículo, período, montante, condições de pagamento, caução, documentos, local de entrega e devolução, utilização prevista e responsabilidades aplicáveis. Não assuma que um esclarecimento genérico publicado noutro artigo substitui aquilo que foi efetivamente acordado.",
+        "Se existir diferença entre um exemplo informativo do website e uma condição específica comunicada pela loja, peça esclarecimento antes de aceitar. As condições aplicáveis ao aluguer são as que forem validamente acordadas entre as partes, sem prejuízo dos direitos e regras legais que não possam ser afastados por acordo."
+      ]
     },
     {
-      "h2": "Conteúdos e ligações externas",
-      "body": ["Procuramos manter os conteúdos corretos e atualizados, com a data de revisão indicada em cada página. As ligações para sites de terceiros são fornecidas para consulta; não controlamos esses conteúdos."]
+      "h2": "Documentos de identificação, caução e pagamentos",
+      "body": [
+        "Os requisitos documentais e as modalidades de caução devem ser esclarecidos para o aluguer concreto. O website não estabelece aqui uma quantia única, não promete aluguer sem caução e não afirma que todos os modelos estejam disponíveis nas mesmas condições. Um texto de ajuda não deve ser confundido com uma tabela contratual completa.",
+        "Antes de fornecer documentos pessoais, pergunte que dados são necessários e de que modo devem ser apresentados. Evite transmitir informação sensível por meios que não tenha confirmado como sendo os contactos oficiais. Para questões sobre privacidade e comunicação fora do site, consulte a [Política de privacidade](/politica-de-privacidade/).",
+        "O pagamento e a eventual devolução de uma caução devem ser regulados pelas condições efetivamente acordadas. Se um detalhe for importante para a sua decisão — por exemplo, prazo, forma de restituição ou comportamento em caso de alteração das datas — peça que fique claro antes de prosseguir."
+      ]
     },
     {
-      "h2": "Contacto",
-      "body": ["Para qualquer questão sobre estes termos ou sobre um aluguer, contacte a loja pelo {{phone}}, {{hours}}."]
+      "h2": "Habilitação legal e responsabilidade de condução",
+      "body": [
+        "É responsabilidade de quem pretende conduzir verificar se possui a habilitação válida exigida pela legislação aplicável para a categoria e características do veículo. Não presuma que uma mota de baixa cilindrada ou uma mota elétrica possa ser conduzida sem documentos apenas porque parece pequena ou fácil de utilizar.",
+        "A circulação deve respeitar as regras de trânsito e sinalização do Vietname, os limites de velocidade e as restrições de circulação aplicáveis à via e ao veículo. A utilização de equipamento adequado e a avaliação das condições da estrada são aspetos fundamentais para uma viagem responsável.",
+        "Informações gerais sobre documentos ou segurança não representam uma autorização individual da loja nem das autoridades. Se não tiver experiência suficiente para circular no trânsito de Hanói ou se não reunir os requisitos legais, considere outros meios de transporte. Os guias de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/) e [preparação do aluguer](/guia-de-aluguer/) ajudam a estruturar as perguntas."
+      ]
+    },
+    {
+      "h2": "Verificação do veículo e comunicação de problemas",
+      "body": [
+        "Antes de utilizar um veículo, é prudente confirmar as condições que foram acordadas e observar os elementos básicos de segurança, como travões, pneus, luzes, comandos e estado geral. Qualquer dúvida sobre o funcionamento de um modelo específico deve ser esclarecida antes de iniciar o percurso.",
+        "Também é importante saber como comunicar uma avaria, uma alteração de planos ou um problema que impeça o uso normal do veículo. Os procedimentos concretos de assistência, substituição, danos ou devolução são matéria do acordo aplicável ao aluguer e não devem ser deduzidos de afirmações genéricas.",
+        "Este website não promete assistência permanente, reparação gratuita nem cobertura de seguro sem confirmação expressa. Em caso de situação urgente na via pública, a prioridade é a segurança das pessoas e o cumprimento das instruções das autoridades e dos serviços competentes."
+      ]
+    },
+    {
+      "h2": "Entrega, devolução e alteração de planos",
+      "body": [
+        "O horário, a localização e as modalidades de entrega ou recolha podem influenciar a organização de um aluguer. O facto de uma página referir uma zona de Hanói ou um exemplo de itinerário não significa que exista entrega garantida nesse local ou que o serviço esteja incluído no preço.",
+        "Se precisar de recolher ou devolver a mota num endereço específico, comunique-o ao pedir a proposta. Confirme a hora combinada, o estado em que o veículo deverá ser devolvido e o que acontece se houver atrasos ou alterações às datas. É especialmente importante clarificar essas condições quando uma estadia depende de voos, comboios ou deslocações longas.",
+        "Os detalhes acordados diretamente com a loja devem ser preservados de forma suficientemente clara para ambas as partes. Esta página explica por que razão deve perguntar, mas não estabelece regras comerciais individuais que não tenham sido verificadas."
+      ]
+    },
+    {
+      "h2": "Ligações externas e conteúdos de terceiros",
+      "body": [
+        "Podemos incluir ligações para Google Maps, serviços de mensagens, fontes oficiais, fabricantes e outros recursos externos. Essas páginas ajudam a localizar a loja ou a verificar informação citada, mas o conteúdo de terceiros é gerido pelos respetivos responsáveis.",
+        "Uma ligação não significa endosso de todos os produtos, preços ou declarações que apareçam num website externo. As páginas de terceiros podem mudar de endereço, alterar as suas políticas ou deixar de estar disponíveis. Se encontrar uma ligação desatualizada, agradecemos uma mensagem para o número oficial.",
+        "Quando decide abrir um serviço externo, podem aplicar-se condições próprias de utilização e privacidade. A [Política de privacidade](/politica-de-privacidade/) descreve a distinção entre a navegação no nosso website e os serviços abertos pelo visitante."
+      ]
+    },
+    {
+      "h2": "Direitos de autor, citações e utilização dos conteúdos",
+      "body": [
+        "Os textos, elementos gráficos e a organização editorial do site destinam-se à consulta informativa. As marcas e os nomes de fabricantes, plataformas ou entidades referidos pertencem aos respetivos titulares. Uma menção é usada para identificação, comparação ou consulta e não deve ser interpretada como representação comercial não confirmada.",
+        "Pode guardar ligações para artigos e partilhar os respetivos endereços para ajudar outras pessoas a encontrar a informação. Se pretender reproduzir integralmente textos ou imagens em outro website, deverá verificar previamente os direitos aplicáveis e solicitar autorização quando necessária.",
+        "Os guias podem ser atualizados para corrigir dados, melhorar a clareza ou refletir novas fontes. Uma reprodução antiga feita noutro local pode não refletir o conteúdo atual. É preferível partilhar a ligação original e indicar a data em que a informação foi consultada."
+      ]
+    },
+    {
+      "h2": "Disponibilidade técnica e correção de informação",
+      "body": [
+        "Procuramos disponibilizar o website de forma estável, mas o acesso pode ser afetado por manutenção, serviços de alojamento, conectividade ou alterações técnicas. Não garantimos que todas as páginas estejam acessíveis sem interrupção em todos os dispositivos e redes.",
+        "Os conteúdos são preparados com verificações editoriais e técnicas, mas podem conter erros ou ficar desatualizados depois da publicação. Se detetar uma informação incorreta sobre a loja, uma ligação quebrada ou uma descrição de uma regra que pareça desatualizada, indique a página e o ponto em causa.",
+        "A correção de um erro editorial não altera retroativamente um acordo de aluguer celebrado entre partes. Não utilizamos estas condições informativas para afastar direitos legalmente imperativos dos visitantes ou clientes."
+      ]
+    },
+    {
+      "h2": "Alterações destes termos e resolução de dúvidas",
+      "body": [
+        "Estes termos podem ser revistos quando o website alterar funcionalidades, quando a informação institucional precisar de maior clareza ou quando existirem mudanças relevantes que justifiquem uma atualização. A data apresentada no topo indica a versão editorial disponibilizada nesta página.",
+        "Para esclarecimentos, contacte diretamente **{{name}}** pelo **{{phone}}**. O horário indicado é **{{hours.display}}** e a morada é **{{address}}**. Se a pergunta disser respeito a uma proposta, inclua as datas e a categoria de veículo para facilitar a resposta.",
+        "Consulte ainda [Sobre nós](/sobre-nos/) para identificar a loja, a [Política de privacidade](/politica-de-privacidade/) para conhecer os aspetos relacionados com dados e serviços externos, a página [Contactos](/contactos/) para falar com a loja ou a [página inicial](/) para voltar aos restantes guias. As três páginas institucionais estão ligadas entre si para facilitar a consulta."
+      ]
     }
-  ]
+  ],
+  "toc": true
 }
