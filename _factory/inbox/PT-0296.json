@@ -1,0 +1,318 @@
+{
+  "contract_version": 1,
+  "id": "PT-0296",
+  "slug": "tam-dao-de-mota",
+  "title": "Tam Đảo de mota a partir de Hanói: subida e clima",
+  "description": "Tam Đảo fica a 80–85 km de Hanói: percurso sem autoestradas, 13 km de subida em curvas, nevoeiro, frio e o que combinar com a loja antes de partir.",
+  "h1": "Subir a Tam Đảo de mota: a estrada de montanha, o nevoeiro e o frio",
+  "summary": "Tam Đảo fica a 80 a 85 km de Hanói e, segundo os guias, são 1,5 a 2 horas de mota, com cerca de 13 km finais de subida em curvas apertadas pela QL2B. Escolha um dia seco, parta cedo para descer com luz, leve uma camada contra o frio e o nevoeiro e peça autorização à loja antes de partir.",
+  "key_points": [
+    "Os guias dão 75 a 85 km a partir de Hanói e 1,5 a 2 horas de mota; o último troço é uma subida de cerca de 13 km, com curvas apertadas.",
+    "A estância passou a pertencer à província de Phú Thọ a 1 de julho de 2025; guias mais antigos ainda a situam em Vĩnh Phúc.",
+    "No alto faz cerca de 5 a 7 °C menos do que em Hanói, e a polícia avisa de nevoeiro e piso escorregadio na QL2B.",
+    "A imprensa noticiou deslizamentos na QL2B, com pedido para evitar o troço entre o km 13 e o km 24: confirme o estado da estrada no próprio dia.",
+    "As motas não podem usar autoestradas: planeie por estradas nacionais e peça à loja autorização para a viagem e conselho sobre o modelo."
+  ],
+  "intro": [
+    "Tam Đảo é uma estância de montanha que os guias propõem como escapadela de Hanói em dias de calor, com temperaturas mais baixas e nevoeiro frequente. Para quem tem uma mota alugada, a tentação é óbvia. A subida, porém, é o troço mais exigente de uma viagem que, na planície, é simples.",
+    "Este guia junta o que a imprensa e os guias vietnamitas dizem sobre a distância, o percurso, a subida em curvas, o clima e os avisos de deslizamento, e separa o que não conseguimos confirmar. A conversa geral com a loja sobre sair de Hanói está em [levar a mota alugada para fora de Hanói](/guia-de-aluguer/autorizacao-para-sair-de-hanoi/), e o plano para uma avaria em [avaria de mota fora de Hanói](/guia-de-aluguer/avaria-longe-de-hanoi/): aqui só se acrescenta o que é específico desta montanha. Para outras saídas, veja [Rotas e mobilidade](/rotas-e-mobilidade/)."
+  ],
+  "sections": [
+    {
+      "h2": "Onde fica Tam Đảo e a que província pertence hoje",
+      "body": [
+        "Tam Đảo é uma vila de montanha na serra com o mesmo nome. Os guias consultados a 14 de outubro de 2026 não coincidem na distância a Hanói: a Vietnam Airlines e outra fonte dizem 80 km, um guia diz 85 km e cerca de 2 horas, e a Vietnam News fala em 75 km. Em mota, os guias apontam 1,5 a 2 horas. Use a distância como um intervalo e deixe margem, porque a estrada de montanha é mais lenta do que a de planície.",
+        "Houve uma mudança administrativa que confunde as pesquisas. Tam Đảo pertencia à província de Vĩnh Phúc e passou para a de Phú Thọ a 1 de julho de 2025, quando Vĩnh Phúc, Hòa Bình e Phú Thọ se fundiram, com base na Resolução 202/2025/QH15, segundo a imprensa e uma base de dados jurídica vietnamita. Os guias mais antigos continuam a escrever «Vĩnh Phúc»: é a mesma estância, e para chegar lá a mudança de nome não altera a estrada.",
+        "A altitude também varia conforme a fonte: umas dão pouco mais de 900 m, outras mais de 1000 m, e há quem escreva 1500 m. Os picos da serra rondam 1300 a 1400 m. Fique com a ideia de que a vila está perto de 1000 m acima do mar, o suficiente para alterar o clima."
+      ]
+    },
+    {
+      "h2": "O percurso por estradas nacionais, sem autoestradas",
+      "body": [
+        "O VnExpress descreve o caminho em três partes: cerca de 50 km pela estrada nacional 2 (QL2), 24 km pela QL2B e quase 13 km de estrada de montanha até ao centro da vila. A soma dá um pouco mais do que os 80 a 85 km dos guias, o que mostra o grau de aproximação destes números. A Vietnam Airlines sugere sair do centro pela ponte Thăng Long, seguir para Vĩnh Yên e virar para a QL2B.",
+        {
+          "table": {
+            "caption": "As três partes do percurso, segundo o VnExpress (consulta de 14 de outubro de 2026)",
+            "head": [
+              "Troço",
+              "Distância indicada",
+              "O que esperar"
+            ],
+            "rows": [
+              [
+                "Hanói até à QL2B, pela QL2",
+                "Cerca de 50 km",
+                "Estrada de planície, com trânsito de camiões e povoações; é a parte em que mais se ganha ou perde tempo"
+              ],
+              [
+                "QL2B, até ao sopé",
+                "Cerca de 24 km",
+                "Entrada na zona montanhosa; a polícia alertou para deslizamentos nesta estrada"
+              ],
+              [
+                "Subida até à vila",
+                "Quase 13 km",
+                "Estrada de montanha com muitas curvas apertadas; o troço decisivo"
+              ]
+            ]
+          }
+        },
+        "O percurso descrito pelos guias usa estradas nacionais, mas é fácil enganar-se: uma aplicação de navegação pode propor a via mais rápida, que pode ser uma autoestrada (cao tốc). As motas não podem circular nelas. Segundo a imprensa vietnamita, a coima é de 4 a 6 milhões de VND e a perda de 6 pontos na carta, ao abrigo do Decreto 168/2024/NĐ-CP, e a polícia de trânsito de Hanói tem multado motociclistas que entram em autoestradas.",
+        {
+          "note": "Antes de sair, ative a opção de evitar autoestradas na aplicação e reveja o mapa até à QL2B. Nenhuma autorização da loja permite usar uma autoestrada. O guia sobre [vias proibidas às motas em Hanói](/guia-de-aluguer/vias-proibidas-a-motas-em-hanoi/) explica como reconhecer essas vias.",
+          "tone": "warn",
+          "title": "Autoestrada, nunca"
+        }
+      ]
+    },
+    {
+      "h2": "A subida em curvas: o que as fontes dizem e o que a mota tem de fazer",
+      "body": [
+        "A subida («đèo» em vietnamita) tem cerca de 13 km e muitas curvas em cotovelo, as «cua tay áo». Segundo as fontes, a estrada foi alargada e asfaltada e tem espelhos convexos e rails nas curvas mais fechadas. Isso ajuda, mas não elimina o essencial: curvas cegas, camiões e autocarros em sentido contrário e, com nevoeiro, pouca visibilidade.",
+        "A polícia alerta que a QL2B tem curvas apertadas, visibilidade reduzida e piso permanentemente húmido e escorregadio por causa do nevoeiro. A notícia não tem data legível, mas o aviso bate com a descrição das outras fontes.",
+        {
+          "h3": "Que mota pede esta estrada"
+        },
+        "O VnExpress aconselha uma mota de mudanças por causa da inclinação e das curvas, e uma das fontes nota que as scooters automáticas são menos adequadas nas descidas. São opiniões de guias, não regras. A razão é o travão: numa descida longa, uma mota de mudanças deixa usar o motor para segurar a velocidade, enquanto numa scooter automática o travão trabalha mais e aquece. Se nunca conduziu uma semiautomática, uma estrada de montanha não é o sítio para aprender; veja o guia sobre a [semiautomática em viagem fora de Hanói](/tipos-de-motas/semiautomatica-para-viagens/) e o das [scooters automáticas](/tipos-de-motas/scooters/).",
+        "Seja qual for o modelo, verifique antes de partir o que a descida vai exigir:",
+        {
+          "checklist": [
+            "**Travões à frente e atrás**: teste-os com a mota carregada e peça à loja que os veja antes de uma viagem de montanha. O guia sobre [como verificar os travões](/guia-de-aluguer/verificar-os-travoes/) mostra o teste.",
+            "**Pneus e pressão**: curvas molhadas pedem pneus em bom estado; veja [pneus e pressão](/guia-de-aluguer/pneus-e-pressao/).",
+            "**Luzes e viseira**: com nevoeiro, a luz da frente e a de trás têm de funcionar, e a viseira limpa e sem riscos faz diferença.",
+            "**Depósito cheio no sopé**: as fontes dizem que há poucas bombas de gasolina no cimo. Abasteça antes de começar a subir."
+          ]
+        },
+        "Na descida, a regra prática é abrandar antes da curva e não dentro dela, manter a faixa e não cortar curvas cegas, mesmo quando a estrada parece vazia. É um conselho geral de condução em montanha, não uma regra das fontes. A [condução defensiva](/guia-de-aluguer/conducao-defensiva/) desenvolve os princípios."
+      ]
+    },
+    {
+      "h2": "Nevoeiro, frio e chuva: o que dizem as fontes",
+      "body": [
+        "Não encontrámos uma tabela mensal de temperaturas nem um boletim oficial para a estância, e as fontes divergem em alguns pontos. O que está em várias delas é que no alto faz sensivelmente menos calor do que na planície: a Vietnam Airlines dá cerca de 5 a 7 °C a menos do que em Hanói; outras fontes falam numa média anual entre 18 e 21 °C e, no verão, 20 a 26 °C quando a planície chega a 35 a 38 °C.",
+        {
+          "table": {
+            "caption": "O que as fontes dizem sobre o clima de Tam Đảo (consulta de 14 de outubro de 2026)",
+            "head": [
+              "Tema",
+              "O que dizem as fontes",
+              "O que fazer com isto"
+            ],
+            "rows": [
+              [
+                "Temperatura",
+                "Cerca de 5 a 7 °C a menos do que em Hanói; verão a 20–26 °C quando a planície passa dos 35 °C",
+                "Leve uma camada de manga comprida, mesmo no verão"
+              ],
+              [
+                "Nevoeiro",
+                "Há fontes que o dão quase todo o ano; outras situam o nevoeiro denso de novembro a janeiro; uma refere visibilidade reduzida em março e abril",
+                "Não conte com um mês «sem nevoeiro»; veja a previsão na véspera"
+              ],
+              [
+                "Época alta",
+                "Junho a agosto, com chuva repentina",
+                "Parta cedo e tenha capa de chuva; as tardes são o risco"
+              ],
+              [
+                "Piso",
+                "A polícia fala em piso húmido e escorregadio na QL2B por causa do nevoeiro",
+                "Abrande nas curvas, mesmo sem chuva"
+              ]
+            ]
+          }
+        },
+        "As divergências sobre o nevoeiro são reais e não as vamos resolver: uma fonte diz que é quase permanente, outra dá os meses de inverno. A leitura prudente é que, em qualquer altura, a subida pode ter nevoeiro e piso húmido, e que de novembro a janeiro o risco é maior. O guia sobre o [nevoeiro nas estradas de montanha do Norte](/rotas-e-mobilidade/nevoeiro-nas-estradas-de-montanha/) explica quando adiar a viagem e como conduzir se o nevoeiro surgir a meio do caminho.",
+        "Para o frio e a chuva, a roupa conta mais do que a mota. Leve um casaco corta-vento ou impermeável e luvas finas se for sensível ao frio; a [capa de chuva e outros acessórios](/precos/capa-de-chuva-e-acessorios/) e o guia sobre [piso molhado e chuva](/guia-de-aluguer/piso-molhado-e-chuva/) dizem o que pedir à loja e como travar. Na época das chuvas, a imagem muda de semana para semana: veja a [época das chuvas em Hanói](/rotas-e-mobilidade/epoca-das-chuvas-em-hanoi/) e os [alertas de tufão](/rotas-e-mobilidade/tufoes-e-alertas-meteorologicos/), e não parta com aviso de chuva forte para a serra."
+      ]
+    },
+    {
+      "h2": "Deslizamentos na QL2B: confirmar a estrada antes de partir",
+      "body": [
+        "Em estradas de montanha, a chuva prolongada traz deslizamentos de terra. A imprensa vietnamita (Tiền Phong, Doanh nghiệp Hội nhập e Thương hiệu & Công luận) noticiou um deslizamento na QL2B, ao km 22, com a polícia a pedir às pessoas que evitassem o troço entre o km 13 e o km 24 e uma proibição temporária de circulação a partir das 10:00 de um dia 21, por causa da chuva prolongada. Houve outro deslizamento, em 2015, ao km 14+400.",
+        "Não conseguimos confirmar o ano exato do episódio mais recente, porque os excertos não o mostram sem dúvida, nem quando a restrição foi levantada. É por isso que a regra deste guia é pedir o estado da estrada no dia: um deslizamento pode fechar a subida durante horas ou dias, e uma viagem de ida e volta com a estrada fechada à descida é um problema para a mota e para o horário da loja.",
+        {
+          "ul": [
+            "Pesquise, em vietnamita, «sạt lở Quốc lộ 2B Tam Đảo» (deslizamento na QL2B) e ordene por data.",
+            "Se tiver alojamento marcado na serra, pergunte-lhe na véspera se a estrada está aberta.",
+            "Depois de chuva forte, adie um dia: a terra continua a ceder depois de a chuva parar.",
+            "Se encontrar uma barreira ou um agente a mandar voltar atrás, volte; não procure outra subida."
+          ]
+        },
+        {
+          "note": "Se a estrada fechar enquanto está lá em cima, não parta do princípio de que a loja vai buscar a mota. O que acontece nesse caso deve ficar combinado antes: é o plano do guia de [avaria longe de Hanói](/guia-de-aluguer/avaria-longe-de-hanoi/).",
+          "tone": "info",
+          "title": "E se a estrada fechar?"
+        }
+      ]
+    },
+    {
+      "h2": "Quando ir e como repartir o dia",
+      "body": [
+        "As fontes dão junho a agosto como a época de maior afluência, com chuva repentina, e é também quando o calor da planície torna a serra mais atraente. Fora dessa época, há menos gente e as manhãs são mais límpidas. O que decide é o dia concreto: ver a previsão na véspera e partir com céu estável.",
+        "Com 1,5 a 2 horas por sentido, segundo os guias, mais a subida e as paragens, é uma saída para fazer de manhã cedo. Numa conta de exemplo, com a loja aberta {{hours}}: levantar a mota às {{opens}}, estar no sopé por volta das 11:00, reservar o início da tarde para a vila e começar a descer a meio da tarde, para chegar a Hanói ainda de dia e antes de {{closes}}. As horas são ilustrativas: dependem do trânsito, das paragens e da mota.",
+        "Não deixe a descida para o fim da tarde. A subida é o troço que mais cansa e a descida em curvas com a luz a diminuir, sobretudo com nevoeiro, é o cenário a evitar. O guia sobre [conduzir de mota à noite](/guia-de-aluguer/conduzir-de-mota-a-noite/) explica porque a noite agrava tudo, e o das [horas de ponta](/guia-de-aluguer/horas-de-ponta-em-hanoi/) ajuda a escolher a hora de entrada em Hanói no regresso.",
+        "Para uma saída de um dia, o preço de referência começa em {{price.min.day}} por dia, verificado a {{pricing.verifiedAt}}, mas o que pesa é o tempo: com um [aluguer de mota por um dia](/precos/aluguer-de-mota-por-um-dia/), peça à loja que confirme a hora de devolução antes de partir. Se preferir uma noite na serra, diga-o logo, porque muda o pedido."
+      ]
+    },
+    {
+      "h2": "O que combinar com a loja para esta viagem",
+      "body": [
+        "A conversa de base com a loja está no guia de [autorização para sair de Hanói](/guia-de-aluguer/autorizacao-para-sair-de-hanoi/), e o plano para uma avaria no de [avaria longe de Hanói](/guia-de-aluguer/avaria-longe-de-hanoi/). Para Tam Đảo, junte à mensagem os pontos que só esta viagem levanta:",
+        {
+          "checklist": [
+            "Diga o destino, «Tam Đảo, pela QL2 e QL2B, com 13 km de subida em curvas», o dia, a hora de partida e a hora de regresso prevista.",
+            "Pergunte se o modelo que tem serve para a subida e a descida, e se a loja recomenda outro; peça-o por escrito.",
+            "Peça que veja os travões e os pneus antes de sair, e fotografe a mota como no [checklist de inspeção](/guia-de-aluguer/checklist-de-inspecao/).",
+            "Pergunte o que fazer se a estrada fechar por deslizamento ou se a mota avariar na serra, e a que número ligar.",
+            "Confirme o seguro obrigatório e os documentos que deve levar: [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/)."
+          ]
+        },
+        "A loja responde caso a caso e não publicamos uma lista de destinos aceites. Se a resposta for não para esse modelo, pergunte se outro serve. Se não houver solução, uma saída mais curta, como o [Parque Nacional de Ba Vì de mota](/rotas-e-mobilidade/ba-vi-de-mota/), também exige frio e cuidado, mas tem menos quilómetros. Para outra viagem de montanha mais longa, o guia de [Mai Châu de mota](/rotas-e-mobilidade/mai-chau-de-mota/) mostra o que muda com a distância, e o de [Ninh Bình de mota](/rotas-e-mobilidade/ninh-binh-de-mota/) trata de uma saída de planície.",
+        "Para falar com a loja, use [Contactos](/contactos/) ou ligue para o {{phone}}."
+      ]
+    },
+    {
+      "h2": "O que não conseguimos confirmar",
+      "body": [
+        {
+          "ul": [
+            "**Bilhete ou portagem** de acesso à serra: os resultados não os mencionam, por isso não afirmamos que existam nem que não existam.",
+            "**Regras de trânsito específicas** para motas na subida: não encontrámos nenhuma; valem as regras gerais.",
+            "**Temperaturas mês a mês** e uma fonte meteorológica oficial para a estância: as fontes são guias e imprensa, e divergem.",
+            "**Ano e levantamento** da restrição por deslizamento: consulte as notícias mais recentes.",
+            "**Nome atual da comuna** onde fica a vila, depois da reorganização de 2025: use «Tam Đảo» no mapa."
+          ]
+        },
+        "Os números deste guia são de guias de viagem e de imprensa vietnamita consultados a 14 de outubro de 2026. São indicativos: confirme o estado da estrada e a previsão do tempo no próprio dia."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Quanto tempo demora ir de Hanói a Tam Đảo de mota?",
+      "a": "Os guias dão 1,5 a 2 horas por sentido, para 75 a 85 km, conforme a fonte. Conte com mais tempo se partir à hora de ponta ou parar, porque os últimos 13 km são uma subida em curvas, mais lenta do que a planície."
+    },
+    {
+      "q": "Posso ir a Tam Đảo por autoestrada?",
+      "a": "Não, de mota. As motas estão proibidas nas autoestradas vietnamitas, com coima de 4 a 6 milhões de VND e perda de 6 pontos, segundo a imprensa. Use a QL2 e a QL2B e ative a opção de evitar autoestradas na aplicação de mapas."
+    },
+    {
+      "q": "Uma scooter automática serve para a subida?",
+      "a": "Sobe, mas as fontes dizem que as automáticas são menos adequadas na descida, e o VnExpress aconselha uma mota de mudanças. A decisão depende do modelo, do peso e da sua experiência: pergunte à loja e verifique os travões antes de partir."
+    },
+    {
+      "q": "Qual é a melhor altura para ir a Tam Đảo?",
+      "a": "As fontes não indicam uma altura sem nevoeiro: umas falam em nevoeiro quase todo o ano, outras em novembro a janeiro. Junho a agosto é a época alta, com chuva repentina. Escolha um dia seco, com previsão estável, e parta cedo."
+    },
+    {
+      "q": "A estrada para Tam Đảo está aberta?",
+      "a": "Não sabemos o estado no dia em que lê isto. A imprensa noticiou deslizamentos na QL2B e pedidos para evitar o troço entre o km 13 e o km 24. Procure notícias recentes e pergunte ao alojamento antes de partir."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Guia de viagem de Tam Đảo (VnExpress, em vietnamita)",
+      "publisher": "VnExpress",
+      "url": "https://vnexpress.net/cam-nang-du-lich-tam-dao-4454746.html",
+      "accessed": "2026-10-14",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Guia de viagem de Tam Đảo (Vietnam Airlines, em vietnamita)",
+      "publisher": "Vietnam Airlines",
+      "url": "https://www.vietnamairlines.com/us/vi/plan-book/travel/travel-guide/du-lich-tam-dao",
+      "accessed": "2026-10-14",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Notícia sobre o potencial turístico de Phú Thọ após a fusão administrativa (em inglês)",
+      "publisher": "Vietnam News (ovietnam.vietnamnews.vn)",
+      "url": "https://ovietnam.vietnamnews.vn/phu-tho-moves-to-unlock-tourism-potential-after-administrative-mergence-post406371.html",
+      "accessed": "2026-10-14",
+      "type": "news",
+      "lang": "en"
+    },
+    {
+      "title": "Xã Vĩnh Thành tỉnh Phú Thọ gồm các xã nào hình thành từ 1/7/2025?",
+      "publisher": "Thư viện Pháp luật (thuvienphapluat.vn)",
+      "url": "https://thuvienphapluat.vn/hoi-dap-phap-luat/xa-vinh-thanh-tinh-phu-tho-gom-cac-xa-nao-hinh-thanh-tu-172025-138070143.html",
+      "accessed": "2026-10-14",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "Reportagem sobre o nevoeiro em Tam Đảo (Znews, em vietnamita)",
+      "publisher": "Znews",
+      "url": "https://znews.vn/tam-dao-mu-suong-post438761.html",
+      "accessed": "2026-10-14",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Kinh nghiệm Du lịch Tam Đảo: Cẩm nang chi tiết từ A đến Z",
+      "publisher": "Jungle Boss Tours",
+      "url": "https://junglebosstours.com/vi/kham-pha/blog-du-lich/du-lich-tam-dao",
+      "accessed": "2026-10-14",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Sạt lở đường lên Tam Đảo, yêu cầu người dân dừng di chuyển",
+      "publisher": "Tiền Phong",
+      "url": "https://tienphong.vn/sat-lo-duong-len-tam-dao-yeu-cau-nguoi-dan-dung-di-chuyen-post1845095.tpo",
+      "accessed": "2026-10-14",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Notícia sobre a suspensão da circulação na subida de Tam Đảo por deslizamento de terras (em vietnamita)",
+      "publisher": "Doanh nghiệp Hội nhập (doanhnghiephoinhap.vn)",
+      "url": "https://doanhnghiephoinhap.vn/phu-tho-tam-dung-luu-thong-tuyen-len-xuong-tam-dao-do-sat-lo-dat-da-136727.html",
+      "accessed": "2026-10-14",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Notícia sobre o deslizamento grave na QL2B e o aviso da polícia para suspender deslocações a Tam Đảo (em vietnamita)",
+      "publisher": "Thương hiệu & Công luận",
+      "url": "https://thuonghieucongluan.com.vn/sat-lo-nghiem-trong-tren-quoc-lo-2b-cong-an-khuyen-cao-tam-dung-di-chuyen-len-xuong-nui-tam-dao-a319307.html",
+      "accessed": "2026-10-14",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Tài xế ô tô cần lưu ý những gì khi đổ đèo Tam Đảo?",
+      "publisher": "Báo Mới (baomoi.com)",
+      "url": "https://baomoi.com/deo-tam-dao-t39766775.epi",
+      "accessed": "2026-10-14",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Cảnh sát giao thông Hà Nội xử phạt nhiều người điều khiển xe máy đi vào đường cao tốc",
+      "publisher": "Đại biểu Nhân dân",
+      "url": "https://daibieunhandan.vn/canh-sat-giao-thong-ha-noi-xu-phat-nhieu-nguoi-dieu-khien-xe-may-di-vao-duong-cao-toc-10381692.html",
+      "accessed": "2026-10-14",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Người chạy xe gắn máy có thể bị phạt đến 10 triệu đồng khi vi phạm những hành vi này",
+      "publisher": "Pháp Luật TP.HCM (PLO)",
+      "url": "https://plo.vn/nguoi-chay-xe-gan-may-co-the-bi-phat-den-10-trieu-dong-khi-vi-pham-nhung-hanh-vi-nay-post827967.html",
+      "accessed": "2026-10-14",
+      "type": "news",
+      "lang": "vi"
+    },
+    "dtinews-autoestrada-2026"
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "READY_FOR_QA"
+}

@@ -57,7 +57,7 @@
           "steps": [
             {
               "title": "Não tire a mota por conta própria",
-              "text": "Se a mota está à vista, não a empurre para fora sem falar com ninguém. Num parque com funcionário, sair sem o aviso é o que mais complica a conversa."
+              "text": "Se a mota está à vista, não a empurre para fora sem falar com ninguém."
             },
             {
               "title": "Explique o que aconteceu ao responsável",
@@ -77,7 +77,7 @@
             },
             {
               "title": "Guarde a prova do que pagou",
-              "text": "Fotografe o aviso das regras, o valor que lhe pedem e a nova senha ou recibo, se existir. Pergunte o nome do responsável ou o número do parque. É um registo simples que ajuda se houver desacordo mais tarde."
+              "text": "Fotografe o aviso das regras, o valor que lhe pedem e a nova senha ou recibo, se existir. Anote o nome do responsável ou o número do parque: ajuda se houver desacordo mais tarde."
             }
           ]
         },
@@ -135,7 +135,6 @@
             "Mande a fotografia para si próprio ou guarde-a no telemóvel num álbum que encontre depressa.",
             "Guarde a senha num bolso com fecho, e nunca debaixo do assento com os documentos da mota: se a mota desaparecer, desaparece tudo.",
             "Pergunte, ao entregar a mota, até que horas o parque está aberto, para saber se pode voltar à noite.",
-            "Se for ficar por muitas horas, pergunte também o que acontece se perder a senha, antes de se afastar.",
             "Escolha parques com o preço impresso e funcionários visíveis, como explica o guia sobre [onde estacionar em Hanói](/guia-de-aluguer/onde-estacionar-em-hanoi/)."
           ]
         },

@@ -1,0 +1,252 @@
+{
+  "contract_version": 1,
+  "id": "PT-0254",
+  "slug": "estacao-ferroviaria-de-hanoi",
+  "title": "Estação ferroviária de Hanói de mota: acesso e estacionamento",
+  "description": "Como chegar de mota à estação ferroviária de Hanói: os dois lados da estação, o que não se sabe sobre estacionamento e como planear uma partida noturna.",
+  "h1": "Ir de mota à estação ferroviária de Hanói: os dois lados, o estacionamento e os comboios da noite",
+  "summary": "A estação ferroviária de Hanói (Ga Hà Nội) fica no 120 da rua Lê Duẩn e tem uma secção B, com entrada própria na rua Trần Quý Cáp. Não encontrámos tarifa nem regras atuais para estacionar motas ali; com uma mota alugada, o mais prudente é combinar com a loja onde a deixar e ir à estação de táxi ou de aplicação.",
+  "key_points": [
+    "A Ga Hà Nội fica no 120 da rua Lê Duẩn, segundo guias turísticos, e tem nove plataformas em duas secções: a A, na Lê Duẩn, para os comboios do sul, e a B, na Trần Quý Cáp, para os do norte.",
+    "Não confirmámos de que lado partem os comboios de Lào Cai: veja a secção e a plataforma no bilhete antes de ir.",
+    "Nenhuma fonte dá o preço, o horário ou as regras atuais de um parque de motas da estação, e as tabelas municipais que encontrámos divergem entre si.",
+    "Os comboios noturnos para Lào Cai partem às 21:35 (SP1) e às 22:00 (SP3), segundo guias comerciais, depois de a loja fechar: a loja abre {{hours}}.",
+    "Se parar de mota junto à estação, não use o passeio e peça a senha com o preço impresso."
+  ],
+  "intro": [
+    "A estação ferroviária de Hanói tem um só nome e dois lados, e é aí que se perde quem chega de mota: um lado para os comboios do sul, outro para os do norte, com entradas em ruas diferentes. Quem aluga uma mota em Hanói pode ter de lá ir para comprar um bilhete, deixar alguém ou apanhar um comboio da noite.",
+    "Este guia reúne o que as fontes consultadas a 14 de outubro de 2026 dizem sobre a estrutura da estação, o que não conseguimos confirmar sobre o estacionamento de motas e como encaixar uma partida noturna num aluguer. Os guias turísticos em que nos apoiamos divergem em horários, por isso conta sempre o que estiver no bilhete e na sinalização."
+  ],
+  "sections": [
+    {
+      "h2": "Uma estação, dois lados: a A na Lê Duẩn e a B na Trần Quý Cáp",
+      "body": [
+        "Três guias turísticos concordam no essencial: a Ga Hà Nội fica no 120 da rua Lê Duẩn, tem nove plataformas repartidas por duas secções e está a pouco menos de 2 km do centro do Bairro Antigo. Divergem em pormenores, sobretudo nos horários dos balcões.",
+        {
+          "table": {
+            "caption": "As duas secções da estação ferroviária de Hanói, segundo guias turísticos",
+            "head": [
+              "Secção",
+              "Entrada",
+              "Comboios",
+              "Notas"
+            ],
+            "rows": [
+              [
+                "A",
+                "Rua Lê Duẩn, n.º 120",
+                "Comboios para sul; as linhas 1 a 6 são reservadas aos comboios noturnos da ferrovia nacional",
+                "É também o ponto de partida do autocarro 86 para o aeroporto"
+              ],
+              [
+                "B",
+                "Rua Trần Quý Cáp (um guia dá o n.º 1)",
+                "Comboios para norte: Lạng Sơn, Hải Phòng, Đồng Đăng e Quán Triều; um guia acrescenta Sa Pa",
+                "Entrada separada, atrás do edifício A"
+              ]
+            ]
+          }
+        },
+        "Para ir de um lado ao outro a pé, o Local Vietnam manda atravessar a passagem de nível junto à rua Lê Duẩn, para norte, e seguir a rua à esquerda. Os guias dão horários diferentes para os balcões de bilhetes: um indica, para o lado B, das 05:10 às 06:00, das 08:00 às 11:30 e das 14:00 às 17:30, e outro dá, para o lado A, das 08:00 às 22:30. Não os use sem confirmar.",
+        "Nenhum dos guias nomeia Lào Cai ao descrever o lado B. Por isso não confirmámos de que lado partem os comboios de Lào Cai: veja a secção e a plataforma no bilhete, ou pergunte a um funcionário à entrada.",
+        {
+          "note": "A linha 3 do metro chama-se «Nhổn – Ga Hà Nội», mas em 2026 termina em Cầu Giấy e não chega à estação ferroviária. O guia do [metro de Hanói](/rotas-e-mobilidade/metro-de-hanoi/) explica as duas linhas em funcionamento. E não confunda a estação com a [rua do comboio](/zonas-de-hanoi/rua-do-comboio/), o troço da linha com cafés junto à via.",
+          "tone": "info",
+          "title": "Nomes que confundem"
+        }
+      ]
+    },
+    {
+      "h2": "Chegar de mota: o que as fontes não dizem",
+      "body": [
+        "Nenhuma fonte consultada descreve entradas para motas, zonas de largada de passageiros ou sentidos únicos à volta da estação. Não vamos inventar um percurso. O que se pode fazer é preparar a chegada com o que se sabe: as duas ruas, a Lê Duẩn e a Trần Quý Cáp, e o lado de que vai precisar.",
+        {
+          "ul": [
+            "**Decida o lado antes de sair.** Se o bilhete indica a secção, vá direto à rua dessa secção; se não indica, comece pela Lê Duẩn e pergunte à entrada.",
+            "**Escreva o destino em vietnamita.** Para um taxista ou um condutor de aplicação, mostre «Ga Hà Nội, 120 Lê Duẩn» ou, para o lado B, «Ga Hà Nội, Trần Quý Cáp».",
+            "**Largue ou recolha alguém sem parar no passeio.** O passeio só serve para estacionar onde um sinal ou uma marcação o permitem; o guia sobre [onde estacionar em Hanói](/guia-de-aluguer/onde-estacionar-em-hanoi/) explica as regras.",
+            "**Combine o ponto de encontro com antecedência** se vai buscar alguém que chega, porque as duas secções têm entradas em ruas diferentes."
+          ]
+        },
+        "Se a estação for só uma passagem, a alternativa é não ir de mota. O guia sobre [como apanhar táxi em Hanói](/rotas-e-mobilidade/taxis-em-hanoi/) mostra como pedir o preço antes de entrar e como mostrar a morada. A linha 86 liga a estação ao aeroporto de Nội Bài, com 33 km de percurso; os horários que encontrámos divergem, entre as 05:15 e as 22:10 num guia e entre as 07:00 e as 22:05 noutro, e estão no guia dos [autocarros de Hanói](/rotas-e-mobilidade/autocarros-de-hanoi/)."
+      ]
+    },
+    {
+      "h2": "Estacionamento: o que se sabe e o que não se sabe",
+      "body": [
+        "Não encontrámos tabela nem regras atuais do parque da estação, nem sabemos se há um parque de longa duração para viajantes. Também não confirmámos o horário a que esse parque abre e fecha. Qualquer valor que aparecesse aqui como «preço da estação» seria inventado.",
+        "Para ter uma ordem de grandeza, as referências gerais de Hanói divergem:",
+        {
+          "ul": [
+            "Uma síntese de tarifas municipais atribui à Decisão 58/2016/QĐ-UBND valores de 3 mil VND de dia, 5 mil de noite e 7 mil para dia e noite por mota, e 70 mil por mês. Outra fonte cita a Decisão 44/2017/QĐ-UBND, com 5 a 8 mil por vez. A Decisão 47/2011 consta como revogada.",
+            "Uma notícia sobre parques de prédios e centros comerciais indica 5 mil de dia, 4 mil de noite e 10 mil para dia e noite, sem data legível."
+          ]
+        },
+        "Estes números mostram só que um parque regulado pede alguns milhares de dong por vez. Não são o preço atual da estação, e a regra em vigor para os tetos municipais está explicada, com as suas incertezas, no guia sobre [estacionar no Bairro Antigo](/zonas-de-hanoi/estacionar-no-bairro-antigo/).",
+        "Há ainda um aviso histórico. O Tiền Phong denunciou, num artigo antigo, sem data legível, que o parque da Ga Hà Nội cobrava de cinco a sete vezes a tabela. Não prova o que se passa hoje, mas explica o conselho que se segue.",
+        {
+          "h3": "Três hábitos para evitar discussões"
+        },
+        {
+          "ol": [
+            "Pergunte «bao nhiêu?» (quanto?) antes de largar a mota e peça a senha com o preço impresso. Compare-a com a tabela afixada.",
+            "Fotografe a mota, a senha e a placa do parque, e guarde a senha: é o papel que lhe pedem à saída.",
+            "Evite parques sem preço à vista e, se o preço dito não coincidir com o impresso, escolha outro parque antes de deixar a mota."
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "Partidas noturnas: o que fazer com a mota",
+      "body": [
+        "Os guias comerciais dão dois comboios da noite entre Hanói e Lào Cai: o SP1, que parte às 21:35 e chega às 05:30, e o SP3, que parte às 22:00 e chega às 06:05 ou às 06:10, conforme a fonte. Os preços e os horários variam de guia para guia, por isso confirme no operador, a Đường sắt Việt Nam, antes de contar com eles. Em 2026, o Ministério da Construção anunciou a venda de bilhetes de verão de 15 de maio a 16 de agosto, um lembrete de que há períodos e campanhas: veja o que está em vigor na sua data.",
+        "A loja abre {{hours}}. Um comboio às 21:35 ou às 22:00 parte depois da hora de fecho, por isso a mota tem de ficar tratada antes. O guia sobre as [horas de levantamento e devolução](/precos/horas-de-levantamento-e-devolucao/) e o da [chegada à noite a Hanói](/precos/chegada-a-noite-a-hanoi/) ajudam a combinar horários fora do expediente.",
+        {
+          "table": {
+            "caption": "Três maneiras de lidar com a mota quando vai viajar de comboio",
+            "head": [
+              "Opção",
+              "O que tem de bom",
+              "O que confirmar"
+            ],
+            "rows": [
+              [
+                "Devolver a mota na loja e ir à estação de táxi",
+                "Não paga estacionamento nem se preocupa com a mota durante a viagem",
+                "Até que hora a loja recebe a mota e como fica o aluguer se voltar a precisar dela"
+              ],
+              [
+                "Deixar a mota no alojamento",
+                "Evita parques desconhecidos",
+                "Se o alojamento a guarda vários dias e se o aluguer continua a contar enquanto está parada"
+              ],
+              [
+                "Deixar a mota num parque da estação",
+                "Fica perto do comboio",
+                "Não confirmámos um parque de longa duração, nem o preço, nem se a loja o permite"
+              ]
+            ]
+          }
+        },
+        "A terceira opção é a que menos conseguimos apoiar em fontes. Antes de a escolher, peça à loja, pelo {{phone}} ou pelos [contactos](/contactos/), uma resposta escrita sobre onde a mota pode ficar e quem responde por um furto ou um dano no parque. O guia sobre [devolver a mota](/guia-de-aluguer/devolver-a-mota/) mostra o que se verifica na entrega."
+      ]
+    },
+    {
+      "h2": "Antes de ir à estação",
+      "body": [
+        {
+          "checklist": [
+            "Confirme no bilhete a secção (A ou B), a plataforma e a hora de partida, que variam de guia para guia.",
+            "Escreva o nome e a rua da secção em vietnamita no telemóvel.",
+            "Decida se leva a mota: se a viagem for de vários dias, trate da mota antes com a loja.",
+            "Se parar de mota, escolha um parque com a senha e o preço à vista, e guarde a senha.",
+            "Chegue com margem: a estação tem duas entradas e as fontes não descrevem o acesso para motas."
+          ]
+        },
+        "Mais guias por bairro e por ponto de interesse estão reunidos em [Zonas de Hanói](/zonas-de-hanoi/). As condições de cada aluguer, incluindo as regras de devolução e os documentos, estão em [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/)."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Há estacionamento para motas na estação ferroviária de Hanói?",
+      "a": "Não conseguimos confirmar. Nenhuma fonte atual descreve um parque de motas da estação, o horário ou o preço. Um artigo antigo do Tiền Phong acusava o parque da Ga Hà Nội de cobrar acima da tabela, por isso peça sempre a senha com o preço impresso."
+    },
+    {
+      "q": "Os comboios para Lào Cai partem da estação de Hanói?",
+      "a": "Sim: os guias comerciais dão o SP1 às 21:35 e o SP3 às 22:00, com partida de Hanói. Não confirmámos de que secção partem, se da A, na rua Lê Duẩn, se da B, na rua Trần Quý Cáp. Veja a plataforma no bilhete e confirme o horário com o operador."
+    },
+    {
+      "q": "Posso deixar a mota alugada na estação durante uma viagem de comboio?",
+      "a": "Não encontrámos fontes que apoiem essa opção, nem um parque de longa duração. Pergunte à loja, antes de partir, onde a mota pode ficar, se o aluguer continua a contar e quem responde por um dano ou um furto. Devolvê-la na loja ou deixá-la no alojamento são alternativas mais simples."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Hanoi Railway Station – Train Departures & Travel Tips",
+      "publisher": "Local Vietnam",
+      "url": "https://localvietnam.com/hanoi/hanoi-railway-station/",
+      "accessed": "2026-10-14",
+      "type": "business",
+      "lang": "en"
+    },
+    {
+      "title": "Guia da estação ferroviária de Hanói, da Vinpearl (em inglês)",
+      "publisher": "Vinpearl",
+      "url": "https://vinpearl.com/en/hanoi-railway-station",
+      "accessed": "2026-10-14",
+      "type": "business",
+      "lang": "en"
+    },
+    {
+      "title": "Guia da estação ferroviária de Hanói, no blogue da Local Vietnam (em inglês)",
+      "publisher": "Local Vietnam",
+      "url": "https://localvietnam.com/blog/hanoi-railway-station",
+      "accessed": "2026-10-14",
+      "type": "business",
+      "lang": "en"
+    },
+    {
+      "title": "Phí dịch vụ trông giữ xe ở Thành phố Hà Nội mới nhất",
+      "publisher": "Hoatieu.vn",
+      "url": "https://hoatieu.vn/phap-luat/phi-dich-vu-trong-giu-xe-o-thanh-pho-ha-noi-moi-nhat-1624",
+      "accessed": "2026-10-14",
+      "type": "reference",
+      "lang": "vi"
+    },
+    {
+      "title": "Hà Nội ban hành mức phí trông xe mới",
+      "publisher": "Báo Pháp luật Việt Nam",
+      "url": "https://baophapluat.vn/ha-noi-ban-hanh-muc-phi-trong-xe-moi-post236356.html",
+      "accessed": "2026-10-14",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Ga Hà Nội ‘chặt chém’ khách gửi xe",
+      "publisher": "Tiền Phong",
+      "url": "https://tienphong.vn/ban-doc/609661/Ga-Ha-Noi-%E2%80%98chat-chem-khach-gui-xe-tpov.html",
+      "accessed": "2026-10-14",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Informações sobre a estação de Lào Cai e os comboios SP1 e SP3 (em vietnamita)",
+      "publisher": "MIA.vn (cẩm nang du lịch)",
+      "url": "https://mia.vn/cam-nang-du-lich/thong-tin-ga-lao-cai-15615",
+      "accessed": "2026-10-14",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Hanói–Sa Pa em 2026: comparação de comboios, autocarros e custos (em inglês)",
+      "publisher": "vietnamtourism.com",
+      "url": "https://www.vietnamtourism.com/en/hanoi-to-sapa-in-2026-trains-buses-costs-compared",
+      "accessed": "2026-10-14",
+      "type": "business",
+      "lang": "en"
+    },
+    {
+      "title": "Đường sắt mở bán vé tàu khách dịp Hè năm 2026",
+      "publisher": "moc.gov.vn (Bộ Xây dựng)",
+      "url": "https://moc.gov.vn/vn/tin-tuc/1184/93320/duong-sat-mo-ban-ve-tau-khach-dip-he-nam-2026.aspx",
+      "accessed": "2026-10-14",
+      "type": "official",
+      "lang": "vi"
+    },
+    {
+      "title": "Lista de autocarros para o aeroporto de Nội Bài, com a linha 86 entre o aeroporto e a Estação de Hanói (em vietnamita)",
+      "publisher": "MIA.vn (cẩm nang du lịch)",
+      "url": "https://mia.vn/cam-nang-du-lich/danh-sach-xe-buyt-san-bay-noi-bai-18948",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    }
+  ],
+  "legal_note": false,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "READY_FOR_QA"
+}

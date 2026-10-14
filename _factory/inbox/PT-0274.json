@@ -1,0 +1,365 @@
+{
+  "contract_version": 1,
+  "id": "PT-0274",
+  "slug": "hanoi-ao-amanhecer",
+  "title": "Hanói ao amanhecer de mota: horas, lagos e pequeno-almoço",
+  "description": "Hanói ao amanhecer de mota: nascer do sol, mercado de Long Biên, exercício no lago, pequeno-almoço e como ter a mota de madrugada com a loja fechada.",
+  "h1": "Hanói de madrugada de mota: o que há antes de o trânsito apertar e como lá chegar",
+  "summary": "Hanói ao amanhecer de mota faz-se numa janela curta, entre as 5:00 e as 6:30: o exercício junto ao lago Hoàn Kiếm, o nascer do sol (5:13 a 6:37, conforme a estação) e o primeiro pequeno-almoço, a partir das 6:00. O mercado de Long Biên já está quase vazio depois das 5:30, e a loja só abre às {{opens}}.",
+  "key_points": [
+    "O sol nasce por volta das 5:13 em junho e das 6:34–6:37 em janeiro, e a ponta da manhã nas avenidas começa cerca das 6:30: a janela «antes do trânsito» é de pouco mais de uma hora.",
+    "O mercado grossista de Long Biên tem o pico entre as 2:00 e as 4:00; depois das 5:30 a maior parte das bancas está vazia, segundo um guia, e as fontes são antigas.",
+    "À volta do lago Hoàn Kiếm há exercício desde as 4:00–5:00 e, antes das 7:00, os passeios são dos moradores: estacione fora da margem e faça o lago a pé.",
+    "Só confirmámos horários de pequeno-almoço de casas concretas (a partir das 6:00): não conte com «o phở abre às 5:00» sem verificar.",
+    "A loja abre às {{opens}}: para ter a mota de madrugada, é preciso combinar com ela, por escrito, ou ir a pé, de táxi ou de aplicação."
+  ],
+  "intro": [
+    "Quem já ouviu dizer que Hanói é outra cidade ao amanhecer quer sobretudo saber duas coisas: o que acontece a que horas e como lá chegar de mota. É a hora em que, segundo os relatos, os lagos são de quem faz exercício e o trânsito ainda não apertou, e é também a hora mais difícil de conciliar com o horário de uma loja de aluguer.",
+    "Este guia junta os horários que as fontes permitem verificar, do mercado de Long Biên ao pequeno-almoço, e diz com franqueza onde há lacunas. Quase todos vêm de reportagens antigas ou sem data, por isso são «segundo relatos», não horários oficiais. Os dados foram consultados a 14 de outubro de 2026. Para fotografar a luz, veja o [roteiro de fotografia em Hanói de mota](/rotas-e-mobilidade/roteiro-fotografico/); para o fim do dia, o guia de [Hanói à noite de mota](/rotas-e-mobilidade/hanoi-a-noite-de-mota/)."
+  ],
+  "sections": [
+    {
+      "h2": "O relógio da madrugada, hora a hora",
+      "body": [
+        "Nenhum destes horários é oficial: servem para montar uma sequência, não para chegar à hora exata.",
+        {
+          "table": {
+            "caption": "Hanói entre as 2:00 e a abertura da loja, segundo relatos",
+            "head": [
+              "Hora",
+              "O que acontece",
+              "Fonte e ressalva"
+            ],
+            "rows": [
+              [
+                "2:00–4:00",
+                "Pico de compra e venda no mercado grossista de Long Biên; os pequenos comerciantes chegam a partir das 2:00–3:00",
+                "Báo Pháp luật Việt Nam; fontes antigas"
+              ],
+              [
+                "4:00–5:00",
+                "Começa o exercício à beira do lago Hoàn Kiếm, mesmo com frio e chuvisco",
+                "VietNamNet, sem data visível"
+              ],
+              [
+                "5:13 a 6:37",
+                "Nascer do sol: cerca das 5:13 em junho e das 6:34–6:37 em janeiro",
+                "Tabelas de nascer e pôr do sol"
+              ],
+              [
+                "Depois das 5:30",
+                "A maior parte das bancas de Long Biên já está vazia",
+                "Guia em inglês; um carregador fala em 4:00–5:00"
+              ],
+              [
+                "6:00",
+                "Abrem o Phở Lý Quốc Sư (6:00–22:00) e o Bún mọc Hàng Lược (6:00–11:00)",
+                "Guias de pequeno-almoço; dois exemplos, não um horário geral"
+              ],
+              [
+                "Cerca das 6:30",
+                "Começa a ponta da manhã nas avenidas principais",
+                "Restrições a camiões previstas pela cidade (notícia de dezembro de 2025)"
+              ],
+              [
+                "Até às 7:00",
+                "Os passeios à volta do lago pertencem aos moradores",
+                "Guia de viagem"
+              ],
+              [
+                "7:00 ou 8:00",
+                "Abre o templo Ngọc Sơn, conforme a fonte",
+                "Guias em inglês que discordam"
+              ],
+              [
+                "{{opens}}",
+                "Abre a loja",
+                "Horário da loja"
+              ]
+            ]
+          }
+        },
+        "Dois pontos saltam à vista. Primeiro, o «antes do trânsito» tem uma janela curta: das 5:00 às 6:30, com o nascer do sol a meio. Segundo, a loja abre muito depois dela, o que condiciona o resto; a secção sobre a loja trata disso. As janelas de ponta estão no guia das [horas de ponta em Hanói](/guia-de-aluguer/horas-de-ponta-em-hanoi/)."
+      ]
+    },
+    {
+      "h2": "Mercado de Long Biên: o movimento é de noite",
+      "body": [
+        "O mercado de Long Biên é um mercado grossista noturno. Segundo as reportagens, os comerciantes começam por volta das 21:00 e a maior azáfama vem depois da meia-noite. O Báo Pháp luật Việt Nam descreve milhares de pequenos comerciantes a chegar a partir das 2:00–3:00 para abastecer as bancas dos mercados da manhã, e o pico de compra e venda é entre as 2:00 e as 4:00.",
+        "O fim também está descrito. Um carregador conta que, por volta das 4:00–5:00, o mercado «vai esvaziando», e um guia em inglês diz que, depois das 5:30, a maior parte das bancas está vazia. Quem chega de mota ao nascer do sol, sobretudo no verão, apanha portanto o fim do movimento, não o auge.",
+        "Para ver o auge seria preciso estar lá de madrugada, e as fontes não dizem se um visitante é bem-vindo a essa hora, se as motas podem entrar no recinto nem onde estacionar.",
+        {
+          "note": "As fontes são antigas (uma reportagem de 2014 e textos turísticos), e os horários podem ter mudado. O Ministério da Indústria e Comércio publicou um aviso intitulado «Chợ Long Biên hoạt động trở lại từ 0 giờ hôm nay (ngày 21/10)», que sugere uma retoma à meia-noite depois de uma interrupção, mas o ano e o contexto não ficaram visíveis. Confirme no local, com alguém do alojamento, antes de planear a visita à volta destas horas.",
+          "tone": "warn",
+          "title": "Horários antigos"
+        },
+        "Há ainda um motivo de prudência: o Báo Pháp luật descreve camiões e carrinhas de carga a manobrar entre carregadores no mercado grossista. Não é sítio para conduzir devagar a admirar a vista; se o mercado lhe interessa, veja-o a pé. A ponte vizinha tem o seu próprio guia: [ponte Long Biên de mota](/zonas-de-hanoi/ponte-long-bien/)."
+      ]
+    },
+    {
+      "h2": "O lago Hoàn Kiếm e o exercício matinal",
+      "body": [
+        "O lago é o grande palco da manhã. A VietNamNet descreve muita gente a fazer exercício na margem desde as 4:00–5:00, mesmo com frio e chuvisco. Um guia turístico diz que, antes das 7:00, os passeios à volta do lago pertencem aos moradores: idosos a caminhar e grupos de ginástica ao som de altifalante.",
+        "A margem é de quem anda a pé. A regra mais clara que encontrámos é a da noite. De sexta a domingo, das 19:00 às 24:00, a zona 1 do lago fecha a motas e automóveis, na primeira fase do piloto de baixas emissões, que vai de 1 de julho a 31 de dezembro de 2026. De manhã essa restrição não se aplica, mas não confirmámos que ruas junto ao lago podem estar fechadas ao fim de semana: confie nas barreiras e nos agentes.",
+        "Deixe a mota num parque com funcionário, fora da margem, e faça o lago a pé. O guia sobre [estacionar a mota no Bairro Antigo](/zonas-de-hanoi/estacionar-no-bairro-antigo/) explica as senhas e o preço impresso, e o texto sobre a [zona pedonal do lago Hoàn Kiếm](/zonas-de-hanoi/zona-pedonal-do-lago-hoan-kiem/) mostra o que muda ao fim de semana.",
+        "Do outro lado da cidade, o mercado de flores de Quảng An, na rua Âu Cơ, é outra paragem possível de manhã, descrita no guia da [volta ao Lago Oeste de mota](/zonas-de-hanoi/volta-ao-lago-oeste/). Não confirmámos o seu horário."
+      ]
+    },
+    {
+      "h2": "Pequeno-almoço: o que está confirmado e o que não está",
+      "body": [
+        "Confirmámos pouco, e é melhor dizê-lo. Para o phở só encontrámos um horário concreto: o Phở Lý Quốc Sư, com várias casas em Hoàn Kiếm e noutras zonas, abre das 6:00 às 22:00, segundo um guia da Vinpearl. Entre os pequenos-almoços que não são phở, os guias dão o bún mọc da rua Hàng Lược, das 6:00 às 11:00, e um bún ốc na rua Thợ Nhuộm, das 6:30 às 14:00.",
+        "O que não sabemos é a que horas abrem as casas de phở de bairro de manhã cedo, a que horas o phở «acaba» e se há onde deixar a mota junto delas. Por isso, não escreva «o phở abre às 5:00» em nenhum plano. Para contornar a lacuna:",
+        {
+          "ul": [
+            "pergunte ao alojamento qual é a casa mais próxima que abre cedo e a que horas;",
+            "veja o horário no mapa do telemóvel na véspera e confirme-o à porta, porque estes horários mudam;",
+            "deixe a mota num parque com funcionário e peça a senha com o preço impresso, como explica o guia sobre [onde estacionar em Hanói](/guia-de-aluguer/onde-estacionar-em-hanoi/)."
+          ]
+        },
+        "O templo Ngọc Sơn, no lago, abre às 7:00 segundo uma fonte e às 8:00 segundo outras: se o plano o inclui, confirme à porta. A comida de rua à noite é outro assunto, tratado no [roteiro de comida de rua de mota](/rotas-e-mobilidade/roteiro-de-comida-de-rua/)."
+      ]
+    },
+    {
+      "h2": "A loja abre às {{opens}}: três formas de ter a mota de manhã cedo",
+      "body": [
+        "O sol nasce entre as 5:13 e as 6:37, e a loja abre {{hours}}. Para fazer o percurso à hora do amanhecer, sem esperar pela abertura, há três caminhos, e dois deles dependem da loja.",
+        {
+          "table": {
+            "caption": "Como ter a mota ao amanhecer, e o que perguntar",
+            "head": [
+              "Opção",
+              "Como funciona",
+              "O que perguntar ou confirmar"
+            ],
+            "rows": [
+              [
+                "Levantamento mais cedo",
+                "Combina-se com a loja, por escrito e com antecedência. Não parta do princípio de que é possível.",
+                "Se é possível, a que horas e como se conta o dia de aluguer"
+              ],
+              [
+                "Levantar na véspera",
+                "Levanta a mota dentro do horário, guarda-a no alojamento durante a noite e sai de madrugada.",
+                "Onde o alojamento guarda a mota, até que horas se pode sair e como a loja conta o dia"
+              ],
+              [
+                "Madrugada sem mota",
+                "Vai a pé, de táxi ou de aplicação ao lago e ao pequeno-almoço e levanta a mota às {{opens}}.",
+                "Nada: é a opção que não depende de ninguém"
+              ]
+            ]
+          }
+        },
+        "As duas primeiras opções mudam as condições do aluguer. A página sobre a [hora de levantamento e devolução](/precos/horas-de-levantamento-e-devolucao/) explica como se conta o dia, e o guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/) diz o que se trata antes de levantar a mota. Nada disto é automático: peça a confirmação por escrito, pelos [contactos](/contactos/) ou por Zalo, e guarde-a. Para comparar com a terceira opção, veja [mota alugada ou Grab](/precos/mota-alugada-ou-grab/)."
+      ]
+    },
+    {
+      "h2": "Conduzir de madrugada: luz, frio e cansaço",
+      "body": [
+        "Antes das 5:13 em junho, e até às 6:37 em janeiro, ainda não há luz do dia. O guia sobre [conduzir de mota à noite](/guia-de-aluguer/conduzir-de-mota-a-noite/) explica o essencial: ser visto, ver bem e estar descansado. Lembra também que o manual britânico de trânsito aconselha a evitar viagens longas entre a meia-noite e as 6:00, quando o estado de alerta é mais baixo. É boa prática estrangeira, não norma vietnamita, mas aplica-se a quem se levanta às 4:00 depois de uma noite curta.",
+        "No inverno, a madrugada é fria e o vento da mota acentua o frio: o guia do [inverno em Hanói](/rotas-e-mobilidade/inverno-em-hanoi/) diz como se vestir. Se o piso estiver molhado, sirva-se do guia sobre [piso molhado e chuva](/guia-de-aluguer/piso-molhado-e-chuva/).",
+        "Por fim, uma regra que não admite exceções: se a madrugada vem depois de uma noite de copos, deixe a mota. A lei vietnamita de 2024 não admite qualquer concentração de álcool em quem conduz uma mota, e a notícia do Tuổi Trẻ sobre a aprovação da regra de tolerância zero está nas fontes."
+      ]
+    },
+    {
+      "h2": "Uma manhã de duas horas, em passos",
+      "body": [
+        "Proposta de planeamento, construída com os horários acima; ajuste-a à sua estação e ao que a loja confirmou.",
+        {
+          "steps": [
+            {
+              "title": "Na véspera",
+              "text": "Escolha uma das opções da secção anterior e peça a confirmação por escrito. Marque no mapa um parque com funcionário perto do lago e pergunte ao alojamento por uma casa de pequeno-almoço que abra cedo."
+            },
+            {
+              "title": "Cerca das 5:00, no lago",
+              "text": "Estacione fora da margem, peça a senha e fotografe-a. Faça o lago a pé, com o exercício matinal em curso e a luz a crescer antes do nascer do sol."
+            },
+            {
+              "title": "A partir das 6:00, pequeno-almoço",
+              "text": "Vá a pé até à casa que confirmou na véspera e verifique o horário à porta. Se a casa ainda não abriu, não insista: tenha uma segunda opção entre as que os guias dão com horário, como o bún mọc da rua Hàng Lược."
+            },
+            {
+              "title": "Antes das 6:30–7:00, regresso",
+              "text": "Saia antes de a ponta da manhã começar nas avenidas, por volta das 6:30, e deixe a mota onde combinou. As visitas ficam para quando abrirem; o [roteiro de museus de mota](/rotas-e-mobilidade/roteiro-dos-museus/) indica os dias de fecho."
+            }
+          ]
+        },
+        "Com a manhã feita, o resto do dia fica livre para outros itinerários, como o de [Hanói de mota num dia](/rotas-e-mobilidade/hanoi-de-mota-num-dia/). A página das [rotas e mobilidade](/rotas-e-mobilidade/) reúne os restantes. Para quem ainda não conduziu em Hanói, os [primeiros dias a conduzir](/guia-de-aluguer/primeiros-dias-a-conduzir/) dizem o que treinar antes."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "O mercado de Long Biên vê-se ao nascer do sol?",
+      "a": "Só o fim. Segundo os relatos, o pico é entre as 2:00 e as 4:00 e, depois das 5:30, a maior parte das bancas está vazia; o sol nasce às 5:13 em junho. As fontes são antigas e não dizem se as motas entram no recinto: confirme no local e prefira ir a pé."
+    },
+    {
+      "q": "A que horas abre o phở de manhã?",
+      "a": "Só encontrámos um horário concreto: o Phở Lý Quốc Sư abre às 6:00. As casas de bairro variam e não encontrámos um horário habitual, por isso peça ao alojamento uma casa que abra cedo e confirme à porta."
+    },
+    {
+      "q": "Posso levantar a mota antes das {{opens}}?",
+      "a": "A loja abre {{hours}}. Um levantamento mais cedo ou na véspera depende de acordo prévio: peça-o por escrito e não parta do princípio de que é possível."
+    },
+    {
+      "q": "Há mesmo gente no lago Hoàn Kiếm tão cedo?",
+      "a": "Sim, segundo os relatos: exercício desde as 4:00–5:00 e passeios dos moradores até cerca das 7:00. É um ambiente de bairro, por isso estacione fora da margem e faça o lago a pé."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Chợ Long Biên hoạt động trở lại từ 0 giờ hôm nay (ngày 21/10)",
+      "publisher": "Bộ Công Thương (moit.gov.vn)",
+      "url": "https://moit.gov.vn/tin-tuc/thi-truong-trong-nuoc/cho-long-bien-hoat-dong-tro-lai-tu-0-gio-hom-nay-ngay-21-10.html",
+      "accessed": "2026-10-14",
+      "type": "official",
+      "lang": "vi"
+    },
+    {
+      "title": "Lạnh sống lưng nhìn cảnh “đánh vô lăng lách cửu vạn” ở chợ đầu mối Long Biên",
+      "publisher": "Báo Pháp luật Việt Nam",
+      "url": "https://baophapluat.vn/lanh-song-lung-nhin-canh-danh-vo-lang-lach-cuu-van-o-cho-dau-moi-long-bien-post183646.html",
+      "accessed": "2026-10-14",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Những phụ nữ ở chợ đêm Long Biên",
+      "publisher": "VnExpress",
+      "url": "https://vnexpress.net/nhung-phu-nu-o-cho-dem-long-bien-2123904.html",
+      "accessed": "2026-10-14",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Long Bien Market – A Guide to Hanoi’s Late-Night Wholesale Chaos",
+      "publisher": "Local Vietnam",
+      "url": "https://localvietnam.com/hanoi/long-bien-market/",
+      "accessed": "2026-10-14",
+      "type": "business",
+      "lang": "en"
+    },
+    {
+      "title": "Reportagem sobre o exercício matinal à beira do lago Hoàn Kiếm a partir das 4:00 (em vietnamita)",
+      "publisher": "VietNamNet",
+      "url": "https://vietnamnet.vn/gio-rit-tung-con-ron-rang-tap-the-duc-tu-4h-sang-ben-ho-guom-422498.html",
+      "accessed": "2026-10-14",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Hồ Hoàn Kiếm: Trái tim Hà Nội qua từng giờ trong ngày",
+      "publisher": "Nomado Travel",
+      "url": "https://www.nomadotravel.app/vi/attractions/hoan-kiem-lake",
+      "accessed": "2026-10-14",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Thể dục buổi sáng ở Hà Nội",
+      "publisher": "VnExpress",
+      "url": "https://vnexpress.net/the-duc-buoi-sang-o-ha-noi-947876.html",
+      "accessed": "2026-10-14",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Guia de pequenos-almoços de Hanói (em vietnamita)",
+      "publisher": "Vinpearl",
+      "url": "https://vinpearl.com/vi/an-sang-ha-noi",
+      "accessed": "2026-10-14",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Dez pequenos-almoços de Hanói (guia da Mytour, em vietnamita)",
+      "publisher": "Mytour",
+      "url": "https://mytour.vn/vi/blog/bai-viet/top-10-mon-an-sang-ngon-nhat-ha-noi.html",
+      "accessed": "2026-10-14",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Thèm các món nước thì ăn ở đâu? Địa điểm ăn sáng Hà Nội chất lượng nên ghé (review 25 địa chỉ ăn sáng Hà Nội)",
+      "publisher": "VinWonders",
+      "url": "https://vinwonders.com/vi/bai-viet-du-lich/review-25-dia-chi-an-sang-ha-noi/",
+      "accessed": "2026-10-14",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Guia de viagem sobre pequenos-almoços de Hanói (em inglês)",
+      "publisher": "Vietnam Airlines",
+      "url": "https://www.vietnamairlines.com/be/en/plan-book/travel/travel-guide/an-sang-ha-noi",
+      "accessed": "2026-10-14",
+      "type": "business",
+      "lang": "en"
+    },
+    {
+      "title": "Top 7 Beautiful Temples And Pagodas In Hanoi Must Visit",
+      "publisher": "Hanoi Voyage",
+      "url": "https://www.hanoivoyage.com/en/blog/7-ha-noi-beautiful-temples-and-pagodas.html",
+      "accessed": "2026-10-14",
+      "type": "business",
+      "lang": "en"
+    },
+    {
+      "title": "What to visit in Hanoi — guia de viagem da Vietnam Airlines",
+      "publisher": "Vietnam Airlines",
+      "url": "https://www.vietnamairlines.com/us/en/plan-book/travel/travel-guide/what-to-visit-in-hanoi",
+      "accessed": "2026-10-14",
+      "type": "business",
+      "lang": "en"
+    },
+    {
+      "title": "Horas de nascer e pôr do sol em Hanói em 2026 (Alpenglow, em inglês)",
+      "publisher": "Alpenglow",
+      "url": "https://www.alpenglowapp.com/times/hanoi",
+      "accessed": "2026-10-14",
+      "type": "reference",
+      "lang": "en"
+    },
+    {
+      "title": "Hanoi First Light, Sunrise & Sunset Times",
+      "publisher": "sunrisesunsettime.org",
+      "url": "https://www.sunrisesunsettime.org/asia/vietnam/hanoi.htm",
+      "accessed": "2026-10-14",
+      "type": "reference",
+      "lang": "en"
+    },
+    {
+      "title": "Notícia de 24 de dezembro de 2025 sobre restrições a camiões na avenida Thăng Long e na QL32, no sentido da Circular 3 (em vietnamita)",
+      "publisher": "Tạp chí Luật sư Việt Nam (LSVN)",
+      "url": "https://lsvn.vn/ha-noi-du-kien-han-che-mot-so-loai-phuong-tien-luu-thong-vao-vanh-dai-3-tren-cao-a167515.html",
+      "accessed": "2026-10-14",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Ha Noi begins restricting fossil-fuel vehicles in low-emission zones",
+      "publisher": "Portal do Governo do Vietname (chinhphu.vn) — Hanoi Capital",
+      "url": "https://hanoicapital.chinhphu.vn/ha-noi-begins-restricting-fossil-fuel-vehicles-in-low-emission-zones-110260702082825273.htm",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "title": "Hấp dẫn chợ hoa Quảng An",
+      "publisher": "Nhân Dân",
+      "url": "https://nhandan.vn/hap-dan-cho-hoa-quang-an-post733459.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    "lawnet-proibicoes-2024",
+    "tuoitre-alcool-zero"
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "READY_FOR_QA"
+}
