@@ -36,7 +36,7 @@
     {
       "h2": "3. Peça um orçamento com as datas",
       "body": [
-        "Contacte a [loja de aluguer de motas em Long Biên](/) pelo telefone ou Zalo {{phone}} com as datas e as horas de levantamento e de devolução, o modelo preferido e o número de pessoas. Consulte antes a [tabela de preços](/precos/) para conhecer o valor de referência."
+        "Contacte a [loja de aluguer de motas em Long Biên](/) por [telefone]({{tel}}), [Zalo]({{zalo}}) ou [WhatsApp](https://wa.me/84942467674) no número {{phone}}, indicando as datas, as horas, o modelo e o número de pessoas. Consulte [Preços](/precos/) para a tarifa de referência: Honda Wave {{price.wave.day}}/dia, Honda Vision {{price.vision.day}}/dia e 50 cc {{price.cc50.day}}/dia. Motas elétricas: sob consulta."
       ]
     },
     {
@@ -77,6 +77,15 @@
       "h2": "7. Devolva e feche o acordo",
       "body": [
         "Devolva a mota na data, à hora e no local combinados, com o nível de combustível ou de carga acordado. Peça uma verificação conjunta do estado da mota e, se houver caução, a sua devolução nos termos combinados. Se precisar de prolongar o aluguer, avise a loja com antecedência."
+      ]
+    },
+    {
+      "h2": "Contactos oficiais e confirmação",
+      "body": [
+        {
+          "component": "contact-card",
+          "note": "Antes de levantar a mota, confirme a tarifa da duração escolhida, a caução, os documentos e a entrega ou recolha."
+        }
       ]
     }
   ],
