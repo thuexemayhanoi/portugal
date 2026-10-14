@@ -35,7 +35,7 @@
         {
           "h3": "Quando a tabela diz «sob consulta»"
         },
-        "«Sob consulta» significa que não existe um preço publicado para esse período ou veículo — é o caso das semanas e meses das motas de 50 cc e da bicicleta elétrica. Peça um orçamento com as datas."
+        "«Sob consulta» significa que não existe uma tarifa publicada para esse veículo ou período. **Motas e bicicletas elétricas têm preço sob consulta por dia, semana e mês.** Nas motas de 50 cc, a tarifa diária é {{price.cc50.day}}, mas as semanas e meses são sob consulta. A loja confirma o orçamento para o modelo e as datas exatas."
       ]
     },
     {
@@ -67,13 +67,22 @@
             "se tenciona sair de Hanói durante o aluguer."
           ]
         },
-        "Contacte a loja pelo telefone ou Zalo {{phone}}, {{hours}}."
+        "Contacte a loja pelo telefone {{phone}}, [Zalo]({{zalo}}) ou [WhatsApp](https://wa.me/84942467674), {{hours}}. Consulte a [morada e o mapa](/contactos/)."
       ]
     },
     {
       "h2": "Pagamento",
       "body": [
         "A forma de pagamento aceite e o momento em que é feito são indicados pela loja quando confirma o aluguer. Peça recibo do aluguer e, se houver caução, um comprovativo do montante entregue."
+      ]
+    },
+    {
+      "h2": "Contactos oficiais e confirmação",
+      "body": [
+        {
+          "component": "contact-card",
+          "note": "Tarifas de referência em VND; confirme sempre o preço final, a caução e a disponibilidade. Os veículos elétricos e os períodos não publicados são sob consulta."
+        }
       ]
     }
   ],
