@@ -1,0 +1,278 @@
+{
+  "contract_version": 1,
+  "id": "PT-0260",
+  "slug": "museu-de-etnologia",
+  "title": "Museu de Etnologia do Vietname de mota: horário e acesso",
+  "description": "Horário, dia de fecho e bilhetes do Museu de Etnologia do Vietname segundo os guias, e como planear a ida de mota a Cầu Giấy a partir de Long Biên.",
+  "h1": "Ir de mota ao Museu de Etnologia do Vietname, em Cầu Giấy: o que planear",
+  "summary": "O Museu de Etnologia do Vietname fica no n.º 1 da rua Nguyễn Văn Huyên, em Cầu Giấy, e, segundo guias vietnamitas, abre das 08:30 às 17:30 e fecha à segunda-feira. Sobre o parque de mota e o percurso não há dados fiáveis nas fontes consultadas, por isso este guia diz o que perguntar em vez de os inventar.",
+  "key_points": [
+    "Morada e horário segundo guias comerciais: 1 Nguyễn Văn Huyên, Cầu Giấy, das 08:30 às 17:30; fecha à segunda-feira e, segundo um guia, no Tết.",
+    "Bilhete de adulto: 40 mil VND nos guias. Estudantes e alunos pagam menos, e há reduções e isenções para alguns grupos.",
+    "A loja abre às {{opens}}, depois da abertura do museu: planeie a visita a partir do fim da manhã.",
+    "O fecho às 17:30 cai na hora de ponta da tarde; sair do museu mais cedo evita o pior do trânsito.",
+    "Parque de mota e percurso por vias permitidas a motas: as fontes não os descrevem. Veja o que perguntar e como preparar a rota."
+  ],
+  "intro": [
+    "O Museu de Etnologia do Vietname fica em Cầu Giấy, no n.º 1 da rua Nguyễn Văn Huyên. Para quem aluga mota em Long Biên, a ida ao museu pede alguma preparação: fecha um dia por semana, a loja só abre às {{opens}} e a hora de fecho do museu apanha o trânsito do fim da tarde.",
+    "Os dados vêm de guias de viagem vietnamitas consultados a 13 de outubro de 2026 (Vinpearl, VinWonders e vietnamtourism.com), que não são fontes oficiais e nem sempre coincidem. Nesses guias não encontrámos o parque de mota do museu nem uma descrição do percurso, e dizemos isso em vez de os inventar. Para outros pontos do centro, veja as [Zonas de Hanói](/zonas-de-hanoi/) e o itinerário [Hanói de mota num dia](/rotas-e-mobilidade/hanoi-de-mota-num-dia/)."
+  ],
+  "sections": [
+    {
+      "h2": "Horário, dia de fecho e bilhetes segundo os guias",
+      "body": [
+        "O quadro reúne o que os guias dizem e, na coluna da direita, o que deve confirmar à chegada. Os valores são de referência, e não os de uma tabela oficial.",
+        {
+          "table": {
+            "caption": "Museu de Etnologia do Vietname: dados dos guias e o que confirmar",
+            "head": [
+              "Tema",
+              "O que dizem os guias",
+              "O que confirmar"
+            ],
+            "rows": [
+              [
+                "Morada",
+                "1 Nguyễn Văn Huyên, Cầu Giấy",
+                "Marque «1 Nguyễn Văn Huyên» no mapa e confirme a designação atual da zona."
+              ],
+              [
+                "Horário",
+                "08:30–17:30",
+                "A hora da última entrada, que os guias não indicam."
+              ],
+              [
+                "Dia de fecho",
+                "Segunda-feira; Tết, segundo um guia",
+                "Encerramentos extraordinários nas datas da visita."
+              ],
+              [
+                "Bilhete de adulto",
+                "40 mil VND",
+                "O valor na bilheteira."
+              ],
+              [
+                "Estudante e aluno",
+                "Estudante: 20 mil VND (15 mil VND segundo a VinWonders); aluno: 10 mil VND",
+                "O que conta como estudante e que cartão mostrar."
+              ],
+              [
+                "Reduções e isenções",
+                "50 % para idosos, pessoas com deficiência e membros de minorias étnicas; isentos os menores de 6 anos e as pessoas com deficiência grave",
+                "Que documento aceitam como prova."
+              ],
+              [
+                "Visita guiada",
+                "50 a 100 mil VND",
+                "Se é preciso reservar e em que línguas há guia."
+              ],
+              [
+                "Estacionamento de mota",
+                "Não consta nos guias consultados",
+                "Ver a secção sobre estacionar."
+              ]
+            ]
+          }
+        },
+        {
+          "note": "O museu fecha à segunda-feira. Se o seu aluguer for de um dia e esse dia for uma segunda, escolha outro destino ou outro dia.",
+          "tone": "warn",
+          "title": "Dia de fecho"
+        }
+      ]
+    },
+    {
+      "h2": "Planear o dia com a loja: quando levantar, chegar e sair",
+      "body": [
+        "O museu abre às 08:30 e a loja abre {{hours}}. Quem levanta a mota na loja só a tem a partir das {{opens}}, por isso não chega à abertura do museu e a visita fica para o fim da manhã ou para a tarde. Se chega de avião nesse dia, o guia do [aeroporto de Nội Bài para Hanói](/zonas-de-hanoi/aeroporto-noi-bai-de-mota/) explica porque convém levantar a mota já na cidade. Os preços e os horários de um dia de aluguer estão explicados em [alugar uma mota por um dia](/precos/aluguer-de-mota-por-um-dia/).",
+        "O tempo de viagem entre Long Biên e Cầu Giấy não foi verificado por nós, e varia muito com a hora. Meça-o no mapa para a hora a que pensa sair, e não só para a hora a que está a planear o dia.",
+        {
+          "h3": "A hora de fecho e o trânsito"
+        },
+        "O museu fecha às 17:30. Segundo uma notícia da VOV, sem data indicada, as horas de ponta em Hanói são cerca das 07:00 às 08:00 e das 17:00 às 19:00. Quem sai do museu ao fecho apanha, por isso, o trânsito da tarde. Sair a meio da tarde evita o pior e deixa margem para devolver a mota antes das {{closes}}; o guia sobre [como devolver a mota](/guia-de-aluguer/devolver-a-mota/) explica o que verificar no fim.",
+        "Se a visita calhar perto do Tết, lembre-se de que um guia indica que o museu fecha nessa altura. Confirme as datas antes de montar o dia à volta dele."
+      ]
+    },
+    {
+      "h2": "Chegar de mota a Cầu Giấy: o que não conseguimos confirmar",
+      "body": [
+        "Nenhuma das fontes que reunimos descreve o percurso do centro ao museu por vias permitidas a motas, nem indica a distância ou a duração. Em vez de inventar ruas, use um método simples:",
+        {
+          "steps": [
+            {
+              "title": "Marque o destino",
+              "text": "Procure «1 Nguyễn Văn Huyên» no mapa e escolha o modo mota. Descarregue o mapa para o usar sem rede."
+            },
+            {
+              "title": "Veja a ponte",
+              "text": "O trajeto desde Long Biên atravessa o rio Vermelho. Confirme que a ponte proposta está aberta a motas; o guia da [ponte Long Biên](/zonas-de-hanoi/ponte-long-bien/) explica os fechos recentes."
+            },
+            {
+              "title": "Compare dois horários",
+              "text": "Veja a estimativa do mapa para as 10:00 e para as 16:00. A diferença mostra quanto pesa a hora de ponta."
+            },
+            {
+              "title": "Respeite os sinais",
+              "text": "Se o mapa propuser uma via com sinal de proibição a motas, não a use. Procure o trajeto alternativo antes de arrancar, com a mota parada."
+            }
+          ]
+        },
+        "Há uma alternativa sem mota. Em 2026, o troço elevado da linha 3 do metro, entre Nhổn e Cầu Giấy, está em funcionamento e termina numa estação com o nome da zona. Não verificámos a distância dessa estação ao museu, por isso meça-a no mapa antes de contar com ela. O guia de [quando não conduzir em Hanói](/rotas-e-mobilidade/quando-nao-conduzir/) ajuda a decidir se o dia, a chuva ou o cansaço pedem outro meio."
+      ]
+    },
+    {
+      "h2": "Estacionar junto ao museu: o que perguntar",
+      "body": [
+        "Os guias não dizem se o museu tem parque para motas, quanto custa nem até que horas está aberto, e não vamos citar um preço que não conseguimos confirmar. O que se sabe é o enquadramento geral: em Hanói, os preços de guarda de motas têm tetos fixados pela Decisão 44/2017/QĐ-UBND, em vigor desde 1 de janeiro de 2018, que variam com a zona, com o período do dia e com a modalidade. Os montantes atuais não foram confirmados.",
+        "Ao chegar, pergunte à porta ou a quem guarda as motas:",
+        {
+          "checklist": [
+            "Há parque para motas e posso deixar a minha? Em vietnamita: «Ở đây có chỗ gửi xe máy không?»",
+            "Quanto custa por vez? «Gửi xe bao nhiêu tiền?»",
+            "A que horas fecha o parque? Confirme que ainda está aberto à hora de fecho do museu.",
+            "Como se paga, em dinheiro ou por via eletrónica? Leve notas pequenas, por precaução."
+          ]
+        },
+        "Escolha um parque com funcionário e talão (vé xe) e confira o valor impresso: a imprensa vietnamita tem noticiado parques que cobram acima do preço impresso à volta do Tết. Fotografe o talão, a mota e a entrada do parque. Os [parques de motas em centros comerciais](/zonas-de-hanoi/centros-comerciais-de-mota/) mostram como funcionam a senha e a cobrança num parque organizado.",
+        "Não deixe a mota no passeio para poupar o preço. O Decreto 168/2024/NĐ-CP prevê uma coima de 400 a 600 mil VND por estacionar a mota sem autorização no passeio ou na faixa de rodagem, e de 4 a 6 milhões de VND por circular no passeio."
+      ]
+    },
+    {
+      "h2": "Tempo a reservar e o que levar",
+      "body": [
+        "Nenhuma das fontes que reunimos indica uma duração recomendada para a visita nem a hora da última entrada. Como o museu fecha às 17:30, a nossa sugestão de planeamento é chegar com pelo menos duas horas de margem antes do fecho e perguntar na bilheteira até que horas se entra. É uma sugestão nossa, e não um dado dos guias.",
+        {
+          "checklist": [
+            "Dinheiro trocado em notas pequenas para o bilhete e para o parque; pergunte se a bilheteira aceita pagamento eletrónico.",
+            "Documento que prove a condição, se for pedir uma redução (idoso, estudante, pessoa com deficiência).",
+            "Capacete apertado e nada de valor deixado na mota.",
+            "Carta de condução e documentos da mota consigo; o guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/) explica o que levar.",
+            "Número da loja guardado no telemóvel: {{phone}}."
+          ]
+        },
+        "Se tiver dúvidas sobre a mota ou sobre o aluguer, a página de [contactos](/contactos/) reúne as formas de falar com a loja."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "O Museu de Etnologia do Vietname abre à segunda-feira?",
+      "a": "Não: segundo os guias consultados, fecha à segunda-feira e, num deles, também no Tết. Abre das 08:30 às 17:30 nos restantes dias, mas os guias comerciais podem estar desatualizados, por isso confirme antes de ir."
+    },
+    {
+      "q": "Quanto custa o bilhete do museu?",
+      "a": "Os guias indicam 40 mil VND para adultos, 20 mil VND para estudantes (15 mil VND segundo a VinWonders) e 10 mil VND para alunos, com reduções de 50 % para alguns grupos. Confirme os valores na bilheteira."
+    },
+    {
+      "q": "Há estacionamento para motas no museu?",
+      "a": "Os guias consultados não o indicam, por isso não podemos confirmá-lo. Pergunte à chegada se há parque, quanto custa por vez e até que horas está aberto, e não deixe a mota no passeio."
+    },
+    {
+      "q": "Posso ir ao museu de metro?",
+      "a": "Em 2026, o troço elevado da linha 3, entre Nhổn e Cầu Giấy, está em funcionamento e termina em Cầu Giấy. Não verificámos a distância da estação ao museu, por isso meça-a no mapa antes de decidir."
+    },
+    {
+      "q": "Quanto tempo devo reservar para a visita?",
+      "a": "Os guias que reunimos não indicam uma duração. A nossa sugestão é chegar com pelo menos duas horas de margem antes das 17:30 e perguntar na bilheteira a hora da última entrada."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Ficha do Museu de Etnologia do Vietname (Vinpearl, em vietnamita)",
+      "publisher": "Vinpearl",
+      "url": "https://vinpearl.com/vi/bao-tang-dan-toc-hoc-viet-nam",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Ficha do Museu de Etnologia do Vietname (VinWonders, em vietnamita)",
+      "publisher": "VinWonders",
+      "url": "https://vinwonders.com/vi/wonderpedia/news/bao-tang-dan-toc-hoc-viet-nam/",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Museu de Etnologia do Vietname em Hanói: bilhetes e horário (em vietnamita)",
+      "publisher": "vietnamtourism.com",
+      "url": "https://www.vietnamtourism.com/vi/bao-tang-dan-toc-hoc-viet-nam-tai-ha-noi-ve-gio-mo-cua-va-nh",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Hà Nội ùn tắc giao thông ngày càng nghiêm trọng",
+      "publisher": "VOV",
+      "url": "https://vov.vn/xa-hoi/ha-noi-un-tac-giao-thong-ngay-cang-nghiem-trong-721885.vov",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Từ ngày 1/8, giá vé đường sắt đô thị Hà Nội tăng 30 - 40%",
+      "publisher": "Tạp chí Công Thương",
+      "url": "https://tapchicongthuong.vn/tu-ngay-1-8--gia-ve-duong-sat-do-thi-ha-noi-tang-30-40-142576.htm",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Hà Nội miễn vé lượt metro trong 5 ngày nghỉ lễ 2.9",
+      "publisher": "Báo Văn hóa",
+      "url": "https://baovanhoa.vn/van-minh-do-thi/ha-noi-mien-ve-luot-metro-trong-5-ngay-nghi-le-29-260345.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Quyết định 44/2017/QĐ-UBND về giá dịch vụ trông giữ xe đạp, xe máy, xe ô tô trên địa bàn thành phố Hà Nội",
+      "publisher": "caselaw.vn",
+      "url": "https://caselaw.vn/van-ban-phap-luat/305048-quyet-dinh-44-2017-qd-ubnd-ve-gia-dich-vu-trong-giu-xe-dap-xe-may-xe-o-to-tren-dia-ban-thanh-pho-ha-noi",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "Bãi gửi xe 'chặt chém' khách sắm Tết",
+      "publisher": "VnExpress",
+      "url": "https://vnexpress.net/bai-gui-xe-chat-chem-khach-sam-tet-2155346.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Bắt chẹt khách gửi xe ngày Tết",
+      "publisher": "VnExpress",
+      "url": "https://vnexpress.net/bat-chet-khach-gui-xe-ngay-tet-2079064.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Mức phạt đỗ xe máy, đi xe máy trên vỉa hè năm 2026 là bao nhiêu?",
+      "publisher": "Thư Viện Pháp Luật",
+      "url": "https://thuvienphapluat.vn/phap-luat-nha-dat/muc-phat-do-xe-may-di-xe-may-tren-via-he-nam-2026-la-bao-nhieu-14552.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "Điều khiển xe máy vượt đèn đỏ, đi trên vỉa hè bị phạt từ 4-6 triệu đồng",
+      "publisher": "Portal de divulgação jurídica da cidade de Cần Thơ (pbgdpl.cantho.gov.vn)",
+      "url": "https://pbgdpl.cantho.gov.vn/dieu-khien-xe-may-vuot-den-do-di-tren-via-he-bi-phat-tu-4-6-trieu-dong",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "vi"
+    }
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "READY_FOR_QA",
+  "revision": {
+    "reason": "Texto genérico repetido substituído por remissões para os guias de referência; informação específica do local mantida."
+  }
+}

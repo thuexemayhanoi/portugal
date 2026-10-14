@@ -165,7 +165,8 @@ for (const f of facts) {
   // Content and E-E-A-T
   if (isArticle && f.words < 900) I('P1', `conteúdo curto (${f.words} palavras)`);
   if (!isArticle && p.kind === 'page' && f.words < 300) I('P2', `página curta (${f.words} palavras)`);
-  if (isArticle && !f.sources) I('P1', 'artigo sem fontes citadas (E-E-A-T)');
+  // Procedure guides (no legal note) may rightly cite nothing: sources are not added just to fill a count.
+  if (isArticle && !f.sources) I(f.legal ? 'P1' : 'P2', f.legal ? 'nota legal sem fontes citadas' : 'sem fontes citadas (guia de procedimento)');
   else if (isArticle && !f.sourcesVisible) I('P0', 'fontes sem secção visível');
   else if (isArticle && f.sources < 3) I('P2', `só ${f.sources} fontes`);
   if (isArticle && f.legal && f.modified && (Date.now() - Date.parse(f.modified)) / 864e5 > 365) I('P1', 'nota legal com revisão > 12 meses');
