@@ -80,7 +80,9 @@
       "h2": "Contactos oficiais e confirmação",
       "body": [
         {
-          "component": "contact-card",
+          "component": "contact-card"
+        },
+        {
           "note": "Tarifas de referência em VND; confirme sempre o preço final, a caução e a disponibilidade. Os veículos elétricos e os períodos não publicados são sob consulta."
         }
       ]
