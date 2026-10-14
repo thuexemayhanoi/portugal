@@ -23,13 +23,13 @@
       "body": [
         "A 1 de julho de 2025, Hanói reorganizou as unidades administrativas de nível comuna: passou a ter 126, das quais 51 são phường e 75 são xã, segundo as bases jurídicas vietnamitas que consultámos (Resolução 1656/NQ-UBTVQH15). O antigo quận Long Biên repartiu-se por vários phường novos, entre eles Long Biên, Việt Hưng e Phúc Lợi, e o antigo distrito de Gia Lâm passou a ter xã como Gia Lâm e Thuận An. As fontes são artigos de bases de dados jurídicas, não o texto da resolução.",
         "Na prática, isto afeta quem vive cá. Anúncios, mapas e contratos antigos usam os nomes anteriores, e a mesma rua pode aparecer com bairros diferentes conforme a data da página. Ao arrendar, peça ao senhorio que escreva no contrato a morada atual e, entre parênteses, a antiga. Para a mota, use o nome da rua e o número, que não mudaram.",
-        "O nome «Long Biên» aparece ainda no distrito, num dos phường novos e na ponte. Quando alguém lhe disser que mora em Long Biên, pergunte a que rua se refere. A morada da loja {{brand}}, em {{address}}, mostra como se escreve hoje uma morada da zona, e a página de [contactos](/contactos/) tem sempre a versão atualizada."
+        "O nome «Long Biên» designa o distrito, um dos phường novos e a ponte; quando alguém diz que mora em Long Biên, pergunte a que rua se refere. A morada da loja {{brand}} está sempre atualizada em [contactos](/contactos/)."
       ]
     },
     {
       "h2": "Do lado leste ao centro: as ligações do dia a dia",
       "body": [
-        "Quem trabalha ou estuda do outro lado do rio faz esta travessia todos os dias, em geral nas horas de ponta. A tabela resume o que as fontes dizem de cada ligação para motas, com a data em que a informação foi publicada.",
+        "Quem trabalha ou estuda do outro lado do rio faz esta travessia todos os dias. A tabela resume o que as fontes dizem de cada ligação para motas.",
         {
           "table": {
             "caption": "Ligações de Long Biên ao centro para quem vai de mota (verificado a 13 de outubro de 2026)",
@@ -51,7 +51,7 @@
               ],
               [
                 "Pontes Vĩnh Tuy 1 e 2",
-                "Notícia de 29 de agosto de 2023: cada ponte é de sentido único, com uma faixa mista para motas; a Vĩnh Tuy 1 no sentido Long Biên – Hai Bà Trưng e a Vĩnh Tuy 2 no sentido contrário",
+                "Notícia de 29 de agosto de 2023: cada ponte é de sentido único, com faixa mista para motas; a Vĩnh Tuy 1 vai de Long Biên para Hai Bà Trưng e a Vĩnh Tuy 2 no sentido contrário",
                 "Houve mudanças posteriores de faixas, velocidades e desvios, sem ano nos textos que vimos: confirme antes"
               ],
               [
@@ -92,9 +92,8 @@
             "Onde fica a mota: cave, rés do chão fechado ou ao ar livre, e quem a vigia?",
             "Como se entra: cartão, autocolante, matrícula registada? E se perder o cartão?",
             "A que horas abre e fecha o acesso? Há câmaras?",
-            "Os visitantes podem deixar a mota? Com que condições?",
             "Aceitam uma mota alugada, cuja matrícula não está em seu nome, e que papéis querem ver?",
-            "Há ponto de carregamento para bicicletas e motas elétricas, e quanto custa?"
+            "Há ponto de carregamento para motas elétricas, e quanto custa?"
           ]
         },
         "Numa mota alugada, a matrícula e o certificado de registo estão em nome do proprietário. O guia dos [documentos da mota alugada](/guia-de-aluguer/documentos-da-mota-alugada/) explica o que levar consigo e o [acordo de aluguer](/guia-de-aluguer/acordo-de-aluguer/) o que deve ficar escrito. Peça à loja, por escrito, o que ela pode fornecer ao prédio; se a administração recusar, a loja não pode alterar essa regra."
@@ -111,7 +110,7 @@
     {
       "h2": "Mota alugada ao mês: o que muda para quem vive cá",
       "body": [
-        "Para quem acabou de chegar e ainda não sabe quanto vai conduzir, uma mota alugada ao mês é uma forma de testar a rotina antes de comprar. Na tabela de referência da loja {{brand}}, um mês custa entre {{price.wave.month}} e {{price.vision.month}} nas motas Wave e Vision. As tarifas completas estão aqui, com a data de verificação {{pricing.verifiedAt}}:",
+        "Para quem acabou de chegar, uma mota alugada ao mês permite testar a rotina antes de comprar. Na tabela de referência da loja {{brand}}, um mês custa entre {{price.wave.month}} (Wave) e {{price.vision.month}} (Vision); as tarifas completas, verificadas a {{pricing.verifiedAt}}, estão aqui:",
         {
           "component": "price-table",
           "category": "scooters-automaticas"
