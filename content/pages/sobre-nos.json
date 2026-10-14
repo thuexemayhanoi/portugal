@@ -17,7 +17,7 @@
       "body": [
         "**{{name}}** é o nome oficial da loja de aluguer de motas que apresentamos neste website. Usamos também **{{display}}** na comunicação em português. Embora os nomes apareçam em línguas diferentes, referem-se ao mesmo negócio, com os mesmos contactos e a mesma localização em Hanói, Vietname.",
         "A morada indicada é **{{address}}**. Para mostrar o endereço a um motorista de táxi ou usar uma aplicação local, pode copiar a versão vietnamita: **{{address.vi}}**. A designação no Google Maps é [{{gbp}}]({{maps}}), e recomendamos confirmar o destino no mapa antes de se deslocar.",
-        "O telefone oficial é **{{phone}}**, também disponível por [Zalo]({{zalo}}) e [WhatsApp](https://wa.me/84942467674). O horário é **{{hours.display}}**. Estes dados são mantidos de forma centralizada; consulte [Contactos](/contactos/) para todas as opções de contacto."
+        "O telefone oficial é **{{phone}}**, também disponível por [Zalo]({{zalo}}) e [WhatsApp]({{whatsapp}}). O horário é **{{hours.display}}**. Estes dados são mantidos de forma centralizada; consulte [Contactos](/contactos/) para todas as opções de contacto."
       ]
     },
     {
@@ -104,7 +104,7 @@
       "h2": "Contacte-nos para confirmar o seu plano",
       "body": [
         "Para uma proposta concreta, diga à loja quando pretende começar o aluguer, durante quanto tempo, que categoria de mota procura e quais são as suas dúvidas sobre os documentos e o percurso. A resposta deve esclarecer as condições aplicáveis à sua situação antes de aceitar um veículo.",
-        "O contacto principal é **{{phone}}**, por telefone ou Zalo, e a morada é **{{address}}**. O horário publicado é **{{hours.display}}**. Consulte os dados atualizados em [Contactos](/contactos/) ou abra a [localização no Google Maps]({{maps}}). Se preferir continuar a pesquisar, regresse à [página inicial](/) para explorar os guias."
+        "O contacto principal é **{{phone}}**, por telefone, Zalo ou WhatsApp, e a morada é **{{address}}**. O horário publicado é **{{hours.display}}**. Consulte os dados atualizados em [Contactos](/contactos/) ou abra a [localização no Google Maps]({{maps}}). Se preferir continuar a pesquisar, regresse à [página inicial](/) para explorar os guias."
       ]
     },
     {
