@@ -1,0 +1,227 @@
+{
+  "contract_version": 1,
+  "id": "PT-0267",
+  "slug": "roteiro-dos-mercados",
+  "title": "Roteiro dos mercados de Hanói de mota: ordem e horários",
+  "description": "Quatro mercados de Hanói por ordem de horário: Long Biên de madrugada, Chợ Hôm, Châu Long e Đồng Xuân, com estacionamento, noites de fim de semana e dúvidas.",
+  "h1": "Mercados de Hanói de mota: uma ordem de visita pelas horas de abertura",
+  "summary": "Num roteiro de mercados de Hanói, ordene as paragens pelo horário, não pela distância: o mercado grossista de Long Biên é de madrugada, o Chợ Hôm abre das 6:00 às 18:00 e o Đồng Xuân tem bancas de dia e mercado noturno ao fim de semana. Não encontrámos parques nem preços junto a nenhum deles: pergunte antes de deixar a mota.",
+  "key_points": [
+    "O mercado grossista de Long Biên funciona de madrugada: das 0:00 às 5:00 segundo um guia, com o auge entre as 2:00 e as 5:00 segundo outro; as fontes são antigas.",
+    "O Chợ Hôm abre das 6:00 às 18:00 todos os dias, segundo dois guias, e fecha antes da zona 1 fechar às motas, às 19:00.",
+    "Do Châu Long, em Trúc Bạch, não encontrámos horário; do Đồng Xuân, os guias divergem e há um guia próprio com as horas e o estacionamento.",
+    "Não há parques, preços ou regras de estacionamento verificados em nenhum dos mercados: guarde a senha e fotografe a mota.",
+    "Quem quer ver o mercado grossista de madrugada deve ir de táxi ou de Grab: a loja só abre às {{opens}} e conduzir de noite entre camiões e carregadores é a pior hora para uma mota alugada."
+  ],
+  "intro": [
+    "Os mercados de Hanói têm horários muito diferentes: um funciona de madrugada, outro de manhã até ao fim da tarde, outro ainda ao fim de semana à noite. Por isso, o que decide um roteiro é a hora a que cada um abre, e só depois a distância entre eles. Esta página ordena quatro mercados por horário e diz, em cada paragem, o que as fontes confirmam e o que ficou por confirmar.",
+    "As informações vêm de guias de viagem e de notícias vietnamitas consultados a 14 de outubro de 2026. Vários guias são antigos ou sem data, e as moradas podem ter mudado de nome de bairro com a reorganização administrativa de 2025. O mercado [Đồng Xuân tem o seu próprio guia](/zonas-de-hanoi/mercado-dong-xuan-de-mota/), com os horários e o estacionamento; aqui só entra no roteiro, sem repetir esse guia. As outras ideias de itinerário estão em [rotas e mobilidade](/rotas-e-mobilidade/)."
+  ],
+  "sections": [
+    {
+      "h2": "Os quatro mercados e os horários que as fontes dão",
+      "body": [
+        {
+          "table": {
+            "caption": "Mercados do roteiro: morada, horário e o que não está confirmado (guias consultados a 14 de outubro de 2026)",
+            "head": ["Mercado", "Morada segundo as fontes", "Horário", "Por confirmar"],
+            "rows": [
+              ["Long Biên (grossista)", "189 Hồng Hà, bairro de Phúc Xá, Ba Đình", "Das 0:00 às 5:00 segundo um guia; outro diz que funciona 24 horas, com o auge das 2:00 às 5:00", "Entrada de motas, estacionamento e se os turistas são bem-vindos de madrugada"],
+              ["Chợ Hôm (Đức Viên)", "79 phố Huế, Hai Bà Trưng; acessos pelas ruas Trần Xuân Soạn e Ngô Thì Nhậm", "Das 6:00 às 18:00, todos os dias", "Estacionamento e preços"],
+              ["Châu Long (Trúc Bạch)", "Zona de Trúc Bạch; o guia não dá a morada completa", "Não encontrado", "Horário, morada exata e estacionamento"],
+              ["Đồng Xuân", "Bairro Antigo", "Os guias divergem: das 6:00 às 18:00 num, das 8:00 às 20:00 noutro", "Ver o guia próprio: parques, sentidos únicos e zona 1"]
+            ]
+          }
+        },
+        "O Long Biên é o único dos quatro descrito como mercado grossista: de noite é sobretudo grossista e de dia sobretudo de retalho, com secções de fruta, legumes, peixe e carne. Segundo um guia, enche mais no início da semana, nas vésperas de feriados e antes do dia 15 do calendário lunar.",
+        "Dos outros três, as fontes só dão horário e localização, e do Châu Long nem isso: um guia descreve-o como um pequeno mercado de bairro em Trúc Bạch."
+      ]
+    },
+    {
+      "h2": "Long Biên: o mercado de madrugada e o que o torna difícil de mota",
+      "body": [
+        "Os relatos sobre o mercado grossista de Long Biên coincidem numa coisa: o movimento é de noite. Um guia dá o horário das 0:00 às 5:00 e outro diz que funciona sempre, com o auge entre as 2:00 e as 5:00. Um terceiro relato, antigo, fala em comerciantes a chegar por volta das 21:00 ou das 22:00 e em azáfama máxima depois da meia-noite. Um guia em inglês diz que depois das 5:30 a maior parte das bancas já está vazia.",
+        "Os horários vêm de textos antigos ou sem data e podem ter mudado: trate-os como relatos.",
+        "Para quem aluga mota, o problema é a hora. A loja funciona {{hours}}: sem uma mota já levantada na véspera, não há como chegar de mota às 2:00. E mesmo que a tenha, conduzir de noite entre camiões, carrinhas e carregadores não é um bom primeiro passeio: o título de uma reportagem do Báo Pháp luật Việt Nam descreve condutores a virar o volante para se desviarem dos carregadores do mercado, e só pudemos ler o título. Se o que o atrai é a atmosfera, vá de táxi ou de Grab e peça ao condutor que o deixe e o espere ou volte a buscá-lo; o guia sobre [conduzir de mota à noite](/guia-de-aluguer/conduzir-de-mota-a-noite/) diz o que muda na estrada.",
+        "De dia, o mercado tem uma parte de retalho, segundo as fontes. O mercado fica em Ba Đình, do outro lado do rio em relação à loja em {{area}}: o guia da [ponte Long Biên](/zonas-de-hanoi/ponte-long-bien/) diz como atravessar e o que fazer quando está fechada. Não encontrámos dados sobre entrada de motas no recinto nem sobre parques à volta."
+      ]
+    },
+    {
+      "h2": "Chợ Hôm e Châu Long: horários de dia e dúvidas de estacionamento",
+      "body": [
+        "O Chợ Hôm abre das 6:00 às 18:00 todos os dias, segundo dois guias, e tem dois acessos: um pela rua Trần Xuân Soạn e outro pela rua Ngô Thì Nhậm. Fica na rua Huế, no n.º 79. Como fecha às 18:00, não colide com o fecho da zona 1 às motas, que só começa às 19:00 de sexta a domingo.",
+        "Do Châu Long, em Trúc Bạch, só sabemos que é um pequeno mercado de bairro. Não encontrámos horário. Confirme o horário no mapa ou no alojamento e não o ponha como primeira paragem do dia.",
+        "Para os dois, repare que as fontes não dizem onde deixar a mota. Perto de um mercado cheio, o passeio parece um parque. Estacionar sem autorização na faixa de rodagem ou no passeio dá, porém, uma coima de 400 mil a 600 mil VND, segundo o Decreto 168/2024/NĐ-CP. O [guia de estacionamento no Bairro Antigo](/zonas-de-hanoi/estacionar-no-bairro-antigo/) explica como é um parque com funcionário e as regras do passeio, e a página sobre [onde estacionar em Hanói](/guia-de-aluguer/onde-estacionar-em-hanoi/) generaliza para outros bairros."
+      ]
+    },
+    {
+      "h2": "A ordem de visita: pelas horas, em dois roteiros",
+      "body": [
+        "A ordem mais lógica segue as horas de abertura. O Long Biên fica no início, de madrugada, mas só para quem vai de táxi; o Chợ Hôm abre às 6:00, o Đồng Xuân durante o dia e o Châu Long fica para onde calhar, porque não sabemos o horário. ",
+        {
+          "table": {
+            "caption": "Dois roteiros de mercados, pelas horas de abertura",
+            "head": ["Roteiro", "Ordem", "Quando", "Mota"],
+            "rows": [
+              ["Dia útil, com a mota", "Chợ Hôm, depois Đồng Xuân, e Châu Long só se o horário se confirmar", "Entre as 9:00 e as 16:00, entre as pontas do trânsito; o Chợ Hôm fecha às 18:00", "Estacione uma vez por paragem, num parque com funcionário, e faça o resto a pé"],
+              ["Madrugada, sem mota", "Long Biên antes das 5:00; depois pequeno-almoço perto", "Táxi ou Grab de ida e volta", "A mota fica na loja ou no alojamento; sem álcool se for conduzir depois"]
+            ]
+          }
+        },
+        "Para o primeiro roteiro, a janela das 9:00 às 16:00 é a que cumpre as duas condições: fora das pontas de trânsito do centro e dentro do horário das bancas. O guia sobre as [horas de ponta em Hanói](/guia-de-aluguer/horas-de-ponta-em-hanoi/) tem as janelas, e o de [circular de mota no Bairro Antigo](/zonas-de-hanoi/quando-circular-no-bairro-antigo/) ajuda a escolher a hora.",
+        "Dois mercados no mesmo dia chegam; três pedem mais estacionamentos e mais calor, e o guia do [verão e calor em Hanói](/rotas-e-mobilidade/verao-e-calor-em-hanoi/) lembra que os trajetos longos pedem pausas à sombra."
+      ]
+    },
+    {
+      "h2": "Estacionar junto a um mercado: o que se sabe",
+      "body": [
+        "A pesquisa específica não encontrou parques, preços nem horários de parques junto a nenhum dos quatro mercados. O que existe é a regra geral para Hanói: os preços de guarda de motas têm um teto fixado pela Decisão 44/2017/QĐ-UBND, que uma notícia de 2024 cita com 5 mil a 8 mil VND por vez. A mesma notícia conta que, a 12 de fevereiro de 2024, terceiro dia do Tết, vários parques à volta do lago Hoàn Kiếm cobravam 20 mil VND, e que a polícia de Hoàn Kiếm atuou contra parques que cobravam duas a três vezes o preço afixado.",
+        "Não confirmámos os montantes atuais. A solução prática é a de sempre: pergunte o preço, peça a senha e fotografe-a, junto com a mota e o nome da rua, porque as ruas de um mercado parecem todas iguais à saída.",
+        "Se levar compras maiores, lembre-se de que uma scooter tem pouca arrumação: o guia sobre [bagagem numa scooter](/tipos-de-motas/bagagem-numa-scooter/) mostra o que cabe e o que não cabe. Para pagar, tenha dinheiro em notas pequenas e veja o guia sobre [ler preços em dong](/precos/ler-precos-em-dong/) e o de [quanto dinheiro levar](/precos/quanto-dinheiro-levar/)."
+      ]
+    },
+    {
+      "h2": "Noites de sexta a domingo: o que se mantém e o que muda",
+      "body": [
+        "À data de 13 de outubro de 2026, a zona 1 do piloto de baixas emissões de Hanói fecha-se a motas e automóveis de sexta a domingo, das 19:00 às 24:00. No mercado noturno do Đồng Xuân, que funciona de sexta a domingo, as ruas entram nessa zona, e o [guia do mercado Đồng Xuân de mota](/zonas-de-hanoi/mercado-dong-xuan-de-mota/) trata dele. A [página da zona de baixas emissões](/tipos-de-motas/zona-de-baixas-emissoes-hanoi/) explica a regra e as ruas.",
+        "Para este roteiro, a consequência é simples: os mercados de dia (Chợ Hôm e o Đồng Xuân de dia) acabam antes das 19:00, hora a que a mota tem de estar fora da zona. Quem quer jantar ou beber depois de uma visita deve deixar a mota em segurança: a lei vietnamita não admite qualquer concentração de álcool a quem conduz, e o guia sobre [voltar à noite sem conduzir](/rotas-e-mobilidade/voltar-a-noite-sem-conduzir/) tem as alternativas."
+      ]
+    },
+    {
+      "h2": "Antes de sair da loja",
+      "body": [
+        "Se escolher o roteiro de dia, a loja funciona {{hours}} e os documentos pedidos estão no guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/). Se nunca conduziu em Hanói, esta não é a primeira saída: o plano dos [primeiros dias a conduzir](/guia-de-aluguer/primeiros-dias-a-conduzir/) propõe uma sequência mais calma. Dúvidas: [contactos](/contactos/) ou {{phone}}.",
+        {
+          "checklist": [
+            "Escolha o roteiro: de dia com a mota, ou de madrugada sem ela.",
+            "Confirme o horário do mercado no próprio dia, sobretudo o Châu Long, de que não temos horário.",
+            "Evite as pontas de trânsito e, de sexta a domingo, saia da zona 1 antes das 19:00.",
+            "Pergunte o preço do parque, guarde a senha e fotografe a mota e a rua.",
+            "Leve dinheiro em notas pequenas e deixe as compras grandes para o fim.",
+            "Tenha no telemóvel a morada da loja em vietnamita, {{address.vi}}, para o regresso a {{area}}."
+          ]
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "A que horas funciona o mercado de Long Biên?",
+      "a": "É um mercado grossista de madrugada: das 0:00 às 5:00 segundo um guia, e 24 horas com o auge entre as 2:00 e as 5:00 segundo outro. As fontes são antigas, por isso confirme no local. De dia há retalho, segundo as fontes."
+    },
+    {
+      "q": "O Chợ Hôm abre todos os dias?",
+      "a": "Dois guias indicam das 6:00 às 18:00, todos os dias. Fica no n.º 79 da rua Huế, com acessos pelas ruas Trần Xuân Soạn e Ngô Thì Nhậm. Não encontrámos informação sobre estacionamento."
+    },
+    {
+      "q": "Posso ir de mota ao mercado de Long Biên de madrugada?",
+      "a": "A loja só abre às {{opens}} e a madrugada é a pior hora para conduzir uma mota alugada, entre camiões e carregadores. É mais prudente ir de táxi ou de Grab; de dia, as fontes descrevem uma parte de retalho, mas não encontrámos dados sobre estacionamento."
+    },
+    {
+      "q": "Quanto custa estacionar a mota junto a um mercado?",
+      "a": "Não encontrámos preços junto a nenhum dos mercados. Uma notícia de 2024 cita o teto da cidade com 5 mil a 8 mil VND por vez para motas e regista 20 mil VND a 12 de fevereiro de 2024, no Tết. Pergunte o preço antes de deixar a mota."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Guia sobre o mercado de Long Biên, em Hanói (VinWonders, em vietnamita)",
+      "publisher": "VinWonders",
+      "url": "https://vinwonders.com/vi/wonderpedia/news/cho-long-bien-ha-noi/",
+      "accessed": "2026-10-14",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Guia de viagem sobre os mercados de Hanói (Vietnam Airlines, em vietnamita)",
+      "publisher": "Vietnam Airlines",
+      "url": "https://www.vietnamairlines.com/ca/vi/plan-book/travel/travel-guide/hanoi-markets",
+      "accessed": "2026-10-14",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Long Bien Market – A Guide to Hanoi’s Late-Night Wholesale Chaos",
+      "publisher": "Local Vietnam",
+      "url": "https://localvietnam.com/hanoi/long-bien-market/",
+      "accessed": "2026-10-14",
+      "type": "business",
+      "lang": "en"
+    },
+    {
+      "title": "Reportagem sobre condutores e carregadores no mercado grossista de Long Biên (só o título foi lido, em vietnamita)",
+      "publisher": "Báo Pháp luật Việt Nam",
+      "url": "https://baophapluat.vn/lanh-song-lung-nhin-canh-danh-vo-lang-lach-cuu-van-o-cho-dau-moi-long-bien-post183646.html",
+      "accessed": "2026-10-14",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Guia sobre o Chợ Hôm, em Hanói (VinWonders, em vietnamita)",
+      "publisher": "VinWonders",
+      "url": "https://vinwonders.com/vi/wonderpedia/news/cho-hom-ha-noi/",
+      "accessed": "2026-10-14",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Guia sobre o Chợ Hôm, no n.º 79 da rua Huế (Mia.vn, em vietnamita)",
+      "publisher": "Mia.vn",
+      "url": "https://mia.vn/cam-nang-du-lich/cho-hom-ha-noi-13791",
+      "accessed": "2026-10-14",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Guia sobre o mercado Châu Long, em Trúc Bạch (Xanh SM, em vietnamita, de janeiro de 2025)",
+      "publisher": "GreenSM (greensm.com)",
+      "url": "https://www.greensm.com/vn-vi/news/cho-chau-long-truc-bach-ha-noi",
+      "accessed": "2026-10-14",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Mercado Đồng Xuân, o mercado mais famoso e movimentado da capital (artigo em vietnamita)",
+      "publisher": "mia.vn",
+      "url": "https://mia.vn/cam-nang-du-lich/cho-dong-xuan-khu-cho-noi-tieng-va-sam-uat-nhat-thanh-pho-thu-do-2634",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Hoàn Kiếm: polícia atua contra parques de estacionamento que violam as regras (notícia em vietnamita)",
+      "publisher": "Báo Đại biểu Nhân dân (daibieunhandan.vn)",
+      "url": "https://daibieunhandan.vn/quan-hoan-kiem-kien-quyet-xu-ly-nhung-bai-trong-giu-xe-vi-pham-quy-dinh-10330761.html",
+      "accessed": "2026-10-14",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Ha Noi begins restricting fossil-fuel vehicles in low-emission zones",
+      "publisher": "Portal do Governo do Vietname (chinhphu.vn) — Hanoi Capital",
+      "url": "https://hanoicapital.chinhphu.vn/ha-noi-begins-restricting-fossil-fuel-vehicles-in-low-emission-zones-110260702082825273.htm",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "title": "Quyết định 44/2017/QĐ-UBND về giá dịch vụ trông giữ xe đạp, xe máy, xe ô tô trên địa bàn thành phố Hà Nội",
+      "publisher": "caselaw.vn",
+      "url": "https://caselaw.vn/van-ban-phap-luat/305048-quyet-dinh-44-2017-qd-ubnd-ve-gia-dich-vu-trong-giu-xe-dap-xe-may-xe-o-to-tren-dia-ban-thanh-pho-ha-noi",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "Nghị định 168 đối với xe máy: 10 mức phạt mọi tài xế cần biết",
+      "publisher": "LuatVietnam",
+      "url": "https://luatvietnam.vn/giao-thong/nghi-dinh-168-doi-voi-xe-may-863-100609-article.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    "tuoitre-alcool-zero"
+  ],
+  "legal_note": true,
+  "writer": { "type": "claude", "name": "Claude (Claude Code)" },
+  "status": "READY_FOR_QA"
+}
