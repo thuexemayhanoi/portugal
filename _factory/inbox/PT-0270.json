@@ -54,7 +54,7 @@
           "steps": [
             {
               "title": "Manhã: Museu de Etnologia",
-              "text": "Chegue perto da abertura, às 8:30, para apanhar a sala e o jardim sem a multidão. Reserve 1,5 a 2,5 horas, segundo um guia, e deixe o jardim para o fim, com as casas das minorias étnicas, que é onde as crianças costumam ter mais espaço para correr."
+              "text": "Chegue perto da abertura, às 8:30. Reserve 1,5 a 2,5 horas, segundo um guia, e deixe para o fim o jardim exterior, com casas de grupos étnicos, que dá mais espaço às crianças."
             },
             {
               "title": "Almoço e pausa",
@@ -63,10 +63,6 @@
             {
               "title": "Tarde: marionetas na água",
               "text": "Escolha uma das sessões da tarde, às 15:00 ou às 16:10 segundo um artigo, em vez da noite: acabam mais cedo e as crianças chegam menos cansadas. O espetáculo dura cerca de 50 minutos. Reserve antes e confirme a sessão, porque de novembro a março as noites esgotam."
-            },
-            {
-              "title": "Fim do dia: jantar cedo",
-              "text": "Depois do teatro, jante por perto e regresse ao hotel de táxi ou de Grab: com crianças, manda a hora de dormir."
             }
           ]
         },
@@ -82,8 +78,8 @@
             "caption": "Plano de um sábado ou domingo com crianças",
             "head": ["Hora", "O que fazer", "Nota"],
             "rows": [
-              ["8:30 às 11:30", "Museu da Natureza do Vietname", "Gratuito; o intervalo do meio-dia é das 11:30 às 13:30"],
-              ["11:30 às 13:30", "Almoço e descanso", "Intervalo do museu, segundo o horário das fontes"],
+              ["8:30 às 11:30", "Museu da Natureza do Vietname", "Gratuito"],
+              ["11:30 às 13:30", "Almoço e descanso", "O Museu da Natureza fecha neste intervalo"],
               ["13:30 às 16:00", "Museu de Etnologia (1,5 a 2,5 horas)", "Fecha às 17:30; vá a meio da tarde para evitar a hora de ponta"],
               ["À noite", "Opcional: marionetas na água", "As sessões das 18:30 e das 20:00 podem ser tardias para crianças pequenas"]
             ]
@@ -96,14 +92,14 @@
       "h2": "Segunda-feira: o dia em que o Museu de Etnologia fecha",
       "body": [
         "Na segunda-feira, o Museu de Etnologia está fechado e, segundo as fontes, o Museu da Natureza só recebe famílias ao fim de semana e em feriados. Sobram o Museu das Mulheres, que abre das 8:00 às 17:00 todos os dias, e o teatro de marionetas, que um guia e um estudo dão como aberto todos os dias do ano. O jardim zoológico também pode servir, mas as fontes não dizem se fecha num dia da semana: confirme.",
-        "Um plano simples para segunda é o Museu das Mulheres de manhã, almoço no centro e uma sessão de marionetas à tarde. Se os filhos mais velhos tiverem interesse em história, o [roteiro da guerra do Vietname](/rotas-e-mobilidade/roteiro-da-guerra-do-vietname/) reúne locais e horários; vários exigem uma conversa prévia com as crianças, e essa decisão é sua."
+        "Um plano simples para segunda é o Museu das Mulheres de manhã, almoço no centro e uma sessão de marionetas à tarde. Para adolescentes interessados em história, o [roteiro da guerra do Vietname](/rotas-e-mobilidade/roteiro-da-guerra-do-vietname/) reúne locais e horários."
       ]
     },
     {
       "h2": "Entre locais: táxi, Grab ou autocarro",
       "body": [
         "A distância entre os locais não foi medida por nós, mas os museus de Etnologia e da Natureza ficam ambos em Cầu Giấy, e o teatro e o Museu das Mulheres ficam no centro: agrupe cada manhã numa só zona. Veja o trajeto no mapa para a hora a que pensa sair, porque o trânsito de Hanói varia muito.",
-        "O guia dos [táxis em Hanói](/rotas-e-mobilidade/taxis-em-hanoi/) e a comparação entre [mota alugada e Grab](/precos/mota-alugada-ou-grab/) ajudam a escolher. Com crianças, um táxi ou um Grab de porta a porta é mais cómodo do que o autocarro, sobretudo com carrinhos ou cadeiras; o autocarro serve para trajetos mais longos e dias mais calmos.",
+        "Com crianças, o táxi ou o Grab de porta a porta é mais cómodo do que o autocarro; o guia dos [táxis em Hanói](/rotas-e-mobilidade/taxis-em-hanoi/) e a comparação entre [mota alugada e Grab](/precos/mota-alugada-ou-grab/) ajudam a escolher.",
         "O portal do Governo vietnamita indica que andar nos autocarros públicos subsidiados dentro do Anel Viário 1 não custa nada de 1 de julho de 2026 a 30 de junho de 2027, e que os autocarros turísticos não entram nesta medida. Se o seu trajeto sai desse anel ou usa uma carreira que não é subsidiada, o preço pode ser diferente: confirme com o motorista. O guia dos [autocarros de Hanói](/rotas-e-mobilidade/autocarros-de-hanoi/) explica como se paga."
       ]
     },
@@ -138,11 +134,7 @@
     },
     {
       "q": "Qual é o melhor museu de Hanói para crianças?",
-      "a": "As fontes apontam o Museu de Etnologia, pelo jardim exterior com casas de grupos étnicos, e o Museu da Natureza, que é gratuito e recebe famílias ao fim de semana. Não há uma resposta única: depende da idade e do dia. A escolha pelo dia da semana está nas secções do dia útil e do fim de semana."
-    },
-    {
-      "q": "O que fazer num dia de chuva com crianças em Hanói?",
-      "a": "Escolha espaços interiores, como o Museu das Mulheres, o Museu de Etnologia (sala interior) ou o teatro de marionetas, e vá de táxi. O roteiro para um dia de chuva tem mais paragens cobertas."
+      "a": "As fontes apontam o Museu de Etnologia, pelo jardim exterior com casas de grupos étnicos, e o Museu da Natureza, que é gratuito e recebe famílias ao fim de semana. Não há uma resposta única: depende da idade e do dia."
     },
     {
       "q": "Os autocarros em Hanói são grátis para crianças?",

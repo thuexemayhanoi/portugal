@@ -1,0 +1,218 @@
+{
+  "contract_version": 1,
+  "id": "PT-0006",
+  "slug": "honda-click-ou-yamaha-mio",
+  "title": "Honda Click ou Yamaha Mio: como escolher com o mesmo preço",
+  "description": "Honda Click ou Yamaha Mio para alugar em Hanói: o preço é o mesmo, por isso decidem a cilindrada do registo, o estado da unidade e o ajuste à sua estatura.",
+  "h1": "Click ou Mio: duas scooters ao mesmo preço, o que decide a escolha",
+  "summary": "Na tabela da loja, a Honda Click custa {{cmp.click.mio.day}} a Yamaha Mio ao dia ({{price.click.day}}), por isso o preço não desempata. Decide a cilindrada que consta do registo da unidade, o ano e o estado da mota, e o ajuste à sua estatura, ao trajeto e à bagagem. Como as fichas técnicas que circulam são de outros mercados, só o teste das duas na loja resolve.",
+  "key_points": [
+    "Ao dia, a Click custa {{cmp.click.mio.day}} a Mio ({{price.click.day}}), e as tarifas semanal e mensal de referência também coincidem.",
+    "As fichas de Click e Mio que se encontram online são, quase sempre, de outros mercados e de outras gerações, e não valem para a unidade da loja.",
+    "A cilindrada do registo decide a carta: até 125 cm³ é a A1, acima disso a A.",
+    "Estatura, trajeto e bagagem decidem-se com as duas motas à frente e o mesmo teste feito por ordem.",
+    "Se só uma estiver livre nas suas datas, pergunte pelo ano e pela cilindrada em vez de adiar a decisão."
+  ],
+  "intro": [
+    "Quem consulta a tabela da loja repara que a Click e a Mio estão lado a lado, ao mesmo preço de referência. Com o dinheiro fora da equação, fica a dúvida de qual escolher, e quase todas as páginas na internet respondem com números de fichas técnicas de outros países.",
+    "Os guias da [Honda Click](/tipos-de-motas/honda-click-em-hanoi/) e da [Yamaha Mio](/tipos-de-motas/yamaha-mio-em-hanoi/) descrevem cada modelo. Este foca-se na pergunta que fica quando já leu os dois: o preço é igual, como desempatar? A resposta tem três filtros e um teste lado a lado, que as secções seguintes percorrem por ordem."
+  ],
+  "sections": [
+    {
+      "h2": "O que o preço diz: nada que ajude a escolher",
+      "body": [
+        "Na tabela de referência da loja, verificada a {{pricing.verifiedAt}}, as duas scooters têm os mesmos valores:",
+        {
+          "table": {
+            "caption": "Honda Click e Yamaha Mio: preços de referência da loja",
+            "head": ["Período", "Honda Click", "Yamaha Mio"],
+            "rows": [
+              ["Dia", "{{price.click.day}}", "{{price.mio.day}}"],
+              ["Semana", "{{price.click.week}}", "{{price.mio.week}}"],
+              ["Mês", "{{price.click.month}}", "{{price.mio.month}}"]
+            ]
+          }
+        },
+        "A semana custa o mesmo ou menos do que os dias soltos a partir de {{price.click.weekFrom}} dias na Click e de {{price.mio.weekFrom}} dias na Mio. Estes valores referem-se só à mota. A caução, o combustível e uma eventual entrega confirmam-se com a loja, e a [tabela completa de preços](/precos/) mostra todos os modelos.",
+        "Com o preço igual, a pergunta passa a ser outra: o que pode ser diferente na mota que lhe vão entregar? São três coisas, e nenhuma está no preço."
+      ]
+    },
+    {
+      "h2": "Antes de comparar fichas: de que mercado vem o número",
+      "body": [
+        "Para a Click e a Mio vendidas no Vietname não encontrámos fichas do fabricante com altura do assento, peso, depósito e arrumação. O que se encontra online vem de outros mercados, onde o mesmo nome pode designar motas diferentes. A tabela mostra os números que circulam, a que mercado pertencem e porque não valem para a unidade da loja.",
+        {
+          "table": {
+            "caption": "Números publicados sobre Click e Mio (consulta de 14 de outubro de 2026)",
+            "head": ["Dado", "Honda Click", "Yamaha Mio", "Vale para a unidade da loja?"],
+            "rows": [
+              ["Motor das primeiras versões vendidas no Vietname", "Cerca de 108 cm³, arrefecido por líquido, com carburador (2006)", "Cerca de 115 cm³, arrefecido a ar, segundo a imprensa vietnamita", "Só como ponto de partida: a geração da unidade pode ser outra"],
+              ["Geração recente", "Click 125 (Filipinas) com 125 cm³; Click 160 (Tailândia) com cerca de 157 cm³, CVT", "Não encontrada para o Vietname", "Não: são outros mercados"],
+              ["Altura do assento", "Não encontrada em fonte fiável", "750 mm, segundo a Wikipedia, para o modelo em geral", "Não: modelo e mercado indefinidos"],
+              ["Peso", "Não encontrado em fonte fiável", "Cerca de 87 kg a seco e 90 kg com líquidos, segundo a Wikipedia", "Não: modelo e mercado indefinidos"],
+              ["Depósito", "5,5 litros (Click 125, Filipinas)", "Cerca de 4,1 a 4,2 litros, segundo a Wikipedia (uma medição deu 3,6 litros)", "Não: gerações e mercados diferentes"],
+              ["Arrumação sob o assento", "18 litros, onde cabe um capacete meio-casco de tamanho médio (Click 125, Filipinas)", "Não encontrada", "Não: depende da geração e do capacete"]
+            ]
+          }
+        },
+        "O que se pode tirar daqui é uma hipótese a testar, não uma conclusão: nas fichas que existem, a Mio aparece mais baixa e mais leve, e a Click com mais depósito e arrumação. Como as gerações e os mercados diferem, a hipótese só vale depois de a confirmar na mota. Os guias do [assento e peso](/tipos-de-motas/altura-do-assento-e-peso/) e da [bagagem numa scooter](/tipos-de-motas/bagagem-numa-scooter/) explicam como fazer esse teste, e o resto do guia diz como usar os resultados."
+      ]
+    },
+    {
+      "h2": "Primeiro filtro: a cilindrada que consta do registo",
+      "body": [
+        "Duas scooters ao mesmo preço podem exigir cartas diferentes. A categoria A1 abrange motociclos de duas rodas até 125 cm³, e acima disso a lei vietnamita em vigor desde 1 de janeiro de 2025 exige a categoria A. A Mio das primeiras séries, a 115 cm³, fica abaixo do limite. A Click cobre as duas situações, porque o nome serve para gerações de 108 e 125 cm³ e para as de cerca de 157 cm³.",
+        "Por isso, a pergunta mais útil à loja é a cilindrada que está no registo da unidade, e não o nome do modelo. Se a sua carta é a A1, só aceite uma Click cuja cilindrada confirme. O guia da [cilindrada e carta A1](/tipos-de-motas/cilindrada-e-carta-a1/) explica a regra e o que fazer se o registo e a carta não coincidirem."
+      ]
+    },
+    {
+      "h2": "Segundo filtro: ano e estado da unidade",
+      "body": [
+        "Tanto a Click como a Mio vendidas no Vietname começaram em 2006. As unidades de aluguer podem ser dessa época ou de gerações importadas mais tarde, e a tabela da loja indica o modelo, não o ano. Uma mota com muitos anos pode estar impecável, e uma mais recente pode estar mal cuidada: o que conta é o estado, e só o vê com a mota à sua frente.",
+        "Pergunte o ano de fabrico, o historial de manutenção que a loja conseguir dar e se há dois exemplares para comparar. O guia da [checklist de inspeção](/guia-de-aluguer/checklist-de-inspecao/) tem os doze pontos a verificar antes de sair, e funciona igual nas duas."
+      ]
+    },
+    {
+      "h2": "Terceiro filtro: estatura, trajeto e bagagem",
+      "body": [
+        "Estes três critérios é que mais mudam a escolha, e a tabela diz por onde começar o teste. É uma ordem sugerida para experimentar, e não um resultado: cada unidade pode comportar-se de forma diferente.",
+        {
+          "table": {
+            "caption": "Por onde começar o teste, consoante o seu caso",
+            "head": ["O seu caso", "Experimente primeiro", "Porquê, e o que pode contrariar"],
+            "rows": [
+              ["Pouca estatura ou receio de a mota ser alta", "A Mio", "As fichas de outros mercados dão-na mais baixa; confirme com os dois pés no chão, porque a unidade pode ser diferente"],
+              ["Muita estatura", "A Click", "Sem fichas fiáveis, só o teste mostra se os joelhos ficam muito dobrados em qualquer das duas"],
+              ["Trajetos urbanos curtos, a solo", "Qualquer das duas", "O preço é igual e as duas servem; decide o conforto no arranque e na paragem"],
+              ["Pontes, rampas ou saídas mais longas", "A Click, se a loja confirmar a cilindrada", "Uma geração de mais cilindrada tem mais folga, mas não é garantido para a unidade da loja"],
+              ["Bagagem com capacete próprio", "A Click, com o seu capacete", "A Click de 125 (Filipinas) leva um meio-casco médio sob o assento; teste o seu capacete em ambas"],
+              ["Passageiro frequente", "Nenhuma das duas, à partida", "As duas são scooters de pequena cilindrada; o guia da Vision e da Air Blade compara a margem de uma maior"]
+            ]
+          }
+        },
+        "Se levar passageiro ou fizer percursos longos todos os dias, o guia [Honda Vision ou Air Blade](/tipos-de-motas/honda-vision-ou-air-blade/) explica quando compensa subir de modelo."
+      ]
+    },
+    {
+      "h2": "O teste lado a lado: cinco gestos, pela mesma ordem",
+      "body": [
+        "Comparar duas motas de memória é enganador. Faça o mesmo teste nas duas, seguidas, e aponte a nota de cada gesto. O objetivo é comparar uma com a outra, por isso o que interessa é a ordem das respostas e não os valores absolutos.",
+        {
+          "steps": [
+            {
+              "title": "Sentar-se com o calçado do dia",
+              "text": "Com a mota na vertical, veja se apoia os dois pés no chão. Se numa só chega a um pé, aponte-o."
+            },
+            {
+              "title": "Empurrar a mota parada",
+              "text": "Dê duas voltas ao guiador e empurre-a para trás e para a frente. O peso nota-se aqui, mesmo sem números de ficha."
+            },
+            {
+              "title": "Arrancar e parar três vezes",
+              "text": "Se a loja o permitir, num espaço livre. Repare em qual responde de forma mais previsível ao acelerador e ao travão."
+            },
+            {
+              "title": "Testar a arrumação",
+              "text": "Ponha o seu capacete ou a mochila no compartimento do assento e feche-o. Se não fecha numa delas, essa fica para trás se levar bagagem."
+            },
+            {
+              "title": "Comparar a posição de condução",
+              "text": "Veja onde ficam os joelhos, os pés e os braços. A mota em que se sentiu mais folgado é, por regra, a que vai cansar menos ao fim de uma hora."
+            }
+          ]
+        },
+        "Se nenhuma das duas lhe servir, diga-o antes de levar a mota e pergunte por outra scooter: o guia da [troca de mota](/guia-de-aluguer/trocar-de-mota/) explica como pedir uma troca depois. Se nunca conduziu uma mota, nenhum modelo resolve a falta de experiência: comece pelo guia [nunca conduziu uma mota](/tipos-de-motas/nunca-conduziu-uma-mota/)."
+      ]
+    },
+    {
+      "h2": "Se só uma das duas estiver livre",
+      "body": [
+        "Quando só há uma nas suas datas, a escolha faz-se sozinha, e o que pode fazer é pedir à loja os dados da unidade antes de a aceitar. Em vez de pensar que ficou com a segunda opção, trate a mota como qualquer outra: ano, cilindrada do registo, estado dos pneus e dos travões, e o teste dos cinco gestos.",
+        "Se tem uma preferência forte e a outra vai estar livre mais tarde, pode combinar o levantamento para outro dia ou pedir a troca depois. A loja está aberta {{hours}}, e as datas são o primeiro dado que ela lhe pede."
+      ]
+    },
+    {
+      "h2": "Como pedir à loja a Click ou a Mio",
+      "body": [
+        {
+          "steps": [
+            {
+              "title": "Diga as datas e as duas opções",
+              "text": "Indique o período e peça a Click e a Mio, com a ordem de preferência."
+            },
+            {
+              "title": "Pergunte pelas unidades",
+              "text": "Peça o ano, a cilindrada que consta do registo de cada uma e se pode experimentá-las."
+            },
+            {
+              "title": "Confirme o total e as condições",
+              "text": "Peça o preço para o período exato, a caução aplicável ao seu caso e os documentos que deve levar."
+            },
+            {
+              "title": "Combine o levantamento",
+              "text": "A loja fica em {{address}}. Se for de táxi, mostre ao motorista a morada em vietnamita: {{address.vi}}."
+            }
+          ]
+        },
+        "Pode tratar de tudo pelo telefone ou Zalo {{phone}}. Os restantes dados estão nos [contactos](/contactos/), e o guia das [scooters automáticas](/tipos-de-motas/scooters/) compara todas as que a loja tem."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "A Click é melhor do que a Mio?",
+      "a": "Não conseguimos dizer: ao dia, a Click custa {{cmp.click.mio.day}} a Mio, e não encontrámos fichas fiáveis das unidades vendidas no Vietname. A melhor é a que lhe assenta melhor e tem a cilindrada que a sua carta permite. Teste as duas, se a loja as tiver livres."
+    },
+    {
+      "q": "Qual das duas tem mais arrumação sob o assento?",
+      "a": "Uma fonte filipina dá 18 litros à Click 125, onde cabe um capacete meio-casco médio. Não encontrámos o valor da Mio nem de nenhuma das duas no Vietname. Teste o seu capacete em ambas na loja."
+    },
+    {
+      "q": "Qual é mais baixa, para quem tem pouca estatura?",
+      "a": "Nas fichas de outros mercados, a Mio aparece com 750 mm de assento. Para a Click não encontrámos um valor fiável. Como os números não valem para a unidade da loja, confirme sentando-se com o calçado do dia."
+    },
+    {
+      "q": "Que carta é preciso para a Click e para a Mio?",
+      "a": "Depende da cilindrada do registo: até 125 cm³ é a categoria A1, acima disso a A. A Mio das primeiras séries tem cerca de 115 cm³; a Click tem versões de 108, 125 e cerca de 157 cm³. Peça a cilindrada da unidade."
+    }
+  ],
+  "sources": [
+    "tabela-precos-proprietario",
+    "lei-36-2024-a1",
+    {
+      "title": "Honda Click",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Honda_Click",
+      "accessed": "2026-10-14",
+      "type": "reference",
+      "lang": "en"
+    },
+    {
+      "title": "Yamaha Mio",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Yamaha_Mio",
+      "accessed": "2026-10-14",
+      "type": "reference",
+      "lang": "en"
+    },
+    {
+      "title": "Honda Click 125: especificações e características do modelo de 2023 (mercado das Filipinas)",
+      "publisher": "Top Gear Philippines",
+      "url": "https://www.topgear.com.ph/moto-sapiens/motorcycle-news/honda-click-125-2023-specs-features-a4354-20221213",
+      "accessed": "2026-10-14",
+      "type": "news",
+      "lang": "en"
+    },
+    {
+      "title": "Mio Maximo & Mio Ultimo: Câu chuyện cổ tích của Yamaha",
+      "publisher": "Báo Pháp luật Việt Nam",
+      "url": "https://baophapluat.vn/mio-maximo-mio-ultimo-cau-chuyen-co-tich-cua-yamaha-post4973.html",
+      "accessed": "2026-10-14",
+      "type": "news",
+      "lang": "vi"
+    }
+  ],
+  "legal_note": true,
+  "writer": { "type": "claude", "name": "Claude (Claude Code)" },
+  "status": "READY_FOR_QA"
+}
