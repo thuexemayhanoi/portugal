@@ -5,28 +5,28 @@
   "title": "Bicicleta em Hanói: TNGo, preços e onde pedalar",
   "description": "Como funcionam as bicicletas partilhadas TNGo em Hanói, o que as fontes dizem sobre preços, metro e baterias, e onde pedalar com mais cuidado.",
   "h1": "Andar de bicicleta em Hanói: partilhadas, preços e percursos",
-  "summary": "Em Hanói, o sistema de bicicletas partilhadas que as fontes descrevem é o TNGo: pede-se pela aplicação e levanta-se numa estação. A referência de preço encontrada é de 5.000 VND por 30 minutos, de data incerta. Quanto a percursos e segurança, as fontes dizem pouco, por isso este guia separa o que está confirmado do que deve verificar no local.",
+  "summary": "Em Hanói, o sistema de bicicletas partilhadas que as fontes descrevem é o TNGo: pede-se pela aplicação e levanta-se numa estação. A referência de preço encontrada é de 5 mil VND por 30 minutos, de data incerta. Quanto a percursos e segurança, as fontes dizem pouco, por isso este guia separa o que está confirmado do que deve verificar no local.",
   "key_points": [
     "O TNGo funciona por aplicação: abre-se conta, carrega-se saldo e a aplicação indica a estação mais próxima.",
-    "A tarifa que a imprensa cita (5.000 VND por 30 minutos, mais 1.000 VND por cada 6 minutos seguintes) tem data incerta: confirme o valor na aplicação.",
+    "A tarifa que a imprensa cita (5 mil VND por 30 minutos, mais 1 mil VND por cada 6 minutos seguintes) tem data incerta: confirme o valor na aplicação.",
     "Os passes combinados com o metro, em vigor desde 1 de setembro de 2026, são passes mensais pensados para quem vive na cidade.",
     "Está confirmado que a ponte Long Biên admite bicicletas e que as bicicletas não podem entrar nas autoestradas; o resto dos percursos fica por confirmar.",
     "Bicicleta partilhada serve trajetos curtos e de dia; para distâncias maiores, à noite ou com chuva forte, há alternativas melhores."
   ],
   "intro": [
-    "Quem passa alguns dias em Hanói e não quer conduzir mota pensa, mais cedo ou mais tarde, na bicicleta. É uma ideia sensata para trajetos curtos, mas o trânsito da cidade exige cuidados próprios, e a informação em português sobre o assunto é escassa.",
-    "Este guia reúne o que a imprensa vietnamita e os guias de viagem dizem sobre as bicicletas partilhadas, o que ficou por confirmar e as regras que já se conhecem para quem pedala. Onde as fontes não chegam, dizemo-lo e sugerimos o que perguntar ou verificar, em vez de preencher o vazio com palpites. A informação foi consultada a 14 de outubro de 2026."
+    "Quem passa alguns dias em Hanói e não quer conduzir mota pensa, mais cedo ou mais tarde, na bicicleta. É uma ideia sensata para trajetos curtos, mas o trânsito da cidade exige cuidados próprios, e a informação em português sobre o assunto é escassa. Este guia insere-se nas [rotas e mobilidade](/rotas-e-mobilidade/) da cidade.",
+    "Este guia reúne o que a imprensa vietnamita e os guias de viagem dizem sobre as bicicletas partilhadas, o que ficou por confirmar e as regras que já se conhecem para quem pedala. Onde as fontes não chegam, dizemo-lo e sugerimos o que verificar. A informação foi consultada a 14 de outubro de 2026."
   ],
   "sections": [
     {
       "h2": "O sistema TNGo: aplicação, estações e passes",
       "body": [
         "O sistema de bicicletas partilhadas de que a imprensa e os guias falam é o TNGo, explorado pela empresa de transporte digital TNG através da aplicação com o mesmo nome. A lógica é a das bicicletas públicas de muitas cidades europeias: a pessoa abre conta na aplicação, carrega saldo, localiza a estação mais próxima no mapa, desbloqueia a bicicleta e devolve-a numa estação.",
-        "Segundo um artigo do Vietcetera, o pagamento faz-se pela própria aplicação, com uma aplicação bancária ou uma carteira eletrónica, e existem também passes mensais, trimestrais e anuais. O Báo Văn hóa, num artigo de dezembro de 2025, falava em 130 estações na cidade. Estes números mudam com o tempo e as fontes não dão a lista de estações, por isso o mapa da aplicação é a referência.",
+        "Segundo um artigo do Vietcetera, o pagamento faz-se pela própria aplicação, com uma aplicação bancária ou uma carteira eletrónica, e existem também passes mensais, trimestrais e anuais. O Báo Văn hóa, num artigo de dezembro de 2025, falava em 130 estações na cidade. As fontes não dão a lista de estações, por isso o mapa da aplicação é a referência.",
         {
           "h3": "O que as fontes não confirmam para um visitante"
         },
-        "Nenhuma das fontes consultadas diz se um turista estrangeiro pode abrir conta apenas com o passaporte e um cartão estrangeiro, nem se a aplicação existe em inglês. Tampouco encontrámos regras de idade mínima ou o que acontece se a bicicleta for devolvida fora de uma estação. Antes de contar com o sistema, descarregue a aplicação e experimente o registo ainda no alojamento, com rede wi-fi, em vez de o fazer à porta de uma estação.",
+        "Nenhuma das fontes consultadas diz se um turista estrangeiro pode abrir conta apenas com o passaporte e um cartão estrangeiro, nem se a aplicação existe em inglês. Antes de contar com o sistema, descarregue a aplicação e experimente o registo ainda no alojamento, com rede wi-fi, em vez de o fazer à porta de uma estação.",
         {
           "note": "Sistemas de partilha mudam de operador, de preços e de estações com frequência. Trate tudo o que aqui está escrito como ponto de partida e confirme na aplicação antes de planear um dia inteiro à volta dela.",
           "tone": "info",
@@ -37,34 +37,46 @@
     {
       "h2": "Quanto custa: a tarifa que as fontes citam",
       "body": [
-        "Não encontrámos uma tabela oficial de preços de 2026. A referência mais citada vem do Vietcetera, que não mostra a data de publicação: um bilhete por viagem de 5.000 VND por 30 minutos, mais 1.000 VND por cada 6 minutos a partir do 31.º minuto. Outra fonte, de que não conseguimos confirmar a página exata, indica 10.000 VND por 30 minutos para a bicicleta elétrica.",
+        "Não encontrámos uma tabela oficial de preços de 2026. A referência mais citada vem do Vietcetera, que não mostra a data de publicação: um bilhete por viagem de 5 mil VND por 30 minutos, mais 1 mil VND por cada 6 minutos a partir do 31.º minuto. Outra fonte, de que não conseguimos confirmar a página exata, indica 10 mil VND por 30 minutos para a bicicleta elétrica.",
         {
           "table": {
             "caption": "Tarifa do TNGo segundo as fontes (valores de referência, data incerta)",
-            "head": ["Bicicleta", "Primeiros 30 minutos", "Depois dos 30 minutos"],
+            "head": [
+              "Bicicleta",
+              "Primeiros 30 minutos",
+              "Depois dos 30 minutos"
+            ],
             "rows": [
-              ["Bicicleta normal", "5.000 VND", "1.000 VND por cada 6 minutos"],
-              ["Bicicleta elétrica", "10.000 VND (atribuição incerta)", "Não encontrado"]
+              [
+                "Bicicleta normal",
+                "5 mil VND",
+                "1 mil VND por cada 6 minutos"
+              ],
+              [
+                "Bicicleta elétrica",
+                "10 mil VND (atribuição incerta)",
+                "Não encontrado"
+              ]
             ]
           }
         },
-        "Na prática, e se a tarifa citada se mantiver, uma hora numa bicicleta normal corresponderia a 5.000 VND pelos primeiros 30 minutos mais cinco períodos de 6 minutos a 1.000 VND, ou seja, 10.000 VND no total. É uma conta feita com o valor da fonte, não um preço garantido: confirme-a na aplicação antes de desbloquear a bicicleta.",
-        "A ordem de grandeza ajuda a perceber o papel do sistema: foi pensado para trajetos curtos, de uma estação à seguinte, e não para um dia inteiro em cima da bicicleta. Se o seu plano passa por muitas horas de pedalada, pergunte primeiro se compensa um passe ou outro tipo de aluguer."
+        "Na prática, e se a tarifa citada se mantiver, uma hora numa bicicleta normal corresponderia a 5 mil VND pelos primeiros 30 minutos mais cinco períodos de 6 minutos a 1 mil VND, ou seja, 10 mil VND no total. É uma conta feita com o valor da fonte, não um preço garantido: confirme-a na aplicação antes de desbloquear a bicicleta.",
+        "O sistema foi pensado para trajetos curtos, de uma estação à seguinte, e não para um dia inteiro em cima da bicicleta. Se o seu plano passa por muitas horas de pedalada, pergunte primeiro se compensa um passe."
       ]
     },
     {
       "h2": "Bicicletas elétricas partilhadas e a questão das baterias",
       "body": [
-        "O Báo Văn hóa noticiou que a TNGo planeava pôr em circulação 500 bicicletas elétricas de duas rodas a partir do início de dezembro de 2025 e mais de 5.000 no primeiro trimestre de 2026, na zona da Circular 1 e numa parte da Circular 2, dentro de um plano aprovado pelo Departamento de Construção de Hanói. Não encontrámos confirmação de quantas estão efetivamente nas ruas em outubro de 2026.",
-        "A mesma imprensa levantou uma dúvida de segurança: segundo o Báo Văn hóa, nenhuma das 130 estações tinha extintores próprios para baterias de lítio. É uma informação de uma notícia, e não uma auditoria; serve sobretudo para lembrar que uma bateria que carrega dentro de casa ou de um alojamento merece atenção redobrada.",
+        "O Báo Văn hóa noticiou que a TNGo planeava pôr 500 bicicletas elétricas de duas rodas a circular a partir do início de dezembro de 2025. Previa mais de 5 mil no primeiro trimestre de 2026, na zona da Circular 1 e numa parte da Circular 2, dentro de um plano aprovado pelo Departamento de Construção de Hanói. Não encontrámos confirmação de quantas estão efetivamente nas ruas em outubro de 2026.",
+        "A mesma imprensa levantou uma dúvida de segurança: segundo o Báo Văn hóa, nenhuma das 130 estações tinha extintores próprios para baterias de lítio. É informação de uma notícia, não de uma auditoria.",
         "Quanto às regras, uma bicicleta elétrica não é tratada como uma bicicleta comum. O capacete é obrigatório, para quem conduz e para o passageiro, e a coima por não o usar é de 400 mil a 600 mil VND, como explica o guia das [regras da bicicleta elétrica no Vietname](/tipos-de-motas/regras-bicicleta-eletrica-vietname/). Esse mesmo guia diz o que não ficou confirmado: idade mínima, carta e vias permitidas."
       ]
     },
     {
       "h2": "Metro e bicicleta: o que muda desde 1 de setembro de 2026",
       "body": [
-        "A imprensa vietnamita anunciou que, desde 1 de setembro de 2026, o metro passa a combinar-se com a bicicleta TNGo e com os autocarros através de passes e de um bilhete eletrónico integrado. Segundo o An ninh Thủ đô e o Tiền Phong, o passe mensal combinado na aplicação do metro custa 340.000 VND por mês para os utentes prioritários e 430.000 VND por mês para o público em geral. Uma das fontes diz que isto fica 15% abaixo do passe apenas de metro.",
-        "As estações com estacionamento TNGo citadas são Cát Linh, La Thành, Láng, Thượng Đình, Văn Khê e Cầu Giấy. Há ainda um passe integrado de metro e autocarro, a 250.000 VND por mês (prioritários) e 500.000 VND por mês (geral), mas as duas fontes discordam quanto ao desconto, por isso não tire conclusões daí.",
+        "A imprensa vietnamita anunciou que, desde 1 de setembro de 2026, o metro passa a combinar-se com a bicicleta TNGo e com os autocarros através de passes e de um bilhete eletrónico integrado. Segundo o An ninh Thủ đô e o Tiền Phong, o passe mensal combinado na aplicação do metro custa 340 mil VND por mês para os utentes prioritários e 430 mil VND por mês para o público em geral. Uma das fontes diz que isto fica 15% abaixo do passe apenas de metro.",
+        "As estações com estacionamento TNGo citadas são Cát Linh, La Thành, Láng, Thượng Đình, Văn Khê e Cầu Giấy.",
         "Repare no tipo de produto: são passes mensais, pensados para residentes que repetem o mesmo trajeto todos os dias. Não está provado que um turista os consiga comprar, e para uma estadia de poucos dias a viagem simples costuma fazer mais sentido. Os bilhetes simples, as linhas e os horários do metro estão no guia do [metro de Hanói](/rotas-e-mobilidade/metro-de-hanoi/), onde se explica também como juntar metro e mota."
       ]
     },
@@ -76,7 +88,7 @@
           "ul": [
             "**Ponte Long Biên:** à data de 13 de outubro de 2026, a ponte está aberta a motas, bicicletas e peões nos dois sentidos desde 28 de maio, depois de dois meses de obras, segundo o Báo Nhân Dân. As bicicletas partilham com as motas as faixas laterais; veja o guia da [ponte Long Biên](/zonas-de-hanoi/ponte-long-bien/).",
             "**Autoestradas:** estão proibidas às bicicletas e a outros veículos não motorizados, com coima que um portal jurídico situa até 600 mil VND. As motas também não podem entrar, e a imprensa já noticiou condutores multados em Hanói por isso.",
-            "**Zona pedonal do lago Hoàn Kiếm:** de sexta a domingo, das 19:00 às 24:00, a zona 1 de baixas emissões fecha às motas, aos ciclomotores e aos automóveis. As fontes não dizem nada sobre as bicicletas nessas horas, por isso obedeça às barreiras e aos agentes. O horário está em [zona pedonal do lago Hoàn Kiếm](/zonas-de-hanoi/zona-pedonal-do-lago-hoan-kiem/).",
+            "**Zona pedonal do lago Hoàn Kiếm:** na primeira fase do piloto de baixas emissões, de 1 de julho a 31 de dezembro de 2026, a zona 1 fecha, de sexta a domingo, das 19:00 às 24:00, às motas, aos ciclomotores e aos automóveis. As fontes não dizem nada sobre as bicicletas nessas horas, por isso obedeça às barreiras e aos agentes. O horário está em [zona pedonal do lago Hoàn Kiếm](/zonas-de-hanoi/zona-pedonal-do-lago-hoan-kiem/).",
             "**Estrada do dique do rio Vermelho:** as notícias descrevem piso degradado e camiões pesados todos os dias. Mesmo de mota é um caminho exigente, como mostra o guia do [dique do rio Vermelho](/zonas-de-hanoi/estrada-do-dique-do-rio-vermelho/); de bicicleta, não é um bom ponto de partida para quem não conhece a cidade."
           ]
         },
@@ -93,11 +105,10 @@
             "Não beba antes de pedalar. Segundo um vídeo do Tuổi Trẻ, quem anda de bicicleta, incluindo elétrica, com álcool no sangue ou no ar expirado também pode ser sancionado; o montante não ficou confirmado. O guia do [álcool zero ao volante](/guia-de-aluguer/alcool-zero-ao-volante/) explica a regra para as motas.",
             "Evite as horas de ponta e a noite. O trânsito é denso e as motas passam muito perto; para o regresso à noite, veja como [voltar à noite sem conduzir](/rotas-e-mobilidade/voltar-a-noite-sem-conduzir/).",
             "Não pedale com chuva forte. Na época das chuvas as ruas alagam e o piso fica escorregadio; o guia da [época das chuvas em Hanói](/rotas-e-mobilidade/epoca-das-chuvas-em-hanoi/) ajuda a planear.",
-            "Mantenha uma velocidade previsível e uma linha constante: os condutores locais contornam o que é previsível e reagem mal ao que é errático.",
-            "Verifique os travões e a campainha antes de partir, e a pressão dos pneus se a bicicleta for sua."
+            "Mantenha uma velocidade previsível e uma linha constante: os condutores locais contornam o que é previsível e reagem mal ao que é errático."
           ]
         },
-        "Se, depois de uma tentativa, concluir que o trânsito não é para si, não insista. Trocar a bicicleta por um táxi ou por uma viagem de mota com condutor é uma decisão tão válida como qualquer outra, e há guias para isso, como o dos [táxis em Hanói](/rotas-e-mobilidade/taxis-em-hanoi/)."
+        "Se concluir que o trânsito não é para si, não insista: trocar a bicicleta por um táxi é uma decisão tão válida como qualquer outra. Veja o guia dos [táxis em Hanói](/rotas-e-mobilidade/taxis-em-hanoi/)."
       ]
     },
     {
@@ -110,7 +121,7 @@
           "category": "bicicletas-eletricas"
         },
         "Se está a pensar numa bicicleta elétrica, peça à loja o preço para as suas datas, a autonomia real, como se carrega a bateria e o que fazer em caso de avaria ou de chuva. Pode fazê-lo pelos [contactos](/contactos/), por telefone em {{phone}}, e a loja está aberta {{hours}}. A documentação e as condições de qualquer aluguer estão em [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/).",
-        "Em resumo: a bicicleta partilhada é uma boa ideia para uma volta curta, de manhã cedo, perto de uma estação; a mota alugada é a resposta para quem quer percorrer distâncias maiores e já se sente à vontade no trânsito. Ver a cidade a pé, a partir de um parque onde deixou a mota, resolve muito do resto, e é o plano que o guia do [Bairro Antigo a pé ou de mota](/zonas-de-hanoi/bairro-antigo-a-pe-ou-de-mota/) propõe."
+        "Em resumo: a bicicleta partilhada serve uma volta curta, perto de uma estação; a mota alugada serve quem quer percorrer distâncias maiores e já se sente à vontade no trânsito. Ver a cidade a pé, a partir de um parque onde deixou a mota, resolve muito do resto, e é o plano que o guia do [Bairro Antigo a pé ou de mota](/zonas-de-hanoi/bairro-antigo-a-pe-ou-de-mota/) propõe."
       ]
     }
   ],
@@ -204,6 +215,14 @@
       "accessed": "2026-10-13",
       "type": "official",
       "lang": "en"
+    },
+    {
+      "title": "Anexo do plano da zona de baixas emissões de Hanói (PDF em vietnamita)",
+      "publisher": "Departamento de Agricultura e Ambiente de Hanói (sonnmt.hanoi.gov.vn)",
+      "url": "https://sonnmt.hanoi.gov.vn/images/Ph%20lc%203237.pdf",
+      "accessed": "2026-10-14",
+      "type": "official",
+      "lang": "vi"
     },
     "lawnet-capacete-168",
     "lawnet-proibicoes-2024"
