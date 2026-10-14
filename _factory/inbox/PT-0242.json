@@ -3,7 +3,7 @@
   "id": "PT-0242",
   "slug": "ficar-alojado-em-long-bien",
   "title": "Ficar alojado em Long Biên: prós e contras para quem aluga mota",
-  "description": "Prós e contras de ficar alojado em Long Biên em vez do Bairro Antigo quando se aluga mota: levantamento, pontes, noites no centro e o que perguntar ao alojamento.",
+  "description": "Prós e contras de ficar alojado em Long Biên em vez do Bairro Antigo quando se aluga mota: levantamento, pontes, noites no centro e perguntas ao alojamento.",
   "h1": "Alojamento em Long Biên ou no Bairro Antigo: o que muda para quem vai conduzir",
   "summary": "Ficar alojado em Long Biên compensa se vai usar a mota todos os dias: a loja fica do mesmo lado do rio e a primeira saída faz-se longe das ruas estreitas do Bairro Antigo. Perde proximidade ao centro e às noites; não encontrámos dados sobre o estacionamento dos hotéis daqui, por isso pergunte antes de reservar.",
   "key_points": [
@@ -14,8 +14,8 @@
     "Não encontrámos regras de estacionamento de hotéis em Long Biên: pergunte se a mota fica fechada, quem a vigia e até que horas o portão está aberto."
   ],
   "intro": [
-    "Quem planeia alugar uma mota em Hanói costuma escolher o alojamento primeiro e só depois pensa na mota. Com uma loja em Long Biên, na margem leste do rio Vermelho, a ordem pode compensar-se ao contrário: a zona onde dorme muda quantas vezes atravessa o rio, onde deixa a mota à noite e como começa a primeira saída.",
-    "Este guia compara Long Biên com o Bairro Antigo para quem é visitante e vai conduzir. Não é um guia para quem vive cá: para isso, veja o artigo sobre [viver em Long Biên com mota](/zonas-de-hanoi/aluguer-de-motas-em-long-bien/). Se já escolheu o centro, o caminho inverso está em [alugar mota se fica no Bairro Antigo](/zonas-de-hanoi/fica-no-bairro-antigo-e-quer-alugar/). A informação foi verificada a 13 de outubro de 2026."
+    "Quem planeia alugar uma mota em Hanói costuma escolher o alojamento primeiro e só depois pensa na mota. Com a loja em Long Biên, na margem leste do rio Vermelho, a zona onde dorme muda quantas vezes atravessa o rio, onde deixa a mota à noite e como começa a primeira saída.",
+    "Este guia compara Long Biên com o Bairro Antigo para quem é visitante e vai conduzir; não é para quem se instala na zona por meses. Se já escolheu o centro, o caminho inverso está em [alugar mota se fica no Bairro Antigo](/zonas-de-hanoi/fica-no-bairro-antigo-e-quer-alugar/). A informação foi verificada a 13 de outubro de 2026."
   ],
   "sections": [
     {
@@ -25,13 +25,37 @@
         {
           "table": {
             "caption": "Alojamento em Long Biên ou no Bairro Antigo: o que muda para quem aluga mota",
-            "head": ["Situação", "Dormir em Long Biên", "Dormir no Bairro Antigo"],
+            "head": [
+              "Situação",
+              "Dormir em Long Biên",
+              "Dormir no Bairro Antigo"
+            ],
             "rows": [
-              ["Vai usar a mota todos os dias", "A loja fica do mesmo lado do rio: levanta e devolve sem atravessar uma ponte", "Cada levantamento e devolução obriga a atravessar o rio"],
-              ["Só precisa da mota um ou dois dias", "Pode não compensar mudar de lado", "Fique onde preferir e vá à loja só nesses dias"],
-              ["É a primeira vez a conduzir em Hanói", "Os primeiros quilómetros fazem-se longe das ruas mais estreitas", "A primeira viagem com a mota termina nas ruas mais apertadas da cidade"],
-              ["Quer jantar e passear à noite no centro", "Cada noite obriga a atravessar o rio e a estacionar", "Faz quase tudo a pé"],
-              ["Quer sair um dia para leste ou sul", "Já está na margem certa", "Tem de atravessar o rio primeiro"]
+              [
+                "Vai usar a mota todos os dias",
+                "A loja fica do mesmo lado do rio: levanta e devolve sem atravessar uma ponte",
+                "Cada levantamento e devolução obriga a atravessar o rio"
+              ],
+              [
+                "Só precisa da mota um ou dois dias",
+                "Pode não compensar mudar de lado",
+                "Fique onde preferir e vá à loja só nesses dias"
+              ],
+              [
+                "É a primeira vez a conduzir em Hanói",
+                "Os primeiros quilómetros fazem-se longe das ruas mais estreitas",
+                "A primeira viagem com a mota termina nas ruas mais apertadas da cidade"
+              ],
+              [
+                "Quer jantar e passear à noite no centro",
+                "Cada noite obriga a atravessar o rio e a estacionar",
+                "Faz quase tudo a pé"
+              ],
+              [
+                "Quer sair um dia para leste ou sul",
+                "Já está na margem certa",
+                "Tem de atravessar o rio primeiro"
+              ]
             ]
           }
         },
@@ -63,7 +87,7 @@
         {
           "h3": "O centro fica do outro lado do rio"
         },
-        "Para ir ao Bairro Antigo, ao Hoàn Kiếm ou ao Lago Oeste tem de atravessar uma ponte, e as pontes mudam. A ponte Long Biên, aberta a motas, bicicletas e peões, esteve fechada de 28 de março a 27 de maio de 2026 e reabriu a 28 de maio; nas notícias que consultámos a 13 de outubro de 2026 não havia novo fecho anunciado, mas já fechou mais do que uma vez. A alternativa mais próxima é a ponte Chương Dương, onde um aviso de 10 de setembro de 2024 restringia autocarros interurbanos, veículos de turismo com mais de 9 lugares e camiões, sem visar as motas; não confirmámos se está em vigor. O guia da [ponte Long Biên de mota](/zonas-de-hanoi/ponte-long-bien/) tem o estado e os desvios.",
+        "Para ir ao Bairro Antigo, ao Hoàn Kiếm ou ao Lago Oeste tem de atravessar uma ponte, e as pontes mudam. A ponte Long Biên, aberta a motas, bicicletas e peões, esteve fechada de 28 de março a 27 de maio de 2026 e reabriu a 28 de maio. Nas notícias de 13 de outubro de 2026 não havia novo fecho anunciado, mas já fechou mais do que uma vez. A alternativa mais próxima é a ponte Chương Dương: um aviso de 10 de setembro de 2024 restringia autocarros interurbanos, veículos de turismo com mais de 9 lugares e camiões, sem visar as motas, mas não confirmámos se está em vigor. O guia da [ponte Long Biên de mota](/zonas-de-hanoi/ponte-long-bien/) tem o estado e os desvios.",
         {
           "h3": "As noites no centro"
         },
@@ -75,7 +99,7 @@
         {
           "h3": "Sem metro"
         },
-        "Nenhuma das duas linhas de metro em funcionamento em outubro de 2026 chega a Long Biên. Quem dorme aqui e quer deixar a mota e usar o metro tem de a deixar noutra zona; o guia do [metro de Hanói](/rotas-e-mobilidade/metro-de-hanoi/) explica como."
+        "Nenhuma das duas linhas de metro em funcionamento em outubro de 2026 chega a Long Biên. Para combinar metro e mota, tem de deixar a mota junto à estação de partida, do outro lado do rio; o guia do [metro de Hanói](/rotas-e-mobilidade/metro-de-hanoi/) explica como."
       ]
     },
     {
@@ -85,12 +109,32 @@
         {
           "table": {
             "caption": "Exemplo de quatro dias a partir de um alojamento em Long Biên",
-            "head": ["Dia", "O que fazer", "O que confirmar antes"],
+            "head": [
+              "Dia",
+              "O que fazer",
+              "O que confirmar antes"
+            ],
             "rows": [
-              ["1", "Levantar a mota de manhã e fazer uma volta curta deste lado do rio", "Documentos a levar e hora de levantamento"],
-              ["2", "Atravessar para o centro de manhã, estacionar uma vez e caminhar; voltar antes de escurecer", "Estado da ponte Long Biên"],
-              ["3", "Dia para leste: Bát Tràng, de dia, pelo dique", "Piso do dique e estacionamento no destino"],
-              ["4", "Lago Oeste ou outra saída a oeste e devolução", "Hora de devolução e abastecimento"]
+              [
+                "1",
+                "Levantar a mota de manhã e fazer uma volta curta deste lado do rio",
+                "Documentos a levar e hora de levantamento"
+              ],
+              [
+                "2",
+                "Atravessar para o centro de manhã, estacionar uma vez e caminhar; voltar antes de escurecer",
+                "Estado da ponte Long Biên"
+              ],
+              [
+                "3",
+                "Dia para leste: Bát Tràng, de dia, pelo dique",
+                "Piso do dique e estacionamento no destino"
+              ],
+              [
+                "4",
+                "Lago Oeste ou outra saída a oeste e devolução",
+                "Hora de devolução e abastecimento"
+              ]
             ]
           }
         },
