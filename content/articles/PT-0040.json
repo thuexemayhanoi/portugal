@@ -1,0 +1,262 @@
+{
+  "contract_version": 1,
+  "id": "PT-0040",
+  "slug": "bagagem-numa-semiautomatica",
+  "title": "Bagagem numa Honda Wave: bagageiro, mochila e elásticos",
+  "description": "O que o manual da Honda Wave diz sobre a carga máxima, como prender a mochila ao bagageiro e o que confirmar com a loja antes de levar bagagem na mota.",
+  "h1": "Levar bagagem numa Honda Wave: o que o manual diz e como prender a carga",
+  "summary": "O manual da Honda Wave 110 indica uma carga máxima de 5 kg e pede bagagem bem presa, equilibrada e o mais perto possível do centro da mota; o da Wave RSX FI traz o mesmo valor. Não está claro se os 5 kg valem só para o bagageiro, por isso confirme com a loja e leve só o essencial.",
+  "key_points": [
+    "Os manuais da Wave 110 e da Wave RSX FI, da Honda Vietname, indicam «trọng tải tối đa» de 5 kg no contexto da bagagem; o da Wave 110 manda prender tudo bem, equilibrado e perto do centro da mota.",
+    "Os manuais não deixam claro se os 5 kg se aplicam só ao bagageiro, a um compartimento ou à bagagem em geral: pergunte à loja antes de contar com esse valor.",
+    "Um artigo da VnExpress reproduz o conselho da polícia contra o roubo por esticão: não pendurar sacos na mota nem levá-los ao ombro, e guardá-los, de preferência, no compartimento.",
+    "Listas de segurança dos EUA mandam ajustar a pressão dos pneus à recomendação do fabricante para a carga total: pergunte à loja se a pressão da sua Wave muda com bagagem.",
+    "Uma mala de viagem não cabe nestes 5 kg: combine o transporte à parte e leve na mota só o que usa durante o dia."
+  ],
+  "intro": [
+    "A Honda Wave é a semiautomática mais comum para alugar em Hanói, mas não é uma mota pensada para carregar bagagem. Quem chega a pensar numa mochila, num saco de compras ou num pequeno tripé para o fim de semana descobre depressa que o espaço é curto, e que o limite que o fabricante indica é baixo.",
+    "Este guia parte do que o manual da Wave diz sobre a carga, que é pouco mas concreto, e acrescenta conselhos práticos claramente identificados como tal: como pesar a bagagem, onde a pôr, como a prender e o que perguntar à loja. Quem procura a arrumação de uma scooter automática, com compartimento sob o assento, encontra-a em [bagagem numa scooter](/tipos-de-motas/bagagem-numa-scooter/). Para conhecer a mota, veja [Honda Wave em Hanói](/tipos-de-motas/honda-wave-em-hanoi/) e, para comparar com os outros tipos, a página dos [tipos de motas](/tipos-de-motas/)."
+  ],
+  "sections": [
+    {
+      "h2": "O que o manual da Wave diz sobre bagagem",
+      "body": [
+        "O manual de utilizador da Wave 110, publicado pela Honda Vietname em setembro de 2025, traz uma indicação de «trọng tải tối đa», carga máxima, de 5 kg (11 lb) no capítulo da bagagem. O manual da Wave RSX FI, da mesma casa, indica o mesmo valor. As regras que o da Wave 110 associa ao tema são três e dizem o essencial:",
+        {
+          "ol": [
+            "prender toda a bagagem bem;",
+            "distribuí-la de forma equilibrada;",
+            "pô-la o mais perto possível do centro da mota."
+          ]
+        },
+        "O manual avisa também que nunca se deve exceder a carga máxima. Quanto às frases seguintes, sobre objetos de valor ou frágeis, o excerto que consultámos estava cortado e não as citamos.",
+        {
+          "note": "Os manuais não dizem, nos excertos consultados, se os 5 kg se aplicam só ao bagageiro, a um compartimento ou à bagagem em geral, nem dão as dimensões do bagageiro. Pergunte à loja qual é o limite para a unidade que vai receber, em vez de o presumir.",
+          "tone": "warn",
+          "title": "O que o manual não esclarece"
+        },
+        "Os manuais referem ainda um compartimento sob o assento onde ficam os documentos e o kit de ferramentas. É um sinal de que existe algum espaço de arrumação, mas não encontrámos o tamanho. A unidade que receber pode ser de outro ano ou de outra versão, e só a loja confirma qual é."
+      ]
+    },
+    {
+      "h2": "Quanto são 5 kg na prática",
+      "body": [
+        "Cinco quilos chegam para uma mochila de dia com uma garrafa de água, uma capa de chuva e um carregador. Não chegam para uma mala de cabine. Um litro de água pesa cerca de um quilo, de modo que duas garrafas grandes já ocupam boa parte do limite.",
+        "Se a sua mochila estiver perto do limite, o mais simples é pesá-la antes de sair do alojamento: uma balança de casa de banho serve, e basta subir com ela e sem ela. Se a mochila for pesada, aligeire-a: deixe no quarto o portátil, o tripé ou o segundo par de sapatos. Quem precisa de levar o equipamento de trabalho encontra sugestões em [bagagem numa scooter](/tipos-de-motas/bagagem-numa-scooter/) e em [scooter para trabalhar em Hanói](/tipos-de-motas/scooter-para-o-dia-a-dia/).",
+        "Para comparação, as scooters automáticas da Honda cujos manuais consultámos dividem a carga por várias arrumações: o gancho aguenta 1,5 kg e o compartimento sob o assento 10 kg nos modelos Vario e SH. Os manuais da Wave não distinguem estes sítios nos excertos consultados: daí a importância de confirmar na loja a que parte da mota se aplicam os 5 kg."
+      ]
+    },
+    {
+      "h2": "Onde pôr a bagagem: bagageiro, costas ou compartimento",
+      "body": [
+        "Há quatro sítios possíveis e uma regra comum a todos: o peso deve ficar perto do centro da mota e o mais baixo possível.",
+        {
+          "table": {
+            "caption": "Onde levar a bagagem numa Wave",
+            "head": [
+              "Local",
+              "Quando faz sentido",
+              "Cuidados"
+            ],
+            "rows": [
+              [
+                "Bagageiro traseiro",
+                "Carga leve e compacta, bem presa",
+                "Confirmar com a loja se a unidade tem bagageiro e qual é o limite; não tapar luz traseira nem matrícula"
+              ],
+              [
+                "Compartimento sob o assento",
+                "Documentos, capa de chuva e pequenos objetos",
+                "O tamanho não consta das fontes: experimente na loja"
+              ],
+              [
+                "Às costas, numa mochila de duas alças",
+                "Mochila leve, se o espaço da mota não chegar",
+                "Peso nas costas cansa e desequilibra; mantenha-a pequena"
+              ],
+              [
+                "Guiador ou entre os pés",
+                "Nunca",
+                "Pesa no guiador, prejudica a condução e aumenta o risco de queda"
+              ]
+            ]
+          }
+        },
+        "O conselho da polícia que a VnExpress reproduz, num artigo sem data visível, vai no mesmo sentido: não pendurar sacos na mota nem levá-los ao ombro, e guardá-los, de preferência, no compartimento. O contexto é o do roubo por esticão, mas o princípio, não deixar nada pendurado, serve também à estabilidade. O guia do [roubo por esticão em Hanói](/guia-de-aluguer/roubo-por-esticao/) desenvolve o tema.",
+        "Uma mochila com duas alças, bem apertada, fica mais presa ao corpo do que um saco ao ombro. Esta distinção é nossa, não da fonte: a polícia fala de sacos ao ombro e pendurados."
+      ]
+    },
+    {
+      "h2": "Prender a carga com elásticos: passo a passo",
+      "body": [
+        "Os elásticos de bagagem, que se vendem em Hanói e que a loja pode ter ou não, são o meio mais comum de fixar uma mochila ou um saco ao bagageiro. O manual não os trata, por isso o que segue é prática de bom senso, e não instrução do fabricante.",
+        {
+          "steps": [
+            {
+              "title": "Arrume o peso no centro",
+              "text": "Ponha os objetos mais pesados no meio e em baixo, e os leves à volta. A carga fica compacta e perto da mota, em vez de comprida e solta."
+            },
+            {
+              "title": "Prenda em pontos firmes",
+              "text": "Use as partes estruturais do bagageiro ou do quadro. Evite prender em peças de plástico, no guarda-lamas ou na luz traseira, que podem partir."
+            },
+            {
+              "title": "Cruze dois elásticos",
+              "text": "Um só elástico deixa a carga oscilar. Dois, em cruz, mantêm-na firme. Verifique que os ganchos estão bem encaixados: um gancho solto pode saltar."
+            },
+            {
+              "title": "Afaste a carga dos pontos de perigo",
+              "text": "Nada de elásticos ou pontas soltas perto da roda, da corrente ou do escape, que aquece. O guia das [queimaduras no escape](/guia-de-aluguer/queimaduras-no-escape/) explica o risco."
+            },
+            {
+              "title": "Verifique a visibilidade",
+              "text": "A carga não pode tapar a luz traseira, os piscas nem a matrícula. O guia dos [acessórios para a mota alugada](/precos/capa-de-chuva-e-acessorios/) tem a lista de verificação."
+            },
+            {
+              "title": "Teste e reaperte",
+              "text": "Abane a carga com a mão: se mexer, aperte. Depois dos primeiros cinco minutos de condução, pare e volte a verificar, porque as vibrações afrouxam os nós."
+            }
+          ]
+        },
+        "Se a loja não tiver elásticos, pergunte onde os comprar perto, e peça que lhe mostrem onde prender. Não improvise com cordas finas ou fios: se a carga se soltar na estrada, pode atingir quem vem atrás."
+      ]
+    },
+    {
+      "h2": "Equilíbrio e pressão dos pneus com carga",
+      "body": [
+        "O manual da Wave 110 pede bagagem equilibrada e perto do centro, o que quer dizer que os dois lados pesam o mesmo e que nada fica longe do eixo. Na estrada, uma carga mal posta sente-se em três momentos:",
+        {
+          "ul": [
+            "ao travar, porque a mota pesa mais atrás e as distâncias de paragem aumentam;",
+            "em curvas lentas e em manobras, quando a carga puxa para um dos lados;",
+            "ao parar, quando o peso atrás torna mais pesado endireitar a mota."
+          ]
+        },
+        "Estas três consequências são observações deste guia e não de uma fonte. Para travar, o guia sobre [como verificar os travões](/guia-de-aluguer/verificar-os-travoes/) é um bom começo.",
+        "Quanto aos pneus, dois documentos de segurança de entidades militares norte-americanas, sobre a inspeção de motas antes de sair, mandam ajustar a pressão à recomendada pelo fabricante, tendo em conta a carga total. É boa prática estrangeira, não regra vietnamita. Pergunte à loja a pressão para a sua Wave com bagagem e consulte [pneus e pressão](/guia-de-aluguer/pneus-e-pressao/) para os sinais de alerta."
+      ]
+    },
+    {
+      "h2": "Quando a Wave não chega: outras soluções",
+      "body": [
+        "Se a bagagem que tem a levar passa dos 5 kg, a conclusão é que a mota não é a ferramenta certa para essa carga. Há três saídas:",
+        {
+          "ul": [
+            "levar menos: um dia de passeio pede pouco mais do que água, capa de chuva e carregador;",
+            "separar a bagagem: deixar a mala no alojamento ou combinar o transporte à parte, como se explica em [bagagem numa scooter](/tipos-de-motas/bagagem-numa-scooter/);",
+            "mudar de modelo: uma scooter com compartimento sob o assento tem arrumação própria. A comparação entre as duas está em [Honda Wave ou Honda Click](/tipos-de-motas/honda-wave-ou-honda-click/)."
+          ]
+        },
+        "Para viagens de vários dias, o guia da [semiautomática em viagem fora de Hanói](/tipos-de-motas/semiautomatica-para-viagens/) pesa vantagens e limites. A página das [motas semiautomáticas](/tipos-de-motas/semiautomaticas/) reúne os restantes modelos."
+      ]
+    },
+    {
+      "h2": "O que perguntar à loja antes de sair",
+      "body": [
+        "Estas perguntas cabem numa só mensagem e evitam improvisar à porta da loja:",
+        {
+          "checklist": [
+            "A unidade tem bagageiro e qual é o limite de carga indicado no manual?",
+            "Que espaço tem o compartimento sob o assento e cabem lá os meus documentos e a capa de chuva?",
+            "Têm elásticos de bagagem e podem mostrar onde os prender?",
+            "Qual é a pressão dos pneus com bagagem?",
+            "Posso deixar parte da bagagem na loja durante o aluguer?"
+          ]
+        },
+        "Pode enviar as perguntas por telefone ou Zalo para {{phone}}; a loja está aberta {{hours}}. A morada e o mapa estão em [contactos](/contactos/). Para saber o que a tabela de referência cobre, veja o [preço do aluguer de mota por um dia](/precos/aluguer-de-mota-por-um-dia/) e a [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/)."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Quanto peso posso levar numa Honda Wave?",
+      "a": "O manual da Wave 110 indica uma carga máxima de 5 kg no capítulo da bagagem, e o da Wave RSX FI traz o mesmo valor. Não está claro se se aplica só ao bagageiro, por isso confirme com a loja o limite da sua unidade."
+    },
+    {
+      "q": "Posso pendurar a mochila no guiador da Wave?",
+      "a": "Não é boa ideia. O manual manda pôr a bagagem perto do centro da mota, e a polícia aconselha a não pendurar sacos na mota. Se a mochila não couber noutro sítio, leve-a às costas, bem apertada, ou deixe-a no alojamento."
+    },
+    {
+      "q": "A pressão dos pneus muda quando levo bagagem?",
+      "a": "As listas de segurança de entidades norte-americanas mandam ajustar a pressão à recomendação do fabricante, tendo em conta a carga total. Pergunte à loja o valor para a sua Wave com bagagem."
+    },
+    {
+      "q": "Cabe uma mochila debaixo do assento da Wave?",
+      "a": "Os manuais referem um compartimento sob o assento para documentos e ferramentas, mas não dão o tamanho. Experimente a sua mochila na unidade antes de sair da loja."
+    }
+  ],
+  "sources": [
+    {
+      "title": "WAVE 110 HƯỚNG DẪN SỬ DỤNG",
+      "publisher": "Honda Việt Nam",
+      "url": "https://cdn.honda.com.vn/motorbike-manual/September2025/PIcp8XLSxQmsi5X5Twsy.pdf",
+      "accessed": "2026-10-14",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "SÁCH HƯỚNG DẪN SỬ DỤNG Wave RSX FI",
+      "publisher": "Honda Việt Nam",
+      "url": "https://cdn.honda.com.vn/motorbike-manual/September2025/EzA6x0gXYsjvv9AhkVm2.pdf",
+      "accessed": "2026-10-14",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "Những chiêu cướp nhằm vào phái đẹp",
+      "publisher": "VnExpress",
+      "url": "https://vnexpress.net/nhung-chieu-cuop-nham-vao-phai-dep-2172385.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Lista de verificação T-CLOCS para inspeção de motas (documento em inglês)",
+      "publisher": "Marine Corps Base Hawaii (Safety)",
+      "url": "https://www.mcbhawaii.marines.mil/Portals/114/WebDocuments/Safety/T-CLOCSChecklistMotorcycleInspection.pdf",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "title": "Inspeção de segurança de motas (artigo em inglês)",
+      "publisher": "Air Force Global Strike Command (EUA)",
+      "url": "https://www.afgsc.af.mil/News/Article-Display/Article/848986/motorcycle-safety-inspection/",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "title": "VARIO HƯỚNG DẪN SỬ DỤNG",
+      "publisher": "Honda Việt Nam",
+      "url": "https://cdn.honda.com.vn/motorbike-manual/September2025/tOFNiq8LS4zGqR8zVg7f.pdf",
+      "accessed": "2026-10-14",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "SH125D/AD SH160D/AD HƯỚNG DẪN SỬ DỤNG",
+      "publisher": "Honda Việt Nam",
+      "url": "https://cdn.honda.com.vn/motorbike-manual/November2025/UG9NBoEDyF0DHrjoTphA.pdf",
+      "accessed": "2026-10-14",
+      "type": "manufacturer",
+      "lang": "vi"
+    }
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "PUBLISHED",
+  "date_published": "2026-10-14",
+  "date_modified": "2026-10-14",
+  "editorial": {
+    "qa_score": 100,
+    "qa_warnings": [],
+    "words": 1817,
+    "publish_mode": "review",
+    "approved_at": "2026-10-14",
+    "revisions": []
+  }
+}

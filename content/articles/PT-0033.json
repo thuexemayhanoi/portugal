@@ -1,0 +1,210 @@
+{
+  "contract_version": 1,
+  "id": "PT-0033",
+  "slug": "semiautomatica-no-transito",
+  "title": "Semiautomática no pára-arranca de Hanói: mudanças e ir abaixo",
+  "description": "Como gerir as mudanças baixas, as paragens e a posição entre as motas numa Wave ou Sirius em trânsito lento, com o que o manual diz e o que fica por confirmar.",
+  "h1": "Uma Wave ou uma Sirius no meio das motas: gerir as mudanças no trânsito lento de Hanói",
+  "summary": "No pára-arranca de Hanói, uma semiautomática pede menos mudanças e mais antecipação: escolha uma mudança baixa, evite trocar sem necessidade e olhe para o painel antes de arrancar. As fontes não descrevem como se comporta uma Wave ou uma Sirius a baixas rotações; por isso, teste a mota num sítio calmo e confirme com a loja.",
+  "key_points": [
+    "O manual da Wave 110 manda aliviar o acelerador antes de cada mudança, evitar mudanças desnecessárias e não deixar o pé apoiado no pedal: no trânsito lento, a regra é mudar pouco e com suavidade.",
+    "O painel da Wave 110 e da Wave RSX FI mostra a mudança engrenada (1 a 4) e acende a luz N em ponto morto: olhe para ele antes de arrancar num semáforo.",
+    "A passagem da 4.ª para N só se faz com a mota parada (Wave 110): em andamento, o mecanismo de retorno impede-a.",
+    "Nenhuma fonte consultada descreve o comportamento da semiautomática a baixas rotações nem se a mota «vai abaixo»: teste-a e pergunte à loja.",
+    "Entre motas, as regras de referência são de boa prática: ficar visível nos espelhos, circular devagar e não colar a autocarros e camiões."
+  ],
+  "intro": [
+    "Uma semiautomática não tem manete de embraiagem, mas continua a ter mudanças. No pára-arranca, em que se anda dois metros, para e se volta a andar, isso quer dizer pé esquerdo no pedal, atenção ao painel e uma ideia de qual é a mudança certa antes de o trânsito se mexer. É aí que a diferença para uma scooter automática se sente mais.",
+    "Este guia é sobre esse momento: a gestão das mudanças baixas, as paragens, o medo de a mota ir abaixo e a posição entre outras motas. Não explica como arrancar nem o padrão de mudanças da Wave ou da Sirius, que têm artigos próprios no site. Parte do princípio de que já engrena a mota que alugou e quer saber como fazê-lo com calma quando está cercado.",
+    "Há uma limitação que convém dizer já. As fontes que consultámos incluem o manual oficial da Wave 110 e regras de boa prática para circular entre filas, mas nenhuma fala de pára-arranca numa mota com embraiagem automática. O que se segue distingue, em cada ponto, o que vem de uma fonte e o que é sugestão deste guia."
+  ],
+  "sections": [
+    {
+      "h2": "Porque o pára-arranca pede mais a uma semiautomática",
+      "body": [
+        "Numa scooter automática, a mota ajusta-se sozinha: só há acelerador e travões. Numa semiautomática, o condutor escolhe a mudança, e o trânsito lento obriga a escolher muitas vezes, ou a decidir não escolher. Para quem nunca usou mudanças, o guia [scooter ou semiautomática](/tipos-de-motas/scooter-ou-semiautomatica/) defende, com razão, que o trânsito de Hanói não é o sítio onde aprender.",
+        "O contexto também pesa. Segundo uma nota da Vital Strategies sobre os motociclistas vietnamitas, as duas rodas representam 57% das mortes na estrada no Vietname, e a imprensa vietnamita noticiou 9.549 mortos em onze meses de 2025 (de 15 de dezembro de 2024 a 14 de novembro de 2025). Os números não dizem nada sobre semiautomáticas, mas lembram que o trânsito não perdoa distrações, e uma mota que se tem de gerir exige alguma atenção.",
+        "Se, depois de ler isto, achar que prefere não gerir mudanças entre centenas de motas, a escolha da scooter é legítima: a Honda Click custa {{cmp.click.wave.day}} a Wave por dia, na tabela de referência da loja."
+      ]
+    },
+    {
+      "h2": "O que o manual da Wave 110 diz que vale no trânsito",
+      "body": [
+        "O manual da Honda Vietname para a Wave 110 (versão de setembro de 2025) é a única fonte oficial sobre as mudanças que encontrámos para este tipo de mota. Quatro das suas instruções aplicam-se diretamente ao pára-arranca:",
+        {
+          "ul": [
+            "**Aliviar o acelerador antes de cada mudança**, e carregar de leve com a ponta do pé no pedal. Em trânsito lento, onde se muda muitas vezes, isto é o que evita solavancos.",
+            "**Evitar mudanças desnecessárias.** Se o trânsito anda a passo de gente, mudar de mudança a cada dois metros desgasta a mota e o condutor.",
+            "**Não deixar o pé apoiado no pedal de mudanças** durante a condução, porque pode danificar o mecanismo. É um hábito fácil de apanhar, quando se está parado e se quer ter o pé pronto.",
+            "**Olhar para o painel.** A luz N acende em ponto morto e o painel mostra a mudança engrenada, de 1 a 4. O manual da Wave RSX FI descreve o mesmo painel. Se o indicador falhar, o manual da Wave 110 manda levar a mota a uma loja Honda autorizada."
+          ]
+        },
+        "O manual acrescenta que, com a mota parada, é possível passar diretamente da 4.ª para N graças ao sistema rotativo, mas em andamento o mecanismo de retorno impede-o. Para o pára-arranca, a consequência é prática: num semáforo, não tente descobrir o ponto morto aos poucos, em andamento, e confirme sempre no painel em que mudança está."
+      ]
+    },
+    {
+      "h2": "Plano para o trânsito lento: ideias a pôr à prova",
+      "body": [
+        "O que se segue é sugestão deste guia, apoiada nas instruções do manual e em bom senso, e não um procedimento oficial. Experimente-o primeiro numa rua calma.",
+        {
+          "steps": [
+            {
+              "title": "Escolha uma mudança baixa e fique nela",
+              "text": "Em trânsito que anda e para, o que o manual pede (evitar mudanças desnecessárias) aponta para escolher uma mudança baixa e modular o acelerador, em vez de subir e descer a cada metro. Qual a mudança ideal para a sua mota é uma pergunta para a loja."
+            },
+            {
+              "title": "Deixe espaço para rolar em vez de parar",
+              "text": "Se mantiver um intervalo que lhe permita avançar devagar enquanto a fila se mexe, faz menos arranques e menos paragens totais. Menos arranques são menos oportunidades de errar a mudança."
+            },
+            {
+              "title": "Antes de arrancar, olhe para o painel",
+              "text": "Depois de uma paragem, confirme se está em N ou numa mudança engrenada e qual. É o hábito que evita arrancar à espera de uma mudança diferente da que está."
+            },
+            {
+              "title": "Acelere pouco e com suavidade",
+              "text": "Um arranque brusco é o mais fácil de errar com uma mota que não conhece. Mantenha a velocidade baixa, olhe para o veículo da frente e não para a mão ou para o pé."
+            },
+            {
+              "title": "Pé esquerdo livre do pedal quando parado",
+              "text": "Mantenha-o no apoio, pronto para o pedal, mas sem o encostar a ele, como o manual recomenda para a condução."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "Ir abaixo: o que as fontes não dizem e como se prevenir",
+      "body": [
+        "A pergunta mais frequente de quem teme as mudanças no trânsito é: «e se a mota for abaixo?». Em motas de embraiagem manual, acontece quando se larga a manete depressa demais ou se arranca com o acelerador muito baixo. Numa semiautomática, nenhuma das fontes consultadas diz o que acontece a baixas rotações: se a embraiagem automática patina, se o motor se aguenta, a que velocidade.",
+        "Em vez de afirmar o que não sabemos, a abordagem prudente é testar. Antes de sair da loja, em ponto calmo, experimente arrancar e andar a passo de caminhada em 1.ª, para ver como a mota reage a um acelerador muito pequeno. Se tiver dificuldade, diga-o à loja e peça outra unidade ou uma scooter.",
+        {
+          "note": "Se a mota parar de repente em pleno trânsito: trave, mantenha-se calmo e confirme no painel se está em N ou numa mudança. Segundo o manual da Wave 110, o arranque faz-se com a caixa em N, a luz N acesa, torneira e ignição ligadas. Se não pegar, o guia sobre [semiautomática que não pega](/tipos-de-motas/semiautomatica-nao-pega/) explica as causas mais comuns.",
+          "tone": "info",
+          "title": "Se for abaixo"
+        }
+      ]
+    },
+    {
+      "h2": "Paragem no semáforo: mudança engrenada ou ponto morto?",
+      "body": [
+        "O manual da Wave 110 diz que há luz de ponto morto e que a 4.ª passa a N com a mota parada, mas não indica se deve ficar engrenado ou em N num semáforo. Um artigo do Báo Pháp luật Việt Nam sobre carros de caixa manual mostra que, no Vietname, há duas práticas: pôr em N e deixar o motor ligado, ou manter a 1.ª engrenada; algumas escolas de condução ensinam a segunda. O artigo é sobre carros e não responde pela mota.",
+        "A sugestão deste guia é escolher uma das duas e manter sempre o mesmo ritmo, para nunca ter dúvidas no verde. Quem fica em N tem de se lembrar de engrenar a 1.ª antes de arrancar. Quem fica engrenado precisa do pé no travão para a mota não avançar. Em ambos os casos, o painel diz onde está.",
+        "Atenção também aos semáforos. As regras vietnamitas sobre o vermelho, incluindo para quem vira à direita, estão em [semáforos em Hanói](/guia-de-aluguer/semaforos-em-hanoi/)."
+      ]
+    },
+    {
+      "h2": "Posição na faixa entre outras motas",
+      "body": [
+        "O Highway Code britânico, regra 88, é uma referência estrangeira de boa prática, e não uma lei vietnamita. Pede aos motociclistas que saibam o que está atrás e aos lados antes de manobrar, que se posicionem onde os outros condutores os possam ver nos espelhos e que, ao circular entre filas em trânsito lento, tenham cuidado e mantenham a velocidade baixa.",
+        "A regra 164, sobre veículos grandes, diz que ficar mais atrás aumenta o que se vê à frente e deve permitir ao condutor do veículo grande vê-lo nos espelhos; colar-se tapa a visão da estrada. Em Hanói, onde autocarros e camiões partilham as faixas com as motas, aplica-se bem: não pare mesmo ao lado de um veículo grande, onde o condutor não o vê.",
+        "Com uma semiautomática há uma razão extra: se estiver concentrado em acertar a mudança, é mais fácil esquecer os espelhos. Para o resto, o guia sobre [distância e posição na faixa](/guia-de-aluguer/distancia-e-posicao-na-faixa/) e o dos [espelhos e ângulos mortos](/guia-de-aluguer/espelhos-e-angulos-mortos/) desenvolvem o tema. Para evitar o pior do trânsito, veja as [horas de ponta em Hanói](/guia-de-aluguer/horas-de-ponta-em-hanoi/)."
+      ]
+    },
+    {
+      "h2": "O que perguntar à loja e como testar antes de entrar na cidade",
+      "body": [
+        {
+          "checklist": [
+            "A mota que me entregam é uma Wave Alpha, uma Wave RSX FI ou uma Sirius FI? O painel mostra a mudança engrenada?",
+            "Em que mudança devo andar a passo de caminhada, e a mota aguenta-o sem ir abaixo?",
+            "Posso fazer uma pequena prova, a andar devagar, numa rua calma junto à loja?",
+            "Se preferir uma scooter depois de testar, é possível trocar? (ver [trocar de mota](/guia-de-aluguer/trocar-de-mota/))"
+          ]
+        },
+        "Pode perguntar pelos [contactos da loja](/contactos/) antes de ir buscar a mota. Para os primeiros quilómetros em Hanói, o [plano para os primeiros dias a conduzir](/guia-de-aluguer/primeiros-dias-a-conduzir/) propõe uma progressão por degraus, e a [secção de tipos de motas](/tipos-de-motas/) reúne os modelos disponíveis."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "A semiautomática vai abaixo no pára-arranca?",
+      "a": "As fontes que consultámos não dizem como se comportam a Wave e a Sirius a baixas rotações. Teste a mota a passo de caminhada, numa rua calma, antes de entrar no trânsito. Se tiver dúvidas, pergunte à loja e peça uma scooter."
+    },
+    {
+      "q": "Devo estar em ponto morto ou com a mudança engrenada no semáforo?",
+      "a": "O manual da Wave 110 não o diz. No Vietname há as duas práticas em carros de caixa manual, segundo um artigo do Báo Pháp luật. Escolha uma e seja consistente: confirme sempre no painel em que mudança está antes de arrancar."
+    },
+    {
+      "q": "Posso passar da 4.ª para ponto morto em andamento?",
+      "a": "Não. Segundo o manual da Wave 110, a passagem direta da 4.ª para N só é possível com a mota parada: em andamento, o mecanismo de retorno impede-a. Confirme na loja se a sua unidade se comporta assim."
+    },
+    {
+      "q": "Quantas mudanças devo mudar no trânsito lento?",
+      "a": "As menos possíveis. O manual da Wave 110 manda evitar mudanças desnecessárias e aliviar o acelerador antes de cada mudança. Num trânsito que anda e para, o mais prudente é escolher uma mudança baixa e modular o acelerador."
+    }
+  ],
+  "sources": [
+    {
+      "title": "WAVE 110 HƯỚNG DẪN SỬ DỤNG",
+      "publisher": "Honda Việt Nam",
+      "url": "https://cdn.honda.com.vn/motorbike-manual/September2025/PIcp8XLSxQmsi5X5Twsy.pdf",
+      "accessed": "2026-10-14",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "SÁCH HƯỚNG DẪN SỬ DỤNG Wave RSX FI",
+      "publisher": "Honda Việt Nam",
+      "url": "https://cdn.honda.com.vn/motorbike-manual/September2025/EzA6x0gXYsjvv9AhkVm2.pdf",
+      "accessed": "2026-10-14",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "Rules for motorcyclists (83 to 88)",
+      "publisher": "nidirect (Governo da Irlanda do Norte)",
+      "url": "https://nidirect.gov.uk/articles/rules-motorcyclists-83-88",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "title": "Using the road (159 to 203)",
+      "publisher": "GOV.UK — The Highway Code",
+      "url": "https://www.gov.uk/using-the-road-159-to-203",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "title": "Understanding Motorcyclists Risk Perceptions Vietnam Brief",
+      "publisher": "Vital Strategies",
+      "url": "https://www.vitalstrategies.org/wp-content/uploads/Understanding-Motorcyclists-Risk-Perceptions-Vietnam-Brief.pdf",
+      "accessed": "2026-10-13",
+      "type": "reference",
+      "lang": "en"
+    },
+    {
+      "title": "11 tháng năm 2025, TNGT đường bộ giảm hơn 23%",
+      "publisher": "Luật sư Việt Nam (lsvn.vn)",
+      "url": "https://lsvn.vn/11-thang-nam-2025-tngt-duong-bo-giam-hon-23-a166350.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Cách sử dụng số “mo”",
+      "publisher": "Báo Pháp luật Việt Nam",
+      "url": "https://baophapluat.vn/cach-su-dung-so-mo-post82642.html",
+      "accessed": "2026-10-14",
+      "type": "news",
+      "lang": "vi"
+    }
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "PUBLISHED",
+  "date_published": "2026-10-14",
+  "date_modified": "2026-10-14",
+  "editorial": {
+    "qa_score": 100,
+    "qa_warnings": [],
+    "words": 1851,
+    "publish_mode": "review",
+    "approved_at": "2026-10-14",
+    "revisions": []
+  }
+}

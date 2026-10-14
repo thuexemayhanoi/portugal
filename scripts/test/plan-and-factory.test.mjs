@@ -27,8 +27,13 @@ test('editorial plan: 300 topics, sequential IDs, taxonomy targets and unique UR
 });
 
 test('validator rejects an incomplete draft and drafts with invented claims', () => {
-  const { validateArticle, topics } = createValidator();
-  const queued = [...topics.values()].find((t) => t.editorial_qa_status === 'QUEUED' || t.editorial_qa_status === 'PLANNED');
+  const { validateArticle, topics, model } = createValidator();
+  // Simulated on an open topic (in memory only): once the whole plan is published there is none.
+  let queued = [...topics.values()].find((t) => t.editorial_qa_status === 'QUEUED' || t.editorial_qa_status === 'PLANNED');
+  if (!queued) {
+    queued = Object.assign([...topics.values()][0], { editorial_qa_status: 'PLANNED' });
+    model.state.published_ids = model.state.published_ids.filter((id) => id !== queued.id);
+  }
   const bad = validateArticle({ id: queued.id, slug: 'errado', title: 'Curto', sections: [] });
   assert.ok(bad.errors.length >= 3);
   const claims = validateArticle({
@@ -55,7 +60,7 @@ test('validator rejects an incomplete draft and drafts with invented claims', ()
 test('hold topics cannot be submitted', () => {
   const { validateArticle, topics } = createValidator();
   // Simulated on an open topic, since the plan may have no topic on hold.
-  const held = [...topics.values()].find((t) => t.editorial_qa_status !== 'PUBLISHED');
+  const held = [...topics.values()].find((t) => t.editorial_qa_status !== 'PUBLISHED') || [...topics.values()][0];
   held.editorial_qa_status = 'HOLD_FOR_INTENT_REVIEW';
   held.hold_reason = 'teste';
   const r = validateArticle({ id: held.id, slug: held.slug, title: 'x', description: 'y', h1: 'z', summary: 's', sections: [] });

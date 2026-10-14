@@ -1,0 +1,281 @@
+{
+  "contract_version": 1,
+  "id": "PT-0166",
+  "slug": "a-mota-caiu",
+  "title": "Levantar uma mota caída e o que verificar antes de arrancar",
+  "description": "Como levantar uma mota que caiu parada ou a passo sem se lesionar, o que verificar antes de voltar a andar, quando não conduzir e como registar com fotografias.",
+  "h1": "A mota caiu: como a levantar e o que ver antes de voltar a conduzir",
+  "summary": "Para levantar uma mota caída parada ou a passo, veja primeiro se há feridos e desligue-a, e levante-a com as pernas e as costas direitas, e não com a coluna. Depois verifique travões, manetes, pneus, luzes, guiador e fugas. Se algo estiver torto, mole ou a pingar, não conduza: fotografe e contacte a loja.",
+  "key_points": [
+    "Primeiro as pessoas, depois a mota: veja se alguém está magoado e desligue o motor antes de lhe tocar.",
+    "Levante com as pernas, com as costas encostadas ao assento, e não com a coluna; peça ajuda, se a houver.",
+    "Antes de arrancar, confirme travões e manetes, pneus e rodas, fugas, luzes, guiador e apoios dos pés.",
+    "Se algo estiver torto, mole ou a pingar, a mota não é para conduzir: fotografe e fale com a loja.",
+    "Se houver outro veículo ou outra pessoa envolvidos, já não é uma queda simples: o guia próprio é o do acidente."
+  ],
+  "intro": [
+    "Uma queda com a mota parada ou a passo, num estacionamento, num piso molhado ou ao tentar manobrar, acontece mais vezes do que se pensa e quase nunca é grave. Mesmo assim, deixa duas perguntas imediatas: como se levanta uma mota sem se magoar e se ainda se pode andar nela.",
+    "Este guia responde às duas. As fontes disponíveis para a técnica e para as verificações são manuais, listas de inspeção e artigos sobre motas maiores, de fora do Vietname; nenhuma é específica de uma scooter nem de uma queda. Por isso o guia indica o que vem de cada fonte, o que é recomendação nossa e o que deve confirmar com a loja {{brand}}. Colisões com outros veículos ficam fora deste texto: para elas, veja o guia do [acidente com mota alugada](/guia-de-aluguer/acidente-com-mota-alugada/)."
+  ],
+  "sections": [
+    {
+      "h2": "Primeiro as pessoas, depois a mota",
+      "body": [
+        "Antes de pegar na mota, pare e veja como está. Se for a dois, veja também o passageiro. Se alguém sentir dor forte no pescoço, nas costas ou na cabeça, não se levante de um salto e não tente mover ninguém: peça ajuda e ligue para a emergência, 115 para a ambulância e 113 para a polícia, segundo a Thư Viện Pháp Luật.",
+        "A Proteção Civil portuguesa, a propósito de acidentes rodoviários, aconselha a não tirar o capacete a um motociclista acidentado e, sem formação, a não mexer nos feridos. O guia sobre [números de emergência](/guia-de-aluguer/numeros-de-emergencia/) tem a lista completa para o Vietname.",
+        "Se ninguém estiver magoado, desligue o motor e retire a chave antes de tocar na mota. Aproveite para cheirar e olhar: um cheiro intenso a gasolina ou combustível a pingar são motivo para deixar a mota onde está, afastar-se de chamas e contactar a loja. Um artigo vietnamita sobre cheiros, escrito sobre automóveis, diz o mesmo princípio: cheiro a gasolina, parar e verificar de imediato.",
+        "Cuidado com o escape, que pode estar quente mesmo depois de uma queda curta. O guia sobre [queimaduras no escape](/guia-de-aluguer/queimaduras-no-escape/) explica o risco e o que fazer, se acontecer."
+      ]
+    },
+    {
+      "h2": "Como levantar a mota sem se lesionar",
+      "body": [
+        "A técnica que os guias consultados descrevem usa as pernas, e não as costas. Vem de revistas e lojas de motas maiores (The Drive, Rider Magazine, Team Motorcycle); numa scooter mais leve será mais fácil, mas nenhuma fonte o confirma para os modelos de aluguer. Com a mota deitada para o lado, o método é este:",
+        {
+          "steps": [
+            {
+              "title": "Escolha o apoio",
+              "text": "Procure piso firme e, se puder, plano. A Rider Magazine diz que o método das pernas funciona bem em piso molhado e lama, ou quando a mota está perto do chão."
+            },
+            {
+              "title": "Encoste as costas ao assento",
+              "text": "Fique de costas para a mota, com as nádegas ou as costas encostadas ao meio do assento, e agarre o guiador com uma mão e o punho do passageiro ou o porta-bagagens com a outra."
+            },
+            {
+              "title": "Empurre com as pernas",
+              "text": "Dobre os joelhos e endireite-se, com as costas direitas, empurrando com as pernas em vez de puxar com a coluna. A Team Motorcycle sugere fazê-lo por fases, balançando um pouco a mota."
+            },
+            {
+              "title": "Imobilize-a",
+              "text": "Assim que a mota estiver direita, ponha-a no descanso e confirme que está estável antes de a largar. Segundo a Honda Vietname, o interruptor do descanso lateral corta o motor quando o descanso desce, e o motor só arranca com ele levantado: antes de arrancar, levante-o por completo."
+            }
+          ]
+        },
+        "The Drive avisa para não bloquear a perna em extensão para segurar a mota, porque é assim que as pernas se lesionam: se a mota estiver a cair, deixe-a cair. Um conselho nosso, sem fonte: peça ajuda a quem estiver por perto, porque com duas pessoas o esforço divide-se.",
+        {
+          "note": "Os guias para motas com mudanças mandam deixar a mota engrenada e a ignição desligada ao levantá-la. Numa scooter automática não há mudanças, e não encontrámos uma fonte para o equivalente. Peça à loja que lhe mostre, na entrega, como a sua mota fica imobilizada no descanso.",
+          "tone": "info",
+          "title": "Scooter automática: o que as fontes não cobrem"
+        }
+      ]
+    },
+    {
+      "h2": "Antes de voltar a arrancar: o que verificar",
+      "body": [
+        "Uma queda pode torcer ou partir peças sem que se vejam logo. Nenhuma das listas consultadas é específica de pós-queda; são listas genéricas de inspeção que usamos como ponto de partida. A tabela diz de onde vem cada ponto, para que saiba o que é fonte e o que é recomendação nossa.",
+        {
+          "table": {
+            "caption": "Verificações depois de uma queda ligeira",
+            "head": [
+              "O que ver",
+              "Como",
+              "Origem"
+            ],
+            "rows": [
+              [
+                "Travões e manetes",
+                "Aperte cada manete e o pedal: bom toque, sem ficar preso nem «mole» (sinal de ar no circuito); parafusos visíveis apertados, tampas dos reservatórios bem fechadas",
+                "Lista T-CLOCS de uma base militar dos EUA"
+              ],
+              [
+                "Tubos de travão e combustível",
+                "Procure fendas e fugas no depósito, nos tubos e nas uniões",
+                "Artigo do exército dos EUA sobre a inspeção de primavera"
+              ],
+              [
+                "Pneus e rodas",
+                "Piso acima do indicador de desgaste, sem hérnias nem objetos cravados, jantes sem amolgadelas, flancos sem fendas",
+                "Lista T-CLOCS"
+              ],
+              [
+                "Luzes",
+                "Travão, médios e piscas, dos dois lados",
+                "Lista de inspeção da Cardo Systems"
+              ],
+              [
+                "Quadro e apoios dos pés",
+                "Sem fendas, sobretudo nas soldaduras e nos pontos de fixação; apoios bem fixos",
+                "Lista de inspeção da Cardo Systems"
+              ],
+              [
+                "Guiador e espelhos",
+                "A roda da frente e o guiador apontam para o mesmo sítio; manetes e espelhos não estão tortos nem partidos",
+                "Proposta deste guia, sem fonte"
+              ],
+              [
+                "Fugas e cheiros",
+                "Manchas no chão por baixo da mota, cheiro a gasolina",
+                "Proposta deste guia"
+              ]
+            ]
+          }
+        },
+        "A Honda manda fazer a inspeção antes de cada saída e corrigir qualquer problema, num manual de um modelo muito diferente (uma mota de motocross); o manual do proprietário é a melhor fonte, e a loja deve poder mostrar-lhe o da sua mota. Para os pneus e a pressão, o guia sobre [pneus e pressão](/guia-de-aluguer/pneus-e-pressao/) explica o que ver em dois minutos, e para os travões o [teste dos travões](/guia-de-aluguer/verificar-os-travoes/) diz como o repetir depois de uma queda.",
+        "Faça as verificações por ordem: primeiro com o motor desligado (olhar e tocar), depois com o motor a trabalhar e a mota no descanso (luzes e painel) e, por fim, um troço curto a passo, num sítio livre, a travar de leve. Se qualquer ponto o deixar com dúvidas, passe à secção seguinte."
+      ]
+    },
+    {
+      "h2": "Quando não conduzir e contactar a loja",
+      "body": [
+        "Não encontrámos um critério oficial para decidir quando uma mota não deve voltar a andar depois de uma queda. A regra que propomos é prudente: na dúvida, trate a mota como danificada. Não conduza nestes casos:",
+        {
+          "ul": [
+            "uma manete ou um pedal de travão torto, partido, mole ou que não solta;",
+            "fugas de combustível, de óleo ou de líquido de travões, ou cheiro a gasolina;",
+            "pneu em baixo, hérnia, corte ou jante amolgada;",
+            "guiador torto, roda da frente fora de alinhamento, quadro ou apoio dos pés com fendas;",
+            "luz de travão ou piscas sem funcionar, sobretudo ao fim do dia;",
+            "ruído ou vibração que não havia antes da queda."
+          ]
+        },
+        "Mesmo que tudo pareça bem, avise a loja. Uma queda sem estragos visíveis deve ficar registada, com data e hora, antes de devolver a mota, e a loja pode querer ver a mota. Pelo {{phone}}, {{hours}}, ou por mensagem fora desse horário. O guia sobre [comunicar sem falar vietnamita](/guia-de-aluguer/comunicar-sem-falar-vietnamita/) ajuda a escrever mensagens curtas.",
+        "Se a mota não puder andar, não a conduza «só até à loja»: o guia sobre [assistência na estrada](/guia-de-aluguer/assistencia-na-estrada/) explica como organizar a espera e o que perguntar. Quem paga uma reparação, e em que condições, depende do que foi combinado: pergunte e guarde a resposta por escrito, e consulte o [acordo de aluguer](/guia-de-aluguer/acordo-de-aluguer/) e a página sobre [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/) para saber que perguntas fazer."
+      ]
+    },
+    {
+      "h2": "Registar com fotografias",
+      "body": [
+        "Não encontrámos fonte sobre como fotografar uma queda. O que se segue é o que pode ajudar a loja a perceber o que aconteceu, e é uma recomendação nossa.",
+        {
+          "checklist": [
+            "A mota tal como ficou, antes de a mexer, se não estiver em risco de ser atropelada;",
+            "O local à volta: o piso, o que fez escorregar, a distância à faixa;",
+            "A mota depois de levantada, dos dois lados, de frente e de trás;",
+            "Cada estrago de perto: riscos, manetes, espelhos, escape, guiador, pneus e jantes;",
+            "O painel ligado e a quilometragem;",
+            "Se possível, um vídeo curto do teste dos travões e das luzes."
+          ]
+        },
+        "Compare com as fotografias que tirou ao levantar a mota: o guia sobre [fotografar a mota alugada](/guia-de-aluguer/fotografar-a-mota/) explica o que registar na entrega, e o de [receber a mota](/guia-de-aluguer/receber-a-mota/) o que confirmar antes de sair. Guarde as imagens com data e hora, e envie-as à loja antes de qualquer reparação."
+      ]
+    },
+    {
+      "h2": "A mensagem para a loja",
+      "body": [
+        "Uma mensagem curta e completa poupa chamadas. Diga o modelo e a matrícula, o local, o que aconteceu (parada, a passo, em piso molhado, a manobrar), se houve feridos, o que verificou e o que encontrou, e junte as fotografias. Termine com uma pergunta clara: posso continuar a usar a mota ou prefere vê-la antes?",
+        "Se houver outro veículo, uma pessoa ou um objeto de terceiros envolvido, já não é uma queda simples: veja o guia da [colisão ligeira sem feridos](/guia-de-aluguer/colisao-ligeira-sem-feridos/) e o do [acidente com mota alugada](/guia-de-aluguer/acidente-com-mota-alugada/). Para saber se uma apólice de viagem cobre despesas de uma queda, veja o guia do [seguro de viagem e mota](/guia-de-aluguer/seguro-de-viagem-e-mota/).",
+        "O [guia geral do aluguer](/guia-de-aluguer/) reúne o resto do que convém combinar com a loja antes de partir."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Posso levantar a mota sozinho?",
+      "a": "Pode, se ninguém estiver magoado e a mota for leve para si, mas pedir ajuda é mais seguro. Use as pernas, com as costas direitas e encostadas ao assento, e não bloqueie uma perna estendida para a segurar. Se sentir dor, pare."
+    },
+    {
+      "q": "A mota parece estar bem. Devo avisar a loja?",
+      "a": "Aconselhamos que sim. Não existe um critério oficial para decidir sozinho, e a loja é quem pode dizer se quer ver a mota antes de continuar. Envie fotografias e a descrição do que aconteceu, com data e hora."
+    },
+    {
+      "q": "Preciso de mudar algo se a mota for automática?",
+      "a": "A técnica das pernas é a mesma, mas os guias consultados falam de motas com mudanças e mandam deixá-las engrenadas. Para uma scooter automática, não encontrámos fonte: peça à loja que lhe mostre como a imobilizar no descanso."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Here's How To Pick Up a Fallen Motorcycle Without Hurting Yourself",
+      "publisher": "The Drive",
+      "url": "https://www.thedrive.com/motorcycles/40772/how-to-pick-up-a-fallen-motorcycle",
+      "accessed": "2026-10-14",
+      "type": "news",
+      "lang": "en"
+    },
+    {
+      "title": "Motor School with Quinn Redeker: Picking Up What You're Putting Down",
+      "publisher": "Rider Magazine",
+      "url": "https://ridermagazine.com/2026/02/11/motor-school-with-quinn-redeker-picking-up-what-youre-putting-down/",
+      "accessed": "2026-10-14",
+      "type": "news",
+      "lang": "en"
+    },
+    {
+      "title": "Picking Up A Dropped Motorcycle",
+      "publisher": "Team Motorcycle",
+      "url": "https://www.teammotorcycle.com/blogs/guides/picking-up-a-dropped-motorcycle",
+      "accessed": "2026-10-14",
+      "type": "business",
+      "lang": "en"
+    },
+    {
+      "title": "T-CLOCS Checklist Motorcycle Inspection",
+      "publisher": "Marine Corps Base Hawaii (Safety)",
+      "url": "https://www.mcbhawaii.marines.mil/Portals/114/WebDocuments/Safety/T-CLOCSChecklistMotorcycleInspection.pdf",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "title": "Spring has sprung: time to awaken the beast",
+      "publisher": "U.S. Army (army.mil)",
+      "url": "https://www.army.mil/article/244074/spring_has_sprung_time_to_awaken_the_beast",
+      "accessed": "2026-10-14",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "title": "Pre-Ride Motorcycle Inspection Checklist",
+      "publisher": "Cardo Systems",
+      "url": "https://cardosystems.com/blog/pre-ride-motorcycle-inspection-checklist",
+      "accessed": "2026-10-14",
+      "type": "business",
+      "lang": "en"
+    },
+    {
+      "title": "Perguntas frequentes da Honda Việt Nam: informações gerais (em vietnamita)",
+      "publisher": "Honda Việt Nam",
+      "url": "https://honda.com.vn/cau-hoi-thuong-gap?category=&category_child=&category_tab=thong-tin-chung",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "Manual do proprietário Honda CRF250R (excerto sobre inspeção antes de conduzir), ficheiro 0017",
+      "publisher": "bike-parts.fr (cópia de manual Honda)",
+      "url": "https://www.bike-parts.fr/thumbs/pdf_url/img/owner_manuals/owner_CRF250RD_EN/2500_2500/0017.pdf",
+      "accessed": "2026-10-14",
+      "type": "manufacturer",
+      "lang": "en"
+    },
+    {
+      "title": "Đoán bệnh xe qua mùi (artigo em vietnamita, sobre automóveis)",
+      "publisher": "VnExpress",
+      "url": "https://vnexpress.net/doan-benh-xe-qua-mui-2060151.html",
+      "accessed": "2026-10-14",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Acidentes Rodoviários",
+      "publisher": "Câmara Municipal de Vila Franca de Xira (Proteção Civil)",
+      "url": "https://www.cm-vfxira.pt/uploads/document/file/345/Acidentes_Rodovi_rios.pdf",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "pt"
+    },
+    {
+      "title": "Gọi đến các đầu số khẩn cấp như 113, 114, 115... thì có được miễn phí cước điện thoại hay không?",
+      "publisher": "Thư Viện Pháp Luật",
+      "url": "https://thuvienphapluat.vn/phap-luat/goi-den-cac-dau-so-khan-cap-nhu-113-114-115-thi-co-duoc-mien-phi-cuoc-dien-thoai-hay-khong-23081.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    }
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "PUBLISHED",
+  "date_published": "2026-10-14",
+  "date_modified": "2026-10-14",
+  "editorial": {
+    "qa_score": 100,
+    "qa_warnings": [],
+    "words": 1785,
+    "publish_mode": "review",
+    "approved_at": "2026-10-14",
+    "revisions": []
+  }
+}

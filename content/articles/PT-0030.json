@@ -1,0 +1,235 @@
+{
+  "contract_version": 1,
+  "id": "PT-0030",
+  "slug": "ponto-morto-e-mudancas",
+  "title": "Ponto morto de uma semiautomática: padrão de mudanças e luz N",
+  "description": "Como reconhecer o padrão de mudanças da semiautomática que vai levar, a luz N no painel e a caixa rotativa da Honda Wave, e o que perguntar à loja.",
+  "h1": "Ponto morto e padrão de mudanças: como ler a semiautomática antes de a conduzir",
+  "summary": "Numa Honda Wave, a luz N do painel acende quando a caixa está em ponto morto, e o manual da Wave 110 diz que a caixa é rotativa: com a mota parada pode passar-se diretamente da 4.ª ao ponto morto, em andamento não. Outras motas têm padrões diferentes, por isso confirme o da sua unidade na entrega, antes de arrancar.",
+  "key_points": [
+    "A Honda Wave tem caixa de quatro mudanças em padrão rotativo; a luz N acende em ponto morto e o painel mostra a mudança engrenada.",
+    "Segundo o manual da Wave 110, a 4.ª passa diretamente ao ponto morto só com a mota parada; em andamento, o mecanismo de retorno impede-o.",
+    "As motas de embraiagem manual mais recentes, como a Exciter e a Winner, põem o ponto morto entre a 1.ª e a 2.ª: não transfira esse padrão para uma Wave.",
+    "Se o indicador do painel falhar, o manual manda levar a mota a uma loja Honda autorizada; num aluguer, avise a loja.",
+    "O sentido do pedal e a existência de luz N em cada unidade não estão confirmados nas fontes: peça uma demonstração com a mota parada."
+  ],
+  "intro": [
+    "O ponto morto é a posição da caixa em que o motor não transmite movimento à roda. Numa semiautomática é também a posição em que se arranca, e por isso é a primeira coisa a saber encontrar. O problema é que o «onde fica» depende da mota: um padrão aprendido noutra pode não servir.",
+    "Este guia trata só do padrão e do ponto morto: como se reconhece, o que o painel mostra e o que o manual da Honda Wave 110 diz sobre a 4.ª e o N. A técnica completa de arrancar, mudar e parar está no guia de como conduzir uma semiautomática, que não repetimos aqui, e o teste a fazer no levantamento tem a sua própria lista. Onde as fontes não chegam, o texto di-lo."
+  ],
+  "sections": [
+    {
+      "h2": "Três padrões de mudanças que pode encontrar",
+      "body": [
+        "Nem todas as motas com mudanças de pé engrenam da mesma maneira. Uma notícia vietnamita sobre porque é que o N fica entre a 1.ª e a 2.ª nas Exciter e nas Winner explica a diferença. O resumo, com a Wave como termo de comparação, é este:",
+        {
+          "table": {
+            "caption": "Padrões de caixa referidos nas fontes consultadas",
+            "head": [
+              "Padrão",
+              "Onde aparece",
+              "O que implica"
+            ],
+            "rows": [
+              [
+                "N-1-2-3-4",
+                "Motas dos anos 70, segundo a imprensa",
+                "É possível passar da 4.ª ao ponto morto; considerou-se pouco seguro, porque se podia fazer por engano."
+              ],
+              [
+                "N entre a 1.ª e a 2.ª",
+                "Motas de embraiagem manual mais recentes, como Exciter e Winner",
+                "O ponto morto está entre as duas primeiras mudanças, e não depois da última."
+              ],
+              [
+                "Rotativo (4 số tròn)",
+                "Honda Wave, segundo os manuais da Honda Vietname",
+                "Com a mota parada, a 4.ª pode passar diretamente ao ponto morto; em andamento, um mecanismo de retorno impede-o."
+              ]
+            ]
+          }
+        },
+        "A notícia refere a Wave como um caso diferente dos dois primeiros, e a ficha da Honda indica «caixa mecânica de quatro velocidades rotativa» para a Wave Alpha. A Yamaha, para a Sirius FI, só diz que tem uma caixa de quatro velocidades fácil de utilizar: se é rotativa, não está confirmado.",
+        "O mesmo cuidado vale entre modelos da mesma família. Numa análise da Honda Super Cub C125, que não é uma Wave, o autor nota que, ao contrário dos Cub rotativos mais antigos, ali não se passa diretamente da 4.ª para a 1.ª e se reduz mudança a mudança. Os padrões variam com o modelo e com a geração: não os deduza de outra mota."
+      ]
+    },
+    {
+      "h2": "A luz N e o indicador de mudança no painel",
+      "body": [
+        "Nos manuais da Honda Wave 110 e da Wave RSX FI, a luz N acende quando a caixa está em ponto morto, e o painel mostra a posição das mudanças, de 1 a 4. Segundo o manual da Wave 110, se o indicador não funcionar corretamente, a mota deve ser levada a uma loja Honda autorizada.",
+        "Uma página de um concessionário estrangeiro que vende a Wave 110S lista, nas luzes de posição, 1, 2, 3, 4 e N. É uma fonte comercial e de outro mercado, por isso vale só como confirmação de que o painel de uma Wave pode mostrar a mudança engrenada.",
+        {
+          "h3": "O que não está confirmado"
+        },
+        "A mota de aluguer pode ser de uma geração anterior às fichas atuais, e não encontrámos fonte que garanta que todas as unidades têm luz N e indicador. Não parta do princípio: peça na entrega que lhe mostrem a luz com a ignição ligada e a caixa em ponto morto.",
+        "Não confunda a luz N com a luz da injeção. Se a luz de avaria acender ao ligar a ignição, é normal; se ficar acesa com o motor a trabalhar, o guia das [luzes de aviso do painel](/tipos-de-motas/luzes-de-aviso-do-painel/) explica o que fazer."
+      ]
+    },
+    {
+      "h2": "A caixa rotativa da Wave: o que o manual diz sobre a 4.ª e o ponto morto",
+      "body": [
+        "O manual da Honda Wave 110 distingue a mota parada da mota em andamento. Parada, pode passar-se diretamente da 4.ª ao ponto morto graças ao sistema rotativo («4 số vòng»). Em andamento, o mecanismo de retorno impede a passagem direta. O texto foi lido a partir de um excerto com erros de reconhecimento de texto, mas foi coerente em duas leituras.",
+        "Porque é que isso importa? Na prática, significa que um ponto morto «a andar» não é uma ação que a Wave permita fazer por distração, e é a lógica de segurança que a imprensa vietnamita atribui à mudança de padrão: evitar que alguém chegue ao N sem querer. Mas não se fie só no mecanismo. Se a unidade tiver o padrão diferente, o comportamento muda.",
+        {
+          "note": "Descanso lateral em baixo e mota engrenada: num manual da Honda de uma mota maior, a Rebel 500, engrenar uma mudança com o descanso lateral em baixo faz o motor parar. Não é uma Wave, mas mostra porque a posição do descanso e a mudança engrenada devem ser verificadas antes de arrancar.",
+          "tone": "info",
+          "title": "Outro modelo, a mesma cautela"
+        }
+      ]
+    },
+    {
+      "h2": "Como encontrar o ponto morto com a mota parada",
+      "body": [
+        "As fontes não descrevem o gesto do pedal para a Wave nem para a Sirius, e o padrão do pedal, calcanhar ou ponta do pé, não está confirmado. O que segue são conselhos do guia, a validar com a loja:",
+        {
+          "steps": [
+            {
+              "title": "Peça uma demonstração",
+              "text": "Com a mota parada, peça à loja que lhe mostre o ponto morto e a ordem das mudanças, e repita você o gesto com ela a ver."
+            },
+            {
+              "title": "Confirme com o painel",
+              "text": "Ignição ligada, procure a luz N. Se existir, deve acender na posição de ponto morto e apagar-se ao engrenar a 1.ª."
+            },
+            {
+              "title": "Confirme com a roda",
+              "text": "Com o motor desligado e a mota em segurança, empurre-a devagar: em ponto morto rola livremente, engrenada oferece resistência. É um teste de conselho, sem fonte técnica, e não substitui o painel."
+            },
+            {
+              "title": "Só depois ligue o motor",
+              "text": "O arranque da Wave 110, segundo o manual, faz-se em ponto morto com a luz N acesa. Se o motor não pegar, veja a [semiautomática que não pega](/tipos-de-motas/semiautomatica-nao-pega/)."
+            }
+          ]
+        },
+        "Se não encontrar o ponto morto à primeira, não force o pedal com a mota a andar nem com o motor a puxar: pare, desligue e peça ajuda à loja. É também um bom sinal de que um guia de [como receber a mota alugada](/guia-de-aluguer/receber-a-mota/) merece uma leitura antes do levantamento."
+      ]
+    },
+    {
+      "h2": "Erros que o padrão da unidade pode provocar",
+      "body": [
+        "As fontes consultadas não trazem uma lista de erros documentados com o ponto morto. O que segue são riscos que decorrem do que o manual e a imprensa dizem, apresentados como tal.",
+        {
+          "ul": [
+            "**Levar para a Wave o padrão de outra mota.** Quem vem de uma Exciter ou de uma Winner espera o N entre a 1.ª e a 2.ª, e a Wave é um caso diferente.",
+            "**Confiar só na luz.** Uma luz N que não acende pode ser avaria ou ser uma unidade sem indicador. Confirme também pelo pedal e pela roda.",
+            "**Tentar o N em andamento.** Na Wave, o mecanismo de retorno impede a passagem da 4.ª ao ponto morto a andar. Forçar o pedal não é solução: pare e volte a tentar com a mota parada.",
+            "**Arrancar sem saber em que mudança está.** O arranque faz-se em ponto morto, pelo manual: se não sabe onde está, volte ao painel.",
+            "**Esquecer o descanso lateral.** Noutros modelos, engrenar com o descanso em baixo faz parar o motor."
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "O que pedir à loja antes de levar a mota",
+      "body": [
+        "O padrão de mudanças é uma pergunta de dois minutos na entrega. Peça à loja:",
+        {
+          "checklist": [
+            "que lhe mostre o ponto morto e a ordem das mudanças da unidade, com a mota parada;",
+            "se a unidade tem luz N e indicador de mudança, e que lhos mostre acesos;",
+            "se a caixa é rotativa e se, nessa unidade, a 4.ª passa ao ponto morto com a mota parada;",
+            "se o pedal de mudanças dessa unidade tem alguma particularidade;",
+            "o que fazer se perder o ponto morto a meio de um trajeto, e a quem telefonar."
+          ]
+        },
+        "As respostas dependem da unidade, por isso fale com a loja pela página de [Contactos](/contactos/) ou pelo {{phone}}. Quem ainda não tem mudanças no corpo deve começar pela [semiautomática ou scooter](/tipos-de-motas/scooter-ou-semiautomatica/), e a página dos [tipos de motas](/tipos-de-motas/) compara todas as opções. A [Honda Wave em Hanói](/tipos-de-motas/honda-wave-em-hanoi/) descreve as versões que pode receber."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "A Honda Wave passa da 4.ª ao ponto morto em andamento?",
+      "a": "Segundo o manual da Wave 110, não: em andamento, o mecanismo de retorno impede a passagem direta da 4.ª ao ponto morto, que só é possível com a mota parada. Confirme na entrega, porque a unidade que recebe pode ser de outra versão."
+    },
+    {
+      "q": "Todas as semiautomáticas têm luz de ponto morto?",
+      "a": "Não encontrámos fonte que o confirme para todas as unidades. Os manuais da Wave 110 e da Wave RSX FI descrevem a luz N, mas uma mota de aluguer mais antiga pode ser diferente. Peça que lha mostrem acesa, com a ignição ligada."
+    },
+    {
+      "q": "O ponto morto fica sempre no mesmo sítio?",
+      "a": "Não. As motas de embraiagem manual mais recentes, como a Exciter e a Winner, põem o N entre a 1.ª e a 2.ª, o padrão antigo N-1-2-3-4 põe-no no fim e a Wave tem caixa rotativa. Por isso o padrão aprendido noutra mota não deve ser assumido."
+    }
+  ],
+  "sources": [
+    {
+      "title": "WAVE 110 HƯỚNG DẪN SỬ DỤNG",
+      "publisher": "Honda Việt Nam",
+      "url": "https://cdn.honda.com.vn/motorbike-manual/September2025/PIcp8XLSxQmsi5X5Twsy.pdf",
+      "accessed": "2026-10-14",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "SÁCH HƯỚNG DẪN SỬ DỤNG Wave RSX FI",
+      "publisher": "Honda Việt Nam",
+      "url": "https://cdn.honda.com.vn/motorbike-manual/September2025/EzA6x0gXYsjvv9AhkVm2.pdf",
+      "accessed": "2026-10-14",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "Wave Alpha",
+      "publisher": "Honda Việt Nam",
+      "url": "https://www.honda.com.vn/xe-may/san-pham/wave-alpha-110",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "«NÂNG TẦM PHONG CÁCH MỚI» CÙNG SIRIUS FI 2021",
+      "publisher": "Yamaha Motor Việt Nam",
+      "url": "https://yamaha-motor.com.vn/tin-tuc/nang-tam-phong-cach-moi-cung-sirius-fi-2021/",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "Artigo da Znews sobre porque é que o N fica entre a 1.ª e a 2.ª nas Exciter e nas Winner (em vietnamita)",
+      "publisher": "Znews (Tri thức trực tuyến)",
+      "url": "https://znews.vn/so-n-tai-sao-lai-nam-giua-so-1-va-2-tren-cac-mau-xe-exciter-winner-post948577.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Página de concessionário sobre a Honda Wave 110S (em inglês)",
+      "publisher": "Stewart's Auto Group (concessionário)",
+      "url": "https://stewartsautogroup.com/honda-bike-wave-110s/",
+      "accessed": "2026-10-14",
+      "type": "business",
+      "lang": "en"
+    },
+    {
+      "title": "2019 Honda Super Cub C125 ABS | First Ride Review",
+      "publisher": "Rider Magazine",
+      "url": "https://ridermagazine.com/2019/02/08/2019-honda-super-cub-c125-abs-first-ride-review/",
+      "accessed": "2026-10-14",
+      "type": "news",
+      "lang": "en"
+    },
+    {
+      "title": "Rebel 500 SÁCH HƯỚNG DẪN SỬ DỤNG",
+      "publisher": "Honda Việt Nam",
+      "url": "https://cdn.honda.com.vn/motorbike-manual/January2024/OdKKVideG3xEREmXH8bb.pdf",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    }
+  ],
+  "legal_note": false,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "PUBLISHED",
+  "date_published": "2026-10-14",
+  "date_modified": "2026-10-14",
+  "editorial": {
+    "qa_score": 100,
+    "qa_warnings": [],
+    "words": 1659,
+    "publish_mode": "review",
+    "approved_at": "2026-10-14",
+    "revisions": []
+  }
+}

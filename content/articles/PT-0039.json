@@ -353,5 +353,15 @@
     "type": "claude",
     "name": "Claude (Claude Code)"
   },
-  "status": "READY_FOR_QA"
+  "status": "PUBLISHED",
+  "date_published": "2026-10-14",
+  "date_modified": "2026-10-14",
+  "editorial": {
+    "qa_score": 100,
+    "qa_warnings": [],
+    "words": 2187,
+    "publish_mode": "review",
+    "approved_at": "2026-10-14",
+    "revisions": []
+  }
 }

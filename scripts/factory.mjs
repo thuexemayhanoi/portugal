@@ -186,15 +186,14 @@ function processInbox() {
     console.log(`Factory is ${state.status}: nothing processed. Run "node scripts/factory.mjs resume" to activate.`);
     return { processed: [], idle: true };
   }
-  if (state.published_ids.length >= config.target_articles) {
-    console.log('TARGET_REACHED: the plan target is already published.');
-    return { processed: [], idle: true };
-  }
   const inbox = draftFiles('_factory/inbox');
   if (!inbox.length) {
     console.log('Inbox empty: nothing to process.');
     return { processed: [], idle: true };
   }
+  // With the whole plan published, the factory still handles revisions of live articles;
+  // a new draft can only target a published topic, which the QA refuses without "revision".
+  if (state.published_ids.length >= config.target_articles) console.log('TARGET_REACHED: every planned topic is published; only revisions can be processed.');
   const { validateArticle, topics } = createValidator();
   const files = inbox
     .map((f) => ({ f, t: topics.get(f.slice(0, 7)) }))

@@ -1,4 +1,4 @@
-# Audit nội dung & kế hoạch tăng trưởng — 13/10/2026
+# Audit nội dung & kế hoạch tăng trưởng — 14/10/2026
 
 Sinh lại bằng `node scripts/audit-content.mjs` (chỉ đọc repo, không gọi mạng) và `node scripts/guard.mjs`. Số liệu dưới đây là tại thời điểm commit.
 
@@ -6,12 +6,12 @@ Sinh lại bằng `node scripts/audit-content.mjs` (chỉ đọc repo, không g�
 
 | Chỉ số | Giá trị |
 |---|---|
-| URL index được | 267 (237 bài + 30 trang nền/hub) |
-| Bài theo kế hoạch 300 | 237 đã đăng · 63 chưa viết |
+| URL index được | 332 (300 bài + 32 trang nền/hub) |
+| Bài theo kế hoạch 300 | 300 đã đăng · 0 còn lại |
 | URL index nhưng thiếu trong sitemap | 0 |
 | Canonical sai | 0 |
-| Bài chưa có liên kết ngữ cảnh trỏ vào | 89 (chỉ có link từ hub/archive) |
-| Cặp có nguy cơ ăn thịt từ khóa | HIGH 1 · MEDIUM 6 · LOW 39 |
+| Bài chưa có liên kết ngữ cảnh trỏ vào | 79 (chỉ có link từ hub/archive) |
+| Cặp có nguy cơ ăn thịt từ khóa | HIGH 1 · MEDIUM 6 · LOW 46 |
 
 **Chưa đo được** (không giả định): HTTP status trên site thật (xem workflow SEO Monitor), Search Console (chưa kết nối), Core Web Vitals thực tế.
 
@@ -30,7 +30,7 @@ Sinh lại bằng `node scripts/audit-content.mjs` (chỉ đọc repo, không g�
 | 9 | New Content Editorial Plan | `data/editorial-plan.json` + `data/writer-queue.json` |
 | 10 | AI Content Collision Guard | `scripts/lib/guard.mjs`, báo cáo `reports/collision-guard.json` |
 | 11 | Risk Register | mục «Rủi ro» bên dưới |
-| 12 | QA Report & Deployment Plan | `npm run check` (0 lỗi), `npm test` (26/26), mục «Triển khai» |
+| 12 | QA Report & Deployment Plan | `npm run check` (0 lỗi), `npm test` (24 pass, 2 skip vì không còn chủ đề mở), mục «Triển khai» |
 
 ## Collision Guard
 
@@ -43,10 +43,13 @@ Mỗi chủ đề mới đi qua: chuẩn hóa → so với URL đang chạy, b�
 
 Bản nháp đặt trong `_factory/hold/` luôn là REVIEW và không bao giờ vào hàng đợi.
 
-## 63 chủ đề còn lại (Knowledge Gap)
+## Hoàn thành kế hoạch 300 bài (Knowledge Gap đã xử lý)
 
-- **10 chủ đề REVIEW** (có thể trùng với URL đang chạy, cần chủ site quyết định): PT-0006, PT-0039 (bản nháp trong `_factory/hold`, gần với «scooter ou semiautomática»), PT-0057, PT-0211, PT-0221, PT-0232, PT-0246, PT-0267, PT-0270, PT-0296. Đề xuất: phần lớn nên **nâng cấp bài đang có** thay vì tạo URL mới.
-- **53 chủ đề ALLOW_CREATE nhưng thiếu dữ kiện đã xác minh** (kỹ thuật lái xe số, giá gửi xe, thanh toán/thẻ, ga tàu và bến xe, Long Biên/Tây Hồ, chợ, ...). Writer không viết khi không có nguồn. Cần một vòng nghiên cứu mới rồi mới viết.
+- **10 chủ đề REVIEW đã được duyệt** (14/10/2026):
+  - 3 chủ đề trùng hẳn với bài đang có được thay bằng chủ đề mới trong cùng danh mục: PT-0221 (cầu Long Biên → nhà hát múa rối nước Thăng Long), PT-0232 (đường tới cửa hàng → Vinhomes Riverside), PT-0296 (chuẩn bị đi xa → Tam Đảo).
+  - 7 chủ đề trả lời câu hỏi khác với bài đang có, đánh dấu `guard_reviewed`: PT-0006, PT-0039, PT-0057, PT-0211, PT-0246, PT-0267, PT-0270.
+- **53 chủ đề thiếu dữ kiện**: có thêm 8 gói nghiên cứu mới, sau đó các bài được viết. Điểm nào chưa xác minh được ghi rõ ngay trong bài («por confirmar» / «o que perguntar»), không trình bày như sự thật.
+- Muốn tăng thêm nội dung thì phải dựa trên khoảng trống có bằng chứng (Search Console và câu hỏi thật của khách), không đặt chỉ tiêu số bài.
 
 ## Rủi ro
 
@@ -56,7 +59,7 @@ Bản nháp đặt trong `_factory/hold/` luôn là REVIEW và không bao giờ 
 | Phường Bồ Đề có thể đã đổi tên sau sắp xếp hành chính 2025 | Trung bình | Không sửa NAP — chủ site xác nhận |
 | Giờ mở cửa/giá vé của điểm tham quan lấy từ nguồn du lịch không đồng nhất | Trung bình | Bài ghi rõ là khoảng giá, khuyên kiểm tra lại |
 | Templo da Literatura ↔ Cidadela Imperial (HIGH, trùng đoạn về đường đi/đỗ xe chung khu vực) | Thấp | Hai địa danh, hai intent khác nhau; giữ nguyên, theo dõi Search Console |
-| 89 bài chưa có link ngữ cảnh trỏ vào | Thấp | Lượt liên kết chéo tiếp theo (bản sửa giữ nguyên URL) |
+| 79 bài chưa có link ngữ cảnh trỏ vào | Thấp | Lượt liên kết chéo tiếp theo (bản sửa giữ nguyên URL) |
 
 ## Triển khai
 
