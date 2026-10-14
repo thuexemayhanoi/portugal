@@ -51,7 +51,14 @@ jobs:
           assert.ok(/sob consulta/i.test(prices),'electric on-request marker missing');
           const allPosts=fs.readdirSync('content/articles').filter(f=>/^PT-\d{4}\.json$/.test(f));
           assert.equal(allPosts.length,300,'published article count drift');
-          const articlePages=allPosts.map(f=>{const a=JSON.parse(fs.readFileSync('content/articles/'+f,'utf8')); return a.url.replace(/^\//,'')+'index.html';});
+          const plan=JSON.parse(fs.readFileSync('data/editorial-plan.json','utf8'));
+          const urls=new Map(plan.topics.map(t=>[t.id,t.target_url]));
+          const articlePages=allPosts.map(f=>{
+            const id=f.replace(/\\.json$/,'');
+            const url=urls.get(id);
+            assert.ok(url,'missing article URL from plan: '+id);
+            return url.replace(/^\\//,'')+'index.html';
+          });
           const diff=execFileSync('git',['diff','--name-only','8f89c4c0e697037af7fd1bc3970a1b9542898a7b','--','content/articles',...articlePages],{encoding:'utf8'});
           assert.equal(diff.trim(),'','Article sources or generated article HTML changed: '+diff);
           console.log('PASS: 12 main pages, official NAP + WhatsApp, verified prices, 300 article sources and HTML unchanged');
