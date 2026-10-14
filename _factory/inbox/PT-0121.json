@@ -14,7 +14,7 @@
     "Noutra cidade, faça as mesmas perguntas que faria em Hanói e acrescente as que dependem do clima e do itinerário."
   ],
   "intro": [
-    "Quem planeia uma viagem pelo Vietname pergunta com frequência se vale a pena alugar uma mota só em Hanói ou também em Ho Chi Minh, no centro ou noutra cidade. A pergunta esconde duas dúvidas diferentes: se as regras mudam e se a experiência é a mesma.",
+    "Quem planeia uma viagem pelo Vietname pergunta com frequência se vale a pena alugar uma mota só em Hanói ou também em Ho Chi Minh, ou noutra cidade. A pergunta esconde duas dúvidas: se as regras mudam e se a experiência é a mesma.",
     "Este guia separa o que sabemos do que não sabemos. As regras nacionais, o clima e as restrições locais de Hanói têm fontes; sobre o trânsito, as lojas e os preços de outras cidades não temos dados verificados, e por isso não os comparamos. A loja {{brand}} fica em {{area}}, e tudo o que aqui se diz sobre a loja diz respeito apenas a Hanói."
   ],
   "sections": [
@@ -62,7 +62,7 @@
         "É no tempo que Hanói e Ho Chi Minh mais se distinguem, e é o que mais muda o dia a dia em cima de uma mota. As temperaturas que se seguem vêm de guias de viagem comerciais, que divergem entre si. Servem como ordem de grandeza e não como previsão.",
         {
           "table": {
-            "caption": "Clima de Hanói e de Ho Chi Minh, segundo guias de viagem",
+            "caption": "Clima de Hanói e de Ho Chi Minh, segundo guias de viagem e o WeatherSpark",
             "head": [
               "",
               "Hanói",
@@ -73,6 +73,11 @@
                 "Estações",
                 "Quatro estações, com um inverno real",
                 "Sem inverno: cerca de 28 °C todo o ano"
+              ],
+              [
+                "Médias de referência",
+                "Janeiro: mínimas de cerca de 14 °C e máximas de 20 °C; junho: mínimas de 26 °C e máximas de 33 °C, segundo o WeatherSpark",
+                "Sem dados comparáveis nas fontes consultadas"
               ],
               [
                 "Época fresca",
@@ -119,8 +124,8 @@
       "h2": "Trânsito e perfil da viagem: o que não conseguimos comparar",
       "body": [
         "Seria cómodo dizer em que cidade o trânsito é mais difícil, mas não encontrámos dados comparáveis. Sabemos que, segundo o Departamento de Transportes de Hanói, citado pela imprensa, circulavam na cidade cerca de 6,9 milhões de motas registadas em dezembro de 2024. Não encontrámos o número equivalente para Ho Chi Minh, e por isso não podemos comparar a escala.",
-        "O que se pode dizer é que o perfil da viagem pesa mais do que a cidade. Uma mota alugada em Hanói serve bem a quem fica na cidade ou faz saídas de um dia ou de poucos dias pelo Norte, com a ressalva de que tudo o que sai da cidade deve ser combinado com a loja; o guia sobre [levar a mota para fora de Hanói](/guia-de-aluguer/autorizacao-para-sair-de-hanoi/) explica como. Uma viagem que atravessa o país, de norte a sul, é outra coisa: levanta a questão de devolver a mota noutro sítio, e o artigo sobre [devolver a mota noutro local](/guia-de-aluguer/devolver-noutro-local/) mostra porque a resposta depende sempre da loja.",
-        "Se o seu plano passa por zonas de montanha ou por estradas longas, compare também a alternativa de viajar como passageiro: o artigo sobre [mota alugada ou easy rider](/precos/mota-alugada-ou-easy-rider/) explica quando faz sentido. Em Đà Lạt, por exemplo, os passeios de easy rider aparecem com frequência nas páginas dos operadores, que são fontes promocionais."
+        "O que se pode dizer é que o perfil da viagem pesa mais do que a cidade. Uma mota alugada em Hanói serve bem a quem fica na cidade ou faz saídas curtas pelo Norte, sempre combinadas com a loja; o guia sobre [levar a mota para fora de Hanói](/guia-de-aluguer/autorizacao-para-sair-de-hanoi/) explica como. Uma viagem de norte a sul é outra coisa: levanta a questão de devolver a mota noutro sítio, e o artigo sobre [devolver a mota noutro local](/guia-de-aluguer/devolver-noutro-local/) mostra porque a resposta depende sempre da loja.",
+        "Se o seu plano passa por montanha ou por estradas longas, compare a alternativa de viajar como passageiro: o artigo sobre [mota alugada ou easy rider](/precos/mota-alugada-ou-easy-rider/) explica quando faz sentido. Em Đà Lạt, por exemplo, os passeios de easy rider aparecem com frequência nas páginas dos operadores, que são fontes promocionais."
       ]
     },
     {
@@ -145,7 +150,7 @@
       "h2": "O que esta loja pode dizer, e o que não pode",
       "body": [
         "A loja {{brand}} fica em Hanói, em {{area}}, e está aberta {{hours}}. Os preços e as condições que o site publica são os desta loja: na tabela de referência, um dia de aluguer custa desde {{price.min.day}}. Não comparamos esses valores com os de lojas de outras cidades, porque não temos tabelas verificadas e cada loja define as suas condições.",
-        "Se está a decidir onde começar a viagem, a pergunta útil não é «onde é mais barato», e sim «onde preciso da mota». Para o tempo que passar em Hanói, a [página de preços](/precos/) mostra as tarifas por modelo, e o artigo sobre a [Vision ou Click no aluguer mensal](/precos/vision-ou-click-no-aluguer-mensal/) ajuda a escolher o modelo de uma estadia longa. Para qualquer dúvida, veja os [contactos](/contactos/) da loja."
+        "Se está a decidir onde começar a viagem, a pergunta útil é «onde preciso da mota», e não «onde é mais barato». Para o tempo em Hanói, a [página de preços](/precos/) mostra as tarifas por modelo, e a comparação [Vision ou Click no aluguer mensal](/precos/vision-ou-click-no-aluguer-mensal/) ajuda a escolher o modelo de uma estadia longa. Para dúvidas, veja os [contactos](/contactos/)."
       ]
     }
   ],
@@ -182,6 +187,14 @@
       "url": "https://vietnam.travel/things-to-do/weather-and-climate-vietnam",
       "accessed": "2026-10-13",
       "type": "official",
+      "lang": "en"
+    },
+    {
+      "title": "Clima médio em Hanói ao longo do ano (WeatherSpark)",
+      "publisher": "WeatherSpark",
+      "url": "https://weatherspark.com/y/116009/Average-Weather-in-Hanoi-Vietnam-Year-Round",
+      "accessed": "2026-10-13",
+      "type": "reference",
       "lang": "en"
     },
     {
