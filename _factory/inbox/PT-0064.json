@@ -14,8 +14,8 @@
     "Antes de sair da loja, pergunte qual é o modelo, teste a resposta do acelerador num local calmo e confirme que a buzina e as luzes funcionam."
   ],
   "intro": [
-    "Uma mota a gasolina anuncia-se: o motor, o escape e o ruído da transmissão avisam quem está por perto de que algo se aproxima. Numa mota elétrica isso quase desaparece. Em Hanói, onde há peões a atravessar fora das passadeiras, motas estacionadas nos passeios e ruas estreitas, ser silencioso muda a forma de conduzir.",
-    "Este guia junta o que encontrámos sobre o ruído das elétricas, o que a lei vietnamita admite à buzina e o que se pode fazer na prática para compensar o silêncio. Há pouco que se saiba com certeza, e o texto diz onde. Para o resto do perfil destas motas, veja o guia geral das [motas elétricas](/tipos-de-motas/eletricas/) e o que se sabe sobre o [aluguer de mota elétrica em Hanói](/tipos-de-motas/aluguer-de-mota-eletrica-em-hanoi/)."
+    "Uma mota a gasolina anuncia-se: o motor, o escape e o ruído da transmissão avisam quem está por perto de que algo se aproxima. Numa mota elétrica isso quase desaparece. Em Hanói, onde peões e motas partilham ruas estreitas, ser silencioso muda a forma de conduzir.",
+    "Este guia junta o que encontrámos sobre o ruído das elétricas, o que a lei vietnamita admite à buzina e o que se pode fazer na prática para compensar o silêncio. Há pouco que se saiba com certeza, e o texto diz onde. Para o resto do perfil destas motas, veja a [visão geral dos tipos de mota](/tipos-de-motas/), o guia das [motas elétricas](/tipos-de-motas/eletricas/) e o [aluguer de mota elétrica em Hanói](/tipos-de-motas/aluguer-de-mota-eletrica-em-hanoi/)."
   ],
   "sections": [
     {
@@ -29,12 +29,7 @@
             "**Vietname.** Não encontrámos norma vietnamita sobre o som mínimo das motas elétricas, nem medições de ruído de nenhum modelo."
           ]
         },
-        "Resumindo: não se pode partir do princípio de que uma mota elétrica de aluguer tem um som de aviso. Mesmo que o tenha, a loja é que o sabe. Trate o silêncio como o estado normal e conduza em função disso.",
-        {
-          "note": "Uma notícia vietnamita refere que os EUA passaram a exigir dispositivo sonoro em veículos elétricos, e uma parte do texto fala em motas, mas não confirmámos essa parte e a regra não se aplica no Vietname. Por isso não a usamos como argumento.",
-          "tone": "info",
-          "title": "O que não podemos afirmar"
-        }
+        "Resumindo: não se pode partir do princípio de que uma mota elétrica de aluguer tem um som de aviso. Mesmo que o tenha, a loja é que o sabe. Trate o silêncio como o estado normal e conduza em função disso."
       ]
     },
     {
@@ -59,7 +54,7 @@
             "**Depois das 22:00, sem buzina.** Em zonas muito povoadas, a regra é rigorosa. À noite, o aviso passa a ser o da luz, da velocidade e da distância."
           ]
         },
-        "Para a lei, o consumo e o tipo de mota, não há distinção: uma elétrica é um veículo a motor como as outras. A carta e a categoria de uma elétrica têm o seu próprio guia, sobre a [carta para mota elétrica](/tipos-de-motas/carta-para-mota-eletrica/)."
+        "A carta e a categoria exigidas para uma mota elétrica têm um guia próprio, sobre a [carta para mota elétrica](/tipos-de-motas/carta-para-mota-eletrica/)."
       ]
     },
     {
@@ -111,7 +106,7 @@
             },
             {
               "title": "Mantenha uma trajetória previsível",
-              "text": "Não se desvie de repente entre peões. Um peão que não o ouviu tende a ajustar o passo à última hora, e uma mota que muda de linha ao mesmo tempo aumenta o risco."
+              "text": "Não se desvie de repente entre peões. Um peão que não o ouviu pode ajustar o passo à última hora, e uma mota que muda de linha ao mesmo tempo aumenta o risco."
             },
             {
               "title": "Use as luzes e o capacete visível",
@@ -122,8 +117,8 @@
               "text": "Um toque curto e só quando houver perigo ou antes de ultrapassar, como a lei admite. Nunca à noite em zonas muito povoadas."
             },
             {
-              "title": "Ao estacionar, desligue a mota e ponha-a no descanso",
-              "text": "Uma mota elétrica parada e ligada não faz ruído, e um empurrão no acelerador pode surpreender quem passa. Siga o que a loja disser sobre o desligar e o carregar; veja também [carregar uma mota elétrica alugada](/tipos-de-motas/carregar-mota-eletrica/)."
+              "title": "Ao parar, confirme que a mota está desligada",
+              "text": "Numa elétrica, a mota pode estar pronta a andar sem qualquer ruído. Peça à loja que lhe mostre como saber se está ligada ou desligada; veja também [carregar uma mota elétrica alugada](/tipos-de-motas/carregar-mota-eletrica/)."
             }
           ]
         }
