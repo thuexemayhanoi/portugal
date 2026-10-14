@@ -1,0 +1,325 @@
+{
+  "contract_version": 1,
+  "id": "PT-0106",
+  "slug": "estacionamento-em-hanoi-preco",
+  "title": "Preço do estacionamento de mota em Hanói: tarifas e senhas",
+  "description": "Tarifas máximas de parque para motas em Hanói segundo a Decisão 44/2017, como ler a senha, como pagar e o que fazer perante cobranças acima do preço.",
+  "h1": "Quanto custa estacionar uma mota em Hanói",
+  "summary": "Em Hanói, a cidade fixa preços máximos de guarda. Segundo os resumos jurídicos consultados em outubro de 2026, uma mota paga nos distritos urbanos 3.000 VND de dia, 5.000 à noite ou 7.000 dia e noite, por vez. Não lemos o anexo oficial, por isso o que vale na prática é o preço impresso na senha.",
+  "key_points": [
+    "A regra é a Decisão 44/2017/QĐ-UBND do Comité Popular de Hanói, em vigor desde 1 de janeiro de 2018 e dada como vigente por duas bases jurídicas a 13 de outubro de 2026.",
+    "Para motas, os resumos indicam 3.000 / 5.000 / 7.000 VND por vez (dia / noite / dia e noite) nos distritos urbanos e 70.000 VND por mês; em mercados, escolas, hospitais e distritos rurais, 2.000 / 3.000 / 4.000 e 50.000 VND.",
+    "Os montantes vêm de sites de síntese, não do texto do anexo, e são preços máximos: confirme-os sempre pela senha, que traz o valor impresso.",
+    "As notícias mostram cobranças acima do preço em épocas de grande afluência, como o Tết: pergunte o valor antes de entregar a mota e guarde a senha.",
+    "A taxa do passeio, que subiu em 2026, é um custo do operador do parque; não encontrámos confirmação de que tenha subido o preço pago pelo cliente."
+  ],
+  "intro": [
+    "Quem aluga uma mota em Hanói paga o aluguer à loja e, à parte, pequenas somas a terceiros: gasolina, e quase todos os dias o estacionamento. Cada vez que deixa a mota num parque com funcionário, recebe uma senha e paga uma pequena quantia em dong. Individualmente é pouco; ao fim de uma semana, convém saber que valor é razoável e que valor é demais.",
+    "Este guia responde à pergunta do preço: o que a cidade determina, que montantes as fontes indicam para motas, como se faz uma conta de um dia e o que se pode fazer quando a cobrança não bate certo com a senha. O que está confirmado e o que não está vem sempre assinalado, porque o tema é sensível ao tempo e há tabelas antigas a circular."
+  ],
+  "sections": [
+    {
+      "h2": "A regra da cidade: preços máximos fixados por decisão municipal",
+      "body": [
+        "Os parques de guarda de veículos de Hanói não escolhem livremente o que cobram. O preço máximo do serviço de guarda de bicicletas, motas e automóveis é fixado pela Decisão n.º 44/2017/QĐ-UBND do Comité Popular da cidade. Entrou em vigor a 1 de janeiro de 2018 e substituiu a Decisão 58/2016/QĐ-UBND, de 31 de dezembro de 2016.",
+        "A 13 de outubro de 2026, duas bases jurídicas vietnamitas, o caselaw.vn e o Luật Minh Khuê, davam a decisão como em vigor («đang có hiệu lực» e «còn hiệu lực»). O caselaw.vn regista ainda uma primeira alteração, de 18 de fevereiro de 2018. Não encontrámos, nas pesquisas feitas até 14 de outubro de 2026, nenhuma revisão posterior dos preços de guarda de motas ao cliente.",
+        "A decisão estabelece o preço máximo por tipo de veículo, por zona (distritos urbanos ou distritos rurais), por modalidade (por vez ou por mês) e por período (dia ou noite). «Máximo» é a palavra que interessa: um parque pode cobrar menos, mas, em princípio, não mais do que o valor regulamentado.",
+        {
+          "note": "Um título da imprensa vietnamita anunciava que, a partir de 1 de janeiro de 2018, Hanói duplicava oficialmente as taxas de guarda de veículos, e outro dizia que a taxa das motas subia para 5.000 VND por vez. Os excertos que lemos não permitem saber a que tabela se referiam. É um bom motivo para não usar valores de artigos antigos: confie na data da fonte e, no terreno, na senha.",
+          "tone": "info",
+          "title": "Porque é que as tabelas antigas confundem"
+        }
+      ]
+    },
+    {
+      "h2": "A tabela das motas, tal como a resumem as fontes",
+      "body": [
+        "Não conseguimos abrir o anexo da Decisão 44/2017 com os montantes. O que apuramos vem de um site de síntese jurídica (Hoatieu.vn) e de uma notícia do Báo Pháp luật Việt Nam, e os valores coincidem entre si. A tabela seguinte reproduz o que essas fontes dizem para as motas, em preços máximos por vez e por mês.",
+        {
+          "table": {
+            "caption": "Preços máximos de guarda de motas em Hanói segundo os resumos consultados (VND)",
+            "head": [
+              "Onde",
+              "Por vez, de dia",
+              "Por vez, de noite",
+              "Por vez, dia e noite",
+              "Por mês"
+            ],
+            "rows": [
+              [
+                "Distritos urbanos e pontos de interesse turístico, histórico e cultural",
+                "3.000",
+                "5.000",
+                "7.000",
+                "70.000"
+              ],
+              [
+                "Mercados, escolas, hospitais e distritos rurais",
+                "2.000",
+                "3.000",
+                "4.000",
+                "50.000"
+              ]
+            ]
+          }
+        },
+        "Segundo as mesmas fontes, o dia vai das 06:00 às 18:00 e a noite vai das 18:00 às 06:00 do dia seguinte. A modalidade «dia e noite» corresponde a deixar a mota ao longo de ambos os períodos, em vez de pagar duas vezes.",
+        {
+          "h3": "O que isto quer dizer para um turista"
+        },
+        "No centro de Hanói, a linha que mais lhe interessa é a primeira: os bairros do Bairro Antigo, de Hoàn Kiếm e de Ba Đình, as zonas turísticas e os museus caem na coluna dos 3.000 a 7.000 VND por vez. A modalidade mensal, de 70.000 VND, serve quem guarda a mota todos os dias no mesmo sítio, como os moradores; num aluguer de poucos dias, as contas fazem-se por vez.",
+        "Uma notícia do Báo Pháp luật Việt Nam, de data que não conseguimos confirmar, cita um máximo mais alto, 10.000 VND por vez e 100.000 VND por mês, para prédios de apartamentos e centros comerciais com sistema de vigilância moderno. Não confirmámos se isto consta do anexo da Decisão 44/2017. Por isso, em centros comerciais e prédios, trate o valor como «a perguntar»."
+      ]
+    },
+    {
+      "h2": "Fazer a conta de um dia de paragens",
+      "body": [
+        "Com os máximos da tabela, é fácil estimar o teto do que um dia de mota em zona urbana custa em estacionamento. Os números são cálculos nossos sobre os valores citados acima, não preços confirmados no terreno.",
+        {
+          "table": {
+            "caption": "Exemplo de um dia na cidade, ao preço máximo dos resumos consultados",
+            "head": [
+              "Situação",
+              "Cálculo",
+              "Total"
+            ],
+            "rows": [
+              [
+                "Quatro paragens de dia, em zona urbana",
+                "4 × 3.000 VND",
+                "12.000 VND"
+              ],
+              [
+                "Uma noite no parque junto ao alojamento",
+                "1 × 5.000 VND",
+                "5.000 VND"
+              ],
+              [
+                "Dia completo com as quatro paragens e a noite",
+                "12.000 + 5.000 VND",
+                "17.000 VND"
+              ]
+            ]
+          }
+        },
+        "Para comparar, o aluguer de um dia custa, na tabela da loja, entre {{price.min.day}} e {{price.max.day}}, conforme o modelo. O estacionamento é uma parcela pequena, mas repete-se; o guia do [orçamento diário da mota](/precos/quanto-dinheiro-levar/) junta-o à gasolina e ao aluguer, e a lista dos [custos extra](/precos/custos-alem-do-preco/) mostra o que mais pode aparecer.",
+        "Quem pensa ficar um mês e guardar a mota todos os dias no mesmo sítio pode perguntar pelo preço mensal. Pelos valores citados, 70.000 VND por mês corresponde a dez entradas de 7.000 VND, ou seja, só compensa se for guardar a mota em mais de dez dias; confirme com o parque, porque a modalidade mensal pode exigir condições que um turista não cumpre.",
+        "Nos valores em dong, lembre-se de contar os zeros. O guia sobre [ler preços em dong](/precos/ler-precos-em-dong/) explica como não confundir 3.000 com 30.000, um erro fácil quando se paga a correr."
+      ]
+    },
+    {
+      "h2": "Cobranças acima do preço: o que as notícias mostram",
+      "body": [
+        "A imprensa vietnamita tem vários casos de parques que cobram acima do valor regulamentado, quase sempre em épocas de grande afluência. Os exemplos abaixo são antigos e não dizem como está hoje; servem para perceber o padrão, não para estimar o que vai pagar.",
+        {
+          "ul": [
+            "Na rua Hàng Đào, no Bairro Antigo, a VnExpress relatou parques a cobrar 5.000 VND, valor que subia para 10.000 VND perto do Tết, enquanto o preço regulamentado de então era mais baixo.",
+            "A mesma imprensa descreveu senhas com 2.000 VND impressos em que se cobravam 5.000 VND.",
+            "Na noite do aniversário da Libertação da Capital, a 10 de outubro, a polícia multou um ponto de guarda que subiu o preço afixado da senha; o ano não é visível na notícia.",
+            "O Nhân Dân publicou um artigo sobre travar a cobrança acima do regulamentado, e a cidade anunciou o desmantelamento de pontos de guarda ilegais; só lemos os títulos."
+          ]
+        },
+        "Há uma lição prática que sai de todos estes casos: a senha traz o preço impresso, e é isso que permite verificar. Se o funcionário escrever à mão um valor diferente ou pedir mais à saída, o desacordo fica documentado.",
+        {
+          "h3": "Como se proteger, sem discutir"
+        },
+        {
+          "steps": [
+            {
+              "title": "Pergunte antes de entregar a mota",
+              "text": "Em vietnamita, «Gửi xe bao nhiêu tiền?» quer dizer «Quanto custa guardar a mota?». Ouça o número e confira se bate com a ordem de grandeza da tabela acima."
+            },
+            {
+              "title": "Confira o que está impresso na senha",
+              "text": "Fotografe a senha, a mota e a placa ou o nome da rua. Se o valor impresso for diferente do que lhe disseram, diga-o antes de se afastar."
+            },
+            {
+              "title": "Pague o que a senha indica",
+              "text": "Se lhe pedirem mais, mostre a senha com calma. Se a situação não se resolver, pague e avise a loja, em vez de discutir com a mota ainda por levantar."
+            },
+            {
+              "title": "Em dias de festa, conte com valores mais altos",
+              "text": "Tết e feriados concentram os relatos de abusos. Nesses dias, escolha parques de estabelecimentos conhecidos e pergunte o preço logo à entrada."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "Taxa do passeio e pagamento sem dinheiro: o que mudou em 2024–2026",
+      "body": [
+        "Em 2026, o Conselho Popular de Hanói aprovou um aumento da taxa que os operadores pagam pelo uso do passeio e da via para guardar veículos. O Tuổi Trẻ cita um máximo de 400.000 VND por metro quadrado e por mês, a propósito de parques de automóveis, e o LSVN fala de subidas de 1,5 a 2,4 vezes em várias ruas. Para as motas em zonas centrais, a proposta inicial previa passar de 135.000 para 220.000 VND por metro quadrado; só lemos o resumo, por isso trate esse valor como proposta.",
+        "Esta taxa é um custo do operador, não o preço que o cliente paga. Não encontrámos, até 14 de outubro de 2026, nenhuma fonte que mostre que os parques de rua passaram a cobrar mais às motas por causa dela. Pode acontecer que a pressão se sinta nos preços reais; por isso, mais uma razão para olhar para a senha e não para tabelas.",
+        {
+          "h3": "Numerário, cartão e QR"
+        },
+        "Em março de 2024, Hanói pediu aos parques tecnologia de cobrança sem numerário. Segundo o Departamento de Transportes, havia 57 parques licenciados ou situados em centros comerciais, prédios, hospitais e escolas, e a maioria ainda cobrava em dinheiro. Outra notícia refere que, desde 1 de julho de 2026, os pontos de guarda de automóveis têm de cobrar eletronicamente, sem paragem; o resultado só fala de automóveis, por isso não o aplicamos às motas.",
+        "Na prática, leve notas pequenas, de 2.000, 5.000 e 10.000 VND, para os parques de rua. Num parque de um centro comercial ou de um prédio, pergunte à entrada se aceitam cartão ou QR; não dê isso por garantido. O guia dos [pagamentos por QR no Vietname](/precos/pagamentos-qr-no-vietname/) explica o que um turista pode esperar."
+      ]
+    },
+    {
+      "h2": "Parques informais, passeios e o risco que o preço não mostra",
+      "body": [
+        "O preço mais baixo nem sempre é o melhor negócio. No fim de agosto de 2025, um incêndio num parque sob a ponte Vĩnh Tuy queimou cerca de 500 motas; a licença do parque foi retirada e o espaço desmantelado, segundo o Znews. É uma notícia dramática, mas serve para um ponto prático: um parque sem licença visível pode ser desmantelado, e quem lá deixa a mota fica com o problema.",
+        "Tem mais confiança um parque com funcionário uniformizado, senha impressa e preço afixado, de preferência dentro de um prédio, de um mercado ou de um estabelecimento reconhecível. À noite, pergunte no alojamento onde costumam deixar as motas dos hóspedes e a que horas fecha o acesso.",
+        {
+          "h3": "O passeio não é um parque"
+        },
+        "Estacionar a mota na faixa de rodagem ou no passeio sem autorização é sancionado com uma coima nacional de 400.000 a 600.000 VND (Decreto 168/2024/NĐ-CP). Só se pode estacionar no passeio onde houver sinal que o permita, lugares marcados ou autorização escrita da autoridade. Desde 1 de julho de 2026, a Resolução 56/2026/NQ-HĐND de Hanói multiplica por 1,5 ou 2 as coimas de 28 infrações na cidade; não confirmámos se esta está entre elas, por isso os valores acima são os de nível nacional.",
+        "Poupar 3.000 VND a deixar a mota num passeio sem sinal é uma economia que pode custar duzentas vezes mais. O guia sobre [onde estacionar em Hanói](/guia-de-aluguer/onde-estacionar-em-hanoi/) detalha os tipos de sítio, e o artigo sobre a [mota rebocada](/precos/mota-rebocada-em-hanoi/) diz o que fazer se a mota desaparecer do sítio onde a deixou.",
+        "Um cadeado suplementar e uma capa para a chuva são acessórios simples que ajudam em qualquer parque; veja os preços e o que a loja oferece na página de [capas de chuva e acessórios](/precos/capa-de-chuva-e-acessorios/)."
+      ]
+    },
+    {
+      "h2": "O que perguntar à loja e ao alojamento",
+      "body": [
+        "O preço do estacionamento não faz parte da tabela de preços do aluguer, que cobre o aluguer da mota. O que vai pagar em parques de terceiros é uma despesa à parte, mas há perguntas que evitam surpresas e que a loja ou o alojamento respondem em poucos segundos:",
+        {
+          "checklist": [
+            "O alojamento tem sítio para a mota? Está dentro do edifício ou na rua, e tem algum custo por noite?",
+            "A que horas abre e fecha o acesso ao parque do alojamento, para planear o regresso à noite?",
+            "Qual é o parque mais próximo das zonas que pretende visitar e que preço costumam pagar os hóspedes?",
+            "Em caso de chuva ou de festa, há algum parque do bairro que aconselhem ou que evitem?",
+            "Se perder a senha, o que costuma o parque pedir e a quem devo avisar na loja?"
+          ]
+        },
+        "Para qualquer questão sobre o aluguer em si, use a página de [contactos](/contactos/): a equipa responde sobre o seu caso, e as respostas escritas ficam como prova. E se quiser ver o aluguer completo antes de somar os extras, a [página de preços](/precos/) reúne as tarifas por modelo e por duração."
+      ]
+    },
+    {
+      "h2": "O que ainda não está confirmado",
+      "body": [
+        "Por honestidade com quem planeia o orçamento, estes são os pontos que não conseguimos confirmar até 14 de outubro de 2026:",
+        {
+          "ul": [
+            "os montantes do anexo da Decisão 44/2017 lidos no texto oficial (usámos resumos que coincidem entre si);",
+            "se os parques de rua cobram abaixo ou acima de 3.000, 5.000 e 7.000 VND e se a taxa do passeio levou a aumentos ao cliente;",
+            "o preço máximo em prédios de apartamentos e centros comerciais (10.000 e 100.000 VND, segundo uma notícia sem data confirmada);",
+            "se a cobrança eletrónica obrigatória em 2026 inclui as motas;",
+            "tarifas de estacionamento em hotéis, em aeroportos e em atrações turísticas com parque próprio."
+          ]
+        },
+        "Quando houver uma tabela oficial atualizada e legível, este guia será revisto. Até lá, a regra de ouro é simples: pergunte o preço, leia a senha e pague o que ela diz."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Quanto se paga por estacionar uma mota numa rua do centro de Hanói?",
+      "a": "Segundo os resumos jurídicos consultados, o máximo para motas nos distritos urbanos é 3.000 VND por vez de dia, 5.000 à noite e 7.000 dia e noite. Não lemos o anexo oficial e há relatos de cobranças acima disto em épocas de festa, por isso confie no preço impresso na senha."
+    },
+    {
+      "q": "A tabela de preços de estacionamento é igual em todo o lado?",
+      "a": "Não. Os resumos distinguem os distritos urbanos e pontos turísticos (3.000 a 7.000 VND por vez) de mercados, escolas, hospitais e distritos rurais (2.000 a 4.000 VND). Prédios de apartamentos e centros comerciais podem ter outro máximo, que não conseguimos confirmar."
+    },
+    {
+      "q": "O que faço se me pedirem mais do que a senha indica?",
+      "a": "Mostre a senha com calma e peça que expliquem o valor. Se não houver acordo, pague o que for preciso para levantar a mota, fotografe a senha e o local e conte o caso à loja. Os relatos da imprensa mostram que a senha impressa é a melhor prova do que foi cobrado."
+    },
+    {
+      "q": "Posso pagar o estacionamento com cartão ou com o telemóvel?",
+      "a": "Em 2024, a maioria dos 57 parques licenciados ou em centros comerciais, prédios, hospitais e escolas ainda cobrava em dinheiro, segundo o Departamento de Transportes. Em parques de rua, conte com numerário em notas pequenas; noutros, pergunte à entrada se aceitam cartão ou QR."
+    },
+    {
+      "q": "A taxa do passeio vai fazer subir o preço do estacionamento?",
+      "a": "É um custo do operador do parque, que aumentou em 2026. Não encontrámos confirmação de que tenha subido o preço pago pelas motas. Pode vir a refletir-se nos preços, por isso volte a conferir a senha de cada vez e desconfie de tabelas antigas."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Quyết định 44/2017/QĐ-UBND về giá dịch vụ trông giữ xe đạp, xe máy, xe ô tô trên địa bàn thành phố Hà Nội",
+      "publisher": "caselaw.vn",
+      "url": "https://caselaw.vn/van-ban-phap-luat/305048-quyet-dinh-44-2017-qd-ubnd-ve-gia-dich-vu-trong-giu-xe-dap-xe-may-xe-o-to-tren-dia-ban-thanh-pho-ha-noi",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "Texto da Decisão n.º 44/2017/QĐ-UBND do Comité Popular de Hanói sobre os preços de guarda de veículos (em vietnamita)",
+      "publisher": "Luật Minh Khuê",
+      "url": "https://luatminhkhue.vn/van-ban/quyet-dinh-so-44-2017-qd-ubnd-cua-ubnd-thanh-pho-ha-noi-ve-gia-dich-vu-trong-giu-xe-tren-dia-ban-thanh-pho.aspx",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "Phí dịch vụ trông giữ xe ở Thành phố Hà Nội mới nhất",
+      "publisher": "Hoatieu.vn",
+      "url": "https://hoatieu.vn/phap-luat/phi-dich-vu-trong-giu-xe-o-thanh-pho-ha-noi-moi-nhat-1624",
+      "accessed": "2026-10-14",
+      "type": "reference",
+      "lang": "vi"
+    },
+    {
+      "title": "Hà Nội ban hành mức phí trông xe mới",
+      "publisher": "Báo Pháp luật Việt Nam",
+      "url": "https://baophapluat.vn/ha-noi-ban-hanh-muc-phi-trong-xe-moi-post236356.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Bãi gửi xe 'chặt chém' khách sắm Tết",
+      "publisher": "VnExpress",
+      "url": "https://vnexpress.net/bai-gui-xe-chat-chem-khach-sam-tet-2155346.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Bắt chẹt khách gửi xe ngày Tết",
+      "publisher": "VnExpress",
+      "url": "https://vnexpress.net/bat-chet-khach-gui-xe-ngay-tet-2079064.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Điểm giữ xe nâng giá vé trong đêm kỉ niệm ngày Giải phóng Thủ đô bị phạt",
+      "publisher": "Pháp Luật TP.HCM (PLO)",
+      "url": "https://plo.vn/diem-giu-xe-nang-gia-ve-trong-dem-ki-niem-ngay-giai-phong-thu-do-bi-phat-post814381.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Hà Nội tính thu phí tối đa tới 400.000 đồng/m² vỉa hè, lòng đường làm nơi trông giữ ô tô",
+      "publisher": "Tuổi Trẻ",
+      "url": "https://tuoitre.vn/ha-noi-tinh-thu-phi-toi-da-toi-400-000-dong-m-via-he-long-duong-lam-noi-trong-giu-o-to-2026050807255363.htm",
+      "accessed": "2026-10-14",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Notícia sobre a exigência de Hanói de cobrança de estacionamento sem dinheiro (em vietnamita)",
+      "publisher": "Tạp chí Luật sư Việt Nam (LSVN)",
+      "url": "https://lsvn.vn/ha-noi-yeu-cau-trien-khai-cong-nghe-thu-phi-gui-xe-khong-thu-tien-mat-1711593390-a142215.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Notícia sobre a retirada da licença e o desmantelamento do parque sob a ponte Vĩnh Tuy (em vietnamita)",
+      "publisher": "Znews",
+      "url": "https://znews.vn/thu-hoi-giay-phep-va-giai-toa-toan-bo-bai-xe-tai-gam-cau-vinh-tuy-post1584496.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Nghị định 168 đối với xe máy: 10 mức phạt mọi tài xế cần biết",
+      "publisher": "LuatVietnam",
+      "url": "https://luatvietnam.vn/giao-thong/nghi-dinh-168-doi-voi-xe-may-863-100609-article.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    "hanoi-resolucao-56-2026"
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "READY_FOR_QA"
+}

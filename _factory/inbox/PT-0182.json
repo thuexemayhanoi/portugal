@@ -15,7 +15,7 @@
   ],
   "intro": [
     "Quem chega a Hanói de mota percebe depressa que o centro é uma teia de ruas estreitas, muitas com sentido único, e que nem toda a gente à sua volta cumpre as placas. O erro mais fácil de cometer não é o excesso de velocidade: é virar para uma rua onde não se pode entrar.",
-    "Este guia ajuda a ler os sinais mais comuns de sentido único e de viragem proibida, explica as diferenças que a lei faz entre infrações parecidas e indica as coimas aplicáveis, com a data de consulta das fontes. Não traz uma lista de ruas com o respetivo sentido, porque não encontrámos fonte fiável para a escrever."
+    "Este guia, parte do [guia de aluguer de motas em Hanói](/guia-de-aluguer/), ajuda a ler os sinais mais comuns de sentido único e de viragem proibida, explica as diferenças que a lei faz entre infrações parecidas e indica as coimas aplicáveis, com a data de consulta das fontes. Não traz uma lista de ruas com o respetivo sentido, porque não encontrámos fonte fiável para a escrever."
   ],
   "sections": [
     {
@@ -25,10 +25,25 @@
         {
           "table": {
             "caption": "Os dois sinais de sentido único, segundo as fontes consultadas em 14 de outubro de 2026",
-            "head": ["Sinal", "Código", "Aspeto", "O que lhe pede"],
+            "head": [
+              "Sinal",
+              "Código",
+              "Aspeto",
+              "O que lhe pede"
+            ],
             "rows": [
-              ["Sentido único («Đường một chiều»)", "I.407, I.407a", "Quadrado azul com seta branca, nos cruzamentos", "Seguir só no sentido da seta"],
-              ["Sentido proibido («Cấm đi ngược chiều»)", "P.102", "Disco vermelho com barra branca horizontal, à entrada da rua", "Não entrar na rua por esse lado"]
+              [
+                "Sentido único («Đường một chiều»)",
+                "I.407, I.407a",
+                "Quadrado azul com seta branca, nos cruzamentos",
+                "Seguir só no sentido da seta"
+              ],
+              [
+                "Sentido proibido («Cấm đi ngược chiều»)",
+                "P.102",
+                "Disco vermelho com barra branca horizontal, à entrada da rua",
+                "Não entrar na rua por esse lado"
+              ]
             ]
           }
         },
@@ -72,12 +87,32 @@
         {
           "table": {
             "caption": "Infrações de sentido e de viragem para motas: valores nacionais do Decreto 168/2024/NĐ-CP",
-            "head": ["Infração", "Coima (VND)", "Pontos"],
+            "head": [
+              "Infração",
+              "Coima (VND)",
+              "Pontos"
+            ],
             "rows": [
-              ["Entrar ou circular em contramão (sentido proibido)", "4 a 6 milhões", "Menos 2"],
-              ["Contramão que cause acidente", "10 a 14 milhões", "Menos 10"],
-              ["Viragem à esquerda onde há sinal que a proíbe (P.123a)", "600 mil a 800 mil", "Menos 2"],
-              ["Inversão de marcha onde há sinal que a proíbe (P.124a)", "400 mil a 600 mil", "Menos 2"]
+              [
+                "Entrar ou circular em contramão (sentido proibido)",
+                "4 a 6 milhões",
+                "Menos 2"
+              ],
+              [
+                "Contramão que cause acidente",
+                "10 a 14 milhões",
+                "Menos 10"
+              ],
+              [
+                "Viragem à esquerda onde há sinal que a proíbe (P.123a)",
+                "600 mil a 800 mil",
+                "Menos 2"
+              ],
+              [
+                "Inversão de marcha onde há sinal que a proíbe (P.124a)",
+                "400 mil a 600 mil",
+                "Menos 2"
+              ]
             ]
           }
         },
@@ -118,16 +153,14 @@
       "h2": "Se entrou por engano ou o agente o mandar parar",
       "body": [
         "Se perceber que entrou numa rua pelo lado errado, o importante é não piorar a situação. Encoste junto à berma, se houver espaço, ou continue devagar até ao primeiro cruzamento e saia por aí, sempre a pensar nas motas e nos peões que vêm de frente. Não faça inversão de marcha a meio da rua.",
-        "Se um agente o mandar parar, mantenha a calma e siga as instruções. O guia sobre o [controlo da polícia](/guia-de-aluguer/controlo-da-policia/) explica o que fazer e que documentos ter à mão, e o dos [documentos da mota alugada](/guia-de-aluguer/documentos-da-mota-alugada/) indica o que confirmar com a loja. Se receber uma multa por câmara mais tarde, veja como [consultar multas pela matrícula](/guia-de-aluguer/consultar-multas-por-camara/) e [quem paga as multas num aluguer](/precos/multas-de-transito-no-aluguer/).",
-        "Convém ainda saber o que as fontes não cobrem. Não está confirmado o valor da coima de viragem à direita proibida, nem a lista de sentidos únicos do centro, nem se a Resolução de Hanói de 2026 agravou estas infrações. Perguntar à loja sobre o caminho entre o local de levantamento e o seu alojamento é uma forma simples de reduzir a incerteza."
+        "Se um agente o mandar parar, mantenha a calma e siga as instruções. O guia sobre o [controlo da polícia](/guia-de-aluguer/controlo-da-policia/) explica o que fazer e que documentos ter à mão, e o dos [documentos da mota alugada](/guia-de-aluguer/documentos-da-mota-alugada/) indica o que confirmar com a loja. Se receber uma multa por câmara mais tarde, veja como [consultar multas pela matrícula](/guia-de-aluguer/consultar-multas-por-camara/) e [quem paga as multas num aluguer](/precos/multas-de-transito-no-aluguer/)."
       ]
     },
     {
       "h2": "Antes de sair da loja: o que perguntar",
       "body": [
         "Estas perguntas não substituem os sinais, mas ajudam a ter um plano. Diga à loja onde fica o alojamento e peça-lhe que lhe indique, num mapa ou numa conversa, que cruzamentos do caminho têm sentido único ou viragem proibida. Pergunte também se há alguma rua do percurso que costume estar fechada ao trânsito. A loja é a única que pode responder pelo seu percurso habitual. Pode falar com a equipa de {{brand}} através dos [contactos](/contactos/); a loja está aberta {{hours}}.",
-        "Se partilhar a morada do alojamento, escreva-a por extenso e, para mostrar a um taxista ou a um agente, use a versão em vietnamita. A morada da loja em vietnamita é {{address.vi}}. O guia sobre as [moradas em Hanói](/guia-de-aluguer/moradas-em-hanoi/) explica como ler esta numeração e como pedir ajuda a quem a conhece.",
-        "Por fim, convém planear o primeiro dia sem pressa. Se puder, evite o Bairro Antigo logo à chegada e comece por vias mais largas. Para saber quando o trânsito é mais pesado, veja as [horas de ponta em Hanói](/guia-de-aluguer/horas-de-ponta-em-hanoi/)."
+        "Se partilhar a morada do alojamento, escreva-a por extenso e, para mostrar a um taxista ou a um agente, use a versão em vietnamita. A morada da loja em vietnamita é {{address.vi}}. O guia sobre as [moradas em Hanói](/guia-de-aluguer/moradas-em-hanoi/) explica como ler esta numeração e como pedir ajuda a quem a conhece."
       ]
     }
   ],
