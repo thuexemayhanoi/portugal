@@ -6,7 +6,7 @@
   "h1": "Aluguer de motas em Hanói, com condições claras",
   "primaryKeyword": "aluguer de motas em hanói",
   "lead": "Scooters automáticas, motas semiautomáticas, modelos de 50 cc e elétricos na loja Nguyễn Tú, em Long Biên. Veja os preços de referência, prepare os documentos e confirme cada detalhe antes de arrancar.",
-  "updated": "2026-10-12",
+  "updated": "2026-10-14",
   "hero": {
     "eyebrow": "Aluguer de motas · Hanói",
     "actions": [
@@ -38,7 +38,7 @@
       },
       {
         "icon": "phone",
-        "text": "Telefone e Zalo: {{phone.local}}"
+        "text": "Telefone · Zalo · WhatsApp: {{phone.local}}"
       }
     ],
     "panelTitle": "Preço por dia · referência",
@@ -76,7 +76,8 @@
       "body": [
         {
           "component": "price-table"
-        }
+        },
+        "Honda Wave e Yamaha Sirius: {{price.wave.day}}/dia. Honda Vision e Honda Air Blade: {{price.vision.day}}/dia. Mota de 50 cc: {{price.cc50.day}}/dia. Motas e bicicletas elétricas: sob consulta. Veja as tarifas de semana e mês na [tabela completa](/precos/)."
       ],
       "link": {
         "label": "O que está e o que não está incluído no preço",
@@ -92,7 +93,7 @@
           "steps": [
             {
               "title": "Contacte a loja",
-              "text": "Ligue ou escreva no Zalo para o {{phone}} com as datas, o modelo e o número de pessoas."
+              "text": "Ligue, use o Zalo ou o WhatsApp no {{phone}} e indique as datas, o modelo e o número de pessoas."
             },
             {
               "title": "Confirme as condições",
