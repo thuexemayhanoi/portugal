@@ -37,7 +37,7 @@
     {
       "h2": "A hora certa: o que a cidade diz sobre horas de ponta e camiões",
       "body": [
-        "Nenhuma fonte consultada define as horas «calmas» de Hanói. O que existe é uma referência oficial das horas de ponta. Segundo a Decisão 01/2026/QĐ-UBND, de 4 de janeiro de 2026, em vigor desde 15 de janeiro de 2026, os camiões com menos de 2 t só circulam no interior da cidade, até ao anel 3,5, fora das horas de ponta, definidas como 06:00 às 09:00 e 16:00 às 19:30. Os camiões de 2 t ou mais só circulam entre as 21:00 e as 06:00.",
+        "Nenhuma fonte consultada define as horas «calmas» de Hanói. O que existe é uma referência oficial das horas de ponta. Segundo a Decisão 01/2026/QĐ-UBND, de 4 de janeiro de 2026, em vigor desde 15 de janeiro, dentro do anel 3,5 os camiões com menos de 2 t só circulam fora das horas de ponta. Estas são definidas como 06:00 às 09:00 e 16:00 às 19:30. Os camiões de 2 t ou mais só circulam entre as 21:00 e as 06:00.",
         "Isto dá duas pistas úteis. A primeira é que as horas de ponta oficiais são de manhã e ao fim da tarde, pelo que um passeio de iniciação deve cair fora delas. A segunda é que à noite há mais camiões pesados, razão a mais para não fazer o primeiro passeio depois do jantar. A meio do dia, segundo esta norma, não há camiões de 2 t ou mais nessa área. Não verificámos a fiscalização, e a norma não diz que as ruas fiquem vazias: serve de referência, não de garantia.",
         "A loja está aberta {{hours}}. Levantar a mota, inspecioná-la e tratar do que for preciso leva o seu tempo, o que faz o primeiro passeio cair naturalmente depois das 09:00, quando acaba a primeira janela de ponta da manhã. O guia das [horas de ponta em Hanói](/guia-de-aluguer/horas-de-ponta-em-hanoi/) reúne as notícias sobre onde apertou o trânsito em 2026.",
         {
@@ -158,7 +158,7 @@
       "h2": "Depois do passeio: o que registar",
       "body": [
         "Ao regressar, pare uns minutos e tire notas, de cabeça ou no telemóvel. Responda a três perguntas: onde hesitou, o que correu melhor do que esperava e o que gostaria de repetir. A resposta diz-lhe se o passo seguinte é um circuito igual, um pouco mais longo ou mais um treino parado.",
-        "Se algo na mota o incomodou, como um travão esponjoso ou um espelho desajustado, diga-o à loja logo que possa, pelo {{phone}} ou na página de [Contactos](/contactos/). Não conduza uma mota de que não se fia. Para o passeio seguinte, o guia da [Rotas e mobilidade](/rotas-e-mobilidade/) reúne os itinerários urbanos."
+        "Se algo na mota o incomodou, como um travão esponjoso ou um espelho desajustado, diga-o à loja logo que possa, pelo {{phone}} ou na página de [Contactos](/contactos/). Não conduza uma mota de que não se fia. Para o passeio seguinte, os [itinerários urbanos](/rotas-e-mobilidade/itinerarios-urbanos/) e a página de [rotas e mobilidade](/rotas-e-mobilidade/) reúnem as ideias seguintes."
       ]
     },
     {

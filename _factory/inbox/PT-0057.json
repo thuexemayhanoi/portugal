@@ -45,7 +45,7 @@
         {
           "h3": "O argumento da carta: ainda não confirmado"
         },
-        "É comum ouvir que a bicicleta elétrica dispensa a carta de condução. Não o podemos afirmar: as fontes que consultámos tratam a carta para a mota elétrica, mas não para a bicicleta elétrica, e a definição legal de cada uma não apareceu. Uma mota elétrica de potência baixa pode já exigir carta, como mostra o guia da [carta para mota elétrica](/tipos-de-motas/carta-para-mota-eletrica/). Pergunte à loja se a unidade que lhe propõem exige carta ou idade mínima, e peça a resposta por escrito."
+        "Há quem parta do princípio de que, sem carta de mota, a bicicleta elétrica resolve o problema. Não podemos confirmá-lo: as fontes que consultámos tratam a carta para a mota elétrica, que depende da potência do motor, como explica o guia da [carta para mota elétrica](/tipos-de-motas/carta-para-mota-eletrica/), mas não a da bicicleta elétrica. Pergunte à loja que carta e que idade mínima exige a unidade que lhe propõem, e peça a resposta por escrito."
       ]
     },
     {
@@ -61,8 +61,8 @@
               ["Pontes sobre o rio Vermelho", "As rampas pedem esforço e a Long Biên tem circulação pela esquerda; em cheias já foi fechada a bicicletas", "O estado da ponte no dia e o percurso alternativo"],
               ["Chuva forte", "Piso molhado e visibilidade reduzida, sem a proteção de uma capa de mota", "A previsão e se tem onde se abrigar"],
               ["Calor do meio-dia", "O esforço soma-se ao calor, sobretudo nas subidas", "Horas do dia e pausas à sombra"],
-              ["Passageiro ou bagagem", "Muitas bicicletas elétricas não têm lugar para dois", "Se a unidade aceita passageiro e carga"],
-              ["Vias rápidas e autoestradas", "As autoestradas estão vedadas a motas e a veículos não motorizados", "Que ruas o percurso inclui"]
+              ["Passageiro ou bagagem", "Uma bicicleta pode não ter lugar para dois", "Se a unidade aceita passageiro e carga"],
+              ["Vias rápidas e autoestradas", "As autoestradas estão vedadas a motas e a bicicletas; não confirmámos o caso da elétrica", "Que ruas o percurso inclui"]
             ]
           }
         },
@@ -120,7 +120,7 @@
     },
     {
       "q": "Posso levar um passageiro na bicicleta elétrica?",
-      "a": "Depende da unidade, e muitas bicicletas elétricas não têm lugar para dois. Pergunte à loja se aceita passageiro. Se levar uma criança, o capacete conta e há uma exceção para menores de 6 anos, explicada no guia das regras."
+      "a": "Depende da unidade, e uma bicicleta pode não ter lugar para dois. Pergunte à loja se aceita passageiro. Se levar uma criança, o capacete conta e há uma exceção para menores de 6 anos, explicada no guia das regras."
     },
     {
       "q": "A bicicleta elétrica serve para atravessar as pontes de Hanói?",

@@ -1,0 +1,232 @@
+{
+  "contract_version": 1,
+  "id": "PT-0295",
+  "slug": "xich-lo-em-hanoi",
+  "title": "Xích lô em Hanói: como funciona e como combinar o preço",
+  "description": "Passeio de xích lô no Bairro Antigo de Hanói: o que dizem as fontes sobre empresas e preços, como combinar o valor antes de subir e como juntar a um dia de mota.",
+  "h1": "Passeio de xích lô em Hanói: preço, duração e regras do jogo",
+  "summary": "O xích lô é o triciclo de pedais dos passeios turísticos pelo Bairro Antigo e pelo lago Hoàn Kiếm, e o preço combina-se antes de subir. Os guias citam 100 a 150 mil VND por cerca de 30 minutos e 150 a 300 mil VND por percurso, sem tabela oficial. Acorde valor, duração e trajeto com o condutor antes de arrancar.",
+  "key_points": [
+    "Não encontrámos uma tabela oficial: os guias citam 100 a 150 mil VND por cerca de 30 minutos e 150 a 300 mil VND por percurso, sem datas firmes.",
+    "Combine antes de subir o trajeto, a duração, o preço total em VND e se vale por pessoa ou por veículo.",
+    "Os xích lô turísticos licenciados circulam à volta do Bairro Antigo e do lago; os elétricos improvisados são tratados pela imprensa como ilegais e inseguros.",
+    "Um piloto de xích lô elétricos foi proposto em março de 2026, sem aprovação confirmada; não conte com ele.",
+    "Num dia de mota, estacione uma vez num parque com funcionário e continue de xích lô ou a pé."
+  ],
+  "intro": [
+    "Poucas imagens resumem tão bem o Bairro Antigo de Hanói como o xích lô a atravessar as ruas estreitas com o passageiro à frente. É um passeio lento, que se faz sentado e sem ter de olhar para o trânsito, e muitos visitantes querem experimentá-lo uma vez.",
+    "A dificuldade é saber o que esperar: a oferta mistura serviços organizados por empresas de turismo e condutores que abordam o visitante na rua, e o preço raramente vem escrito. Este guia reúne o que as fontes dizem, aponta o que não conseguimos confirmar e propõe uma forma simples de combinar tudo antes de subir. Faz parte das [rotas e mobilidade](/rotas-e-mobilidade/) de Hanói e foi consultado a 14 de outubro de 2026."
+  ],
+  "sections": [
+    {
+      "h2": "O que é o xích lô e onde circula hoje",
+      "body": [
+        "O xích lô (ou ciclo) é um triciclo de pedais em que o passageiro vai sentado à frente e o condutor pedala atrás. Já foi um meio de transporte corrente na cidade e é hoje, sobretudo, um passeio turístico no centro. A imprensa vietnamita trata-o como símbolo do Bairro Antigo, e é por isso que o debate sobre o seu futuro tem altos e baixos, como mostram títulos como «Hà Nội sẽ không còn xích lô?» (Hanói deixará de ter xích lô?), do VnEconomy, e «Hà Nội chưa xóa bỏ xích lô», do Báo Pháp luật Việt Nam.",
+        "Quantos existem não é claro. Uma síntese de notícias aponta cerca de 80 xích lô de quatro empresas turísticas licenciadas, que circulam à volta do Bairro Antigo e do lago, dentro da área de Hoàn Kiếm que consta da licença. Segundo o VOV, de data não visível, haveria 260 com chapa da polícia, operados por empresas de turismo, e Hanói deixou de emitir matrículas para este tipo de veículo. Os números não batem certo e não temos como os conciliar, por isso não os tome como contagem.",
+        {
+          "note": "Os valores sobre regras e números de xích lô de 2009 (por exemplo, itinerários e paragens permitidos) já não valem como regra de 2026. A decisão de 2005 que os fixava consta como revogada.",
+          "tone": "warn",
+          "title": "Não aplique regras antigas"
+        }
+      ]
+    },
+    {
+      "h2": "Serviço organizado ou oferta na rua",
+      "body": [
+        "Na prática, o visitante pode encontrar duas situações. Uma é o passeio vendido por uma empresa de turismo licenciada, com veículo identificado. A outra é o condutor que oferece o passeio na rua, mais habitual nas ruas movimentadas à volta do lago, e que combina o preço na hora.",
+        "A imprensa tem acompanhado também os xích lô com motor elétrico improvisado, que aumentam na Cidade Velha. Segundo uma notícia do Znews, são tratados como ilegais e inseguros, e um responsável do Departamento de Turismo diz que, com motor, o xích lô perde o seu valor central. O Báo Mới, por sua vez, noticiou que a polícia de trânsito aperta a fiscalização dos xích lô elétricos à volta do lago; a data e as multas não aparecem no excerto que consultámos.",
+        "Em 9 de março de 2026, o Tuổi Trẻ noticiou que o Departamento de Construção propôs à Câmara um piloto de 12 meses com xích lô elétricos, explorados pela empresa municipal Tổng công ty Du lịch Hà Nội, com cerca de 80 veículos. A aprovação não foi confirmada. A notícia refere que motorizar o xích lô atual para triciclo não cumpriria a norma técnica QCVN 14:2024/BGTVT.",
+        "O que isto significa para si: o xích lô tradicional continua a ser um serviço turístico licenciado, enquanto os veículos com motor improvisado são um risco. Se o veículo tiver motor, pergunte quem o opera e prefira recusar o passeio."
+      ]
+    },
+    {
+      "h2": "Quanto custa: o que os guias citam",
+      "body": [
+        "Não existe preço oficial por hora. Encontrámos duas referências, ambas de sites comerciais e sem confirmação oficial:",
+        {
+          "table": {
+            "caption": "Preços de passeio de xích lô citados por guias (VND, valores de referência)",
+            "head": ["Fonte", "Passeio", "Preço citado"],
+            "rows": [
+              ["Guia de viagem Nomadotravel (sem data)", "Volta de cerca de 30 minutos pelo Bairro Antigo", "100 a 150 mil VND, a combinar antes"],
+              ["Blogue de viagens (atualizado em 2025)", "Percurso, sem duração indicada", "150 a 300 mil VND, negociável com o condutor"]
+            ]
+          }
+        },
+        "A Vinpearl tem uma página sobre o preço do xích lô em Hanói, atualizada a 11 de novembro de 2025, mas os valores não são visíveis na versão que consultámos. Não encontrámos preço para uma hora, nem sabemos se o valor é por pessoa ou por veículo.",
+        "A conclusão é simples: trate estes números como ordem de grandeza e peça sempre o preço total antes de subir. Para ler valores em dong sem enganos, o guia sobre [ler preços em dong](/precos/ler-precos-em-dong/) ajuda a contar os zeros."
+      ]
+    },
+    {
+      "h2": "Como combinar o preço e a duração antes de subir",
+      "body": [
+        "As fontes não trazem um procedimento oficial, por isso o que se segue é um conselho prático, não uma regra. A ideia é deixar tudo claro antes de o condutor começar a pedalar:",
+        {
+          "steps": [
+            {
+              "title": "Pergunte o preço total em dong",
+              "text": "Peça o valor para o passeio inteiro, e não por quilómetro ou por minuto. Escreva-o na calculadora do telemóvel e mostre-o ao condutor, para ficar sem dúvidas sobre os zeros."
+            },
+            {
+              "title": "Diga se são uma ou duas pessoas",
+              "text": "Pergunte se o preço vale para o veículo ou por pessoa. As fontes não esclarecem, e a diferença pode duplicar a conta."
+            },
+            {
+              "title": "Fixe a duração e o ponto de chegada",
+              "text": "Combine, por exemplo, 30 minutos e o local onde o passeio acaba. Se o condutor não aceitar, desista antes de subir."
+            },
+            {
+              "title": "Combine as paragens",
+              "text": "Se quiser parar para fotografar ou comer, peça que fique dito e pergunte se isso altera o preço."
+            },
+            {
+              "title": "Pague no fim, com o troco à mão",
+              "text": "Leve notas pequenas e pague o valor combinado quando o passeio terminar. Se o valor pedido mudar, lembre o que ficou combinado."
+            }
+          ]
+        },
+        "Se algum passo for recusado ou o preço parecer sem sentido, deixe passar: há muitas alternativas ao passeio, e um bom passeio a pé custa menos do que uma discussão. A mesma prudência aplica-se a [táxis em Hanói](/rotas-e-mobilidade/taxis-em-hanoi/) e a qualquer serviço sem preço afixado."
+      ]
+    },
+    {
+      "h2": "Percursos habituais: o que sabemos e o que não",
+      "body": [
+        "Não encontrámos uma lista de itinerários atuais publicada pelas empresas ou pela cidade. O que as notícias permitem dizer é que os xích lô turísticos circulam à volta do Bairro Antigo e do lago Hoàn Kiếm, dentro da área que consta da licença, e que o centro histórico é o seu território.",
+        "Em 2009, o VnEconomy referia regras mais apertadas: apenas fora das horas de ponta, apenas em dois itinerários e apenas com duas paragens, uma no passeio da Yên Phụ e outra na Trần Quang Khải. Eram números de 2009 e não valem como regra de 2026, mas ajudam a perceber porque o passeio tradicional é curto e concentrado.",
+        "Ao combinar o passeio, peça que lhe digam o itinerário antes de subir. Para ter uma ideia do que ver nas mesmas ruas, o guia do [Bairro Antigo e Hoàn Kiếm](/zonas-de-hanoi/bairro-antigo-e-hoan-kiem/) descreve a zona, e o da [zona pedonal do lago Hoàn Kiếm](/zonas-de-hanoi/zona-pedonal-do-lago-hoan-kiem/) explica o que fecha às noites de fim de semana.",
+        "Esse fecho tem uma regra importante. De 1 de julho a 31 de dezembro de 2026, na primeira fase do piloto de baixas emissões, a zona 1 do lago e do mercado noturno fecha às motas, aos ciclomotores e aos automóveis, de sexta a domingo, das 19:00 às 24:00. As fontes não dizem o que acontece aos xích lô nessas horas, e uma segunda fase está prevista para 2027. Pergunte antes de planear um passeio ao fim de semana à noite."
+      ]
+    },
+    {
+      "h2": "Num dia de mota: estacionar uma vez e continuar de xích lô",
+      "body": [
+        "Quem tem uma mota alugada pode usar o xích lô como o troço sem trânsito do dia. O plano é o mesmo que o guia do [Bairro Antigo a pé ou de mota](/zonas-de-hanoi/bairro-antigo-a-pe-ou-de-mota/) propõe: chegar de mota, estacionar uma só vez num parque com funcionário, pedir a senha com o preço impresso e fazer o resto sem a mota.",
+        {
+          "ul": [
+            "**Onde deixar a mota:** num parque com funcionário, de preferência na orla da zona e não no meio. O guia sobre [estacionar no Bairro Antigo](/zonas-de-hanoi/estacionar-no-bairro-antigo/) explica as senhas, os preços máximos e as cobranças a mais já documentadas.",
+            "**A que horas:** em dias de semana a mota entra mais à vontade; de sexta a domingo, estacione fora da zona antes das 18:00, como aconselha o guia da [zona de baixas emissões de Hanói](/tipos-de-motas/zona-de-baixas-emissoes-hanoi/), para não ficar do lado errado das barreiras às 19:00.",
+            "**Para voltar à mota:** combine com o condutor deixar-no junto ao parque ou num ponto fácil de reconhecer no mapa.",
+            "**Se beber algo durante a noite:** não regresse de mota. A lei não admite álcool a quem conduz, como explica o guia do [álcool zero ao volante](/guia-de-aluguer/alcool-zero-ao-volante/); para o regresso, veja como [voltar à noite sem conduzir](/rotas-e-mobilidade/voltar-a-noite-sem-conduzir/)."
+          ]
+        },
+        "Conduzir dentro do bairro exige mais cuidado do que parece: ruas estreitas, sentidos únicos e peões na faixa de rodagem. Veja o guia sobre [conduzir no Bairro Antigo](/zonas-de-hanoi/conduzir-no-bairro-antigo/) antes de entrar. E se o dia incluir cansaço ou chuva forte, pondere deixar a mota de vez, como no guia de [quando não conduzir](/rotas-e-mobilidade/quando-nao-conduzir/).",
+        "Para decidir se vale a pena ter a mota durante o dia ou apanhar táxis, o confronto entre [mota alugada e Grab](/precos/mota-alugada-ou-grab/) mostra as contas. Se quiser tratar da mota antes, fale com a loja {{brand}} pelos [contactos](/contactos/), pelo telefone {{phone}}, e a loja está aberta {{hours}}. Os documentos de qualquer aluguer estão em [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/)."
+      ]
+    },
+    {
+      "h2": "Segurança e boas maneiras durante o passeio",
+      "body": [
+        "O passageiro do xích lô vai à frente do veículo, sem proteção, e partilha as ruas com motas que passam muito perto. Por isso, mantenha as mãos e os pés dentro do veículo, e não estenda o braço com o telemóvel para a faixa de rodagem.",
+        "Guarde os objetos de valor junto a si e evite deixar a mochila no assento ao lado. Se o condutor parar numa loja ou num restaurante que não pediu, diga que prefere seguir o itinerário combinado.",
+        "Na época das chuvas e nos dias de calor intenso o passeio é menos agradável: prefira a manhã ou o fim da tarde. E se o condutor propuser um desvio ou uma paragem sem lhe perguntar, lembre o que ficou combinado e peça para voltar ao percurso."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Quanto custa um passeio de xích lô em Hanói?",
+      "a": "Não há tabela oficial. Os guias citam 100 a 150 mil VND por uma volta de cerca de 30 minutos pelo Bairro Antigo e 150 a 300 mil VND por percurso. Combine sempre o preço total antes de subir."
+    },
+    {
+      "q": "O preço vale por pessoa ou por veículo?",
+      "a": "As fontes não esclarecem. Pergunte ao condutor antes de subir se o valor é para o veículo ou por pessoa, e acorde também a duração e o ponto de chegada."
+    },
+    {
+      "q": "Os xích lô elétricos são legais em Hanói?",
+      "a": "Os veículos com motor improvisado são tratados pela imprensa como ilegais e inseguros. Em março de 2026 foi proposto um piloto com xích lô elétricos, mas a aprovação não foi confirmada. Pergunte quem opera o veículo."
+    },
+    {
+      "q": "Posso apanhar um xích lô no fim de semana à noite?",
+      "a": "As fontes consultadas não dizem. O que está confirmado é que a zona 1 do centro fecha às motas de sexta a domingo, das 19:00 às 24:00, durante a primeira fase do piloto de baixas emissões. Confirme antes no local."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Hà Nội đề xuất thí điểm xích lô điện phục vụ khách du lịch",
+      "publisher": "Tuổi Trẻ",
+      "url": "https://tuoitre.vn/ha-noi-de-xuat-thi-diem-xich-lo-dien-phuc-vu-khach-du-lich-2026030915590895.htm",
+      "accessed": "2026-10-14",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Xích lô Hà Nội: Từ phương tiện mưu sinh đến gợi mở về du lịch di sản",
+      "publisher": "VOV",
+      "url": "https://vov.vn/du-lich/san-tour/xich-lo-ha-noi-tu-phuong-tien-muu-sinh-den-goi-mo-ve-du-lich-di-san-post1312784.vov",
+      "accessed": "2026-10-14",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Hà Nội sẽ không còn xích lô?",
+      "publisher": "VnEconomy",
+      "url": "https://vneconomy.vn/ha-noi-se-khong-con-xich-lo.htm",
+      "accessed": "2026-10-14",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Hà Nội dừng cấp biển số cho xe xích lô",
+      "publisher": "VOV",
+      "url": "https://vov.vn/tin-24h/ha-noi-dung-cap-bien-so-cho-xe-xich-lo-989094.vov",
+      "accessed": "2026-10-14",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Siết chặt quản lý xích lô điện quanh hồ Gươm",
+      "publisher": "Báo Mới (baomoi.com)",
+      "url": "https://baomoi.com/siet-chat-quan-ly-xich-lo-dien-quanh-ho-guom-c55335336.epi",
+      "accessed": "2026-10-14",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Notícia sobre a chegada de xích lô elétricos ao turismo de Hanói (em vietnamita)",
+      "publisher": "Znews",
+      "url": "https://znews.vn/sap-co-xich-lo-dien-xuong-dien-du-lich-o-ha-noi-post1633426.html",
+      "accessed": "2026-10-14",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Di chuyển ở Hà Nội: Tổng hợp các phương tiện, ưu nhược điểm và giá cả",
+      "publisher": "nomadotravel.app",
+      "url": "https://www.nomadotravel.app/vi/guides/getting-around-hanoi",
+      "accessed": "2026-10-14",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Giá xích lô Hà Nội",
+      "publisher": "Vinpearl",
+      "url": "https://vinpearl.com/vi/gia-xich-lo-ha-noi",
+      "accessed": "2026-10-14",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Anexo do plano da zona de baixas emissões de Hanói (PDF em vietnamita)",
+      "publisher": "Departamento de Agricultura e Ambiente de Hanói (sonnmt.hanoi.gov.vn)",
+      "url": "https://sonnmt.hanoi.gov.vn/images/Ph%20lc%203237.pdf",
+      "accessed": "2026-10-14",
+      "type": "official",
+      "lang": "vi"
+    },
+    {
+      "title": "Ha Noi begins restricting fossil-fuel vehicles in low-emission zones",
+      "publisher": "Portal do Governo do Vietname (chinhphu.vn) — Hanoi Capital",
+      "url": "https://hanoicapital.chinhphu.vn/ha-noi-begins-restricting-fossil-fuel-vehicles-in-low-emission-zones-110260702082825273.htm",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    },
+    "tuoitre-alcool-zero"
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "READY_FOR_QA"
+}
