@@ -33,7 +33,7 @@ const SAMPLES = {
 };
 const TYPES = { '.html': 'text/html; charset=utf-8', '.css': 'text/css', '.js': 'text/javascript', '.json': 'application/json', '.svg': 'image/svg+xml', '.png': 'image/png', '.jpg': 'image/jpeg', '.txt': 'text/plain', '.xml': 'application/xml' };
 
-// Minimal static server for the generated site (gzip is not simulated: transfer sizes are upper bounds).
+// Minimal static server for the generated site (no gzip: transfer sizes are upper bounds of what GitHub Pages sends).
 const server = http.createServer((req, res) => {
   const url = decodeURIComponent(req.url.split('?')[0]);
   let file = rel(url.replace(/^\//, ''));
@@ -66,12 +66,9 @@ for (const [name, url] of Object.entries(SAMPLES)) {
     new PerformanceObserver((l) => l.getEntries().forEach((e) => !e.hadRecentInput && (window.__cls += e.value))).observe({ type: 'layout-shift', buffered: true });
     new PerformanceObserver((l) => l.getEntries().forEach((e) => (window.__tbt += Math.max(0, e.duration - 50)))).observe({ type: 'longtask', buffered: true });
   });
+  // Bytes on the wire per finished request, as reported by Chromium (no pending body reads to race).
   let bytes = 0;
-  page.on('response', async (r) => {
-    try {
-      bytes += (await r.body()).length;
-    } catch {}
-  });
+  cdp.on('Network.loadingFinished', (e) => (bytes += e.encodedDataLength));
   await page.goto(base + url, { waitUntil: 'load' });
   await page.waitForTimeout(1500);
   const m = await page.evaluate(() => {

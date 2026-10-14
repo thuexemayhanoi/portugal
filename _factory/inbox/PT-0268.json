@@ -1,0 +1,398 @@
+{
+  "contract_version": 1,
+  "id": "PT-0268",
+  "slug": "hanoi-a-noite-de-mota",
+  "title": "Passeio noturno de mota em Hanói: horas, paragens e regresso",
+  "description": "Passeio noturno de mota em Hanói: a hora do pôr do sol por estação, as noites em que o centro fecha às motas, paragens possíveis e regresso sem álcool.",
+  "h1": "Hanói à noite de mota: um passeio do pôr do sol ao regresso, sem álcool",
+  "summary": "Para um passeio noturno de mota em Hanói, o pôr do sol cai entre as 17:17 e as 18:40 conforme a estação, sempre dentro da ponta da tarde; regresse sem álcool e à hora combinada com a loja. De sexta a domingo, das 19:00 às 24:00, as motas não entram na zona pedonal do lago Hoàn Kiếm nem nas ruas do mercado noturno: nessas noites, escolha paragens fora dessa zona.",
+  "key_points": [
+    "O pôr do sol em Hanói cai por volta das 17:17–17:19 em dezembro, das 17:35–17:37 em janeiro e das 18:39–18:40 em junho.",
+    "O pôr do sol cai sempre dentro da ponta da tarde (das 16:00 às 19:30, referência da cidade): estacione para o ver ou aceite o trânsito.",
+    "À data de 13 de outubro de 2026, a zona 1 do centro, com o lago Hoàn Kiếm e o mercado noturno, fecha às motas de sexta a domingo, das 19:00 às 24:00.",
+    "Não encontrámos fontes sobre o Lago Oeste à noite nem sobre parques junto a cada paragem: o guia dá o método e as regras, não promete vistas.",
+    "Quem conduz bebe zero, e a buzina é proibida das 22:00 às 05:00 em zonas densamente povoadas."
+  ],
+  "intro": [
+    "Ao fim do dia, três relógios mandam no passeio de mota em Hanói: o do pôr do sol, o da ponta da tarde e o das restrições do centro, que às sextas, sábados e domingos fecham parte do centro às motas. Quem aluga uma mota para ver a cidade ao anoitecer tem de os combinar, e é isso que este guia faz.",
+    "O passeio noturno aqui proposto organiza-se por horas e por regras, e não por promessas de vistas: as fontes consultadas dão horários, restrições e regras, mas não miradouros, iluminação nem parques junto a cada paragem, e dizemo-lo onde é o caso. A técnica de condução noturna (luzes, visibilidade, cansaço) não é tratada aqui. Os factos foram verificados em fontes publicadas até 13 de outubro de 2026."
+  ],
+  "sections": [
+    {
+      "h2": "A hora certa: pôr do sol e ponta da tarde",
+      "body": [
+        "O pôr do sol em Hanói varia cerca de uma hora e vinte minutos ao longo do ano. Segundo tabelas de 2026 para o dia 15 de cada mês, é mais cedo em dezembro e mais tarde em junho:",
+        {
+          "table": {
+            "caption": "Hora do pôr do sol em Hanói (tabelas de 2026, dia 15 de cada mês) e ponta da tarde",
+            "head": [
+              "Mês",
+              "Pôr do sol",
+              "Em relação à ponta da tarde (16:00–19:30)"
+            ],
+            "rows": [
+              [
+                "Dezembro (mais cedo)",
+                "17:17–17:19",
+                "Cai a meio da ponta"
+              ],
+              [
+                "Janeiro",
+                "17:35–17:37",
+                "Cai a meio da ponta"
+              ],
+              [
+                "Junho (mais tarde)",
+                "18:39–18:40",
+                "Cai perto do fim da ponta"
+              ]
+            ]
+          }
+        },
+        "Os valores diferem um ou dois minutos entre as fontes, e nos meses intermédios o pôr do sol fica entre estes extremos. A própria cidade aplica, na zona 2 de Hoàn Kiếm, janelas de ponta das 06:00 às 09:00 e das 16:00 às 19:30, para restringir os autocarros grandes, e é razoável tomá-las como referência. O pôr do sol cai, por isso, sempre dentro da ponta da tarde.",
+        "Há duas formas de organizar o serão:",
+        {
+          "ul": [
+            "**Ver o pôr do sol a pé.** Estacione antes, veja a luz acabar com calma e arranque só depois das 19:30, já fora da janela de ponta.",
+            "**Ver o pôr do sol em andamento.** Aceite o trânsito de regresso a casa, mantenha distância e velocidade baixa e deixe a travessia da ponte para quem já tem hábito de conduzir em Hanói."
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "Que noite escolher: o que muda de sexta a domingo",
+      "body": [
+        "À data de 13 de outubro de 2026, decorre a primeira fase do piloto da zona de baixas emissões de Hanói, de 1 de julho a 31 de dezembro de 2026. Na zona 1, que abrange o espaço pedonal do lago Hoàn Kiếm e as ruas do mercado noturno do Bairro Antigo, motas, ciclomotores e automóveis não podem entrar de sexta a domingo, das 19:00 às 24:00. A lista oficial de ruas inclui a Hàng Đào, a Hàng Buồm, a Lê Thái Tổ e a Tràng Tiền. A regra vale para qualquer mota, a gasolina ou elétrica.",
+        {
+          "table": {
+            "caption": "O que muda para quem vai de mota, conforme a noite (verificado a 13 de outubro de 2026)",
+            "head": [
+              "",
+              "Segunda a quinta",
+              "Sexta a domingo"
+            ],
+            "rows": [
+              [
+                "Zona 1: lago Hoàn Kiếm e ruas do mercado noturno",
+                "Sem a restrição das noites de fim de semana",
+                "Fechada às motas das 19:00 às 24:00"
+              ],
+              [
+                "Mercado noturno, da rua Hàng Đào ao mercado Đồng Xuân",
+                "As fontes só o indicam de sexta a domingo",
+                "Das 18:00 às 23:00 ou às 22:30, conforme a fonte"
+              ],
+              [
+                "Programa noturno da prisão de Hỏa Lò",
+                "As fontes só o indicam de sexta a domingo",
+                "Das 19:00 às 20:30, segundo um guia de viagem"
+              ]
+            ]
+          }
+        },
+        "Fora das noites de fim de semana, o lago e o Bairro Antigo não têm esta restrição, mas as ruas continuam estreitas, com sentidos únicos e peões na faixa de rodagem: o guia para [conduzir no Bairro Antigo](/zonas-de-hanoi/conduzir-no-bairro-antigo/) explica como lá circular.",
+        "Em feriados, o calendário muda: em 2024, o espaço pedonal do lago funcionou das 19:00 de sexta, 26 de abril, às 24:00 de quarta, 1 de maio. Confirme no próprio dia."
+      ]
+    },
+    {
+      "h2": "Quatro paragens possíveis",
+      "body": [
+        {
+          "h3": "Ponte Long Biên ao pôr do sol"
+        },
+        "A ponte de ferro foi construída pelos franceses, com obras iniciadas em 1898 e inauguração em 1902, e é partilhada entre motas, bicicletas e peões, com os automóveis de fora. Ao pôr do sol está dentro da ponta da tarde, e a faixa é estreita: não pare no tabuleiro e deixe as fotografias para o passeio dos peões, a pé. Não encontrámos fontes sobre a iluminação da ponte à noite. O estado da ponte (fechou para obras em 2026) e a alternativa pela ponte Chương Dương estão no guia da [ponte Long Biên de mota](/zonas-de-hanoi/ponte-long-bien/).",
+        {
+          "h3": "Lago Oeste: o que os guias dizem sobre a noite"
+        },
+        "A estrada que contorna o lago passa pelas ruas Thanh Niên, Thụy Khuê, Âu Cơ, Nghi Tàm e Lạc Long Quân, segundo os guias de viagem. Não encontrámos fontes sobre o trânsito, a iluminação nem o estacionamento da margem à noite. O que os guias dão são horários: o Phủ Tây Hồ está aberto até às 19:00, e o pagode Trấn Quốc fecha ao fim da tarde, entre as 16:00 e as 18:00 conforme a fonte. Para ver o interior, tem de chegar antes. O mercado de flores de Quảng An, na Âu Cơ, só abre à noite, às 22:00 ou às 23:00 conforme os guias, e fica para depois da hora de fecho da loja.",
+        {
+          "h3": "Lago Hoàn Kiếm e Bairro Antigo, de segunda a quinta"
+        },
+        "Sem a restrição da zona 1, o lago e o Bairro Antigo podem ser feitos de mota nestas noites, devagar. Depois das 22:00, lembre-se de que a buzina é proibida nas zonas densamente povoadas, como o Bairro Antigo, até às 05:00. De sexta a domingo, estacione antes das 19:00 num parque fora da zona e entre a pé.",
+        {
+          "h3": "Tống Duy Tân, para comer tarde"
+        },
+        "A imprensa vietnamita chama à rua Tống Duy Tân «a rua que nunca dorme», e as fontes dão o maior movimento do fim da tarde à noite. É uma paragem possível para jantar, sem álcool para quem conduz, mas não temos fontes fiáveis sobre o estacionamento: use um parque com senha e confirme o preço antes."
+      ]
+    },
+    {
+      "h2": "Estacionamento em cada paragem: o que se sabe e o que perguntar",
+      "body": [
+        "Os guias e a imprensa que consultámos não trazem parques junto às paragens de um passeio noturno, e não os inventamos. A tabela dá o que há de verificado e o que perguntar em cada sítio.",
+        {
+          "table": {
+            "caption": "Onde parar em cada paragem: factos verificados e o que perguntar",
+            "head": [
+              "Paragem",
+              "O que se sabe",
+              "O que fazer"
+            ],
+            "rows": [
+              [
+                "Ponte Long Biên",
+                "Não há sítio para parar no tabuleiro; a visita faz-se a pé, pelo passeio dos peões",
+                "Deixe a mota num parque com funcionário do lado do Bairro Antigo e volte a pé"
+              ],
+              [
+                "Lago Oeste",
+                "Não encontrámos fontes sobre parques da margem à noite",
+                "Se vai jantar, pergunte ao café ou restaurante se guarda as motas; não pare na berma"
+              ],
+              [
+                "Lago Hoàn Kiếm e Bairro Antigo",
+                "A cidade organizou 220 pontos de estacionamento para a área da zona de baixas emissões",
+                "Escolha um da lista publicada pela VOV, fora da zona 1 se for sexta, sábado ou domingo"
+              ],
+              [
+                "Rua Tống Duy Tân",
+                "Sem fontes sobre parques",
+                "Parque com funcionário, senha com o preço impresso e hora de fecho confirmada"
+              ]
+            ]
+          }
+        },
+        "Em qualquer parque, peça a senha, pergunte o preço e até que horas está aberto, e fotografe a senha, a mota e a placa da rua. O preço de guarda de motas tem limites máximos fixados pela Decisão 44/2017/QĐ-UBND, mas os montantes não constam das fontes consultadas: o que vale é o preço impresso na senha.",
+        "Parar ou estacionar sem autorização na faixa de rodagem ou no passeio dá coima de 400 mil a 600 mil VND, segundo o Decreto 168/2024/NĐ-CP (artigo 7.º, n.º 2, alínea d). À noite, uma mota em cima do passeio à porta de uma esplanada é o erro mais fácil de cometer."
+      ]
+    },
+    {
+      "h2": "Regresso sem álcool e à hora combinada",
+      "body": [
+        "Para quem conduz, não há margem: a Lei n.º 36/2024/QH15, em vigor desde 1 de janeiro de 2025, não admite qualquer concentração de álcool no sangue ou no ar expirado, em qualquer mota. O guia sobre [álcool e condução no Vietname](/guia-de-aluguer/alcool-zero-ao-volante/) explica a regra e como organizar as noites.",
+        {
+          "ul": [
+            "**Se vai beber**, a mota fica no alojamento ou no parque e o regresso faz-se de táxi ou de aplicação de transporte.",
+            "**Se mudou de ideias a meio da noite**, deixe a mota num parque, pergunte até que horas fecha e vá buscá-la no dia seguinte, já sem álcool no organismo.",
+            "**Se vai em grupo**, só conduz quem não bebe nada, do princípio ao fim da noite."
+          ]
+        },
+        "Há ainda a hora de devolução. A loja {{brand}}, em {{area}}, está aberta {{hours}}, e um passeio que começa ao pôr do sol e inclui jantar acaba, muitas vezes, perto ou depois dessa hora. Combine antes, por escrito, a hora de devolução e onde deixar a mota se chegar tarde: o guia sobre [horas de levantamento e devolução](/precos/horas-de-levantamento-e-devolucao/) mostra o que perguntar.",
+        {
+          "checklist": [
+            "Leve a carta de condução e os documentos pedidos; o guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/) explica o que conta para alugar e para conduzir.",
+            "Guarde no telemóvel o número da loja, {{phone}}, e a morada em vietnamita, {{address.vi}}, para o regresso.",
+            "Capacete apertado e telemóvel guardado durante a condução; o mapa vê-se com a mota parada.",
+            "Se nunca conduziu uma mota, o guia para quem [nunca conduziu uma mota](/tipos-de-motas/nunca-conduziu-uma-mota/) ajuda a decidir se este passeio é para si."
+          ]
+        },
+        "Outros percursos pela cidade vão sendo reunidos em [Rotas e mobilidade](/rotas-e-mobilidade/), e o itinerário de [Hanói de mota num dia](/rotas-e-mobilidade/hanoi-de-mota-num-dia/) mostra como juntar estas zonas durante o dia. Os mercados, de dia, estão no [roteiro dos mercados de Hanói de mota](/rotas-e-mobilidade/roteiro-dos-mercados/). Para falar com a loja, use os [contactos](/contactos/)."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "A que horas se põe o sol em Hanói?",
+      "a": "Segundo tabelas de 2026 para o dia 15 de cada mês, por volta das 17:17–17:19 em dezembro, das 17:35–17:37 em janeiro e das 18:39–18:40 em junho. Nos outros meses fica entre estes valores."
+    },
+    {
+      "q": "Posso passear de mota à volta do lago Hoàn Kiếm numa sexta à noite?",
+      "a": "À data de 13 de outubro de 2026, não entre as 19:00 e as 24:00: a zona 1 do piloto de baixas emissões, que inclui o espaço pedonal do lago e as ruas do mercado noturno, está fechada às motas de sexta a domingo. Estacione antes, fora da zona, e faça o passeio a pé."
+    },
+    {
+      "q": "Os templos do Lago Oeste estão abertos à noite?",
+      "a": "Segundo os guias consultados, o Phủ Tây Hồ está aberto até às 19:00 e o pagode Trấn Quốc fecha ao fim da tarde, entre as 16:00 e as 18:00 conforme a fonte. Os horários divergem e mudam em dias de festa, por isso confirme no próprio dia."
+    },
+    {
+      "q": "Posso usar a buzina à noite em Hanói?",
+      "a": "A Lei n.º 36/2024/QH15 só admite a buzina para alertar de um perigo ou antes de uma ultrapassagem. Proíbe-a entre as 22:00 e as 05:00 em zonas densamente povoadas e também junto a unidades de saúde, salvo veículos prioritários em serviço. Veja o guia sobre a [buzina no Vietname](/guia-de-aluguer/a-buzina-no-vietname/)."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Tabela de nascer e pôr do sol em Hanói (em inglês)",
+      "publisher": "Alpenglow",
+      "url": "https://www.alpenglowapp.com/times/hanoi",
+      "accessed": "2026-10-13",
+      "type": "reference",
+      "lang": "en"
+    },
+    {
+      "title": "Tabela de nascer e pôr do sol no Vietname (em inglês)",
+      "publisher": "Geo Countries",
+      "url": "https://www.geocountries.com/sunrise-sunset/vietnam",
+      "accessed": "2026-10-13",
+      "type": "reference",
+      "lang": "en"
+    },
+    {
+      "title": "Tabela de horas de luz em Hanói (em inglês)",
+      "publisher": "sunrisesunsettime.org",
+      "url": "https://www.sunrisesunsettime.org/asia/vietnam/hanoi.htm",
+      "accessed": "2026-10-13",
+      "type": "reference",
+      "lang": "en"
+    },
+    {
+      "title": "Ha Noi begins restricting fossil-fuel vehicles in low-emission zones",
+      "publisher": "Portal do Governo do Vietname (chinhphu.vn) — Hanoi Capital",
+      "url": "https://hanoicapital.chinhphu.vn/ha-noi-begins-restricting-fossil-fuel-vehicles-in-low-emission-zones-110260702082825273.htm",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    },
+    "vietnamnet-zbe-revisao",
+    {
+      "title": "Hà Nội today launches low-emission zone within Ring Road 1",
+      "publisher": "Việt Nam News",
+      "url": "https://vietnamnews.vn/society/1784486/ha-noi-today-launches-low-emission-zone-within-ring-road-1.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "en"
+    },
+    {
+      "title": "Chi tiết danh sách các điểm gửi xe khi đi vào vùng phát thải thấp ở Hà Nội",
+      "publisher": "VOV — Đài Tiếng nói Việt Nam",
+      "url": "https://vov.vn/xa-hoi/chi-tiet-danh-sach-cac-diem-gui-xe-khi-di-vao-vung-phat-thai-thap-o-ha-noi-post1311206.vov",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Kéo dài hoạt động không gian đi bộ hồ Hoàn Kiếm trong dịp nghỉ lễ 30/4 và 1/5",
+      "publisher": "VietnamPlus",
+      "url": "https://www.vietnamplus.vn/keo-dai-hoat-dong-khong-gian-di-bo-ho-hoan-kiem-trong-dip-nghi-le-304-va-15-post941816.vnp",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Guia de viagem sobre o mercado Đồng Xuân (em vietnamita)",
+      "publisher": "mia.vn",
+      "url": "https://mia.vn/cam-nang-du-lich/cho-dong-xuan-khu-cho-noi-tieng-va-sam-uat-nhat-thanh-pho-thu-do-2634",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Guia de experiências no mercado Đồng Xuân (em vietnamita)",
+      "publisher": "Vinpearl",
+      "url": "https://vinpearl.com/vi/cho-dong-xuan-ha-noi-co-gi-thu-vi-top-trai-nghiem-hap-dan-nhat",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Guia de viagem sobre os mercados de Hanói (em vietnamita)",
+      "publisher": "Vietnam Airlines",
+      "url": "https://www.vietnamairlines.com/ie/vi/plan-book/travel/travel-guide/hanoi-markets",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Nhà tù Hỏa Lò: Lịch sử, Giá vé & Kinh nghiệm tham quan 2026",
+      "publisher": "Jungle Boss Tours",
+      "url": "https://junglebosstours.com/vi/kham-pha/blog-du-lich/nha-tu-hoa-lo",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Phố ẩm thực Tống Duy Tân thay “áo mới”",
+      "publisher": "Nhân Dân",
+      "url": "https://nhandan.vn/pho-am-thuc-tong-duy-tan-thay-ao-moi-post855510.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Guia de viagem sobre o Lago Oeste (em vietnamita)",
+      "publisher": "Vinpearl",
+      "url": "https://vinpearl.com/vi/ho-tay-ha-noi",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Guia de viagem sobre o Lago Oeste de Hanói (em vietnamita)",
+      "publisher": "Vietnam Airlines",
+      "url": "https://www.vietnamairlines.com/at/vi/plan-book/travel/travel-guide/hanoi-west-lake",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Top 7 Beautiful Temples And Pagodas In Hanoi Must Visit",
+      "publisher": "Hanoi Voyage",
+      "url": "https://www.hanoivoyage.com/en/blog/7-ha-noi-beautiful-temples-and-pagodas.html",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "en"
+    },
+    {
+      "title": "Guia de viagem sobre o Phủ Tây Hồ (em vietnamita)",
+      "publisher": "MIA.vn",
+      "url": "https://mia.vn/cam-nang-du-lich/phu-tay-ho-13093",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Guia de viagem sobre o Phủ Tây Hồ (em vietnamita)",
+      "publisher": "Vinpearl",
+      "url": "https://vinpearl.com/vi/phu-tay-ho-ha-noi",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Hấp dẫn chợ hoa Quảng An",
+      "publisher": "Nhân Dân",
+      "url": "https://nhandan.vn/hap-dan-cho-hoa-quang-an-post733459.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Guia de viagem sobre a ponte Long Biên (em vietnamita)",
+      "publisher": "Vietnam Airlines",
+      "url": "https://www.vietnamairlines.com/at/vi/plan-book/travel/travel-guide/long-bien-bridge",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Chuyện về những cây cầu",
+      "publisher": "Tạp chí Công Thương",
+      "url": "https://tapchicongthuong.vn/chuyen-ve-nhung-cay-cau-37345.htm",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "What time is it prohibited to use honk in Vietnam from January 1, 2025?",
+      "publisher": "LawNet",
+      "url": "https://lawnet.vn/chinh-sach-thue/en/what-time-is-it-prohibited-to-use-honk-in-vietnam-from-january-1-2025-20284.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "en"
+    },
+    "lawnet-proibicoes-2024",
+    "tuoitre-alcool-zero",
+    {
+      "title": "Quyết định 44/2017/QĐ-UBND về giá dịch vụ trông giữ xe đạp, xe máy, xe ô tô trên địa bàn thành phố Hà Nội",
+      "publisher": "caselaw.vn",
+      "url": "https://caselaw.vn/van-ban-phap-luat/305048-quyet-dinh-44-2017-qd-ubnd-ve-gia-dich-vu-trong-giu-xe-dap-xe-may-xe-o-to-tren-dia-ban-thanh-pho-ha-noi",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "Nghị định 168 đối với xe máy: 10 mức phạt mọi tài xế cần biết",
+      "publisher": "LuatVietnam",
+      "url": "https://luatvietnam.vn/giao-thong/nghi-dinh-168-doi-voi-xe-may-863-100609-article.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    }
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "READY_FOR_QA",
+  "revision": {
+    "reason": "Texto genérico repetido substituído por remissões para os guias de referência; informação específica do local mantida."
+  }
+}

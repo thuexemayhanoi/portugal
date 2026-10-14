@@ -1,0 +1,302 @@
+{
+  "contract_version": 1,
+  "id": "PT-0038",
+  "slug": "autonomia-de-um-deposito",
+  "title": "Autonomia da Honda Wave com um depósito: como planear",
+  "description": "Quantos quilómetros dá um depósito de uma Wave ou de uma Sirius, como a margem muda a conta e como planear as paragens para abastecer com folga.",
+  "h1": "Quantos quilómetros dá um depósito de semiautomática e onde abastecer pelo caminho",
+  "summary": "Pelas fichas dos fabricantes, um depósito dá em teoria cerca de 215 km numa Honda Wave Alpha, 256 km numa Wave RSX FI e 242 km numa Yamaha Sirius FI. Como o consumo da ficha é medido em teste e a reserva não está indicada, este guia propõe abastecer depois de gastar cerca de 70 % do depósito: 150 a 180 km, conforme o modelo.",
+  "key_points": [
+    "Depósito e consumo declarados: Wave Alpha 3,7 l e 1,72 l/100 km; Wave RSX FI 4,0 l e 1,56 l/100 km; Sirius FI 4,0 l e 1,65 l/100 km.",
+    "Depósito ÷ consumo dá cerca de 215, 256 e 242 km até esvaziar. São números teóricos: no trânsito real o consumo é maior do que o de teste.",
+    "Se o consumo real for 40 % acima do da ficha (hipótese para fazer contas), uma Wave Alpha passa de 215 para cerca de 155 km até esvaziar.",
+    "Calibre o seu consumo no primeiro depósito, com a quilometragem do painel e os litros da bomba, e refaça a conta.",
+    "As fontes não indicam a reserva nem se a unidade tem indicador de nível: pergunte à loja e não conte com a reserva para chegar a uma bomba."
+  ],
+  "intro": [
+    "Quantos quilómetros dá um depósito? A resposta de que precisa para planear um dia de estrada tem três partes: o que as fichas dos fabricantes permitem calcular, quanto esse número muda no trânsito real e como transformá-lo numa regra de abastecimento com margem. É essa a ordem deste guia.",
+    "Os dados vêm das fichas atuais da Honda Vietname (Wave Alpha e Wave RSX FI) e da Yamaha Motor Vietname (Sirius FI), consultadas a 13 de outubro de 2026. As motas de aluguer podem ser de outra versão ou de outro ano, por isso é a loja {{brand}} que confirma o depósito da unidade que lhe entrega. O preço da gasolina e o nível a combinar na devolução ficam de fora: estão em [combustível no aluguer](/precos/combustivel-no-aluguer/). Para o resto das diferenças entre scooters e semiautomáticas, veja os [tipos de motas](/tipos-de-motas/)."
+  ],
+  "sections": [
+    {
+      "h2": "Depósito e consumo: o que dizem as fichas",
+      "body": [
+        "A conta é uma divisão: o depósito, em litros, dividido pelo consumo declarado, em litros aos 100 km, e multiplicado por 100. A tabela aplica-a às fichas atuais.",
+        {
+          "table": {
+            "caption": "Autonomia teórica até esvaziar o depósito (cálculo deste guia a partir das fichas)",
+            "head": [
+              "Modelo",
+              "Depósito",
+              "Consumo declarado",
+              "Quilómetros até esvaziar"
+            ],
+            "rows": [
+              [
+                "Honda Wave Alpha",
+                "3,7 l",
+                "1,72 l/100 km",
+                "cerca de 215 km"
+              ],
+              [
+                "Honda Wave RSX FI",
+                "4,0 l",
+                "1,56 l/100 km",
+                "cerca de 256 km"
+              ],
+              [
+                "Yamaha Sirius FI",
+                "4,0 l",
+                "1,65 l/100 km",
+                "cerca de 242 km"
+              ]
+            ]
+          }
+        },
+        "O depósito de 4,0 l da Wave RSX FI consta também do manual da Honda. Há ainda duas notas sobre versões: a ficha da Sirius FI de 2017 indica 3,8 l, e uma geração antiga da Wave Alpha, descrita pelo VnExpress sem data visível, tinha depósito de 3,5 l. Com 0,2 l a menos, a conta perde cerca de 12 km.",
+        "A diferença é pequena, mas mostra que o número que importa é o da unidade que recebe. Pergunte à loja a versão e o ano da mota."
+      ]
+    },
+    {
+      "h2": "Porque o número da ficha não é o que vai fazer",
+      "body": [
+        "O consumo declarado é medido pelo fabricante em condições de teste. No trânsito real, o consumo é maior, e as fontes consultadas não dizem quanto: não medem Hanói, a chuva, o calor, um passageiro ou uma mochila pesada.",
+        "Para ver o efeito, a tabela mostra três cenários. Os aumentos de 20 % e de 40 % são hipóteses para fazer contas, não previsões nem medições. Em cada célula, o primeiro número é a autonomia até esvaziar o depósito e o segundo a que fica se abastecer depois de gastar 70 % dele.",
+        {
+          "table": {
+            "caption": "Cenários hipotéticos: quilómetros até esvaziar / quilómetros com margem de 70 % (valores arredondados)",
+            "head": [
+              "Modelo",
+              "Consumo da ficha",
+              "Consumo 20 % acima",
+              "Consumo 40 % acima"
+            ],
+            "rows": [
+              [
+                "Honda Wave Alpha (3,7 l)",
+                "215 / 150",
+                "180 / 125",
+                "155 / 110"
+              ],
+              [
+                "Honda Wave RSX FI (4,0 l)",
+                "256 / 180",
+                "215 / 150",
+                "185 / 130"
+              ],
+              [
+                "Yamaha Sirius FI (4,0 l)",
+                "242 / 170",
+                "200 / 140",
+                "175 / 120"
+              ]
+            ]
+          }
+        },
+        "Com o consumo 40 % acima, uma Wave Alpha passa de 150 para cerca de 110 km entre abastecimentos. É diferença suficiente para decidir onde parar."
+      ]
+    },
+    {
+      "h2": "A margem de 70 %: porque abastecer antes do fim",
+      "body": [
+        "Abastecer depois de gastar cerca de 70 % do depósito é uma regra proposta por este guia, não de um fabricante. Com os dados da ficha, dá entre cerca de 150 e 180 km entre abastecimentos. Há três razões para a usar:",
+        {
+          "ul": [
+            "**A reserva é desconhecida.** As fichas e os manuais consultados não indicam o volume da reserva nem se a unidade tem indicador de nível.",
+            "**O consumo real é maior** do que o da ficha, como mostra a tabela anterior.",
+            "**A rede de bombas não foi consultada.** Nenhuma das fontes descreve onde há bombas fora de Hanói; a margem dá tempo para ir à seguinte, se for preciso."
+          ]
+        },
+        "Se levar passageiro ou carga, ou se o percurso tiver muitas subidas, as fontes não dizem quanto isso pesa: na dúvida, deixe mais margem.",
+        {
+          "note": "Não planeie usar a reserva para chegar a uma bomba. Não sabemos se a unidade tem indicador de nível nem quantos litros restam quando a reserva começa: pergunte à loja antes de sair.",
+          "tone": "warn",
+          "title": "A reserva"
+        }
+      ]
+    },
+    {
+      "h2": "Planear um dia de estrada, passo a passo",
+      "body": [
+        {
+          "steps": [
+            {
+              "title": "Meça o percurso",
+              "text": "Antes de arrancar, some a ida, a volta e os desvios prováveis na aplicação de mapas do telemóvel. O guia do [telemóvel e GPS na scooter](/tipos-de-motas/telemovel-e-gps-na-scooter/) explica o que ter em conta ao levar o telemóvel na mota."
+            },
+            {
+              "title": "Escolha a autonomia de referência",
+              "text": "Use o valor com margem de 70 % do seu modelo ou, se já o calibrou, o que resulta do seu consumo."
+            },
+            {
+              "title": "Calcule os depósitos",
+              "text": "Divida os quilómetros do dia pela autonomia de referência e arredonde para cima. O resultado menos um é o número de paragens para abastecer pelo caminho, se sair com o depósito cheio."
+            },
+            {
+              "title": "Marque as bombas no mapa",
+              "text": "Antes de sair, marque onde pensa abastecer e uma alternativa a seguir. Prefira abastecer antes de entrar num troço longo onde não vê nenhuma bomba."
+            },
+            {
+              "title": "Abasteça e anote",
+              "text": "Em cada paragem, anote a quilometragem do painel e os litros. Serve para calibrar o consumo e para a conversa com a loja na devolução."
+            }
+          ]
+        },
+        {
+          "note": "Um percurso de 330 km num só dia. Com a margem de 70 %, uma Wave Alpha dá cerca de 150 km por depósito: 330 ÷ 150 = 2,2, ou seja, três depósitos e duas paragens para abastecer pelo caminho. Uma Wave RSX FI ou uma Sirius FI, com cerca de 180 e 170 km por depósito, fazem a mesma distância com dois depósitos e uma só paragem.",
+          "tone": "info",
+          "title": "Exemplo de cálculo, com números ilustrativos"
+        },
+        "Os 330 km são só um número para a conta. Se a saída for fora de Hanói, fale antes com a loja: veja como [pedir autorização para sair de Hanói](/guia-de-aluguer/autorizacao-para-sair-de-hanoi/). Numa saída longa, além do combustível, convém olhar para a corrente: o guia sobre a [folga e a lubrificação da corrente](/tipos-de-motas/corrente-da-mota/) explica o que observar e o que deixar à loja."
+      ]
+    },
+    {
+      "h2": "Calibrar o consumo no primeiro depósito",
+      "body": [
+        "A forma de trocar o número da ficha pelo seu é medir. Não precisa de equipamento: bastam o painel e a bomba.",
+        {
+          "steps": [
+            {
+              "title": "Encha e anote",
+              "text": "Na primeira bomba, encha o depósito até um ponto que consiga repetir e fotografe o visor da bomba e a quilometragem do painel."
+            },
+            {
+              "title": "Conduza como de costume",
+              "text": "Faça cem quilómetros ou mais. Num intervalo curto, pequenas diferenças no enchimento pesam muito no resultado."
+            },
+            {
+              "title": "Encha até ao mesmo ponto",
+              "text": "Anote os litros e a nova quilometragem."
+            },
+            {
+              "title": "Calcule",
+              "text": "Litros ÷ quilómetros × 100 dá o consumo em l/100 km. Depósito ÷ consumo × 100 dá os quilómetros até esvaziar, e 70 % desse valor é a sua autonomia de referência."
+            }
+          ]
+        },
+        {
+          "note": "Se a bomba lhe der 2,1 l ao fim de 100 km, o consumo é de 2,1 l/100 km, contra 1,72 l/100 km na ficha da Wave Alpha. Num depósito de 3,7 l, a autonomia até esvaziar é 3,7 ÷ 2,1 × 100, cerca de 176 km, e a de referência com margem é cerca de 123 km.",
+          "tone": "info",
+          "title": "Exemplo de cálculo, com números ilustrativos"
+        },
+        "O resultado é uma estimativa: o ponto de enchimento varia, e o piso, a carga e o estilo de condução mudam de um dia para o outro. Repita a medição no segundo depósito. Se a loja combinar o nível com que recebe e devolve a mota, é esse acordo que conta; veja [combustível no aluguer](/precos/combustivel-no-aluguer/)."
+      ]
+    },
+    {
+      "h2": "O que as fichas não dizem",
+      "body": [
+        "As fontes deste guia são fichas de produto e manuais. Ficam por confirmar, e por isso por perguntar à loja:",
+        {
+          "ul": [
+            "o volume da reserva e se a unidade tem indicador de nível de combustível;",
+            "o consumo real das motas de aluguer em Hanói, com passageiro, carga e subidas;",
+            "a versão e o ano da unidade, e portanto o depósito que lhe corresponde;",
+            "onde há bombas fora de Hanói e que gasolina usar na mota."
+          ]
+        },
+        "Quando falta o dado, a margem de 70 % e a calibração fazem o trabalho. Este guia só trata das semiautomáticas Wave e Sirius: numa scooter automática, numa 50 cc ou numa mota elétrica, a conta é outra. O guia [scooter ou semiautomática](/tipos-de-motas/scooter-ou-semiautomatica/) compara as famílias. Se a dúvida for entre uma Wave e uma Click, o guia sobre [como escolher entre a Honda Wave e a Honda Click](/tipos-de-motas/honda-wave-ou-honda-click/) compara as duas."
+      ]
+    },
+    {
+      "h2": "Perguntas para a loja antes de sair",
+      "body": [
+        {
+          "checklist": [
+            "Que versão e que ano é esta mota, e qual é a capacidade do depósito?",
+            "Tem indicador de nível de combustível? Como se lê e quão aproximado é?",
+            "Tem luz ou marca de reserva e, se tem, quantos litros restam quando aparece?",
+            "Que gasolina devo usar?",
+            "Com que nível recebo a mota e com que nível a devolvo?",
+            "Posso usá-la no percurso que planeio?"
+          ]
+        },
+        "Envie as perguntas numa só mensagem e guarde as respostas com as fotografias da entrega. Para falar com a loja, use os [contactos](/contactos/) ou o {{phone}}; está aberta {{hours}}."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Quantos quilómetros faz uma Honda Wave com um depósito?",
+      "a": "Pelas fichas atuais da Honda, cerca de 215 km numa Wave Alpha (3,7 l; 1,72 l/100 km) e cerca de 256 km numa Wave RSX FI (4,0 l; 1,56 l/100 km), até esvaziar o depósito. Para planear, conte com cerca de 150 e 180 km, e depois ajuste ao seu consumo real."
+    },
+    {
+      "q": "Posso contar com a reserva para chegar à bomba?",
+      "a": "Não. As fontes consultadas não indicam o volume da reserva, e não sabemos se a unidade tem indicador de nível. Pergunte à loja e planeie pela margem, não pela reserva."
+    },
+    {
+      "q": "Qual é o depósito de uma Yamaha Sirius?",
+      "a": "A ficha atual da Yamaha para a Sirius FI indica 4,0 l e um consumo de 1,65 l/100 km, o que dá cerca de 242 km em teoria (cálculo deste guia). A ficha da versão de 2017 indica 3,8 l. Confirme com a loja a versão da sua unidade."
+    },
+    {
+      "q": "O consumo da ficha é o que vou gastar na cidade?",
+      "a": "Não é certo: é medido em condições de teste, e no trânsito real o consumo é maior. As fontes consultadas não dizem quanto, por isso calibre o seu consumo no primeiro depósito, como explicado acima."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wave Alpha",
+      "publisher": "Honda Việt Nam",
+      "url": "https://www.honda.com.vn/xe-may/san-pham/wave-alpha-110",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "Wave RSX",
+      "publisher": "Honda Việt Nam",
+      "url": "https://www.honda.com.vn/xe-may/san-pham/wave-rsx",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "SÁCH HƯỚNG DẪN SỬ DỤNG Wave RSX FI",
+      "publisher": "Honda Việt Nam",
+      "url": "https://cdn.honda.com.vn/motorbike-manual/September2025/EzA6x0gXYsjvv9AhkVm2.pdf",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "Sirius FI phiên bản phanh đĩa màu mới - Yamaha Motor Việt Nam",
+      "publisher": "Yamaha Motor Việt Nam",
+      "url": "https://yamaha-motor.com.vn/xe/sirius-fi-phien-ban-phanh-dia-mau-hoan-toan-moi-bsab/",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "Yamaha Motor Việt Nam giới thiệu phiên bản Sirius Fi 2017 phong cách thiết kế mới - Yamaha Motor Việt Nam",
+      "publisher": "Yamaha Motor Việt Nam",
+      "url": "https://yamaha-motor.com.vn/tin-tuc/yamaha-motor-viet-nam-gioi-thieu-phien-ban-sirius-fi-2017-phong-cach-thiet-ke-moi/",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "\"NÂNG TẦM PHONG CÁCH MỚI\" CÙNG SIRIUS FI 2021",
+      "publisher": "Yamaha Motor Việt Nam",
+      "url": "https://yamaha-motor.com.vn/tin-tuc/nang-tam-phong-cach-moi-cung-sirius-fi-2021/",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "Wave Alpha đã có mặt trên thị trường",
+      "publisher": "VnExpress",
+      "url": "https://vnexpress.net/wave-alpha-da-co-mat-tren-thi-truong-2054284.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    }
+  ],
+  "legal_note": false,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "READY_FOR_QA",
+  "revision": {
+    "reason": "Ligações internas para artigos publicados depois"
+  }
+}

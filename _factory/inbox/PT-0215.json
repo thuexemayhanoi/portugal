@@ -1,0 +1,211 @@
+{
+  "contract_version": 1,
+  "id": "PT-0215",
+  "slug": "avaria-longe-de-hanoi",
+  "title": "Avaria de mota fora de Hanói: o que preparar antes de partir",
+  "description": "Vai sair de Hanói de mota? O que combinar com a loja, que contactos e documentos levar e como planear o percurso para uma avaria não estragar a viagem.",
+  "h1": "Uma avaria longe de Hanói: o plano a combinar com a loja antes da viagem",
+  "summary": "Uma avaria de mota longe de Hanói resolve-se sobretudo antes de partir: diga à loja para onde vai, combine por escrito o que fazer se a mota parar, quem autoriza e paga reparações e como regressa a mota, e leve os documentos do veículo, o contacto da loja, a morada em vietnamita, mapas sem rede e dinheiro. Planeie por estradas nacionais e com margem para voltar de dia.",
+  "key_points": [
+    "Diga à loja para onde vai antes de levantar a mota: é ela que confirma se a viagem é possível com aquele modelo.",
+    "Combine por escrito o procedimento em caso de avaria: a quem ligar, que reparações pode autorizar e como se acertam as contas.",
+    "Pergunte o que acontece se a mota não puder ser reparada no local: como regressa e quem organiza o transporte.",
+    "Leve os documentos da mota, o contacto da loja, a morada em vietnamita, mapas descarregados e dinheiro em notas pequenas.",
+    "Siga por estradas nacionais, porque as motas não podem entrar nas autoestradas, e planeie o regresso com margem antes das {{closes}}."
+  ],
+  "intro": [
+    "Dentro de Hanói, uma avaria é um contratempo: a loja está a uma chamada de distância e há sempre outra forma de continuar o dia. A cem quilómetros, numa estrada de província, a mesma avaria pode tornar-se um problema de logística — onde reparar, quem paga, como voltar e a que horas.",
+    "O que separa as duas situações é quase sempre a preparação. Este guia trata do que fazer antes de sair da cidade: o que combinar com a loja, o que levar e como desenhar o percurso para que, se a mota parar fora de Hanói, já exista um plano. Os gestos do momento — encostar em segurança, perceber o problema, falar com a loja — são outro tema; aqui, o objetivo é que esses gestos encontrem tudo preparado."
+  ],
+  "sections": [
+    {
+      "h2": "O plano começa por a loja saber onde vai estar",
+      "body": [
+        "Um plano de avaria só funciona se a loja souber onde a mota pode parar. Uma saída de um dia a Ninh Bình ou às montanhas do norte não é o mesmo que circular no centro, e nem todas as viagens são adequadas a todos os modelos. Diga que pensa sair de Hanói logo no primeiro contacto, com o destino, as localidades por onde passa e as datas: é a loja que confirma se a viagem é possível com aquela mota e em que condições.",
+        "Se a resposta for que a mota escolhida não serve, pergunte que modelo seria mais indicado. Uma scooter leve, ótima para a cidade, pode não ser a melhor companhia para um dia inteiro de estrada; as diferenças entre os modelos estão em [tipos de motas](/tipos-de-motas/). As motas de 50 cc, em particular, não são pensadas para viagens longas fora de Hanói. Uma mota adequada ao percurso é, à partida, uma mota com menos probabilidade de o deixar parado. No dia do levantamento, o guia sobre [receber a mota alugada](/guia-de-aluguer/receber-a-mota/) mostra como inspecioná-la e testá-la numa volta curta antes de arrancar."
+      ]
+    },
+    {
+      "h2": "O procedimento de avaria, combinado por escrito",
+      "body": [
+        "Esta é a parte que mais conta. Antes de partir, peça à loja que lhe diga, por mensagem, o que espera que faça se a mota avariar longe da cidade. As perguntas úteis são estas:",
+        {
+          "table": {
+            "caption": "O que combinar com a loja antes de uma viagem fora de Hanói",
+            "head": [
+              "Pergunta",
+              "Porque importa"
+            ],
+            "rows": [
+              [
+                "A quem ligo primeiro e por que meio?",
+                "Uma chamada para {{phone}} ou uma mensagem no Zalo com fotografia e localização: saber o que a loja prefere poupa tempo."
+              ],
+              [
+                "Posso mandar reparar numa oficina local sem esperar pela resposta?",
+                "Longe da loja, esperar pode significar horas parado; um acordo prévio permite avançar."
+              ],
+              [
+                "Até que valor posso autorizar uma reparação?",
+                "Um limite claro evita discussões sobre reparações caras feitas sem consulta."
+              ],
+              [
+                "Quem paga cada tipo de reparação e como sou reembolsado?",
+                "O desgaste normal e um dano causado durante a viagem podem ter tratamento diferente; confirme também que recibos deve guardar."
+              ],
+              [
+                "E se a mota não puder ser reparada no local?",
+                "Pergunte como regressa a mota, quem organiza e paga o transporte e se há troca por outra unidade."
+              ],
+              [
+                "O que faço se a avaria acontecer fora do horário da loja?",
+                "A loja está aberta {{hours}}; fora desse horário, a resposta pode demorar."
+              ]
+            ]
+          }
+        },
+        "Não parta do princípio de que a loja pode enviar alguém ou ir buscar a mota a uma província distante: pode não ser possível, e é precisamente isso que tem de ficar claro antes. Guarde as respostas na conversa e faça uma captura de ecrã, para as ter mesmo sem rede. A lista geral de [perguntas a fazer antes de alugar](/guia-de-aluguer/perguntas-antes-de-alugar/) cobre o resto do acordo."
+      ]
+    },
+    {
+      "h2": "Escolher o percurso a pensar numa possível avaria",
+      "body": [
+        "Um bom percurso não é só o mais bonito: é o que lhe deixa opções se a mota parar.",
+        {
+          "ul": [
+            "**Estradas nacionais, nunca autoestradas.** As motas estão proibidas nas autoestradas vietnamitas (cao tốc). No mapa, ative a opção de evitar autoestradas e confirme que nenhum troço do percurso passa por uma.",
+            "**Passar por localidades.** Um percurso que atravessa vilas e cidades tem mais hipóteses de ter uma oficina, uma bomba de gasolina e transporte por perto do que uma estrada de montanha isolada.",
+            "**Distâncias realistas.** Conte com uma velocidade média baixa e com paragens, e deixe folga para um atraso de uma ou duas horas sem ter de conduzir de noite.",
+            "**Regresso de dia.** Planeie chegar à loja com margem antes do fecho, às {{closes}}. Conduzir de noite numa estrada desconhecida, com uma mota que já deu sinais de problema, é o cenário a evitar.",
+            "**Abastecer cedo.** Encha o depósito antes de entrar em troços com poucas povoações, em vez de esperar pela reserva."
+          ]
+        },
+        "Marque no mapa, antes de sair, as localidades maiores ao longo do percurso. Se a mota parar, saberá logo para que lado fica a ajuda mais próxima."
+      ]
+    },
+    {
+      "h2": "O que levar consigo",
+      "body": [
+        "Longe da cidade, tem de levar consigo o que, em Hanói, estaria na loja ou no alojamento:",
+        {
+          "checklist": [
+            "**Documentos da mota.** A lei vietnamita exige que quem conduz leve, entre outros, o certificado de registo do veículo e o certificado do seguro obrigatório. Confirme com a loja que seguem consigo; o guia dos [documentos da mota alugada](/guia-de-aluguer/documentos-da-mota-alugada/) explica o que são e como os guardar.",
+            "**Os seus documentos.** A carta de condução e o que a loja pediu para o aluguer; o guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/) separa o que conta para alugar do que conta para conduzir.",
+            "**Os contactos da loja, também em papel.** O número {{phone}}, o nome no Google Maps, «{{gbp}}», e a morada em vietnamita, {{address.vi}}. É com este papel que liga à loja a partir de outro telemóvel se perder o seu: o guia sobre [perder o telemóvel durante o aluguer](/guia-de-aluguer/perdeu-o-telemovel-durante-o-aluguer/) explica o que fazer.",
+            "**Telemóvel carregado e uma bateria externa.** É com ele que vai pedir ajuda, enviar fotografias e partilhar a localização.",
+            "**Mapas descarregados.** A região inteira, para usar sem rede, com o percurso e as localidades marcadas.",
+            "**Dinheiro em notas pequenas.** Numa oficina ou bomba de gasolina fora da cidade, pode não haver outra forma de pagar, e o troco nem sempre existe.",
+            "**Capa de chuva e água.** Uma espera na berma ou numa oficina passa melhor com proteção da chuva e do calor."
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "Uma nota pronta em vietnamita",
+      "body": [
+        "Numa oficina de aldeia, explicar que a mota é alugada e que precisa do acordo da loja pode ser difícil. Prepare antes uma nota no telemóvel, para mostrar escrita, com o contacto da loja.",
+        "As frases abaixo são uma ajuda simples, sem valor de documento. Se puder, peça à loja que as reveja ou que lhe escreva a sua própria versão antes da viagem.",
+        {
+          "table": {
+            "caption": "Nota para mostrar numa oficina",
+            "head": [
+              "Em português",
+              "Em vietnamita (para mostrar escrito)"
+            ],
+            "rows": [
+              [
+                "Esta mota é alugada.",
+                "Xe này là xe thuê."
+              ],
+              [
+                "Por favor, ligue para a loja antes de reparar.",
+                "Vui lòng gọi cho cửa hàng trước khi sửa."
+              ],
+              [
+                "Telefone da loja:",
+                "Số điện thoại cửa hàng: {{phone.local}}"
+              ],
+              [
+                "Quanto custa a reparação?",
+                "Sửa hết bao nhiêu tiền?"
+              ],
+              [
+                "Pode dar-me um recibo?",
+                "Cho tôi xin hóa đơn được không?"
+              ]
+            ]
+          }
+        },
+        "Junte à nota uma fotografia da mota com a matrícula visível. Se tiver de a deixar numa oficina, ajuda a loja a identificá-la e a falar com quem a guardou."
+      ]
+    },
+    {
+      "h2": "Partilhar o plano com alguém",
+      "body": [
+        "Quem sai sozinho de mota para fora da cidade deve ter uma precaução extra: alguém tem de saber onde está.",
+        {
+          "ul": [
+            "Envie o percurso e a hora prevista de regresso a um companheiro de viagem, a uma pessoa de confiança ou ao alojamento.",
+            "Se viajam em grupo, combinem um ponto de encontro e o que fazer se uma das motas parar.",
+            "Se tem seguro de viagem, guarde o número de assistência e confirme antes da viagem se cobre a condução de mota.",
+            "Durante o dia, partilhe a localização em tempo real com quem ficou a saber do plano, se a sua aplicação de mensagens o permitir."
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "Limites: o que não fazer",
+      "body": [
+        "Alguns atalhos parecem resolver uma avaria e acabam por complicar o fim do aluguer:",
+        {
+          "ul": [
+            "Autorizar uma reparação grande ou a troca de peças sem acordo da loja, mesmo que o mecânico insista que é urgente.",
+            "Deixar a mota numa oficina ou à guarda de alguém sem fotografias, sem recibo e sem avisar a loja.",
+            "Continuar viagem com uma mota que dá sinais de avaria só para cumprir o plano do dia.",
+            "Entrar numa autoestrada para ganhar tempo no regresso.",
+            "Esconder da loja um problema que surgiu na viagem: o que foi combinado só funciona se as duas partes souberem o que aconteceu."
+          ]
+        },
+        "Para os restantes temas do aluguer — documentos, devolução e outros imprevistos —, consulte o [guia de aluguer](/guia-de-aluguer/)."
+      ]
+    },
+    {
+      "h2": "Escolher o dia certo para a viagem",
+      "body": [
+        "Num aluguer de vários dias, não deixe a saída para o último dia. Uma avaria nessa altura obriga a resolver tudo à pressa e pode atrasar a devolução; feita a meio do aluguer, a viagem deixa margem para reparar, trocar de mota ou mudar de planos.",
+        "Num [aluguer de mota por um dia](/precos/aluguer-de-mota-por-um-dia/), a margem é menor. Comece cedo, logo à abertura da loja, às {{opens}}, e escolha um destino que lhe permita voltar com tempo, mesmo que perca uma ou duas horas pelo caminho."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "A loja vai buscar a mota se avariar longe de Hanói?",
+      "a": "Não parta desse princípio. Depende da distância, da avaria e do que a loja pode fazer nesse dia, e pode não ser possível. Pergunte antes da viagem o que acontece se a mota não puder ser reparada no local, quem organiza o regresso e quem paga, e guarde a resposta por escrito."
+    },
+    {
+      "q": "Posso mandar reparar a mota numa oficina de estrada?",
+      "a": "Só nas condições que combinou com a loja. Se não houver acordo prévio, ligue ou escreva primeiro, com fotografias do problema e a sua localização, e peça um recibo de qualquer reparação autorizada."
+    },
+    {
+      "q": "E se a mota avariar depois do fecho da loja?",
+      "a": "A loja está aberta {{hours}}. Fora desse horário, a resposta pode demorar. Pergunte antes da viagem o que deve fazer nesse caso e planeie o regresso para chegar com margem antes das {{closes}}."
+    },
+    {
+      "q": "Quanto dinheiro devo levar para uma avaria?",
+      "a": "Não há um valor que sirva para todos os casos: depende da avaria e do que combinou com a loja. Leve notas pequenas suficientes para uma reparação simples e para regressar por outro meio, se for preciso, e pergunte à loja como funciona o reembolso."
+    }
+  ],
+  "sources": [
+    "dtinews-autoestrada-2026",
+    "lei-36-2024-artigo-56"
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "READY_FOR_QA",
+  "revision": {
+    "reason": "Ligações internas para artigos publicados depois"
+  }
+}

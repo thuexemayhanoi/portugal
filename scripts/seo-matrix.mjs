@@ -9,6 +9,8 @@ import fs from 'node:fs';
 import { rel, normalize, todayISO, urlToFile, visibleText, wordCount } from './lib/util.mjs';
 import { loadModel } from './lib/model.mjs';
 import { intentTokens } from './lib/intent.mjs';
+import { buildTokens, plain } from './lib/text.mjs';
+import { bodyText, pageText, overlapPairs } from './lib/overlap.mjs';
 
 const SITE = 'https://pt.rentbikehanoi.com';
 const OUT = 'docs/audit';
@@ -33,10 +35,24 @@ const jac = (a, b) => {
 // --- site-wide inputs
 const sitemapXml = fs.readFileSync(rel('sitemap.xml'), 'utf8');
 const sitemap = new Map([...sitemapXml.matchAll(/<loc>([^<]+)<\/loc>\s*(?:<lastmod>([^<]+)<\/lastmod>)?/g)].map((m) => [m[1].replace(SITE, ''), m[2] || '']));
-const llms = fs.readFileSync(rel('llms.txt'), 'utf8');
-const cannibal = fs.existsSync(rel(`${OUT}/cannibalization.csv`))
-  ? fs.readFileSync(rel(`${OUT}/cannibalization.csv`), 'utf8').split('\n').slice(1).filter(Boolean).map((l) => l.slice(1, -1).split('","')).filter((c) => ['HIGH', 'MEDIUM'].includes(c[7]))
-  : [];
+// Exact link destinations listed in llms.txt (a substring test would count / as present for any URL).
+const llms = new Set([...fs.readFileSync(rel('llms.txt'), 'utf8').matchAll(/\]\((https?:\/\/[^)\s]+)\)/g)].map((m) => m[1]));
+// Cannibalization computed from the current content (not from an earlier audit run).
+const ctx = { tokens: buildTokens(model.data), where: 'seo-matrix' };
+const txt = (x) => {
+  try {
+    return plain(String(x ?? ''), ctx);
+  } catch {
+    return String(x ?? '');
+  }
+};
+const cannibal = overlapPairs(
+  model.pages
+    .filter((p) => (p.kind === 'article' || p.kind === 'page') && p.indexable)
+    .map((p) => ({ key: p.url, keyword: p.kind === 'article' ? topicById.get(p.id)?.primary_keyword : p.primaryKeyword, title: p.title, h1: p.h1, text: p.kind === 'article' ? bodyText(p.article, txt) : pageText(p, txt) }))
+)
+  .filter((x) => x.level !== 'LOW')
+  .map((x) => [x.a.key, x.b.key, x.level]);
 const linksIn = (obj) => [...new Set([...JSON.stringify(obj ?? '').matchAll(/\]\((\/[^)#\s]*)/g)].map((m) => m[1]))];
 
 // Contextual inbound links: written in page or article content (navigation, cards and footers excluded).
@@ -94,7 +110,7 @@ const facts = pages.map((p) => {
     sources: article ? (article.sources || []).length : null,
     legal: Boolean(article?.legal_note),
     faqCount: article ? (article.faq || []).length : null,
-    inLlms: llms.includes(`${SITE}${p.url}`)
+    inLlms: llms.has(`${SITE}${p.url}`)
   };
 });
 
@@ -189,7 +205,7 @@ for (const f of facts) {
   if (isArticle && f.outInternal < 5) I('P2', `poucas ligações internas de saída (${f.outInternal})`);
 
   // Cannibalization (no merge or redirect without approval: differentiate the angle)
-  for (const c of cannibal) if (c[0] === p.url || c[1] === p.url) I('P1', `canibalização ${c[7]} com ${c[0] === p.url ? c[1] : c[0]}`);
+  for (const c of cannibal) if (c[0] === p.url || c[1] === p.url) I('P1', `canibalização ${c[2]} com ${c[0] === p.url ? c[1] : c[0]}`);
 
   // Mobile UX and performance proxies (field Core Web Vitals are not connected)
   if (f.imgsNoAlt) I('P1', `${f.imgsNoAlt} imagens sem alt`);

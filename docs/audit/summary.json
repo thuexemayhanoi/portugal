@@ -3,7 +3,7 @@
   "published_urls": 332,
   "published_articles": 300,
   "drafts": 0,
-  "revision_drafts": 0,
+  "revision_drafts": 21,
   "planned_without_draft": 0,
   "roles": {
     "HOMEPAGE": 1,
@@ -15,7 +15,7 @@
   },
   "actions": {
     "KEEP": 319,
-    "UPGRADE": 0,
+    "UPGRADE": 21,
     "REVIEW": 13,
     "CREATE": 0
   },
