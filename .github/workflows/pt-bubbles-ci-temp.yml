@@ -2,7 +2,7 @@ name: Temporary Portuguese AI bubbles build
 on:
   push:
     branches: [feat/pt-local-assistant-quick-contact-20261014]
-    paths: [.github/workflows/pt-bubbles-ci-temp.yml]
+    paths: [.github/workflows/pt-bubbles-ci-temp.yml, scripts/build.mjs, scripts/lib/layout.mjs, src/js/floating.js]
   workflow_dispatch:
 permissions:
   contents: write
