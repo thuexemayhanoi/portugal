@@ -5,6 +5,8 @@ on:
       - feat/pt-navigation-trust-pages-20261014
     paths:
       - .github/workflows/pt-trust-pages-rebuild-temp.yml
+      - content/pages/sobre-nos.json
+      - site/data.json
   workflow_dispatch:
 permissions:
   contents: write
