@@ -1,0 +1,242 @@
+{
+  "contract_version": 1,
+  "id": "PT-0242",
+  "slug": "ficar-alojado-em-long-bien",
+  "title": "Ficar alojado em Long Biên: prós e contras para quem aluga mota",
+  "description": "Prós e contras de ficar alojado em Long Biên em vez do Bairro Antigo quando se aluga mota: levantamento, pontes, noites no centro e o que perguntar ao alojamento.",
+  "h1": "Alojamento em Long Biên ou no Bairro Antigo: o que muda para quem vai conduzir",
+  "summary": "Ficar alojado em Long Biên compensa se vai usar a mota todos os dias: a loja fica do mesmo lado do rio e a primeira saída faz-se longe das ruas estreitas do Bairro Antigo. Perde proximidade ao centro e às noites; não encontrámos dados sobre o estacionamento dos hotéis daqui, por isso pergunte antes de reservar.",
+  "key_points": [
+    "A loja {{brand}} fica em Long Biên: quem dorme na zona levanta e devolve a mota sem atravessar o rio.",
+    "O centro fica do outro lado: pontes sujeitas a fechos (a Long Biên esteve fechada de 28 de março a 27 de maio de 2026) e sem metro.",
+    "À noite, a zona 1 do Hoàn Kiếm está fechada a motas de sexta a domingo, das 19:00 às 24:00: quem janta no centro tem de estacionar fora e voltar com cuidado.",
+    "Para leste e sul, os guias descrevem Bát Tràng, Ecopark e a lagoa do Ocean Park a 10–15 km do centro, mas o dique tem camiões pesados.",
+    "Não encontrámos regras de estacionamento de hotéis em Long Biên: pergunte se a mota fica fechada, quem a vigia e até que horas o portão está aberto."
+  ],
+  "intro": [
+    "Quem planeia alugar uma mota em Hanói costuma escolher o alojamento primeiro e só depois pensa na mota. Com uma loja em Long Biên, na margem leste do rio Vermelho, a ordem pode compensar-se ao contrário: a zona onde dorme muda quantas vezes atravessa o rio, onde deixa a mota à noite e como começa a primeira saída.",
+    "Este guia compara Long Biên com o Bairro Antigo para quem é visitante e vai conduzir. Não é um guia para quem vive cá: para isso, veja o artigo sobre [viver em Long Biên com mota](/zonas-de-hanoi/aluguer-de-motas-em-long-bien/). Se já escolheu o centro, o caminho inverso está em [alugar mota se fica no Bairro Antigo](/zonas-de-hanoi/fica-no-bairro-antigo-e-quer-alugar/). A informação foi verificada a 13 de outubro de 2026."
+  ],
+  "sections": [
+    {
+      "h2": "Qual é o melhor lado do rio para si",
+      "body": [
+        "Não há uma resposta única: depende de quantos dias vai usar a mota e do que quer fazer à noite. A tabela resume as diferenças que decorrem da localização da loja e das regras do centro.",
+        {
+          "table": {
+            "caption": "Alojamento em Long Biên ou no Bairro Antigo: o que muda para quem aluga mota",
+            "head": ["Situação", "Dormir em Long Biên", "Dormir no Bairro Antigo"],
+            "rows": [
+              ["Vai usar a mota todos os dias", "A loja fica do mesmo lado do rio: levanta e devolve sem atravessar uma ponte", "Cada levantamento e devolução obriga a atravessar o rio"],
+              ["Só precisa da mota um ou dois dias", "Pode não compensar mudar de lado", "Fique onde preferir e vá à loja só nesses dias"],
+              ["É a primeira vez a conduzir em Hanói", "Os primeiros quilómetros fazem-se longe das ruas mais estreitas", "A primeira viagem com a mota termina nas ruas mais apertadas da cidade"],
+              ["Quer jantar e passear à noite no centro", "Cada noite obriga a atravessar o rio e a estacionar", "Faz quase tudo a pé"],
+              ["Quer sair um dia para leste ou sul", "Já está na margem certa", "Tem de atravessar o rio primeiro"]
+            ]
+          }
+        },
+        "Os dois lados têm contrapartidas, e a regra prática é esta: quanto mais dias de mota e quanto menos noites no centro, mais Long Biên faz sentido. Se a estadia é sobretudo de passeios a pé, restaurantes e noites no centro, a mota só serve para um ou dois dias, e dormir do outro lado do rio traz pouco."
+      ]
+    },
+    {
+      "h2": "O que se ganha ao ficar em Long Biên",
+      "body": [
+        {
+          "h3": "A loja do seu lado do rio"
+        },
+        "A loja {{brand}} está em {{address}}, aberta {{hours}}. Quem dorme em Long Biên pode levantar a mota de manhã cedo, às {{opens}}, sem pagar uma viagem de táxi até à loja nem atravessar o rio com a mota ainda desconhecida. No último dia, a devolução faz-se do mesmo modo. Se quer saber como organizar o levantamento, o guia sobre o [aluguer de motas em Long Biên](/zonas-de-hanoi/aluguer-de-motas-em-long-bien/) tem a lista.",
+        "Se ficar alojado a uma distância razoável, pode até ir a pé à loja; meça o percurso no mapa e conte com o calor. A proximidade não implica um serviço: o que a loja faz em caso de dúvida ou de avaria tem de ficar combinado por escrito, e o resto do que importa está nos [contactos](/contactos/).",
+        {
+          "h3": "Os primeiros quilómetros fora do centro"
+        },
+        "Quem nunca conduziu em Hanói beneficia de começar num distrito menos denso. Os guias sobre os [primeiros dias a conduzir](/guia-de-aluguer/primeiros-dias-a-conduzir/) e sobre [treinar antes do trânsito](/guia-de-aluguer/treinar-antes-do-transito/) recomendam isso mesmo: habituar-se à mota parada, depois numa rua calma, e só então enfrentar um cruzamento grande. Dormir em Long Biên facilita esse primeiro dia.",
+        {
+          "h3": "Saídas para leste e sul"
+        },
+        "Os guias de viagem colocam Bát Tràng a 10–14 km do centro, conforme o percurso, e o Ecopark a cerca de 13–14 km, já na província de Hưng Yên. Um guia coloca a lagoa do Vinhomes Ocean Park a cerca de 15 km, a 15 a 30 minutos do interior da cidade. Os percursos habituais usam a estrada do dique, que a imprensa descreve com piso degradado e camiões pesados. Leia o guia de [Bát Tràng de mota](/zonas-de-hanoi/bat-trang-de-mota/) e o do [dique do rio Vermelho](/zonas-de-hanoi/estrada-do-dique-do-rio-vermelho/) antes de decidir.",
+        "Não confirmámos o estacionamento nem as regras de entrada em nenhum destes destinos. Do lado de Long Biên há também grandes centros comerciais; para o maior, guias de 2025 dizem que o estacionamento de motas é gratuito, mas não o confirmámos e deve ser verificado à chegada."
+      ]
+    },
+    {
+      "h2": "O que se perde",
+      "body": [
+        {
+          "h3": "O centro fica do outro lado do rio"
+        },
+        "Para ir ao Bairro Antigo, ao Hoàn Kiếm ou ao Lago Oeste tem de atravessar uma ponte, e as pontes mudam. A ponte Long Biên, aberta a motas, bicicletas e peões, esteve fechada de 28 de março a 27 de maio de 2026 e reabriu a 28 de maio; nas notícias que consultámos a 13 de outubro de 2026 não havia novo fecho anunciado, mas já fechou mais do que uma vez. A alternativa mais próxima é a ponte Chương Dương, onde um aviso de 10 de setembro de 2024 restringia autocarros interurbanos, veículos de turismo com mais de 9 lugares e camiões, sem visar as motas; não confirmámos se está em vigor. O guia da [ponte Long Biên de mota](/zonas-de-hanoi/ponte-long-bien/) tem o estado e os desvios.",
+        {
+          "h3": "As noites no centro"
+        },
+        "Desde o piloto de 1 de julho de 2026, a zona 1 do Hoàn Kiếm, que abrange o espaço pedonal do lago e as ruas do mercado noturno, está fechada a motas e automóveis de sexta-feira a domingo, das 19:00 às 24:00, segundo o portal do governo. Quem dorme em Long Biên e quer ver o mercado noturno de mota tem de estacionar fora dessa zona e seguir a pé. Para o regresso, lembre-se de que a lei vietnamita impõe tolerância zero ao álcool: o guia sobre [voltar à noite sem conduzir](/rotas-e-mobilidade/voltar-a-noite-sem-conduzir/) é a alternativa. Para comparar uma viagem de aplicação com a mota, veja [mota alugada ou táxi](/precos/mota-alugada-ou-taxi/).",
+        {
+          "h3": "Estacionar no centro continua a ser consigo"
+        },
+        "Ficar em Long Biên não resolve o estacionamento do outro lado: em cada visita ao centro, a mota tem de ficar num parque com funcionário e senha. O guia sobre [estacionar no Bairro Antigo](/zonas-de-hanoi/estacionar-no-bairro-antigo/) e o de [Bairro Antigo a pé ou de mota](/zonas-de-hanoi/bairro-antigo-a-pe-ou-de-mota/) mostram como estacionar uma vez e caminhar.",
+        {
+          "h3": "Sem metro"
+        },
+        "Nenhuma das duas linhas de metro em funcionamento em outubro de 2026 chega a Long Biên. Quem dorme aqui e quer deixar a mota e usar o metro tem de a deixar noutra zona; o guia do [metro de Hanói](/rotas-e-mobilidade/metro-de-hanoi/) explica como."
+      ]
+    },
+    {
+      "h2": "Quatro dias a partir de Long Biên: um exemplo",
+      "body": [
+        "O quadro seguinte não é um itinerário minuto a minuto, nem tem tempos de viagem verificados. Mostra apenas como distribuir os dias para tirar partido da localização.",
+        {
+          "table": {
+            "caption": "Exemplo de quatro dias a partir de um alojamento em Long Biên",
+            "head": ["Dia", "O que fazer", "O que confirmar antes"],
+            "rows": [
+              ["1", "Levantar a mota de manhã e fazer uma volta curta deste lado do rio", "Documentos a levar e hora de levantamento"],
+              ["2", "Atravessar para o centro de manhã, estacionar uma vez e caminhar; voltar antes de escurecer", "Estado da ponte Long Biên"],
+              ["3", "Dia para leste: Bát Tràng, de dia, pelo dique", "Piso do dique e estacionamento no destino"],
+              ["4", "Lago Oeste ou outra saída a oeste e devolução", "Hora de devolução e abastecimento"]
+            ]
+          }
+        },
+        "Para o dia 2, o roteiro [Hanói de mota num dia](/rotas-e-mobilidade/hanoi-de-mota-num-dia/) começa e acaba em Long Biên. Para o dia 4, veja a [volta ao Lago Oeste](/zonas-de-hanoi/volta-ao-lago-oeste/). Ajuste tudo ao tempo e à sua experiência: se o dia 3 lhe parecer muito para uma segunda saída, troque-o por uma volta calma."
+      ]
+    },
+    {
+      "h2": "O que perguntar ao alojamento antes de reservar",
+      "body": [
+        "Não encontrámos informação sobre o estacionamento dos hotéis de Long Biên, por isso não podemos dizer que o têm. Um guia sobre estacionar motas no Vietname recomenda guardar a mota no recinto do alojamento ou numa garagem fechada, avisa que um portão pode não bastar, porque há quem levante a mota por cima de uma vedação, e desaconselha parques públicos de noite, salvo com guarda de confiança. É um guia comercial, mas as perguntas que sugere valem a pena.",
+        {
+          "checklist": [
+            "Há lugar para a mota dentro do recinto, fechado ou vigiado? Quem a vigia à noite?",
+            "O estacionamento tem custo? Se tiver, peça o valor por escrito.",
+            "A que horas fecha o portão, e como entro se chegar tarde?",
+            "Aceitam uma mota alugada e o que querem ver dela?",
+            "O alojamento regista a minha estadia e quer o passaporte ao check-in?"
+          ]
+        },
+        "A última pergunta tem resposta no guia sobre [passaporte e registo de estadia](/guia-de-aluguer/passaporte-e-registo-de-estadia/). Se prefere não ir à loja, o guia da [entrega da mota no hotel](/precos/entrega-da-mota-no-hotel/) indica o que perguntar; a entrega só conta se a loja a confirmar por escrito e, se a houver, reduz a vantagem de dormir ao lado da loja."
+      ]
+    },
+    {
+      "h2": "Compensa? Conte os dias de mota",
+      "body": [
+        "A localização conta mais quanto mais dias levar a mota. Dormir ao lado da loja poupa duas travessias do rio, a da ida e a da volta, e isso pesa mais num aluguer de uma semana do que num de um dia. O componente seguinte compara, modelo a modelo, o preço ao dia com a tarifa semanal:",
+        {
+          "component": "duration-compare"
+        },
+        "Para um ou dois dias, veja o [aluguer de mota por um dia](/precos/aluguer-de-mota-por-um-dia/). Para uma semana, o [aluguer semanal](/precos/aluguer-semanal-de-mota/) mostra quando compensa. As [zonas de Hanói](/zonas-de-hanoi/) reúnem o resto dos guias por bairro, e o de [Long Biên e Gia Lâm](/zonas-de-hanoi/long-bien-e-gia-lam/) resume a margem leste."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Ficar em Long Biên é mais barato do que no Bairro Antigo?",
+      "a": "Não temos preços de alojamento verificados para nenhum dos dois lados. Compare as mesmas datas num site de reservas e some o custo do transporte até à loja, se dormir do outro lado do rio."
+    },
+    {
+      "q": "Posso ir a pé do alojamento à loja?",
+      "a": "Depende da morada do alojamento. Meça no mapa o percurso até à loja, em {{address}}, e confirme que há passeio ou caminho seguro; com calor ou chuva, um táxi curto pode ser melhor."
+    },
+    {
+      "q": "Vale a pena dormir em Long Biên só na véspera do levantamento?",
+      "a": "Pode ser prático: a loja abre às {{opens}}, e levantar a mota de manhã do mesmo lado do rio evita atravessar o trânsito com um veículo novo. Confirme com a loja a hora de chegada e a mota."
+    },
+    {
+      "q": "Os hotéis de Long Biên têm estacionamento para motas?",
+      "a": "Não encontrámos informação sobre isso. Pergunte, antes de reservar, se a mota fica num recinto fechado e vigiado, se tem custo e a que horas fecha o portão."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Khôi phục phương án tổ chức giao thông trên cầu Long Biên từ ngày 28/5",
+      "publisher": "Báo Nhân Dân",
+      "url": "https://nhandan.vn/khoi-phuc-phuong-an-to-chuc-giao-thong-tren-cau-long-bien-tu-285-post964788.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Hà Nội cấm xe đi qua cầu Long Biên trong 2 tháng để sửa chữa",
+      "publisher": "Tuổi Trẻ",
+      "url": "https://tuoitre.vn/ha-noi-cam-xe-di-qua-cau-long-bien-trong-2-thang-de-sua-chua-20260326083632435.htm",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Aviso de restrição de veículos na ponte Chương Dương a partir de 10 de setembro de 2024 (em vietnamita)",
+      "publisher": "Thị trường Tài chính Tiền tệ",
+      "url": "https://thitruongtaichinhtiente.vn/han-che-phuong-tien-luu-thong-tren-cau-chuong-duong-tu-8h30-sang-ngay-10-9-62458.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Ha Noi begins restricting fossil-fuel vehicles in low-emission zones",
+      "publisher": "Portal do Governo do Vietname (chinhphu.vn) — Hanoi Capital",
+      "url": "https://hanoicapital.chinhphu.vn/ha-noi-begins-restricting-fossil-fuel-vehicles-in-low-emission-zones-110260702082825273.htm",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    },
+    "tuoitre-alcool-zero",
+    {
+      "title": "Chuyến đi trong ngày đến Làng gốm Bát Tràng",
+      "publisher": "Vietnam Tourism (vietnam.travel)",
+      "url": "https://vietnam.travel/jp/node/1654",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "vi"
+    },
+    {
+      "title": "Guia de viagem da aldeia de cerâmica de Bát Tràng (em vietnamita)",
+      "publisher": "Vietnam Airlines",
+      "url": "https://www.vietnamairlines.com/at/vi/plan-book/travel/travel-guide/bat-trang-ceramic-village",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Guia de campismo e passeios no Ecopark, com percursos de mota (em vietnamita)",
+      "publisher": "Mytour",
+      "url": "https://mytour.vn/vi/blog/bai-viet/bi-quyet-cam-trai-da-ngoai-tai-khu-do-thi-ecopark-ha-noi.html",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Vinhomes Ocean Park 1 ở đâu? Cách di chuyển",
+      "publisher": "VinWonders",
+      "url": "https://vinwonders.com/vi/bai-viet-du-lich/vinhomes-ocean-park-tron-bo-kinh-nghiem-vui-choi/",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Xe quá tải “xâm hại” đường đê Bát Tràng",
+      "publisher": "Báo Pháp luật Việt Nam",
+      "url": "https://baophapluat.vn/xe-qua-tai-xam-hai-duong-de-bat-trang-post145135.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Aeon Mall Long Biên - Điểm đến mua sắm nổi bật tại Hà Nội",
+      "publisher": "Mytour",
+      "url": "https://mytour.vn/vi/blog/bai-viet/aeon-mall-long-bien-diem-den-mua-sam-noi-bat-tai-ha-noi.html",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Parking a Motorbike in Vietnam → Rules",
+      "publisher": "north-vietnam.com",
+      "url": "https://north-vietnam.com/parking-a-motorbike-in-vietnam-tips-rules",
+      "accessed": "2026-10-14",
+      "type": "business",
+      "lang": "en"
+    }
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "READY_FOR_QA"
+}
