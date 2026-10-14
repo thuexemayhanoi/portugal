@@ -3,7 +3,7 @@
   "id": "PT-0295",
   "slug": "xich-lo-em-hanoi",
   "title": "Xích lô em Hanói: como funciona e como combinar o preço",
-  "description": "Passeio de xích lô no Bairro Antigo de Hanói: o que dizem as fontes sobre empresas e preços, como combinar o valor antes de subir e como juntar a um dia de mota.",
+  "description": "Passeio de xích lô no Bairro Antigo de Hanói: o que dizem as fontes sobre empresas e preços, como combinar o valor antes de subir e juntar a um dia de mota.",
   "h1": "Passeio de xích lô em Hanói: preço, duração e regras do jogo",
   "summary": "O xích lô é o triciclo de pedais dos passeios turísticos pelo Bairro Antigo e pelo lago Hoàn Kiếm, e o preço combina-se antes de subir. Os guias citam 100 a 150 mil VND por cerca de 30 minutos e 150 a 300 mil VND por percurso, sem tabela oficial. Acorde valor, duração e trajeto com o condutor antes de arrancar.",
   "key_points": [
@@ -21,7 +21,7 @@
     {
       "h2": "O que é o xích lô e onde circula hoje",
       "body": [
-        "O xích lô (ou ciclo) é um triciclo de pedais em que o passageiro vai sentado à frente e o condutor pedala atrás. Já foi um meio de transporte corrente na cidade e é hoje, sobretudo, um passeio turístico no centro. A imprensa vietnamita trata-o como símbolo do Bairro Antigo, e é por isso que o debate sobre o seu futuro tem altos e baixos, como mostram títulos como «Hà Nội sẽ không còn xích lô?» (Hanói deixará de ter xích lô?), do VnEconomy, e «Hà Nội chưa xóa bỏ xích lô», do Báo Pháp luật Việt Nam.",
+        "O xích lô (ou ciclo) é um triciclo de pedais em que o passageiro vai sentado à frente e o condutor pedala atrás. Já foi um meio de transporte corrente na cidade e é hoje, sobretudo, um passeio turístico no centro. A imprensa vietnamita trata-o como símbolo do Bairro Antigo. O debate sobre o seu futuro vem de longe: o VnEconomy perguntou «Hà Nội sẽ không còn xích lô?» (Hanói deixará de ter xích lô?), e o Báo Pháp luật Việt Nam titulou que a cidade ainda não o «aboliu».",
         "Quantos existem não é claro. Uma síntese de notícias aponta cerca de 80 xích lô de quatro empresas turísticas licenciadas, que circulam à volta do Bairro Antigo e do lago, dentro da área de Hoàn Kiếm que consta da licença. Segundo o VOV, de data não visível, haveria 260 com chapa da polícia, operados por empresas de turismo, e Hanói deixou de emitir matrículas para este tipo de veículo. Os números não batem certo e não temos como os conciliar, por isso não os tome como contagem.",
         {
           "note": "As regras e os números sobre xích lô de 2009, como itinerários e paragens permitidos, já não valem como regra de 2026. Uma decisão de 2005 sobre os xích lô turísticos consta como revogada.",
@@ -162,6 +162,14 @@
       "publisher": "VnEconomy",
       "url": "https://vneconomy.vn/ha-noi-se-khong-con-xich-lo.htm",
       "accessed": "2026-10-14",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Hà Nội chưa \"xóa bỏ\" xích lô",
+      "publisher": "Báo Pháp luật Việt Nam",
+      "url": "https://baophapluat.vn/ha-noi-chua-xoa-bo-xich-lo-post143495.html",
+      "accessed": "2026-10-13",
       "type": "news",
       "lang": "vi"
     },
