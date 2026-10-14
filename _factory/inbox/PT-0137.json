@@ -1,0 +1,247 @@
+{
+  "contract_version": 1,
+  "id": "PT-0137",
+  "slug": "comunicar-sem-falar-vietnamita",
+  "title": "Comunicar com a loja de motas sem falar vietnamita",
+  "description": "Como se entender com a loja de motas em Hanói sem saber vietnamita: mensagens curtas, tradução automática bem usada, números escritos e fotografias.",
+  "h1": "Sem falar vietnamita: como combinar o aluguer da mota por escrito e com tradução",
+  "summary": "Para comunicar com a loja sem falar vietnamita, escreva em vez de falar: mensagens curtas, uma ideia por frase, com datas, horas, valores e moradas sempre escritos. Use a tradução automática para ler e escrever, confira o resultado e peça a confirmação final por escrito; quando as palavras não chegam, envie uma fotografia.",
+  "key_points": [
+    "A mensagem escrita é a melhor ferramenta: pode ser traduzida, relida e guardada.",
+    "Frases curtas, sem expressões idiomáticas, resistem melhor à tradução automática.",
+    "Datas, horas, valores e moradas vão sempre em algarismos ou copiados, nunca descritos de memória.",
+    "Uma fotografia ou a localização partilhada evita parágrafos difíceis de traduzir.",
+    "Algumas palavras em vietnamita ajudam como cortesia, mas o acordo fica por escrito."
+  ],
+  "intro": [
+    "Alugar uma mota em Hanói sem falar vietnamita é perfeitamente possível, mas obriga a mudar de hábito: em vez de resolver tudo numa conversa ao balcão ou ao telefone, combina-se quase tudo por escrito. Uma chamada com sotaques diferentes, ruído de trânsito e pouca rede deixa pouco de que se lembrar. Uma mensagem fica no telemóvel, pode ser traduzida e volta a ser lida quando surgir uma dúvida.",
+    "Este guia não repete o que perguntar à loja — isso está na lista de [perguntas a fazer antes de alugar](/guia-de-aluguer/perguntas-antes-de-alugar/). Explica como comunicar: como escrever mensagens que uma aplicação de tradução não estraga, como tratar números e moradas, quando enviar uma fotografia e como fechar o acordo de modo que as duas partes leiam o mesmo."
+  ],
+  "sections": [
+    {
+      "h2": "Porque escrever é melhor do que falar",
+      "body": [
+        "Há três razões práticas para preferir a mensagem escrita à chamada, mesmo quando a outra pessoa percebe algumas palavras da sua língua:",
+        {
+          "ul": [
+            "**Tradução nos dois sentidos:** um texto escrito passa por uma aplicação de tradução em segundos; uma conversa ao telefone, quase nunca.",
+            "**Tempo para responder:** quem está na loja pode responder entre dois clientes, e o leitor pode reler a resposta com calma antes de decidir.",
+            "**Registo:** a conversa guarda o que foi combinado — preço, datas, documentos — e serve de referência no levantamento e na devolução."
+          ]
+        },
+        "O número da loja, {{phone}}, serve para chamadas e para o Zalo, a aplicação de mensagens mais usada no Vietname; os dados completos estão em [Contactos](/contactos/). O guia sobre [como usar o Zalo para falar com a loja](/guia-de-aluguer/como-usar-o-zalo/) explica como instalar a aplicação e abrir a conversa. Não parta do princípio de que quem responde fala inglês ou português. Escreva de modo que a mensagem se entenda depois de traduzida, seja qual for a língua em que a escreve."
+      ]
+    },
+    {
+      "h2": "Como escrever uma mensagem que a tradução não estraga",
+      "body": [
+        "A tradução automática funciona bem com frases simples e falha com frases longas, ironia, abreviaturas e expressões idiomáticas. Algumas regras ajudam:",
+        {
+          "checklist": [
+            "Uma ideia por frase e, se possível, uma pergunta por linha.",
+            "Sujeito, verbo e complemento, por esta ordem: «Quero levantar a mota no sábado» em vez de «Dava-me jeito ter a mota para o fim de semana».",
+            "Nada de expressões como «dar jeito», «à volta de» ou «para aí», que a tradução lê à letra.",
+            "Nomes de modelos escritos como aparecem na mota: Honda Vision, Air Blade, Yamaha Sirius.",
+            "Números sempre em algarismos, mesmo os pequenos.",
+            "Perguntas fechadas sempre que possível: «Há caução? Sim ou não?» traduz-se e responde-se melhor do que uma pergunta aberta."
+          ]
+        },
+        {
+          "note": "Olá. Quero alugar uma scooter automática para uma pessoa, sem passageiro. Levantamento: sábado, 17/10, às 10:00, na loja. Devolução: terça-feira, 20/10, às 18:00. Qual é o preço total? Que documentos devo levar?",
+          "tone": "info",
+          "title": "Exemplo de primeira mensagem"
+        },
+        "Antes de enviar, traduza a mensagem para vietnamita e, na mesma aplicação, traduza o resultado de volta para português. Se a versão de regresso disser outra coisa, simplifique a frase original e repita. Envie o texto traduzido e, por baixo, o original: quem lê pode usar a versão que entender melhor."
+      ]
+    },
+    {
+      "h2": "Tradução automática: em que confiar e o que confirmar",
+      "body": [
+        "As aplicações de tradução trabalham com texto escrito, com voz e, muitas vezes, com texto fotografado pela câmara. São muito úteis para ler respostas, placas e papéis, desde que saiba onde costumam falhar.",
+        {
+          "table": {
+            "caption": "Onde a tradução automática costuma falhar num aluguer",
+            "head": [
+              "Situação",
+              "O risco",
+              "O que fazer"
+            ],
+            "rows": [
+              [
+                "Nomes de ruas e bairros",
+                "A aplicação traduz palavras do nome e a morada fica irreconhecível",
+                "Copie a morada original, com acentos, e deixe-a fora da tradução"
+              ],
+              [
+                "Valores em dong",
+                "Zeros perdidos ou abreviaturas, como «k» para milhares",
+                "Peça o total em algarismos, com todos os zeros, e confirme a moeda"
+              ],
+              [
+                "Horas",
+                "«Às duas» tanto pode ser de madrugada como à tarde",
+                "Use o formato de 24 horas, como 14:00"
+              ],
+              [
+                "Palavras com vários sentidos",
+                "«Caução», «seguro» ou «entrega» podem chegar como termos vagos",
+                "Explique numa frase simples o que quer saber e peça um exemplo concreto"
+              ],
+              [
+                "Voz num sítio com ruído",
+                "A aplicação ouve mal e traduz outra coisa",
+                "Escreva a frase e mostre o ecrã"
+              ]
+            ]
+          }
+        },
+        "Se a aplicação o permitir, descarregue o pacote de vietnamita antes da viagem, para a poder usar sem dados móveis. E quando a tradução de uma resposta da loja não fizer sentido, não adivinhe: responda com uma pergunta simples — «Quer dizer que…?» — e espere pela confirmação."
+      ]
+    },
+    {
+      "h2": "Datas, horas, valores e moradas: sempre por escrito",
+      "body": [
+        "Os mal-entendidos mais caros num aluguer raramente são de vocabulário. São um dia trocado, uma hora mal percebida ou um zero a menos. Estes dados nunca devem ser ditos de memória nem descritos por palavras:",
+        {
+          "ul": [
+            "**Datas:** dia e mês em algarismos, acompanhados do dia da semana, por exemplo «sábado, 17/10». O dia da semana denuncia logo uma data trocada.",
+            "**Horas:** formato de 24 horas, sem «da manhã» nem «da tarde». A loja está aberta {{hours}}, hora do Vietname; qualquer hora fora deste horário tem de ser combinada antes.",
+            "**Valores:** o total em dong, em algarismos e com todos os zeros. Para comparar com os [preços de referência](/precos/), use o mesmo modelo e o mesmo período.",
+            "**Moradas:** copie e cole, com os acentos. A morada da loja em vietnamita é {{address.vi}}; para o seu alojamento, copie a morada da reserva e junte a localização no mapa.",
+            "**Nomes:** o nome de quem vai conduzir escrito como no passaporte, para não haver dúvidas no levantamento."
+          ]
+        },
+        "Quando a loja responder com um valor ou uma hora, repita-os na sua resposta — «Confirmo: sábado, 17/10, às 10:00, Honda Vision» — e espere pelo «sim». É a forma mais simples de garantir que os dois leram o mesmo."
+      ]
+    },
+    {
+      "h2": "Quando uma fotografia explica melhor",
+      "body": [
+        "Há coisas que uma imagem diz em segundos e que, por escrito, exigiriam um parágrafo difícil de traduzir:",
+        {
+          "ul": [
+            "**Onde está:** partilhe a localização no mapa em vez de descrever o sítio. Se tiver combinado receber a mota no alojamento, envie também uma fotografia da entrada.",
+            "**Que mota quer:** uma captura de ecrã do modelo na página de [tipos de motas](/tipos-de-motas/) evita confusões entre nomes parecidos.",
+            "**O que se passa com a mota:** uma fotografia da luz acesa no painel ou da peça em causa e, se houver um ruído estranho, um vídeo curto.",
+            "**Um papel que não percebe:** fotografe-o e traduza-o com a câmara. Se a dúvida continuar, envie a fotografia à loja e pergunte o que significa aquela linha."
+          ]
+        },
+        "Junte sempre uma frase curta à imagem — «A mota não pega», «Estou aqui», «É este modelo?» —, para que a fotografia não seja lida de outra forma."
+      ]
+    },
+    {
+      "h2": "Algumas palavras em vietnamita, como ajuda",
+      "body": [
+        "O vietnamita é uma língua tonal: a mesma sílaba muda de sentido conforme o tom, e uma pronúncia aproximada pode não ser entendida. Por isso, as frases abaixo servem sobretudo para mostrar escritas no ecrã, com os acentos, e como gesto de cortesia.",
+        {
+          "note": "São traduções correntes, preparadas apenas para ajudar numa conversa simples. Não substituem a mensagem escrita com os detalhes do aluguer nem a confirmação da loja.",
+          "tone": "info",
+          "title": "Uma ajuda, não uma regra"
+        },
+        {
+          "table": {
+            "caption": "Frases simples para mostrar no telemóvel",
+            "head": [
+              "Em português",
+              "Em vietnamita (para mostrar escrito)"
+            ],
+            "rows": [
+              [
+                "Olá.",
+                "Xin chào."
+              ],
+              [
+                "Obrigado. / Obrigada.",
+                "Cảm ơn."
+              ],
+              [
+                "Não falo vietnamita.",
+                "Tôi không nói được tiếng Việt."
+              ],
+              [
+                "Pode escrever, por favor?",
+                "Bạn có thể viết ra giúp tôi không?"
+              ],
+              [
+                "Quero alugar uma mota.",
+                "Tôi muốn thuê xe máy."
+              ],
+              [
+                "Quanto custa no total?",
+                "Tổng cộng bao nhiêu tiền?"
+              ],
+              [
+                "A mota avariou.",
+                "Xe bị hỏng."
+              ],
+              [
+                "Quero devolver a mota.",
+                "Tôi muốn trả xe."
+              ]
+            ]
+          }
+        },
+        "Se a pessoa responder em voz alta e não perceber, mostre a frase «Pode escrever, por favor?» e passe-lhe o telemóvel com a aplicação de tradução aberta. Escrever a resposta costuma ser mais rápido do que tentar percebê-la de ouvido."
+      ]
+    },
+    {
+      "h2": "Fechar o acordo por escrito",
+      "body": [
+        "Quando a conversa tiver respondido a tudo, junte os pontos combinados numa só mensagem e peça à loja que a confirme. É mais fácil para quem responde do que escrever o resumo de raiz.",
+        {
+          "steps": [
+            {
+              "title": "Escreva o resumo",
+              "text": "Modelo, datas e horas de levantamento e de devolução, preço total, caução (se existir) e documentos a levar, um ponto por linha."
+            },
+            {
+              "title": "Peça uma confirmação clara",
+              "text": "«Sim, está certo» ou a correção de um ponto concreto. Um simples polegar para cima a uma mensagem longa deixa dúvidas sobre o que foi aceite."
+            },
+            {
+              "title": "Arquive a confirmação",
+              "text": "Faça uma captura de ecrã do resumo e da resposta e mantenha-a até ao fim do aluguer e à devolução da caução, se houver."
+            }
+          ]
+        },
+        "Os pontos mais sensíveis desse resumo — documentos, garantias e devolução — estão explicados no guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/). Também aqui não há valores gerais: o montante e a forma da caução confirmam-se caso a caso, e o guia sobre [como funciona a caução no aluguer](/precos/como-funciona-a-caucao/) reúne as perguntas a fazer antes do levantamento."
+      ]
+    },
+    {
+      "h2": "Na loja e durante o aluguer",
+      "body": [
+        "Ao balcão, a conversa escrita continua útil. Leve-a aberta no telemóvel e, se surgir uma dúvida, aponte para a mensagem em vez de tentar explicar tudo de novo. Se notar algo na mota que não consegue descrever, fotografe-o e envie a fotografia para a conversa, onde fica com data e hora.",
+        "Durante o aluguer, uma mensagem sobre um problema deve ter três elementos: o que aconteceu, onde está, com a localização partilhada, e uma fotografia. Se for urgente, ligue para {{phone}} e, depois da chamada, resuma por escrito o que ficou combinado. Fora do horário da loja, a resposta pode demorar, por isso pergunte logo no início o que fazer nesses casos. Se o problema for a perda da carta ou da licença, o guia sobre [quem perdeu a carta de condução no Vietname](/guia-de-aluguer/perdeu-a-carta-de-conducao/) diz o que fazer primeiro.",
+        "Outros temas do processo de aluguer, dos documentos à devolução, estão reunidos no [guia de aluguer](/guia-de-aluguer/)."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Posso escrever à loja em português?",
+      "a": "Pode. O que importa é que a mensagem continue clara depois de passar por uma aplicação de tradução: frases curtas, números em algarismos e uma pergunta por linha. Para facilitar, envie a versão traduzida para vietnamita e mantenha o original por baixo."
+    },
+    {
+      "q": "Na loja fala-se inglês?",
+      "a": "Não parta desse princípio. Pergunte na primeira mensagem em que língua prefere que escreva e, entretanto, escreva de forma que a tradução automática funcione. Assim a conversa corre bem seja qual for a resposta."
+    },
+    {
+      "q": "Uma chamada não é mais rápida do que trocar mensagens?",
+      "a": "Para um assunto urgente, sim. Para combinar preço, datas, documentos ou a devolução, a mensagem escrita é mais segura: pode ser traduzida, relida e guardada. Se tiver de ligar, resuma depois por escrito o que ficou combinado e peça que a loja confirme."
+    },
+    {
+      "q": "O que faço se a tradução da resposta não fizer sentido?",
+      "a": "Não adivinhe. Experimente traduzir a frase original noutra aplicação ou peça à loja que a escreva de forma mais simples. Também pode responder com uma pergunta fechada, a que basta responder sim ou não."
+    }
+  ],
+  "sources": [],
+  "legal_note": false,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "READY_FOR_QA",
+  "revision": {
+    "reason": "Ligações internas para artigos publicados depois"
+  }
+}
