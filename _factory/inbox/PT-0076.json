@@ -1,0 +1,304 @@
+{
+  "contract_version": 1,
+  "id": "PT-0076",
+  "slug": "alugar-ou-comprar-mota",
+  "title": "Alugar ou comprar mota em Hanói para uma estadia longa",
+  "description": "Estadia longa em Hanói: o que as fontes dizem sobre registar uma mota, que custos pesam e quando alugar continua a ser a opção mais prática.",
+  "h1": "Estadia longa em Hanói: alugar uma mota ou comprá-la?",
+  "summary": "Para quem fica algumas semanas ou poucos meses em Hanói, alugar é a opção que as fontes consultadas permitem sustentar: o registo de uma mota em nome de um estrangeiro aparece descrito para titulares de cartão de residência, e não encontrámos regra que o permita a turistas. Na tabela da loja, um mês de Honda Wave custa {{price.wave.month}} e de Honda Vision {{price.vision.month}}.",
+  "key_points": [
+    "A comprar ou a alugar, a carta continua a ser a mesma: categoria A1 até 125 cm³, categoria A acima disso, e uma licença válida para quem a tem estrangeira.",
+    "As fontes que encontrámos descrevem o registo de uma mota por estrangeiros com cartão de residência; para turistas sem cartão, não confirmámos que seja possível nem que seja proibido.",
+    "Comprar traz custos além do preço da mota: matrícula, imposto de registo, seguro obrigatório, estacionamento, manutenção e a revenda no fim da estadia.",
+    "Numa mota a gasolina, a revenda tem um risco próprio em Hanói: as restrições à circulação das motas fósseis no centro estão a ser aplicadas por fases.",
+    "Se ficar pelo aluguer, combine por escrito a renovação de cada mês e quem trata das revisões; os preços de referência da loja são por modelo."
+  ],
+  "intro": [
+    "Quem passa dois, três ou seis meses em Hanói acaba quase sempre por fazer a mesma conta: pagar um aluguer mensal ou comprar uma mota usada e vendê-la no fim. À primeira vista, comprar parece o caminho mais barato para uma estadia longa. Na prática, para um estrangeiro, a decisão passa por papéis, por custos que não estão no preço da mota e por um mercado de revenda que não conseguimos medir.",
+    "Este guia compara as duas opções sem inventar números. Dizemos o que as fontes vietnamitas permitem confirmar sobre o registo de uma mota, o que não conseguimos confirmar, e como pode fazer a sua própria conta com os dados reais de cada oferta. A parte do aluguer apoia-se na tabela de referência da loja {{brand}}, em {{area}}; tudo o que depende de compra, registo ou revenda é informação geral, que deve ser confirmada junto de quem vende e das autoridades."
+  ],
+  "sections": [
+    {
+      "h2": "Quando a pergunta faz sentido",
+      "body": [
+        "A decisão só se põe a sério numa estadia que se conte em meses, com uma base fixa em Hanói e uma mota usada todos os dias. Para uma viagem de turismo de poucos dias ou de duas semanas, os custos fixos de comprar e vender pesam demasiado em relação ao tempo de uso. Para essas durações, o [aluguer semanal](/precos/aluguer-semanal-de-mota/) ou o [aluguer mensal](/precos/aluguer-mensal-de-mota/) resolvem o problema sem papéis.",
+        "A pergunta torna-se razoável em três situações: uma estadia de vários meses com residência em Hanói, um período de estudo ou de trabalho remoto, ou a intenção de ficar mais de meio ano. Mesmo nessas, convém ver primeiro o que a lei exige a um estrangeiro, porque é aí que a hipótese de comprar pode cair.",
+        "Um primeiro passo sem risco é alugar durante um mês e usar esse mês para perceber o seu ritmo: quantos quilómetros faz por dia, se estaciona na rua ou num parque, se a mota fica parada nos fins de semana. Com esses dados, a comparação deixa de ser abstrata. O guia do [aluguer de longa duração](/precos/aluguer-de-longa-duracao/) explica como se organiza uma estadia de vários meses, e o artigo sobre a [mota para nómadas digitais](/precos/mota-para-nomadas-digitais/) trata o caso de quem trabalha a partir de Hanói."
+      ]
+    },
+    {
+      "h2": "Registar uma mota em Hanói: o que as fontes confirmam",
+      "body": [
+        "O registo de veículos no Vietname rege-se pela Circular 79/2024/TT-BCA, do Ministério da Segurança Pública, de 15 de novembro de 2024, em vigor desde 1 de janeiro de 2025, que substituiu a Circular 24/2023/TT-BCA. A Circular 13/2025/TT-BCA alterou alguns dos seus artigos. A lei prevê uma numeração de matrículas própria para organizações e indivíduos estrangeiros, definida num dos anexos.",
+        "Quanto a quem pode ser proprietário, as sínteses jurídicas que consultámos descrevem o estrangeiro que vive e trabalha no Vietname, que apresenta um cartão de residência, permanente ou temporária, com pelo menos seis meses de validade restante. Um guia mais antigo, que cita uma circular entretanto substituída, fala em cartão com um ano ou mais, e inclui também o pessoal de missões diplomáticas e de organizações internacionais. As duas fontes divergem no prazo, por isso não nos fiamos em nenhum número sem confirmação.",
+        {
+          "note": "As fontes consultadas falam sempre de titulares de cartão de residência. Não encontrámos nenhuma disposição que permita a um turista, só com visto, registar uma mota em seu nome, e também nenhuma que o proíba. Antes de pagar por uma mota, pergunte à Polícia de Trânsito (CSGT) de Hanói, que trata do registo, ou a um serviço jurídico local o que se aplica ao seu caso. Esta informação é verificada a 14 de outubro de 2026 e as regras mudam.",
+          "tone": "warn",
+          "title": "Turistas: não está confirmado"
+        },
+        "Uma mota não é só o objeto: o que comprova a propriedade é o certificado de registo, o «cà vẹt». Qualquer compra de uma mota usada deve começar por ver esse documento, comparar os dados com a mota (matrícula, número de quadro e de motor) e perceber em nome de quem está registada. É prudência geral, e não um procedimento descrito numa fonte oficial.",
+        "Há também a transferência para o novo proprietário, que obriga a cumprir os mesmos requisitos de residência. Não encontrámos fontes sobre o procedimento de transferência feito por um estrangeiro, nem sobre o que acontece à mota quando o estrangeiro sai do país, e é por isso que não as descrevemos."
+      ]
+    },
+    {
+      "h2": "Matrícula e imposto: ordens de grandeza, sem promessas",
+      "body": [
+        "Duas taxas entram em qualquer compra: a taxa de emissão da matrícula e o imposto de registo (lệ phí trước bạ). Os valores mudam, as fontes divergem, e por isso damos apenas ordens de grandeza.",
+        {
+          "ul": [
+            "**Taxa de matrícula**: segundo um artigo da LuatVietnam sobre a Circular 155/2025/TT-BTC, em vigor desde 1 de janeiro de 2026, Hanói está na zona I, e uma mota de valor até 15 milhões de VND pagaria 700 mil VND, uma de 15 a 40 milhões 1,4 milhões, e uma de mais de 40 milhões 2,8 milhões. É uma só fonte e um excerto do anexo: confirme contra o texto oficial.",
+            "**Imposto de registo**: um guia fala em 2 % do valor na primeira declaração e 1 % da segunda em diante; outro refere valores entre 2 % e 5 % conforme a zona. Não sabemos qual está certo, e por isso não calculamos esse imposto neste guia."
+          ]
+        },
+        "O que importa para a decisão é a ordem de grandeza: centenas de milhares a poucos milhões de VND só para a matrícula, mais um imposto que depende do valor da mota. Quem compra uma mota usada deve perguntar ao vendedor quem paga cada taxa e em que momento."
+      ]
+    },
+    {
+      "h2": "A carta e o seguro não mudam, seja a mota sua ou alugada",
+      "body": [
+        "Ser dono da mota não dispensa a carta. Desde 1 de janeiro de 2025, a categoria A1 da carta vietnamita cobre os motociclos de duas rodas até 125 cm³ e os elétricos até 11 kW; acima disso, é exigida a categoria A. Quem não tiver a carta adequada arrisca uma coima: segundo duas fontes vietnamitas, de 2 a 4 milhões de VND para motas até 125 cm³ e de 6 a 8 milhões para as de cilindrada superior. Para o visitante que conduz com a carta do seu país, o ponto de partida é o guia da [licença internacional de condução](/guia-de-aluguer/licenca-internacional-de-conducao/).",
+        "Trocar a carta estrangeira por uma vietnamita é o caminho de quem reside no país. Segundo a Circular 12/2025/TT-BCA, exige um cartão de residência com três meses ou mais de validade; o guia sobre [converter a carta no Vietname](/guia-de-aluguer/converter-a-carta-no-vietname/) explica o enquadramento.",
+        "O seguro obrigatório de responsabilidade civil é da responsabilidade do proprietário da mota, regulado pelo Decreto 67/2023/NĐ-CP. Num aluguer, está em nome do dono da mota; numa mota comprada, passa a ser seu. O guia do [seguro obrigatório de mota](/guia-de-aluguer/seguro-obrigatorio-de-mota/) explica o que cobre e o que não cobre. Não encontrámos fontes sobre o preço desse seguro para uma mota comprada, e por isso não o incluímos nas contas."
+      ]
+    },
+    {
+      "h2": "Os custos de ter uma mota, lado a lado",
+      "body": [
+        "A tabela compara o que cada opção implica. Onde não há dados verificados, em vez de um número fica a pergunta que deve fazer.",
+        {
+          "table": {
+            "caption": "Alugar ou comprar uma mota para uma estadia longa em Hanói",
+            "head": [
+              "Aspeto",
+              "Alugar à loja",
+              "Comprar e vender no fim"
+            ],
+            "rows": [
+              [
+                "Preço",
+                "Tarifa mensal da tabela de referência, por modelo; um mês de Wave custa {{price.wave.month}}",
+                "Preço da mota, que depende do modelo, do ano e do estado; não encontrámos fontes de preços de motas usadas"
+              ],
+              [
+                "Registo e papéis",
+                "Tratados pelo dono da mota; peça para ver os documentos antes de levantar",
+                "Matrícula, imposto de registo e transferência; as fontes descrevem-nos para titulares de cartão de residência"
+              ],
+              [
+                "Seguro obrigatório",
+                "Em nome do dono da mota",
+                "Por sua conta, como proprietário"
+              ],
+              [
+                "Manutenção e avarias",
+                "Combine com a loja quem trata e paga cada intervenção",
+                "Por sua conta: pneus, travões, revisões e eventuais reparações"
+              ],
+              [
+                "Revenda",
+                "Não existe: devolve a mota no fim",
+                "Incerta: depende de comprador, do estado e das regras de circulação"
+              ],
+              [
+                "Se parte mais cedo",
+                "Pergunte como se trata o mês em curso",
+                "Tem de vender depressa, muitas vezes abaixo do que pagou"
+              ],
+              [
+                "Combustível, estacionamento",
+                "Por sua conta",
+                "Por sua conta"
+              ]
+            ]
+          }
+        },
+        "A última linha é igual nas duas colunas, e por isso não pesa na comparação. Para ter uma noção do que se paga pela gasolina, veja o guia sobre o [custo por quilómetro](/precos/custo-por-quilometro/)."
+      ]
+    },
+    {
+      "h2": "Revenda e risco: o que pesa numa mota a gasolina em Hanói",
+      "body": [
+        "O risco principal de comprar é o do fim: vender a mota. Não encontrámos dados sobre preços de motas usadas nem sobre o tempo que demora a vender uma a um estrangeiro, e por isso qualquer promessa de recuperar uma percentagem do que pagou seria inventada.",
+        "Há um pormenor que pesa numa mota a gasolina. Segundo o Departamento de Transportes de Hanói, citado pela imprensa, em dezembro de 2024 circulavam na cidade cerca de 6,9 milhões de motas registadas, num total de mais de 9,2 milhões de veículos. O mercado de usadas é grande, mas as regras que afetam esse parque estão a mudar. Desde 1 de julho de 2026, a zona de baixas emissões de Hanói restringe à noite o centro do Hoàn Kiếm, e o plano da cidade prevê novas fases; um resumo de imprensa fala de restrições às motas a gasolina em anéis mais largos a partir de 2028, o que não confirmámos numa fonte oficial.",
+        "Isto não quer dizer que uma mota a gasolina fique sem valor. Quer dizer que o comprador de segunda mão, daqui a seis meses, pode pensar mais nessas restrições do que o comprador de hoje. O guia da [zona de baixas emissões de Hanói](/tipos-de-motas/zona-de-baixas-emissoes-hanoi/) descreve o que está em vigor em outubro de 2026 e o que está previsto.",
+        "Alugar passa esse risco para o dono da mota. Mesmo assim, se a sua estadia atravessar um ano novo, pergunte à loja se as regras de circulação previstas alteram alguma coisa no seu aluguer."
+      ]
+    },
+    {
+      "h2": "Uma regra prática para decidir",
+      "body": [
+        "Em vez de procurar o ponto de equilíbrio exato, que nenhuma fonte permite calcular, faça a conta com os valores de uma oferta concreta. Siga estes passos:",
+        {
+          "steps": [
+            {
+              "title": "Calcule o aluguer",
+              "text": "Multiplique a tarifa mensal do modelo que lhe interessa pelo número de meses de estadia. A tabela de referência está mais abaixo e na página de preços."
+            },
+            {
+              "title": "Some o que custa comprar",
+              "text": "Some o preço pedido pela mota, a matrícula, o imposto de registo, o seguro obrigatório e uma reserva para manutenção."
+            },
+            {
+              "title": "Subtraia uma revenda prudente",
+              "text": "Use um valor que se contente em receber, e não o mais otimista. Se não consegue estimá-lo, a conta fica incompleta e deve pesar a favor do aluguer."
+            },
+            {
+              "title": "Compare e confirme os papéis",
+              "text": "Se a compra sair mais barata mesmo assim, confirme antes de pagar que pode ser o proprietário registado, e peça para ver o certificado de registo."
+            }
+          ]
+        },
+        "Os preços de referência da loja por modelo estão aqui, com a data da última verificação, {{pricing.verifiedAt}}:",
+        {
+          "component": "price-table"
+        },
+        "Para dar uma ideia do preço de uma mota nova, a imprensa vietnamita noticiou a Honda Vision de nova geração «a partir de 30 milhões de VND». É um preço de lista de uma mota nova, de data que não conseguimos ler, e não vale como preço de uma usada: serve apenas para ordem de grandeza. Compare essa quantia, mais as taxas, com o número de meses de aluguer da sua estadia.",
+        "Mesmo que a conta pareça favorável à compra, a incerteza sobre o registo pesa. Se não tiver um cartão de residência, o caminho seguro é alugar, e voltar a fazer a conta quando a sua situação mudar."
+      ]
+    },
+    {
+      "h2": "Se ficar pelo aluguer: o que combinar",
+      "body": [
+        "Numa estadia longa alugada, os custos fixos do aluguer são conhecidos à partida, mas há pontos que convém deixar escritos, sobretudo se a estadia passar do primeiro mês:",
+        {
+          "checklist": [
+            "**Renovação**: como se renova cada mês, e se o preço se mantém de um mês para o seguinte.",
+            "**Manutenção**: quem trata das revisões, do óleo e dos pneus, quem paga cada intervenção e como se avisa a loja.",
+            "**Troca de mota**: se pode trocar de modelo a meio da estadia e a que condições.",
+            "**Fim do aluguer**: como se conta o último mês e quanto custa cada dia a mais.",
+            "**Documentos**: que a sua carta e a licença internacional cobrem a estadia inteira, e que a mota tem o seguro obrigatório em vigor.",
+            "**Hora de devolução**: o horário do levantamento e da devolução na loja, que está aberta {{hours}}."
+          ]
+        },
+        "O artigo sobre as [horas de levantamento e devolução](/precos/horas-de-levantamento-e-devolucao/) ajuda a combinar o primeiro e o último dia. Para escolher o modelo de uma estadia longa, a [Honda Vision](/tipos-de-motas/honda-vision-em-hanoi/) tem um guia próprio, e o artigo sobre a [Vision ou Click no aluguer mensal](/precos/vision-ou-click-no-aluguer-mensal/) compara duas escolhas frequentes.",
+        "Para pedir o total da sua estadia, indique as datas, o modelo e uma alternativa. Os [contactos](/contactos/) da loja incluem o telefone {{phone}}."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Um turista pode comprar uma mota no Vietname?",
+      "a": "Não conseguimos confirmá-lo. As fontes que consultámos descrevem o registo de uma mota por estrangeiros com cartão de residência, e não encontrámos regra que o permita ou proíba a quem tem só visto de turismo. Pergunte à Polícia de Trânsito de Hanói antes de pagar."
+    },
+    {
+      "q": "Quanto custa matricular uma mota em Hanói?",
+      "a": "Segundo um artigo da LuatVietnam sobre a Circular 155/2025/TT-BTC, desde 1 de janeiro de 2026 a taxa de matrícula para motas na zona I vai de 700 mil a 2,8 milhões de VND, conforme o valor da mota. É uma só fonte e há ainda um imposto de registo, por isso confirme os valores no momento da compra."
+    },
+    {
+      "q": "Preciso de carta para conduzir uma mota que é minha?",
+      "a": "Sim. A categoria A1 cobre as motas até 125 cm³ e os elétricos até 11 kW, e acima disso é exigida a categoria A. Quem tem a carta de outro país conduz com ela e com a licença internacional, e quem reside no Vietname pode trocá-la, em geral com um cartão de residência válido por três meses ou mais."
+    },
+    {
+      "q": "Alugar um mês antes de decidir compensa?",
+      "a": "Costuma ser uma forma prudente de decidir sem papéis: durante um mês percebe quanto conduz, onde estaciona e que modelo lhe convém. O custo desse mês é o da tarifa mensal da tabela de referência, e a loja confirma o total para as suas datas."
+    }
+  ],
+  "sources": [
+    "tabela-precos-proprietario",
+    "lei-36-2024-a1",
+    "lawnet-categorias-2025",
+    "vietnamnet-zbe-revisao",
+    {
+      "title": "Thủ tục đăng ký xe từ ngày 01/01/2025",
+      "publisher": "LuatVietnam",
+      "url": "https://luatvietnam.vn/giao-thong/thu-tuc-dang-ky-xe-tu-ngay-01-01-2025-863-100334-article.html",
+      "accessed": "2026-10-14",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "Circular 79/2024/TT-BCA sobre a emissão e a revogação do certificado de registo de veículos e das matrículas (texto em vietnamita)",
+      "publisher": "caselaw.vn",
+      "url": "https://caselaw.vn/van-ban-phap-luat/411972-thong-tu-so-79-2024-tt-bca-ngay-15-11-2024-cua-bo-truong-bo-cong-an-quy-dinh-ve-cap-thu-hoi-chung-nhan-dang-ky-xe-bien-so-xe-co-gioi-xe-may-chuyen-dung?en=true",
+      "accessed": "2026-10-14",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "Giấy tờ của chủ xe 2025 bao gồm những gì?",
+      "publisher": "thuviennhadat.vn",
+      "url": "https://thuviennhadat.vn/phap-ly-nha-dat/giay-to-cua-chu-xe-2025-bao-gom-nhung-gi-663128.html",
+      "accessed": "2026-10-14",
+      "type": "reference",
+      "lang": "vi"
+    },
+    {
+      "title": "Đăng ký xe cho người nước ngoài như thế nào?",
+      "publisher": "Thư viện Pháp luật",
+      "url": "https://thuvienphapluat.vn/hoi-dap-phap-luat/dang-ky-xe-cho-nguoi-nuoc-ngoai-nhu-the-nao-63788.html",
+      "accessed": "2026-10-14",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "Từ 2026, lệ phí đăng ký cấp biển số xe máy được quy định thế nào?",
+      "publisher": "LuatVietnam",
+      "url": "https://luatvietnam.vn/le-phi/tu-2026-le-phi-dang-ky-cap-bien-so-xe-may-duoc-quy-dinh-the-nao-675-106415-article.html",
+      "accessed": "2026-10-14",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "Mua xe máy phải nộp thuế gì? Cập nhật 2026",
+      "publisher": "Hoatieu.vn",
+      "url": "https://hoatieu.vn/phap-luat/mua-xe-may-phai-nop-thue-gi-183620",
+      "accessed": "2026-10-14",
+      "type": "reference",
+      "lang": "vi"
+    },
+    {
+      "title": "Khoảng 7 triệu xe xăng ở Hà Nội đứng trước nguy cơ bị cấm lưu thông từ 2026",
+      "publisher": "Ngôi Sao",
+      "url": "https://ngoisao.vn/theo-dong-su-kien/tin-nong-trong-ngay/khoang-7-trieu-xe-xang-o-ha-noi-dung-truoc-nguy-co-bi-cam-luu-thong-tu-2026-d460848.html",
+      "accessed": "2026-10-14",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Novas regras para trocar a carta de condução estrangeira (artigo em vietnamita)",
+      "publisher": "LSVN (Luật sư Việt Nam)",
+      "url": "https://lsvn.vn/quy-dinh-moi-ve-doi-giay-phep-lai-xe-nuoc-ngoai-a154640.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Lỗi không bằng lái xe máy bị phạt bao nhiêu?",
+      "publisher": "Muaban.net",
+      "url": "https://muaban.net/blog/loi-khong-bang-lai-xe-may-bi-phat-bao-nhieu-594292/",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "vi"
+    },
+    {
+      "title": "Coima por conduzir uma mota de mais de 125 cm³ sem carta (artigo em vietnamita)",
+      "publisher": "Người Quan Sát",
+      "url": "https://nguoiquansat.vn/muc-phat-khi-di-xe-may-tren-125-cm-ma-khong-co-giay-phep-lai-xe-200861.html",
+      "accessed": "2026-10-13",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Đã có Nghị định 67/2023/NĐ-CP về bảo hiểm bắt buộc của chủ xe cơ giới",
+      "publisher": "LuatVietnam",
+      "url": "https://luatvietnam.vn/tin-van-ban-moi/da-co-nghi-dinh-67-2023-nd-cp-ve-bao-hiem-bat-buoc-cua-chu-xe-co-gioi-186-95475-article.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "Honda Vision thế hệ mới được ra mắt tại Việt Nam, giá từ 30 triệu đồng",
+      "publisher": "Doanh Nhân — Báo Pháp luật Việt Nam",
+      "url": "https://doanhnhan.baophapluat.vn/honda-vision-the-he-moi-duoc-ra-mat-tai-viet-nam-gia-tu-30-trieu-dong-35960.html",
+      "accessed": "2026-10-12",
+      "type": "news",
+      "lang": "vi"
+    }
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "READY_FOR_QA"
+}

@@ -57,7 +57,7 @@
         },
         "A diferença entre as duas colunas é grande, e um comunicado antigo da ferrovia de Hanói, sem ano, falava em valores ainda mais baixos para o SP1 e o SP10. A explicação possível é a data das fontes, o comboio ou a classe de lugar; não podemos saber qual. Para planear um orçamento, conte com a gama mais alta e confirme o preço real ao reservar.",
         "Os bilhetes de verão de 2026, segundo o comunicado do Ministério da Construção, foram vendidos de 15 de maio a 16 de agosto, com descontos para quem comprasse ida e volta em conjunto. Essa campanha já terminou, mas mostra que há promoções com datas, e vale a pena perguntar se existe alguma na sua viagem.",
-        "Para comparar com outras formas de chegar, a mesma fonte estima o custo total da viagem (comboio mais transferência) entre 35 e 75 USD, e quem preferir pode ver o [confronto entre a mota alugada e a Grab](/precos/mota-alugada-ou-grab/) para os trajetos dentro de Hanói."
+        "O vietnamtourism.com estima o custo total da viagem, com comboio e transferência, entre 35 e 75 USD. Dentro de Hanói, a ida à estação custa o preço de uma viagem curta, e o [confronto entre a mota alugada e a Grab](/precos/mota-alugada-ou-grab/) ajuda a decidir como se desloca."
       ]
     },
     {
@@ -73,7 +73,7 @@
       "h2": "De Lào Cai a Sa Pa: o último troço",
       "body": [
         "O comboio não chega a Sa Pa: termina em Lào Cai, a cerca de 35 km, segundo o vietnamtourism.com. Chega-se de madrugada, entre as 05:30 e as 06:10, e é preciso continuar por estrada. As fontes que consultámos não detalham como se faz esta ligação nem quanto custa, por isso pergunte ao alojamento de Sa Pa se organiza a transferência ou como recomenda fazê-la.",
-        "Para perceber o lugar do comboio entre as alternativas, a mesma fonte, atualizada em maio de 2026, compara os meios de Hanói a Sa Pa. Os valores são de uma página comercial, não de um operador, e servem apenas de referência:",
+        "Para perceber o lugar do comboio entre as alternativas, o vietnamtourism.com, atualizado em maio de 2026, compara os meios de Hanói a Sa Pa. Os valores são de uma página comercial, não de um operador, e servem apenas de referência:",
         {
           "table": {
             "caption": "Hanói–Sa Pa: alternativas ao comboio, segundo o vietnamtourism.com (maio de 2026)",
@@ -92,10 +92,10 @@
       "h2": "Porquê o comboio em vez da mota",
       "body": [
         "Hanói fica a mais de 300 km de Sa Pa (as fontes dão entre 288 e 315 km, conforme o percurso), e a viagem de mota seria longa e cansativa. Não encontrámos, nas fontes, o tempo de mota nem o melhor percurso, e não vamos inventá-los.",
-        "O que está confirmado é que as motas não podem entrar nas autoestradas: a coima é de 4 a 6 milhões de VND, com perda de pontos na carta, e a imprensa noticiou estrangeiros multados por isso em 2026. Para quem segue pelas estradas nacionais, há as condições da montanha: o nevoeiro, descrito no guia sobre o [nevoeiro nas estradas de montanha](/rotas-e-mobilidade/nevoeiro-nas-estradas-de-montanha/), e as tempestades, no guia dos [tufões e alertas meteorológicos](/rotas-e-mobilidade/tufoes-e-alertas-meteorologicos/).",
+        "O que está confirmado é que as motas não podem entrar nas autoestradas: a coima é de 4 a 6 milhões de VND, com perda de 6 pontos na carta, e a imprensa noticiou estrangeiros multados por isso em fevereiro de 2026. Para quem segue pelas estradas nacionais, há as condições da montanha: o nevoeiro, descrito no guia sobre o [nevoeiro nas estradas de montanha](/rotas-e-mobilidade/nevoeiro-nas-estradas-de-montanha/), e as tempestades, no guia dos [tufões e alertas meteorológicos](/rotas-e-mobilidade/tufoes-e-alertas-meteorologicos/).",
         {
           "ul": [
-            "**Comboio:** sem condução nocturna, sem autoestradas, com horário e preço fixados pelo operador; exige chegar de madrugada e organizar a ligação a Sa Pa.",
+            "**Comboio:** sem condução noturna, sem autoestradas, com horário e preço fixados pelo operador; exige chegar de madrugada e organizar a ligação a Sa Pa.",
             "**Mota:** liberdade de horário e de paragens, mas com distância grande, estradas de montanha e a necessidade de autorização da loja para sair de Hanói.",
             "**Limusina ou autocarro:** mais rápidos do que o comboio segundo a fonte citada, mas sem o conforto de dormir numa cama."
           ]
@@ -207,6 +207,14 @@
       "accessed": "2026-10-14",
       "type": "business",
       "lang": "en"
+    },
+    {
+      "title": "Mức xử phạt năm 2026 đối với hành vi đi xe máy trên cao tốc?",
+      "publisher": "Thư Viện Pháp Luật",
+      "url": "https://thuvienphapluat.vn/ma-so-thue/phap-luat-thue/muc-xu-phat-nam-2026-doi-voi-hanh-vi-di-xe-may-tren-cao-toc-936922-220346.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
     },
     "lawnet-proibicoes-2024",
     "dtinews-autoestrada-2026"
