@@ -1,0 +1,323 @@
+{
+  "contract_version": 1,
+  "id": "PT-0005",
+  "slug": "honda-vision-ou-air-blade",
+  "title": "Honda Vision ou Air Blade: qual escolher para circular em Hanói?",
+  "description": "Honda Vision ou Air Blade em Hanói: porte, potência, arrumação, travagem, carta exigida e preço por dia, semana e mês, com a escolha certa para cada perfil.",
+  "h1": "Vision ou Air Blade em Hanói: comparação lado a lado e escolha por perfil",
+  "summary": "Escolha a Honda Vision para circular sobretudo sozinho e dentro da cidade: é a mais compacta e a mais leve das duas. Escolha a Air Blade para andar a dois, atravessar pontes todos os dias ou levar mais carga, depois de confirmar a cilindrada da unidade. Ao dia, a Vision custa {{cmp.vision.airblade.day}} a Air Blade; ao mês, a Air Blade custa {{cmp.airblade.vision.month}} a Vision.",
+  "key_points": [
+    "**Vision**: cerca de 110 cm³, compacta e leve, dentro da categoria A1. **Air Blade**: versões de 125 e de 160 cm³, e a 160 exige a categoria A.",
+    "Ao dia, a Vision custa {{cmp.vision.airblade.day}} a Air Blade; ao mês, a Air Blade custa {{cmp.airblade.vision.month}} a Vision.",
+    "A Air Blade tem 23,2 litros debaixo do assento, segundo a Honda; o compartimento da Vision é pensado para objetos pequenos.",
+    "Com passageiro, nas pontes sobre o rio Vermelho ou em avenidas largas, a Air Blade dá mais folga; no pára-arranca do centro, o porte da Vision facilita cada paragem.",
+    "Na Air Blade, a 160 traz ABS na roda da frente e a 125 usa travagem combinada, salvo a versão desportiva de 2026."
+  ],
+  "intro": [
+    "A Honda Vision e a Honda Air Blade são as duas scooters da loja que mais se confundem na hora de reservar: ambas automáticas e ambas vendidas pela Honda no Vietname. A diferença entre elas está menos no nome do que no uso que lhes vai dar: quantas pessoas seguem na mota, por onde vai andar e que carta traz consigo.",
+    "Este artigo põe os dois modelos frente a frente e termina com uma escolha para cada perfil. Não repete as fichas completas: o que esperar de cada um no aluguer está nos guias da [Honda Vision](/tipos-de-motas/honda-vision-em-hanoi/) e da [Air Blade 125 ou 160](/tipos-de-motas/honda-air-blade-125-ou-160/), e a apresentação das quatro scooters da loja está na página de [scooters automáticas](/tipos-de-motas/scooters/)."
+  ],
+  "sections": [
+    {
+      "h2": "As duas scooters frente a frente",
+      "body": [
+        "Os dados técnicos são os que a Honda e a imprensa vietnamita publicam para as gerações atuais. Uma mota de aluguer pode ser de outro ano ou de outra versão: use a tabela para perceber o que separa os dois modelos, e não como descrição da unidade que vai receber.",
+        {
+          "table": {
+            "caption": "Honda Vision e Honda Air Blade: o que muda para quem aluga",
+            "head": [
+              "Aspeto",
+              "Honda Vision",
+              "Honda Air Blade"
+            ],
+            "rows": [
+              [
+                "Cilindrada",
+                "Cerca de 110 cm³",
+                "Pouco menos de 125 cm³ ou 156,9 cm³, conforme a versão"
+              ],
+              [
+                "Categoria de carta no Vietname",
+                "A1 (ou A)",
+                "A1 na 125; A na 160"
+              ],
+              [
+                "Motor",
+                "Um cilindro, arrefecimento a ar e injeção eletrónica",
+                "Família eSP+, quatro válvulas e arrefecimento por líquido"
+              ],
+              [
+                "Potência anunciada",
+                "6,59 kW às 7.500 rpm, na versão de 2026",
+                "11,2 kW às 8.000 rpm na 160; inferior na 125"
+              ],
+              [
+                "Travagem",
+                "Confirme o sistema da unidade com a loja",
+                "CBS na 125; ABS na roda da frente na 160 e na 125 desportiva de 2026"
+              ],
+              [
+                "Arrumação debaixo do assento",
+                "Para objetos pequenos; pode não levar um capacete inteiro",
+                "23,2 litros nas duas versões"
+              ],
+              [
+                "Porte",
+                "Mais compacta e mais leve",
+                "Maior"
+              ],
+              [
+                "Preço de referência por dia",
+                "{{price.vision.day}}",
+                "{{price.airblade.day}}"
+              ]
+            ]
+          }
+        },
+        "Duas linhas desta tabela pesam mais do que as outras. A cilindrada, porque decide a carta de que precisa. E a arrumação, porque se sente todos os dias, sempre que guarda a capa de chuva ou uma mochila. A potência só faz verdadeira diferença em três situações, descritas mais abaixo."
+      ]
+    },
+    {
+      "h2": "Quanto custa cada uma ao dia, à semana e ao mês",
+      "body": [
+        "Na tabela de referência da loja, verificada a {{pricing.verifiedAt}}, os dois modelos têm estes valores:",
+        {
+          "table": {
+            "caption": "Honda Vision e Honda Air Blade: preços de referência",
+            "head": [
+              "Período",
+              "Honda Vision",
+              "Honda Air Blade"
+            ],
+            "rows": [
+              [
+                "Dia",
+                "{{price.vision.day}}",
+                "{{price.airblade.day}}"
+              ],
+              [
+                "Semana",
+                "{{price.vision.week}}",
+                "{{price.airblade.week}}"
+              ],
+              [
+                "Mês",
+                "{{price.vision.month}}",
+                "{{price.airblade.month}}"
+              ]
+            ]
+          }
+        },
+        "Lado a lado, a Vision custa {{cmp.vision.airblade.day}} a Air Blade ao dia e {{cmp.vision.airblade.week}} a Air Blade à semana. No mês, faça a comparação de novo: a Air Blade custa {{price.airblade.month}}, {{cmp.airblade.vision.month}} a Vision, cuja referência mensal é um intervalo que depende da unidade e das condições do acordo.",
+        "Para alugueres de alguns dias, veja quando passa a valer a tarifa semanal. Na Vision, a semana custa o mesmo ou menos do que pagar ao dia a partir de {{price.vision.weekFrom}} dias; na Air Blade, a partir de {{price.airblade.weekFrom}}.",
+        "A loja indica um único preço para a Air Blade, sem separar a 125 da 160. Pergunte se o valor se mantém para a versão que lhe propõem e peça o total para as suas datas. A caução, uma eventual entrega e o combustível combinam-se à parte; a [tabela de preços](/precos/) mostra as referências de todos os modelos."
+      ]
+    },
+    {
+      "h2": "A carta vem antes do gosto",
+      "body": [
+        "Antes de comparar conforto, confirme o que pode conduzir. Desde 1 de janeiro de 2025, a lei vietnamita separa as motas de duas rodas em duas categorias: a A1, até 125 cm³, e a A, acima desse limite. Aplicada a estes dois modelos, a regra fica assim:",
+        {
+          "ul": [
+            "**Honda Vision**: com cerca de 110 cm³, cabe na A1.",
+            "**Air Blade 125**: também cabe na A1.",
+            "**Air Blade 160**: exige a categoria A. Com uma habilitação limitada à A1, fica de fora."
+          ]
+        },
+        "Quem só tem a A1 escolhe, portanto, entre a Vision e a Air Blade 125. Como o mesmo nome cobre as duas versões da Air Blade, peça a cilindrada por escrito ao reservar e confira-a no registo da mota quando a levantar. O guia das [categorias A1 e A](/guia-de-aluguer/categorias-a1-e-a/) explica a lei, e o de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/) diz o que levar como visitante."
+      ]
+    },
+    {
+      "h2": "Sozinho e dentro da cidade: o terreno da Vision",
+      "body": [
+        "Para quem anda a solo entre bairros, com paragens a cada cruzamento, a Vision joga com o porte. É mais compacta e mais leve do que a Air Blade, e numa scooter baixa chega-se bem com os pés ao chão em cada semáforo. Ao fim de um dia de pára-arranca, isso nota-se mais do que a potência que fica por usar.",
+        "A potência modesta não é um defeito neste uso. No trânsito lento de Hanói, contam mais a suavidade no acelerador e o espaço para o veículo da frente do que a capacidade de acelerar. Nas ruas estreitas e nos parques de motas cheios, uma scooter compacta também se arruma com menos esforço.",
+        "Há ainda o combustível. Para a Vision atual, o consumo anunciado é de 1,82 litros aos 100 km, medido em condições de teste; no trânsito real, conte com mais. Para a Air Blade, os guias deste site não indicam um valor comparável, por isso não decida entre as duas pelo consumo.",
+        "Se vai circular muito pelo centro histórico, leia também o guia sobre [conduzir no Bairro Antigo](/zonas-de-hanoi/conduzir-no-bairro-antigo/). Aí, as ruas estreitas e as regras locais pesam mais do que o modelo."
+      ]
+    },
+    {
+      "h2": "A dois, nas pontes e com carga: o terreno da Air Blade",
+      "body": [
+        "A Air Blade é maior e mais potente, e essa folga sente-se em três situações típicas de Hanói:",
+        {
+          "ul": [
+            "**Com passageiro**: com dois adultos, arranca com mais facilidade e recupera velocidade depois de cada paragem. A Vision também leva duas pessoas na cidade, mas acelera mais devagar e precisa de mais distância para travar.",
+            "**Nas pontes sobre o rio Vermelho**: as rampas compridas e o vento lateral pedem margem, sobretudo a dois. A versão de 160 cm³ é a que sobe com mais facilidade.",
+            "**Com a bagagem do dia**: os 23,2 litros debaixo do assento, segundo a Honda, levam a capa de chuva e objetos que na Vision podem não caber."
+          ]
+        },
+        "A localização também conta. A loja fica em {{area}}: do outro lado do rio Vermelho em relação ao centro histórico. Se vai fazer essa travessia todos os dias, e a dois, a folga da Air Blade passa a ser usada em cada trajeto, e não só de vez em quando. O guia da [ponte Long Biên](/zonas-de-hanoi/ponte-long-bien/) mostra as regras de uma das passagens.",
+        "Para andar a dois, lembre-se de que a regra geral no Vietname é um passageiro por mota, com capacete apertado para quem conduz e para quem vai atrás. O guia da [scooter para duas pessoas](/tipos-de-motas/scooter-para-duas-pessoas/) explica o que a lei permite e como adaptar a condução."
+      ]
+    },
+    {
+      "h2": "Travagem: onde as duas se distinguem",
+      "body": [
+        "Na Air Blade, o sistema de travagem muda com a versão. Na geração lançada em 2022, a Honda equipou a 160 com ABS na roda da frente e manteve na 125 a travagem combinada (CBS); no modelo de 2026, o ABS chegou também à 125 desportiva. Na Vision, não conte com ABS sem que a loja o confirme para a unidade proposta.",
+        "O ABS impede que a roda da frente bloqueie numa travagem brusca, o que ajuda em piso molhado. Mas o manual da Honda avisa que não encurta a distância de travagem e, em certas situações, até a pode aumentar. Com chuva, em qualquer das duas, a principal proteção continua a ser a velocidade moderada e a distância ao veículo da frente.",
+        {
+          "note": "Se o ABS for o motivo para escolher a Air Blade, pergunte também a cilindrada: a 125 desportiva de 2026 tem ABS e cabe na A1, mas uma unidade com ABS pode igualmente ser uma 160, que exige a categoria A.",
+          "tone": "info",
+          "title": "ABS e carta são perguntas separadas"
+        },
+        "Ao levantar qualquer das duas, experimente as manetes com a mota parada: devem travar com firmeza, sem chegarem ao punho. Se a unidade tiver ABS, peça que lhe expliquem a luz de aviso do painel."
+      ]
+    },
+    {
+      "h2": "Qual escolher: a decisão por perfil",
+      "body": [
+        "Com a carta confirmada, a escolha resolve-se pelo uso que vai dar à mota na maior parte dos dias:",
+        {
+          "table": {
+            "caption": "Vision ou Air Blade conforme o perfil",
+            "head": [
+              "Perfil",
+              "Escolha",
+              "O que pesa"
+            ],
+            "rows": [
+              [
+                "Sozinho, sobretudo dentro da cidade",
+                "Vision",
+                "Porte compacto e paragens frequentes"
+              ],
+              [
+                "Casal numa só mota, vários dias",
+                "Air Blade",
+                "Folga no arranque e nas rampas com dois adultos"
+              ],
+              [
+                "Carta só com a categoria A1",
+                "Vision ou Air Blade 125",
+                "A 160 fica de fora; cilindrada confirmada por escrito"
+              ],
+              [
+                "Travessia do rio Vermelho todos os dias",
+                "Air Blade",
+                "Margem nas rampas, sobretudo a dois"
+              ],
+              [
+                "Mochila e capa de chuva sempre debaixo do assento",
+                "Air Blade",
+                "23,2 litros de arrumação"
+              ],
+              [
+                "Primeira vez numa scooter de maior porte",
+                "Vision",
+                "Mais compacta e mais leve"
+              ],
+              [
+                "Um mês com orçamento contado",
+                "Compare as duas referências mensais",
+                "Ao mês, a Air Blade custa {{cmp.airblade.vision.month}} a Vision"
+              ]
+            ]
+          }
+        },
+        "Quando o seu caso junta dois perfis — sozinho durante a semana e a dois ao fim de semana, por exemplo —, decida pelo uso mais frequente. Uma saída a dois de vez em quando não justifica, por si só, uma mota maior durante todo o aluguer: na cidade, a Vision também transporta um passageiro.",
+        "Se o critério principal for gastar menos, compare também com a Honda Click, que ao dia custa {{cmp.click.vision.day}} a Vision; o guia da [Honda Click](/tipos-de-motas/honda-click-em-hanoi/) mostra os limites dessa opção, e o da [Yamaha Mio](/tipos-de-motas/yamaha-mio-em-hanoi/) apresenta a outra scooter de pequena cilindrada da tabela. Se o preço for igual e a dúvida ficar entre estas duas, o guia [Honda Click ou Yamaha Mio](/tipos-de-motas/honda-click-ou-yamaha-mio/) ajuda a escolher. E se nunca conduziu uma mota, nenhuma das duas resolve a falta de prática: o trânsito de Hanói não é sítio para aprender, e o guia [quando é melhor não conduzir](/rotas-e-mobilidade/quando-nao-conduzir/) propõe alternativas."
+      ]
+    },
+    {
+      "h2": "Como pedir à loja o modelo certo",
+      "body": [
+        "Quando decidir, envie um pedido que permita à loja propor a unidade adequada logo à primeira:",
+        {
+          "checklist": [
+            "o modelo pretendido e, se for a Air Blade, a versão escrita com números, «125» ou «160»;",
+            "a categoria de motociclos que consta da sua carta;",
+            "se vai levar passageiro e se precisa de dois capacetes;",
+            "as datas e as horas de levantamento e de devolução;",
+            "o outro modelo como alternativa, caso o primeiro não esteja livre;",
+            "o preço total do período, com o modelo e a versão escritos na resposta."
+          ]
+        },
+        "Pode fazer o pedido pelo {{phone}}, por chamada ou Zalo, {{hours}}; a morada e o mapa estão na página de [contactos](/contactos/). Se depois de alguns dias perceber que o outro modelo lhe servia melhor, o guia sobre [trocar de mota](/guia-de-aluguer/trocar-de-mota/) mostra como pedir a troca."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "A Air Blade é mais difícil de conduzir do que a Vision?",
+      "a": "As duas são automáticas e comandam-se da mesma forma: acelerador e duas manetes de travão. A diferença está no porte, porque a Air Blade é maior e a Vision mais compacta e mais leve. Se é a primeira vez numa scooter de maior porte, comece pela Vision."
+    },
+    {
+      "q": "A Vision chega para andar a dois em Hanói?",
+      "a": "Na cidade, sim: leva um passageiro, embora acelere mais devagar e precise de mais distância para travar. Se a dois vai atravessar pontes todos os dias ou fazer trajetos longos, a Air Blade tem mais folga. A regra geral é um passageiro por mota, com capacete apertado para ambos."
+    },
+    {
+      "q": "Posso começar com uma Vision e passar para uma Air Blade a meio do aluguer?",
+      "a": "Depende das motas livres nesse momento e das condições da loja. Se admite essa hipótese, diga-o ao reservar e pergunte como se acerta o preço, sobretudo num aluguer mensal, em que a Air Blade custa {{cmp.airblade.vision.month}} a Vision."
+    },
+    {
+      "q": "Qual das duas tem mais espaço de arrumação?",
+      "a": "A Air Blade, com 23,2 litros debaixo do assento, segundo a Honda, tanto na versão de 125 como na de 160 cm³. Na Vision, o compartimento é pensado para objetos pequenos e pode não levar um capacete inteiro. Se precisa de levar algo concreto, experimente na loja antes de decidir."
+    }
+  ],
+  "sources": [
+    "tabela-precos-proprietario",
+    {
+      "title": "Bảng giá xe Honda Vision mới nhất tháng 9/2026",
+      "publisher": "CafeF",
+      "url": "https://cafef.vn/bang-gia-xe-honda-vision-moi-nhat-thang-9-2026-188260909071440813.chn",
+      "accessed": "2026-10-12",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Honda Vision thế hệ mới được ra mắt tại Việt Nam, giá từ 30 triệu đồng",
+      "publisher": "Doanh Nhân — Báo Pháp luật Việt Nam",
+      "url": "https://doanhnhan.baophapluat.vn/honda-vision-the-he-moi-duoc-ra-mat-tai-viet-nam-gia-tu-30-trieu-dong-35960.html",
+      "accessed": "2026-10-12",
+      "type": "news",
+      "lang": "vi"
+    },
+    {
+      "title": "Air Blade 160",
+      "publisher": "Honda Việt Nam",
+      "url": "https://www.honda.com.vn/xe-may/san-pham/air-blade-160125?category=2",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "Apresentação da nova geração da Air Blade, com versões de 160 e 125 cm³ (notícia em vietnamita)",
+      "publisher": "Honda Việt Nam",
+      "url": "https://www.honda.com.vn/xe-may/tin-tuc/honda-viet-nam-gioi-thieu-air-blade-the-he-moi-2023-tien-phong-manh-luc",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "Apresentação dos modelos de 2026 da SH160i/125i, da Air Blade 160/125 e da LEAD ABS (notícia em vietnamita)",
+      "publisher": "Honda Việt Nam",
+      "url": "https://www.honda.com.vn/xe-may/tin-tuc/honda-viet-nam-chinh-thuc-gioi-thieu-sh160i125i-air-blade-160125-va-lead-abs-moi-2026-tai-su-kien-khai-pha-dau-an-doc-ban",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    {
+      "title": "Air Blade — Hướng dẫn sử dụng (manual do utilizador, PDF em vietnamita)",
+      "publisher": "Honda Việt Nam",
+      "url": "https://cdn.honda.com.vn/motorbike-manual/September2025/NC8346r3AExXZtAvFuMG.pdf",
+      "accessed": "2026-10-13",
+      "type": "manufacturer",
+      "lang": "vi"
+    },
+    "chotot-air-blade-125-160",
+    "lei-36-2024-a1",
+    "lawnet-categorias-2025",
+    "lawnet-passageiros-2025",
+    "lawnet-capacete-168"
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "READY_FOR_QA",
+  "revision": {
+    "reason": "Ligações internas para artigos publicados depois"
+  }
+}
