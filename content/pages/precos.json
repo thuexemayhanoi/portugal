@@ -11,7 +11,7 @@
   "lead": "A tabela de referência da loja, por modelo e por período. Use-a para comparar e peça sempre a confirmação do valor final para as suas datas.",
   "updated": "2026-10-14",
   "toc": true,
-  "answer": "Na tabela de referência da loja, alugar uma mota em Hanói custa entre {{price.min.day}} e {{price.max.day}} por dia. A semana vai de {{price.wave.week}} a {{price.vision.week}} e o mês de {{price.wave.month}} a {{price.vision.month}}, conforme o modelo. A caução, a entrega e os extras não estão incluídos e são confirmados pela loja.",
+  "answer": "Na tabela de referência da loja, alugar uma mota em Hanói custa entre {{price.min.day}} e {{price.max.day}} por dia. A semana vai de {{price.wave.week}} a {{price.vision.week}} e o mês de {{price.wave.month}} a {{price.vision.month}}, conforme o modelo. A caução, a entrega e os extras não estão incluídos e são confirmados pela loja. As motas e bicicletas elétricas e os períodos sem preço publicado são sob consulta; veja os [contactos oficiais](/contactos/).",
   "sections": [
     {
       "h2": "Tabela de preços de referência",
@@ -67,7 +67,7 @@
             "se tenciona sair de Hanói durante o aluguer."
           ]
         },
-        "Contacte a loja pelo telefone {{phone}}, [Zalo]({{zalo}}) ou [WhatsApp](https://wa.me/84942467674), {{hours}}. Consulte a [morada e o mapa](/contactos/)."
+        "Contacte a loja pelo telefone {{phone}}, [Zalo]({{zalo}}) ou [WhatsApp]({{whatsapp}}), {{hours}}. Consulte a [morada e o mapa](/contactos/)."
       ]
     },
     {
