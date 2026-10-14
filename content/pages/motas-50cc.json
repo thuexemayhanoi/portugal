@@ -69,7 +69,9 @@
       "h2": "Contactos oficiais e confirmação",
       "body": [
         {
-          "component": "contact-card",
+          "component": "contact-card"
+        },
+        {
           "note": "A referência publicada é {{price.cc50.day}} por dia; semanas e meses são sob consulta e não se calculam multiplicando a diária."
         }
       ]
