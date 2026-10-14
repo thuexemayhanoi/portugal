@@ -1,0 +1,251 @@
+{
+  "contract_version": 1,
+  "id": "PT-0071",
+  "slug": "alugar-a-mota-a-chegada",
+  "title": "Alugar a mota à chegada ou esperar uns dias em Hanói",
+  "description": "Levantar a mota no dia em que chega a Hanói ou esperar? O que custa um dia parado, o que tratar antes (SIM, dinheiro, Zalo) e como pedir um início mais tarde.",
+  "h1": "Em que dia começar o aluguer da mota: logo à chegada ou depois de uns dias",
+  "summary": "Na maioria das viagens compensa esperar: comece o aluguer no primeiro dia em que vai mesmo conduzir, depois de dormir, de ter dados no telemóvel e de conhecer a zona do alojamento. Um dia com a mota parada paga-se como os outros, se a loja o contar, por exemplo {{price.vision.day}} numa Honda Vision. Levantar a mota logo à chegada é a exceção.",
+  "key_points": [
+    "Comece o aluguer no primeiro dia em que vai mesmo conduzir: um dia com a mota parada paga-se como os outros, se a loja o contar.",
+    "Numa viagem curta, cada dia conta; numa estadia longa, os primeiros dias sem mota ajudam a escolher o alojamento e o modelo.",
+    "Antes do levantamento, trate do telemóvel, do dinheiro e de um contacto que funcione com a loja: o registo de um SIM vietnamita exige passaporte e verificação facial.",
+    "Conheça a zona a pé, de autocarro ou de táxi: de sexta a domingo, à noite, o centro histórico fecha às motas.",
+    "Peça à loja, por escrito, a data e a hora de início e a forma como conta o primeiro dia."
+  ],
+  "intro": [
+    "Quem aterra em Hanói com uma mota em vista tem uma escolha fácil de enunciar e difícil de acertar: levantá-la logo ou deixá-la esperar uns dias. A resposta não depende só do cansaço. Depende de quantos dias fica, de onde dorme, de quanto conhece o trânsito e de como a loja conta o primeiro dia.",
+    "Este guia trata da decisão do dia de início, e não da hora de aterragem: para um voo que atrasa, veja o guia sobre [voo atrasado e reserva da mota](/precos/alterar-ou-cancelar-a-reserva/); para a conta de cada dia, o das [horas de levantamento e devolução](/precos/horas-de-levantamento-e-devolucao/)."
+  ],
+  "sections": [
+    {
+      "h2": "A regra prática: começar quando a mota passa a ser útil",
+      "body": [
+        "A regra que serve à maioria dos visitantes é começar o aluguer no primeiro dia em que vai mesmo conduzir, e não no dia em que aterra. Há três razões, de peso diferente conforme a viagem:",
+        {
+          "ul": [
+            "**Custo**: um dia com a mota parada à porta paga-se como os outros, se a loja o contar. Numa Honda Vision, são {{price.vision.day}}; numa Honda Click, {{price.click.day}}.",
+            "**Atenção**: depois de um voo longo e de uma noite curta, o trânsito de Hanói pede mais do que se tem para dar. O guia sobre [quando é melhor não conduzir](/rotas-e-mobilidade/quando-nao-conduzir/) inclui o cansaço da chegada entre as situações a evitar.",
+            "**Informação**: ao fim de um ou dois dias a pé, já sabe onde a mota vai dormir, que ruas são estreitas e se prefere uma scooter automática ou uma semiautomática."
+          ]
+        },
+        "Há exceções, descritas mais abaixo. Antes delas, veja quanto pode custar um início antecipado."
+      ]
+    },
+    {
+      "h2": "Quanto custa deixar a mota parada",
+      "body": [
+        "Se o aluguer começa no dia da chegada, os dias em que não conduz contam na mesma. A forma como um dia se conta varia: o guia sobre a [hora de devolução e a contagem do dia](/precos/horas-de-levantamento-e-devolucao/) explica as duas formas habituais, e com a de calendário um levantamento ao fim da tarde conta o dia inteiro.",
+        "O que mais pesa é o efeito na tarifa. Numa viagem de sete dias, começar o aluguer ao terceiro dia deixa cinco dias de mota, e a escolha entre dias avulsos e tarifa semanal pode mudar. A tabela seguinte mostra, modelo a modelo, a partir de quantos dias a semana custa o mesmo ou menos do que pagar ao dia; numa Honda Vision, é a partir de {{price.vision.weekFrom}} dias.",
+        {
+          "component": "duration-compare"
+        },
+        "Compare esse número com os dias em que realmente vai conduzir, e não com os da viagem. O guia do [aluguer semanal](/precos/aluguer-semanal-de-mota/) explica o resto da conta, a [página de preços](/precos/) reúne as tarifas, e o total para as suas datas é o que a loja confirmar."
+      ]
+    },
+    {
+      "h2": "Quando começar, conforme a duração da estadia",
+      "body": [
+        "Não há uma regra oficial para isto: a tabela é uma orientação deste guia, a ajustar ao seu caso.",
+        {
+          "table": {
+            "caption": "Dia de início conforme a duração da estadia",
+            "head": [
+              "Estadia",
+              "Quando começar",
+              "Porquê"
+            ],
+            "rows": [
+              [
+                "Dois a quatro dias em Hanói",
+                "No primeiro dia em que precisa mesmo da mota, muitas vezes o segundo",
+                "Cada dia conta; use o dia da chegada para descansar e conhecer a zona. Se só precisar de um ou dois dias, veja o [aluguer por um dia](/precos/aluguer-de-mota-por-um-dia/)"
+              ],
+              [
+                "Cerca de uma semana",
+                "Do segundo ao terceiro dia",
+                "Dois dias para dormir, tratar do telemóvel e perceber o bairro; depois compare dias avulsos e semana"
+              ],
+              [
+                "Um mês ou mais",
+                "Depois de fixar o alojamento, na primeira ou na segunda semana",
+                "O alojamento decide se precisa da mota; veja o [aluguer mensal](/precos/aluguer-mensal-de-mota/) e a [mota para nómadas digitais](/precos/mota-para-nomadas-digitais/)"
+              ]
+            ]
+          }
+        },
+        "Numa estadia longa, o guia dos nómadas digitais sugere começar por uma semana de ensaio para medir a rotina, em vez de fechar logo o mês."
+      ]
+    },
+    {
+      "h2": "O que tratar antes do primeiro levantamento",
+      "body": [
+        "Os primeiros dias servem para o que não precisa de mota. Quatro coisas valem o tempo.",
+        {
+          "h3": "Telemóvel e dados"
+        },
+        "Registar um SIM vietnamita exige passaporte (ou conta de identificação eletrónica) e uma fotografia do rosto, segundo o Decreto 163/2024/NĐ-CP, em vigor desde 24 de dezembro de 2024. Desde 15 de abril de 2026, o registo de um número móvel exige também verificação facial. Leve o passaporte e reserve tempo para o processo. As fontes oficiais consultadas não indicam preços, por isso não os apresentamos.",
+        {
+          "h3": "Contacto com a loja"
+        },
+        "Guarde o {{phone}} e a localização da loja no [Google Maps]({{maps}}), e tenha a morada em vietnamita, {{address.vi}}, pronta a mostrar ao taxista. A loja atende por telefone ou Zalo. Um guia para viajantes diz que o Zalo funciona com número estrangeiro, mas um fornecedor de números virtuais diz que o registo pede um número vietnamita. As fontes não concordam e não foi possível confirmar se, em 2026, há passos extra. Teste o registo antes de contar com ele e tenha a chamada normal como alternativa.",
+        {
+          "h3": "Dinheiro"
+        },
+        "Pergunte à loja que formas de pagamento aceita no levantamento e, se houver pagamentos em numerário, leve o dinheiro já levantado. Segundo o Banco do Estado do Vietname, circulam seis notas de polímero, e a de maior valor é a de quinhentos mil dong; confira o valor de cada nota antes de a entregar. O guia sobre [pagar no início ou no fim](/precos/pagar-no-inicio-ou-no-fim/) explica o que combinar, e o de [recibos e comprovativos](/precos/recibos-e-comprovativos/), o que guardar.",
+        {
+          "h3": "Carta e licença internacional"
+        },
+        "Para conduzir uma mota no Vietname precisa de carta com a categoria adequada (desde 1 de janeiro de 2025, a A1 abrange motas até 125 cm³ ou elétricas até 11 kW) e, sendo visitante, da licença internacional. Se não tem os dois documentos, não levante a mota. O guia sobre a [licença internacional de condução](/guia-de-aluguer/licenca-internacional-de-conducao/) explica como a pedir em Portugal, e o de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/), o que a loja pede."
+      ]
+    },
+    {
+      "h2": "Conhecer a cidade sem mota nos primeiros dias",
+      "body": [
+        "Dois dias sem mota não são dois dias perdidos. Ver o que fica a pé do alojamento, perceber onde passam os autocarros e saber como se pede um táxi dá-lhe um mapa mental que a mota depois aproveita.",
+        "O centro histórico percorre-se bem a pé, sobretudo à noite. À data de 13 de outubro de 2026, a zona 1 de Hoàn Kiếm está fechada às motas de sexta a domingo, das 19:00 às 24:00; se a sua chegada calhar a um fim de semana, essas noites são do centro a pé. A regra está explicada no guia da [zona de baixas emissões](/tipos-de-motas/zona-de-baixas-emissoes-hanoi/).",
+        "Para as deslocações maiores, as viagens nos autocarros públicos subsidiados dentro do Anel Viário 1 são gratuitas de 1 de julho de 2026 a 30 de junho de 2027. Os autocarros turísticos ficam de fora, por isso confirme a linha antes de contar com ela. A comparação entre táxi, mota com condutor, autocarro e a pé está no guia [quando é melhor não conduzir](/rotas-e-mobilidade/quando-nao-conduzir/)."
+      ]
+    },
+    {
+      "h2": "Quando levantar logo à chegada faz sentido",
+      "body": [
+        "Levantar a mota no dia da chegada é a exceção, e só compensa se se juntarem várias condições:",
+        {
+          "ul": [
+            "aterra de manhã e chega à loja com muita margem antes do fecho ({{hours}});",
+            "dormiu e está com a atenção que o trânsito pede;",
+            "tem a carta e a licença internacional válidas e já conduziu motas;",
+            "a viagem é curta e cada dia conta, ou o alojamento fica longe de tudo;",
+            "tem telemóvel com dados e a morada do alojamento."
+          ]
+        },
+        "Mesmo assim, faça só um percurso curto, perto da loja, de dia. O guia do [aluguer de motas em Long Biên](/zonas-de-hanoi/aluguer-de-motas-em-long-bien/) descreve a primeira saída deste lado do rio, e o de [receber a mota](/guia-de-aluguer/receber-a-mota/) conta 30 a 45 minutos para a entrega. Se uma destas condições falhar, espere."
+      ]
+    },
+    {
+      "h2": "Como pedir à loja um início mais tarde",
+      "body": [
+        "Pedir um início depois da chegada é simples se ficar tudo escrito. Siga estes passos:",
+        {
+          "steps": [
+            {
+              "title": "Escolha a data e a hora de início",
+              "text": "Diga o dia em que quer começar a conduzir, e não o da chegada, e uma hora dentro do horário da loja ({{hours}})."
+            },
+            {
+              "title": "Pergunte como conta o primeiro dia",
+              "text": "Com dias de calendário, uma hora tardia conta o dia inteiro; com períodos de 24 horas, não."
+            },
+            {
+              "title": "Peça o total",
+              "text": "O valor em VND para as datas e a duração, e o que fica fora dele."
+            },
+            {
+              "title": "Peça a confirmação escrita",
+              "text": "Data, hora, modelo e total, e o que acontece se o voo atrasar ou se quiser adiar ou antecipar o início."
+            }
+          ]
+        },
+        "Um exemplo, fácil de passar por um tradutor: «Bom dia. Chego a Hanói a [data] e quero começar o aluguer de uma [modelo] a [data], às 10:00, por [n] dias. Como se conta o primeiro dia e qual é o total? Se o meu voo atrasar, posso mudar a data?»",
+        "Se já sabe a data de início, veja quando vale a pena [reservar a mota com antecedência](/precos/reservar-com-antecedencia/); se ainda não sabe quantos dias vai precisar dela, veja como [alugar com as datas em aberto](/precos/aluguer-com-datas-em-aberto/). Contacte a loja por telefone ou Zalo, para o {{phone}}; os restantes dados estão na página de [contactos](/contactos/)."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Posso reservar já e só começar o aluguer daqui a uns dias?",
+      "a": "Pergunte à loja: o site não publica regras para reservar uma data posterior à chegada. Indique a data e a hora de início, o modelo e uma alternativa, e só conte com a mota quando a loja a confirmar por escrito."
+    },
+    {
+      "q": "Se esperar uns dias, arrisco ficar sem a mota que quero?",
+      "a": "A disponibilidade confirma-a a loja, e o site não a garante. Se já sabe a data de início, reserve-a; o guia sobre reservar com antecedência mostra quando vale a pena."
+    },
+    {
+      "q": "Quantos dias devo esperar antes de começar a conduzir em Hanói?",
+      "a": "Não há um número certo. Como orientação deste guia, deixe pelo menos uma noite de descanso e um dia a pé ou de táxi na zona do alojamento; numa estadia longa, espere até fixar o alojamento."
+    },
+    {
+      "q": "Posso levantar a mota logo de manhã se o voo chegar de madrugada?",
+      "a": "A loja abre às {{opens}}, e antes disso só com acordo prévio e por escrito. Mesmo que chegue a horas, o cansaço da viagem é um bom motivo para adiar o levantamento para o dia seguinte."
+    }
+  ],
+  "sources": [
+    "tabela-precos-proprietario",
+    "lei-36-2024-a1",
+    "mfat-conduzir-vietname",
+    {
+      "title": "Giấy tờ sử dụng để đăng ký thông tin thuê bao di động mặt đất",
+      "publisher": "Portal de divulgação jurídica de Cần Thơ (pbgdpl.cantho.gov.vn)",
+      "url": "https://pbgdpl.cantho.gov.vn/giay-to-su-dung-de-dang-ky-thong-tin-thue-bao-di-dong-mat-dat",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "vi"
+    },
+    {
+      "title": "Đã có Nghị định 163/2024/NĐ-CP quy định chi tiết Luật Viễn thông",
+      "publisher": "LuatVietnam",
+      "url": "https://luatvietnam.vn/tin-van-ban-moi/da-co-nghi-dinh-163-2024-nd-cp-quy-dinh-chi-tiet-luat-vien-thong-186-100498-article.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "Từ hôm nay, 15/4/2026, đăng ký thuê bao di động phải xác thực khuôn mặt",
+      "publisher": "LuatVietnam",
+      "url": "https://luatvietnam.vn/tin-van-ban-moi/moi-dang-ky-thue-bao-di-dong-phai-xac-thuc-khuon-mat-tu-15-4-2026-186-108072-article.html",
+      "accessed": "2026-10-13",
+      "type": "legal-database",
+      "lang": "vi"
+    },
+    {
+      "title": "What is Zalo in Vietnam – A Guide for Travelers",
+      "publisher": "Local Vietnam",
+      "url": "https://localvietnam.com/vietnam-tips/what-is-zalo/",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "en"
+    },
+    {
+      "title": "Guia de um fornecedor de números virtuais sobre como criar uma conta Zalo sem número de telemóvel (em inglês)",
+      "publisher": "Calilio",
+      "url": "https://www.calilio.com/blogs/create-zalo-account-without-phone-number",
+      "accessed": "2026-10-13",
+      "type": "business",
+      "lang": "en"
+    },
+    {
+      "title": "Emissão de moeda: notas e moedas em circulação (página do Banco do Estado do Vietname, em inglês)",
+      "publisher": "State Bank of Vietnam (sbv.gov.vn)",
+      "url": "https://sbv.gov.vn/en/money-issuance",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "title": "Ha Noi free bus travel within Ring Road 1 for one year",
+      "publisher": "Cổng Thông tin điện tử Chính phủ (chinhphu.vn)",
+      "url": "https://thanglong.chinhphu.vn/ha-noi-free-bus-travel-within-ring-road-1-for-one-year-110260702104500646.htm",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "title": "Ha Noi begins restricting fossil-fuel vehicles in low-emission zones",
+      "publisher": "Portal do Governo do Vietname (chinhphu.vn) — Hanoi Capital",
+      "url": "https://hanoicapital.chinhphu.vn/ha-noi-begins-restricting-fossil-fuel-vehicles-in-low-emission-zones-110260702082825273.htm",
+      "accessed": "2026-10-13",
+      "type": "official",
+      "lang": "en"
+    }
+  ],
+  "legal_note": true,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "READY_FOR_QA",
+  "revision": {
+    "reason": "Ligações internas para artigos publicados depois"
+  }
+}

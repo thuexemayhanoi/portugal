@@ -17,6 +17,77 @@
     "P2 só N fontes": 26,
     "P2 só N ligação contextual de entrada": 26
   },
+  "money_keywords": [
+    {
+      "query": "aluguer de motas em Hanói",
+      "landing": "/",
+      "title": "Aluguer de motas em Hanói | Scooters, 50 cc e preços",
+      "title_coverage": 1,
+      "h1_coverage": 1,
+      "contextual_in": 4,
+      "competing_titles": []
+    },
+    {
+      "query": "preços aluguer mota Hanói",
+      "landing": "/precos/",
+      "title": "Preços de aluguer de motas em Hanói | Dia, semana e mês",
+      "title_coverage": 1,
+      "h1_coverage": 1,
+      "contextual_in": 96,
+      "competing_titles": []
+    },
+    {
+      "query": "aluguer de scooter em Hanói",
+      "landing": "/tipos-de-motas/scooters/",
+      "title": "Aluguer de scooters em Hanói | Vision, Air Blade, Click",
+      "title_coverage": 1,
+      "h1_coverage": 1,
+      "contextual_in": 56,
+      "competing_titles": []
+    },
+    {
+      "query": "como alugar mota em Hanói",
+      "landing": "/guia-de-aluguer/",
+      "title": "Como alugar uma mota em Hanói | Guia passo a passo",
+      "title_coverage": 1,
+      "h1_coverage": 1,
+      "contextual_in": 84,
+      "competing_titles": []
+    },
+    {
+      "query": "documentos e caução aluguer mota Hanói",
+      "landing": "/guia-de-aluguer/documentacao-e-caucao/",
+      "title": "Documentos e caução para alugar mota em Hanói",
+      "title_coverage": 0.8,
+      "h1_coverage": 0.2,
+      "contextual_in": 194,
+      "competing_titles": []
+    },
+    {
+      "query": "mota 50cc Hanói",
+      "landing": "/tipos-de-motas/motas-50cc/",
+      "title": "Aluguer de motas de 50 cc em Hanói | Preço e regras",
+      "title_coverage": 0.67,
+      "h1_coverage": 0.67,
+      "contextual_in": 32,
+      "competing_titles": []
+    },
+    {
+      "query": "tipos de motas para alugar em Hanói",
+      "landing": "/tipos-de-motas/",
+      "title": "Tipos de motas para alugar em Hanói | Guia de escolha",
+      "title_coverage": 1,
+      "h1_coverage": 1,
+      "contextual_in": 56,
+      "competing_titles": []
+    }
+  ],
+  "home_anchor_texts": {
+    "loja de aluguer de motas em Long Biên": 1,
+    "loja de aluguer de motas em Hanói": 1,
+    "aluguer de motas em Hanói": 1,
+    "alugar uma mota": 1
+  },
   "not_measured": [
     "Search Console / Bing: impressões, cliques, CTR, posição e estado de indexação (ligação por configurar, ver docs/OWNER-ACTIONS.md)",
     "Core Web Vitals de campo (CrUX); Lighthouse corre no workflow SEO Monitor sobre o site real",

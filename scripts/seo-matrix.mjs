@@ -228,6 +228,40 @@ for (const f of facts) {
   });
 }
 
+// --- money keyword clusters: one designated landing page per commercial query (no competing titles)
+const CLUSTERS = [
+  { query: 'aluguer de motas em Hanói', variants: ['alugar mota Hanói', 'aluguer de scooters Hanói', 'motas para alugar Hanói'], url: '/' },
+  { query: 'preços aluguer mota Hanói', variants: ['quanto custa alugar mota Hanói'], url: '/precos/' },
+  { query: 'aluguer de scooter em Hanói', variants: ['alugar scooter Hanói', 'Honda Vision Hanói'], url: '/tipos-de-motas/scooters/' },
+  { query: 'como alugar mota em Hanói', variants: ['guia aluguer mota Vietname'], url: '/guia-de-aluguer/' },
+  { query: 'documentos e caução aluguer mota Hanói', variants: ['carta de condução mota Vietname'], url: '/guia-de-aluguer/documentacao-e-caucao/' },
+  { query: 'mota 50cc Hanói', variants: ['alugar 50cc Hanói'], url: '/tipos-de-motas/motas-50cc/' },
+  { query: 'tipos de motas para alugar em Hanói', variants: ['scooter ou semiautomática'], url: '/tipos-de-motas/' }
+];
+const homeAnchors = [];
+for (const p of model.pages) {
+  const src = p.kind === 'article' ? p.article : p.kind === 'page' ? p.sections : null;
+  for (const m of JSON.stringify(src ?? '').matchAll(/\[([^\[\]"]+)\]\(\/\)/g)) homeAnchors.push(m[1]);
+}
+const money = CLUSTERS.map((c) => {
+  const f = facts.find((x) => x.p.url === c.url);
+  const kw = words(c.query);
+  const cover = (t) => kw.filter((k) => words(t).includes(k)).length / kw.length;
+  // A rival title starts with the exact query phrase; titles that use it as scope after their own
+  // qualifier («Preços de…», «Caução no…», «Contactos | …») answer a different query and are fine.
+  const rivals = facts.filter((x) => x.p.url !== c.url && x.p.indexable && normalize(x.title).startsWith(normalize(c.query))).map((x) => x.p.url);
+  return {
+    query: c.query,
+    landing: c.url,
+    title: f?.title,
+    title_coverage: Number(cover(f?.title || '').toFixed(2)),
+    h1_coverage: Number(cover(f?.h1.join(' ') || '').toFixed(2)),
+    contextual_in: (contextual.get(c.url) || new Set()).size,
+    competing_titles: rivals
+  };
+});
+fs.writeFileSync(rel(`${OUT}/money-keywords.csv`), csv([Object.keys(money[0]), ...money.map((m) => Object.values(m).map((v) => (Array.isArray(v) ? v.join(' ') : v)))]));
+
 const order = { P0: 0, P1: 1, P2: 2, OK: 3 };
 rows.sort((a, b) => order[a.priority] - order[b.priority] || a.url.localeCompare(b.url));
 const cols = Object.keys(rows[0]);
@@ -249,6 +283,8 @@ const summary = {
   indexable: rows.filter((r) => r.indexable === 'yes').length,
   priority: { P0: count('P0'), P1: count('P1'), P2: count('P2'), OK: count('OK') },
   issues: Object.fromEntries(Object.entries(issueCounts).sort((a, b) => a[0].localeCompare(b[0]))),
+  money_keywords: money,
+  home_anchor_texts: Object.fromEntries([...new Set(homeAnchors)].map((a) => [a, homeAnchors.filter((x) => x === a).length])),
   not_measured: [
     'Search Console / Bing: impressões, cliques, CTR, posição e estado de indexação (ligação por configurar, ver docs/OWNER-ACTIONS.md)',
     'Core Web Vitals de campo (CrUX); Lighthouse corre no workflow SEO Monitor sobre o site real',

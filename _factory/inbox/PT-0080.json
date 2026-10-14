@@ -1,0 +1,230 @@
+{
+  "contract_version": 1,
+  "id": "PT-0080",
+  "slug": "reservar-com-antecedencia",
+  "title": "Reservar a mota com antecedência em Hanói: quando vale a pena",
+  "description": "Quando compensa reservar a mota com antecedência em Hanói — modelo concreto, aluguer longo, várias motas, feriados — e como confirmar a reserva por escrito.",
+  "h1": "Reservar antes de chegar ou alugar no momento: como decidir e confirmar a reserva",
+  "summary": "Reservar com antecedência vale a pena quando precisa de um modelo concreto, de várias motas para as mesmas datas, de um aluguer de semanas ou meses ou da mota logo no dia da chegada, e também em feriados prolongados como o Tết. Para um dia avulso em que qualquer scooter serve, a antecedência pesa menos. Em qualquer caso, a reserva só conta quando a loja a confirma por escrito.",
+  "key_points": [
+    "Este site não faz reservas: a reserva combina-se diretamente com a loja, por telefone ou Zalo, através do {{phone}}.",
+    "A antecedência ajuda mais quando o pedido é específico: um modelo, várias motas, um período longo ou uma hora de levantamento apertada.",
+    "Uma reserva só existe quando a loja confirma por escrito o modelo, as datas, as horas e o preço total.",
+    "Se lhe pedirem um pagamento para reservar, pergunte o montante, a finalidade, o comprovativo e o que acontece se cancelar.",
+    "Reconfirme a reserva um ou dois dias antes do levantamento e avise logo se o voo ou os planos mudarem."
+  ],
+  "intro": [
+    "Muitos viajantes tratam da mota antes de embarcar, tal como tratam do alojamento. Outros preferem chegar, ver a cidade e só depois decidir. As duas abordagens fazem sentido: quanto mais específico for o que precisa, mais vale a pena contactar a loja cedo.",
+    "Este guia ajuda a decidir se deve reservar a mota com antecedência na loja {{brand}}, em {{area}}, e mostra como transformar uma troca de mensagens numa reserva clara para os dois lados. Os preços de referência por dia, semana e mês estão na [página de preços](/precos/)."
+  ],
+  "sections": [
+    {
+      "h2": "O que significa reservar neste caso",
+      "body": [
+        "Este site é informativo: não aceita reservas nem pagamentos, como indicam os [termos e condições](/termos-e-condicoes/). Reservar significa combinar diretamente com a loja o modelo, as datas e o preço, e receber essa confirmação por escrito.",
+        "Na prática, uma «reserva» pode querer dizer coisas diferentes, e convém saber qual se aplica ao seu caso:",
+        {
+          "ul": [
+            "**Reserva de um modelo**: a confirmação refere-se a um modelo — uma Honda Vision, por exemplo — e a unidade concreta é escolhida no dia.",
+            "**Reserva de uma unidade**: a confirmação identifica a mota que vai receber.",
+            "**Pedido anotado**: a loja tomou nota das datas, mas ainda não confirmou o modelo nem o preço. Isto ainda não é uma reserva."
+          ]
+        },
+        "Pergunte qual destes casos se aplica ao seu pedido. A diferença pesa quando escolhe um modelo pela altura do assento, pela cilindrada ou pelo espaço para bagagem, e menos quando qualquer scooter automática lhe serve."
+      ]
+    },
+    {
+      "h2": "Quando a antecedência faz diferença",
+      "body": [
+        {
+          "h3": "Quer um modelo concreto"
+        },
+        "Se só lhe serve um modelo — a [Honda Vision](/tipos-de-motas/honda-vision-em-hanoi/) pela leveza, uma Air Blade de uma versão específica ou uma semiautomática que já sabe conduzir —, contacte a loja assim que tiver as datas. Com tempo, pode ainda escolher uma alternativa aceitável, caso o primeiro modelo não esteja livre. O guia [Air Blade 125 ou 160](/tipos-de-motas/honda-air-blade-125-ou-160/) explica o que confirmar antes de pedir uma das duas versões.",
+        {
+          "h3": "Vai alugar por semanas ou meses"
+        },
+        "Num aluguer longo, a mota fica consigo muito tempo e a loja tem de a reservar para todo o período. Um pedido feito cedo dá margem para esclarecer o preço — na tabela de referência, o mês vai de {{price.wave.month}} numa Wave a {{price.vision.month}} numa Vision — e as condições de renovação. Os guias do [aluguer semanal](/precos/aluguer-semanal-de-mota/) e do [aluguer mensal](/precos/aluguer-mensal-de-mota/) ajudam a escolher a duração.",
+        {
+          "h3": "Precisa de várias motas para as mesmas datas"
+        },
+        "Um grupo ou uma família que precisa de duas ou três motas ao mesmo tempo depende de haver unidades livres em simultâneo, de preferência do mesmo tipo. Indique logo o número de motas, os modelos e quantas pessoas vão conduzir, e peça o total para o grupo.",
+        {
+          "h3": "Quer a mota logo à chegada"
+        },
+        "Se pensa levantar a mota no dia em que aterra, a margem é curta: o voo pode atrasar e a loja está aberta {{hours}}. Combinar antes a hora, e o que acontece se chegar mais tarde, evita uma viagem em vão até {{area}}. Se a chegada for só uma escala, o guia sobre [alugar uma mota numa escala em Hanói](/precos/escala-em-hanoi-e-aluguer-de-mota/) explica quando compensa.",
+        {
+          "h3": "Viaja num feriado prolongado"
+        },
+        "Nas datas em que muita gente viaja dentro do Vietname, como o Tết, o Ano Novo Lunar, muitos serviços mudam de horário. Pergunte com mais folga se a loja abre nesses dias, a que horas e se as condições do aluguer são as habituais."
+      ]
+    },
+    {
+      "h2": "Quando não precisa de reservar muito cedo",
+      "body": [
+        "Há casos em que a antecedência traz pouco e em que é mais sensato esperar:",
+        {
+          "ul": [
+            "**Um dia avulso, sem preferência de modelo**: se qualquer scooter automática serve, tem mais alternativas. O guia do [aluguer por um dia](/precos/aluguer-de-mota-por-um-dia/) ajuda a organizar esse dia.",
+            "**Ainda não sabe se vai conduzir**: se nunca andou de mota num trânsito como o de Hanói, pode preferir ver primeiro a cidade e só depois decidir. Não há vantagem em reservar uma mota que talvez não use.",
+            "**Datas muito incertas**: uma reserva com datas que vão mudar obriga a várias alterações. Contacte a loja com as datas prováveis, pergunte até quando pode confirmar e feche quando tiver certezas."
+          ]
+        },
+        "Mesmo nestes casos, uma mensagem na véspera poupa uma deslocação: fica a saber, antes de sair do alojamento, se o modelo que quer está livre, quanto custa e a que horas o pode levantar."
+      ]
+    },
+    {
+      "h2": "Com quanta antecedência contactar a loja",
+      "body": [
+        "A loja não publica prazos de reserva. A tabela seguinte é apenas uma orientação para organizar o seu pedido; em cada caso, pergunte se o momento escolhido serve.",
+        {
+          "table": {
+            "caption": "Quando enviar o pedido, conforme o tipo de aluguer",
+            "head": [
+              "Tipo de aluguer",
+              "Quando contactar",
+              "Porquê"
+            ],
+            "rows": [
+              [
+                "Um ou dois dias, modelo flexível",
+                "Alguns dias antes ou na véspera",
+                "Confirmar o preço, o modelo e a hora de levantamento."
+              ],
+              [
+                "Um modelo concreto",
+                "Assim que tiver as datas",
+                "Ter tempo para escolher uma alternativa, se for preciso."
+              ],
+              [
+                "Uma semana ou mais",
+                "Logo que a viagem esteja marcada",
+                "Esclarecer o preço do período e as condições de renovação."
+              ],
+              [
+                "Várias motas para um grupo",
+                "Logo que saiba quantas pessoas vão conduzir",
+                "Confirmar que há unidades livres em simultâneo."
+              ],
+              [
+                "Feriados prolongados, como o Tết",
+                "Com mais folga do que o habitual",
+                "Confirmar se a loja abre e com que horário."
+              ]
+            ]
+          }
+        },
+        "Contactar cedo não fecha nada por si só. É a confirmação da loja que transforma o pedido numa reserva, e até lá as datas continuam em aberto para os dois lados."
+      ]
+    },
+    {
+      "h2": "O que perguntar antes de dar a reserva por fechada",
+      "body": [
+        "Um pedido de orçamento já reúne as datas, o modelo e o número de condutores, como explica a página de [contactos](/contactos/). Para uma reserva feita com antecedência, acrescente perguntas sobre o que pode acontecer entre hoje e o dia do levantamento:",
+        {
+          "ol": [
+            "A reserva é de um modelo ou de uma unidade concreta?",
+            "Que alternativa propõe a loja se o modelo reservado não puder ser entregue no dia?",
+            "É preciso pagar alguma coisa para reservar? Quanto, de que forma e com que comprovativo?",
+            "O que acontece se mudar as datas ou cancelar, e até quando o posso fazer?",
+            "Até que hora fica a mota à minha espera se o voo ou o comboio atrasarem?",
+            "O preço confirmado mantém-se se a tabela de referência mudar antes do levantamento?"
+          ]
+        },
+        "Uma boa resposta é concreta e fica escrita. As questões gerais sobre caução, documentos e capacetes estão reunidas nas [15 perguntas a fazer antes de alugar](/guia-de-aluguer/perguntas-antes-de-alugar/)."
+      ]
+    },
+    {
+      "h2": "Como confirmar a reserva por escrito",
+      "body": [
+        {
+          "steps": [
+            {
+              "title": "Envie um pedido completo",
+              "text": "Datas e horas de levantamento e devolução, modelo e alternativa, número de motas e de condutores, e se precisa de entrega."
+            },
+            {
+              "title": "Leia a resposta com atenção",
+              "text": "Veja se a mensagem da loja repete o modelo, as datas, as horas e o preço total. Se faltar algum destes elementos, peça-o."
+            },
+            {
+              "title": "Responda a confirmar",
+              "text": "Uma mensagem curta a aceitar a reserva nos termos indicados fecha o acordo de forma clara para os dois lados."
+            },
+            {
+              "title": "Guarde a conversa",
+              "text": "Faça uma captura de ecrã da confirmação e mantenha tudo na mesma conversa, para nada se perder entre mensagens."
+            },
+            {
+              "title": "Reconfirme na véspera",
+              "text": "Um ou dois dias antes, envie uma mensagem curta a confirmar a hora de levantamento."
+            }
+          ]
+        },
+        "Uma confirmação útil tem, pelo menos, estes elementos:",
+        {
+          "checklist": [
+            "o modelo reservado e a alternativa aceite;",
+            "as datas e as horas de levantamento e de devolução, na hora local do Vietname;",
+            "o preço total para o período, em VND;",
+            "se há algum pagamento antecipado, quanto, como e quando;",
+            "as condições de alteração e de cancelamento, nas palavras da loja;",
+            "o que levar no dia, incluindo documentos e a caução, se existir."
+          ]
+        },
+        "Se a confirmação for diferente do que leu no site, prevalece o que combinar com a loja. É mais uma razão para a guardar até ao fim do aluguer."
+      ]
+    },
+    {
+      "h2": "Pagamentos antecipados: cuidados antes de transferir",
+      "body": [
+        "O site não publica se a loja pede algum pagamento para reservar. Se lho pedirem, trate-o como qualquer pagamento feito à distância:",
+        {
+          "checklist": [
+            "confirme que está a falar com a loja, através do número {{phone}} indicado neste site;",
+            "peça por escrito o montante e a finalidade: sinal da reserva, parte do aluguer ou outra coisa;",
+            "pergunte se o valor é descontado no total ou devolvido, e em que condições;",
+            "guarde o comprovativo da transferência junto com a conversa da reserva."
+          ]
+        },
+        "Também não envie fotografias de documentos de identificação sem saber para que servem e como são guardadas. O guia de [documentação e caução](/guia-de-aluguer/documentacao-e-caucao/) explica o que ponderar quando lhe pedem um documento como garantia."
+      ]
+    },
+    {
+      "h2": "Se os planos mudarem depois de reservar",
+      "body": [
+        "Uma reserva feita semanas antes está mais exposta a mudanças: um voo alterado, uma noite a mais noutra cidade, uma chegada tardia. O princípio é sempre o mesmo: avise a loja assim que souber, na mesma conversa da reserva, e espere pela confirmação das novas datas antes de contar com elas.",
+        "Se perceber que vai chegar depois da hora combinada, ligue antes dessa hora e proponha outra dentro do horário da loja, {{hours}}. Se a viagem for cancelada, diga-o também: liberta a mota para outra pessoa e encerra o assunto de forma clara, incluindo qualquer valor que tenha adiantado."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Posso reservar a mota através deste site?",
+      "a": "Não. O site é informativo e não recebe reservas nem pagamentos. A reserva faz-se diretamente com a loja, por telefone ou Zalo, através do {{phone}}, e só conta depois de confirmada por escrito."
+    },
+    {
+      "q": "Reservar cedo torna o aluguer mais barato?",
+      "a": "A tabela de referência publica preços por dia, semana e mês e não prevê valores diferentes conforme a antecedência. O que conta é o total que a loja confirmar para as suas datas: peça-o por escrito no momento da reserva."
+    },
+    {
+      "q": "Se já estou em Hanói, preciso de reservar?",
+      "a": "Não tem de reservar com semanas de antecedência, mas contacte a loja antes de se deslocar a {{area}}. Assim, confirma o modelo, o preço e a hora de levantamento e evita uma viagem em vão."
+    },
+    {
+      "q": "O que faço se a loja não responder ao pedido de reserva?",
+      "a": "Ligue para o {{phone}} dentro do horário da loja, {{hours}}, tendo em conta a diferença horária entre Portugal e o Vietname. Enquanto não houver confirmação escrita, não conte com a mota nas suas datas."
+    }
+  ],
+  "sources": [
+    "tabela-precos-proprietario"
+  ],
+  "legal_note": false,
+  "writer": {
+    "type": "claude",
+    "name": "Claude (Claude Code)"
+  },
+  "status": "READY_FOR_QA",
+  "revision": {
+    "reason": "Ligações internas para artigos publicados depois"
+  }
+}

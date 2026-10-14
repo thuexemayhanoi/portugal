@@ -10,7 +10,7 @@
   "primaryKeyword": "como alugar uma mota em hanói",
   "eyebrow": "Guia de aluguer",
   "lead": "Do primeiro contacto à devolução, os passos que evitam surpresas — e as regras de trânsito que não pode ignorar.",
-  "updated": "2026-10-13",
+  "updated": "2026-10-14",
   "toc": true,
   "answer": [
     "Confirme que tem carta válida para a categoria da mota e a licença internacional exigida a visitantes.",
@@ -36,7 +36,7 @@
     {
       "h2": "3. Peça um orçamento com as datas",
       "body": [
-        "Contacte a loja pelo telefone ou Zalo {{phone}} com as datas e as horas de levantamento e de devolução, o modelo preferido e o número de pessoas. Consulte antes a [tabela de preços](/precos/) para conhecer o valor de referência."
+        "Contacte a [loja de aluguer de motas em Long Biên](/) pelo telefone ou Zalo {{phone}} com as datas e as horas de levantamento e de devolução, o modelo preferido e o número de pessoas. Consulte antes a [tabela de preços](/precos/) para conhecer o valor de referência."
       ]
     },
     {
