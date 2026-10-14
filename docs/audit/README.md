@@ -30,7 +30,7 @@ Sinh lại bằng `node scripts/audit-content.mjs` (chỉ đọc repo, không g�
 | 9 | New Content Editorial Plan | `data/editorial-plan.json` + `data/writer-queue.json` |
 | 10 | AI Content Collision Guard | `scripts/lib/guard.mjs`, báo cáo `reports/collision-guard.json` |
 | 11 | Risk Register | mục «Rủi ro» bên dưới |
-| 12 | QA Report & Deployment Plan | `npm run check` (0 lỗi), `npm test` (24 pass, 2 skip vì không còn chủ đề mở), mục «Triển khai» |
+| 12 | QA Report & Deployment Plan | `npm run check` (0 lỗi), `npm test` (33 pass, 2 skip vì không còn chủ đề mở), mục «Triển khai» |
 
 ## Collision Guard
 

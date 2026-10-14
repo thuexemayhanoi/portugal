@@ -5,15 +5,12 @@
   "priority": {
     "P0": 0,
     "P1": 0,
-    "P2": 79,
-    "OK": 253
+    "P2": 13,
+    "OK": 319
   },
   "issues": {
-    "P2 página curta (N palavras)": 1,
-    "P2 palavra-chave «…» quase ausente da description": 49,
-    "P2 sem fontes citadas (guia de procedimento)": 6,
-    "P2 só N fontes": 26,
-    "P2 só N ligação contextual de entrada": 2
+    "P2 nota legal com só N fontes": 7,
+    "P2 sem fontes citadas (guia de procedimento)": 6
   },
   "money_keywords": [
     {
@@ -22,7 +19,7 @@
       "title": "Aluguer de motas em Hanói | Scooters, 50 cc e preços",
       "title_coverage": 1,
       "h1_coverage": 1,
-      "contextual_in": 20,
+      "contextual_in": 22,
       "competing_titles": []
     },
     {
@@ -31,7 +28,7 @@
       "title": "Preços de aluguer de motas em Hanói | Dia, semana e mês",
       "title_coverage": 1,
       "h1_coverage": 1,
-      "contextual_in": 96,
+      "contextual_in": 97,
       "competing_titles": []
     },
     {
@@ -49,7 +46,7 @@
       "title": "Como alugar uma mota em Hanói | Guia passo a passo",
       "title_coverage": 1,
       "h1_coverage": 1,
-      "contextual_in": 84,
+      "contextual_in": 86,
       "competing_titles": []
     },
     {
@@ -58,7 +55,7 @@
       "title": "Documentos e caução para alugar mota em Hanói",
       "title_coverage": 0.8,
       "h1_coverage": 0.6,
-      "contextual_in": 194,
+      "contextual_in": 196,
       "competing_titles": []
     },
     {
@@ -82,9 +79,10 @@
   ],
   "home_anchor_texts": {
     "loja de aluguer de motas em Long Biên": 3,
+    "página inicial": 5,
     "loja de aluguer de motas em Hanói": 3,
-    "aluguer de motas em Hanói": 5,
     "alugar uma mota": 1,
+    "aluguer de motas em Hanói": 4,
     "motas para alugar em Hanói": 2,
     "scooters e motas para alugar em Hanói": 1,
     "alugar uma mota em Hanói": 5

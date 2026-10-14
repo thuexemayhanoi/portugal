@@ -3,7 +3,7 @@
   "id": "PT-0033",
   "slug": "semiautomatica-no-transito",
   "title": "Semiautomática no pára-arranca de Hanói: mudanças e ir abaixo",
-  "description": "Como gerir as mudanças baixas, as paragens e a posição entre as motas numa Wave ou Sirius em trânsito lento, com o que o manual diz e o que fica por confirmar.",
+  "description": "Como gerir uma semiautomática no trânsito lento de Hanói: mudanças baixas, paragens e posição entre as motas, com o que o manual diz e o que fica por confirmar.",
   "h1": "Uma Wave ou uma Sirius no meio das motas: gerir as mudanças no trânsito lento de Hanói",
   "summary": "No pára-arranca de Hanói, uma semiautomática pede menos mudanças e mais antecipação: escolha uma mudança baixa, evite trocar sem necessidade e olhe para o painel antes de arrancar. As fontes não descrevem como se comporta uma Wave ou uma Sirius a baixas rotações; por isso, teste a mota num sítio calmo e confirme com a loja.",
   "key_points": [
@@ -205,6 +205,11 @@
     "words": 1851,
     "publish_mode": "review",
     "approved_at": "2026-10-14",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-14",
+        "reason": "Meta description reescrita para refletir a pesquisa principal; conteúdo inalterado."
+      }
+    ]
   }
 }

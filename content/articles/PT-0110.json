@@ -3,7 +3,7 @@
   "id": "PT-0110",
   "slug": "custos-alem-do-preco",
   "title": "Custos extra no aluguer de mota em Hanói: lista para confirmar",
-  "description": "Entrega, combustível, acessórios, estacionamento, multas e danos: o que fica fora do preço de referência de uma mota alugada e como pedir o total por escrito.",
+  "description": "Que custos extra se somam ao aluguer de uma mota? Entrega, combustível, acessórios, estacionamento, multas e danos, e como pedir o total por escrito.",
   "h1": "Além do preço de referência: tudo o que pode somar-se ao custo de uma mota alugada",
   "summary": "O preço de referência cobre apenas o aluguer do veículo pelo período escolhido. À parte ficam pontos que a loja confirma caso a caso — entrega e recolha, acessórios, dias extra, acertos de combustível e danos — e despesas pagas a terceiros, como gasolina, estacionamento e eventuais multas. Peça o total por escrito, com o que está e o que não está incluído.",
   "key_points": [
@@ -335,17 +335,21 @@
   },
   "status": "PUBLISHED",
   "date_published": "2026-10-13",
-  "date_modified": "2026-10-13",
+  "date_modified": "2026-10-14",
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
     "words": 2023,
     "publish_mode": "review",
-    "approved_at": "2026-10-13",
+    "approved_at": "2026-10-14",
     "revisions": [
       {
         "date": "2026-10-13",
         "reason": "Ligações internas para artigos publicados depois"
+      },
+      {
+        "date": "2026-10-14",
+        "reason": "Meta description reescrita para refletir a pesquisa principal; conteúdo inalterado."
       }
     ]
   }

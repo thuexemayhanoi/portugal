@@ -3,7 +3,7 @@
   "id": "PT-0121",
   "slug": "hanoi-ou-outras-cidades",
   "title": "Aluguer de mota em Hanói ou em Ho Chi Minh: o que muda",
-  "description": "As regras de condução são nacionais; o que muda de cidade para cidade é o clima, as restrições locais, as coimas e a loja. Veja o que perguntar.",
+  "description": "No aluguer de mota em Hanói ou Ho Chi Minh, as regras de condução são nacionais; mudam o clima, as restrições locais, as coimas e a loja. Veja o que perguntar.",
   "h1": "Alugar mota em Hanói ou noutra cidade do Vietname: o que muda de facto",
   "summary": "As regras de condução que um visitante precisa de conhecer, como a carta, o capacete, o álcool e as autoestradas, são nacionais e não mudam de Hanói para Ho Chi Minh. O que muda é o clima, as restrições locais ao centro das cidades, o agravamento de coimas em Hanói e as condições de cada loja, que convém perguntar sempre.",
   "key_points": [
@@ -262,6 +262,11 @@
     "words": 1999,
     "publish_mode": "review",
     "approved_at": "2026-10-14",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-14",
+        "reason": "Meta description reescrita para refletir a pesquisa principal; conteúdo inalterado."
+      }
+    ]
   }
 }

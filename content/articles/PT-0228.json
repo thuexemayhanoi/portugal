@@ -3,7 +3,7 @@
   "id": "PT-0228",
   "slug": "eventos-e-cortes-de-transito",
   "title": "Eventos no centro de Hanói: cortes de trânsito a prever",
-  "description": "Que ruas do centro de Hanói fecharam na passagem de ano, como feriados e eleições alteram o espaço pedonal e onde seguir os avisos da polícia.",
+  "description": "Cortes de trânsito em Hanói por eventos: que ruas fecharam na passagem de ano, como feriados e eleições alteram o espaço pedonal e onde seguir os avisos.",
   "h1": "Passagem de ano, festivais e feriados: quando o centro de Hanói fecha ao trânsito",
   "summary": "Os cortes de trânsito mais bem documentados no centro de Hanói são os da passagem de ano junto ao lago Hoàn Kiếm: em 31 de dezembro de 2024 fecharam sete cruzamentos desde as 17:00 e, um ano depois, oito ruas foram cortadas ou condicionadas. Feriados e eleições também mudam o espaço pedonal. Não encontrámos um calendário oficial único.",
   "key_points": [
@@ -352,17 +352,21 @@
   },
   "status": "PUBLISHED",
   "date_published": "2026-10-13",
-  "date_modified": "2026-10-13",
+  "date_modified": "2026-10-14",
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
     "words": 1980,
     "publish_mode": "review",
-    "approved_at": "2026-10-13",
+    "approved_at": "2026-10-14",
     "revisions": [
       {
         "date": "2026-10-13",
         "reason": "Ligações internas para artigos publicados depois"
+      },
+      {
+        "date": "2026-10-14",
+        "reason": "Meta description reescrita para refletir a pesquisa principal; conteúdo inalterado."
       }
     ]
   }

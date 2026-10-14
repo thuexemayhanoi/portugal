@@ -3,7 +3,7 @@
   "id": "PT-0191",
   "slug": "manutencao-num-aluguer-longo",
   "title": "Manutenção da mota num aluguer longo: a rotina semanal",
-  "description": "Dez minutos por semana para vigiar pneus, travões, corrente, luzes e óleo de uma mota alugada durante meses, e saber quando avisar a loja.",
+  "description": "Manutenção de uma mota em aluguer longo: dez minutos por semana para vigiar pneus, travões, corrente, luzes e óleo, e saber quando avisar a loja.",
   "h1": "Dez minutos por semana: o que verificar numa mota que vai usar durante meses",
   "summary": "Numa mota alugada durante meses, vale a pena fazer todas as semanas, pela mesma ordem, uma verificação de dez minutos: pneus, travões, corrente nas semiautomáticas, luzes e painel, óleo e fugas. Os valores técnicos e as revisões são da loja; este guia diz o que olhar, o que anotar e quando avisar.",
   "key_points": [
@@ -339,17 +339,21 @@
   },
   "status": "PUBLISHED",
   "date_published": "2026-10-13",
-  "date_modified": "2026-10-13",
+  "date_modified": "2026-10-14",
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
     "words": 2022,
     "publish_mode": "review",
-    "approved_at": "2026-10-13",
+    "approved_at": "2026-10-14",
     "revisions": [
       {
         "date": "2026-10-13",
         "reason": "Ligações internas para artigos publicados depois"
+      },
+      {
+        "date": "2026-10-14",
+        "reason": "Meta description reescrita para refletir a pesquisa principal; conteúdo inalterado."
       }
     ]
   }

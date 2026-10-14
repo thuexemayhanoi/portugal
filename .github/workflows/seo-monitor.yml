@@ -61,6 +61,13 @@ jobs:
           if [ "$EXTERNAL" = "true" ]; then extra+=(--external); fi
           node scripts/audit-live.mjs --report reports/live-audit.json --summary "$GITHUB_STEP_SUMMARY" "${extra[@]}"
 
+      - name: SEO master matrix of the deployed sources (weekly overview)
+        if: always() && github.event_name == 'schedule'
+        continue-on-error: true
+        run: |
+          echo '## SEO master matrix (repo sources)' >> "$GITHUB_STEP_SUMMARY"
+          node scripts/seo-matrix.mjs --check | tee -a "$GITHUB_STEP_SUMMARY"
+
       - name: IndexNow (Bing and others) for the changed pages
         if: success() && github.event_name != 'schedule'
         env:

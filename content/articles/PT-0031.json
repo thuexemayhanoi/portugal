@@ -3,7 +3,7 @@
   "id": "PT-0031",
   "slug": "travar-com-o-motor",
   "title": "Travagem com o motor numa mota: reduzir mudanças em descidas",
-  "description": "Como funciona o travão-motor, porque se reduz uma mudança de cada vez e o que as fontes não dizem sobre a Wave e a Sirius: guia prudente para descidas.",
+  "description": "A travagem com o motor da mota ajuda em descidas longas: reduza uma mudança de cada vez e saiba o que as fontes não dizem sobre a Wave e a Sirius.",
   "h1": "Descer com uma Wave ou uma Sirius: quando e como deixar o motor ajudar a travar",
   "summary": "Travar com o motor é largar o acelerador com uma mudança engrenada para que o motor, ligado à roda de trás, ajude a abrandar; em descidas longas poupa os travões. As fontes confirmam o princípio, não a técnica da Wave ou da Sirius: reduza cedo, uma mudança de cada vez, e nunca de forma brusca em piso molhado.",
   "key_points": [
@@ -254,6 +254,10 @@
       {
         "date": "2026-10-14",
         "reason": "Ligações internas para artigos publicados depois"
+      },
+      {
+        "date": "2026-10-14",
+        "reason": "Meta description reescrita para refletir a pesquisa principal; conteúdo inalterado."
       }
     ]
   }

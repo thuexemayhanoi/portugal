@@ -3,7 +3,7 @@
   "id": "PT-0041",
   "slug": "scooter-50cc-ou-110cc",
   "title": "50cc ou 110cc em Hanói: que scooter serve no dia a dia",
-  "description": "50 cc ou 110 cc para o dia a dia em Hanói: arranques, pontes, carga, carta exigida e preço de referência, com os cenários em que cada opção faz sentido.",
+  "description": "Em Hanói, 50cc ou 110cc? Compare arranques, pontes, carga, carta exigida e preço de referência, e veja em que cenários cada opção faz sentido no dia a dia.",
   "h1": "Scooter de 50 cc ou de 110 cc: o que muda no trânsito de Hanói",
   "summary": "Para o dia a dia em Hanói, uma scooter de cerca de 110 cm³, como a Honda Vision, é a opção mais versátil: acompanha o trânsito das avenidas, sobe melhor as rampas das pontes e tem mais folga com carga. Uma 50 cc só faz sentido em trajetos curtos, planos e a solo. Decida também pela carta: a Vision é um motociclo da categoria A1, e os requisitos para uma 50 cc também têm de ser confirmados.",
   "key_points": [
@@ -252,17 +252,21 @@
   },
   "status": "PUBLISHED",
   "date_published": "2026-10-13",
-  "date_modified": "2026-10-13",
+  "date_modified": "2026-10-14",
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
     "words": 2201,
     "publish_mode": "review",
-    "approved_at": "2026-10-13",
+    "approved_at": "2026-10-14",
     "revisions": [
       {
         "date": "2026-10-13",
         "reason": "Ligações internas para artigos publicados depois"
+      },
+      {
+        "date": "2026-10-14",
+        "reason": "Meta description reescrita para refletir a pesquisa principal; conteúdo inalterado."
       }
     ]
   }

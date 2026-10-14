@@ -3,7 +3,7 @@
   "id": "PT-0210",
   "slug": "mota-danificada-estacionada",
   "title": "Mota alugada danificada no estacionamento: o que fazer",
-  "description": "Encontrou a mota alugada com o pneu vazio, riscos novos ou peças em falta? Como registar tudo, com quem falar no parque e o que combinar com a loja.",
+  "description": "Encontrou a mota alugada estacionada e danificada, com pneu vazio, riscos ou peças em falta? Como registar tudo, com quem falar e o que combinar com a loja.",
   "h1": "A mota não está como a deixou: pneu vazio, riscos ou peças em falta",
   "summary": "Se encontrar a mota estacionada com o pneu vazio, riscos novos ou peças em falta, fotografe-a tal como está, com o local à volta, antes de lhe mexer. Fale logo com o responsável do parque ou do alojamento, não a conduza se não for seguro e contacte a loja pelo {{phone}} antes de qualquer reparação. A forma de tratar o custo depende do acordo: pergunte e guarde a resposta por escrito.",
   "key_points": [
@@ -240,6 +240,10 @@
       {
         "date": "2026-10-14",
         "reason": "Ligações internas para artigos publicados depois"
+      },
+      {
+        "date": "2026-10-14",
+        "reason": "Meta description reescrita para refletir a pesquisa principal; conteúdo inalterado."
       }
     ]
   }

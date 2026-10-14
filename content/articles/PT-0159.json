@@ -3,7 +3,7 @@
   "id": "PT-0159",
   "slug": "alcool-zero-ao-volante",
   "title": "Álcool e condução no Vietname: a regra do zero para motas",
-  "description": "Desde 2025, a lei vietnamita não admite álcool a quem conduz. O que diz a regra, a quem se aplica, o que se sabe das coimas e como planear as noites.",
+  "description": "Qual é o limite de álcool na condução no Vietname? Zero para quem guia uma mota desde 2025. Veja a quem se aplica, as coimas e como planear as noites.",
   "h1": "Álcool zero ao guiador: o que a lei vietnamita de 2024 proíbe e como organizar as saídas à noite",
   "summary": "No Vietname, quem conduz uma mota não pode ter qualquer concentração de álcool no sangue ou no ar expirado: a proibição consta da Lei n.º 36/2024/QH15, em vigor desde 1 de janeiro de 2025, e vale para scooters, motas de 50 cc e elétricas. Não há margem tolerada. As coimas para quem conduz uma mota vão de 2 a 10 milhões de VND, consoante a concentração, segundo o Decreto 168/2024/NĐ-CP.",
   "key_points": [
@@ -256,13 +256,13 @@
   },
   "status": "PUBLISHED",
   "date_published": "2026-10-13",
-  "date_modified": "2026-10-13",
+  "date_modified": "2026-10-14",
   "editorial": {
     "qa_score": 100,
     "qa_warnings": [],
     "words": 1959,
     "publish_mode": "review",
-    "approved_at": "2026-10-13",
+    "approved_at": "2026-10-14",
     "revisions": [
       {
         "date": "2026-10-13",
@@ -271,6 +271,10 @@
       {
         "date": "2026-10-13",
         "reason": "Acrescentar os escalões nacionais das coimas por álcool para motas (Decreto 168/2024), já confirmados em bases de dados jurídicas, e a ressalva da resolução de Hanói de julho de 2026."
+      },
+      {
+        "date": "2026-10-14",
+        "reason": "Meta description reescrita para refletir a pesquisa principal; conteúdo inalterado."
       }
     ]
   }

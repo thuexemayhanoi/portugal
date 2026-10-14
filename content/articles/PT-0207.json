@@ -3,7 +3,7 @@
   "id": "PT-0207",
   "slug": "mota-apanhou-agua",
   "title": "Mota que apanhou água em Hanói: o que fazer antes de a ligar",
-  "description": "A mota alugada foi abaixo numa rua alagada em Hanói? Porque não a voltar a ligar, o que fazer nos primeiros minutos e o que dizer e perguntar à loja.",
+  "description": "A mota alugada foi abaixo na água de uma inundação em Hanói? Porque não a voltar a ligar, o que fazer nos primeiros minutos e o que dizer e perguntar à loja.",
   "h1": "A mota foi abaixo na água: não volte a ligá-la e fale com a loja",
   "summary": "Se a mota alugada foi abaixo dentro de água, não volte a ligar o motor nem insista no botão de arranque: tire-a da água, ponha-a num sítio seco e seguro e contacte a loja com fotografias e a localização. Segundo oficinas citadas pela imprensa vietnamita, ligar de imediato pode entortar a biela ou rachar a cambota.",
   "key_points": [
@@ -287,7 +287,7 @@
   },
   "status": "PUBLISHED",
   "date_published": "2026-10-13",
-  "date_modified": "2026-10-13",
+  "date_modified": "2026-10-14",
   "editorial": {
     "qa_score": 98,
     "qa_warnings": [
@@ -295,11 +295,15 @@
     ],
     "words": 2164,
     "publish_mode": "review",
-    "approved_at": "2026-10-13",
+    "approved_at": "2026-10-14",
     "revisions": [
       {
         "date": "2026-10-13",
         "reason": "Ligações internas para artigos publicados depois"
+      },
+      {
+        "date": "2026-10-14",
+        "reason": "Meta description reescrita para refletir a pesquisa principal; conteúdo inalterado."
       }
     ]
   }

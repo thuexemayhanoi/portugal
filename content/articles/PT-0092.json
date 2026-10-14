@@ -3,7 +3,7 @@
   "id": "PT-0092",
   "slug": "cartoes-estrangeiros-no-vietname",
   "title": "Cartão de crédito no Vietname: onde funciona e o que preparar",
-  "description": "O que as fontes dizem sobre cartões estrangeiros no Vietname: limites e comissões das caixas automáticas, aceitação nas bombas e o que confirmar com o banco.",
+  "description": "O cartão de crédito serve no Vietname? O que as fontes dizem sobre limites e comissões das caixas automáticas, aceitação nas bombas e o que perguntar ao banco.",
   "h1": "Cartões estrangeiros no Vietname: levantar dinheiro e pagar",
   "summary": "Um cartão Visa ou Mastercard serve sobretudo para levantar dong nas caixas automáticas, mas as fontes consultadas discordam nos limites (de 2 a 10 milhões de đồng por levantamento) e nas comissões, e nenhuma fala de bancos portugueses. Leve numerário para o essencial, levante valores mais altos e menos vezes, escolha sempre pagar em dong e confirme com a loja se aceita cartão no aluguer.",
   "key_points": [
@@ -274,6 +274,11 @@
     "words": 1996,
     "publish_mode": "review",
     "approved_at": "2026-10-14",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-14",
+        "reason": "Meta description reescrita para refletir a pesquisa principal; conteúdo inalterado."
+      }
+    ]
   }
 }

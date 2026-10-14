@@ -3,7 +3,7 @@
   "id": "PT-0170",
   "slug": "fadiga-e-pausas",
   "title": "Fadiga numa viagem de mota: sinais, pausas e quando parar",
-  "description": "Como reconhecer o cansaço ao guiar uma mota, de quanto em quanto tempo parar, o que ajuda a manter a atenção e o que fazer quando já não é seguro continuar.",
+  "description": "Como reconhecer a fadiga ao guiar uma mota em viagem, de quanto em quanto tempo parar, o que ajuda a manter a atenção e quando já não é seguro continuar.",
   "h1": "Cansaço numa viagem de mota: como reconhecê-lo e quando parar",
   "summary": "Pare quando surgirem os primeiros sinais de sono (bocejos, mente a divagar, uma saída falhada) e planeie uma pausa a cada duas horas: é a regra mais repetida nas fontes, de recomendações britânicas e norte-americanas pensadas para automóveis, não de lei vietnamita. A única proteção real contra o sono é dormir e descansar.",
   "key_points": [
@@ -239,6 +239,11 @@
     "words": 1956,
     "publish_mode": "review",
     "approved_at": "2026-10-14",
-    "revisions": []
+    "revisions": [
+      {
+        "date": "2026-10-14",
+        "reason": "Meta description reescrita para refletir a pesquisa principal; conteúdo inalterado."
+      }
+    ]
   }
 }

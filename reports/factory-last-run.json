@@ -6,25 +6,25 @@
   "in_review": [],
   "processed": [
     {
-      "id": "PT-0260",
+      "id": "PT-0251",
       "result": "UPDATE",
       "warnings": []
     },
     {
-      "id": "PT-0267",
+      "id": "PT-0272",
       "result": "UPDATE",
       "warnings": []
     },
     {
-      "id": "PT-0285",
+      "id": "PT-0273",
       "result": "UPDATE",
       "warnings": []
     }
   ],
   "published": [
-    "PT-0260",
-    "PT-0267",
-    "PT-0285"
+    "PT-0251",
+    "PT-0272",
+    "PT-0273"
   ],
   "failed": []
 }
