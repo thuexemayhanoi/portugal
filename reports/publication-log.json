@@ -4331,6 +4331,17 @@
       "type": "update",
       "reason": "Ligações internas para artigos publicados depois",
       "date": "2026-10-13"
+    },
+    {
+      "id": "PT-0039",
+      "url": "/tipos-de-motas/honda-wave-ou-honda-click/",
+      "title": "Honda Wave ou Honda Click: como escolher em Hanói",
+      "words": 2187,
+      "qa_score": 100,
+      "writer": "claude",
+      "mode": "review",
+      "type": "new",
+      "date": "2026-10-14"
     }
   ]
 }

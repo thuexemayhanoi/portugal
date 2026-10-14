@@ -398,7 +398,8 @@
       ],
       "hold_reason": null,
       "intent_reviewed": false,
-      "editorial_qa_status": "PLANNED",
+      "guard_reviewed": true,
+      "editorial_qa_status": "QUEUED",
       "metrics": {
         "search_volume": null,
         "keyword_difficulty": null,
@@ -2412,7 +2413,8 @@
       ],
       "hold_reason": null,
       "intent_reviewed": true,
-      "editorial_qa_status": "PLANNED",
+      "guard_reviewed": true,
+      "editorial_qa_status": "PUBLISHED",
       "metrics": {
         "search_volume": null,
         "keyword_difficulty": null,
@@ -3501,7 +3503,7 @@
       "priority": 2,
       "target_url": "/tipos-de-motas/bicicleta-eletrica-em-hanoi/",
       "pillar_url": "/tipos-de-motas/",
-      "content_brief": "Para quem serve, regras de utilização (capacete obrigatório), velocidade e preço sob consulta.",
+      "content_brief": "Quando a bicicleta elétrica serve melhor do que a mota em Hanói (distâncias curtas, quem não tem carta de mota, estadias longas) e quando não serve (pontes, chuva, distâncias longas); preço sob consulta. As regras (capacete, idade, onde circular) estão em PT-0062: remeter, não repetir.",
       "target_words": [
         1200,
         2200
@@ -3541,6 +3543,7 @@
       ],
       "hold_reason": null,
       "intent_reviewed": false,
+      "guard_reviewed": true,
       "editorial_qa_status": "PLANNED",
       "metrics": {
         "search_volume": null,
@@ -6158,7 +6161,7 @@
         "/precos/comprar-capacete-em-hanoi/",
         "/precos/danos-na-mota-alugada/",
         "/zonas-de-hanoi/aluguer-de-motas-em-long-bien/",
-        "/zonas-de-hanoi/como-chegar-a-loja/",
+        "/zonas-de-hanoi/vinhomes-riverside-de-mota/",
         "/zonas-de-hanoi/ponte-long-bien/",
         "/zonas-de-hanoi/cidadela-de-co-loa/",
         "/zonas-de-hanoi/aeon-mall-long-bien/",
@@ -6466,7 +6469,7 @@
       ],
       "hold_reason": null,
       "intent_reviewed": false,
-      "editorial_qa_status": "QUEUED",
+      "editorial_qa_status": "PLANNED",
       "metrics": {
         "search_volume": null,
         "keyword_difficulty": null,
@@ -8058,8 +8061,7 @@
         "/guia-de-aluguer/documentacao-e-caucao/",
         "/guia-de-aluguer/",
         "/guia-de-aluguer/seguro-obrigatorio-de-mota/",
-        "/guia-de-aluguer/acordo-de-aluguer/",
-        "/rotas-e-mobilidade/sair-de-hanoi-de-mota/"
+        "/guia-de-aluguer/acordo-de-aluguer/"
       ],
       "cannibalization_risk": "low",
       "cannibalization_with": [],
@@ -10392,7 +10394,7 @@
       "cannibalization_with": [],
       "hold_reason": null,
       "intent_reviewed": false,
-      "editorial_qa_status": "QUEUED",
+      "editorial_qa_status": "PLANNED",
       "metrics": {
         "search_volume": null,
         "keyword_difficulty": null,
@@ -10614,7 +10616,7 @@
         "/zonas-de-hanoi/zona-pedonal-do-lago-hoan-kiem/",
         "/zonas-de-hanoi/festival-do-meio-do-outono/",
         "/zonas-de-hanoi/bairro-antigo-a-pe-ou-de-mota/",
-        "/zonas-de-hanoi/de-long-bien-ao-bairro-antigo/",
+        "/zonas-de-hanoi/teatro-de-marionetas-na-agua/",
         "/zonas-de-hanoi/bairro-frances-e-opera/",
         "/zonas-de-hanoi/mercado-dong-xuan-de-mota/",
         "/zonas-de-hanoi/hoteis-do-bairro-antigo-e-motas/",
@@ -12687,6 +12689,7 @@
       "cannibalization_with": [],
       "hold_reason": null,
       "intent_reviewed": true,
+      "guard_reviewed": true,
       "editorial_qa_status": "PLANNED",
       "metrics": {
         "search_volume": null,
@@ -13214,13 +13217,13 @@
         "/zonas-de-hanoi/",
         "/guia-de-aluguer/documentacao-e-caucao/",
         "/zonas-de-hanoi/festival-do-meio-do-outono/",
-        "/zonas-de-hanoi/de-long-bien-ao-bairro-antigo/",
+        "/zonas-de-hanoi/teatro-de-marionetas-na-agua/",
         "/guia-de-aluguer/primeiros-dias-a-conduzir/"
       ],
       "internal_links_in": [
         "/zonas-de-hanoi/",
         "/zonas-de-hanoi/festival-do-meio-do-outono/",
-        "/zonas-de-hanoi/de-long-bien-ao-bairro-antigo/"
+        "/zonas-de-hanoi/teatro-de-marionetas-na-agua/"
       ],
       "cannibalization_risk": "medium",
       "cannibalization_with": [
@@ -13241,21 +13244,21 @@
     {
       "id": "PT-0221",
       "order": 221,
-      "working_title": "De Long Biên ao Bairro Antigo de mota: pontes e percurso",
-      "slug": "de-long-bien-ao-bairro-antigo",
+      "working_title": "Teatro de marionetas na água Thăng Long de mota: sessões e estacionamento",
+      "slug": "teatro-de-marionetas-na-agua",
       "parent_category": "zonas-de-hanoi",
       "child_category": "bairro-antigo-e-hoan-kiem",
-      "primary_keyword": "long biên bairro antigo mota",
+      "primary_keyword": "teatro marionetas na água hanói",
       "secondary_keywords": [
-        "atravessar ponte chương dương",
-        "ponte long biên motas"
+        "múa rối nước thăng long",
+        "marionetas na água bilhetes"
       ],
       "search_intent": "informational",
       "funnel_stage": "TOFU",
       "priority": 1,
-      "target_url": "/zonas-de-hanoi/de-long-bien-ao-bairro-antigo/",
+      "target_url": "/zonas-de-hanoi/teatro-de-marionetas-na-agua/",
       "pillar_url": "/zonas-de-hanoi/",
-      "content_brief": "Pontes usadas por motas entre Long Biên e o centro, regras específicas de cada ponte (confirmar) e orientação no regresso.",
+      "content_brief": "O teatro junto ao lago Hoàn Kiếm: sessões e bilhetes segundo fontes datadas, onde deixar a mota perto da zona pedonal, horários de trânsito à noite e como combinar com o regresso a Long Biên. Não repetir as regras da zona pedonal (PT-0218).",
       "target_words": [
         1500,
         2800
@@ -13284,14 +13287,11 @@
         "/zonas-de-hanoi/bairro-antigo-a-pe-ou-de-mota/",
         "/zonas-de-hanoi/rua-do-comboio/"
       ],
-      "cannibalization_risk": "medium",
-      "cannibalization_with": [
-        "PT-0229",
-        "PT-0231"
-      ],
+      "cannibalization_risk": "low",
+      "cannibalization_with": [],
       "hold_reason": null,
-      "intent_reviewed": false,
-      "editorial_qa_status": "PLANNED",
+      "intent_reviewed": true,
+      "editorial_qa_status": "QUEUED",
       "metrics": {
         "search_volume": null,
         "keyword_difficulty": null,
@@ -13334,14 +13334,14 @@
       "internal_links_out": [
         "/zonas-de-hanoi/",
         "/guia-de-aluguer/documentacao-e-caucao/",
-        "/zonas-de-hanoi/de-long-bien-ao-bairro-antigo/",
+        "/zonas-de-hanoi/teatro-de-marionetas-na-agua/",
         "/zonas-de-hanoi/bairro-frances-e-opera/",
         "/guia-de-aluguer/atravessar-a-rua-a-pe/"
       ],
       "internal_links_in": [
         "/zonas-de-hanoi/",
         "/guia-de-aluguer/atravessar-a-rua-a-pe/",
-        "/zonas-de-hanoi/de-long-bien-ao-bairro-antigo/",
+        "/zonas-de-hanoi/teatro-de-marionetas-na-agua/",
         "/zonas-de-hanoi/bairro-frances-e-opera/"
       ],
       "cannibalization_risk": "low",
@@ -13753,7 +13753,6 @@
         "PT-0216",
         "PT-0217",
         "PT-0220",
-        "PT-0221",
         "PT-0226",
         "PT-0230"
       ],
@@ -13863,17 +13862,17 @@
       "internal_links_out": [
         "/zonas-de-hanoi/",
         "/contactos/",
-        "/zonas-de-hanoi/como-chegar-a-loja/",
+        "/zonas-de-hanoi/vinhomes-riverside-de-mota/",
         "/precos/entrega-da-mota-no-hotel/"
       ],
       "internal_links_in": [
         "/zonas-de-hanoi/",
-        "/zonas-de-hanoi/como-chegar-a-loja/",
+        "/zonas-de-hanoi/vinhomes-riverside-de-mota/",
         "/zonas-de-hanoi/ficar-alojado-em-long-bien/"
       ],
       "cannibalization_risk": "medium",
       "cannibalization_with": [
-        "PT-0221",
+        "PT-0232",
         "PT-0233",
         "PT-0235",
         "PT-0236",
@@ -13892,24 +13891,24 @@
     {
       "id": "PT-0232",
       "order": 232,
-      "working_title": "Como chegar à loja no 112 Nguyễn Văn Cừ a partir do centro",
-      "slug": "como-chegar-a-loja",
+      "working_title": "Vinhomes Riverside de mota: acesso, portarias e estacionamento",
+      "slug": "vinhomes-riverside-de-mota",
       "parent_category": "zonas-de-hanoi",
       "child_category": "long-bien-e-gia-lam",
-      "primary_keyword": "como chegar nguyễn văn cừ long biên",
+      "primary_keyword": "vinhomes riverside long biên",
       "secondary_keywords": [
-        "táxi long biên",
-        "grab long biên"
+        "vinhomes riverside mota",
+        "vinhomes riverside estacionamento"
       ],
-      "search_intent": "navigational",
+      "search_intent": "informational",
       "funnel_stage": "BOFU",
       "priority": 1,
-      "target_url": "/zonas-de-hanoi/como-chegar-a-loja/",
+      "target_url": "/zonas-de-hanoi/vinhomes-riverside-de-mota/",
       "pillar_url": "/zonas-de-hanoi/",
-      "content_brief": "Opções de transporte (táxi, mota com condutor, autocarro) e a morada em vietnamita; tempos de viagem apenas se verificados.",
+      "content_brief": "A urbanização Vinhomes Riverside em Long Biên para quem está alojado lá ou a visita: acessos, regras de entrada e estacionamento de motas se confirmados, distância à loja e ao centro. Não repetir o que está em viver em Long Biên (PT-0236) nem em ficar alojado em Long Biên (PT-0242).",
       "target_words": [
-        1100,
-        1800
+        1500,
+        2800
       ],
       "source_codes": [
         "B",
@@ -13938,11 +13937,13 @@
         "/zonas-de-hanoi/aluguer-de-motas-em-long-bien/",
         "/zonas-de-hanoi/ponte-long-bien/"
       ],
-      "cannibalization_risk": "low",
-      "cannibalization_with": [],
+      "cannibalization_risk": "medium",
+      "cannibalization_with": [
+        "PT-0231"
+      ],
       "hold_reason": null,
-      "intent_reviewed": false,
-      "editorial_qa_status": "PLANNED",
+      "intent_reviewed": true,
+      "editorial_qa_status": "QUEUED",
       "metrics": {
         "search_volume": null,
         "keyword_difficulty": null,
@@ -13985,13 +13986,13 @@
       "internal_links_out": [
         "/zonas-de-hanoi/",
         "/guia-de-aluguer/documentacao-e-caucao/",
-        "/zonas-de-hanoi/como-chegar-a-loja/",
+        "/zonas-de-hanoi/vinhomes-riverside-de-mota/",
         "/zonas-de-hanoi/cidadela-de-co-loa/",
         "/precos/entrega-da-mota-no-hotel/"
       ],
       "internal_links_in": [
         "/zonas-de-hanoi/",
-        "/zonas-de-hanoi/como-chegar-a-loja/",
+        "/zonas-de-hanoi/vinhomes-riverside-de-mota/",
         "/zonas-de-hanoi/cidadela-de-co-loa/"
       ],
       "cannibalization_risk": "medium",
@@ -14528,7 +14529,7 @@
       ],
       "hold_reason": null,
       "intent_reviewed": false,
-      "editorial_qa_status": "QUEUED",
+      "editorial_qa_status": "PLANNED",
       "metrics": {
         "search_volume": null,
         "keyword_difficulty": null,
@@ -14643,7 +14644,7 @@
       "cannibalization_with": [],
       "hold_reason": null,
       "intent_reviewed": false,
-      "editorial_qa_status": "QUEUED",
+      "editorial_qa_status": "PLANNED",
       "metrics": {
         "search_volume": null,
         "keyword_difficulty": null,
@@ -14758,6 +14759,7 @@
       "cannibalization_with": [],
       "hold_reason": null,
       "intent_reviewed": false,
+      "guard_reviewed": true,
       "editorial_qa_status": "PLANNED",
       "metrics": {
         "search_volume": null,
@@ -15973,6 +15975,7 @@
       "cannibalization_with": [],
       "hold_reason": null,
       "intent_reviewed": false,
+      "guard_reviewed": true,
       "editorial_qa_status": "PLANNED",
       "metrics": {
         "search_volume": null,
@@ -16156,6 +16159,7 @@
       ],
       "hold_reason": null,
       "intent_reviewed": true,
+      "guard_reviewed": true,
       "editorial_qa_status": "PLANNED",
       "metrics": {
         "search_volume": null,
@@ -17641,21 +17645,21 @@
     {
       "id": "PT-0296",
       "order": 296,
-      "working_title": "Sair de Hanói de mota: o que preparar antes de partir",
-      "slug": "sair-de-hanoi-de-mota",
+      "working_title": "Tam Đảo de mota a partir de Hanói: estrada de montanha e clima",
+      "slug": "tam-dao-de-mota",
       "parent_category": "rotas-e-mobilidade",
       "child_category": "viagens-fora-de-hanoi",
-      "primary_keyword": "viagem de mota fora de hanói",
+      "primary_keyword": "tam đảo de mota",
       "secondary_keywords": [
-        "roteiro mota norte vietname",
-        "sair de hanói de mota"
+        "tam dao a partir de hanói",
+        "estrada tam đảo curvas"
       ],
       "search_intent": "informational",
       "funnel_stage": "MOFU",
       "priority": 1,
-      "target_url": "/rotas-e-mobilidade/sair-de-hanoi-de-mota/",
+      "target_url": "/rotas-e-mobilidade/tam-dao-de-mota/",
       "pillar_url": "/rotas-e-mobilidade/",
-      "content_brief": "Autorização da loja, inspeção extra, documentos, rota sem autoestradas, previsão do tempo e plano B.",
+      "content_brief": "Estância de montanha de Tam Đảo (Vĩnh Phúc/Phú Thọ após 2025): distância e percurso sem autoestradas, a subida em curvas, nevoeiro e frio, quando ir, e o que combinar com a loja antes (remeter para PT-0147 e PT-0215 sem repetir).",
       "target_words": [
         1500,
         2800
@@ -17682,7 +17686,7 @@
         "/rotas-e-mobilidade/",
         "/guia-de-aluguer/documentacao-e-caucao/",
         "/rotas-e-mobilidade/ninh-binh-de-mota/",
-        "/guia-de-aluguer/seguro-de-viagem-e-mota/"
+        "/guia-de-aluguer/perguntas-antes-de-alugar/"
       ],
       "internal_links_in": [
         "/rotas-e-mobilidade/",
@@ -17692,8 +17696,8 @@
       "cannibalization_risk": "low",
       "cannibalization_with": [],
       "hold_reason": null,
-      "intent_reviewed": false,
-      "editorial_qa_status": "PLANNED",
+      "intent_reviewed": true,
+      "editorial_qa_status": "QUEUED",
       "metrics": {
         "search_volume": null,
         "keyword_difficulty": null,
@@ -17743,13 +17747,13 @@
       "internal_links_out": [
         "/rotas-e-mobilidade/",
         "/guia-de-aluguer/documentacao-e-caucao/",
-        "/rotas-e-mobilidade/sair-de-hanoi-de-mota/",
+        "/rotas-e-mobilidade/tam-dao-de-mota/",
         "/rotas-e-mobilidade/loop-de-ha-giang/",
         "/guia-de-aluguer/perguntas-antes-de-alugar/"
       ],
       "internal_links_in": [
         "/rotas-e-mobilidade/",
-        "/rotas-e-mobilidade/sair-de-hanoi-de-mota/",
+        "/rotas-e-mobilidade/tam-dao-de-mota/",
         "/rotas-e-mobilidade/loop-de-ha-giang/"
       ],
       "cannibalization_risk": "low",
@@ -17922,7 +17926,7 @@
         "/rotas-e-mobilidade/",
         "/guia-de-aluguer/documentacao-e-caucao/",
         "/rotas-e-mobilidade/ba-vi-de-mota/",
-        "/rotas-e-mobilidade/sair-de-hanoi-de-mota/",
+        "/rotas-e-mobilidade/tam-dao-de-mota/",
         "/guia-de-aluguer/perguntas-antes-de-alugar/"
       ],
       "internal_links_in": [
@@ -17944,15 +17948,15 @@
   "summary": {
     "total": 300,
     "by_status": {
-      "PUBLISHED": 237,
-      "PLANNED": 51,
-      "QUEUED": 12
+      "PUBLISHED": 238,
+      "QUEUED": 12,
+      "PLANNED": 50
     },
     "by_intent": {
       "commercial": 40,
-      "informational": 252,
+      "informational": 253,
       "transactional": 6,
-      "navigational": 2
+      "navigational": 1
     },
     "by_funnel": {
       "BOFU": 17,

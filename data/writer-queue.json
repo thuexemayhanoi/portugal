@@ -1,81 +1,9 @@
 {
   "$comment": "Fila gerada por `node scripts/factory.mjs refresh-queue`. Não editar à mão. Os escritores produzem apenas IDs desta fila, segundo factory/WRITER-CONTRACT.md.",
   "contract_version": 1,
-  "generated_at": "2026-10-13",
+  "generated_at": "2026-10-14",
   "factory_status": "ACTIVE",
-  "held_by_guard": [
-    {
-      "id": "PT-0006",
-      "decision": "REVIEW_COLLISION",
-      "reasons": [
-        "semantic 0.54 with live /tipos-de-motas/yamaha-mio-em-hanoi/"
-      ]
-    },
-    {
-      "id": "PT-0039",
-      "decision": "REVIEW_COLLISION",
-      "reasons": [
-        "semantic 0.42 with live /tipos-de-motas/honda-click-em-hanoi/",
-        "draft held for human review in _factory/hold"
-      ]
-    },
-    {
-      "id": "PT-0057",
-      "decision": "REVIEW_COLLISION",
-      "reasons": [
-        "semantic 0.56 with live /tipos-de-motas/regras-bicicleta-eletrica-vietname/"
-      ]
-    },
-    {
-      "id": "PT-0211",
-      "decision": "REVIEW_COLLISION",
-      "reasons": [
-        "semantic 0.42 with live /guia-de-aluguer/onde-estacionar-em-hanoi/"
-      ]
-    },
-    {
-      "id": "PT-0221",
-      "decision": "REVIEW_COLLISION",
-      "reasons": [
-        "semantic 0.54 with live /zonas-de-hanoi/ponte-long-bien/"
-      ]
-    },
-    {
-      "id": "PT-0232",
-      "decision": "REVIEW_COLLISION",
-      "reasons": [
-        "semantic 0.52 with live /zonas-de-hanoi/aluguer-de-motas-em-long-bien/"
-      ]
-    },
-    {
-      "id": "PT-0246",
-      "decision": "REVIEW_COLLISION",
-      "reasons": [
-        "semantic 0.43 with live /rotas-e-mobilidade/roteiro-de-pagodes-e-templos/"
-      ]
-    },
-    {
-      "id": "PT-0267",
-      "decision": "REVIEW_COLLISION",
-      "reasons": [
-        "semantic 0.48 with live /zonas-de-hanoi/mercado-dong-xuan-de-mota/"
-      ]
-    },
-    {
-      "id": "PT-0270",
-      "decision": "REVIEW_COLLISION",
-      "reasons": [
-        "semantic 0.48 with live /guia-de-aluguer/criancas-na-mota/"
-      ]
-    },
-    {
-      "id": "PT-0296",
-      "decision": "REVIEW_COLLISION",
-      "reasons": [
-        "intent 0.45 with live /guia-de-aluguer/avaria-longe-de-hanoi/"
-      ]
-    }
-  ],
+  "held_by_guard": [],
   "live_pages": [
     {
       "url": "/contactos/",
@@ -304,6 +232,10 @@
     {
       "url": "/tipos-de-motas/autonomia-de-um-deposito/",
       "title": "Quantos quilómetros dá um depósito de semiautomática e onde abastecer pelo caminho"
+    },
+    {
+      "url": "/tipos-de-motas/honda-wave-ou-honda-click/",
+      "title": "Wave ou Click: mudanças ou transmissão automática, qual lhe serve?"
     },
     {
       "url": "/tipos-de-motas/scooter-50cc-ou-110cc/",
@@ -1190,46 +1122,167 @@
       "rewrite_reason": null
     },
     {
-      "id": "PT-0024",
-      "working_title": "Scooters no Vietname e em Portugal: diferenças que vai notar",
-      "slug": "scooters-no-vietname-e-em-portugal",
-      "target_url": "/tipos-de-motas/scooters-no-vietname-e-em-portugal/",
-      "parent_category": "tipos-de-motas",
-      "child_category": "scooters-automaticas",
-      "primary_keyword": "scooter vietname diferenças",
+      "id": "PT-0221",
+      "working_title": "Teatro de marionetas na água Thăng Long de mota: sessões e estacionamento",
+      "slug": "teatro-de-marionetas-na-agua",
+      "target_url": "/zonas-de-hanoi/teatro-de-marionetas-na-agua/",
+      "parent_category": "zonas-de-hanoi",
+      "child_category": "bairro-antigo-e-hoan-kiem",
+      "primary_keyword": "teatro marionetas na água hanói",
       "secondary_keywords": [
-        "conduzir scooter no vietname",
-        "trânsito vietname vs europa"
+        "múa rối nước thăng long",
+        "marionetas na água bilhetes"
       ],
       "search_intent": "informational",
       "funnel_stage": "TOFU",
-      "content_brief": "O que estranha quem vem de Portugal: cilindradas, uso da buzina, densidade de motas, sinalização e hábitos de circulação.",
+      "content_brief": "O teatro junto ao lago Hoàn Kiếm: sessões e bilhetes segundo fontes datadas, onde deixar a mota perto da zona pedonal, horários de trânsito à noite e como combinar com o regresso a Long Biên. Não repetir as regras da zona pedonal (PT-0218).",
       "target_words": [
-        1000,
-        2000
+        1500,
+        2800
       ],
       "source_requirements": {
         "codes": [
-          "S",
-          "L"
+          "Z"
         ],
         "min_sources": 2,
         "notes": [
-          "Fonte oficial de segurança rodoviária (lei, autoridades, OMS) para afirmações sobre risco ou regras.",
-          "Legislação vietnamita em vigor (texto da lei/decreto ou base de dados jurídica reconhecida), com data de consulta."
+          "Anúncio oficial da cidade de Hanói ou imprensa de referência com data; tema sensível ao tempo — verificar à data de publicação."
+        ]
+      },
+      "pillar_url": "/zonas-de-hanoi/",
+      "required_links": [
+        "/zonas-de-hanoi/",
+        "/guia-de-aluguer/documentacao-e-caucao/",
+        "/zonas-de-hanoi/bairro-antigo-a-pe-ou-de-mota/",
+        "/zonas-de-hanoi/rua-do-comboio/",
+        "/guia-de-aluguer/primeiros-dias-a-conduzir/"
+      ],
+      "planned_links_not_live_yet": [],
+      "rewrite_reason": null
+    },
+    {
+      "id": "PT-0296",
+      "working_title": "Tam Đảo de mota a partir de Hanói: estrada de montanha e clima",
+      "slug": "tam-dao-de-mota",
+      "target_url": "/rotas-e-mobilidade/tam-dao-de-mota/",
+      "parent_category": "rotas-e-mobilidade",
+      "child_category": "viagens-fora-de-hanoi",
+      "primary_keyword": "tam đảo de mota",
+      "secondary_keywords": [
+        "tam dao a partir de hanói",
+        "estrada tam đảo curvas"
+      ],
+      "search_intent": "informational",
+      "funnel_stage": "MOFU",
+      "content_brief": "Estância de montanha de Tam Đảo (Vĩnh Phúc/Phú Thọ após 2025): distância e percurso sem autoestradas, a subida em curvas, nevoeiro e frio, quando ir, e o que combinar com a loja antes (remeter para PT-0147 e PT-0215 sem repetir).",
+      "target_words": [
+        1500,
+        2800
+      ],
+      "source_requirements": {
+        "codes": [
+          "B",
+          "L",
+          "W"
+        ],
+        "min_sources": 2,
+        "notes": [
+          "Dados da loja apenas através de {{tokens}} (site/data.json): preços, telefone, morada e horário nunca escritos à mão.",
+          "Legislação vietnamita em vigor (texto da lei/decreto ou base de dados jurídica reconhecida), com data de consulta.",
+          "Dados meteorológicos oficiais (Centro Nacional de Previsão Hidrometeorológica) ou climatologia reconhecida."
+        ]
+      },
+      "pillar_url": "/rotas-e-mobilidade/",
+      "required_links": [
+        "/rotas-e-mobilidade/",
+        "/guia-de-aluguer/documentacao-e-caucao/",
+        "/rotas-e-mobilidade/ninh-binh-de-mota/",
+        "/guia-de-aluguer/perguntas-antes-de-alugar/"
+      ],
+      "planned_links_not_live_yet": [],
+      "rewrite_reason": null
+    },
+    {
+      "id": "PT-0232",
+      "working_title": "Vinhomes Riverside de mota: acesso, portarias e estacionamento",
+      "slug": "vinhomes-riverside-de-mota",
+      "target_url": "/zonas-de-hanoi/vinhomes-riverside-de-mota/",
+      "parent_category": "zonas-de-hanoi",
+      "child_category": "long-bien-e-gia-lam",
+      "primary_keyword": "vinhomes riverside long biên",
+      "secondary_keywords": [
+        "vinhomes riverside mota",
+        "vinhomes riverside estacionamento"
+      ],
+      "search_intent": "informational",
+      "funnel_stage": "BOFU",
+      "content_brief": "A urbanização Vinhomes Riverside em Long Biên para quem está alojado lá ou a visita: acessos, regras de entrada e estacionamento de motas se confirmados, distância à loja e ao centro. Não repetir o que está em viver em Long Biên (PT-0236) nem em ficar alojado em Long Biên (PT-0242).",
+      "target_words": [
+        1500,
+        2800
+      ],
+      "source_requirements": {
+        "codes": [
+          "B",
+          "X"
+        ],
+        "min_sources": 1,
+        "notes": [
+          "Dados da loja apenas através de {{tokens}} (site/data.json): preços, telefone, morada e horário nunca escritos à mão.",
+          "Entidade ou operador oficial (metro, autocarros, ferrovia, aeroporto, preços oficiais de combustível, bancos)."
+        ]
+      },
+      "pillar_url": "/zonas-de-hanoi/",
+      "required_links": [
+        "/zonas-de-hanoi/",
+        "/contactos/",
+        "/zonas-de-hanoi/aluguer-de-motas-em-long-bien/",
+        "/zonas-de-hanoi/ponte-long-bien/",
+        "/precos/entrega-da-mota-no-hotel/"
+      ],
+      "planned_links_not_live_yet": [],
+      "rewrite_reason": null
+    },
+    {
+      "id": "PT-0006",
+      "working_title": "Honda Click ou Yamaha Mio: duas scooters económicas comparadas",
+      "slug": "honda-click-ou-yamaha-mio",
+      "target_url": "/tipos-de-motas/honda-click-ou-yamaha-mio/",
+      "parent_category": "tipos-de-motas",
+      "child_category": "scooters-automaticas",
+      "primary_keyword": "honda click ou yamaha mio",
+      "secondary_keywords": [
+        "click vs mio",
+        "scooter barata hanói"
+      ],
+      "search_intent": "commercial",
+      "funnel_stage": "MOFU",
+      "content_brief": "Diferenças práticas entre dois modelos com o mesmo preço de referência e critérios de escolha por estatura, trajeto e bagagem.",
+      "target_words": [
+        1200,
+        2200
+      ],
+      "source_requirements": {
+        "codes": [
+          "B",
+          "M"
+        ],
+        "min_sources": 1,
+        "notes": [
+          "Dados da loja apenas através de {{tokens}} (site/data.json): preços, telefone, morada e horário nunca escritos à mão.",
+          "Especificações do fabricante (Honda Vietnam, Yamaha Motor Vietnam) para dados técnicos dos modelos."
         ]
       },
       "pillar_url": "/tipos-de-motas/scooters/",
       "required_links": [
         "/tipos-de-motas/scooters/",
         "/tipos-de-motas/",
-        "/guia-de-aluguer/documentacao-e-caucao/",
-        "/tipos-de-motas/telemovel-e-gps-na-scooter/",
+        "/precos/",
+        "/tipos-de-motas/honda-vision-ou-air-blade/",
+        "/tipos-de-motas/scooter-ou-semiautomatica/",
         "/precos/aluguer-de-mota-por-um-dia/"
       ],
-      "planned_links_not_live_yet": [
-        "/tipos-de-motas/scooter-com-muitos-quilometros/"
-      ],
+      "planned_links_not_live_yet": [],
       "rewrite_reason": null
     },
     {
@@ -1392,6 +1445,49 @@
       "rewrite_reason": null
     },
     {
+      "id": "PT-0024",
+      "working_title": "Scooters no Vietname e em Portugal: diferenças que vai notar",
+      "slug": "scooters-no-vietname-e-em-portugal",
+      "target_url": "/tipos-de-motas/scooters-no-vietname-e-em-portugal/",
+      "parent_category": "tipos-de-motas",
+      "child_category": "scooters-automaticas",
+      "primary_keyword": "scooter vietname diferenças",
+      "secondary_keywords": [
+        "conduzir scooter no vietname",
+        "trânsito vietname vs europa"
+      ],
+      "search_intent": "informational",
+      "funnel_stage": "TOFU",
+      "content_brief": "O que estranha quem vem de Portugal: cilindradas, uso da buzina, densidade de motas, sinalização e hábitos de circulação.",
+      "target_words": [
+        1000,
+        2000
+      ],
+      "source_requirements": {
+        "codes": [
+          "S",
+          "L"
+        ],
+        "min_sources": 2,
+        "notes": [
+          "Fonte oficial de segurança rodoviária (lei, autoridades, OMS) para afirmações sobre risco ou regras.",
+          "Legislação vietnamita em vigor (texto da lei/decreto ou base de dados jurídica reconhecida), com data de consulta."
+        ]
+      },
+      "pillar_url": "/tipos-de-motas/scooters/",
+      "required_links": [
+        "/tipos-de-motas/scooters/",
+        "/tipos-de-motas/",
+        "/guia-de-aluguer/documentacao-e-caucao/",
+        "/tipos-de-motas/telemovel-e-gps-na-scooter/",
+        "/precos/aluguer-de-mota-por-um-dia/"
+      ],
+      "planned_links_not_live_yet": [
+        "/tipos-de-motas/scooter-com-muitos-quilometros/"
+      ],
+      "rewrite_reason": null
+    },
+    {
       "id": "PT-0090",
       "working_title": "Pagar o aluguer em dong vietnamita: câmbio e notas a conhecer",
       "slug": "pagar-em-dong-vietnamita",
@@ -1471,168 +1567,6 @@
         "/guia-de-aluguer/poluicao-do-ar-e-mascara/",
         "/guia-de-aluguer/roubo-por-esticao/",
         "/guia-de-aluguer/receber-a-mota/"
-      ],
-      "planned_links_not_live_yet": [],
-      "rewrite_reason": null
-    },
-    {
-      "id": "PT-0242",
-      "working_title": "Ficar alojado em Long Biên: vantagens para quem aluga mota",
-      "slug": "ficar-alojado-em-long-bien",
-      "target_url": "/zonas-de-hanoi/ficar-alojado-em-long-bien/",
-      "parent_category": "zonas-de-hanoi",
-      "child_category": "long-bien-e-gia-lam",
-      "primary_keyword": "alojamento long biên",
-      "secondary_keywords": [
-        "hotel long biên",
-        "onde ficar hanói mota"
-      ],
-      "search_intent": "commercial",
-      "funnel_stage": "MOFU",
-      "content_brief": "Prós e contras face ao Bairro Antigo para quem vai conduzir (acessos, estacionamento, saída da cidade).",
-      "target_words": [
-        1200,
-        2200
-      ],
-      "source_requirements": {
-        "codes": [
-          "Z"
-        ],
-        "min_sources": 2,
-        "notes": [
-          "Anúncio oficial da cidade de Hanói ou imprensa de referência com data; tema sensível ao tempo — verificar à data de publicação."
-        ]
-      },
-      "pillar_url": "/zonas-de-hanoi/",
-      "required_links": [
-        "/zonas-de-hanoi/",
-        "/precos/",
-        "/zonas-de-hanoi/aluguer-de-motas-em-long-bien/",
-        "/precos/entrega-da-mota-no-hotel/"
-      ],
-      "planned_links_not_live_yet": [
-        "/zonas-de-hanoi/lagoa-do-ocean-park/"
-      ],
-      "rewrite_reason": null
-    },
-    {
-      "id": "PT-0106",
-      "working_title": "Quanto custa estacionar uma mota em Hanói",
-      "slug": "estacionamento-em-hanoi-preco",
-      "target_url": "/precos/estacionamento-em-hanoi-preco/",
-      "parent_category": "precos-e-condicoes",
-      "child_category": "entrega-e-custos-adicionais",
-      "primary_keyword": "preço estacionamento mota hanói",
-      "secondary_keywords": [
-        "parque de motas hanói preço",
-        "senha estacionamento"
-      ],
-      "search_intent": "informational",
-      "funnel_stage": "MOFU",
-      "content_brief": "Tarifas regulamentadas dos parques de motas (fonte oficial), senhas, pagamento e prevenção de cobranças abusivas.",
-      "target_words": [
-        1200,
-        2200
-      ],
-      "source_requirements": {
-        "codes": [
-          "Z",
-          "L"
-        ],
-        "min_sources": 2,
-        "notes": [
-          "Anúncio oficial da cidade de Hanói ou imprensa de referência com data; tema sensível ao tempo — verificar à data de publicação.",
-          "Legislação vietnamita em vigor (texto da lei/decreto ou base de dados jurídica reconhecida), com data de consulta."
-        ]
-      },
-      "pillar_url": "/precos/",
-      "required_links": [
-        "/precos/",
-        "/precos/capa-de-chuva-e-acessorios/"
-      ],
-      "planned_links_not_live_yet": [
-        "/precos/portagens-e-motas/",
-        "/guia-de-aluguer/perdeu-a-senha-do-parque/"
-      ],
-      "rewrite_reason": null
-    },
-    {
-      "id": "PT-0172",
-      "working_title": "Peões e zonas pedonais: conduzir com cuidado nas ruas mais movimentadas",
-      "slug": "peoes-e-zonas-pedonais",
-      "target_url": "/guia-de-aluguer/peoes-e-zonas-pedonais/",
-      "parent_category": "guia-de-aluguer",
-      "child_category": "inspecao-e-seguranca",
-      "primary_keyword": "zonas pedonais hanói mota",
-      "secondary_keywords": [
-        "rua pedonal hanói horário",
-        "peões vietname"
-      ],
-      "search_intent": "informational",
-      "funnel_stage": "TOFU",
-      "content_brief": "Como os peões atravessam em Hanói, velocidade em ruas estreitas e respeito pelas zonas pedonais com horário.",
-      "target_words": [
-        1000,
-        2000
-      ],
-      "source_requirements": {
-        "codes": [
-          "Z",
-          "S"
-        ],
-        "min_sources": 2,
-        "notes": [
-          "Anúncio oficial da cidade de Hanói ou imprensa de referência com data; tema sensível ao tempo — verificar à data de publicação.",
-          "Fonte oficial de segurança rodoviária (lei, autoridades, OMS) para afirmações sobre risco ou regras."
-        ]
-      },
-      "pillar_url": "/guia-de-aluguer/",
-      "required_links": [
-        "/guia-de-aluguer/",
-        "/guia-de-aluguer/documentacao-e-caucao/",
-        "/guia-de-aluguer/piso-molhado-e-chuva/",
-        "/guia-de-aluguer/espelhos-e-angulos-mortos/",
-        "/guia-de-aluguer/receber-a-mota/"
-      ],
-      "planned_links_not_live_yet": [],
-      "rewrite_reason": null
-    },
-    {
-      "id": "PT-0244",
-      "working_title": "Tây Hồ para quem vive em Hanói: deslocações e estacionamento de mota",
-      "slug": "tay-ho-para-quem-vive-em-hanoi",
-      "target_url": "/zonas-de-hanoi/tay-ho-para-quem-vive-em-hanoi/",
-      "parent_category": "zonas-de-hanoi",
-      "child_category": "tay-ho-e-ba-dinh",
-      "primary_keyword": "tây hồ expatriados mota",
-      "secondary_keywords": [
-        "viver tây hồ mota"
-      ],
-      "search_intent": "informational",
-      "funnel_stage": "TOFU",
-      "content_brief": "Rotinas, ruas principais, estacionamento em ruas residenciais e ligação ao aluguer mensal.",
-      "target_words": [
-        1000,
-        2000
-      ],
-      "source_requirements": {
-        "codes": [
-          "Z",
-          "B"
-        ],
-        "min_sources": 2,
-        "notes": [
-          "Anúncio oficial da cidade de Hanói ou imprensa de referência com data; tema sensível ao tempo — verificar à data de publicação.",
-          "Dados da loja apenas através de {{tokens}} (site/data.json): preços, telefone, morada e horário nunca escritos à mão."
-        ]
-      },
-      "pillar_url": "/zonas-de-hanoi/",
-      "required_links": [
-        "/zonas-de-hanoi/",
-        "/guia-de-aluguer/documentacao-e-caucao/",
-        "/zonas-de-hanoi/volta-ao-lago-oeste/",
-        "/zonas-de-hanoi/mausoleu-e-praca-ba-dinh/",
-        "/rotas-e-mobilidade/hanoi-de-mota-num-dia/"
       ],
       "planned_links_not_live_yet": [],
       "rewrite_reason": null

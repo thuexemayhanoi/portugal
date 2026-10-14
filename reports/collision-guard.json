@@ -1,6 +1,6 @@
 {
   "$comment": "Gerado por `node scripts/guard.mjs`. ALLOW_CREATE: lacuna real; UPGRADE_EXISTING: melhorar o URL existente; REVIEW_COLLISION: decisão humana (guard_reviewed: true no plano depois de rever); REJECT_DUPLICATE: não criar.",
-  "generated_at": "2026-10-13",
+  "generated_at": "2026-10-14",
   "thresholds": {
     "reject_intent": 0.75,
     "upgrade_intent": 0.6,
@@ -10,15 +10,15 @@
     "pending_review": 0.6
   },
   "counts": {
-    "REVIEW_COLLISION": 9,
-    "ALLOW_CREATE": 53
+    "ALLOW_CREATE": 62
   },
   "results": [
     {
       "id": "PT-0006",
-      "decision": "REVIEW_COLLISION",
+      "decision": "ALLOW_CREATE",
       "reasons": [
-        "semantic 0.54 with live /tipos-de-motas/yamaha-mio-em-hanoi/"
+        "semantic 0.54 with live /tipos-de-motas/yamaha-mio-em-hanoi/",
+        "collision reviewed: distinct intent (guard_reviewed)"
       ],
       "live": {
         "intent": {
@@ -378,9 +378,10 @@
     },
     {
       "id": "PT-0057",
-      "decision": "REVIEW_COLLISION",
+      "decision": "ALLOW_CREATE",
       "reasons": [
-        "semantic 0.57 with live /tipos-de-motas/regras-bicicleta-eletrica-vietname/"
+        "semantic 0.53 with live /tipos-de-motas/regras-bicicleta-eletrica-vietname/",
+        "collision reviewed: distinct intent (guard_reviewed)"
       ],
       "live": {
         "intent": {
@@ -391,7 +392,7 @@
         "semantic": {
           "id": "PT-0062",
           "url": "/tipos-de-motas/regras-bicicleta-eletrica-vietname/",
-          "semantic": 0.57
+          "semantic": 0.53
         }
       },
       "pending": {
@@ -655,7 +656,7 @@
         "semantic": {
           "id": "PT-0216",
           "url": "/zonas-de-hanoi/conduzir-no-bairro-antigo/",
-          "semantic": 0.28
+          "semantic": 0.27
         }
       },
       "pending": {
@@ -803,9 +804,9 @@
         }
       },
       "pending": {
-        "id": "PT-0039",
-        "url": "/tipos-de-motas/honda-wave-ou-honda-click/",
-        "intent": 0
+        "id": "PT-0296",
+        "url": "/rotas-e-mobilidade/tam-dao-de-mota/",
+        "intent": 0.08
       },
       "working_title": "Animais, obras e buracos: imprevistos na estrada e como reagir",
       "has_draft": false
@@ -836,9 +837,10 @@
     },
     {
       "id": "PT-0211",
-      "decision": "REVIEW_COLLISION",
+      "decision": "ALLOW_CREATE",
       "reasons": [
-        "semantic 0.42 with live /guia-de-aluguer/onde-estacionar-em-hanoi/"
+        "semantic 0.42 with live /guia-de-aluguer/onde-estacionar-em-hanoi/",
+        "collision reviewed: distinct intent (guard_reviewed)"
       ],
       "live": {
         "intent": {
@@ -862,28 +864,26 @@
     },
     {
       "id": "PT-0221",
-      "decision": "REVIEW_COLLISION",
-      "reasons": [
-        "semantic 0.54 with live /zonas-de-hanoi/ponte-long-bien/"
-      ],
+      "decision": "ALLOW_CREATE",
+      "reasons": [],
       "live": {
         "intent": {
-          "id": "PT-0229",
-          "url": "/zonas-de-hanoi/fica-no-bairro-antigo-e-quer-alugar/",
-          "intent": 0.36
+          "id": "PT-0258",
+          "url": "/zonas-de-hanoi/cidadela-imperial-de-thang-long/",
+          "intent": 0.13
         },
         "semantic": {
-          "id": "PT-0233",
-          "url": "/zonas-de-hanoi/ponte-long-bien/",
-          "semantic": 0.54
+          "id": "PT-0207",
+          "url": "/guia-de-aluguer/mota-apanhou-agua/",
+          "semantic": 0.14
         }
       },
       "pending": {
-        "id": "PT-0267",
-        "url": "/rotas-e-mobilidade/roteiro-dos-mercados/",
-        "intent": 0.3
+        "id": "PT-0235",
+        "url": "/zonas-de-hanoi/aeon-mall-long-bien/",
+        "intent": 0.18
       },
-      "working_title": "De Long Biên ao Bairro Antigo de mota: pontes e percurso",
+      "working_title": "Teatro de marionetas na água Thăng Long de mota: sessões e estacionamento",
       "has_draft": false
     },
     {
@@ -903,37 +903,35 @@
         }
       },
       "pending": {
-        "id": "PT-0221",
-        "url": "/zonas-de-hanoi/de-long-bien-ao-bairro-antigo/",
-        "intent": 0.18
+        "id": "PT-0106",
+        "url": "/precos/estacionamento-em-hanoi-preco/",
+        "intent": 0.1
       },
       "working_title": "Hotel no Bairro Antigo: onde guardar a mota durante a noite",
       "has_draft": false
     },
     {
       "id": "PT-0232",
-      "decision": "REVIEW_COLLISION",
-      "reasons": [
-        "semantic 0.52 with live /zonas-de-hanoi/aluguer-de-motas-em-long-bien/"
-      ],
+      "decision": "ALLOW_CREATE",
+      "reasons": [],
       "live": {
         "intent": {
-          "id": "PT-0229",
-          "url": "/zonas-de-hanoi/fica-no-bairro-antigo-e-quer-alugar/",
-          "intent": 0.27
+          "id": "PT-0261",
+          "url": "/rotas-e-mobilidade/hanoi-de-mota-num-dia/",
+          "intent": 0.21
         },
         "semantic": {
           "id": "PT-0231",
           "url": "/zonas-de-hanoi/aluguer-de-motas-em-long-bien/",
-          "semantic": 0.52
+          "semantic": 0.14
         }
       },
       "pending": {
-        "id": "PT-0239",
-        "url": "/zonas-de-hanoi/ecopark-de-mota/",
-        "intent": 0.21
+        "id": "PT-0235",
+        "url": "/zonas-de-hanoi/aeon-mall-long-bien/",
+        "intent": 0.44
       },
-      "working_title": "Como chegar à loja no 112 Nguyễn Văn Cừ a partir do centro",
+      "working_title": "Vinhomes Riverside de mota: acesso, portarias e estacionamento",
       "has_draft": false
     },
     {
@@ -953,9 +951,9 @@
         }
       },
       "pending": {
-        "id": "PT-0239",
-        "url": "/zonas-de-hanoi/ecopark-de-mota/",
-        "intent": 0.3
+        "id": "PT-0232",
+        "url": "/zonas-de-hanoi/vinhomes-riverside-de-mota/",
+        "intent": 0.44
       },
       "working_title": "AEON Mall Long Biên de mota: acesso e estacionamento",
       "has_draft": false
@@ -1025,9 +1023,9 @@
         }
       },
       "pending": {
-        "id": "PT-0254",
-        "url": "/zonas-de-hanoi/estacao-ferroviaria-de-hanoi/",
-        "intent": 0.17
+        "id": "PT-0232",
+        "url": "/zonas-de-hanoi/vinhomes-riverside-de-mota/",
+        "intent": 0.23
       },
       "working_title": "Lagoa do Vinhomes Ocean Park de mota: acesso, estacionamento e regras",
       "has_draft": false
@@ -1049,8 +1047,8 @@
         }
       },
       "pending": {
-        "id": "PT-0221",
-        "url": "/zonas-de-hanoi/de-long-bien-ao-bairro-antigo/",
+        "id": "PT-0235",
+        "url": "/zonas-de-hanoi/aeon-mall-long-bien/",
         "intent": 0.17
       },
       "working_title": "Ficar alojado em Long Biên: vantagens para quem aluga mota",
@@ -1082,9 +1080,10 @@
     },
     {
       "id": "PT-0246",
-      "decision": "REVIEW_COLLISION",
+      "decision": "ALLOW_CREATE",
       "reasons": [
-        "semantic 0.43 with live /rotas-e-mobilidade/roteiro-de-pagodes-e-templos/"
+        "semantic 0.43 with live /rotas-e-mobilidade/roteiro-de-pagodes-e-templos/",
+        "collision reviewed: distinct intent (guard_reviewed)"
       ],
       "live": {
         "intent": {
@@ -1239,7 +1238,7 @@
         "semantic": {
           "id": "PT-0293",
           "url": "/rotas-e-mobilidade/ha-long-sem-conduzir/",
-          "semantic": 0.14
+          "semantic": 0.15
         }
       },
       "pending": {
@@ -1300,9 +1299,10 @@
     },
     {
       "id": "PT-0267",
-      "decision": "REVIEW_COLLISION",
+      "decision": "ALLOW_CREATE",
       "reasons": [
-        "semantic 0.48 with live /zonas-de-hanoi/mercado-dong-xuan-de-mota/"
+        "semantic 0.48 with live /zonas-de-hanoi/mercado-dong-xuan-de-mota/",
+        "collision reviewed: distinct intent (guard_reviewed)"
       ],
       "live": {
         "intent": {
@@ -1317,18 +1317,19 @@
         }
       },
       "pending": {
-        "id": "PT-0221",
-        "url": "/zonas-de-hanoi/de-long-bien-ao-bairro-antigo/",
-        "intent": 0.3
+        "id": "PT-0235",
+        "url": "/zonas-de-hanoi/aeon-mall-long-bien/",
+        "intent": 0.18
       },
       "working_title": "Mercados de Hanói de mota: Đồng Xuân, Long Biên e mercados de bairro",
       "has_draft": false
     },
     {
       "id": "PT-0270",
-      "decision": "REVIEW_COLLISION",
+      "decision": "ALLOW_CREATE",
       "reasons": [
-        "semantic 0.48 with live /guia-de-aluguer/criancas-na-mota/"
+        "semantic 0.49 with live /guia-de-aluguer/criancas-na-mota/",
+        "collision reviewed: distinct intent (guard_reviewed)"
       ],
       "live": {
         "intent": {
@@ -1339,7 +1340,7 @@
         "semantic": {
           "id": "PT-0155",
           "url": "/guia-de-aluguer/criancas-na-mota/",
-          "semantic": 0.48
+          "semantic": 0.49
         }
       },
       "pending": {
@@ -1496,28 +1497,26 @@
     },
     {
       "id": "PT-0296",
-      "decision": "REVIEW_COLLISION",
-      "reasons": [
-        "intent 0.45 with live /guia-de-aluguer/avaria-longe-de-hanoi/"
-      ],
+      "decision": "ALLOW_CREATE",
+      "reasons": [],
       "live": {
         "intent": {
-          "id": "PT-0215",
-          "url": "/guia-de-aluguer/avaria-longe-de-hanoi/",
-          "intent": 0.45
+          "id": "PT-0283",
+          "url": "/rotas-e-mobilidade/nevoeiro-nas-estradas-de-montanha/",
+          "intent": 0.21
         },
         "semantic": {
-          "id": "PT-0147",
-          "url": "/guia-de-aluguer/autorizacao-para-sair-de-hanoi/",
+          "id": "PT-0283",
+          "url": "/rotas-e-mobilidade/nevoeiro-nas-estradas-de-montanha/",
           "semantic": 0.2
         }
       },
       "pending": {
-        "id": "PT-0036",
-        "url": "/tipos-de-motas/testar-mudancas-da-semiautomatica/",
-        "intent": 0.2
+        "id": "PT-0195",
+        "url": "/guia-de-aluguer/imprevistos-na-estrada/",
+        "intent": 0.08
       },
-      "working_title": "Sair de Hanói de mota: o que preparar antes de partir",
+      "working_title": "Tam Đảo de mota a partir de Hanói: estrada de montanha e clima",
       "has_draft": false
     }
   ]

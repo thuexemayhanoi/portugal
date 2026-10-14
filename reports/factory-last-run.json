@@ -1,42 +1,18 @@
 {
   "command": "approve",
-  "run_on": "2026-10-13",
+  "run_on": "2026-10-14",
   "status": "ACTIVE",
-  "published_total": 237,
+  "published_total": 238,
   "in_review": [],
   "processed": [
     {
-      "id": "PT-0208",
-      "result": "UPDATE",
-      "warnings": []
-    },
-    {
-      "id": "PT-0227",
-      "result": "UPDATE",
-      "warnings": []
-    },
-    {
-      "id": "PT-0230",
-      "result": "UPDATE",
-      "warnings": []
-    },
-    {
-      "id": "PT-0266",
-      "result": "UPDATE",
-      "warnings": []
-    },
-    {
-      "id": "PT-0283",
-      "result": "UPDATE",
+      "id": "PT-0039",
+      "result": "PUBLISH",
       "warnings": []
     }
   ],
   "published": [
-    "PT-0208",
-    "PT-0227",
-    "PT-0230",
-    "PT-0266",
-    "PT-0283"
+    "PT-0039"
   ],
   "failed": []
 }
