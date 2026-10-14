@@ -1,0 +1,51 @@
+name: Temporary Quick Call WhatsApp QA
+on:
+  push:
+    branches: [fix/pt-quickcall-whatsapp-20261014]
+    paths: [.github/workflows/pt-whatsapp-qa-temp.yml]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: pt-whatsapp-quickcall-20261014
+  cancel-in-progress: false
+
+jobs:
+  build-and-check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v5
+        with:
+          node-version: '22'
+      - name: Syntax
+        run: node --check scripts/build.mjs && node --check scripts/lib/layout.mjs
+      - name: Rebuild from business data
+        run: npm run build
+      - name: Verify generated pages and SEO
+        run: npm run check
+      - name: Tests including Quick Call WhatsApp
+        run: npm test
+      - name: Verify WhatsApp link and preserved widgets
+        run: |
+          grep -q 'href="https://wa.me/84942467674"' index.html
+          grep -q 'aria-label="Contactar no WhatsApp"' index.html
+          grep -q 'id="quick-contact"' index.html
+          grep -q 'id="chat-fab"' index.html
+          ! grep -q 'class="float-contact"' index.html
+      - name: Commit generated HTML and assets
+        run: |
+          git config user.name "pt-whatsapp-qa-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -u
+          if git diff --cached --quiet; then
+            echo "No generated changes"
+            exit 0
+          fi
+          git commit -m "build(pt): publish WhatsApp Quick Call across 300 article pages"
+          git push origin HEAD:fix/pt-quickcall-whatsapp-20261014
