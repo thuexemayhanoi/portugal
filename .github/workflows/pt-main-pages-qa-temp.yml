@@ -1,0 +1,74 @@
+name: Temporary Main Pages NAP Pricing QA
+on:
+  push:
+    branches: [feat/pt-main-pages-contact-pricing-20261014]
+    paths: [.github/workflows/pt-main-pages-qa-temp.yml]
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: pt-main-pages-nap-pricing-20261014
+  cancel-in-progress: false
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 28
+    steps:
+      - uses: actions/checkout@v5
+        with: { fetch-depth: 0 }
+      - uses: actions/setup-node@v5
+        with: { node-version: '22' }
+      - name: Syntax and full static rebuild
+        run: |
+          node --check scripts/lib/text.mjs
+          npm run build
+      - name: Main-page NAP and prices, strict article no-change guard
+        run: |
+          node --input-type=module <<'NODE'
+          import fs from 'node:fs';
+          import assert from 'node:assert/strict';
+          import {execFileSync} from 'node:child_process';
+          import {formatVND} from './scripts/lib/util.mjs';
+          const d = JSON.parse(fs.readFileSync('site/data.json','utf8'));
+          const b = d.business;
+          const ids = ['inicio','contactos','precos','tipos-de-motas','scooters','motas-50cc',
+             'guia-de-aluguer','documentacao-e-caucao','perguntas-frequentes','sobre-nos',
+             'politica-de-privacidade','termos-e-condicoes'];
+          for(const id of ids){
+            const json=JSON.parse(fs.readFileSync('content/pages/'+id+'.json','utf8'));
+            const html=fs.readFileSync(json.url==='/'?'index.html':json.url.replace(/^\//,'')+'index.html','utf8');
+            const main=html.match(/<main\b[^>]*>([\s\S]*?)<\/main>/i)?.[1]||'';
+            assert.ok(main.includes(b.phone.display),'missing phone in content '+id);
+            assert.ok(main.includes(b.whatsapp.url),'missing WhatsApp CTA in content '+id);
+            assert.ok(main.includes(b.address.display),'missing official address in content '+id);
+            assert.ok(main.includes(b.hours.display)||main.includes(b.hours.label),'missing hours in content '+id);
+          }
+          const prices=fs.readFileSync('precos/index.html','utf8');
+          for(const model of ['wave','vision','cc50']){
+            const m=d.pricing.models.find(v=>v.id===model);
+            assert.ok(prices.includes(formatVND(m.day)),'missing day price '+model);
+          }
+          assert.ok(/sob consulta/i.test(prices),'electric on-request marker missing');
+          const allPosts=fs.readdirSync('content/articles').filter(f=>/^PT-\d{4}\.json$/.test(f));
+          assert.equal(allPosts.length,300,'published article count drift');
+          const articlePages=allPosts.map(f=>{const a=JSON.parse(fs.readFileSync('content/articles/'+f,'utf8')); return a.url.replace(/^\//,'')+'index.html';});
+          const diff=execFileSync('git',['diff','--name-only','8f89c4c0e697037af7fd1bc3970a1b9542898a7b','--','content/articles',...articlePages],{encoding:'utf8'});
+          assert.equal(diff.trim(),'','Article sources or generated article HTML changed: '+diff);
+          console.log('PASS: 12 main pages, official NAP + WhatsApp, verified prices, 300 article sources and HTML unchanged');
+          NODE
+      - name: Full SEO and unit tests
+        run: |
+          npm run check
+          npm test
+      - name: Commit regenerated main pages, not articles
+        run: |
+          git config user.name "pt-main-pages-qa-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -u -- '*.html' assets/search-index.json assets/chat/search-index.json sitemap.xml robots.txt llms.txt
+          if git diff --cached --quiet; then
+            echo "No output changes"
+            exit 0
+          fi
+          git diff --cached --name-only
+          git commit -m "build(pt): publish canonical contacts and prices on main pages only"
+          git push origin HEAD:feat/pt-main-pages-contact-pricing-20261014
