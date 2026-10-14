@@ -17,7 +17,7 @@
       "body": [
         "**{{name}}** é o nome oficial da loja de aluguer de motas que apresentamos neste website. Usamos também **{{display}}** na comunicação em português. Embora os nomes apareçam em línguas diferentes, referem-se ao mesmo negócio, com os mesmos contactos e a mesma localização em Hanói, Vietname.",
         "A morada indicada é **{{address}}**. Para mostrar o endereço a um motorista de táxi ou usar uma aplicação local, pode copiar a versão vietnamita: **{{address.vi}}**. A designação no Google Maps é [{{gbp}}]({{maps}}), e recomendamos confirmar o destino no mapa antes de se deslocar.",
-        "O telefone de contacto é **{{phone}}**, e a loja disponibiliza contacto por Zalo. O horário indicado é **{{hours.display}}**. Estes elementos são mantidos de forma centralizada no website para evitar que uma página antiga mostre contactos diferentes de outra. Consulte a página [Contactos](/contactos/) para escolher a forma mais conveniente de falar com a loja."
+        "O telefone oficial é **{{phone}}**, também disponível por [Zalo]({{zalo}}) e [WhatsApp](https://wa.me/84942467674). O horário é **{{hours.display}}**. Estes dados são mantidos de forma centralizada; consulte [Contactos](/contactos/) para todas as opções de contacto."
       ]
     },
     {
@@ -31,7 +31,7 @@
     {
       "h2": "Preços de referência e orçamento individual",
       "body": [
-        "Publicamos [preços de referência](/precos/) quando existe informação confirmada da loja para determinado tipo de aluguer. Os valores são uma ajuda para planear uma viagem, mas não substituem uma confirmação para as datas, a duração e o modelo pretendidos. A disponibilidade também deve ser confirmada diretamente.",
+        "A loja publica [preços de referência](/precos/) por modelo: Honda Wave e Yamaha Sirius {{price.wave.day}}/dia; Honda Vision e Honda Air Blade {{price.vision.day}}/dia; mota de 50 cc {{price.cc50.day}}/dia. Motas e bicicletas elétricas: sob consulta. A disponibilidade e o preço final para o período devem ser confirmados diretamente com a loja.",
         "O custo final pode depender do período de aluguer e de condições acordadas para a situação concreta. O preço por dia, por semana e por mês não é necessariamente calculado multiplicando o mesmo valor. Da mesma forma, uma descrição geral de categoria não significa que todos os veículos tenham a mesma tarifa.",
         "Para evitar mal-entendidos, recomendamos que o cliente indique datas, tipo de mota, eventual experiência de condução e local pretendido para a entrega ou recolha. A loja poderá então confirmar um orçamento apropriado. Não publicamos promoções, isenções de caução nem condições especiais sem confirmação expressa."
       ]
@@ -105,6 +105,15 @@
       "body": [
         "Para uma proposta concreta, diga à loja quando pretende começar o aluguer, durante quanto tempo, que categoria de mota procura e quais são as suas dúvidas sobre os documentos e o percurso. A resposta deve esclarecer as condições aplicáveis à sua situação antes de aceitar um veículo.",
         "O contacto principal é **{{phone}}**, por telefone ou Zalo, e a morada é **{{address}}**. O horário publicado é **{{hours.display}}**. Consulte os dados atualizados em [Contactos](/contactos/) ou abra a [localização no Google Maps]({{maps}}). Se preferir continuar a pesquisar, regresse à [página inicial](/) para explorar os guias."
+      ]
+    },
+    {
+      "h2": "Contactos oficiais e confirmação",
+      "body": [
+        {
+          "component": "contact-card",
+          "note": "Encontre-nos em Long Biên ou contacte-nos por telefone, Zalo ou WhatsApp; para valores publicados consulte [Preços](/precos/)."
+        }
       ]
     }
   ],

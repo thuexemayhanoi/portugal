@@ -10,7 +10,7 @@
   "primaryKeyword": "aluguer de motas de 50 cc em hanói",
   "eyebrow": "Tipos de motas · 50 cc",
   "lead": "Leves e pouco potentes, as motas de 50 cc servem para trajetos curtos. Veja o preço de referência, as limitações e as regras que deve confirmar antes de conduzir.",
-  "updated": "2026-10-12",
+  "updated": "2026-10-14",
   "toc": true,
   "answer": "O aluguer de uma mota ou scooter de 50 cc custa {{price.cc50.day}} por dia na tabela de referência da loja; semanas e meses são cotados caso a caso. É uma opção para trajetos curtos e velocidades baixas. A lei vietnamita trata estes veículos de forma própria, mas não assuma que dispensam documentos: confirme os requisitos antes de conduzir.",
   "sections": [
@@ -63,6 +63,15 @@
       "body": [
         "É comum ler que «não é preciso carta para uma 50 cc». Não use essa frase como regra: os requisitos dependem do veículo, da idade e da sua situação como visitante, e a lei pode mudar. Antes de conduzir, confirme as regras em fontes oficiais e verifique se o seu seguro de viagem cobre a condução deste tipo de veículo.",
         "Há obrigações que se aplicam sempre: capacete apertado para quem conduz e para o passageiro, zero álcool e respeito pelas regras de trânsito. Leia também [Documentação e caução](/guia-de-aluguer/documentacao-e-caucao/)."
+      ]
+    },
+    {
+      "h2": "Contactos oficiais e confirmação",
+      "body": [
+        {
+          "component": "contact-card",
+          "note": "A referência publicada é {{price.cc50.day}} por dia; semanas e meses são sob consulta e não se calculam multiplicando a diária."
+        }
       ]
     }
   ],

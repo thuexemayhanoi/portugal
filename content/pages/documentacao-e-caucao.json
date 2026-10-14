@@ -85,9 +85,18 @@
             "Carta de condução válida para motociclos.",
             "Licença internacional de condução reconhecida no Vietname.",
             "Passaporte ou outro documento de identificação.",
-            "Telemóvel com o número da loja guardado: {{phone}}.",
+            "Telemóvel com o número oficial da loja guardado: {{phone}} (chamadas, Zalo e WhatsApp).",
             "Confirmação escrita do preço, da caução e das condições."
           ]
+        }
+      ]
+    },
+    {
+      "h2": "Contactos oficiais e confirmação",
+      "body": [
+        {
+          "component": "contact-card",
+          "note": "O montante da caução e os documentos exigidos são confirmados para cada aluguer. Consulte também [Preços](/precos/) para as tarifas de referência."
         }
       ]
     }
